@@ -1,6 +1,7 @@
 package app.pocketbible
 
 import android.os.Bundle
+import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatDelegate
@@ -49,6 +50,9 @@ class MainActivity : ComponentActivity() {
                 AppScaffold(
                     viewModel = viewModel,
                     onLanguageSelected = { tag ->
+                        // Shown in the language that's about to be replaced, since the
+                        // switch (and recreate()) hasn't happened yet at this point.
+                        Toast.makeText(this, getString(R.string.language_restarting), Toast.LENGTH_SHORT).show()
                         val locales = if (tag == null) {
                             LocaleListCompat.getEmptyLocaleList()
                         } else {

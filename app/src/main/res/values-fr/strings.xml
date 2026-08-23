@@ -7,6 +7,7 @@
 
     <string name="language_button">Langue</string>
     <string name="language_system_default">Système par défaut</string>
+    <string name="language_restarting">Redémarrage pour changer de langue…</string>
 
     <string name="home_title">Comment va ton cœur aujourd\'hui ?</string>
     <string name="home_subtitle">Choisis ce qui te convient, ou recherche un mot ou un sentiment.</string>

@@ -7,6 +7,7 @@
 
     <string name="language_button">भाषा</string>
     <string name="language_system_default">सिस्टम डिफ़ॉल्ट</string>
+    <string name="language_restarting">भाषा बदलने के लिए ऐप पुनः प्रारंभ हो रहा है…</string>
 
     <string name="home_title">आज आपका दिल कैसा है?</string>
     <string name="home_subtitle">जो उपयुक्त हो उसे चुनें, या किसी शब्द या भावना को खोजें।</string>

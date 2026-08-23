@@ -9,6 +9,7 @@
     <!-- Language switcher -->
     <string name="language_button">Language</string>
     <string name="language_system_default">System default</string>
+    <string name="language_restarting">Restarting to switch language…</string>
 
     <!-- Home / topics tab -->
     <string name="home_title">How is your heart today?</string>

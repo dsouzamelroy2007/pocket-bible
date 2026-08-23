@@ -7,6 +7,7 @@
 
     <string name="language_button">Sprache</string>
     <string name="language_system_default">Systemstandard</string>
+    <string name="language_restarting">Wird neu gestartet, um die Sprache zu wechseln…</string>
 
     <string name="home_title">Wie geht es deinem Herzen heute?</string>
     <string name="home_subtitle">Wähle, was passt, oder suche nach einem Wort oder Gefühl.</string>

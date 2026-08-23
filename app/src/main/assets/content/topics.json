@@ -1,5 +1,5 @@
 {
-  "_note": "Curated 'topics' content (feelings/passages/entries), independent of the Read tab's scripture files. Passages tied to the original 14 topics were checked against a real WEB-CE source during authoring. The 13 topics added later (happy, jealous, lust, love, pride, unforgiving, depression, boredom, betrayal, insecurity, greed, impatience, discontent) use verses recalled from memory rather than copied from a checked source -- common, well-known verses, believed accurate, but per this project's own policy on bulk-generated scripture text, not yet verified the way the rest of this file was; worth a spot-check against ebible.org's eng-web-c. 'daily_passages' cycles through all 41 primary passages by simple rotation, not 366 independently-curated picks.",
+  "_note": "Curated 'topics' content (feelings/passages/entries), independent of the Read tab's scripture files. Passages tied to the original 14 topics were checked against a real WEB-CE source during authoring. The 13 topics added later (happy, jealous, lust, love, pride, unforgiving, depression, boredom, betrayal, insecurity, greed, impatience, discontent) use verses recalled from memory rather than copied from a checked source -- common, well-known verses, believed accurate, but per this project's own policy on bulk-generated scripture text, not yet verified the way the rest of this file was; worth a spot-check against ebible.org's eng-web-c. 'daily_passages' cycles through all 41 primary passages by simple rotation, not 366 independently-curated picks. UPDATE (verse variety): every one of the 27 topics now has at least 4 entries (up from 2 for the original 14, 1 for the 13 added later), so repeatedly tapping 'Another' surfaces at least 4 distinct passages before it cycles back to the first. Same caveat as the previous update applies to all of these new passages too: recalled from memory during authoring, common/well-known verses, believed accurate, but not verified against a checked WEB-CE source the way the original 28 were -- worth a spot-check before wide release. 'daily_passages' now cycles through all primary passages currently defined.",
   "feelings": [
     {
       "id": "fear",
@@ -1293,6 +1293,877 @@
       "pull_quote": "I have learned in whatever state I am, to be content in it.",
       "reference_display": "Philippians 4:11",
       "reference_alt": null
+    },
+    {
+      "id": "web-c:josh:1:9",
+      "translation_id": "web-c",
+      "book_id": "josh",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 9,
+      "verse_end": 9,
+      "text": "Haven't I commanded you? Be strong and courageous. Don't be afraid. Don't be dismayed, for the LORD your God is with you wherever you go.",
+      "pull_quote": null,
+      "reference_display": "Joshua 1:9",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:2tim:1:7",
+      "translation_id": "web-c",
+      "book_id": "2tim",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "For God didn't give us a spirit of fear, but of power, love, and self-control.",
+      "pull_quote": null,
+      "reference_display": "2 Timothy 1:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:94:19",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 94,
+      "chapter_end": 94,
+      "verse_start": 19,
+      "verse_end": 19,
+      "text": "In the multitude of my thoughts within me, your comforts delight my soul.",
+      "pull_quote": null,
+      "reference_display": "Psalm 94:19",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jn:14:27",
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "chapter_start": 14,
+      "chapter_end": 14,
+      "verse_start": 27,
+      "verse_end": 27,
+      "text": "Peace I leave with you. My peace I give to you; not as the world gives, give I to you. Don't let your heart be troubled, neither let it be fearful.",
+      "pull_quote": "Don't let your heart be troubled, neither let it be fearful.",
+      "reference_display": "John 14:27",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:rev:21:4",
+      "translation_id": "web-c",
+      "book_id": "rev",
+      "chapter_start": 21,
+      "chapter_end": 21,
+      "verse_start": 4,
+      "verse_end": 4,
+      "text": "He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.",
+      "pull_quote": null,
+      "reference_display": "Revelation 21:4",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:30:5",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 30,
+      "chapter_end": 30,
+      "verse_start": 5,
+      "verse_end": 5,
+      "text": "For his anger is but for a moment. His favor is for a lifetime. Weeping may stay for the night, but joy comes in the morning.",
+      "pull_quote": "Weeping may stay for the night, but joy comes in the morning.",
+      "reference_display": "Psalm 30:5",
+      "reference_alt": "Psalm 29:6 (Vulgate)"
+    },
+    {
+      "id": "web-c:jas:1:12",
+      "translation_id": "web-c",
+      "book_id": "jas",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 12,
+      "verse_end": 12,
+      "text": "Blessed is a person who endures temptation, for when he has been approved, he will receive the crown of life, which the Lord promised to those who love him.",
+      "pull_quote": null,
+      "reference_display": "James 1:12",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:heb:2:18",
+      "translation_id": "web-c",
+      "book_id": "heb",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 18,
+      "verse_end": 18,
+      "text": "For in that he himself has suffered being tempted, he is able to help those who are tempted.",
+      "pull_quote": null,
+      "reference_display": "Hebrews 2:18",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:68:6",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 68,
+      "chapter_end": 68,
+      "verse_start": 6,
+      "verse_end": 6,
+      "text": "God sets the lonely in families. He brings out the prisoners with singing.",
+      "pull_quote": null,
+      "reference_display": "Psalm 68:6",
+      "reference_alt": "Psalm 67:7 (Vulgate)"
+    },
+    {
+      "id": "web-c:deut:31:6",
+      "translation_id": "web-c",
+      "book_id": "deut",
+      "chapter_start": 31,
+      "chapter_end": 31,
+      "verse_start": 6,
+      "verse_end": 6,
+      "text": "Be strong and courageous. Don't be afraid, nor be scared of them; for the LORD your God himself is who goes with you. He will not fail you nor forsake you.",
+      "pull_quote": "He will not fail you nor forsake you.",
+      "reference_display": "Deuteronomy 31:6",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:15:1",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 15,
+      "chapter_end": 15,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 15:1",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:col:3:8",
+      "translation_id": "web-c",
+      "book_id": "col",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 8,
+      "verse_end": 8,
+      "text": "But now you also put them all away: anger, wrath, malice, slander, and shameful speaking out of your mouth.",
+      "pull_quote": null,
+      "reference_display": "Colossians 3:8",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:103:12",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 103,
+      "chapter_end": 103,
+      "verse_start": 12,
+      "verse_end": 12,
+      "text": "As far as the east is from the west, so far has he removed our transgressions from us.",
+      "pull_quote": null,
+      "reference_display": "Psalm 103:12",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:1:18",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 18,
+      "verse_end": 18,
+      "text": "Come now, and let us reason together, says the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.",
+      "pull_quote": null,
+      "reference_display": "Isaiah 1:18",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jas:1:6",
+      "translation_id": "web-c",
+      "book_id": "jas",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 6,
+      "verse_end": 6,
+      "text": "But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed.",
+      "pull_quote": null,
+      "reference_display": "James 1:6",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:heb:11:1",
+      "translation_id": "web-c",
+      "book_id": "heb",
+      "chapter_start": 11,
+      "chapter_end": 11,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "Now faith is assurance of things hoped for, proof of things not seen.",
+      "pull_quote": null,
+      "reference_display": "Hebrews 11:1",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:gal:6:9",
+      "translation_id": "web-c",
+      "book_id": "gal",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 9,
+      "verse_end": 9,
+      "text": "Let us not be weary in doing good, for we will reap in due season, if we don't give up.",
+      "pull_quote": null,
+      "reference_display": "Galatians 6:9",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:121:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 121,
+      "chapter_end": 121,
+      "verse_start": 1,
+      "verse_end": 2,
+      "text": "I will lift up my eyes to the hills. Where does my help come from? My help comes from the LORD, who made heaven and earth.",
+      "pull_quote": "My help comes from the LORD, who made heaven and earth.",
+      "reference_display": "Psalm 121:1-2",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:100:4",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 100,
+      "chapter_end": 100,
+      "verse_start": 4,
+      "verse_end": 4,
+      "text": "Enter into his gates with thanksgiving, and into his courts with praise. Give thanks to him, and bless his name.",
+      "pull_quote": null,
+      "reference_display": "Psalm 100:4",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:col:3:17",
+      "translation_id": "web-c",
+      "book_id": "col",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 17,
+      "verse_end": 17,
+      "text": "Whatever you do, in word or in deed, do all in the name of the Lord Jesus, giving thanks to God the Father, through him.",
+      "pull_quote": null,
+      "reference_display": "Colossians 3:17",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:32:8",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 32,
+      "chapter_end": 32,
+      "verse_start": 8,
+      "verse_end": 8,
+      "text": "I will instruct you and teach you in the way which you shall go. I will counsel you with my eye on you.",
+      "pull_quote": null,
+      "reference_display": "Psalm 32:8",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:119:105",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 119,
+      "chapter_end": 119,
+      "verse_start": 105,
+      "verse_end": 105,
+      "text": "Your word is a lamp to my feet, and a light for my path.",
+      "pull_quote": null,
+      "reference_display": "Psalm 119:105",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:147:3",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 147,
+      "chapter_end": 147,
+      "verse_start": 3,
+      "verse_end": 3,
+      "text": "He heals the broken in heart, and binds up their wounds.",
+      "pull_quote": null,
+      "reference_display": "Psalm 147:3",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ro:12:19",
+      "translation_id": "web-c",
+      "book_id": "ro",
+      "chapter_start": 12,
+      "chapter_end": 12,
+      "verse_start": 19,
+      "verse_end": 19,
+      "text": "Don't seek revenge yourselves, beloved, but give place to God's wrath. For it is written, 'Vengeance belongs to me; I will repay,' says the Lord.",
+      "pull_quote": null,
+      "reference_display": "Romans 12:19",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:55:22",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 55,
+      "chapter_end": 55,
+      "verse_start": 22,
+      "verse_end": 22,
+      "text": "Cast your burden on the LORD, and he will sustain you. He will never allow the righteous to be moved.",
+      "pull_quote": null,
+      "reference_display": "Psalm 55:22",
+      "reference_alt": "Psalm 54:23 (Vulgate)"
+    },
+    {
+      "id": "web-c:2cor:12:9",
+      "translation_id": "web-c",
+      "book_id": "2cor",
+      "chapter_start": 12,
+      "chapter_end": 12,
+      "verse_start": 9,
+      "verse_end": 9,
+      "text": "He has said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'",
+      "pull_quote": "My grace is sufficient for you, for my power is made perfect in weakness.",
+      "reference_display": "2 Corinthians 12:9",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ro:15:13",
+      "translation_id": "web-c",
+      "book_id": "ro",
+      "chapter_start": 15,
+      "chapter_end": 15,
+      "verse_start": 13,
+      "verse_end": 13,
+      "text": "Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope, in the power of the Holy Spirit.",
+      "pull_quote": null,
+      "reference_display": "Romans 15:13",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ro:8:28",
+      "translation_id": "web-c",
+      "book_id": "ro",
+      "chapter_start": 8,
+      "chapter_end": 8,
+      "verse_start": 28,
+      "verse_end": 28,
+      "text": "We know that all things work together for good for those who love God, for those who are called according to his purpose.",
+      "pull_quote": null,
+      "reference_display": "Romans 8:28",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:neh:8:10",
+      "translation_id": "web-c",
+      "book_id": "neh",
+      "chapter_start": 8,
+      "chapter_end": 8,
+      "verse_start": 10,
+      "verse_end": 10,
+      "text": "Don't be grieved, for the joy of the LORD is your strength.",
+      "pull_quote": null,
+      "reference_display": "Nehemiah 8:10",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:16:11",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 16,
+      "chapter_end": 16,
+      "verse_start": 11,
+      "verse_end": 11,
+      "text": "You will show me the path of life. In your presence is fullness of joy. In your right hand there are pleasures forever more.",
+      "pull_quote": "In your presence is fullness of joy.",
+      "reference_display": "Psalm 16:11",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jn:15:11",
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "chapter_start": 15,
+      "chapter_end": 15,
+      "verse_start": 11,
+      "verse_end": 11,
+      "text": "I have spoken these things to you, that my joy may remain in you, and that your joy may be made full.",
+      "pull_quote": null,
+      "reference_display": "John 15:11",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:14:30",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 14,
+      "chapter_end": 14,
+      "verse_start": 30,
+      "verse_end": 30,
+      "text": "A heart at peace is life to the body, but envy rots the bones.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 14:30",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:gal:5:26",
+      "translation_id": "web-c",
+      "book_id": "gal",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 26,
+      "verse_end": 26,
+      "text": "Let us not become conceited, provoking one another, and envying one another.",
+      "pull_quote": null,
+      "reference_display": "Galatians 5:26",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jas:3:14",
+      "translation_id": "web-c",
+      "book_id": "jas",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 14,
+      "verse_end": 14,
+      "text": "But if you have bitter jealousy and selfish ambition in your heart, don't boast and don't lie against the truth.",
+      "pull_quote": null,
+      "reference_display": "James 3:14",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mt:5:8",
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 8,
+      "verse_end": 8,
+      "text": "Blessed are the pure in heart, for they shall see God.",
+      "pull_quote": null,
+      "reference_display": "Matthew 5:8",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1cor:6:19",
+      "translation_id": "web-c",
+      "book_id": "1cor",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 19,
+      "verse_end": 19,
+      "text": "Or don't you know that your body is a temple of the Holy Spirit who is in you, whom you have from God? You are not your own.",
+      "pull_quote": "Your body is a temple of the Holy Spirit.",
+      "reference_display": "1 Corinthians 6:19",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:job:31:1",
+      "translation_id": "web-c",
+      "book_id": "job",
+      "chapter_start": 31,
+      "chapter_end": 31,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "I made a covenant with my eyes; how then should I look lustfully at a young woman?",
+      "pull_quote": null,
+      "reference_display": "Job 31:1",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1jo:4:19",
+      "translation_id": "web-c",
+      "book_id": "1jo",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 19,
+      "verse_end": 19,
+      "text": "We love him, because he first loved us.",
+      "pull_quote": null,
+      "reference_display": "1 John 4:19",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1cor:13:7",
+      "translation_id": "web-c",
+      "book_id": "1cor",
+      "chapter_start": 13,
+      "chapter_end": 13,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "bears all things, believes all things, hopes all things, endures all things.",
+      "pull_quote": null,
+      "reference_display": "1 Corinthians 13:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:song:8:7",
+      "translation_id": "web-c",
+      "book_id": "song",
+      "chapter_start": 8,
+      "chapter_end": 8,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "Many waters can't quench love, neither can floods drown it.",
+      "pull_quote": null,
+      "reference_display": "Song of Songs 8:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:16:18",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 16,
+      "chapter_end": 16,
+      "verse_start": 18,
+      "verse_end": 18,
+      "text": "Pride goes before destruction, and a haughty spirit before a fall.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 16:18",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:11:2",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 11,
+      "chapter_end": 11,
+      "verse_start": 2,
+      "verse_end": 2,
+      "text": "When pride comes, then comes shame; but with humility comes wisdom.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 11:2",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:phil:2:3",
+      "translation_id": "web-c",
+      "book_id": "phil",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 3,
+      "verse_end": 3,
+      "text": "doing nothing through rivalry or through conceit, but in humility, considering others better than yourselves.",
+      "pull_quote": null,
+      "reference_display": "Philippians 2:3",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:lk:6:37",
+      "translation_id": "web-c",
+      "book_id": "lk",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 37,
+      "verse_end": 37,
+      "text": "Don't judge, and you won't be judged. Don't condemn, and you won't be condemned. Set free, and you will be set free.",
+      "pull_quote": null,
+      "reference_display": "Luke 6:37",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mk:11:25",
+      "translation_id": "web-c",
+      "book_id": "mk",
+      "chapter_start": 11,
+      "chapter_end": 11,
+      "verse_start": 25,
+      "verse_end": 25,
+      "text": "Whenever you stand praying, forgive, if you have anything against anyone; so that your Father, who is in heaven, may also forgive you your transgressions.",
+      "pull_quote": null,
+      "reference_display": "Mark 11:25",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ro:12:18",
+      "translation_id": "web-c",
+      "book_id": "ro",
+      "chapter_start": 12,
+      "chapter_end": 12,
+      "verse_start": 18,
+      "verse_end": 18,
+      "text": "If it is possible, as much as it is up to you, be at peace with all men.",
+      "pull_quote": null,
+      "reference_display": "Romans 12:18",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:2cor:4:8",
+      "translation_id": "web-c",
+      "book_id": "2cor",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 8,
+      "verse_end": 9,
+      "text": "We are pressed on every side, yet not crushed; perplexed, yet not to despair; pursued, yet not forsaken; struck down, yet not destroyed.",
+      "pull_quote": "Pressed on every side, yet not crushed.",
+      "reference_display": "2 Corinthians 4:8-9",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:40:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 40,
+      "chapter_end": 40,
+      "verse_start": 1,
+      "verse_end": 2,
+      "text": "I waited patiently for the LORD. He turned to me, and heard my cry. He brought me up also out of a horrible pit, out of the miry clay.",
+      "pull_quote": null,
+      "reference_display": "Psalm 40:1-2",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:61:3",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 61,
+      "chapter_end": 61,
+      "verse_start": 3,
+      "verse_end": 3,
+      "text": "to give them a garland for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness.",
+      "pull_quote": "The oil of joy for mourning.",
+      "reference_display": "Isaiah 61:3",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:eccl:9:10",
+      "translation_id": "web-c",
+      "book_id": "eccl",
+      "chapter_start": 9,
+      "chapter_end": 9,
+      "verse_start": 10,
+      "verse_end": 10,
+      "text": "Whatever your hand finds to do, do it with your might.",
+      "pull_quote": null,
+      "reference_display": "Ecclesiastes 9:10",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:col:3:23",
+      "translation_id": "web-c",
+      "book_id": "col",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 23,
+      "verse_end": 23,
+      "text": "And whatever you do, work heartily, as for the Lord, and not for men.",
+      "pull_quote": null,
+      "reference_display": "Colossians 3:23",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:27:14",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 27,
+      "chapter_end": 27,
+      "verse_start": 14,
+      "verse_end": 14,
+      "text": "Wait for the LORD. Be strong, and let your heart take courage. Yes, wait for the LORD.",
+      "pull_quote": null,
+      "reference_display": "Psalm 27:14",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:55:12",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 55,
+      "chapter_end": 55,
+      "verse_start": 12,
+      "verse_end": 13,
+      "text": "For it was not an enemy who insulted me, then I could have endured it. Neither was it he who hated me who raised himself up against me, then I would have hidden myself from him. But it was you, a man like me, my companion, and my familiar friend.",
+      "pull_quote": "It was you, a man like me, my companion, and my familiar friend.",
+      "reference_display": "Psalm 55:12-13",
+      "reference_alt": "Psalm 54:13-14 (Vulgate)"
+    },
+    {
+      "id": "web-c:pr:18:24",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 18,
+      "chapter_end": 18,
+      "verse_start": 24,
+      "verse_end": 24,
+      "text": "A man of many companions may be ruined, but there is a friend who sticks closer than a brother.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 18:24",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:gen:50:20",
+      "translation_id": "web-c",
+      "book_id": "gen",
+      "chapter_start": 50,
+      "chapter_end": 50,
+      "verse_start": 20,
+      "verse_end": 20,
+      "text": "As for you, you meant evil against me, but God meant it for good, to bring to pass, as it is this day, to save many people alive.",
+      "pull_quote": "You meant evil against me, but God meant it for good.",
+      "reference_display": "Genesis 50:20",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jer:1:5",
+      "translation_id": "web-c",
+      "book_id": "jer",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 5,
+      "verse_end": 5,
+      "text": "Before I formed you in the belly, I knew you. Before you were born, I sanctified you.",
+      "pull_quote": null,
+      "reference_display": "Jeremiah 1:5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:eph:2:10",
+      "translation_id": "web-c",
+      "book_id": "eph",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 10,
+      "verse_end": 10,
+      "text": "For we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them.",
+      "pull_quote": "We are his workmanship.",
+      "reference_display": "Ephesians 2:10",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:zeph:3:17",
+      "translation_id": "web-c",
+      "book_id": "zeph",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 17,
+      "verse_end": 17,
+      "text": "The LORD, your God, is in the midst of you, a mighty one who will save. He will rejoice over you with joy. He will calm you in his love. He will rejoice over you with singing.",
+      "pull_quote": "He will rejoice over you with singing.",
+      "reference_display": "Zephaniah 3:17",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1tim:6:10",
+      "translation_id": "web-c",
+      "book_id": "1tim",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 10,
+      "verse_end": 10,
+      "text": "For the love of money is a root of all kinds of evil. Some have been led astray from the faith in their greed, and have pierced themselves through with many sorrows.",
+      "pull_quote": null,
+      "reference_display": "1 Timothy 6:10",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:heb:13:5",
+      "translation_id": "web-c",
+      "book_id": "heb",
+      "chapter_start": 13,
+      "chapter_end": 13,
+      "verse_start": 5,
+      "verse_end": 5,
+      "text": "Be free from the love of money, content with such things as you have, for he has said, 'I will in no way leave you, neither will I in any way forsake you.'",
+      "pull_quote": null,
+      "reference_display": "Hebrews 13:5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mt:6:21",
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 21,
+      "verse_end": 21,
+      "text": "For where your treasure is, there your heart will be also.",
+      "pull_quote": null,
+      "reference_display": "Matthew 6:21",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ro:12:12",
+      "translation_id": "web-c",
+      "book_id": "ro",
+      "chapter_start": 12,
+      "chapter_end": 12,
+      "verse_start": 12,
+      "verse_end": 12,
+      "text": "rejoicing in hope; enduring in troubles; continuing steadfastly in prayer.",
+      "pull_quote": null,
+      "reference_display": "Romans 12:12",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:37:7",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 37,
+      "chapter_end": 37,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "Rest in the LORD, and wait patiently for him. Don't fret because of him who prospers in his way, because of the man who makes wicked plots happen.",
+      "pull_quote": null,
+      "reference_display": "Psalm 37:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:eccl:7:8",
+      "translation_id": "web-c",
+      "book_id": "eccl",
+      "chapter_start": 7,
+      "chapter_end": 7,
+      "verse_start": 8,
+      "verse_end": 8,
+      "text": "Better is the end of a thing than its beginning. The patient in spirit is better than the proud in spirit.",
+      "pull_quote": null,
+      "reference_display": "Ecclesiastes 7:8",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1tim:6:6",
+      "translation_id": "web-c",
+      "book_id": "1tim",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 6,
+      "verse_end": 6,
+      "text": "But godliness with contentment is great gain.",
+      "pull_quote": null,
+      "reference_display": "1 Timothy 6:6",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:73:25",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 73,
+      "chapter_end": 73,
+      "verse_start": 25,
+      "verse_end": 26,
+      "text": "Whom do I have in heaven? There is no one on earth whom I desire besides you. My flesh and my heart fails, but God is the strength of my heart and my portion forever.",
+      "pull_quote": "God is the strength of my heart and my portion forever.",
+      "reference_display": "Psalm 73:25-26",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mt:6:33",
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 33,
+      "verse_end": 33,
+      "text": "But seek first God's Kingdom, and his righteousness; and all these things will be given to you as well.",
+      "pull_quote": null,
+      "reference_display": "Matthew 6:33",
+      "reference_alt": null
     }
   ],
   "entries": [
@@ -1787,6 +2658,810 @@
       "saint_quote": null,
       "saint_attribution": null,
       "liturgical_season": null
+    },
+    {
+      "id": "fear-josh-1-9",
+      "feeling_id": "fear",
+      "reflection": "This is said to a man about to lead a nation into a land he's never seen. The command to be brave isn't left to float on its own — it's anchored to a reason given in the same breath: God's presence, not Joshua's nerve, is what the courage rests on.",
+      "prayer": "Lord, go with me into what I don't know yet. Let that be enough courage for today.",
+      "intensity": "steady",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "fear-2tim-1-7",
+      "feeling_id": "fear",
+      "reflection": "Paul names fear as something that can be given or withheld, like a spirit taking up residence — and says plainly it isn't from God. What is given instead is practical: strength, love, and a clear mind, the very things fear tends to crowd out.",
+      "prayer": "Lord, take back the fear that isn't from you. Fill that space with strength and a clear mind instead.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "anxiety-ps-94-19",
+      "feeling_id": "anxiety",
+      "reflection": "The psalmist doesn't describe a quiet mind, but a crowded one — many thoughts, all at once. Comfort here doesn't arrive by silencing them all, but by something stronger moving in among them.",
+      "prayer": "Lord, my mind is loud today. Let your comfort be louder.",
+      "intensity": "steady",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "anxiety-jn-14-27",
+      "feeling_id": "anxiety",
+      "reflection": "Christ is specific about the kind of peace on offer: not the world's version, which depends on circumstances lining up, but his own, given as a gift regardless of how things currently look.",
+      "prayer": "Jesus, give me your peace, not the kind that depends on everything going right.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grief-rev-21-4",
+      "feeling_id": "grief",
+      "reflection": "This isn't a promise that grief is meaningless now, but that it isn't permanent. The image is tender and specific — a hand wiping away tears — not an abstract idea of comfort but a personal one.",
+      "prayer": "Lord, I don't ask to stop grieving yet. I ask to trust that you'll one day wipe this away yourself.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grief-ps-30-5",
+      "feeling_id": "grief",
+      "reflection": "The verse doesn't rush the weeping — it's allowed the whole night. What it promises is that the night has an end, which is a different comfort than being told to stop crying now.",
+      "prayer": "Lord, stay with me through this night. I'm trusting you for the morning, even before it comes.",
+      "intensity": "steady",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "temptation-jas-1-12",
+      "feeling_id": "temptation",
+      "reflection": "James calls the person still standing in the middle of temptation blessed, not just the one who's already past it. Endurance itself is treated as worth something, not merely a means to an eventual reward.",
+      "prayer": "Lord, I'm still in the middle of this. Help me endure the next minute, not the whole struggle at once.",
+      "intensity": "steady",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "temptation-heb-2-18",
+      "feeling_id": "temptation",
+      "reflection": "The help offered here comes from firsthand experience, not distant sympathy. Christ isn't advising from outside the struggle — he's able to help exactly because he's been inside one.",
+      "prayer": "Jesus, you know this pull from the inside. Help me the way only someone who's felt it can.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lonely-ps-68-6",
+      "feeling_id": "lonely",
+      "reflection": "The verse pairs two rescues that don't obviously belong together — the lonely and the imprisoned — as if isolation itself were a kind of confinement God specializes in opening.",
+      "prayer": "Lord, you place the lonely somewhere they belong. I'm asking for that place.",
+      "intensity": "steady",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lonely-deut-31-6",
+      "feeling_id": "lonely",
+      "reflection": "Moses says this to a whole nation on the edge of a future without him leading it. The promise isn't that they won't feel alone, but that the aloneness isn't accurate — someone is going with them regardless.",
+      "prayer": "Lord, remind me you haven't left, even on the days it feels otherwise.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "angry-pr-15-1",
+      "feeling_id": "angry",
+      "reflection": "The proverb hands you a lever, not a lecture: the same conversation can escalate or de-escalate almost entirely based on the tone of the very next sentence you choose.",
+      "prayer": "Lord, give me a gentle answer for the next thing I want to say sharply.",
+      "intensity": "steady",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "angry-col-3-8",
+      "feeling_id": "angry",
+      "reflection": "Paul lists anger alongside slander and malice, not as a private feeling but as something with a public trail — the mouth is where it tends to show up first, and where it can also be caught.",
+      "prayer": "Lord, guard what leaves my mouth right now, before I've had time to cool down.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guilt-ps-103-12",
+      "feeling_id": "guilt",
+      "reflection": "East and west never meet, however far you travel either direction — the psalmist picks the one distance that has no measurable end, to describe how completely this is put away.",
+      "prayer": "Lord, thank you for putting this as far from me as east is from west. Help me stop dragging it back.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guilt-isa-1-18",
+      "feeling_id": "guilt",
+      "reflection": "God doesn't ask you to pretend the stain isn't there — scarlet and crimson are named plainly. The invitation is to bring the actual color of it and let it be changed, not to arrive already clean.",
+      "prayer": "Lord, here is what's actually stained in me. I'm bringing it as it is, not as I wish it were.",
+      "intensity": "steady",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "doubt-jas-1-6",
+      "feeling_id": "doubt",
+      "reflection": "The image is of motion without direction — a wave goes wherever the wind pushes it next. Named plainly like this, doubt looks less like a moral failure and more like a describable, ordinary condition to bring honestly to God rather than hide.",
+      "prayer": "Lord, I feel tossed today. Steady me, even if the doubt doesn't fully leave yet.",
+      "intensity": "steady",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "doubt-heb-11-1",
+      "feeling_id": "doubt",
+      "reflection": "Faith is defined here as its own kind of evidence, not the absence of evidence. That reframes doubt: it isn't necessarily a lack of faith, but the ordinary condition of trusting something you can't yet see confirmed.",
+      "prayer": "Lord, I can't see the outcome yet. Let this trust stand in for the seeing, for now.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "weary-gal-6-9",
+      "feeling_id": "weary",
+      "reflection": "Paul doesn't promise the tiredness will lift immediately — only that stopping now would cost you a harvest that's still on its way. The instruction is to hold on a little longer, not to feel less tired while you do.",
+      "prayer": "Lord, I'm tempted to give up right at the edge of something. Give me the strength for one more season.",
+      "intensity": "steady",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "weary-ps-121-1",
+      "feeling_id": "weary",
+      "reflection": "The psalmist asks the question out loud before answering it — a useful habit for a tired mind. Naming where help actually comes from is itself a small act of looking up.",
+      "prayer": "Lord, my eyes are tired of looking at the problem. Help me lift them to you instead.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grateful-ps-100-4",
+      "feeling_id": "grateful",
+      "reflection": "Thanksgiving here is described as a way in, not a reward for arriving. Gratitude is the gate itself, the ordinary way of approaching God rather than a special mood reserved for good days.",
+      "prayer": "Lord, I come to you today through thanks, not around it.",
+      "intensity": "steady",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grateful-col-3-17",
+      "feeling_id": "grateful",
+      "reflection": "The instruction covers everything, not just the obviously spiritual moments — ordinary words and ordinary tasks are included in the same breath as worship, if thanks runs underneath them.",
+      "prayer": "Lord, let even my ordinary tasks today carry some thanks underneath them.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guidance-ps-32-8",
+      "feeling_id": "guidance",
+      "reflection": "The promise isn't just direction but attention — God's eye is described as staying on you while the teaching happens, not a set of instructions handed over and left to figure out alone.",
+      "prayer": "Lord, teach me the way to go, and stay watching while I walk it.",
+      "intensity": "steady",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guidance-ps-119-105",
+      "feeling_id": "guidance",
+      "reflection": "A lamp for the feet lights the next step, not the whole road ahead. That's a more modest kind of guidance than seeing the entire path at once — but it's enough to actually keep walking.",
+      "prayer": "Lord, I don't need to see the whole road. Just light the next step.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hurt-ps-147-3",
+      "feeling_id": "hurt",
+      "reflection": "The two actions named — healing and binding — aren't instant fixes but the kind of care a wound actually needs: attended to, wrapped, given time.",
+      "prayer": "Lord, bind up what's still raw in me. I don't need it healed today, just tended to.",
+      "intensity": "steady",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hurt-ro-12-19",
+      "feeling_id": "hurt",
+      "reflection": "Paul doesn't ask you to decide the wrong didn't matter — only to hand the settling of it to someone else. Justice is still coming; it's just no longer your job to deliver it.",
+      "prayer": "Lord, I hand you what I want to settle myself. It's yours to deal with, not mine.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "overwhelmed-ps-55-22",
+      "feeling_id": "overwhelmed",
+      "reflection": "Casting a burden is a decisive motion, not a gradual easing. The verse pictures a single act of letting go, followed by someone else doing the holding.",
+      "prayer": "Lord, I'm putting this down in front of you now. Hold what I can't carry anymore.",
+      "intensity": "steady",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "overwhelmed-2cor-12-9",
+      "feeling_id": "overwhelmed",
+      "reflection": "Paul doesn't get the strength removed that he asked for; he gets an answer that reframes weakness itself as the place where God's power actually shows up best.",
+      "prayer": "Lord, I'm weak right now. Let that be exactly where your strength shows up.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hopeful-ro-15-13",
+      "feeling_id": "hopeful",
+      "reflection": "Hope is described here as something that can overflow, not just barely last — abounding, not merely surviving. That's a higher bar than getting by, and it's offered as a gift rather than an effort.",
+      "prayer": "Lord, fill me with more hope than I need just to get through today.",
+      "intensity": "steady",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hopeful-ro-8-28",
+      "feeling_id": "hopeful",
+      "reflection": "The claim isn't that every single thing is good, but that all of them are being worked together toward something good — a promise about the whole pattern, not a verdict on any one piece of it yet.",
+      "prayer": "Lord, I can't see the whole pattern yet. Help me trust it's being worked together.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "joyful-neh-8-10",
+      "feeling_id": "joyful",
+      "reflection": "This is said to people weeping over a rediscovered law they'd failed to keep. Joy isn't offered instead of honesty about that failure — it's offered as the actual strength to move forward from it.",
+      "prayer": "Lord, let your joy be my strength today, not just my mood.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "joyful-ps-16-11",
+      "feeling_id": "joyful",
+      "reflection": "The joy described here isn't tied to an event or an achievement but to a location — being in God's presence. That makes it available on ordinary days, not just the eventful ones.",
+      "prayer": "Lord, thank you for the fullness of joy that's simply in being near you.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "joyful-jn-15-11",
+      "feeling_id": "joyful",
+      "reflection": "Christ says this in the middle of hard teaching about pruning and abiding, not in a celebratory moment — joy here is meant to remain through the difficult instruction, not just after it.",
+      "prayer": "Jesus, let your joy remain in me even through the harder parts of following you.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "envious-pr-14-30",
+      "feeling_id": "envious",
+      "reflection": "The proverb makes envy a physical cost, not just an emotional one — something that wears down from the inside rather than merely feeling unpleasant.",
+      "prayer": "Lord, give me a heart at peace instead of one that keeps comparing.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "envious-gal-5-26",
+      "feeling_id": "envious",
+      "reflection": "Paul links envy to provocation, as though the two feed each other in community — envy rarely stays private, it tends to spill into how you treat the person you envy.",
+      "prayer": "Lord, keep this from spilling into how I treat them. Let me want good for them anyway.",
+      "intensity": "steady",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "envious-jas-3-14",
+      "feeling_id": "envious",
+      "reflection": "James pairs jealousy with a temptation to lie about it — to dress it up as ambition or standards. Naming it accurately, bitter and small as it is, is the honest first step past it.",
+      "prayer": "Lord, help me call this what it actually is, instead of dressing it up as something else.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lust-mt-5-8",
+      "feeling_id": "lust",
+      "reflection": "The blessing is aimed at the heart, not just outward behavior — a shorter, harder standard than simply avoiding the act, but one paired with a promise worth wanting: seeing God clearly.",
+      "prayer": "Lord, purify what I keep looking at and dwelling on, not just what I do.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lust-1cor-6-19",
+      "feeling_id": "lust",
+      "reflection": "Paul reframes the body itself, not just the act, as something sacred and inhabited. That changes the question from 'is this technically wrong' to 'what belongs in this particular space.'",
+      "prayer": "Lord, this body is yours before it's mine. Help me treat it that way today.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lust-job-31-1",
+      "feeling_id": "lust",
+      "reflection": "Job locates the discipline at the eyes, before the thought fully forms — a covenant made in advance rather than a resolution made in the middle of temptation, when it's already harder to keep.",
+      "prayer": "Lord, help me make this decision now, before I'm in the moment it's hardest to keep.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "loving-1jo-4-19",
+      "feeling_id": "loving",
+      "reflection": "The order matters: love here is a response, not an initiative you have to generate from nothing. Whatever love you have to give started as something given to you first.",
+      "prayer": "Lord, thank you for loving me first. Let what I give away come from what I've received.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "loving-1cor-13-7",
+      "feeling_id": "loving",
+      "reflection": "Each verb describes love holding steady under weight — bearing, believing, hoping, enduring — not love as a feeling that comes and goes with the weather of the relationship.",
+      "prayer": "Lord, give me love that bears and endures today, not just love that feels easy.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "loving-song-8-7",
+      "feeling_id": "loving",
+      "reflection": "The image is of something unstoppable by ordinary forces — water is what puts most things out, but love here is described as outlasting exactly that.",
+      "prayer": "Lord, let this love be the kind that holds even when things get flooded.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "proud-pr-16-18",
+      "feeling_id": "proud",
+      "reflection": "The proverb doesn't say pride sometimes leads to a fall — it treats the sequence as ordinary and expected, the ordinary shape of how this particular flaw tends to end.",
+      "prayer": "Lord, show me where I've gotten too sure of myself, before the fall does it for me.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "proud-pr-11-2",
+      "feeling_id": "proud",
+      "reflection": "The proverb pairs each posture with what naturally follows it — pride trailed by shame, humility trailed by wisdom — as though the outcome were built into the starting point.",
+      "prayer": "Lord, I'd rather have humility and wisdom than pride and what follows it.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "proud-phil-2-3",
+      "feeling_id": "proud",
+      "reflection": "Paul's instruction is concrete enough to act on today: not a general attitude adjustment, but a specific habit of considering someone else's standing above your own in this particular decision.",
+      "prayer": "Lord, help me consider them before myself in the next thing I do today.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unforgiving-lk-6-37",
+      "feeling_id": "unforgiving",
+      "reflection": "Christ ties your own freedom to the freedom you extend — setting someone else free from what they owe you turns out to loosen something in you too, not only in them.",
+      "prayer": "Lord, help me set them free from what they owe me. I think I need that release as much as they do.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unforgiving-mk-11-25",
+      "feeling_id": "unforgiving",
+      "reflection": "Christ places forgiving right inside the act of praying, not as a separate task for later — as if the two can't really be pulled apart, prayer and the grudge held at the same time.",
+      "prayer": "Father, I'm praying and still holding this. Help me put it down right here.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unforgiving-ro-12-18",
+      "feeling_id": "unforgiving",
+      "reflection": "Paul's qualifiers matter — 'if possible,' 'as much as is up to you.' He isn't asking you to guarantee reconciliation, only to make sure the block isn't coming from your side.",
+      "prayer": "Lord, let the block not be coming from me. Do what I can't with the rest.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "depressed-2cor-4-8",
+      "feeling_id": "depressed",
+      "reflection": "Each phrase admits the hard half honestly — pressed, perplexed, pursued, struck down — before adding the word that keeps it from being the whole story. Nothing here is minimized to sound better than it is.",
+      "prayer": "Lord, I am pressed right now. Don't let it be the same as crushed.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "depressed-ps-40-1",
+      "feeling_id": "depressed",
+      "reflection": "The waiting comes before the rescue in this verse, and it isn't brief — patient waiting, not an instant answer. The pit is named specifically, miry clay and all, not smoothed over in the retelling.",
+      "prayer": "Lord, I'm still waiting in the pit right now. I'm trusting you heard me already.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "depressed-isa-61-3",
+      "feeling_id": "depressed",
+      "reflection": "Each exchange named is a straight trade for its opposite — ashes for a garland, mourning for oil, heaviness for praise. Nothing here suggests the heaviness was invalid, only that it isn't meant to be permanent.",
+      "prayer": "Lord, I'm carrying a spirit of heaviness today. I'm asking for what you promise in its place.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "bored-eccl-9-10",
+      "feeling_id": "bored",
+      "reflection": "The instruction doesn't wait for a meaningful task to show up — it applies to whatever is actually in front of your hand right now, however small or uneventful it looks.",
+      "prayer": "Lord, help me put my whole effort into whatever's in front of me right now, even if it feels small.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "bored-col-3-23",
+      "feeling_id": "bored",
+      "reflection": "Paul redirects who the work is ultimately for, which changes how a dull task can be held — done for the Lord, it doesn't need to be interesting to be worth doing well.",
+      "prayer": "Lord, let this dull task be for you today, not just for getting through it.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "bored-ps-27-14",
+      "feeling_id": "bored",
+      "reflection": "The verse says the same thing twice, waiting bookended around courage — as if the writer knows how easily the instruction gets forgotten halfway through a long, uneventful stretch.",
+      "prayer": "Lord, I'm still waiting. Give me courage for the stretch that doesn't feel like it's moving.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "betrayed-ps-55-12",
+      "feeling_id": "betrayed",
+      "reflection": "David is specific about why this hurts more than ordinary conflict: an enemy's attack he could have braced for. A friend's turn against him left no way to see it coming.",
+      "prayer": "Lord, I couldn't have braced for this one. Help me heal from a wound I didn't see coming.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "betrayed-pr-18-24",
+      "feeling_id": "betrayed",
+      "reflection": "The proverb doesn't pretend every friendship holds up. It distinguishes between the many that might not and the rarer kind that does, and leaves room to still hope for the second kind.",
+      "prayer": "Lord, thank you for the friend who stays closer than a brother. Help me trust again, carefully, in that kind.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "betrayed-gen-50-20",
+      "feeling_id": "betrayed",
+      "reflection": "Joseph says this to the brothers who actually sold him into slavery — he doesn't minimize what they meant by it. He simply refuses to let their intention be the only thing that ends up mattering.",
+      "prayer": "Lord, I don't know yet what you'll make of what they meant for harm. I'm trusting you're already working on it.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "insecure-jer-1-5",
+      "feeling_id": "insecure",
+      "reflection": "The knowing described here happens before Jeremiah could do anything to earn or lose it — it precedes his birth, let alone his performance, which puts it outside the reach of his insecurity.",
+      "prayer": "Lord, you knew me before I could do anything to earn it. Let that be the ground I stand on today.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "insecure-eph-2-10",
+      "feeling_id": "insecure",
+      "reflection": "The word used is closer to a crafted work than a random assembly — made with intention, for a purpose already prepared in advance, not figured out on the fly after the fact.",
+      "prayer": "Lord, remind me I'm your handiwork, made on purpose, not an accident you're still deciding what to do with.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "insecure-zeph-3-17",
+      "feeling_id": "insecure",
+      "reflection": "The verse doesn't describe God tolerating you at a distance but delighting in you up close, singing — a strange picture to hold next to the voice that says you're not enough.",
+      "prayer": "Lord, let me hear you singing over me today instead of the voice that says I'm not enough.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "greedy-1tim-6-10",
+      "feeling_id": "greedy",
+      "reflection": "The warning names the cost precisely: not the money itself, but the love of it, and the self-inflicted sorrows that follow those who let it lead them off course.",
+      "prayer": "Lord, show me where love of money has quietly taken the lead over love of you.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "greedy-heb-13-5",
+      "feeling_id": "greedy",
+      "reflection": "The remedy offered for the love of money isn't more money but a different security altogether — a promise of presence that doesn't depend on what's in your account.",
+      "prayer": "Lord, let your presence be the security I reach for, instead of more.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "greedy-mt-6-21",
+      "feeling_id": "greedy",
+      "reflection": "Christ doesn't ask you to feel differently about what you already love. He points out that the heart simply follows wherever the treasure is placed first — so the more useful question is where you're placing it.",
+      "prayer": "Lord, show me honestly where my treasure actually is, and help me move it toward you.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "impatient-ro-12-12",
+      "feeling_id": "impatient",
+      "reflection": "The three instructions are given together, as if they support each other — hope makes the enduring possible, and steady prayer is what keeps the hope from running out first.",
+      "prayer": "Lord, keep me steady in prayer while I wait. Let hope carry the waiting, not impatience.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "impatient-ps-37-7",
+      "feeling_id": "impatient",
+      "reflection": "The psalmist links impatience to comparison — fretting over someone else's timeline moving faster than yours. Rest is offered as the alternative to that particular kind of watching the clock.",
+      "prayer": "Lord, stop me from measuring my wait against anyone else's. Let me rest in yours instead.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "impatient-eccl-7-8",
+      "feeling_id": "impatient",
+      "reflection": "The Preacher pairs patience with humility, as though rushing to the end were itself a kind of pride — an unwillingness to let something take the time it actually needs.",
+      "prayer": "Lord, keep me humble enough to let this take the time it needs.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "discontent-1tim-6-6",
+      "feeling_id": "discontent",
+      "reflection": "Paul names contentment itself as a kind of wealth, not merely the absence of complaint — a short verse making a case that what you already have, held rightly, counts as real gain.",
+      "prayer": "Lord, help me count what I already have as gain, not as a placeholder for something better.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "discontent-ps-73-25",
+      "feeling_id": "discontent",
+      "reflection": "The psalmist admits his own flesh and heart are failing him — this isn't written from a place of having it all together. Even there, what's left standing is described as enough.",
+      "prayer": "Lord, even when everything else in me feels like it's failing, be my portion.",
+      "intensity": "settled",
+      "depth_order": 3,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "discontent-mt-6-33",
+      "feeling_id": "discontent",
+      "reflection": "Christ doesn't say the other things don't matter, only that they aren't meant to be sought first. Discontent often comes from reversing that order — chasing the 'also' before the main thing.",
+      "prayer": "Lord, help me want your Kingdom first today, and trust the rest to follow in its place.",
+      "intensity": "settled",
+      "depth_order": 4,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
     }
   ],
   "entry_passages": [
@@ -2041,6 +3716,408 @@
       "passage_id": "web-c:phil:4:11",
       "position": 0,
       "role": "primary"
+    },
+    {
+      "entry_id": "fear-josh-1-9",
+      "passage_id": "web-c:josh:1:9",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "fear-2tim-1-7",
+      "passage_id": "web-c:2tim:1:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "anxiety-ps-94-19",
+      "passage_id": "web-c:ps:94:19",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "anxiety-jn-14-27",
+      "passage_id": "web-c:jn:14:27",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grief-rev-21-4",
+      "passage_id": "web-c:rev:21:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grief-ps-30-5",
+      "passage_id": "web-c:ps:30:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "temptation-jas-1-12",
+      "passage_id": "web-c:jas:1:12",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "temptation-heb-2-18",
+      "passage_id": "web-c:heb:2:18",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lonely-ps-68-6",
+      "passage_id": "web-c:ps:68:6",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lonely-deut-31-6",
+      "passage_id": "web-c:deut:31:6",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "angry-pr-15-1",
+      "passage_id": "web-c:pr:15:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "angry-col-3-8",
+      "passage_id": "web-c:col:3:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guilt-ps-103-12",
+      "passage_id": "web-c:ps:103:12",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guilt-isa-1-18",
+      "passage_id": "web-c:isa:1:18",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "doubt-jas-1-6",
+      "passage_id": "web-c:jas:1:6",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "doubt-heb-11-1",
+      "passage_id": "web-c:heb:11:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "weary-gal-6-9",
+      "passage_id": "web-c:gal:6:9",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "weary-ps-121-1",
+      "passage_id": "web-c:ps:121:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grateful-ps-100-4",
+      "passage_id": "web-c:ps:100:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grateful-col-3-17",
+      "passage_id": "web-c:col:3:17",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guidance-ps-32-8",
+      "passage_id": "web-c:ps:32:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guidance-ps-119-105",
+      "passage_id": "web-c:ps:119:105",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hurt-ps-147-3",
+      "passage_id": "web-c:ps:147:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hurt-ro-12-19",
+      "passage_id": "web-c:ro:12:19",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "overwhelmed-ps-55-22",
+      "passage_id": "web-c:ps:55:22",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "overwhelmed-2cor-12-9",
+      "passage_id": "web-c:2cor:12:9",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hopeful-ro-15-13",
+      "passage_id": "web-c:ro:15:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hopeful-ro-8-28",
+      "passage_id": "web-c:ro:8:28",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "joyful-neh-8-10",
+      "passage_id": "web-c:neh:8:10",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "joyful-ps-16-11",
+      "passage_id": "web-c:ps:16:11",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "joyful-jn-15-11",
+      "passage_id": "web-c:jn:15:11",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "envious-pr-14-30",
+      "passage_id": "web-c:pr:14:30",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "envious-gal-5-26",
+      "passage_id": "web-c:gal:5:26",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "envious-jas-3-14",
+      "passage_id": "web-c:jas:3:14",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lust-mt-5-8",
+      "passage_id": "web-c:mt:5:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lust-1cor-6-19",
+      "passage_id": "web-c:1cor:6:19",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lust-job-31-1",
+      "passage_id": "web-c:job:31:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "loving-1jo-4-19",
+      "passage_id": "web-c:1jo:4:19",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "loving-1cor-13-7",
+      "passage_id": "web-c:1cor:13:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "loving-song-8-7",
+      "passage_id": "web-c:song:8:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "proud-pr-16-18",
+      "passage_id": "web-c:pr:16:18",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "proud-pr-11-2",
+      "passage_id": "web-c:pr:11:2",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "proud-phil-2-3",
+      "passage_id": "web-c:phil:2:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unforgiving-lk-6-37",
+      "passage_id": "web-c:lk:6:37",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unforgiving-mk-11-25",
+      "passage_id": "web-c:mk:11:25",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unforgiving-ro-12-18",
+      "passage_id": "web-c:ro:12:18",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "depressed-2cor-4-8",
+      "passage_id": "web-c:2cor:4:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "depressed-ps-40-1",
+      "passage_id": "web-c:ps:40:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "depressed-isa-61-3",
+      "passage_id": "web-c:isa:61:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "bored-eccl-9-10",
+      "passage_id": "web-c:eccl:9:10",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "bored-col-3-23",
+      "passage_id": "web-c:col:3:23",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "bored-ps-27-14",
+      "passage_id": "web-c:ps:27:14",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "betrayed-ps-55-12",
+      "passage_id": "web-c:ps:55:12",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "betrayed-pr-18-24",
+      "passage_id": "web-c:pr:18:24",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "betrayed-gen-50-20",
+      "passage_id": "web-c:gen:50:20",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "insecure-jer-1-5",
+      "passage_id": "web-c:jer:1:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "insecure-eph-2-10",
+      "passage_id": "web-c:eph:2:10",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "insecure-zeph-3-17",
+      "passage_id": "web-c:zeph:3:17",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "greedy-1tim-6-10",
+      "passage_id": "web-c:1tim:6:10",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "greedy-heb-13-5",
+      "passage_id": "web-c:heb:13:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "greedy-mt-6-21",
+      "passage_id": "web-c:mt:6:21",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "impatient-ro-12-12",
+      "passage_id": "web-c:ro:12:12",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "impatient-ps-37-7",
+      "passage_id": "web-c:ps:37:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "impatient-eccl-7-8",
+      "passage_id": "web-c:eccl:7:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discontent-1tim-6-6",
+      "passage_id": "web-c:1tim:6:6",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discontent-ps-73-25",
+      "passage_id": "web-c:ps:73:25",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discontent-mt-6-33",
+      "passage_id": "web-c:mt:6:33",
+      "position": 0,
+      "role": "primary"
     }
   ],
   "daily_passages": [
@@ -2210,1303 +4287,1303 @@
     },
     {
       "month_day": "02-11",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:josh:1:9"
     },
     {
       "month_day": "02-12",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:2tim:1:7"
     },
     {
       "month_day": "02-13",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:ps:94:19"
     },
     {
       "month_day": "02-14",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:jn:14:27"
     },
     {
       "month_day": "02-15",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:rev:21:4"
     },
     {
       "month_day": "02-16",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:ps:30:5"
     },
     {
       "month_day": "02-17",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:jas:1:12"
     },
     {
       "month_day": "02-18",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:heb:2:18"
     },
     {
       "month_day": "02-19",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:ps:68:6"
     },
     {
       "month_day": "02-20",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:deut:31:6"
     },
     {
       "month_day": "02-21",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:pr:15:1"
     },
     {
       "month_day": "02-22",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:col:3:8"
     },
     {
       "month_day": "02-23",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:ps:103:12"
     },
     {
       "month_day": "02-24",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:isa:1:18"
     },
     {
       "month_day": "02-25",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:jas:1:6"
     },
     {
       "month_day": "02-26",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:heb:11:1"
     },
     {
       "month_day": "02-27",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:gal:6:9"
     },
     {
       "month_day": "02-28",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:ps:121:1"
     },
     {
       "month_day": "02-29",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:ps:100:4"
     },
     {
       "month_day": "03-01",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:col:3:17"
     },
     {
       "month_day": "03-02",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:ps:32:8"
     },
     {
       "month_day": "03-03",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:ps:119:105"
     },
     {
       "month_day": "03-04",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:ps:147:3"
     },
     {
       "month_day": "03-05",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:ro:12:19"
     },
     {
       "month_day": "03-06",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:ps:55:22"
     },
     {
       "month_day": "03-07",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:2cor:12:9"
     },
     {
       "month_day": "03-08",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:ro:15:13"
     },
     {
       "month_day": "03-09",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:ro:8:28"
     },
     {
       "month_day": "03-10",
-      "passage_id": "web-c:phil:4:4"
+      "passage_id": "web-c:neh:8:10"
     },
     {
       "month_day": "03-11",
-      "passage_id": "web-c:jas:3:16"
+      "passage_id": "web-c:ps:16:11"
     },
     {
       "month_day": "03-12",
-      "passage_id": "web-c:gal:5:16"
+      "passage_id": "web-c:jn:15:11"
     },
     {
       "month_day": "03-13",
-      "passage_id": "web-c:1cor:13:4"
+      "passage_id": "web-c:pr:14:30"
     },
     {
       "month_day": "03-14",
-      "passage_id": "web-c:jas:4:6"
+      "passage_id": "web-c:gal:5:26"
     },
     {
       "month_day": "03-15",
-      "passage_id": "web-c:col:3:13"
+      "passage_id": "web-c:jas:3:14"
     },
     {
       "month_day": "03-16",
-      "passage_id": "web-c:ps:42:11"
+      "passage_id": "web-c:mt:5:8"
     },
     {
       "month_day": "03-17",
-      "passage_id": "web-c:eccl:3:1"
+      "passage_id": "web-c:1cor:6:19"
     },
     {
       "month_day": "03-18",
-      "passage_id": "web-c:ps:41:9"
+      "passage_id": "web-c:job:31:1"
     },
     {
       "month_day": "03-19",
-      "passage_id": "web-c:ps:139:14"
+      "passage_id": "web-c:1jo:4:19"
     },
     {
       "month_day": "03-20",
-      "passage_id": "web-c:lk:12:15"
+      "passage_id": "web-c:1cor:13:7"
     },
     {
       "month_day": "03-21",
-      "passage_id": "web-c:jas:5:8"
+      "passage_id": "web-c:song:8:7"
     },
     {
       "month_day": "03-22",
-      "passage_id": "web-c:phil:4:11"
+      "passage_id": "web-c:pr:16:18"
     },
     {
       "month_day": "03-23",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:pr:11:2"
     },
     {
       "month_day": "03-24",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:phil:2:3"
     },
     {
       "month_day": "03-25",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:lk:6:37"
     },
     {
       "month_day": "03-26",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:mk:11:25"
     },
     {
       "month_day": "03-27",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:ro:12:18"
     },
     {
       "month_day": "03-28",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:2cor:4:8"
     },
     {
       "month_day": "03-29",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:ps:40:1"
     },
     {
       "month_day": "03-30",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:isa:61:3"
     },
     {
       "month_day": "03-31",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:eccl:9:10"
     },
     {
       "month_day": "04-01",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:col:3:23"
     },
     {
       "month_day": "04-02",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:ps:27:14"
     },
     {
       "month_day": "04-03",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:ps:55:12"
     },
     {
       "month_day": "04-04",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:pr:18:24"
     },
     {
       "month_day": "04-05",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:gen:50:20"
     },
     {
       "month_day": "04-06",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:jer:1:5"
     },
     {
       "month_day": "04-07",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:eph:2:10"
     },
     {
       "month_day": "04-08",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:zeph:3:17"
     },
     {
       "month_day": "04-09",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:1tim:6:10"
     },
     {
       "month_day": "04-10",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:heb:13:5"
     },
     {
       "month_day": "04-11",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:mt:6:21"
     },
     {
       "month_day": "04-12",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:ro:12:12"
     },
     {
       "month_day": "04-13",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:ps:37:7"
     },
     {
       "month_day": "04-14",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:eccl:7:8"
     },
     {
       "month_day": "04-15",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:1tim:6:6"
     },
     {
       "month_day": "04-16",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:ps:73:25"
     },
     {
       "month_day": "04-17",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:mt:6:33"
     },
     {
       "month_day": "04-18",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:isa:41:10"
     },
     {
       "month_day": "04-19",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:ps:27:1"
     },
     {
       "month_day": "04-20",
-      "passage_id": "web-c:phil:4:4"
+      "passage_id": "web-c:1pet:5:7"
     },
     {
       "month_day": "04-21",
-      "passage_id": "web-c:jas:3:16"
+      "passage_id": "web-c:phil:4:6"
     },
     {
       "month_day": "04-22",
-      "passage_id": "web-c:gal:5:16"
+      "passage_id": "web-c:mt:5:4"
     },
     {
       "month_day": "04-23",
-      "passage_id": "web-c:1cor:13:4"
+      "passage_id": "web-c:ps:34:18"
     },
     {
       "month_day": "04-24",
-      "passage_id": "web-c:jas:4:6"
+      "passage_id": "web-c:1cor:10:13"
     },
     {
       "month_day": "04-25",
-      "passage_id": "web-c:col:3:13"
+      "passage_id": "web-c:mt:26:41"
     },
     {
       "month_day": "04-26",
-      "passage_id": "web-c:ps:42:11"
+      "passage_id": "web-c:jn:14:18"
     },
     {
       "month_day": "04-27",
-      "passage_id": "web-c:eccl:3:1"
+      "passage_id": "web-c:mt:28:20"
     },
     {
       "month_day": "04-28",
-      "passage_id": "web-c:ps:41:9"
+      "passage_id": "web-c:eph:4:26"
     },
     {
       "month_day": "04-29",
-      "passage_id": "web-c:ps:139:14"
+      "passage_id": "web-c:jas:1:19"
     },
     {
       "month_day": "04-30",
-      "passage_id": "web-c:lk:12:15"
+      "passage_id": "web-c:1jo:1:9"
     },
     {
       "month_day": "05-01",
-      "passage_id": "web-c:jas:5:8"
+      "passage_id": "web-c:ro:8:1"
     },
     {
       "month_day": "05-02",
-      "passage_id": "web-c:phil:4:11"
+      "passage_id": "web-c:mk:9:24"
     },
     {
       "month_day": "05-03",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:jn:20:29"
     },
     {
       "month_day": "05-04",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:mt:11:28"
     },
     {
       "month_day": "05-05",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:isa:40:31"
     },
     {
       "month_day": "05-06",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:1the:5:16"
     },
     {
       "month_day": "05-07",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:ps:118:1"
     },
     {
       "month_day": "05-08",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:pr:3:5"
     },
     {
       "month_day": "05-09",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:jas:1:5"
     },
     {
       "month_day": "05-10",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:eph:4:32"
     },
     {
       "month_day": "05-11",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:mt:6:14"
     },
     {
       "month_day": "05-12",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:ps:61:2"
     },
     {
       "month_day": "05-13",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:mt:6:34"
     },
     {
       "month_day": "05-14",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:jer:29:11"
     },
     {
       "month_day": "05-15",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:lam:3:22"
     },
     {
       "month_day": "05-16",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:phil:4:4"
     },
     {
       "month_day": "05-17",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:jas:3:16"
     },
     {
       "month_day": "05-18",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:gal:5:16"
     },
     {
       "month_day": "05-19",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:1cor:13:4"
     },
     {
       "month_day": "05-20",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:jas:4:6"
     },
     {
       "month_day": "05-21",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:col:3:13"
     },
     {
       "month_day": "05-22",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:ps:42:11"
     },
     {
       "month_day": "05-23",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:eccl:3:1"
     },
     {
       "month_day": "05-24",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:ps:41:9"
     },
     {
       "month_day": "05-25",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:ps:139:14"
     },
     {
       "month_day": "05-26",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:lk:12:15"
     },
     {
       "month_day": "05-27",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:jas:5:8"
     },
     {
       "month_day": "05-28",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:phil:4:11"
     },
     {
       "month_day": "05-29",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:josh:1:9"
     },
     {
       "month_day": "05-30",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:2tim:1:7"
     },
     {
       "month_day": "05-31",
-      "passage_id": "web-c:phil:4:4"
+      "passage_id": "web-c:ps:94:19"
     },
     {
       "month_day": "06-01",
-      "passage_id": "web-c:jas:3:16"
+      "passage_id": "web-c:jn:14:27"
     },
     {
       "month_day": "06-02",
-      "passage_id": "web-c:gal:5:16"
+      "passage_id": "web-c:rev:21:4"
     },
     {
       "month_day": "06-03",
-      "passage_id": "web-c:1cor:13:4"
+      "passage_id": "web-c:ps:30:5"
     },
     {
       "month_day": "06-04",
-      "passage_id": "web-c:jas:4:6"
+      "passage_id": "web-c:jas:1:12"
     },
     {
       "month_day": "06-05",
-      "passage_id": "web-c:col:3:13"
+      "passage_id": "web-c:heb:2:18"
     },
     {
       "month_day": "06-06",
-      "passage_id": "web-c:ps:42:11"
+      "passage_id": "web-c:ps:68:6"
     },
     {
       "month_day": "06-07",
-      "passage_id": "web-c:eccl:3:1"
+      "passage_id": "web-c:deut:31:6"
     },
     {
       "month_day": "06-08",
-      "passage_id": "web-c:ps:41:9"
+      "passage_id": "web-c:pr:15:1"
     },
     {
       "month_day": "06-09",
-      "passage_id": "web-c:ps:139:14"
+      "passage_id": "web-c:col:3:8"
     },
     {
       "month_day": "06-10",
-      "passage_id": "web-c:lk:12:15"
+      "passage_id": "web-c:ps:103:12"
     },
     {
       "month_day": "06-11",
-      "passage_id": "web-c:jas:5:8"
+      "passage_id": "web-c:isa:1:18"
     },
     {
       "month_day": "06-12",
-      "passage_id": "web-c:phil:4:11"
+      "passage_id": "web-c:jas:1:6"
     },
     {
       "month_day": "06-13",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:heb:11:1"
     },
     {
       "month_day": "06-14",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:gal:6:9"
     },
     {
       "month_day": "06-15",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:ps:121:1"
     },
     {
       "month_day": "06-16",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:ps:100:4"
     },
     {
       "month_day": "06-17",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:col:3:17"
     },
     {
       "month_day": "06-18",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:ps:32:8"
     },
     {
       "month_day": "06-19",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:ps:119:105"
     },
     {
       "month_day": "06-20",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:ps:147:3"
     },
     {
       "month_day": "06-21",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:ro:12:19"
     },
     {
       "month_day": "06-22",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:ps:55:22"
     },
     {
       "month_day": "06-23",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:2cor:12:9"
     },
     {
       "month_day": "06-24",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:ro:15:13"
     },
     {
       "month_day": "06-25",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:ro:8:28"
     },
     {
       "month_day": "06-26",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:neh:8:10"
     },
     {
       "month_day": "06-27",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:ps:16:11"
     },
     {
       "month_day": "06-28",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:jn:15:11"
     },
     {
       "month_day": "06-29",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:pr:14:30"
     },
     {
       "month_day": "06-30",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:gal:5:26"
     },
     {
       "month_day": "07-01",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:jas:3:14"
     },
     {
       "month_day": "07-02",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:mt:5:8"
     },
     {
       "month_day": "07-03",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:1cor:6:19"
     },
     {
       "month_day": "07-04",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:job:31:1"
     },
     {
       "month_day": "07-05",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:1jo:4:19"
     },
     {
       "month_day": "07-06",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:1cor:13:7"
     },
     {
       "month_day": "07-07",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:song:8:7"
     },
     {
       "month_day": "07-08",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:pr:16:18"
     },
     {
       "month_day": "07-09",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:pr:11:2"
     },
     {
       "month_day": "07-10",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:phil:2:3"
     },
     {
       "month_day": "07-11",
-      "passage_id": "web-c:phil:4:4"
+      "passage_id": "web-c:lk:6:37"
     },
     {
       "month_day": "07-12",
-      "passage_id": "web-c:jas:3:16"
+      "passage_id": "web-c:mk:11:25"
     },
     {
       "month_day": "07-13",
-      "passage_id": "web-c:gal:5:16"
+      "passage_id": "web-c:ro:12:18"
     },
     {
       "month_day": "07-14",
-      "passage_id": "web-c:1cor:13:4"
+      "passage_id": "web-c:2cor:4:8"
     },
     {
       "month_day": "07-15",
-      "passage_id": "web-c:jas:4:6"
+      "passage_id": "web-c:ps:40:1"
     },
     {
       "month_day": "07-16",
-      "passage_id": "web-c:col:3:13"
+      "passage_id": "web-c:isa:61:3"
     },
     {
       "month_day": "07-17",
-      "passage_id": "web-c:ps:42:11"
+      "passage_id": "web-c:eccl:9:10"
     },
     {
       "month_day": "07-18",
-      "passage_id": "web-c:eccl:3:1"
+      "passage_id": "web-c:col:3:23"
     },
     {
       "month_day": "07-19",
-      "passage_id": "web-c:ps:41:9"
+      "passage_id": "web-c:ps:27:14"
     },
     {
       "month_day": "07-20",
-      "passage_id": "web-c:ps:139:14"
+      "passage_id": "web-c:ps:55:12"
     },
     {
       "month_day": "07-21",
-      "passage_id": "web-c:lk:12:15"
+      "passage_id": "web-c:pr:18:24"
     },
     {
       "month_day": "07-22",
-      "passage_id": "web-c:jas:5:8"
+      "passage_id": "web-c:gen:50:20"
     },
     {
       "month_day": "07-23",
-      "passage_id": "web-c:phil:4:11"
+      "passage_id": "web-c:jer:1:5"
     },
     {
       "month_day": "07-24",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:eph:2:10"
     },
     {
       "month_day": "07-25",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:zeph:3:17"
     },
     {
       "month_day": "07-26",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:1tim:6:10"
     },
     {
       "month_day": "07-27",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:heb:13:5"
     },
     {
       "month_day": "07-28",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:mt:6:21"
     },
     {
       "month_day": "07-29",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:ro:12:12"
     },
     {
       "month_day": "07-30",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:ps:37:7"
     },
     {
       "month_day": "07-31",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:eccl:7:8"
     },
     {
       "month_day": "08-01",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:1tim:6:6"
     },
     {
       "month_day": "08-02",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:ps:73:25"
     },
     {
       "month_day": "08-03",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:mt:6:33"
     },
     {
       "month_day": "08-04",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:isa:41:10"
     },
     {
       "month_day": "08-05",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:ps:27:1"
     },
     {
       "month_day": "08-06",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:1pet:5:7"
     },
     {
       "month_day": "08-07",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:phil:4:6"
     },
     {
       "month_day": "08-08",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:mt:5:4"
     },
     {
       "month_day": "08-09",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:ps:34:18"
     },
     {
       "month_day": "08-10",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:1cor:10:13"
     },
     {
       "month_day": "08-11",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:mt:26:41"
     },
     {
       "month_day": "08-12",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:jn:14:18"
     },
     {
       "month_day": "08-13",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:mt:28:20"
     },
     {
       "month_day": "08-14",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:eph:4:26"
     },
     {
       "month_day": "08-15",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:jas:1:19"
     },
     {
       "month_day": "08-16",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:1jo:1:9"
     },
     {
       "month_day": "08-17",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:ro:8:1"
     },
     {
       "month_day": "08-18",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:mk:9:24"
     },
     {
       "month_day": "08-19",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:jn:20:29"
     },
     {
       "month_day": "08-20",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:mt:11:28"
     },
     {
       "month_day": "08-21",
-      "passage_id": "web-c:phil:4:4"
+      "passage_id": "web-c:isa:40:31"
     },
     {
       "month_day": "08-22",
-      "passage_id": "web-c:jas:3:16"
+      "passage_id": "web-c:1the:5:16"
     },
     {
       "month_day": "08-23",
-      "passage_id": "web-c:gal:5:16"
+      "passage_id": "web-c:ps:118:1"
     },
     {
       "month_day": "08-24",
-      "passage_id": "web-c:1cor:13:4"
+      "passage_id": "web-c:pr:3:5"
     },
     {
       "month_day": "08-25",
-      "passage_id": "web-c:jas:4:6"
+      "passage_id": "web-c:jas:1:5"
     },
     {
       "month_day": "08-26",
-      "passage_id": "web-c:col:3:13"
+      "passage_id": "web-c:eph:4:32"
     },
     {
       "month_day": "08-27",
-      "passage_id": "web-c:ps:42:11"
+      "passage_id": "web-c:mt:6:14"
     },
     {
       "month_day": "08-28",
-      "passage_id": "web-c:eccl:3:1"
+      "passage_id": "web-c:ps:61:2"
     },
     {
       "month_day": "08-29",
-      "passage_id": "web-c:ps:41:9"
+      "passage_id": "web-c:mt:6:34"
     },
     {
       "month_day": "08-30",
-      "passage_id": "web-c:ps:139:14"
+      "passage_id": "web-c:jer:29:11"
     },
     {
       "month_day": "08-31",
-      "passage_id": "web-c:lk:12:15"
+      "passage_id": "web-c:lam:3:22"
     },
     {
       "month_day": "09-01",
-      "passage_id": "web-c:jas:5:8"
+      "passage_id": "web-c:phil:4:4"
     },
     {
       "month_day": "09-02",
-      "passage_id": "web-c:phil:4:11"
+      "passage_id": "web-c:jas:3:16"
     },
     {
       "month_day": "09-03",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:gal:5:16"
     },
     {
       "month_day": "09-04",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:1cor:13:4"
     },
     {
       "month_day": "09-05",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:jas:4:6"
     },
     {
       "month_day": "09-06",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:col:3:13"
     },
     {
       "month_day": "09-07",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:ps:42:11"
     },
     {
       "month_day": "09-08",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:eccl:3:1"
     },
     {
       "month_day": "09-09",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:ps:41:9"
     },
     {
       "month_day": "09-10",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:ps:139:14"
     },
     {
       "month_day": "09-11",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:lk:12:15"
     },
     {
       "month_day": "09-12",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:jas:5:8"
     },
     {
       "month_day": "09-13",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:phil:4:11"
     },
     {
       "month_day": "09-14",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:josh:1:9"
     },
     {
       "month_day": "09-15",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:2tim:1:7"
     },
     {
       "month_day": "09-16",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:ps:94:19"
     },
     {
       "month_day": "09-17",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:jn:14:27"
     },
     {
       "month_day": "09-18",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:rev:21:4"
     },
     {
       "month_day": "09-19",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:ps:30:5"
     },
     {
       "month_day": "09-20",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:jas:1:12"
     },
     {
       "month_day": "09-21",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:heb:2:18"
     },
     {
       "month_day": "09-22",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:ps:68:6"
     },
     {
       "month_day": "09-23",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:deut:31:6"
     },
     {
       "month_day": "09-24",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:pr:15:1"
     },
     {
       "month_day": "09-25",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:col:3:8"
     },
     {
       "month_day": "09-26",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:ps:103:12"
     },
     {
       "month_day": "09-27",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:isa:1:18"
     },
     {
       "month_day": "09-28",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:jas:1:6"
     },
     {
       "month_day": "09-29",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:heb:11:1"
     },
     {
       "month_day": "09-30",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:gal:6:9"
     },
     {
       "month_day": "10-01",
-      "passage_id": "web-c:phil:4:4"
+      "passage_id": "web-c:ps:121:1"
     },
     {
       "month_day": "10-02",
-      "passage_id": "web-c:jas:3:16"
+      "passage_id": "web-c:ps:100:4"
     },
     {
       "month_day": "10-03",
-      "passage_id": "web-c:gal:5:16"
+      "passage_id": "web-c:col:3:17"
     },
     {
       "month_day": "10-04",
-      "passage_id": "web-c:1cor:13:4"
+      "passage_id": "web-c:ps:32:8"
     },
     {
       "month_day": "10-05",
-      "passage_id": "web-c:jas:4:6"
+      "passage_id": "web-c:ps:119:105"
     },
     {
       "month_day": "10-06",
-      "passage_id": "web-c:col:3:13"
+      "passage_id": "web-c:ps:147:3"
     },
     {
       "month_day": "10-07",
-      "passage_id": "web-c:ps:42:11"
+      "passage_id": "web-c:ro:12:19"
     },
     {
       "month_day": "10-08",
-      "passage_id": "web-c:eccl:3:1"
+      "passage_id": "web-c:ps:55:22"
     },
     {
       "month_day": "10-09",
-      "passage_id": "web-c:ps:41:9"
+      "passage_id": "web-c:2cor:12:9"
     },
     {
       "month_day": "10-10",
-      "passage_id": "web-c:ps:139:14"
+      "passage_id": "web-c:ro:15:13"
     },
     {
       "month_day": "10-11",
-      "passage_id": "web-c:lk:12:15"
+      "passage_id": "web-c:ro:8:28"
     },
     {
       "month_day": "10-12",
-      "passage_id": "web-c:jas:5:8"
+      "passage_id": "web-c:neh:8:10"
     },
     {
       "month_day": "10-13",
-      "passage_id": "web-c:phil:4:11"
+      "passage_id": "web-c:ps:16:11"
     },
     {
       "month_day": "10-14",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:jn:15:11"
     },
     {
       "month_day": "10-15",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:pr:14:30"
     },
     {
       "month_day": "10-16",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:gal:5:26"
     },
     {
       "month_day": "10-17",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:jas:3:14"
     },
     {
       "month_day": "10-18",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:mt:5:8"
     },
     {
       "month_day": "10-19",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:1cor:6:19"
     },
     {
       "month_day": "10-20",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:job:31:1"
     },
     {
       "month_day": "10-21",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:1jo:4:19"
     },
     {
       "month_day": "10-22",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:1cor:13:7"
     },
     {
       "month_day": "10-23",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:song:8:7"
     },
     {
       "month_day": "10-24",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:pr:16:18"
     },
     {
       "month_day": "10-25",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:pr:11:2"
     },
     {
       "month_day": "10-26",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:phil:2:3"
     },
     {
       "month_day": "10-27",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:lk:6:37"
     },
     {
       "month_day": "10-28",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:mk:11:25"
     },
     {
       "month_day": "10-29",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:ro:12:18"
     },
     {
       "month_day": "10-30",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:2cor:4:8"
     },
     {
       "month_day": "10-31",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:ps:40:1"
     },
     {
       "month_day": "11-01",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:isa:61:3"
     },
     {
       "month_day": "11-02",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:eccl:9:10"
     },
     {
       "month_day": "11-03",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:col:3:23"
     },
     {
       "month_day": "11-04",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:ps:27:14"
     },
     {
       "month_day": "11-05",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:ps:55:12"
     },
     {
       "month_day": "11-06",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:pr:18:24"
     },
     {
       "month_day": "11-07",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:gen:50:20"
     },
     {
       "month_day": "11-08",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:jer:1:5"
     },
     {
       "month_day": "11-09",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:eph:2:10"
     },
     {
       "month_day": "11-10",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:zeph:3:17"
     },
     {
       "month_day": "11-11",
-      "passage_id": "web-c:phil:4:4"
+      "passage_id": "web-c:1tim:6:10"
     },
     {
       "month_day": "11-12",
-      "passage_id": "web-c:jas:3:16"
+      "passage_id": "web-c:heb:13:5"
     },
     {
       "month_day": "11-13",
-      "passage_id": "web-c:gal:5:16"
+      "passage_id": "web-c:mt:6:21"
     },
     {
       "month_day": "11-14",
-      "passage_id": "web-c:1cor:13:4"
+      "passage_id": "web-c:ro:12:12"
     },
     {
       "month_day": "11-15",
-      "passage_id": "web-c:jas:4:6"
+      "passage_id": "web-c:ps:37:7"
     },
     {
       "month_day": "11-16",
-      "passage_id": "web-c:col:3:13"
+      "passage_id": "web-c:eccl:7:8"
     },
     {
       "month_day": "11-17",
-      "passage_id": "web-c:ps:42:11"
+      "passage_id": "web-c:1tim:6:6"
     },
     {
       "month_day": "11-18",
-      "passage_id": "web-c:eccl:3:1"
+      "passage_id": "web-c:ps:73:25"
     },
     {
       "month_day": "11-19",
-      "passage_id": "web-c:ps:41:9"
+      "passage_id": "web-c:mt:6:33"
     },
     {
       "month_day": "11-20",
-      "passage_id": "web-c:ps:139:14"
-    },
-    {
-      "month_day": "11-21",
-      "passage_id": "web-c:lk:12:15"
-    },
-    {
-      "month_day": "11-22",
-      "passage_id": "web-c:jas:5:8"
-    },
-    {
-      "month_day": "11-23",
-      "passage_id": "web-c:phil:4:11"
-    },
-    {
-      "month_day": "11-24",
       "passage_id": "web-c:isa:41:10"
     },
     {
-      "month_day": "11-25",
+      "month_day": "11-21",
       "passage_id": "web-c:ps:27:1"
     },
     {
-      "month_day": "11-26",
+      "month_day": "11-22",
       "passage_id": "web-c:1pet:5:7"
     },
     {
-      "month_day": "11-27",
+      "month_day": "11-23",
       "passage_id": "web-c:phil:4:6"
     },
     {
-      "month_day": "11-28",
+      "month_day": "11-24",
       "passage_id": "web-c:mt:5:4"
     },
     {
-      "month_day": "11-29",
+      "month_day": "11-25",
       "passage_id": "web-c:ps:34:18"
     },
     {
-      "month_day": "11-30",
+      "month_day": "11-26",
       "passage_id": "web-c:1cor:10:13"
     },
     {
-      "month_day": "12-01",
+      "month_day": "11-27",
       "passage_id": "web-c:mt:26:41"
     },
     {
-      "month_day": "12-02",
+      "month_day": "11-28",
       "passage_id": "web-c:jn:14:18"
     },
     {
-      "month_day": "12-03",
+      "month_day": "11-29",
       "passage_id": "web-c:mt:28:20"
     },
     {
-      "month_day": "12-04",
+      "month_day": "11-30",
       "passage_id": "web-c:eph:4:26"
     },
     {
-      "month_day": "12-05",
+      "month_day": "12-01",
       "passage_id": "web-c:jas:1:19"
     },
     {
-      "month_day": "12-06",
+      "month_day": "12-02",
       "passage_id": "web-c:1jo:1:9"
     },
     {
-      "month_day": "12-07",
+      "month_day": "12-03",
       "passage_id": "web-c:ro:8:1"
     },
     {
-      "month_day": "12-08",
+      "month_day": "12-04",
       "passage_id": "web-c:mk:9:24"
     },
     {
-      "month_day": "12-09",
+      "month_day": "12-05",
       "passage_id": "web-c:jn:20:29"
     },
     {
-      "month_day": "12-10",
+      "month_day": "12-06",
       "passage_id": "web-c:mt:11:28"
     },
     {
-      "month_day": "12-11",
+      "month_day": "12-07",
       "passage_id": "web-c:isa:40:31"
     },
     {
-      "month_day": "12-12",
+      "month_day": "12-08",
       "passage_id": "web-c:1the:5:16"
     },
     {
-      "month_day": "12-13",
+      "month_day": "12-09",
       "passage_id": "web-c:ps:118:1"
     },
     {
-      "month_day": "12-14",
+      "month_day": "12-10",
       "passage_id": "web-c:pr:3:5"
     },
     {
-      "month_day": "12-15",
+      "month_day": "12-11",
       "passage_id": "web-c:jas:1:5"
     },
     {
-      "month_day": "12-16",
+      "month_day": "12-12",
       "passage_id": "web-c:eph:4:32"
     },
     {
-      "month_day": "12-17",
+      "month_day": "12-13",
       "passage_id": "web-c:mt:6:14"
     },
     {
-      "month_day": "12-18",
+      "month_day": "12-14",
       "passage_id": "web-c:ps:61:2"
     },
     {
-      "month_day": "12-19",
+      "month_day": "12-15",
       "passage_id": "web-c:mt:6:34"
     },
     {
-      "month_day": "12-20",
+      "month_day": "12-16",
       "passage_id": "web-c:jer:29:11"
     },
     {
-      "month_day": "12-21",
+      "month_day": "12-17",
       "passage_id": "web-c:lam:3:22"
     },
     {
-      "month_day": "12-22",
+      "month_day": "12-18",
       "passage_id": "web-c:phil:4:4"
     },
     {
-      "month_day": "12-23",
+      "month_day": "12-19",
       "passage_id": "web-c:jas:3:16"
     },
     {
-      "month_day": "12-24",
+      "month_day": "12-20",
       "passage_id": "web-c:gal:5:16"
     },
     {
-      "month_day": "12-25",
+      "month_day": "12-21",
       "passage_id": "web-c:1cor:13:4"
     },
     {
-      "month_day": "12-26",
+      "month_day": "12-22",
       "passage_id": "web-c:jas:4:6"
     },
     {
-      "month_day": "12-27",
+      "month_day": "12-23",
       "passage_id": "web-c:col:3:13"
     },
     {
-      "month_day": "12-28",
+      "month_day": "12-24",
       "passage_id": "web-c:ps:42:11"
     },
     {
-      "month_day": "12-29",
+      "month_day": "12-25",
       "passage_id": "web-c:eccl:3:1"
     },
     {
-      "month_day": "12-30",
+      "month_day": "12-26",
       "passage_id": "web-c:ps:41:9"
     },
     {
-      "month_day": "12-31",
+      "month_day": "12-27",
       "passage_id": "web-c:ps:139:14"
+    },
+    {
+      "month_day": "12-28",
+      "passage_id": "web-c:lk:12:15"
+    },
+    {
+      "month_day": "12-29",
+      "passage_id": "web-c:jas:5:8"
+    },
+    {
+      "month_day": "12-30",
+      "passage_id": "web-c:phil:4:11"
+    },
+    {
+      "month_day": "12-31",
+      "passage_id": "web-c:josh:1:9"
     }
   ]
 }
