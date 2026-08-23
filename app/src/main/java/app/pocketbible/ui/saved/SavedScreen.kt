@@ -14,10 +14,12 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
+import app.pocketbible.R
 import app.pocketbible.data.EntrySummary
 
 @Composable
@@ -25,7 +27,7 @@ fun SavedScreen(saved: List<EntrySummary>, modifier: Modifier = Modifier) {
     if (saved.isEmpty()) {
         Box(modifier.fillMaxSize().padding(24.dp), contentAlignment = Alignment.Center) {
             Text(
-                "Verses you save appear here, and stay available offline.",
+                stringResource(R.string.saved_empty),
                 style = MaterialTheme.typography.bodyMedium,
                 textAlign = TextAlign.Center
             )
@@ -35,7 +37,7 @@ fun SavedScreen(saved: List<EntrySummary>, modifier: Modifier = Modifier) {
     LazyColumn(modifier.padding(horizontal = 20.dp)) {
         item {
             Spacer(Modifier.height(16.dp))
-            Text("Saved", style = MaterialTheme.typography.headlineSmall, fontWeight = FontWeight.Medium)
+            Text(stringResource(R.string.saved_title), style = MaterialTheme.typography.headlineSmall, fontWeight = FontWeight.Medium)
             Spacer(Modifier.height(12.dp))
         }
         items(saved, key = { it.entry.id }) { entry ->

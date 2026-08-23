@@ -19,6 +19,8 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.stringResource
+import app.pocketbible.R
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
@@ -66,7 +68,7 @@ private fun AppScaffold(viewModel: MainViewModel) {
                             contentDescription = null
                         )
                     },
-                    label = { Text("Feelings") }
+                    label = { Text(stringResource(R.string.nav_topics)) }
                 )
                 NavigationBarItem(
                     selected = currentRoute in bibleRoutes,
@@ -77,7 +79,7 @@ private fun AppScaffold(viewModel: MainViewModel) {
                             contentDescription = null
                         )
                     },
-                    label = { Text("Read") }
+                    label = { Text(stringResource(R.string.nav_read)) }
                 )
                 NavigationBarItem(
                     selected = currentRoute == "saved",
@@ -88,7 +90,7 @@ private fun AppScaffold(viewModel: MainViewModel) {
                             contentDescription = null
                         )
                     },
-                    label = { Text("Saved") }
+                    label = { Text(stringResource(R.string.nav_saved)) }
                 )
             }
         }
@@ -142,6 +144,8 @@ private fun AppScaffold(viewModel: MainViewModel) {
                         viewModel.selectBook(it)
                         navController.navigate("bible_chapters")
                     },
+                    onLoadChapters = { book -> viewModel.chaptersAvailable(book) },
+                    onLoadVerses = { book, chapter -> viewModel.versesAvailable(book, chapter) },
                     onGoToReference = { book, chapter, verse -> viewModel.goToReference(book, chapter, verse) },
                     onReferenceFound = { navController.navigate("bible_reader") }
                 )

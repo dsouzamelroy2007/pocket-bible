@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pocket Bible</string>
+
+    <string name="nav_topics">Temas</string>
+    <string name="nav_read">Leer</string>
+    <string name="nav_saved">Guardados</string>
+
+    <string name="home_title">¿Cómo está tu corazón hoy?</string>
+    <string name="home_subtitle">Elige lo que encaje, o busca una palabra o un sentimiento.</string>
+    <string name="home_search_placeholder">Buscar una palabra o un sentimiento</string>
+    <string name="home_no_matches">Sin coincidencias — prueba la lista de abajo.</string>
+    <string name="home_matches">Coincidencias</string>
+    <string name="home_i_am_feeling">Me siento…</string>
+    <string name="home_verse_of_day">Versículo del día</string>
+
+    <string name="read_title">Leer</string>
+    <string name="read_subtitle">Ve directamente a una referencia, o explora lo que está disponible abajo.</string>
+    <string name="read_empty_browse">Todavía no hay capítulos disponibles abajo — esta sigue siendo una versión temprana. El texto completo proviene de una importación masiva, no de esta pantalla.</string>
+    <string name="read_browse">Explorar</string>
+    <string name="read_go_to_verse">Ir a un versículo</string>
+    <string name="read_book_label">Libro</string>
+    <string name="read_chapter_label">Capítulo</string>
+    <string name="read_verse_label">Versículo</string>
+    <string name="read_whole_chapter">Capítulo completo</string>
+    <string name="read_go">Ir</string>
+    <string name="read_pick_book_chapter">Elige un libro y un capítulo.</string>
+    <string name="read_book_not_loaded">%1$s todavía no está disponible aquí.</string>
+    <string name="read_back">Atrás</string>
+    <string name="read_back_to_chapters">Volver a los capítulos</string>
+    <string name="read_previous">Anterior</string>
+    <string name="read_next">Siguiente</string>
+
+    <string name="saved_title">Guardados</string>
+    <string name="saved_empty">Los versículos que guardas aparecen aquí y siguen disponibles sin conexión.</string>
+
+    <string name="verse_no_entries">Todavía no hay entradas para %1$s.</string>
+    <string name="verse_what_it_means">Lo que esto significa para ti</string>
+    <string name="verse_a_saint">Un santo</string>
+    <string name="verse_short_prayer">Una breve oración</string>
+    <string name="verse_saved">Guardado</string>
+    <string name="verse_save">Guardar</string>
+    <string name="verse_another">Otro</string>
+</resources>

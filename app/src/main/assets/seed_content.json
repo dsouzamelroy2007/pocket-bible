@@ -1,6 +1,6 @@
 {
-  "content_version": 6,
-  "_note": "Scripture text is World English Bible Catholic Edition (public domain). The curated 'passages' (tied to feelings) were checked as noted before. The 'scripture' array (full chapters for the Read tab) now holds Psalm 1, Psalm 23, Psalm 100, and Psalm 117 — all four fetched directly from a clearly-labeled WEB source (sarata.com/bible/web) during authoring, not written from memory. Populating the rest of the Bible still needs a real bulk import from ebible.org's eng-web-c — see tools/import_scripture.py and the README. 'daily_passages' assigns one of the existing 28 curated passages to each day of the year by cycling through them — it is NOT 366 independently chosen 'best verse for this specific day' picks, just a way to make the Verse of the Day card show something every day without inventing new content. Replace with deliberate picks later if that curation is worth doing.",
+  "content_version": 7,
+  "_note": "Scripture text is World English Bible Catholic Edition (public domain). The curated 'passages' (tied to feelings) were checked as noted before. The 'scripture' array (full chapters for the Read tab) now holds Psalm 1, Psalm 23, Psalm 100, and Psalm 117 — all four fetched directly from a clearly-labeled WEB source (sarata.com/bible/web) during authoring, not written from memory. Populating the rest of the Bible still needs a real bulk import from ebible.org's eng-web-c — see tools/import_scripture.py and the README. 'daily_passages' assigns one of the existing 28 curated passages to each day of the year by cycling through them — it is NOT 366 independently chosen 'best verse for this specific day' picks, just a way to make the Verse of the Day card show something every day without inventing new content. Replace with deliberate picks later if that curation is worth doing. UPDATE (topics expansion): added 13 new topics beyond the original 14 (happy/joyful, jealous/envious, lust, love, pride/ego, unforgiving, depression, boredom, betrayal, insecurity, greed, impatience, discontent) with one primary passage each, all WEB-CE. Unlike the original 28 passages, these 13 verses were recalled from memory during authoring rather than copied from a checked source file -- they are common, frequently-quoted verses and are believed accurate, but (per this project's own stated policy on bulk-generated scripture text) have NOT been verified against a real WEB-CE source the way the rest of this file was. Worth a spot-check against ebible.org's eng-web-c before treating them as production-quality. 'daily_passages' now cycles through all 41 primary passages (28 original + 13 new) instead of just the original 28, still by simple rotation, not per-day curation. The `book` list now carries the full 73-book Catholic canon (46 OT incl. 7 deuterocanonical + 27 NT) so the Read tab's book picker covers the whole Bible -- actual chapter/verse text for the Read tab is still only the 4 chapters imported earlier; populating more remains a bulk-import job (tools/import_scripture.py).",
   "translations": [
     {
       "id": "web-c",
@@ -15,12 +15,180 @@
   ],
   "books": [
     {
-      "id": "isa",
-      "name": "Isaiah",
-      "display_name": "Isaiah",
+      "id": "gen",
+      "name": "Genesis",
+      "display_name": "Genesis",
       "testament": "ot",
       "is_deuterocanonical": false,
-      "sort_order": 23
+      "sort_order": 1
+    },
+    {
+      "id": "ex",
+      "name": "Exodus",
+      "display_name": "Exodus",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 2
+    },
+    {
+      "id": "lev",
+      "name": "Leviticus",
+      "display_name": "Leviticus",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 3
+    },
+    {
+      "id": "num",
+      "name": "Numbers",
+      "display_name": "Numbers",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 4
+    },
+    {
+      "id": "deut",
+      "name": "Deuteronomy",
+      "display_name": "Deuteronomy",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 5
+    },
+    {
+      "id": "josh",
+      "name": "Joshua",
+      "display_name": "Joshua",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 6
+    },
+    {
+      "id": "judg",
+      "name": "Judges",
+      "display_name": "Judges",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 7
+    },
+    {
+      "id": "ruth",
+      "name": "Ruth",
+      "display_name": "Ruth",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 8
+    },
+    {
+      "id": "1sam",
+      "name": "1 Samuel",
+      "display_name": "1 Samuel",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 9
+    },
+    {
+      "id": "2sam",
+      "name": "2 Samuel",
+      "display_name": "2 Samuel",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 10
+    },
+    {
+      "id": "1kgs",
+      "name": "1 Kings",
+      "display_name": "1 Kings",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 11
+    },
+    {
+      "id": "2kgs",
+      "name": "2 Kings",
+      "display_name": "2 Kings",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 12
+    },
+    {
+      "id": "1chr",
+      "name": "1 Chronicles",
+      "display_name": "1 Chronicles",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 13
+    },
+    {
+      "id": "2chr",
+      "name": "2 Chronicles",
+      "display_name": "2 Chronicles",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 14
+    },
+    {
+      "id": "ezra",
+      "name": "Ezra",
+      "display_name": "Ezra",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 15
+    },
+    {
+      "id": "neh",
+      "name": "Nehemiah",
+      "display_name": "Nehemiah",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 16
+    },
+    {
+      "id": "tob",
+      "name": "Tobit",
+      "display_name": "Tobit",
+      "testament": "ot",
+      "is_deuterocanonical": true,
+      "sort_order": 17
+    },
+    {
+      "id": "jdt",
+      "name": "Judith",
+      "display_name": "Judith",
+      "testament": "ot",
+      "is_deuterocanonical": true,
+      "sort_order": 18
+    },
+    {
+      "id": "esth",
+      "name": "Esther",
+      "display_name": "Esther",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 19
+    },
+    {
+      "id": "1macc",
+      "name": "1 Maccabees",
+      "display_name": "1 Maccabees",
+      "testament": "ot",
+      "is_deuterocanonical": true,
+      "sort_order": 20
+    },
+    {
+      "id": "2macc",
+      "name": "2 Maccabees",
+      "display_name": "2 Maccabees",
+      "testament": "ot",
+      "is_deuterocanonical": true,
+      "sort_order": 21
+    },
+    {
+      "id": "job",
+      "name": "Job",
+      "display_name": "Job",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 22
     },
     {
       "id": "ps",
@@ -28,95 +196,7 @@
       "display_name": "Psalms",
       "testament": "ot",
       "is_deuterocanonical": false,
-      "sort_order": 19
-    },
-    {
-      "id": "mt",
-      "name": "Matthew",
-      "display_name": "Matthew",
-      "testament": "nt",
-      "is_deuterocanonical": false,
-      "sort_order": 40
-    },
-    {
-      "id": "1cor",
-      "name": "1 Corinthians",
-      "display_name": "1 Corinthians",
-      "testament": "nt",
-      "is_deuterocanonical": false,
-      "sort_order": 46
-    },
-    {
-      "id": "phil",
-      "name": "Philippians",
-      "display_name": "Philippians",
-      "testament": "nt",
-      "is_deuterocanonical": false,
-      "sort_order": 50
-    },
-    {
-      "id": "1pet",
-      "name": "1 Peter",
-      "display_name": "1 Peter",
-      "testament": "nt",
-      "is_deuterocanonical": false,
-      "sort_order": 60
-    },
-    {
-      "id": "jn",
-      "name": "John",
-      "display_name": "John",
-      "testament": "nt",
-      "is_deuterocanonical": false,
-      "sort_order": 43
-    },
-    {
-      "id": "mk",
-      "name": "Mark",
-      "display_name": "Mark",
-      "testament": "nt",
-      "is_deuterocanonical": false,
-      "sort_order": 41
-    },
-    {
-      "id": "ro",
-      "name": "Romans",
-      "display_name": "Romans",
-      "testament": "nt",
-      "is_deuterocanonical": false,
-      "sort_order": 45
-    },
-    {
-      "id": "eph",
-      "name": "Ephesians",
-      "display_name": "Ephesians",
-      "testament": "nt",
-      "is_deuterocanonical": false,
-      "sort_order": 49
-    },
-    {
-      "id": "1the",
-      "name": "1 Thessalonians",
-      "display_name": "1 Thessalonians",
-      "testament": "nt",
-      "is_deuterocanonical": false,
-      "sort_order": 52
-    },
-    {
-      "id": "jas",
-      "name": "James",
-      "display_name": "James",
-      "testament": "nt",
-      "is_deuterocanonical": false,
-      "sort_order": 59
-    },
-    {
-      "id": "1jo",
-      "name": "1 John",
-      "display_name": "1 John",
-      "testament": "nt",
-      "is_deuterocanonical": false,
-      "sort_order": 62
+      "sort_order": 23
     },
     {
       "id": "pr",
@@ -124,7 +204,47 @@
       "display_name": "Proverbs",
       "testament": "ot",
       "is_deuterocanonical": false,
-      "sort_order": 20
+      "sort_order": 24
+    },
+    {
+      "id": "eccl",
+      "name": "Ecclesiastes",
+      "display_name": "Ecclesiastes",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 25
+    },
+    {
+      "id": "song",
+      "name": "Song of Songs",
+      "display_name": "Song of Songs",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 26
+    },
+    {
+      "id": "wis",
+      "name": "Wisdom",
+      "display_name": "Wisdom",
+      "testament": "ot",
+      "is_deuterocanonical": true,
+      "sort_order": 27
+    },
+    {
+      "id": "sir",
+      "name": "Sirach",
+      "display_name": "Sirach",
+      "testament": "ot",
+      "is_deuterocanonical": true,
+      "sort_order": 28
+    },
+    {
+      "id": "isa",
+      "name": "Isaiah",
+      "display_name": "Isaiah",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 29
     },
     {
       "id": "jer",
@@ -132,7 +252,7 @@
       "display_name": "Jeremiah",
       "testament": "ot",
       "is_deuterocanonical": false,
-      "sort_order": 24
+      "sort_order": 30
     },
     {
       "id": "lam",
@@ -140,7 +260,343 @@
       "display_name": "Lamentations",
       "testament": "ot",
       "is_deuterocanonical": false,
-      "sort_order": 25
+      "sort_order": 31
+    },
+    {
+      "id": "bar",
+      "name": "Baruch",
+      "display_name": "Baruch",
+      "testament": "ot",
+      "is_deuterocanonical": true,
+      "sort_order": 32
+    },
+    {
+      "id": "ezek",
+      "name": "Ezekiel",
+      "display_name": "Ezekiel",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 33
+    },
+    {
+      "id": "dan",
+      "name": "Daniel",
+      "display_name": "Daniel",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 34
+    },
+    {
+      "id": "hos",
+      "name": "Hosea",
+      "display_name": "Hosea",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 35
+    },
+    {
+      "id": "joel",
+      "name": "Joel",
+      "display_name": "Joel",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 36
+    },
+    {
+      "id": "amos",
+      "name": "Amos",
+      "display_name": "Amos",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 37
+    },
+    {
+      "id": "obad",
+      "name": "Obadiah",
+      "display_name": "Obadiah",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 38
+    },
+    {
+      "id": "jonah",
+      "name": "Jonah",
+      "display_name": "Jonah",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 39
+    },
+    {
+      "id": "mic",
+      "name": "Micah",
+      "display_name": "Micah",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 40
+    },
+    {
+      "id": "nah",
+      "name": "Nahum",
+      "display_name": "Nahum",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 41
+    },
+    {
+      "id": "hab",
+      "name": "Habakkuk",
+      "display_name": "Habakkuk",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 42
+    },
+    {
+      "id": "zeph",
+      "name": "Zephaniah",
+      "display_name": "Zephaniah",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 43
+    },
+    {
+      "id": "hag",
+      "name": "Haggai",
+      "display_name": "Haggai",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 44
+    },
+    {
+      "id": "zech",
+      "name": "Zechariah",
+      "display_name": "Zechariah",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 45
+    },
+    {
+      "id": "mal",
+      "name": "Malachi",
+      "display_name": "Malachi",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 46
+    },
+    {
+      "id": "mt",
+      "name": "Matthew",
+      "display_name": "Matthew",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 47
+    },
+    {
+      "id": "mk",
+      "name": "Mark",
+      "display_name": "Mark",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 48
+    },
+    {
+      "id": "lk",
+      "name": "Luke",
+      "display_name": "Luke",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 49
+    },
+    {
+      "id": "jn",
+      "name": "John",
+      "display_name": "John",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 50
+    },
+    {
+      "id": "acts",
+      "name": "Acts",
+      "display_name": "Acts",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 51
+    },
+    {
+      "id": "ro",
+      "name": "Romans",
+      "display_name": "Romans",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 52
+    },
+    {
+      "id": "1cor",
+      "name": "1 Corinthians",
+      "display_name": "1 Corinthians",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 53
+    },
+    {
+      "id": "2cor",
+      "name": "2 Corinthians",
+      "display_name": "2 Corinthians",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 54
+    },
+    {
+      "id": "gal",
+      "name": "Galatians",
+      "display_name": "Galatians",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 55
+    },
+    {
+      "id": "eph",
+      "name": "Ephesians",
+      "display_name": "Ephesians",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 56
+    },
+    {
+      "id": "phil",
+      "name": "Philippians",
+      "display_name": "Philippians",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 57
+    },
+    {
+      "id": "col",
+      "name": "Colossians",
+      "display_name": "Colossians",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 58
+    },
+    {
+      "id": "1the",
+      "name": "1 Thessalonians",
+      "display_name": "1 Thessalonians",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 59
+    },
+    {
+      "id": "2the",
+      "name": "2 Thessalonians",
+      "display_name": "2 Thessalonians",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 60
+    },
+    {
+      "id": "1tim",
+      "name": "1 Timothy",
+      "display_name": "1 Timothy",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 61
+    },
+    {
+      "id": "2tim",
+      "name": "2 Timothy",
+      "display_name": "2 Timothy",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 62
+    },
+    {
+      "id": "titus",
+      "name": "Titus",
+      "display_name": "Titus",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 63
+    },
+    {
+      "id": "phlm",
+      "name": "Philemon",
+      "display_name": "Philemon",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 64
+    },
+    {
+      "id": "heb",
+      "name": "Hebrews",
+      "display_name": "Hebrews",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 65
+    },
+    {
+      "id": "jas",
+      "name": "James",
+      "display_name": "James",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 66
+    },
+    {
+      "id": "1pet",
+      "name": "1 Peter",
+      "display_name": "1 Peter",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 67
+    },
+    {
+      "id": "2pet",
+      "name": "2 Peter",
+      "display_name": "2 Peter",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 68
+    },
+    {
+      "id": "1jo",
+      "name": "1 John",
+      "display_name": "1 John",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 69
+    },
+    {
+      "id": "2jo",
+      "name": "2 John",
+      "display_name": "2 John",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 70
+    },
+    {
+      "id": "3jo",
+      "name": "3 John",
+      "display_name": "3 John",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 71
+    },
+    {
+      "id": "jude",
+      "name": "Jude",
+      "display_name": "Jude",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 72
+    },
+    {
+      "id": "rev",
+      "name": "Revelation",
+      "display_name": "Revelation",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 73
     }
   ],
   "feelings": [
@@ -535,6 +991,372 @@
           "weight": 0.7
         }
       ]
+    },
+    {
+      "id": "joyful",
+      "label": "Happy",
+      "icon": "ti-mood-smile",
+      "category": "thanksgiving",
+      "description": "For the days that feel light, and are worth noticing while they do.",
+      "sort_order": 15,
+      "aliases": [
+        {
+          "alias": "happy",
+          "weight": 1.0
+        },
+        {
+          "alias": "joyful",
+          "weight": 1.0
+        },
+        {
+          "alias": "glad",
+          "weight": 0.8
+        },
+        {
+          "alias": "feeling good",
+          "weight": 0.7
+        },
+        {
+          "alias": "things are going great",
+          "weight": 0.7
+        }
+      ]
+    },
+    {
+      "id": "envious",
+      "label": "Jealous",
+      "icon": "ti-eye",
+      "category": "moral",
+      "description": "For when someone else's life looks like a verdict on your own.",
+      "sort_order": 16,
+      "aliases": [
+        {
+          "alias": "jealous",
+          "weight": 1.0
+        },
+        {
+          "alias": "jealousy",
+          "weight": 1.0
+        },
+        {
+          "alias": "envious",
+          "weight": 1.0
+        },
+        {
+          "alias": "envy",
+          "weight": 1.0
+        },
+        {
+          "alias": "comparing myself to others",
+          "weight": 0.8
+        },
+        {
+          "alias": "want what they have",
+          "weight": 0.7
+        }
+      ]
+    },
+    {
+      "id": "lust",
+      "label": "Tempted by lust",
+      "icon": "ti-alert-triangle",
+      "category": "moral",
+      "description": "For desire that's pulling somewhere you don't want to end up.",
+      "sort_order": 17,
+      "aliases": [
+        {
+          "alias": "lust",
+          "weight": 1.0
+        },
+        {
+          "alias": "lustful",
+          "weight": 1.0
+        },
+        {
+          "alias": "impure thoughts",
+          "weight": 0.8
+        },
+        {
+          "alias": "sexual temptation",
+          "weight": 0.8
+        }
+      ]
+    },
+    {
+      "id": "loving",
+      "label": "In love",
+      "icon": "ti-heart-filled",
+      "category": "relational",
+      "description": "For when your heart is full of someone, and you want it to be good.",
+      "sort_order": 18,
+      "aliases": [
+        {
+          "alias": "in love",
+          "weight": 1.0
+        },
+        {
+          "alias": "love someone",
+          "weight": 1.0
+        },
+        {
+          "alias": "loving someone",
+          "weight": 0.9
+        },
+        {
+          "alias": "care deeply about someone",
+          "weight": 0.7
+        }
+      ]
+    },
+    {
+      "id": "proud",
+      "label": "Prideful",
+      "icon": "ti-crown",
+      "category": "moral",
+      "description": "For when you notice you've started looking down instead of up.",
+      "sort_order": 19,
+      "aliases": [
+        {
+          "alias": "proud",
+          "weight": 1.0
+        },
+        {
+          "alias": "prideful",
+          "weight": 1.0
+        },
+        {
+          "alias": "arrogant",
+          "weight": 0.8
+        },
+        {
+          "alias": "ego",
+          "weight": 0.9
+        },
+        {
+          "alias": "full of myself",
+          "weight": 0.7
+        },
+        {
+          "alias": "better than others",
+          "weight": 0.6
+        }
+      ]
+    },
+    {
+      "id": "unforgiving",
+      "label": "Holding a grudge",
+      "icon": "ti-ban",
+      "category": "relational",
+      "description": "For the wrong you keep replaying instead of putting down.",
+      "sort_order": 20,
+      "aliases": [
+        {
+          "alias": "unforgiving",
+          "weight": 1.0
+        },
+        {
+          "alias": "holding a grudge",
+          "weight": 1.0
+        },
+        {
+          "alias": "resentment",
+          "weight": 0.8
+        },
+        {
+          "alias": "won't let it go",
+          "weight": 0.7
+        }
+      ]
+    },
+    {
+      "id": "depressed",
+      "label": "Depressed",
+      "icon": "ti-cloud-off",
+      "category": "distress",
+      "description": "For the heaviness that doesn't lift just because the day changed.",
+      "sort_order": 21,
+      "aliases": [
+        {
+          "alias": "depressed",
+          "weight": 1.0
+        },
+        {
+          "alias": "depression",
+          "weight": 1.0
+        },
+        {
+          "alias": "hopeless",
+          "weight": 0.8
+        },
+        {
+          "alias": "empty inside",
+          "weight": 0.8
+        },
+        {
+          "alias": "numb",
+          "weight": 0.7
+        },
+        {
+          "alias": "don't want to get out of bed",
+          "weight": 0.7
+        }
+      ]
+    },
+    {
+      "id": "bored",
+      "label": "Bored",
+      "icon": "ti-clock",
+      "category": "desire",
+      "description": "For the flat, uneventful stretch that doesn't seem to be going anywhere.",
+      "sort_order": 22,
+      "aliases": [
+        {
+          "alias": "bored",
+          "weight": 1.0
+        },
+        {
+          "alias": "boredom",
+          "weight": 1.0
+        },
+        {
+          "alias": "restless",
+          "weight": 0.7
+        },
+        {
+          "alias": "nothing to do",
+          "weight": 0.6
+        }
+      ]
+    },
+    {
+      "id": "betrayed",
+      "label": "Betrayed",
+      "icon": "ti-user-x",
+      "category": "relational",
+      "description": "For when it was someone close, not a stranger, who did it.",
+      "sort_order": 23,
+      "aliases": [
+        {
+          "alias": "betrayed",
+          "weight": 1.0
+        },
+        {
+          "alias": "betrayal",
+          "weight": 1.0
+        },
+        {
+          "alias": "friend turned on me",
+          "weight": 0.8
+        },
+        {
+          "alias": "stabbed in the back",
+          "weight": 0.7
+        }
+      ]
+    },
+    {
+      "id": "insecure",
+      "label": "Insecure",
+      "icon": "ti-mirror",
+      "category": "desire",
+      "description": "For when you can't stop measuring yourself against everyone else.",
+      "sort_order": 24,
+      "aliases": [
+        {
+          "alias": "insecure",
+          "weight": 1.0
+        },
+        {
+          "alias": "not good enough",
+          "weight": 0.9
+        },
+        {
+          "alias": "low self esteem",
+          "weight": 0.9
+        },
+        {
+          "alias": "self conscious",
+          "weight": 0.7
+        }
+      ]
+    },
+    {
+      "id": "greedy",
+      "label": "Greedy",
+      "icon": "ti-coin",
+      "category": "moral",
+      "description": "For when more of it feels like it would finally be enough.",
+      "sort_order": 25,
+      "aliases": [
+        {
+          "alias": "greedy",
+          "weight": 1.0
+        },
+        {
+          "alias": "greed",
+          "weight": 1.0
+        },
+        {
+          "alias": "materialistic",
+          "weight": 0.8
+        },
+        {
+          "alias": "never satisfied",
+          "weight": 0.7
+        }
+      ]
+    },
+    {
+      "id": "impatient",
+      "label": "Impatient",
+      "icon": "ti-hourglass",
+      "category": "distress",
+      "description": "For when the waiting itself is the hardest part.",
+      "sort_order": 26,
+      "aliases": [
+        {
+          "alias": "impatient",
+          "weight": 1.0
+        },
+        {
+          "alias": "impatience",
+          "weight": 1.0
+        },
+        {
+          "alias": "tired of waiting",
+          "weight": 0.8
+        },
+        {
+          "alias": "why is this taking so long",
+          "weight": 0.7
+        }
+      ]
+    },
+    {
+      "id": "discontent",
+      "label": "Discontent",
+      "icon": "ti-scale",
+      "category": "desire",
+      "description": "For when what you have doesn't feel like it's enough.",
+      "sort_order": 27,
+      "aliases": [
+        {
+          "alias": "discontent",
+          "weight": 1.0
+        },
+        {
+          "alias": "dissatisfied",
+          "weight": 0.9
+        },
+        {
+          "alias": "want a different life",
+          "weight": 0.7
+        },
+        {
+          "alias": "nothing feels like enough",
+          "weight": 0.7
+        }
+      ]
     }
   ],
   "passages": [
@@ -901,6 +1723,175 @@
       "pull_quote": "They are new every morning. Great is your faithfulness.",
       "reference_display": "Lamentations 3:22-23",
       "reference_alt": null
+    },
+    {
+      "id": "web-c:phil:4:4",
+      "translation_id": "web-c",
+      "book_id": "phil",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 4,
+      "verse_end": 4,
+      "text": "Rejoice in the Lord always! Again I will say, rejoice!",
+      "pull_quote": null,
+      "reference_display": "Philippians 4:4",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jas:3:16",
+      "translation_id": "web-c",
+      "book_id": "jas",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 16,
+      "verse_end": 16,
+      "text": "For where jealousy and selfish ambition are, there is confusion and every evil deed.",
+      "pull_quote": null,
+      "reference_display": "James 3:16",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:gal:5:16",
+      "translation_id": "web-c",
+      "book_id": "gal",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 16,
+      "verse_end": 16,
+      "text": "But I say, walk by the Spirit, and you won't fulfill the lust of the flesh.",
+      "pull_quote": null,
+      "reference_display": "Galatians 5:16",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1cor:13:4",
+      "translation_id": "web-c",
+      "book_id": "1cor",
+      "chapter_start": 13,
+      "chapter_end": 13,
+      "verse_start": 4,
+      "verse_end": 5,
+      "text": "Love is patient and is kind. Love doesn't envy. Love doesn't brag, is not proud, doesn't behave itself inappropriately, doesn't seek its own way, is not provoked, takes no account of evil.",
+      "pull_quote": "Love is patient and is kind.",
+      "reference_display": "1 Corinthians 13:4-5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jas:4:6",
+      "translation_id": "web-c",
+      "book_id": "jas",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 6,
+      "verse_end": 6,
+      "text": "But he gives more grace. Therefore it says, \"God resists the proud, but gives grace to the humble.\"",
+      "pull_quote": "God resists the proud, but gives grace to the humble.",
+      "reference_display": "James 4:6",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:col:3:13",
+      "translation_id": "web-c",
+      "book_id": "col",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 13,
+      "verse_end": 13,
+      "text": "bearing with one another, and forgiving each other, if any man has a complaint against any; even as Christ forgave you, so you also do.",
+      "pull_quote": null,
+      "reference_display": "Colossians 3:13",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:42:11",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 42,
+      "chapter_end": 42,
+      "verse_start": 11,
+      "verse_end": 11,
+      "text": "Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him, the saving help of my countenance, and my God.",
+      "pull_quote": "Hope in God! For I shall still praise him.",
+      "reference_display": "Psalm 42:11",
+      "reference_alt": "Psalm 41:12 (Vulgate)"
+    },
+    {
+      "id": "web-c:eccl:3:1",
+      "translation_id": "web-c",
+      "book_id": "eccl",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "For everything there is a season, and a time for every purpose under heaven.",
+      "pull_quote": null,
+      "reference_display": "Ecclesiastes 3:1",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:41:9",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 41,
+      "chapter_end": 41,
+      "verse_start": 9,
+      "verse_end": 9,
+      "text": "Yes, my own familiar friend, in whom I trusted, who ate bread with me, has lifted up his heel against me.",
+      "pull_quote": null,
+      "reference_display": "Psalm 41:9",
+      "reference_alt": "Psalm 40:10 (Vulgate)"
+    },
+    {
+      "id": "web-c:ps:139:14",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 139,
+      "chapter_end": 139,
+      "verse_start": 14,
+      "verse_end": 14,
+      "text": "I will give thanks to you, for I am fearfully and wonderfully made. Your works are wonderful. My soul knows that very well.",
+      "pull_quote": "I am fearfully and wonderfully made.",
+      "reference_display": "Psalm 139:14",
+      "reference_alt": "Psalm 138:14 (Vulgate)"
+    },
+    {
+      "id": "web-c:lk:12:15",
+      "translation_id": "web-c",
+      "book_id": "lk",
+      "chapter_start": 12,
+      "chapter_end": 12,
+      "verse_start": 15,
+      "verse_end": 15,
+      "text": "Beware! Keep yourselves from covetousness, for a man's life doesn't consist of the abundance of the things which he possesses.",
+      "pull_quote": null,
+      "reference_display": "Luke 12:15",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jas:5:8",
+      "translation_id": "web-c",
+      "book_id": "jas",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 8,
+      "verse_end": 8,
+      "text": "You also be patient. Establish your hearts, for the coming of the Lord is at hand.",
+      "pull_quote": null,
+      "reference_display": "James 5:8",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:phil:4:11",
+      "translation_id": "web-c",
+      "book_id": "phil",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 11,
+      "verse_end": 11,
+      "text": "Not that I speak in respect to lack, for I have learned in whatever state I am, to be content in it.",
+      "pull_quote": "I have learned in whatever state I am, to be content in it.",
+      "reference_display": "Philippians 4:11",
+      "reference_alt": null
     }
   ],
   "entries": [
@@ -1239,6 +2230,162 @@
       "saint_quote": null,
       "saint_attribution": null,
       "liturgical_season": null
+    },
+    {
+      "id": "joyful-phil-4-4",
+      "feeling_id": "joyful",
+      "reflection": "Paul writes this from a prison cell, which means the command isn't conditioned on circumstances going well. Joy here is something chosen and repeated — “again I will say” — not a mood that only arrives on its own schedule.",
+      "prayer": "Lord, thank you for this gladness. Let it root deep enough to survive the days it doesn't come easily.",
+      "intensity": "steady",
+      "depth_order": 1,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "envious-jas-3-16",
+      "feeling_id": "envious",
+      "reflection": "James doesn't soften what jealousy produces: confusion and disorder, not just an uncomfortable feeling. Naming it plainly is the first step out of it — envy convinces you someone else's portion is a verdict on your own, which it never actually is.",
+      "prayer": "Lord, quiet the comparing in me. Help me want what you've given, not what you've given someone else.",
+      "intensity": "acute",
+      "depth_order": 1,
+      "ccc_reference": "2539",
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lust-gal-5-16",
+      "feeling_id": "lust",
+      "reflection": "Paul doesn't tell you to white-knuckle the desire into silence. He points to a direction to walk instead — the discipline isn't only refusal, it's replacement, filling the space with something that actually leads somewhere good.",
+      "prayer": "Lord, redirect what's pulling at me right now. Teach me to walk toward you instead of away.",
+      "intensity": "acute",
+      "depth_order": 1,
+      "ccc_reference": "2339",
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "loving-1cor-13-4",
+      "feeling_id": "loving",
+      "reflection": "This isn't a description of a feeling but a list of actions, worth noticing when love feels complicated. Patience and kindness can be practiced even on the days the warmth doesn't come as naturally as it does right now.",
+      "prayer": "Lord, love through me today, especially in the small ways that are easy to skip.",
+      "intensity": "steady",
+      "depth_order": 1,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "proud-jas-4-6",
+      "feeling_id": "proud",
+      "reflection": "The contrast here is stark: resistance for the proud, grace for the humble. Pride isn't condemned for being confident — it's the posture of needing nothing from God, which is exactly the posture that shuts grace out.",
+      "prayer": "Lord, show me where I've been standing on my own. I'd rather have your grace than my certainty.",
+      "intensity": "steady",
+      "depth_order": 1,
+      "ccc_reference": "2094",
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unforgiving-col-3-13",
+      "feeling_id": "unforgiving",
+      "reflection": "Paul assumes there will be a complaint — “if any man has a complaint against any” — the grievance is treated as ordinary, not unusual. What's asked isn't that the wrong stops mattering, only that it stops being what you charge them for.",
+      "prayer": "Lord, I'm still holding this against them. Help me set it down the way you've set down what I owe you.",
+      "intensity": "steady",
+      "depth_order": 1,
+      "ccc_reference": "2842",
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "depressed-ps-42-11",
+      "feeling_id": "depressed",
+      "reflection": "The psalmist argues out loud with his own soul, which is itself instructive — you're allowed to question the despair rather than simply accept it as the whole truth. Hope is spoken here as a command to himself, not a feeling he's waiting to arrive.",
+      "prayer": "Lord, I don't feel much of anything good right now. Be the hope I can't manufacture on my own.",
+      "intensity": "acute",
+      "depth_order": 1,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "bored-eccl-3-1",
+      "feeling_id": "bored",
+      "reflection": "The Preacher doesn't rank seasons — a slow one isn't a wasted one. If everything has its time, then even the flat, uneventful stretch belongs to something, whether or not you can see what yet.",
+      "prayer": "Lord, meet me in this dull stretch. Show me what it's for, or give me patience if I'm not meant to see that yet.",
+      "intensity": "settled",
+      "depth_order": 1,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "betrayed-ps-41-9",
+      "feeling_id": "betrayed",
+      "reflection": "David names the specific ache of this one: not a stranger's cruelty but a friend's, someone who ate at his table. Christ prays nearly this same psalm the night Judas betrays him — this wound is old, and it's one God has stood inside personally.",
+      "prayer": "Lord, someone I trusted turned on me. You know this pain from the inside — sit with me in it.",
+      "intensity": "acute",
+      "depth_order": 1,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "insecure-ps-139-14",
+      "feeling_id": "insecure",
+      "reflection": "The psalmist doesn't arrive at this confidence by comparison to anyone else — it's aimed entirely at the maker, not the mirror. Worth here is declared, not earned or measured against the person next to you.",
+      "prayer": "Lord, remind me I'm your careful work, not a rough draft. Quiet the voice that tells me otherwise.",
+      "intensity": "steady",
+      "depth_order": 1,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "greedy-lk-12-15",
+      "feeling_id": "greedy",
+      "reflection": "Christ's warning comes right after a man asks him to settle an inheritance dispute — the danger named isn't wealth itself but the belief that having more would finally be enough. It never quite is, which is the tell.",
+      "prayer": "Lord, loosen my grip on what I have and what I want. Let my life be measured by something other than what I own.",
+      "intensity": "steady",
+      "depth_order": 1,
+      "ccc_reference": "2536",
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "impatient-jas-5-8",
+      "feeling_id": "impatient",
+      "reflection": "James points to a farmer who can't rush a harvest no matter how much he wants to — some things only come in their own time, and pushing against that timeline mostly just wears out the one pushing.",
+      "prayer": "Lord, steady my heart while I wait. Help me trust your timing more than my own.",
+      "intensity": "acute",
+      "depth_order": 1,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "discontent-phil-4-11",
+      "feeling_id": "discontent",
+      "reflection": "Paul is careful to call this something learned, not something he arrived with naturally. Contentment here isn't pretending the hard state is fine — it's a skill built over time, one circumstance at a time.",
+      "prayer": "Lord, teach me to be content in what is, without giving up on hoping for what could be.",
+      "intensity": "settled",
+      "depth_order": 1,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
     }
   ],
   "entry_passages": [
@@ -1415,6 +2562,84 @@
       "passage_id": "web-c:ps:27:1",
       "position": 1,
       "role": "echo"
+    },
+    {
+      "entry_id": "joyful-phil-4-4",
+      "passage_id": "web-c:phil:4:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "envious-jas-3-16",
+      "passage_id": "web-c:jas:3:16",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lust-gal-5-16",
+      "passage_id": "web-c:gal:5:16",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "loving-1cor-13-4",
+      "passage_id": "web-c:1cor:13:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "proud-jas-4-6",
+      "passage_id": "web-c:jas:4:6",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unforgiving-col-3-13",
+      "passage_id": "web-c:col:3:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "depressed-ps-42-11",
+      "passage_id": "web-c:ps:42:11",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "bored-eccl-3-1",
+      "passage_id": "web-c:eccl:3:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "betrayed-ps-41-9",
+      "passage_id": "web-c:ps:41:9",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "insecure-ps-139-14",
+      "passage_id": "web-c:ps:139:14",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "greedy-lk-12-15",
+      "passage_id": "web-c:lk:12:15",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "impatient-jas-5-8",
+      "passage_id": "web-c:jas:5:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discontent-phil-4-11",
+      "passage_id": "web-c:phil:4:11",
+      "position": 0,
+      "role": "primary"
     }
   ],
   "daily_passages": [
@@ -1532,1355 +2757,1355 @@
     },
     {
       "month_day": "01-29",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:phil:4:4"
     },
     {
       "month_day": "01-30",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:jas:3:16"
     },
     {
       "month_day": "01-31",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:gal:5:16"
     },
     {
       "month_day": "02-01",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:1cor:13:4"
     },
     {
       "month_day": "02-02",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:jas:4:6"
     },
     {
       "month_day": "02-03",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:col:3:13"
     },
     {
       "month_day": "02-04",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:ps:42:11"
     },
     {
       "month_day": "02-05",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:eccl:3:1"
     },
     {
       "month_day": "02-06",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:ps:41:9"
     },
     {
       "month_day": "02-07",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:ps:139:14"
     },
     {
       "month_day": "02-08",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:lk:12:15"
     },
     {
       "month_day": "02-09",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:jas:5:8"
     },
     {
       "month_day": "02-10",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:phil:4:11"
     },
     {
       "month_day": "02-11",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:isa:41:10"
     },
     {
       "month_day": "02-12",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:ps:27:1"
     },
     {
       "month_day": "02-13",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:1pet:5:7"
     },
     {
       "month_day": "02-14",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:phil:4:6"
     },
     {
       "month_day": "02-15",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:mt:5:4"
     },
     {
       "month_day": "02-16",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:ps:34:18"
     },
     {
       "month_day": "02-17",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:1cor:10:13"
     },
     {
       "month_day": "02-18",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:mt:26:41"
     },
     {
       "month_day": "02-19",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:jn:14:18"
     },
     {
       "month_day": "02-20",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:mt:28:20"
     },
     {
       "month_day": "02-21",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:eph:4:26"
     },
     {
       "month_day": "02-22",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:jas:1:19"
     },
     {
       "month_day": "02-23",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:1jo:1:9"
     },
     {
       "month_day": "02-24",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:ro:8:1"
     },
     {
       "month_day": "02-25",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:mk:9:24"
     },
     {
       "month_day": "02-26",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:jn:20:29"
     },
     {
       "month_day": "02-27",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:mt:11:28"
     },
     {
       "month_day": "02-28",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:isa:40:31"
     },
     {
       "month_day": "02-29",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:1the:5:16"
     },
     {
       "month_day": "03-01",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:ps:118:1"
     },
     {
       "month_day": "03-02",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:pr:3:5"
     },
     {
       "month_day": "03-03",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:jas:1:5"
     },
     {
       "month_day": "03-04",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:eph:4:32"
     },
     {
       "month_day": "03-05",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:mt:6:14"
     },
     {
       "month_day": "03-06",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:ps:61:2"
     },
     {
       "month_day": "03-07",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:mt:6:34"
     },
     {
       "month_day": "03-08",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:jer:29:11"
     },
     {
       "month_day": "03-09",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:lam:3:22"
     },
     {
       "month_day": "03-10",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:phil:4:4"
     },
     {
       "month_day": "03-11",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:jas:3:16"
     },
     {
       "month_day": "03-12",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:gal:5:16"
     },
     {
       "month_day": "03-13",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:1cor:13:4"
     },
     {
       "month_day": "03-14",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:jas:4:6"
     },
     {
       "month_day": "03-15",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:col:3:13"
     },
     {
       "month_day": "03-16",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:ps:42:11"
     },
     {
       "month_day": "03-17",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:eccl:3:1"
     },
     {
       "month_day": "03-18",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:ps:41:9"
     },
     {
       "month_day": "03-19",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:ps:139:14"
     },
     {
       "month_day": "03-20",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:lk:12:15"
     },
     {
       "month_day": "03-21",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:jas:5:8"
     },
     {
       "month_day": "03-22",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:phil:4:11"
     },
     {
       "month_day": "03-23",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:isa:41:10"
     },
     {
       "month_day": "03-24",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:ps:27:1"
     },
     {
       "month_day": "03-25",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:1pet:5:7"
     },
     {
       "month_day": "03-26",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:phil:4:6"
     },
     {
       "month_day": "03-27",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:mt:5:4"
     },
     {
       "month_day": "03-28",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:ps:34:18"
     },
     {
       "month_day": "03-29",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:1cor:10:13"
     },
     {
       "month_day": "03-30",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:mt:26:41"
     },
     {
       "month_day": "03-31",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:jn:14:18"
     },
     {
       "month_day": "04-01",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:mt:28:20"
     },
     {
       "month_day": "04-02",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:eph:4:26"
     },
     {
       "month_day": "04-03",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:jas:1:19"
     },
     {
       "month_day": "04-04",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:1jo:1:9"
     },
     {
       "month_day": "04-05",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:ro:8:1"
     },
     {
       "month_day": "04-06",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:mk:9:24"
     },
     {
       "month_day": "04-07",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:jn:20:29"
     },
     {
       "month_day": "04-08",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:mt:11:28"
     },
     {
       "month_day": "04-09",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:isa:40:31"
     },
     {
       "month_day": "04-10",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:1the:5:16"
     },
     {
       "month_day": "04-11",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:ps:118:1"
     },
     {
       "month_day": "04-12",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:pr:3:5"
     },
     {
       "month_day": "04-13",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:jas:1:5"
     },
     {
       "month_day": "04-14",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:eph:4:32"
     },
     {
       "month_day": "04-15",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:mt:6:14"
     },
     {
       "month_day": "04-16",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:ps:61:2"
     },
     {
       "month_day": "04-17",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:mt:6:34"
     },
     {
       "month_day": "04-18",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:jer:29:11"
     },
     {
       "month_day": "04-19",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:lam:3:22"
     },
     {
       "month_day": "04-20",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:phil:4:4"
     },
     {
       "month_day": "04-21",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:jas:3:16"
     },
     {
       "month_day": "04-22",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:gal:5:16"
     },
     {
       "month_day": "04-23",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:1cor:13:4"
     },
     {
       "month_day": "04-24",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:jas:4:6"
     },
     {
       "month_day": "04-25",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:col:3:13"
     },
     {
       "month_day": "04-26",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:ps:42:11"
     },
     {
       "month_day": "04-27",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:eccl:3:1"
     },
     {
       "month_day": "04-28",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:ps:41:9"
     },
     {
       "month_day": "04-29",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:ps:139:14"
     },
     {
       "month_day": "04-30",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:lk:12:15"
     },
     {
       "month_day": "05-01",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:jas:5:8"
     },
     {
       "month_day": "05-02",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:phil:4:11"
     },
     {
       "month_day": "05-03",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:isa:41:10"
     },
     {
       "month_day": "05-04",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:ps:27:1"
     },
     {
       "month_day": "05-05",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:1pet:5:7"
     },
     {
       "month_day": "05-06",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:phil:4:6"
     },
     {
       "month_day": "05-07",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:mt:5:4"
     },
     {
       "month_day": "05-08",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:ps:34:18"
     },
     {
       "month_day": "05-09",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:1cor:10:13"
     },
     {
       "month_day": "05-10",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:mt:26:41"
     },
     {
       "month_day": "05-11",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:jn:14:18"
     },
     {
       "month_day": "05-12",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:mt:28:20"
     },
     {
       "month_day": "05-13",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:eph:4:26"
     },
     {
       "month_day": "05-14",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:jas:1:19"
     },
     {
       "month_day": "05-15",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:1jo:1:9"
     },
     {
       "month_day": "05-16",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:ro:8:1"
     },
     {
       "month_day": "05-17",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:mk:9:24"
     },
     {
       "month_day": "05-18",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:jn:20:29"
     },
     {
       "month_day": "05-19",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:mt:11:28"
     },
     {
       "month_day": "05-20",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:isa:40:31"
     },
     {
       "month_day": "05-21",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:1the:5:16"
     },
     {
       "month_day": "05-22",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:ps:118:1"
     },
     {
       "month_day": "05-23",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:pr:3:5"
     },
     {
       "month_day": "05-24",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:jas:1:5"
     },
     {
       "month_day": "05-25",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:eph:4:32"
     },
     {
       "month_day": "05-26",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:mt:6:14"
     },
     {
       "month_day": "05-27",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:ps:61:2"
     },
     {
       "month_day": "05-28",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:mt:6:34"
     },
     {
       "month_day": "05-29",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:jer:29:11"
     },
     {
       "month_day": "05-30",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:lam:3:22"
     },
     {
       "month_day": "05-31",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:phil:4:4"
     },
     {
       "month_day": "06-01",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:jas:3:16"
     },
     {
       "month_day": "06-02",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:gal:5:16"
     },
     {
       "month_day": "06-03",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:1cor:13:4"
     },
     {
       "month_day": "06-04",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:jas:4:6"
     },
     {
       "month_day": "06-05",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:col:3:13"
     },
     {
       "month_day": "06-06",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:ps:42:11"
     },
     {
       "month_day": "06-07",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:eccl:3:1"
     },
     {
       "month_day": "06-08",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:ps:41:9"
     },
     {
       "month_day": "06-09",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:ps:139:14"
     },
     {
       "month_day": "06-10",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:lk:12:15"
     },
     {
       "month_day": "06-11",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:jas:5:8"
     },
     {
       "month_day": "06-12",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:phil:4:11"
     },
     {
       "month_day": "06-13",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:isa:41:10"
     },
     {
       "month_day": "06-14",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:ps:27:1"
     },
     {
       "month_day": "06-15",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:1pet:5:7"
     },
     {
       "month_day": "06-16",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:phil:4:6"
     },
     {
       "month_day": "06-17",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:mt:5:4"
     },
     {
       "month_day": "06-18",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:ps:34:18"
     },
     {
       "month_day": "06-19",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:1cor:10:13"
     },
     {
       "month_day": "06-20",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:mt:26:41"
     },
     {
       "month_day": "06-21",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:jn:14:18"
     },
     {
       "month_day": "06-22",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:mt:28:20"
     },
     {
       "month_day": "06-23",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:eph:4:26"
     },
     {
       "month_day": "06-24",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:jas:1:19"
     },
     {
       "month_day": "06-25",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:1jo:1:9"
     },
     {
       "month_day": "06-26",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:ro:8:1"
     },
     {
       "month_day": "06-27",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:mk:9:24"
     },
     {
       "month_day": "06-28",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:jn:20:29"
     },
     {
       "month_day": "06-29",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:mt:11:28"
     },
     {
       "month_day": "06-30",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:isa:40:31"
     },
     {
       "month_day": "07-01",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:1the:5:16"
     },
     {
       "month_day": "07-02",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:ps:118:1"
     },
     {
       "month_day": "07-03",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:pr:3:5"
     },
     {
       "month_day": "07-04",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:jas:1:5"
     },
     {
       "month_day": "07-05",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:eph:4:32"
     },
     {
       "month_day": "07-06",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:mt:6:14"
     },
     {
       "month_day": "07-07",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:ps:61:2"
     },
     {
       "month_day": "07-08",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:mt:6:34"
     },
     {
       "month_day": "07-09",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:jer:29:11"
     },
     {
       "month_day": "07-10",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:lam:3:22"
     },
     {
       "month_day": "07-11",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:phil:4:4"
     },
     {
       "month_day": "07-12",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:jas:3:16"
     },
     {
       "month_day": "07-13",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:gal:5:16"
     },
     {
       "month_day": "07-14",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:1cor:13:4"
     },
     {
       "month_day": "07-15",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:jas:4:6"
     },
     {
       "month_day": "07-16",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:col:3:13"
     },
     {
       "month_day": "07-17",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:ps:42:11"
     },
     {
       "month_day": "07-18",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:eccl:3:1"
     },
     {
       "month_day": "07-19",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:ps:41:9"
     },
     {
       "month_day": "07-20",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:ps:139:14"
     },
     {
       "month_day": "07-21",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:lk:12:15"
     },
     {
       "month_day": "07-22",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:jas:5:8"
     },
     {
       "month_day": "07-23",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:phil:4:11"
     },
     {
       "month_day": "07-24",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:isa:41:10"
     },
     {
       "month_day": "07-25",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:ps:27:1"
     },
     {
       "month_day": "07-26",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:1pet:5:7"
     },
     {
       "month_day": "07-27",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:phil:4:6"
     },
     {
       "month_day": "07-28",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:mt:5:4"
     },
     {
       "month_day": "07-29",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:ps:34:18"
     },
     {
       "month_day": "07-30",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:1cor:10:13"
     },
     {
       "month_day": "07-31",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:mt:26:41"
     },
     {
       "month_day": "08-01",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:jn:14:18"
     },
     {
       "month_day": "08-02",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:mt:28:20"
     },
     {
       "month_day": "08-03",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:eph:4:26"
     },
     {
       "month_day": "08-04",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:jas:1:19"
     },
     {
       "month_day": "08-05",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:1jo:1:9"
     },
     {
       "month_day": "08-06",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:ro:8:1"
     },
     {
       "month_day": "08-07",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:mk:9:24"
     },
     {
       "month_day": "08-08",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:jn:20:29"
     },
     {
       "month_day": "08-09",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:mt:11:28"
     },
     {
       "month_day": "08-10",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:isa:40:31"
     },
     {
       "month_day": "08-11",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:1the:5:16"
     },
     {
       "month_day": "08-12",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:ps:118:1"
     },
     {
       "month_day": "08-13",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:pr:3:5"
     },
     {
       "month_day": "08-14",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:jas:1:5"
     },
     {
       "month_day": "08-15",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:eph:4:32"
     },
     {
       "month_day": "08-16",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:mt:6:14"
     },
     {
       "month_day": "08-17",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:ps:61:2"
     },
     {
       "month_day": "08-18",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:mt:6:34"
     },
     {
       "month_day": "08-19",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:jer:29:11"
     },
     {
       "month_day": "08-20",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:lam:3:22"
     },
     {
       "month_day": "08-21",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:phil:4:4"
     },
     {
       "month_day": "08-22",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:jas:3:16"
     },
     {
       "month_day": "08-23",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:gal:5:16"
     },
     {
       "month_day": "08-24",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:1cor:13:4"
     },
     {
       "month_day": "08-25",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:jas:4:6"
     },
     {
       "month_day": "08-26",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:col:3:13"
     },
     {
       "month_day": "08-27",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:ps:42:11"
     },
     {
       "month_day": "08-28",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:eccl:3:1"
     },
     {
       "month_day": "08-29",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:ps:41:9"
     },
     {
       "month_day": "08-30",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:ps:139:14"
     },
     {
       "month_day": "08-31",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:lk:12:15"
     },
     {
       "month_day": "09-01",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:jas:5:8"
     },
     {
       "month_day": "09-02",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:phil:4:11"
     },
     {
       "month_day": "09-03",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:isa:41:10"
     },
     {
       "month_day": "09-04",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:ps:27:1"
     },
     {
       "month_day": "09-05",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:1pet:5:7"
     },
     {
       "month_day": "09-06",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:phil:4:6"
     },
     {
       "month_day": "09-07",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:mt:5:4"
     },
     {
       "month_day": "09-08",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:ps:34:18"
     },
     {
       "month_day": "09-09",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:1cor:10:13"
     },
     {
       "month_day": "09-10",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:mt:26:41"
     },
     {
       "month_day": "09-11",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:jn:14:18"
     },
     {
       "month_day": "09-12",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:mt:28:20"
     },
     {
       "month_day": "09-13",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:eph:4:26"
     },
     {
       "month_day": "09-14",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:jas:1:19"
     },
     {
       "month_day": "09-15",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:1jo:1:9"
     },
     {
       "month_day": "09-16",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:ro:8:1"
     },
     {
       "month_day": "09-17",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:mk:9:24"
     },
     {
       "month_day": "09-18",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:jn:20:29"
     },
     {
       "month_day": "09-19",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:mt:11:28"
     },
     {
       "month_day": "09-20",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:isa:40:31"
     },
     {
       "month_day": "09-21",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:1the:5:16"
     },
     {
       "month_day": "09-22",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:ps:118:1"
     },
     {
       "month_day": "09-23",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:pr:3:5"
     },
     {
       "month_day": "09-24",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:jas:1:5"
     },
     {
       "month_day": "09-25",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:eph:4:32"
     },
     {
       "month_day": "09-26",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:mt:6:14"
     },
     {
       "month_day": "09-27",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:ps:61:2"
     },
     {
       "month_day": "09-28",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:mt:6:34"
     },
     {
       "month_day": "09-29",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:jer:29:11"
     },
     {
       "month_day": "09-30",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:lam:3:22"
     },
     {
       "month_day": "10-01",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:phil:4:4"
     },
     {
       "month_day": "10-02",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:jas:3:16"
     },
     {
       "month_day": "10-03",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:gal:5:16"
     },
     {
       "month_day": "10-04",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:1cor:13:4"
     },
     {
       "month_day": "10-05",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:jas:4:6"
     },
     {
       "month_day": "10-06",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:col:3:13"
     },
     {
       "month_day": "10-07",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:ps:42:11"
     },
     {
       "month_day": "10-08",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:eccl:3:1"
     },
     {
       "month_day": "10-09",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:ps:41:9"
     },
     {
       "month_day": "10-10",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:ps:139:14"
     },
     {
       "month_day": "10-11",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:lk:12:15"
     },
     {
       "month_day": "10-12",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:jas:5:8"
     },
     {
       "month_day": "10-13",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:phil:4:11"
     },
     {
       "month_day": "10-14",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:isa:41:10"
     },
     {
       "month_day": "10-15",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:ps:27:1"
     },
     {
       "month_day": "10-16",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:1pet:5:7"
     },
     {
       "month_day": "10-17",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:phil:4:6"
     },
     {
       "month_day": "10-18",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:mt:5:4"
     },
     {
       "month_day": "10-19",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:ps:34:18"
     },
     {
       "month_day": "10-20",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:1cor:10:13"
     },
     {
       "month_day": "10-21",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:mt:26:41"
     },
     {
       "month_day": "10-22",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:jn:14:18"
     },
     {
       "month_day": "10-23",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:mt:28:20"
     },
     {
       "month_day": "10-24",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:eph:4:26"
     },
     {
       "month_day": "10-25",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:jas:1:19"
     },
     {
       "month_day": "10-26",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:1jo:1:9"
     },
     {
       "month_day": "10-27",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:ro:8:1"
     },
     {
       "month_day": "10-28",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:mk:9:24"
     },
     {
       "month_day": "10-29",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:jn:20:29"
     },
     {
       "month_day": "10-30",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:mt:11:28"
     },
     {
       "month_day": "10-31",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:isa:40:31"
     },
     {
       "month_day": "11-01",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:1the:5:16"
     },
     {
       "month_day": "11-02",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:ps:118:1"
     },
     {
       "month_day": "11-03",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:pr:3:5"
     },
     {
       "month_day": "11-04",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:jas:1:5"
     },
     {
       "month_day": "11-05",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:eph:4:32"
     },
     {
       "month_day": "11-06",
-      "passage_id": "web-c:1pet:5:7"
+      "passage_id": "web-c:mt:6:14"
     },
     {
       "month_day": "11-07",
-      "passage_id": "web-c:phil:4:6"
+      "passage_id": "web-c:ps:61:2"
     },
     {
       "month_day": "11-08",
-      "passage_id": "web-c:mt:5:4"
+      "passage_id": "web-c:mt:6:34"
     },
     {
       "month_day": "11-09",
-      "passage_id": "web-c:ps:34:18"
+      "passage_id": "web-c:jer:29:11"
     },
     {
       "month_day": "11-10",
-      "passage_id": "web-c:1cor:10:13"
+      "passage_id": "web-c:lam:3:22"
     },
     {
       "month_day": "11-11",
-      "passage_id": "web-c:mt:26:41"
+      "passage_id": "web-c:phil:4:4"
     },
     {
       "month_day": "11-12",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:jas:3:16"
     },
     {
       "month_day": "11-13",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:gal:5:16"
     },
     {
       "month_day": "11-14",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:1cor:13:4"
     },
     {
       "month_day": "11-15",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:jas:4:6"
     },
     {
       "month_day": "11-16",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:col:3:13"
     },
     {
       "month_day": "11-17",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:ps:42:11"
     },
     {
       "month_day": "11-18",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:eccl:3:1"
     },
     {
       "month_day": "11-19",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:ps:41:9"
     },
     {
       "month_day": "11-20",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:ps:139:14"
     },
     {
       "month_day": "11-21",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:lk:12:15"
     },
     {
       "month_day": "11-22",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:jas:5:8"
     },
     {
       "month_day": "11-23",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:phil:4:11"
     },
     {
       "month_day": "11-24",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:isa:41:10"
     },
     {
       "month_day": "11-25",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:ps:27:1"
     },
     {
       "month_day": "11-26",
-      "passage_id": "web-c:eph:4:32"
-    },
-    {
-      "month_day": "11-27",
-      "passage_id": "web-c:mt:6:14"
-    },
-    {
-      "month_day": "11-28",
-      "passage_id": "web-c:ps:61:2"
-    },
-    {
-      "month_day": "11-29",
-      "passage_id": "web-c:mt:6:34"
-    },
-    {
-      "month_day": "11-30",
-      "passage_id": "web-c:jer:29:11"
-    },
-    {
-      "month_day": "12-01",
-      "passage_id": "web-c:lam:3:22"
-    },
-    {
-      "month_day": "12-02",
-      "passage_id": "web-c:isa:41:10"
-    },
-    {
-      "month_day": "12-03",
-      "passage_id": "web-c:ps:27:1"
-    },
-    {
-      "month_day": "12-04",
       "passage_id": "web-c:1pet:5:7"
     },
     {
-      "month_day": "12-05",
+      "month_day": "11-27",
       "passage_id": "web-c:phil:4:6"
     },
     {
-      "month_day": "12-06",
+      "month_day": "11-28",
       "passage_id": "web-c:mt:5:4"
     },
     {
-      "month_day": "12-07",
+      "month_day": "11-29",
       "passage_id": "web-c:ps:34:18"
     },
     {
-      "month_day": "12-08",
+      "month_day": "11-30",
       "passage_id": "web-c:1cor:10:13"
     },
     {
-      "month_day": "12-09",
+      "month_day": "12-01",
       "passage_id": "web-c:mt:26:41"
     },
     {
-      "month_day": "12-10",
+      "month_day": "12-02",
       "passage_id": "web-c:jn:14:18"
     },
     {
-      "month_day": "12-11",
+      "month_day": "12-03",
       "passage_id": "web-c:mt:28:20"
     },
     {
-      "month_day": "12-12",
+      "month_day": "12-04",
       "passage_id": "web-c:eph:4:26"
     },
     {
-      "month_day": "12-13",
+      "month_day": "12-05",
       "passage_id": "web-c:jas:1:19"
     },
     {
-      "month_day": "12-14",
+      "month_day": "12-06",
       "passage_id": "web-c:1jo:1:9"
     },
     {
-      "month_day": "12-15",
+      "month_day": "12-07",
       "passage_id": "web-c:ro:8:1"
     },
     {
-      "month_day": "12-16",
+      "month_day": "12-08",
       "passage_id": "web-c:mk:9:24"
     },
     {
-      "month_day": "12-17",
+      "month_day": "12-09",
       "passage_id": "web-c:jn:20:29"
     },
     {
-      "month_day": "12-18",
+      "month_day": "12-10",
       "passage_id": "web-c:mt:11:28"
     },
     {
-      "month_day": "12-19",
+      "month_day": "12-11",
       "passage_id": "web-c:isa:40:31"
     },
     {
-      "month_day": "12-20",
+      "month_day": "12-12",
       "passage_id": "web-c:1the:5:16"
     },
     {
-      "month_day": "12-21",
+      "month_day": "12-13",
       "passage_id": "web-c:ps:118:1"
     },
     {
-      "month_day": "12-22",
+      "month_day": "12-14",
       "passage_id": "web-c:pr:3:5"
     },
     {
-      "month_day": "12-23",
+      "month_day": "12-15",
       "passage_id": "web-c:jas:1:5"
     },
     {
-      "month_day": "12-24",
+      "month_day": "12-16",
       "passage_id": "web-c:eph:4:32"
     },
     {
-      "month_day": "12-25",
+      "month_day": "12-17",
       "passage_id": "web-c:mt:6:14"
     },
     {
-      "month_day": "12-26",
+      "month_day": "12-18",
       "passage_id": "web-c:ps:61:2"
     },
     {
-      "month_day": "12-27",
+      "month_day": "12-19",
       "passage_id": "web-c:mt:6:34"
     },
     {
-      "month_day": "12-28",
+      "month_day": "12-20",
       "passage_id": "web-c:jer:29:11"
     },
     {
-      "month_day": "12-29",
+      "month_day": "12-21",
       "passage_id": "web-c:lam:3:22"
     },
     {
+      "month_day": "12-22",
+      "passage_id": "web-c:phil:4:4"
+    },
+    {
+      "month_day": "12-23",
+      "passage_id": "web-c:jas:3:16"
+    },
+    {
+      "month_day": "12-24",
+      "passage_id": "web-c:gal:5:16"
+    },
+    {
+      "month_day": "12-25",
+      "passage_id": "web-c:1cor:13:4"
+    },
+    {
+      "month_day": "12-26",
+      "passage_id": "web-c:jas:4:6"
+    },
+    {
+      "month_day": "12-27",
+      "passage_id": "web-c:col:3:13"
+    },
+    {
+      "month_day": "12-28",
+      "passage_id": "web-c:ps:42:11"
+    },
+    {
+      "month_day": "12-29",
+      "passage_id": "web-c:eccl:3:1"
+    },
+    {
       "month_day": "12-30",
-      "passage_id": "web-c:isa:41:10"
+      "passage_id": "web-c:ps:41:9"
     },
     {
       "month_day": "12-31",
-      "passage_id": "web-c:ps:27:1"
+      "passage_id": "web-c:ps:139:14"
     }
   ],
   "scripture": [

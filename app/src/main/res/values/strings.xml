@@ -1,3 +1,48 @@
 <resources>
     <string name="app_name">Pocket Bible</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_topics">Topics</string>
+    <string name="nav_read">Read</string>
+    <string name="nav_saved">Saved</string>
+
+    <!-- Home / topics tab -->
+    <string name="home_title">How is your heart today?</string>
+    <string name="home_subtitle">Choose what fits, or search for a word or a feeling.</string>
+    <string name="home_search_placeholder">Search a word or a feeling</string>
+    <string name="home_no_matches">No matches — try the list below.</string>
+    <string name="home_matches">Matches</string>
+    <string name="home_i_am_feeling">I am feeling…</string>
+    <string name="home_verse_of_day">Verse of the day</string>
+
+    <!-- Read tab -->
+    <string name="read_title">Read</string>
+    <string name="read_subtitle">Jump straight to a reference, or browse what\'s loaded below.</string>
+    <string name="read_empty_browse">No chapters browsable yet below — this is still an early build. Full text comes from a bulk import, not from this screen.</string>
+    <string name="read_browse">Browse</string>
+    <string name="read_go_to_verse">Go to a verse</string>
+    <string name="read_book_label">Book</string>
+    <string name="read_chapter_label">Chapter</string>
+    <string name="read_verse_label">Verse</string>
+    <string name="read_whole_chapter">Whole chapter</string>
+    <string name="read_go">Go</string>
+    <string name="read_pick_book_chapter">Pick a book and a chapter.</string>
+    <string name="read_book_not_loaded">%1$s isn\'t loaded here yet.</string>
+    <string name="read_back">Back</string>
+    <string name="read_back_to_chapters">Back to chapters</string>
+    <string name="read_previous">Previous</string>
+    <string name="read_next">Next</string>
+
+    <!-- Saved tab -->
+    <string name="saved_title">Saved</string>
+    <string name="saved_empty">Verses you save appear here, and stay available offline.</string>
+
+    <!-- Verse / topic detail -->
+    <string name="verse_no_entries">No entries yet for %1$s.</string>
+    <string name="verse_what_it_means">What it means for you</string>
+    <string name="verse_a_saint">A saint</string>
+    <string name="verse_short_prayer">A short prayer</string>
+    <string name="verse_saved">Saved</string>
+    <string name="verse_save">Save</string>
+    <string name="verse_another">Another</string>
 </resources>

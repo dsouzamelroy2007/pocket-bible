@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pocket Bible</string>
+
+    <string name="nav_topics">विषय</string>
+    <string name="nav_read">पढ़ें</string>
+    <string name="nav_saved">सहेजे गए</string>
+
+    <string name="home_title">आज आपका दिल कैसा है?</string>
+    <string name="home_subtitle">जो उपयुक्त हो उसे चुनें, या किसी शब्द या भावना को खोजें।</string>
+    <string name="home_search_placeholder">कोई शब्द या भावना खोजें</string>
+    <string name="home_no_matches">कोई मेल नहीं मिला — नीचे दी गई सूची आज़माएं।</string>
+    <string name="home_matches">मिलान</string>
+    <string name="home_i_am_feeling">मैं महसूस कर रहा/रही हूँ…</string>
+    <string name="home_verse_of_day">आज का पद</string>
+
+    <string name="read_title">पढ़ें</string>
+    <string name="read_subtitle">सीधे किसी संदर्भ पर जाएं, या नीचे उपलब्ध सामग्री ब्राउज़ करें।</string>
+    <string name="read_empty_browse">नीचे अभी कोई अध्याय उपलब्ध नहीं है — यह अभी भी एक शुरुआती संस्करण है। पूरा पाठ थोक आयात से आता है, इस स्क्रीन से नहीं।</string>
+    <string name="read_browse">ब्राउज़ करें</string>
+    <string name="read_go_to_verse">किसी पद पर जाएं</string>
+    <string name="read_book_label">पुस्तक</string>
+    <string name="read_chapter_label">अध्याय</string>
+    <string name="read_verse_label">पद</string>
+    <string name="read_whole_chapter">पूरा अध्याय</string>
+    <string name="read_go">जाएं</string>
+    <string name="read_pick_book_chapter">एक पुस्तक और अध्याय चुनें।</string>
+    <string name="read_book_not_loaded">%1$s अभी यहां उपलब्ध नहीं है।</string>
+    <string name="read_back">वापस</string>
+    <string name="read_back_to_chapters">अध्यायों पर वापस जाएं</string>
+    <string name="read_previous">पिछला</string>
+    <string name="read_next">अगला</string>
+
+    <string name="saved_title">सहेजे गए</string>
+    <string name="saved_empty">आपके सहेजे गए पद यहां दिखाई देते हैं और ऑफ़लाइन भी उपलब्ध रहते हैं।</string>
+
+    <string name="verse_no_entries">%1$s के लिए अभी तक कोई प्रविष्टि नहीं है।</string>
+    <string name="verse_what_it_means">आपके लिए इसका क्या अर्थ है</string>
+    <string name="verse_a_saint">एक संत</string>
+    <string name="verse_short_prayer">एक छोटी प्रार्थना</string>
+    <string name="verse_saved">सहेजा गया</string>
+    <string name="verse_save">सहेजें</string>
+    <string name="verse_another">दूसरा</string>
+</resources>

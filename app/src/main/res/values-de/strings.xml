@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pocket Bible</string>
+
+    <string name="nav_topics">Themen</string>
+    <string name="nav_read">Lesen</string>
+    <string name="nav_saved">Gespeichert</string>
+
+    <string name="home_title">Wie geht es deinem Herzen heute?</string>
+    <string name="home_subtitle">Wähle, was passt, oder suche nach einem Wort oder Gefühl.</string>
+    <string name="home_search_placeholder">Nach einem Wort oder Gefühl suchen</string>
+    <string name="home_no_matches">Keine Treffer — probiere die Liste unten.</string>
+    <string name="home_matches">Treffer</string>
+    <string name="home_i_am_feeling">Ich fühle mich …</string>
+    <string name="home_verse_of_day">Vers des Tages</string>
+
+    <string name="read_title">Lesen</string>
+    <string name="read_subtitle">Springe direkt zu einer Bibelstelle, oder stöbere unten.</string>
+    <string name="read_empty_browse">Unten sind noch keine Kapitel verfügbar — dies ist noch eine frühe Version. Der vollständige Text kommt aus einem Massenimport, nicht von diesem Bildschirm.</string>
+    <string name="read_browse">Durchstöbern</string>
+    <string name="read_go_to_verse">Zu einem Vers springen</string>
+    <string name="read_book_label">Buch</string>
+    <string name="read_chapter_label">Kapitel</string>
+    <string name="read_verse_label">Vers</string>
+    <string name="read_whole_chapter">Ganzes Kapitel</string>
+    <string name="read_go">Los</string>
+    <string name="read_pick_book_chapter">Wähle ein Buch und ein Kapitel.</string>
+    <string name="read_book_not_loaded">%1$s ist hier noch nicht verfügbar.</string>
+    <string name="read_back">Zurück</string>
+    <string name="read_back_to_chapters">Zurück zu den Kapiteln</string>
+    <string name="read_previous">Vorheriges</string>
+    <string name="read_next">Weiter</string>
+
+    <string name="saved_title">Gespeichert</string>
+    <string name="saved_empty">Verse, die du speicherst, erscheinen hier und bleiben offline verfügbar.</string>
+
+    <string name="verse_no_entries">Noch keine Einträge für %1$s.</string>
+    <string name="verse_what_it_means">Was das für dich bedeutet</string>
+    <string name="verse_a_saint">Ein Heiliger</string>
+    <string name="verse_short_prayer">Ein kurzes Gebet</string>
+    <string name="verse_saved">Gespeichert</string>
+    <string name="verse_save">Speichern</string>
+    <string name="verse_another">Ein anderer</string>
+</resources>

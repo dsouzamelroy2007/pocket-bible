@@ -27,9 +27,11 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import app.pocketbible.R
 import app.pocketbible.data.EntrySummary
 import app.pocketbible.data.PassageWithRole
 
@@ -44,7 +46,7 @@ fun VerseScreen(
 ) {
     if (entry == null) {
         Box(modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-            Text("No entries yet for $feelingLabel.")
+            Text(stringResource(R.string.verse_no_entries, feelingLabel))
         }
         return
     }
@@ -84,7 +86,7 @@ fun VerseScreen(
         }
 
         Spacer(Modifier.height(20.dp))
-        Text("What it means for you", style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Medium)
+        Text(stringResource(R.string.verse_what_it_means), style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Medium)
         Spacer(Modifier.height(6.dp))
         Text(entry.entry.reflection, style = MaterialTheme.typography.bodyMedium)
 
@@ -96,7 +98,7 @@ fun VerseScreen(
                 fontStyle = FontStyle.Italic
             )
             Text(
-                "— ${entry.entry.saintAttribution ?: "A saint"}",
+                "— ${entry.entry.saintAttribution ?: stringResource(R.string.verse_a_saint)}",
                 style = MaterialTheme.typography.labelSmall,
                 color = MaterialTheme.colorScheme.secondary
             )
@@ -109,7 +111,7 @@ fun VerseScreen(
         ) {
             Column(Modifier.padding(14.dp)) {
                 Text(
-                    "A short prayer",
+                    stringResource(R.string.verse_short_prayer),
                     style = MaterialTheme.typography.labelMedium,
                     color = MaterialTheme.colorScheme.onPrimaryContainer
                 )
@@ -130,12 +132,12 @@ fun VerseScreen(
                     contentDescription = null
                 )
                 Spacer(Modifier.width(6.dp))
-                Text(if (entry.isSaved) "Saved" else "Save")
+                Text(if (entry.isSaved) stringResource(R.string.verse_saved) else stringResource(R.string.verse_save))
             }
             OutlinedButton(onClick = onAnother, modifier = Modifier.weight(1f)) {
                 Icon(Icons.Outlined.Refresh, contentDescription = null)
                 Spacer(Modifier.width(6.dp))
-                Text("Another")
+                Text(stringResource(R.string.verse_another))
             }
         }
         Spacer(Modifier.height(24.dp))

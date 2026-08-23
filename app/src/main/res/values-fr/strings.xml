@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pocket Bible</string>
+
+    <string name="nav_topics">Sujets</string>
+    <string name="nav_read">Lire</string>
+    <string name="nav_saved">Enregistrés</string>
+
+    <string name="home_title">Comment va ton cœur aujourd\'hui ?</string>
+    <string name="home_subtitle">Choisis ce qui te convient, ou recherche un mot ou un sentiment.</string>
+    <string name="home_search_placeholder">Rechercher un mot ou un sentiment</string>
+    <string name="home_no_matches">Aucun résultat — essaie la liste ci-dessous.</string>
+    <string name="home_matches">Résultats</string>
+    <string name="home_i_am_feeling">Je me sens…</string>
+    <string name="home_verse_of_day">Verset du jour</string>
+
+    <string name="read_title">Lire</string>
+    <string name="read_subtitle">Accède directement à une référence, ou parcours ce qui est disponible ci-dessous.</string>
+    <string name="read_empty_browse">Aucun chapitre n\'est encore disponible ci-dessous — il s\'agit encore d\'une version préliminaire. Le texte complet provient d\'une importation groupée, pas de cet écran.</string>
+    <string name="read_browse">Parcourir</string>
+    <string name="read_go_to_verse">Aller à un verset</string>
+    <string name="read_book_label">Livre</string>
+    <string name="read_chapter_label">Chapitre</string>
+    <string name="read_verse_label">Verset</string>
+    <string name="read_whole_chapter">Chapitre entier</string>
+    <string name="read_go">Aller</string>
+    <string name="read_pick_book_chapter">Choisis un livre et un chapitre.</string>
+    <string name="read_book_not_loaded">%1$s n\'est pas encore disponible ici.</string>
+    <string name="read_back">Retour</string>
+    <string name="read_back_to_chapters">Retour aux chapitres</string>
+    <string name="read_previous">Précédent</string>
+    <string name="read_next">Suivant</string>
+
+    <string name="saved_title">Enregistrés</string>
+    <string name="saved_empty">Les versets que tu enregistres apparaissent ici et restent disponibles hors ligne.</string>
+
+    <string name="verse_no_entries">Pas encore d\'entrées pour %1$s.</string>
+    <string name="verse_what_it_means">Ce que cela signifie pour toi</string>
+    <string name="verse_a_saint">Un saint</string>
+    <string name="verse_short_prayer">Une courte prière</string>
+    <string name="verse_saved">Enregistré</string>
+    <string name="verse_save">Enregistrer</string>
+    <string name="verse_another">Un autre</string>
+</resources>

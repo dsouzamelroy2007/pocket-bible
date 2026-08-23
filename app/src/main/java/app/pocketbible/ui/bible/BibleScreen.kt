@@ -43,12 +43,12 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import androidx.compose.foundation.text.KeyboardOptions
 import kotlinx.coroutines.launch
+import app.pocketbible.R
 import app.pocketbible.data.Book
 import app.pocketbible.data.ScriptureVerse
 
@@ -57,16 +57,18 @@ fun BibleBookListScreen(
     books: List<Book>,
     allBooks: List<Book>,
     onBookSelected: (Book) -> Unit,
+    onLoadChapters: suspend (Book) -> List<Int>,
+    onLoadVerses: suspend (Book, Int) -> List<Int>,
     onGoToReference: suspend (Book, Int, Int?) -> String?,
     onReferenceFound: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     Column(modifier.padding(horizontal = 20.dp)) {
         Spacer(Modifier.height(16.dp))
-        Text("Read", style = MaterialTheme.typography.headlineSmall, fontWeight = FontWeight.Medium)
+        Text(stringResource(R.string.read_title), style = MaterialTheme.typography.headlineSmall, fontWeight = FontWeight.Medium)
         Spacer(Modifier.height(4.dp))
         Text(
-            "Jump straight to a reference, or browse what's loaded below.",
+            stringResource(R.string.read_subtitle),
             style = MaterialTheme.typography.bodyMedium,
             color = MaterialTheme.colorScheme.secondary
         )
@@ -74,6 +76,8 @@ fun BibleBookListScreen(
 
         GoToReferenceCard(
             allBooks = allBooks,
+            onLoadChapters = onLoadChapters,
+            onLoadVerses = onLoadVerses,
             onSubmit = onGoToReference,
             onFound = onReferenceFound
         )
@@ -82,13 +86,12 @@ fun BibleBookListScreen(
 
         if (books.isEmpty()) {
             Text(
-                "No chapters browsable yet below — this prototype ships a couple of " +
-                    "sample psalms. Full text comes from a bulk import, not from this screen.",
+                stringResource(R.string.read_empty_browse),
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.secondary
             )
         } else {
-            Text("Browse", style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Medium)
+            Text(stringResource(R.string.read_browse), style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Medium)
             Spacer(Modifier.height(8.dp))
             books.forEach { book ->
                 Row(
@@ -109,40 +112,61 @@ fun BibleBookListScreen(
 @Composable
 private fun GoToReferenceCard(
     allBooks: List<Book>,
+    onLoadChapters: suspend (Book) -> List<Int>,
+    onLoadVerses: suspend (Book, Int) -> List<Int>,
     onSubmit: suspend (Book, Int, Int?) -> String?,
     onFound: () -> Unit
 ) {
-    var expanded by remember { mutableStateOf(false) }
+    var expandedBook by remember { mutableStateOf(false) }
     var selectedBook by remember(allBooks) { mutableStateOf(allBooks.firstOrNull()) }
-    var chapterText by remember { mutableStateOf("") }
-    var verseText by remember { mutableStateOf("") }
+
+    var expandedChapter by remember { mutableStateOf(false) }
+    var availableChapters by remember { mutableStateOf<List<Int>>(emptyList()) }
+    var selectedChapter by remember { mutableStateOf<Int?>(null) }
+
+    var expandedVerse by remember { mutableStateOf(false) }
+    var availableVerses by remember { mutableStateOf<List<Int>>(emptyList()) }
+    var selectedVerse by remember { mutableStateOf<Int?>(null) }
+
     var error by remember { mutableStateOf<String?>(null) }
     val scope = rememberCoroutineScope()
 
+    LaunchedEffect(selectedBook) {
+        val book = selectedBook
+        availableChapters = if (book != null) onLoadChapters(book) else emptyList()
+        selectedChapter = availableChapters.firstOrNull()
+    }
+    LaunchedEffect(selectedBook, selectedChapter) {
+        val book = selectedBook
+        val chapter = selectedChapter
+        availableVerses = if (book != null && chapter != null) onLoadVerses(book, chapter) else emptyList()
+        selectedVerse = null
+    }
+
     Card(Modifier.fillMaxWidth()) {
         Column(Modifier.padding(16.dp)) {
-            Text("Go to a verse", style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Medium)
+            Text(stringResource(R.string.read_go_to_verse), style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Medium)
             Spacer(Modifier.height(10.dp))
 
-            ExposedDropdownMenuBox(expanded = expanded, onExpandedChange = { expanded = it }) {
+            ExposedDropdownMenuBox(expanded = expandedBook, onExpandedChange = { expandedBook = it }) {
                 TextField(
                     value = selectedBook?.displayName ?: "",
                     onValueChange = {},
                     readOnly = true,
-                    label = { Text("Book") },
-                    trailingIcon = { ExposedDropdownMenuDefaults.TrailingIcon(expanded = expanded) },
+                    label = { Text(stringResource(R.string.read_book_label)) },
+                    trailingIcon = { ExposedDropdownMenuDefaults.TrailingIcon(expanded = expandedBook) },
                     modifier = Modifier.menuAnchor().fillMaxWidth()
                 )
                 ExposedDropdownMenu(
-                    expanded = expanded,
-                    onDismissRequest = { expanded = false }
+                    expanded = expandedBook,
+                    onDismissRequest = { expandedBook = false }
                 ) {
                     allBooks.forEach { book ->
                         DropdownMenuItem(
                             text = { Text(book.displayName) },
                             onClick = {
                                 selectedBook = book
-                                expanded = false
+                                expandedBook = false
                             }
                         )
                     }
@@ -151,43 +175,104 @@ private fun GoToReferenceCard(
 
             Spacer(Modifier.height(10.dp))
             Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
-                OutlinedTextField(
-                    value = chapterText,
-                    onValueChange = { chapterText = it.filter { c -> c.isDigit() } },
-                    label = { Text("Chapter") },
-                    keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Number),
-                    singleLine = true,
+                ExposedDropdownMenuBox(
+                    expanded = expandedChapter && availableChapters.isNotEmpty(),
+                    onExpandedChange = { expandedChapter = it },
                     modifier = Modifier.weight(1f)
-                )
-                OutlinedTextField(
-                    value = verseText,
-                    onValueChange = { verseText = it.filter { c -> c.isDigit() } },
-                    label = { Text("Verse (optional)") },
-                    keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Number),
-                    singleLine = true,
+                ) {
+                    TextField(
+                        value = selectedChapter?.toString() ?: "",
+                        onValueChange = {},
+                        readOnly = true,
+                        enabled = availableChapters.isNotEmpty(),
+                        label = { Text(stringResource(R.string.read_chapter_label)) },
+                        trailingIcon = { ExposedDropdownMenuDefaults.TrailingIcon(expanded = expandedChapter) },
+                        modifier = Modifier.menuAnchor().fillMaxWidth()
+                    )
+                    ExposedDropdownMenu(
+                        expanded = expandedChapter && availableChapters.isNotEmpty(),
+                        onDismissRequest = { expandedChapter = false }
+                    ) {
+                        availableChapters.forEach { chapter ->
+                            DropdownMenuItem(
+                                text = { Text(chapter.toString()) },
+                                onClick = {
+                                    selectedChapter = chapter
+                                    expandedChapter = false
+                                }
+                            )
+                        }
+                    }
+                }
+
+                ExposedDropdownMenuBox(
+                    expanded = expandedVerse && availableVerses.isNotEmpty(),
+                    onExpandedChange = { expandedVerse = it },
                     modifier = Modifier.weight(1f)
+                ) {
+                    val wholeChapterLabel = stringResource(R.string.read_whole_chapter)
+                    TextField(
+                        value = selectedVerse?.toString() ?: wholeChapterLabel,
+                        onValueChange = {},
+                        readOnly = true,
+                        enabled = availableVerses.isNotEmpty(),
+                        label = { Text(stringResource(R.string.read_verse_label)) },
+                        trailingIcon = { ExposedDropdownMenuDefaults.TrailingIcon(expanded = expandedVerse) },
+                        modifier = Modifier.menuAnchor().fillMaxWidth()
+                    )
+                    ExposedDropdownMenu(
+                        expanded = expandedVerse && availableVerses.isNotEmpty(),
+                        onDismissRequest = { expandedVerse = false }
+                    ) {
+                        DropdownMenuItem(
+                            text = { Text(wholeChapterLabel) },
+                            onClick = {
+                                selectedVerse = null
+                                expandedVerse = false
+                            }
+                        )
+                        availableVerses.forEach { verse ->
+                            DropdownMenuItem(
+                                text = { Text(verse.toString()) },
+                                onClick = {
+                                    selectedVerse = verse
+                                    expandedVerse = false
+                                }
+                            )
+                        }
+                    }
+                }
+            }
+
+            if (selectedBook != null && availableChapters.isEmpty()) {
+                Spacer(Modifier.height(8.dp))
+                Text(
+                    stringResource(R.string.read_book_not_loaded, selectedBook?.displayName ?: ""),
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.secondary
                 )
             }
 
+            val pickBookChapterError = stringResource(R.string.read_pick_book_chapter)
             Spacer(Modifier.height(10.dp))
             Button(
                 onClick = {
                     val book = selectedBook
-                    val chapter = chapterText.toIntOrNull()
+                    val chapter = selectedChapter
                     if (book == null || chapter == null) {
-                        error = "Pick a book and enter a chapter number."
+                        error = pickBookChapterError
                         return@Button
                     }
-                    val verse = verseText.toIntOrNull()
                     error = null
                     scope.launch {
-                        val result = onSubmit(book, chapter, verse)
+                        val result = onSubmit(book, chapter, selectedVerse)
                         if (result == null) onFound() else error = result
                     }
                 },
+                enabled = selectedBook != null && selectedChapter != null,
                 modifier = Modifier.fillMaxWidth()
             ) {
-                Text("Go")
+                Text(stringResource(R.string.read_go))
             }
 
             error?.let {
@@ -210,7 +295,7 @@ fun BibleChapterListScreen(
         Spacer(Modifier.height(16.dp))
         Row(verticalAlignment = Alignment.CenterVertically) {
             IconButton(onClick = onBack) {
-                Icon(Icons.Filled.ArrowBack, contentDescription = "Back")
+                Icon(Icons.Filled.ArrowBack, contentDescription = stringResource(R.string.read_back))
             }
             Text(bookName, style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Medium)
         }
@@ -259,7 +344,7 @@ fun BibleReaderScreen(
             verticalAlignment = Alignment.CenterVertically
         ) {
             IconButton(onClick = onBack) {
-                Icon(Icons.Filled.ArrowBack, contentDescription = "Back to chapters")
+                Icon(Icons.Filled.ArrowBack, contentDescription = stringResource(R.string.read_back_to_chapters))
             }
             Text(
                 "$bookName ${chapter ?: ""}",
@@ -303,10 +388,10 @@ fun BibleReaderScreen(
             horizontalArrangement = Arrangement.spacedBy(10.dp)
         ) {
             OutlinedButton(onClick = onPrevious, enabled = hasPrevious, modifier = Modifier.weight(1f)) {
-                Text("Previous")
+                Text(stringResource(R.string.read_previous))
             }
             OutlinedButton(onClick = onNext, enabled = hasNext, modifier = Modifier.weight(1f)) {
-                Text("Next")
+                Text(stringResource(R.string.read_next))
             }
         }
     }

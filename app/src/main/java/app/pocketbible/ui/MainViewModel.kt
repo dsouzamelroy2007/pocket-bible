@@ -97,6 +97,13 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         viewModelScope.launch { _chapters.value = repo.chaptersForBook(book.id) }
     }
 
+    /** Chapters actually loaded for [book] — drives the "go to reference" picker's chapter list. */
+    suspend fun chaptersAvailable(book: Book): List<Int> = repo.chaptersForBook(book.id)
+
+    /** Verse numbers actually loaded for [book]/[chapter] — drives the picker's verse list. */
+    suspend fun versesAvailable(book: Book, chapter: Int): List<Int> =
+        repo.versesForChapter(book.id, chapter).map { it.verse }
+
     fun openChapter(chapter: Int) {
         val book = _selectedBook.value ?: return
         _currentChapter.value = chapter

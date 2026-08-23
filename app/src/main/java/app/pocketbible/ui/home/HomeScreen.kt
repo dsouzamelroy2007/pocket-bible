@@ -20,11 +20,14 @@ import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import app.pocketbible.R
 import app.pocketbible.data.Feeling
 import app.pocketbible.data.Passage
+import app.pocketbible.ui.theme.categoryAccent
 
 @Composable
 fun HomeScreen(
@@ -42,13 +45,13 @@ fun HomeScreen(
             .padding(top = 12.dp)
     ) {
         Text(
-            "How is your heart today?",
+            stringResource(R.string.home_title),
             style = MaterialTheme.typography.headlineSmall,
             fontWeight = FontWeight.Medium
         )
         Spacer(Modifier.height(4.dp))
         Text(
-            "Choose what fits, or search for a word or a feeling.",
+            stringResource(R.string.home_subtitle),
             style = MaterialTheme.typography.bodyMedium,
             color = MaterialTheme.colorScheme.secondary
         )
@@ -57,7 +60,7 @@ fun HomeScreen(
         OutlinedTextField(
             value = searchQuery,
             onValueChange = onSearchQueryChange,
-            placeholder = { Text("Search a word or a feeling") },
+            placeholder = { Text(stringResource(R.string.home_search_placeholder)) },
             leadingIcon = { Icon(Icons.Filled.Search, contentDescription = null) },
             singleLine = true,
             modifier = Modifier.fillMaxWidth()
@@ -67,28 +70,35 @@ fun HomeScreen(
             Spacer(Modifier.height(12.dp))
             if (searchResults.isEmpty()) {
                 Text(
-                    "No matches — try the list below.",
+                    stringResource(R.string.home_no_matches),
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.secondary
                 )
             } else {
                 Text(
-                    "Matches",
+                    stringResource(R.string.home_matches),
                     style = MaterialTheme.typography.labelLarge,
                     fontWeight = FontWeight.Medium
                 )
                 Spacer(Modifier.height(8.dp))
                 searchResults.forEach { feeling ->
+                    val accent = categoryAccent(feeling.category)
                     Card(
                         onClick = { onFeelingSelected(feeling) },
+                        colors = CardDefaults.cardColors(containerColor = accent.container),
                         modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp)
                     ) {
                         Column(Modifier.padding(14.dp)) {
-                            Text(feeling.label, style = MaterialTheme.typography.titleSmall, fontWeight = FontWeight.Medium)
+                            Text(
+                                feeling.label,
+                                style = MaterialTheme.typography.titleSmall,
+                                fontWeight = FontWeight.Medium,
+                                color = accent.onContainer
+                            )
                             Text(
                                 feeling.description,
                                 style = MaterialTheme.typography.bodySmall,
-                                color = MaterialTheme.colorScheme.secondary,
+                                color = accent.onContainer.copy(alpha = 0.75f),
                                 maxLines = 1
                             )
                         }
@@ -98,7 +108,7 @@ fun HomeScreen(
         }
 
         Spacer(Modifier.height(20.dp))
-        Text("I am feeling…", style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Medium)
+        Text(stringResource(R.string.home_i_am_feeling), style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Medium)
         Spacer(Modifier.height(8.dp))
         LazyVerticalGrid(
             columns = GridCells.Fixed(2),
@@ -118,7 +128,7 @@ fun HomeScreen(
             ) {
                 Column(Modifier.padding(16.dp)) {
                     Text(
-                        "Verse of the day",
+                        stringResource(R.string.home_verse_of_day),
                         style = MaterialTheme.typography.labelMedium,
                         color = MaterialTheme.colorScheme.onPrimaryContainer
                     )
@@ -145,14 +155,24 @@ fun HomeScreen(
 
 @Composable
 private fun FeelingCard(feeling: Feeling, onClick: () -> Unit) {
-    ElevatedCard(onClick = onClick, modifier = Modifier.fillMaxWidth()) {
+    val accent = categoryAccent(feeling.category)
+    ElevatedCard(
+        onClick = onClick,
+        colors = CardDefaults.elevatedCardColors(containerColor = accent.container),
+        modifier = Modifier.fillMaxWidth()
+    ) {
         Column(Modifier.padding(16.dp)) {
-            Text(feeling.label, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Medium)
+            Text(
+                feeling.label,
+                style = MaterialTheme.typography.titleMedium,
+                fontWeight = FontWeight.Medium,
+                color = accent.onContainer
+            )
             Spacer(Modifier.height(4.dp))
             Text(
                 feeling.description,
                 style = MaterialTheme.typography.bodySmall,
-                color = MaterialTheme.colorScheme.secondary,
+                color = accent.onContainer.copy(alpha = 0.75f),
                 maxLines = 2
             )
         }
