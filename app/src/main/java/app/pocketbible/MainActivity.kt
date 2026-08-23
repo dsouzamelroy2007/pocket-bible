@@ -2,8 +2,8 @@ package app.pocketbible
 
 import android.os.Bundle
 import android.widget.Toast
-import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.compose.foundation.layout.padding
 import androidx.core.os.LocaleListCompat
@@ -40,7 +40,7 @@ import app.pocketbible.ui.saved.SavedScreen
 import app.pocketbible.ui.theme.PocketBibleTheme
 import app.pocketbible.ui.verse.VerseScreen
 
-class MainActivity : ComponentActivity() {
+class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         val repo = (application as PocketBibleApp).repository

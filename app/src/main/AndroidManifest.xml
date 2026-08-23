@@ -19,8 +19,9 @@
 
         <!--
           Lets AppCompatDelegate.setApplicationLocales() persist the in-app
-          language choice across restarts even though MainActivity is a
-          plain ComponentActivity, not an AppCompatActivity.
+          language choice across process restarts (cold app launch), on top
+          of MainActivity extending AppCompatActivity, which is what makes
+          recreate() actually reload resources in the new locale right away.
         -->
         <service
             android:name="androidx.appcompat.app.AppLocalesMetadataHolderService"
