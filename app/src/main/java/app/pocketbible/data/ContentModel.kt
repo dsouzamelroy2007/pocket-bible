@@ -79,6 +79,24 @@ data class FeelingAlias(
     val weight: Float
 )
 
+/**
+ * A translated label/description for one feeling, in one UI language. The
+ * `feeling` table's own label/description stay the English original and
+ * double as the fallback when no row exists here for the app's current
+ * language -- so a language ships as much or as little of this as is ready,
+ * one language at a time, without ever leaving a topic blank.
+ */
+@Entity(
+    tableName = "feeling_translation",
+    primaryKeys = ["feeling_id", "language"]
+)
+data class FeelingTranslation(
+    @ColumnInfo(name = "feeling_id") val feelingId: String,
+    val language: String,
+    val label: String,
+    val description: String
+)
+
 @Entity(tableName = "entry")
 data class Entry(
     @PrimaryKey val id: String,
@@ -91,6 +109,18 @@ data class Entry(
     @ColumnInfo(name = "saint_quote") val saintQuote: String?,
     @ColumnInfo(name = "saint_attribution") val saintAttribution: String?,
     @ColumnInfo(name = "liturgical_season") val liturgicalSeason: String?
+)
+
+/** Translated reflection/prayer for one entry, in one UI language. Same fallback-to-English pattern as [FeelingTranslation]. */
+@Entity(
+    tableName = "entry_translation",
+    primaryKeys = ["entry_id", "language"]
+)
+data class EntryTranslation(
+    @ColumnInfo(name = "entry_id") val entryId: String,
+    val language: String,
+    val reflection: String,
+    val prayer: String
 )
 
 /**
@@ -176,18 +206,37 @@ data class PassageWithRole(
 @Dao
 interface ContentDao {
 
-    @Query("SELECT * FROM feeling ORDER BY sort_order")
-    fun feelings(): Flow<List<Feeling>>
+    /**
+     * [language] selects a UI language (e.g. "de") to prefer via
+     * feeling_translation; falls back to the feeling's own English
+     * label/description wherever no translated row exists yet.
+     */
+    @Query(
+        """
+        SELECT f.id, COALESCE(ft.label, f.label) AS label, f.icon, f.category,
+               COALESCE(ft.description, f.description) AS description, f.sort_order
+        FROM feeling f
+        LEFT JOIN feeling_translation ft ON ft.feeling_id = f.id AND ft.language = :language
+        ORDER BY f.sort_order
+        """
+    )
+    fun feelings(language: String): Flow<List<Feeling>>
 
     /**
      * Entries for a feeling with their primary passage attached. Entries
      * never shown before sort first; within that, acute (crisis-pitched)
      * entries come before steady, then settled, then by depth_order.
+     * [language] selects translated reflection/prayer/feeling_label the same
+     * way [feelings] does, falling back to English per-field.
      */
     @Query(
         """
-        SELECT e.*,
-               f.label AS feeling_label,
+        SELECT e.id, e.feeling_id,
+               COALESCE(et.reflection, e.reflection) AS reflection,
+               COALESCE(et.prayer, e.prayer) AS prayer,
+               e.intensity, e.depth_order, e.ccc_reference, e.saint_quote,
+               e.saint_attribution, e.liturgical_season,
+               COALESCE(ft.label, f.label) AS feeling_label,
                p.text AS passage_text,
                p.pull_quote AS pull_quote,
                p.reference_display AS reference_display,
@@ -196,6 +245,8 @@ interface ContentDao {
                (SELECT MAX(viewed_at) FROM view_history h WHERE h.entry_id = e.id) AS last_viewed
         FROM entry e
         JOIN feeling f ON f.id = e.feeling_id
+        LEFT JOIN feeling_translation ft ON ft.feeling_id = f.id AND ft.language = :language
+        LEFT JOIN entry_translation et ON et.entry_id = e.id AND et.language = :language
         JOIN entry_passage ep ON ep.entry_id = e.id AND ep.role = 'primary'
         JOIN passage p ON p.id = ep.passage_id
         LEFT JOIN saved_entry s ON s.entry_id = e.id
@@ -206,7 +257,7 @@ interface ContentDao {
             e.depth_order
         """
     )
-    suspend fun entriesForFeeling(feelingId: String): List<EntrySummary>
+    suspend fun entriesForFeeling(feelingId: String, language: String): List<EntrySummary>
 
     @Query(
         """
@@ -247,8 +298,12 @@ interface ContentDao {
 
     @Query(
         """
-        SELECT e.*,
-               f.label AS feeling_label,
+        SELECT e.id, e.feeling_id,
+               COALESCE(et.reflection, e.reflection) AS reflection,
+               COALESCE(et.prayer, e.prayer) AS prayer,
+               e.intensity, e.depth_order, e.ccc_reference, e.saint_quote,
+               e.saint_attribution, e.liturgical_season,
+               COALESCE(ft.label, f.label) AS feeling_label,
                p.text AS passage_text,
                p.pull_quote AS pull_quote,
                p.reference_display AS reference_display,
@@ -258,12 +313,14 @@ interface ContentDao {
         FROM saved_entry s
         JOIN entry e ON e.id = s.entry_id
         JOIN feeling f ON f.id = e.feeling_id
+        LEFT JOIN feeling_translation ft ON ft.feeling_id = f.id AND ft.language = :language
+        LEFT JOIN entry_translation et ON et.entry_id = e.id AND et.language = :language
         JOIN entry_passage ep ON ep.entry_id = e.id AND ep.role = 'primary'
         JOIN passage p ON p.id = ep.passage_id
         ORDER BY s.saved_at DESC
         """
     )
-    fun savedEntries(): Flow<List<EntrySummary>>
+    fun savedEntries(language: String): Flow<List<EntrySummary>>
 
     // ---------- Open-ended reading ----------
 
@@ -309,7 +366,13 @@ interface SeedDao {
     suspend fun insertAliases(items: List<FeelingAlias>)
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertFeelingTranslations(items: List<FeelingTranslation>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertEntries(items: List<Entry>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertEntryTranslations(items: List<EntryTranslation>)
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertEntryPassages(items: List<EntryPassage>)
@@ -324,10 +387,11 @@ interface SeedDao {
 @Database(
     entities = [
         Translation::class, Book::class, Passage::class, Feeling::class,
-        FeelingAlias::class, Entry::class, EntryPassage::class, DailyPassage::class,
+        FeelingAlias::class, FeelingTranslation::class, Entry::class, EntryTranslation::class,
+        EntryPassage::class, DailyPassage::class,
         SavedEntry::class, ViewHistory::class, ScriptureVerse::class
     ],
-    version = 2,
+    version = 3,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {

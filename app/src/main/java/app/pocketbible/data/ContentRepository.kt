@@ -4,12 +4,12 @@ import kotlinx.coroutines.flow.Flow
 
 class ContentRepository(private val dao: ContentDao) {
 
-    fun feelings(): Flow<List<Feeling>> = dao.feelings()
+    fun feelings(language: String): Flow<List<Feeling>> = dao.feelings(language)
 
-    fun savedEntries(): Flow<List<EntrySummary>> = dao.savedEntries()
+    fun savedEntries(language: String): Flow<List<EntrySummary>> = dao.savedEntries(language)
 
-    suspend fun entriesForFeeling(feelingId: String): List<EntrySummary> =
-        dao.entriesForFeeling(feelingId)
+    suspend fun entriesForFeeling(feelingId: String, language: String): List<EntrySummary> =
+        dao.entriesForFeeling(feelingId, language)
 
     suspend fun passagesForEntry(entryId: String): List<PassageWithRole> =
         dao.passagesForEntry(entryId)

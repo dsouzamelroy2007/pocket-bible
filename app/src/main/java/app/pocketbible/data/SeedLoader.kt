@@ -12,13 +12,20 @@ import org.json.JSONObject
  *
  * Content is split into modules, indexed by content/manifest.json:
  *   - core.json           translations + the book canon (structural, rarely changes)
- *   - topics.json         feelings/aliases/entries/passages/entry_passages/daily_passages
+ *   - topics.json         feelings/aliases/entries/passages/entry_passages/daily_passages,
+ *                         all in English -- the base/fallback content
+ *   - topics/<language>.json   translated label/description/reflection/prayer for
+ *                         one UI language; any topic or entry missing from it
+ *                         just falls back to English, so a language can ship
+ *                         partial and grow over time
  *   - scripture/<translation_id>/<book_id>.json   one file per book per translation
  *
  * Adding a book or a new translation/language is meant to be a matter of
  * dropping a new scripture/<translation_id>/<book_id>.json file (see
  * tools/import_scripture.py) and adding one line to manifest.json's
- * "scripture" list -- no other module needs to change.
+ * "scripture" list; adding or extending topic translations is the same
+ * pattern via topics/<language>.json and the "topic_translations" list.
+ * No other module needs to change either way.
  */
 class SeedLoader(private val context: Context, private val db: ContentDatabase) {
 
@@ -99,6 +106,33 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
         }
         seedDao.insertFeelings(feelings)
         seedDao.insertAliases(aliases)
+
+        val feelingTranslations = mutableListOf<FeelingTranslation>()
+        val entryTranslations = mutableListOf<EntryTranslation>()
+        val translationFiles = manifest.optJSONArray("topic_translations") ?: JSONArray()
+        for (i in 0 until translationFiles.length()) {
+            val ref = translationFiles.getJSONObject(i)
+            val file = readJson(ref.getString("path"))
+            val language = file.getString("language")
+            file.optJSONArray("feeling_translations")?.mapObjects { o ->
+                FeelingTranslation(
+                    feelingId = o.getString("feeling_id"),
+                    language = language,
+                    label = o.getString("label"),
+                    description = o.getString("description")
+                )
+            }?.let { feelingTranslations += it }
+            file.optJSONArray("entry_translations")?.mapObjects { o ->
+                EntryTranslation(
+                    entryId = o.getString("entry_id"),
+                    language = language,
+                    reflection = o.getString("reflection"),
+                    prayer = o.getString("prayer")
+                )
+            }?.let { entryTranslations += it }
+        }
+        seedDao.insertFeelingTranslations(feelingTranslations)
+        seedDao.insertEntryTranslations(entryTranslations)
 
         seedDao.insertEntries(topics.getJSONArray("entries").mapObjects { o ->
             Entry(

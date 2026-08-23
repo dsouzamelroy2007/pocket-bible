@@ -1,5 +1,6 @@
 package app.pocketbible.ui
 
+import androidx.appcompat.app.AppCompatDelegate
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
@@ -16,6 +17,7 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
+import java.util.Locale
 
 class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
@@ -73,9 +75,37 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     private val _verseOfDay = MutableStateFlow<Passage?>(null)
     val verseOfDay: StateFlow<Passage?> = _verseOfDay.asStateFlow()
 
+    // ---------- Language ----------
+
+    private var loadedLanguage: String? = null
+
+    /** BCP-47 language of the in-app switcher, or the system's if "System default" is selected. */
+    private fun currentLanguage(): String =
+        (AppCompatDelegate.getApplicationLocales().get(0) ?: Locale.getDefault()).language
+
+    /**
+     * Re-issues the language-dependent queries (topics list, saved list, and
+     * the currently open topic's entries) if the app's language has changed
+     * since the last call. Safe to call on every composition: it's a no-op
+     * once the language is already current. Needed because a language
+     * switch causes MainActivity to recreate() itself, and whether this
+     * ViewModel instance survives that (keeping its already-collected Flows
+     * pinned to the old language) or not isn't something to rely on either
+     * way -- this covers both cases.
+     */
+    fun ensureFreshForCurrentLanguage() {
+        val language = currentLanguage()
+        if (loadedLanguage == language) return
+        loadedLanguage = language
+        viewModelScope.launch { repo.feelings(language).collect { _feelings.value = it } }
+        viewModelScope.launch { repo.savedEntries(language).collect { _saved.value = it } }
+        _selectedFeeling.value?.let { feeling ->
+            viewModelScope.launch { _feelingEntries.value = repo.entriesForFeeling(feeling.id, language) }
+        }
+    }
+
     init {
-        viewModelScope.launch { repo.feelings().collect { _feelings.value = it } }
-        viewModelScope.launch { repo.savedEntries().collect { _saved.value = it } }
+        ensureFreshForCurrentLanguage()
         viewModelScope.launch { repo.readableBooks().collect { _readableBooks.value = it } }
         viewModelScope.launch { repo.allBooks().collect { _allBooks.value = it } }
         viewModelScope.launch {
@@ -155,7 +185,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         _selectedFeeling.value = feeling
         _currentIndex.value = 0
         viewModelScope.launch {
-            _feelingEntries.value = repo.entriesForFeeling(feeling.id)
+            _feelingEntries.value = repo.entriesForFeeling(feeling.id, currentLanguage())
             loadExtraPassages()
             currentEntry?.let { repo.recordView(it.entry.id, feeling.id) }
         }
@@ -175,7 +205,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         val entry = currentEntry ?: return
         viewModelScope.launch {
             repo.toggleSave(entry.entry.id, entry.isSaved)
-            _feelingEntries.value = repo.entriesForFeeling(entry.entry.feelingId)
+            _feelingEntries.value = repo.entriesForFeeling(entry.entry.feelingId, currentLanguage())
         }
     }
 

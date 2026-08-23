@@ -69,6 +69,12 @@ class MainActivity : AppCompatActivity() {
 
 @Composable
 private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) -> Unit) {
+    // Covers the case where this ViewModel instance survived the recreate()
+    // a language switch triggers, so its topics/saved Flows would otherwise
+    // stay pinned to whatever language was current when they were first
+    // collected. Cheap no-op once the language is already current.
+    viewModel.ensureFreshForCurrentLanguage()
+
     val navController = rememberNavController()
     val backStack by navController.currentBackStackEntryAsState()
     val currentRoute = backStack?.destination?.route

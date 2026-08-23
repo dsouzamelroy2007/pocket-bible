@@ -1,0 +1,682 @@
+{
+  "language": "de",
+  "feeling_translations": [
+    {
+      "feeling_id": "fear",
+      "label": "Ängstlich",
+      "description": "Für die Nächte, in denen dir etwas vor dir größer erscheint, als du bist."
+    },
+    {
+      "feeling_id": "anxiety",
+      "label": "Besorgt",
+      "description": "Für einen Kopf, der nicht aufhört, immer wieder dasselbe zu wälzen."
+    },
+    {
+      "feeling_id": "grief",
+      "label": "Trauernd",
+      "description": "Für einen Verlust, der noch nicht aufgehört hat, Verlust zu sein."
+    },
+    {
+      "feeling_id": "temptation",
+      "label": "Versucht",
+      "description": "Für den Moment vor der Entscheidung, in dem du noch eine Wahl hast."
+    },
+    {
+      "feeling_id": "lonely",
+      "label": "Einsam",
+      "description": "Für die Momente, in denen der Raum oder der Tag leerer wirkt, als er sollte."
+    },
+    {
+      "feeling_id": "angry",
+      "label": "Wütend",
+      "description": "Für die Momente, in denen etwas in dir zurückschlagen will."
+    },
+    {
+      "feeling_id": "guilt",
+      "label": "Schuldig",
+      "description": "Für das Tragen von etwas, das du getan hast und nicht rückgängig machen kannst."
+    },
+    {
+      "feeling_id": "doubt",
+      "label": "Zweifelnd",
+      "description": "Für die Momente, in denen der Glaube dünner wirkt, als du es dir wünschst."
+    },
+    {
+      "feeling_id": "weary",
+      "label": "Erschöpft",
+      "description": "Für die Momente, in denen Anstrengung allein deine Müdigkeit nicht heilt."
+    },
+    {
+      "feeling_id": "grateful",
+      "label": "Dankbar",
+      "description": "Für die Momente, die es wert sind, innezuhalten und sie wahrzunehmen."
+    },
+    {
+      "feeling_id": "guidance",
+      "label": "Auf der Suche nach Führung",
+      "description": "Für Entscheidungen, die du dich nicht bereit fühlst, allein zu treffen."
+    },
+    {
+      "feeling_id": "hurt",
+      "label": "Verletzt",
+      "description": "Für die Momente, in denen die Entscheidung eines anderen Spuren hinterlassen hat."
+    },
+    {
+      "feeling_id": "overwhelmed",
+      "label": "Überwältigt",
+      "description": "Für die Momente, in denen mehr auf dem Teller liegt, als Platz dafür ist."
+    },
+    {
+      "feeling_id": "hopeful",
+      "label": "Neuanfang",
+      "description": "Für Neuanfänge und den Mut, den es braucht, einen zu wagen."
+    },
+    {
+      "feeling_id": "joyful",
+      "label": "Glücklich",
+      "description": "Für die Tage, die sich leicht anfühlen und es wert sind, wahrgenommen zu werden, solange sie es tun."
+    },
+    {
+      "feeling_id": "envious",
+      "label": "Eifersüchtig",
+      "description": "Für die Momente, in denen das Leben eines anderen wie ein Urteil über dein eigenes wirkt."
+    },
+    {
+      "feeling_id": "lust",
+      "label": "Von Begierde versucht",
+      "description": "Für ein Verlangen, das dich dorthin zieht, wo du nicht enden willst."
+    },
+    {
+      "feeling_id": "loving",
+      "label": "Verliebt",
+      "description": "Für die Momente, in denen dein Herz voll von jemandem ist und du willst, dass es gut wird."
+    },
+    {
+      "feeling_id": "proud",
+      "label": "Stolz",
+      "description": "Für die Momente, in denen du merkst, dass du angefangen hast, herabzuschauen statt aufzuschauen."
+    },
+    {
+      "feeling_id": "unforgiving",
+      "label": "Nachtragend",
+      "description": "Für das Unrecht, das du immer wieder durchspielst, anstatt es loszulassen."
+    },
+    {
+      "feeling_id": "depressed",
+      "label": "Niedergeschlagen",
+      "description": "Für die Schwere, die nicht verschwindet, nur weil ein neuer Tag begonnen hat."
+    },
+    {
+      "feeling_id": "bored",
+      "label": "Gelangweilt",
+      "description": "Für die flache, ereignislose Zeit, die scheinbar nirgendwohin führt."
+    },
+    {
+      "feeling_id": "betrayed",
+      "label": "Verraten",
+      "description": "Für die Momente, in denen es jemand Nahestehendes war, kein Fremder, der es getan hat."
+    },
+    {
+      "feeling_id": "insecure",
+      "label": "Unsicher",
+      "description": "Für die Momente, in denen du nicht aufhören kannst, dich mit allen anderen zu vergleichen."
+    },
+    {
+      "feeling_id": "greedy",
+      "label": "Gierig",
+      "description": "Für die Momente, in denen mehr davon sich endlich wie genug anfühlen würde."
+    },
+    {
+      "feeling_id": "impatient",
+      "label": "Ungeduldig",
+      "description": "Für die Momente, in denen das Warten selbst der schwerste Teil ist."
+    },
+    {
+      "feeling_id": "discontent",
+      "label": "Unzufrieden",
+      "description": "Für die Momente, in denen sich das, was du hast, nicht genug anfühlt."
+    }
+  ],
+  "entry_translations": [
+    {
+      "entry_id": "fear-isa-41-10",
+      "reflection": "Beachte, was hier nicht versprochen wird. Die Gefahr verschwindet nicht, und Jesaja sagt seinem Volk nicht, dass seine Angst unbegründet sei. Was sich ändert, ist, dass sie darin nicht mehr allein sind. Mut bedeutet hier nicht die Abwesenheit von Angst, sondern die Gegenwart Gottes mitten in ihr.",
+      "prayer": "Herr, sei mir nahe in dem, wovor ich mich heute Nacht fürchte. Beruhige mein Herz und geh mir voraus hinein."
+    },
+    {
+      "entry_id": "fear-ps-27-1",
+      "reflection": "David schreibt dies als Soldat, nicht als ein Mann in Sicherheit. Er leugnet nicht, dass es Feinde gibt; er misst sie an jemandem Größeren. Angst schrumpft nicht, wenn die Bedrohung klein ist, sondern wenn das, was an deiner Seite steht, größer ist als sie.",
+      "prayer": "Herr, du bist mein Licht. Mach mich mutig genug für den nächsten kleinen Schritt, und nur für diesen."
+    },
+    {
+      "entry_id": "anxiety-1pet-5-7",
+      "reflection": "Angst ist Sorge, die keinen Ort hat, an dem sie sich ablegen kann. Petrus verlangt nicht, dass du weniger fühlst oder dich weniger sorgst. Er bittet dich, die Last jemandem zu übergeben, der sie tragen kann – das ist etwas völlig anderes, als zu versuchen, nicht mehr daran zu denken.",
+      "prayer": "Vater, ich gebe dir das, was ich immer wieder wälze. Nimm es mir ab und lass mich heute Nacht ruhen."
+    },
+    {
+      "entry_id": "anxiety-phil-4-6",
+      "reflection": "Paulus ersetzt Sorge durch eine konkrete Handlung statt durch eine Stimmung. Benenne die Sache. Bitte offen darum. Vage Angst hat keine Konturen und lässt sich deshalb nicht ablegen, aber eine konkrete Bitte kann übergeben werden. Der Friede, den er beschreibt, kommt nach dem Bitten, nicht davor.",
+      "prayer": "Herr, hier ist genau das, was mich beunruhigt, offen ausgesprochen. Ich lege es in deine Hände und lasse es dort."
+    },
+    {
+      "entry_id": "grief-mt-5-4",
+      "reflection": "Trauer ist kein Versagen des Glaubens. Christus nennt den Trauernden selig, das heißt, dein Schmerz wird gehalten und nicht überstürzt. Der Trost wird in der Zukunftsform versprochen; du bist nicht zu spät dafür, wenn er noch nicht angekommen ist.",
+      "prayer": "Herr, sei bei mir in diesem Verlust. Tröste mich zu deiner Zeit, nicht zu meiner."
+    },
+    {
+      "entry_id": "grief-ps-34-18",
+      "reflection": "Nähe kommt in diesem Vers vor der Heilung, und diese Reihenfolge ist wichtig. Gott kommt den Gebrochenen näher als den Gefassten – das heißt, du musst dich nicht erst zusammenreißen, um ihm zu begegnen.",
+      "prayer": "Jesus, bleib mir heute Nacht nahe. Ich brauche noch keine Antworten, nur deine Gegenwart."
+    },
+    {
+      "entry_id": "temptation-1cor-10-13",
+      "reflection": "Hier werden zwei Dinge gesagt, und das zweite ist das hilfreiche. Der Sog, den du spürst, ist allen gemeinsam, er ist also kein Beweis dafür, dass du einzigartig zerbrochen bist. Und es gibt immer schon einen bereiteten Ausweg. Suche nach dem Ausgang, nicht nach mehr Willenskraft.",
+      "prayer": "Herr, zeig mir den Ausweg, den du bereits geschaffen hast. Gib mir Kraft für die nächste Stunde, nicht für das nächste Jahr."
+    },
+    {
+      "entry_id": "temptation-mt-26-41",
+      "reflection": "Christus benennt dieses Muster in der Nacht vor seinem Tod. Wachsamkeit kommt vor dem Moment, nicht währenddessen. Wenn du am Rand stehst, ist der Kampf meist schon entschieden – die eigentliche Arbeit liegt früher, im Bewachen des Zugangs.",
+      "prayer": "Jesus, bewache meine Schritte, bevor ich an den Rand komme. Mach mich ehrlich darüber, was mich dorthin führt."
+    },
+    {
+      "entry_id": "lonely-jn-14-18",
+      "reflection": "Christus sagt dies Stunden vor seiner Verhaftung, zu Männern, die gleich auseinanderlaufen werden. Er verspricht nicht, dass du dich sofort begleitet fühlen wirst. Er verspricht, dich nicht als Waise zurückzulassen – die Einsamkeit ist real, aber sie hat nicht das letzte Wort.",
+      "prayer": "Jesus, lass mich in diesem leeren Raum wissen, dass du hier bist."
+    },
+    {
+      "entry_id": "lonely-mt-28-20",
+      "reflection": "Dies sind die letzten Worte des Evangeliums, gesprochen als Auftrag, in die Welt hinauszugehen. Das Versprechen der Gegenwart ist nicht den sicheren Momenten vorbehalten – „immer“ schließt auch die Tage ein, an denen du dich am einsamsten fühlst. Es ist eine Tatsache, auf die man sich stützen kann, kein Gefühl, dem man hinterherjagen muss.",
+      "prayer": "Herr, erinnere mich heute daran, dass ich begleitet bin, auch wenn es sich nicht so anfühlt."
+    },
+    {
+      "entry_id": "angry-eph-4-26",
+      "reflection": "Paulus verurteilt nicht den Zorn selbst, sondern nur das, wozu du ihn nach Einbruch der Dunkelheit werden lässt. Etwas in dir mag zu Recht aufgebracht sein. Die Anweisung lautet nicht, ihn hinunterzuschlucken – sondern ihn nicht einziehen und sich dauerhaft einnisten zu lassen.",
+      "prayer": "Herr, ich bin wütend. Zeig mir, was daran gerecht ist, und hilf mir, den Rest noch vor der Nacht abzulegen."
+    },
+    {
+      "entry_id": "angry-jas-1-19",
+      "reflection": "Die Reihenfolge in diesem Satz ist die ganze Anweisung: zuerst hören, dann sprechen, zuletzt zürnen. Die meisten Streitigkeiten laufen in umgekehrter Reihenfolge ab. Ganz zuzuhören, bevor man antwortet, entschärft Zorn wirksamer als jede nachträgliche Selbstbeherrschung.",
+      "prayer": "Herr, verlangsame mich. Lass mich hören, bevor ich antworte."
+    },
+    {
+      "entry_id": "guilt-1jo-1-9",
+      "reflection": "Johannes sagt nicht, dass das Bekenntnis die Schuld sofort verschwinden lässt oder dass das Geschehene irgendwie entschuldbar war. Er sagt, Gott ist treu, um sie zu vergeben – treu, nicht nur bereit, als wäre dies eine überraschende Gnade und nicht eine widerwillige Ausnahme, die man ihm erst abringen muss.",
+      "prayer": "Herr, ich bringe dir, was ich getan habe. Vergib mir und hilf mir zu glauben, dass du es bereits getan hast."
+    },
+    {
+      "entry_id": "guilt-ro-8-1",
+      "reflection": "Paulus beschreibt hier kein Gefühl, sondern einen Stand: keine Verdammnis, Gegenwartsform, für jeden, der in Christus ist. Scham verhandelt immer wieder einen Fall neu, der längst zu deinen Gunsten entschieden wurde. Du darfst aufhören, dagegen anzukämpfen.",
+      "prayer": "Herr, hilf mir zu leben wie jemand, dem tatsächlich vergeben wurde, nicht wie jemand, der noch vor Gericht steht."
+    },
+    {
+      "entry_id": "doubt-mk-9-24",
+      "reflection": "Ein Vater sagt dies zu Jesus über seinen sterbenden Sohn, und es ist kein ordentliches Glaubensbekenntnis. Es sind zwei wahre Dinge in einem Atemzug: Ich glaube, und ich glaube nicht genug. Christus verlangt nicht, dass er den Widerspruch erst auflöst. Er heilt den Jungen trotzdem.",
+      "prayer": "Herr, ich glaube. Hilf meinem Unglauben."
+    },
+    {
+      "entry_id": "doubt-jn-20-29",
+      "reflection": "Thomas bekommt die Begegnung, die er verlangt hat, und Christus beschämt ihn nicht dafür, sie gebraucht zu haben. Doch die hier genannte Seligkeit gehört denen, die vertrauen, ohne diesen Beweis zu haben. Zweifel disqualifiziert nicht – er ist einfach der schwerere Weg, und der, den die meisten Gläubigen tatsächlich gehen.",
+      "prayer": "Herr, ich habe nicht gesehen, und ich will glauben. Begegne mir im Nicht-Sehen."
+    },
+    {
+      "entry_id": "weary-mt-11-28",
+      "reflection": "Dies ist eine Einladung, kein Befehl. Christus sagt dem Erschöpften nicht, er solle sich mehr anstrengen oder die Last wegerklären – er sagt: Komm zuerst zu mir. Die Ruhe ist der Anfang der Antwort, nicht eine Belohnung am Ende, nachdem du alles selbst gelöst hast.",
+      "prayer": "Jesus, ich komme, wie ich bin, erschöpft. Gib mir Ruhe."
+    },
+    {
+      "entry_id": "weary-isa-40-31",
+      "reflection": "Erneuerung gehört hier denen, die warten, nicht denen, die sich mehr anstrengen – eine schwere Anweisung für einen müden Menschen, denn Warten kann sich anfühlen wie Nichtstun. Aber Kraft, die aus dem Warten auf Gott kommt, hält länger als Kraft, die man sich selbst abringt.",
+      "prayer": "Herr, ich bin müde auf eine Weise, die Anstrengung nicht heilt. Erneuere, was ich mir selbst nicht erneuern kann."
+    },
+    {
+      "entry_id": "grateful-1the-5-16",
+      "reflection": "Paulus sagt nicht, dankt für alles, sondern in allem – ein Unterschied, den man festhalten sollte. Du sollst nicht dankbar sein, dass etwas Schweres geschehen ist, sondern weiter nach dem Guten suchen, auch während es geschieht.",
+      "prayer": "Danke, Herr, für diese konkrete Gnade heute. Halte meine Augen offen für mehr."
+    },
+    {
+      "entry_id": "grateful-ps-118-1",
+      "reflection": "Der hier genannte Grund sind nicht deine Umstände, sondern sein Wesen: Er ist gut, und das bleibt bestehen, ob der Tag gut lief oder nicht. Dankbarkeit, die in Gottes Wesen verankert ist, hält länger als Dankbarkeit, die davon abhängt, dass alles gut läuft.",
+      "prayer": "Herr, ich preise dich für das, was du bist, nicht nur für das, was du mir gegeben hast."
+    },
+    {
+      "entry_id": "guidance-pr-3-5",
+      "reflection": "Die Anweisung lautet nicht, keinen Verstand zu haben, sondern das ganze Gewicht einer Entscheidung nicht allein darauf zu stützen. Ihn auf all deinen Wegen anzuerkennen ist mehr als Gebet vor einer großen Wahl – es ist eine Gewohnheit auch in den kleinen, damit die große dir nicht fremd ist.",
+      "prayer": "Herr, ich sehe den ganzen Weg nicht. Mach ihn gerade, wo ich es nicht kann."
+    },
+    {
+      "entry_id": "guidance-jas-1-5",
+      "reflection": "Jakobus verspricht, dass Weisheit gegeben wird, und fügt etwas hinzu, das man leicht übersieht: ohne Vorwurf. Du wirst nicht dafür getadelt, es nicht schon zu wissen. Fragen wird hier als der gewöhnliche Weg behandelt, auf dem Weisheit ankommt, nicht als letzter Ausweg für Menschen, die es allein hätten herausfinden sollen.",
+      "prayer": "Vater, mir fehlt die Weisheit dafür. Gib sie großzügig, so wie du es versprochen hast."
+    },
+    {
+      "entry_id": "hurt-eph-4-32",
+      "reflection": "Die Vergebung, die hier von dir verlangt wird, ist einer Vergebung nachempfunden, die du bereits empfangen hast, nicht eine, die du aus dem Nichts erzeugen sollst. Das macht sie nicht augenblicklich. Aber es gibt dir einen Ausgangspunkt, wenn deine eigene Güte gegenüber dieser Person versiegt erscheint.",
+      "prayer": "Herr, ich habe es nicht in mir, das aus eigener Kraft zu vergeben. Leih mir deine."
+    },
+    {
+      "entry_id": "hurt-mt-6-14",
+      "reflection": "Christus verknüpft deine Vergebung mit der ihren auf eine Weise, die unbequem ist auszuhalten. Es ist weniger ein Tauschgeschäft als ein Spiegel: die Gnade, die du zu geben verweigerst, ist in gewissem Sinn die Gnade, die du selbst nicht ganz annehmen willst.",
+      "prayer": "Vater, erweiche, was in mir ihnen gegenüber hart geworden ist."
+    },
+    {
+      "entry_id": "overwhelmed-ps-61-2",
+      "reflection": "David betet dies von dem, was er das Ende der Erde nennt – so weit von Hilfe entfernt, wie er es sich nur vorstellen kann. Er bittet nicht darum, sich weniger überwältigt zu fühlen. Er bittet darum, an einen höheren Ort geführt zu werden, als er steht – eine Bitte, die du auch mitten im Zusammenbruch stellen kannst.",
+      "prayer": "Herr, mein Herz ist überwältigt. Führe mich zu dem Fels, der höher ist als ich."
+    },
+    {
+      "entry_id": "overwhelmed-mt-6-34",
+      "reflection": "Christus sagt dir nicht, dass die Zukunft in Ordnung sein wird. Er sagt dir, dass der morgige Tag seine eigene Sorge hat und die heutige schon genug zu tragen ist – du musst also nicht beides gleichzeitig tragen, so sehr es sich auch so anfühlen mag.",
+      "prayer": "Herr, hilf mir, im Heute zu bleiben. Der morgige Tag kann auf morgen warten."
+    },
+    {
+      "entry_id": "hopeful-jer-29-11",
+      "reflection": "Dieses Versprechen wird zu Menschen im Exil gesprochen, nicht zu Menschen, die morgen gerettet werden. Gottes Pläne für sie entfalten sich über Jahrzehnte, nicht über Nacht – eine dauerhafte Art von Hoffnung, gebaut, um ein langes Warten zu überstehen, statt eine schnelle Wende.",
+      "prayer": "Herr, ich kenne deinen Zeitplan nicht, aber ich vertraue darauf, dass es einen gibt. Gib mir Hoffnung für das, was kommt."
+    },
+    {
+      "entry_id": "hopeful-lam-3-22",
+      "reflection": "Diese Worte stehen mitten in einem Buch über die Zerstörung Jerusalems – Trauer und Hoffnung auf derselben Seite. Barmherzigkeit, die jeden Morgen neu ist, bedeutet, dass das gestrige Versagen den heutigen Neuanfang nicht schmälert.",
+      "prayer": "Herr, danke, dass dieser Morgen nicht an das Gestern gebunden ist. Begegne mir heute neu."
+    },
+    {
+      "entry_id": "joyful-phil-4-4",
+      "reflection": "Paulus schreibt dies aus einer Gefängniszelle, was bedeutet, dass die Aufforderung nicht davon abhängt, dass die Umstände gut sind. Freude ist hier etwas Gewähltes und Wiederholtes – „wiederum sage ich“ – keine Stimmung, die nur nach eigenem Zeitplan kommt.",
+      "prayer": "Herr, danke für diese Freude. Lass sie tief genug wurzeln, um auch die Tage zu überstehen, an denen sie nicht leichtfällt."
+    },
+    {
+      "entry_id": "envious-jas-3-16",
+      "reflection": "Jakobus beschönigt nicht, was Eifersucht hervorbringt: Verwirrung und Unordnung, nicht nur ein unangenehmes Gefühl. Sie klar zu benennen ist der erste Schritt heraus – Neid redet dir ein, der Anteil eines anderen sei ein Urteil über deinen eigenen, was er nie tatsächlich ist.",
+      "prayer": "Herr, beruhige das Vergleichen in mir. Hilf mir, das zu wollen, was du mir gegeben hast, nicht das, was du einem anderen gegeben hast."
+    },
+    {
+      "entry_id": "lust-gal-5-16",
+      "reflection": "Paulus sagt dir nicht, das Verlangen mit bloßer Willenskraft zum Schweigen zu bringen. Stattdessen weist er auf eine Richtung, in die du gehen sollst – die Disziplin besteht nicht nur aus Verweigerung, sondern aus Ersetzung: den Raum mit etwas zu füllen, das tatsächlich irgendwohin Gutes führt.",
+      "prayer": "Herr, lenke um, was gerade an mir zieht. Lehre mich, auf dich zuzugehen statt von dir weg."
+    },
+    {
+      "entry_id": "loving-1cor-13-4",
+      "reflection": "Dies ist keine Beschreibung eines Gefühls, sondern eine Liste von Handlungen – wichtig zu bedenken, wenn Liebe kompliziert wird. Geduld und Güte lassen sich auch an den Tagen üben, an denen die Wärme nicht so leicht kommt wie gerade jetzt.",
+      "prayer": "Herr, liebe heute durch mich, besonders auf die kleinen Weisen, die man leicht übergeht."
+    },
+    {
+      "entry_id": "proud-jas-4-6",
+      "reflection": "Der Gegensatz hier ist deutlich: Widerstand für die Stolzen, Gnade für die Demütigen. Stolz wird nicht dafür verurteilt, selbstbewusst zu sein – es ist die Haltung, nichts von Gott zu brauchen, und genau diese Haltung schließt die Gnade aus.",
+      "prayer": "Herr, zeig mir, wo ich aus eigener Kraft gestanden habe. Ich möchte lieber deine Gnade haben als meine Gewissheit."
+    },
+    {
+      "entry_id": "unforgiving-col-3-13",
+      "reflection": "Paulus geht davon aus, dass es eine Klage geben wird – „wenn jemand gegen einen anderen eine Beschwerde hat“ – der Groll wird als gewöhnlich behandelt, nicht als Ausnahme. Verlangt wird nicht, dass das Unrecht aufhört, wichtig zu sein, sondern nur, dass es aufhört, das zu sein, wofür du sie belangst.",
+      "prayer": "Herr, ich halte ihnen das immer noch vor. Hilf mir, es so abzulegen, wie du abgelegt hast, was ich dir schulde."
+    },
+    {
+      "entry_id": "depressed-ps-42-11",
+      "reflection": "Der Psalmist streitet laut mit seiner eigenen Seele, was schon lehrreich ist – du darfst die Verzweiflung infrage stellen, statt sie einfach als die ganze Wahrheit hinzunehmen. Hoffnung wird hier als Befehl an sich selbst ausgesprochen, nicht als Gefühl, auf dessen Ankunft er wartet.",
+      "prayer": "Herr, ich fühle im Moment kaum etwas Gutes. Sei die Hoffnung, die ich mir nicht selbst erschaffen kann."
+    },
+    {
+      "entry_id": "bored-eccl-3-1",
+      "reflection": "Der Prediger bewertet Zeiten nicht gegeneinander – eine langsame ist keine verschwendete. Wenn alles seine Zeit hat, dann gehört auch die flache, ereignislose Strecke zu etwas dazu, auch wenn du noch nicht siehst, wozu.",
+      "prayer": "Herr, begegne mir in dieser tristen Zeit. Zeig mir, wofür sie ist, oder gib mir Geduld, falls ich das noch nicht sehen soll."
+    },
+    {
+      "entry_id": "betrayed-ps-41-9",
+      "reflection": "David benennt den besonderen Schmerz dieser Sache: nicht die Grausamkeit eines Fremden, sondern die eines Freundes, jemand, der an seinem Tisch aß. Christus betet fast denselben Psalm in der Nacht, als Judas ihn verrät – diese Wunde ist alt, und Gott hat sie selbst persönlich durchlebt.",
+      "prayer": "Herr, jemand, dem ich vertraut habe, hat sich gegen mich gewandt. Du kennst diesen Schmerz von innen – sei bei mir darin."
+    },
+    {
+      "entry_id": "insecure-ps-139-14",
+      "reflection": "Der Psalmist gelangt nicht durch Vergleich mit anderen zu dieser Gewissheit – sie richtet sich ganz auf den Schöpfer, nicht auf den Spiegel. Wert wird hier erklärt, nicht verdient oder an der Person neben dir gemessen.",
+      "prayer": "Herr, erinnere mich daran, dass ich dein sorgfältiges Werk bin, kein Entwurf. Bring die Stimme zum Schweigen, die mir etwas anderes sagt."
+    },
+    {
+      "entry_id": "greedy-lk-12-15",
+      "reflection": "Christi Warnung kommt genau, nachdem ihn ein Mann bittet, einen Erbschaftsstreit zu schlichten – die genannte Gefahr ist nicht der Reichtum selbst, sondern der Glaube, mehr zu haben würde endlich genug sein. Das ist es nie ganz, und daran erkennt man es.",
+      "prayer": "Herr, löse meinen Griff um das, was ich habe und was ich will. Lass mein Leben an etwas anderem gemessen werden als an dem, was ich besitze."
+    },
+    {
+      "entry_id": "impatient-jas-5-8",
+      "reflection": "Jakobus verweist auf einen Bauern, der eine Ernte nicht beschleunigen kann, so sehr er es auch möchte – manche Dinge kommen nur zu ihrer eigenen Zeit, und gegen diesen Zeitplan anzukämpfen erschöpft meist nur den, der drängt.",
+      "prayer": "Herr, beruhige mein Herz, während ich warte. Hilf mir, deinem Zeitpunkt mehr zu vertrauen als meinem eigenen."
+    },
+    {
+      "entry_id": "discontent-phil-4-11",
+      "reflection": "Paulus nennt dies bewusst etwas Erlerntes, nicht etwas, das ihm von Natur aus gegeben war. Zufriedenheit bedeutet hier nicht, so zu tun, als sei die schwierige Lage in Ordnung – es ist eine Fähigkeit, die sich mit der Zeit entwickelt, ein Umstand nach dem anderen.",
+      "prayer": "Herr, lehre mich, zufrieden zu sein mit dem, was ist, ohne die Hoffnung auf das aufzugeben, was sein könnte."
+    },
+    {
+      "entry_id": "fear-josh-1-9",
+      "reflection": "Dies wird zu einem Mann gesagt, der ein Volk in ein Land führen soll, das er nie gesehen hat. Der Befehl, mutig zu sein, steht nicht für sich allein – er ist an einen Grund geknüpft, der im selben Atemzug genannt wird: Gottes Gegenwart, nicht Josuas Nerven, ist das, worauf der Mut ruht.",
+      "prayer": "Herr, geh mit mir in das, was ich noch nicht kenne. Lass das genug Mut für heute sein."
+    },
+    {
+      "entry_id": "fear-2tim-1-7",
+      "reflection": "Paulus beschreibt Angst als etwas, das gegeben oder zurückgehalten werden kann, wie ein Geist, der Wohnung nimmt – und sagt klar, dass sie nicht von Gott kommt. Was stattdessen gegeben wird, ist ganz praktisch: Kraft, Liebe und ein klarer Verstand – genau das, was Angst gewöhnlich verdrängt.",
+      "prayer": "Herr, nimm die Angst zurück, die nicht von dir ist. Fülle diesen Raum stattdessen mit Kraft und einem klaren Verstand."
+    },
+    {
+      "entry_id": "anxiety-ps-94-19",
+      "reflection": "Der Psalmist beschreibt keinen ruhigen Verstand, sondern einen überfüllten – viele Gedanken, alle auf einmal. Trost kommt hier nicht dadurch, dass sie alle zum Schweigen gebracht werden, sondern dadurch, dass sich etwas Stärkeres zwischen sie mischt.",
+      "prayer": "Herr, mein Verstand ist heute laut. Lass deinen Trost lauter sein."
+    },
+    {
+      "entry_id": "anxiety-jn-14-27",
+      "reflection": "Christus ist genau bei der Art von Frieden, die er anbietet: nicht die Version der Welt, die davon abhängt, dass die Umstände stimmen, sondern seine eigene, gegeben als Geschenk, ganz gleich, wie die Dinge gerade aussehen.",
+      "prayer": "Jesus, gib mir deinen Frieden, nicht die Art, die davon abhängt, dass alles gut geht."
+    },
+    {
+      "entry_id": "grief-rev-21-4",
+      "reflection": "Dies ist kein Versprechen, dass Trauer jetzt bedeutungslos ist, sondern dass sie nicht von Dauer ist. Das Bild ist zart und konkret – eine Hand, die Tränen abwischt – keine abstrakte Vorstellung von Trost, sondern eine persönliche.",
+      "prayer": "Herr, ich bitte noch nicht darum, aufzuhören zu trauern. Ich bitte darum, zu vertrauen, dass du dies eines Tages selbst abwischen wirst."
+    },
+    {
+      "entry_id": "grief-ps-30-5",
+      "reflection": "Der Vers drängt das Weinen nicht – es darf die ganze Nacht dauern. Was er verspricht, ist, dass die Nacht ein Ende hat, was ein anderer Trost ist, als jetzt aufzuhören zu weinen.",
+      "prayer": "Herr, bleib bei mir durch diese Nacht. Ich vertraue dir für den Morgen, noch bevor er kommt."
+    },
+    {
+      "entry_id": "temptation-jas-1-12",
+      "reflection": "Jakobus nennt den Menschen selig, der noch mitten in der Versuchung steht, nicht nur den, der sie bereits überstanden hat. Das Ausharren selbst wird als wertvoll behandelt, nicht nur als Mittel zu einer späteren Belohnung.",
+      "prayer": "Herr, ich stehe noch mitten darin. Hilf mir, die nächste Minute durchzuhalten, nicht den ganzen Kampf auf einmal."
+    },
+    {
+      "entry_id": "temptation-heb-2-18",
+      "reflection": "Die hier angebotene Hilfe kommt aus eigener Erfahrung, nicht aus distanziertem Mitgefühl. Christus rät nicht von außerhalb des Kampfes – er kann gerade deshalb helfen, weil er selbst mittendrin war.",
+      "prayer": "Jesus, du kennst diesen Sog von innen. Hilf mir so, wie es nur jemand kann, der ihn selbst gespürt hat."
+    },
+    {
+      "entry_id": "lonely-ps-68-6",
+      "reflection": "Der Vers verbindet zwei Rettungen, die nicht offensichtlich zusammengehören – die Einsamen und die Gefangenen – als wäre Isolation selbst eine Art Gefängnis, dessen Öffnen Gott besonders beherrscht.",
+      "prayer": "Herr, du gibst den Einsamen einen Ort, an den sie gehören. Ich bitte um diesen Ort."
+    },
+    {
+      "entry_id": "lonely-deut-31-6",
+      "reflection": "Mose sagt dies zu einem ganzen Volk am Rand einer Zukunft, in der er sie nicht mehr anführen wird. Das Versprechen ist nicht, dass sie sich nicht allein fühlen werden, sondern dass die Alleinheit nicht der Wahrheit entspricht – jemand geht trotzdem mit ihnen.",
+      "prayer": "Herr, erinnere mich daran, dass du nicht gegangen bist, auch an den Tagen, an denen es sich anders anfühlt."
+    },
+    {
+      "entry_id": "angry-pr-15-1",
+      "reflection": "Das Sprichwort gibt dir einen Hebel, keine Predigt: Dasselbe Gespräch kann eskalieren oder sich beruhigen, fast allein abhängig vom Ton des nächsten Satzes, den du wählst.",
+      "prayer": "Herr, gib mir eine sanfte Antwort für das Nächste, das ich scharf sagen möchte."
+    },
+    {
+      "entry_id": "angry-col-3-8",
+      "reflection": "Paulus zählt Zorn neben Verleumdung und Bosheit auf, nicht als privates Gefühl, sondern als etwas mit einer öffentlichen Spur – der Mund ist meist der erste Ort, an dem er sich zeigt, und auch der Ort, an dem er sich aufhalten lässt.",
+      "prayer": "Herr, bewache, was jetzt aus meinem Mund kommt, bevor ich Zeit hatte, mich zu beruhigen."
+    },
+    {
+      "entry_id": "guilt-ps-103-12",
+      "reflection": "Osten und Westen treffen sich nie, egal wie weit man in beide Richtungen reist – der Psalmist wählt die eine Entfernung, die kein messbares Ende hat, um zu beschreiben, wie vollständig dies weggetan wird.",
+      "prayer": "Herr, danke, dass du dies so weit von mir entfernt hast wie der Osten vom Westen. Hilf mir, aufzuhören, es zurückzuholen."
+    },
+    {
+      "entry_id": "guilt-isa-1-18",
+      "reflection": "Gott verlangt nicht, dass du so tust, als wäre der Fleck nicht da – Scharlach und Purpur werden klar benannt. Die Einladung besteht darin, die tatsächliche Farbe davon mitzubringen und sie verändern zu lassen, nicht schon sauber anzukommen.",
+      "prayer": "Herr, hier ist, was in mir wirklich befleckt ist. Ich bringe es, wie es ist, nicht, wie ich es mir wünschte."
+    },
+    {
+      "entry_id": "doubt-jas-1-6",
+      "reflection": "Das Bild ist Bewegung ohne Richtung – eine Welle geht dorthin, wohin der Wind sie als nächstes treibt. So klar benannt, wirkt Zweifel weniger wie ein moralisches Versagen und mehr wie ein beschreibbarer, gewöhnlicher Zustand, den man ehrlich zu Gott bringen sollte, statt ihn zu verbergen.",
+      "prayer": "Herr, ich fühle mich heute hin- und hergeworfen. Halte mich fest, auch wenn der Zweifel noch nicht ganz weicht."
+    },
+    {
+      "entry_id": "doubt-heb-11-1",
+      "reflection": "Glaube wird hier als eine eigene Art von Beweis definiert, nicht als das Fehlen von Beweisen. Das verändert den Blick auf Zweifel: Er ist nicht zwangsläufig ein Mangel an Glauben, sondern der gewöhnliche Zustand, etwas zu vertrauen, das man noch nicht bestätigt sehen kann.",
+      "prayer": "Herr, ich kann das Ergebnis noch nicht sehen. Lass dieses Vertrauen vorerst an die Stelle des Sehens treten."
+    },
+    {
+      "entry_id": "weary-gal-6-9",
+      "reflection": "Paulus verspricht nicht, dass die Müdigkeit sofort weicht – nur, dass ein Aufhören jetzt dich eine Ernte kosten würde, die noch unterwegs ist. Die Anweisung ist, noch etwas länger durchzuhalten, nicht, sich dabei weniger müde zu fühlen.",
+      "prayer": "Herr, ich bin versucht, genau am Rand von etwas aufzugeben. Gib mir die Kraft für eine weitere Zeitspanne."
+    },
+    {
+      "entry_id": "weary-ps-121-1",
+      "reflection": "Der Psalmist stellt die Frage laut, bevor er sie beantwortet – eine hilfreiche Gewohnheit für einen müden Verstand. Zu benennen, woher Hilfe tatsächlich kommt, ist selbst schon ein kleiner Akt des Aufblickens.",
+      "prayer": "Herr, meine Augen sind es müde, auf das Problem zu schauen. Hilf mir, sie stattdessen zu dir zu erheben."
+    },
+    {
+      "entry_id": "grateful-ps-100-4",
+      "reflection": "Danksagung wird hier als ein Zugang beschrieben, nicht als Belohnung für das Ankommen. Dankbarkeit ist das Tor selbst, der gewöhnliche Weg, sich Gott zu nähern, keine besondere Stimmung, die guten Tagen vorbehalten ist.",
+      "prayer": "Herr, ich komme heute zu dir durch den Dank, nicht an ihm vorbei."
+    },
+    {
+      "entry_id": "grateful-col-3-17",
+      "reflection": "Die Anweisung umfasst alles, nicht nur die offensichtlich geistlichen Momente – gewöhnliche Worte und gewöhnliche Aufgaben werden im selben Atemzug wie Anbetung genannt, wenn Dank darunterliegt.",
+      "prayer": "Herr, lass auch meine gewöhnlichen Aufgaben heute etwas Dank in sich tragen."
+    },
+    {
+      "entry_id": "guidance-ps-32-8",
+      "reflection": "Das Versprechen ist nicht nur Richtung, sondern Aufmerksamkeit – Gottes Auge bleibt, wie es heißt, auf dir, während die Belehrung geschieht, nicht eine Reihe von Anweisungen, die übergeben werden und die du dann allein herausfinden musst.",
+      "prayer": "Herr, lehre mich den Weg, den ich gehen soll, und bleib wachend, während ich ihn gehe."
+    },
+    {
+      "entry_id": "guidance-ps-119-105",
+      "reflection": "Eine Lampe für die Füße erleuchtet den nächsten Schritt, nicht den ganzen Weg voraus. Das ist eine bescheidenere Art von Führung, als den gesamten Pfad auf einmal zu sehen – aber sie reicht aus, um wirklich weiterzugehen.",
+      "prayer": "Herr, ich muss nicht den ganzen Weg sehen. Erleuchte nur den nächsten Schritt."
+    },
+    {
+      "entry_id": "hurt-ps-147-3",
+      "reflection": "Die beiden genannten Handlungen – heilen und verbinden – sind keine sofortigen Lösungen, sondern die Art von Fürsorge, die eine Wunde tatsächlich braucht: versorgt, verbunden, mit Zeit bedacht.",
+      "prayer": "Herr, verbinde, was in mir noch offen ist. Ich brauche es heute nicht geheilt, nur versorgt."
+    },
+    {
+      "entry_id": "hurt-ro-12-19",
+      "reflection": "Paulus verlangt nicht, dass du entscheidest, das Unrecht sei bedeutungslos gewesen – nur, dass du die Regelung davon jemand anderem übergibst. Gerechtigkeit kommt trotzdem noch; es ist nur nicht mehr deine Aufgabe, sie zu vollstrecken.",
+      "prayer": "Herr, ich übergebe dir das, was ich selbst regeln möchte. Es ist deine Sache, nicht meine."
+    },
+    {
+      "entry_id": "overwhelmed-ps-55-22",
+      "reflection": "Eine Last abzuwerfen ist eine entschiedene Bewegung, keine allmähliche Erleichterung. Der Vers zeigt einen einzigen Akt des Loslassens, gefolgt davon, dass ein anderer das Halten übernimmt.",
+      "prayer": "Herr, ich lege dies jetzt vor dir ab. Halte, was ich nicht mehr tragen kann."
+    },
+    {
+      "entry_id": "overwhelmed-2cor-12-9",
+      "reflection": "Paulus bekommt nicht die Kraft, um die er gebeten hat, entfernt; er bekommt eine Antwort, die die Schwäche selbst zu dem Ort umdeutet, an dem Gottes Kraft sich am besten zeigt.",
+      "prayer": "Herr, ich bin jetzt schwach. Lass genau das der Ort sein, an dem sich deine Kraft zeigt."
+    },
+    {
+      "entry_id": "hopeful-ro-15-13",
+      "reflection": "Hoffnung wird hier als etwas beschrieben, das überfließen kann, nicht nur knapp ausreicht – überreich, nicht nur überlebend. Das ist ein höherer Maßstab als bloßes Durchkommen, und sie wird als Geschenk angeboten, nicht als Anstrengung.",
+      "prayer": "Herr, erfülle mich mit mehr Hoffnung, als ich brauche, um nur den heutigen Tag zu überstehen."
+    },
+    {
+      "entry_id": "hopeful-ro-8-28",
+      "reflection": "Die Aussage ist nicht, dass jede einzelne Sache gut ist, sondern dass sie alle zusammen auf etwas Gutes hinwirken – ein Versprechen über das ganze Muster, kein Urteil über ein einzelnes Teil davon jetzt schon.",
+      "prayer": "Herr, ich kann das ganze Muster noch nicht sehen. Hilf mir zu vertrauen, dass es zusammenwirkt."
+    },
+    {
+      "entry_id": "joyful-neh-8-10",
+      "reflection": "Dies wird zu Menschen gesagt, die über ein wiederentdecktes Gesetz weinen, das zu halten sie versäumt hatten. Freude wird nicht anstelle von Ehrlichkeit über dieses Versagen angeboten – sie wird als die eigentliche Kraft angeboten, davon ausgehend weiterzugehen.",
+      "prayer": "Herr, lass deine Freude heute meine Kraft sein, nicht nur meine Stimmung."
+    },
+    {
+      "entry_id": "joyful-ps-16-11",
+      "reflection": "Die hier beschriebene Freude ist nicht an ein Ereignis oder eine Leistung gebunden, sondern an einen Ort – in Gottes Gegenwart zu sein. Das macht sie an gewöhnlichen Tagen verfügbar, nicht nur an ereignisreichen.",
+      "prayer": "Herr, danke für die Fülle der Freude, die einfach darin liegt, dir nahe zu sein."
+    },
+    {
+      "entry_id": "joyful-jn-15-11",
+      "reflection": "Christus sagt dies mitten in einer schwierigen Lehre über Beschneiden und Bleiben, nicht in einem festlichen Moment – Freude soll hier durch die schwierige Unterweisung hindurch bestehen bleiben, nicht erst danach.",
+      "prayer": "Jesus, lass deine Freude auch durch die schwereren Teile der Nachfolge in mir bleiben."
+    },
+    {
+      "entry_id": "envious-pr-14-30",
+      "reflection": "Das Sprichwort macht Neid zu einem körperlichen Preis, nicht nur zu einem emotionalen – etwas, das von innen abnutzt, statt sich nur unangenehm anzufühlen.",
+      "prayer": "Herr, gib mir ein Herz, das Frieden hat, statt eines, das ständig vergleicht."
+    },
+    {
+      "entry_id": "envious-gal-5-26",
+      "reflection": "Paulus verbindet Neid mit Provokation, als würden sich die beiden gegenseitig innerhalb der Gemeinschaft nähren – Neid bleibt selten privat, er neigt dazu, überzugreifen auf den Umgang mit der Person, die man beneidet.",
+      "prayer": "Herr, verhindere, dass sich das auf meinen Umgang mit ihnen auswirkt. Lass mich ihnen trotzdem Gutes wünschen."
+    },
+    {
+      "entry_id": "envious-jas-3-14",
+      "reflection": "Jakobus verbindet Eifersucht mit der Versuchung, darüber zu lügen – sie als Ehrgeiz oder hohe Ansprüche zu verkleiden. Sie genau zu benennen, so bitter und klein sie ist, ist der ehrliche erste Schritt darüber hinaus.",
+      "prayer": "Herr, hilf mir, dies beim wahren Namen zu nennen, statt es als etwas anderes zu verkleiden."
+    },
+    {
+      "entry_id": "lust-mt-5-8",
+      "reflection": "Die Seligpreisung richtet sich auf das Herz, nicht nur auf das äußere Verhalten – ein kürzerer, härterer Maßstab, als nur die Tat zu vermeiden, aber verbunden mit einem Versprechen, das erstrebenswert ist: Gott klar zu sehen.",
+      "prayer": "Herr, reinige, worauf ich immer wieder schaue und wobei ich verweile, nicht nur, was ich tue."
+    },
+    {
+      "entry_id": "lust-1cor-6-19",
+      "reflection": "Paulus deutet den Körper selbst, nicht nur die Tat, als etwas Heiliges und Bewohntes um. Das verändert die Frage von „ist das technisch gesehen falsch“ zu „was gehört an diesen bestimmten Ort.“",
+      "prayer": "Herr, dieser Körper gehört dir, bevor er mir gehört. Hilf mir, ihn heute so zu behandeln."
+    },
+    {
+      "entry_id": "lust-job-31-1",
+      "reflection": "Hiob verortet die Disziplin bei den Augen, bevor der Gedanke sich vollständig formt – ein Bund, der im Voraus geschlossen wird, statt ein Vorsatz mitten in der Versuchung, wenn er schon schwerer zu halten ist.",
+      "prayer": "Herr, hilf mir, diese Entscheidung jetzt zu treffen, bevor ich in dem Moment bin, in dem sie am schwersten zu halten ist."
+    },
+    {
+      "entry_id": "loving-1jo-4-19",
+      "reflection": "Die Reihenfolge ist wichtig: Liebe ist hier eine Antwort, keine Initiative, die du aus dem Nichts erzeugen musst. Welche Liebe du auch zu geben hast, sie begann als etwas, das dir zuerst gegeben wurde.",
+      "prayer": "Herr, danke, dass du mich zuerst geliebt hast. Lass das, was ich weitergebe, aus dem kommen, was ich empfangen habe."
+    },
+    {
+      "entry_id": "loving-1cor-13-7",
+      "reflection": "Jedes Verb beschreibt Liebe, die unter Last standhält – ertragen, glauben, hoffen, ausharren – nicht Liebe als ein Gefühl, das mit dem Wetter der Beziehung kommt und geht.",
+      "prayer": "Herr, gib mir heute eine Liebe, die erträgt und ausharrt, nicht nur eine Liebe, die sich leicht anfühlt."
+    },
+    {
+      "entry_id": "loving-song-8-7",
+      "reflection": "Das Bild zeigt etwas, das durch gewöhnliche Kräfte nicht aufzuhalten ist – Wasser ist das, was die meisten Dinge löscht, aber Liebe wird hier so beschrieben, dass sie genau das überdauert.",
+      "prayer": "Herr, lass diese Liebe die Art sein, die hält, auch wenn alles überflutet wird."
+    },
+    {
+      "entry_id": "proud-pr-16-18",
+      "reflection": "Das Sprichwort sagt nicht, dass Stolz manchmal zu einem Fall führt – es behandelt die Abfolge als gewöhnlich und zu erwarten, die übliche Form, in der dieser bestimmte Fehler endet.",
+      "prayer": "Herr, zeig mir, wo ich mir zu sicher geworden bin, bevor der Fall es für mich tut."
+    },
+    {
+      "entry_id": "proud-pr-11-2",
+      "reflection": "Das Sprichwort verbindet jede Haltung mit dem, was ihr natürlich folgt – auf Stolz folgt Schande, auf Demut folgt Weisheit – als wäre das Ergebnis schon im Ausgangspunkt angelegt.",
+      "prayer": "Herr, ich hätte lieber Demut und Weisheit als Stolz und das, was ihm folgt."
+    },
+    {
+      "entry_id": "proud-phil-2-3",
+      "reflection": "Paulus' Anweisung ist konkret genug, um heute danach zu handeln: keine allgemeine Einstellungsänderung, sondern die konkrete Gewohnheit, in dieser bestimmten Entscheidung die Stellung eines anderen über die eigene zu stellen.",
+      "prayer": "Herr, hilf mir, sie vor mir selbst zu bedenken bei dem Nächsten, was ich heute tue."
+    },
+    {
+      "entry_id": "unforgiving-lk-6-37",
+      "reflection": "Christus verknüpft deine eigene Freiheit mit der Freiheit, die du gewährst – jemand anderen von dem zu befreien, was er dir schuldet, löst offenbar auch etwas in dir, nicht nur in ihm.",
+      "prayer": "Herr, hilf mir, sie von dem zu befreien, was sie mir schulden. Ich glaube, ich brauche diese Befreiung genauso sehr wie sie."
+    },
+    {
+      "entry_id": "unforgiving-mk-11-25",
+      "reflection": "Christus setzt das Vergeben mitten in den Akt des Betens, nicht als separate Aufgabe für später – als ließen sich die beiden nicht wirklich trennen, Gebet und gleichzeitig gehegter Groll.",
+      "prayer": "Vater, ich bete und halte dies immer noch fest. Hilf mir, es genau jetzt loszulassen."
+    },
+    {
+      "entry_id": "unforgiving-ro-12-18",
+      "reflection": "Paulus' Einschränkungen sind wichtig – „wenn es möglich ist“, „soweit es an euch liegt“. Er verlangt nicht, dass du eine Versöhnung garantierst, nur dass sichergestellt ist, dass die Blockade nicht von deiner Seite kommt.",
+      "prayer": "Herr, lass die Blockade nicht von mir kommen. Tu mit dem Rest, was ich nicht kann."
+    },
+    {
+      "entry_id": "depressed-2cor-4-8",
+      "reflection": "Jeder Satzteil gesteht die schwere Hälfte ehrlich ein – bedrängt, ratlos, verfolgt, niedergeworfen – bevor das Wort hinzugefügt wird, das verhindert, dass dies die ganze Geschichte ist. Nichts wird hier kleingeredet, um besser zu klingen, als es ist.",
+      "prayer": "Herr, ich bin gerade bedrängt. Lass das nicht dasselbe sein wie zerschlagen."
+    },
+    {
+      "entry_id": "depressed-ps-40-1",
+      "reflection": "Das Warten kommt in diesem Vers vor der Rettung, und es ist nicht kurz – geduldiges Warten, keine sofortige Antwort. Die Grube wird konkret benannt, mit schlammigem Ton und allem, nicht in der Erzählung geglättet.",
+      "prayer": "Herr, ich warte gerade noch in der Grube. Ich vertraue darauf, dass du mich schon gehört hast."
+    },
+    {
+      "entry_id": "depressed-isa-61-3",
+      "reflection": "Jeder genannte Tausch ist ein direkter Tausch gegen sein Gegenteil – Asche gegen einen Kranz, Trauer gegen Öl, Schwermut gegen Lob. Nichts hier deutet darauf hin, dass die Schwermut unberechtigt war, nur dass sie nicht von Dauer sein soll.",
+      "prayer": "Herr, ich trage heute einen Geist der Schwermut. Ich bitte um das, was du an seiner Stelle versprichst."
+    },
+    {
+      "entry_id": "bored-eccl-9-10",
+      "reflection": "Die Anweisung wartet nicht darauf, dass eine bedeutsame Aufgabe auftaucht – sie gilt für das, was gerade tatsächlich vor deiner Hand liegt, wie klein oder ereignislos es auch aussehen mag.",
+      "prayer": "Herr, hilf mir, meine ganze Kraft in das zu stecken, was gerade vor mir liegt, auch wenn es sich klein anfühlt."
+    },
+    {
+      "entry_id": "bored-col-3-23",
+      "reflection": "Paulus lenkt um, für wen die Arbeit letztlich getan wird, was verändert, wie man eine öde Aufgabe halten kann – für den Herrn getan, muss sie nicht interessant sein, um es wert zu sein, gut gemacht zu werden.",
+      "prayer": "Herr, lass diese öde Aufgabe heute für dich sein, nicht nur, um sie hinter mich zu bringen."
+    },
+    {
+      "entry_id": "bored-ps-27-14",
+      "reflection": "Der Vers sagt zweimal dasselbe, Warten umrahmt Mut auf beiden Seiten – als wüsste der Schreiber, wie leicht die Anweisung mitten in einer langen, ereignislosen Strecke vergessen wird.",
+      "prayer": "Herr, ich warte immer noch. Gib mir Mut für die Strecke, die sich anfühlt, als bewege sie sich nicht."
+    },
+    {
+      "entry_id": "betrayed-ps-55-12",
+      "reflection": "David benennt genau, warum dies mehr schmerzt als gewöhnlicher Konflikt: Auf den Angriff eines Feindes hätte er sich vorbereiten können. Dass sich ein Freund gegen ihn wandte, ließ keine Möglichkeit, es kommen zu sehen.",
+      "prayer": "Herr, darauf hätte ich mich nicht vorbereiten können. Hilf mir, von einer Wunde zu heilen, die ich nicht kommen sah."
+    },
+    {
+      "entry_id": "betrayed-pr-18-24",
+      "reflection": "Das Sprichwort tut nicht so, als würde jede Freundschaft standhalten. Es unterscheidet zwischen den vielen, die es vielleicht nicht tun, und der selteneren Art, die es tut, und lässt Raum, weiter auf die zweite Art zu hoffen.",
+      "prayer": "Herr, danke für den Freund, der näher bleibt als ein Bruder. Hilf mir, wieder vorsichtig auf diese Art zu vertrauen."
+    },
+    {
+      "entry_id": "betrayed-gen-50-20",
+      "reflection": "Joseph sagt dies zu den Brüdern, die ihn tatsächlich in die Sklaverei verkauft haben – er verharmlost nicht, was sie damit beabsichtigten. Er weigert sich nur, ihre Absicht das Einzige sein zu lassen, was am Ende zählt.",
+      "prayer": "Herr, ich weiß noch nicht, was du aus dem machen wirst, was sie böse meinten. Ich vertraue darauf, dass du schon daran arbeitest."
+    },
+    {
+      "entry_id": "insecure-jer-1-5",
+      "reflection": "Das hier beschriebene Kennen geschieht, bevor Jeremia irgendetwas tun konnte, um es zu verdienen oder zu verlieren – es liegt vor seiner Geburt, geschweige denn vor seiner Leistung, was es außerhalb der Reichweite seiner Unsicherheit stellt.",
+      "prayer": "Herr, du kanntest mich, bevor ich etwas tun konnte, um es zu verdienen. Lass das der Boden sein, auf dem ich heute stehe."
+    },
+    {
+      "entry_id": "insecure-eph-2-10",
+      "reflection": "Das verwendete Wort kommt eher einem kunstvoll gefertigten Werk gleich als einer zufälligen Zusammensetzung – mit Absicht gemacht, für einen Zweck, der schon im Voraus vorbereitet wurde, nicht erst im Nachhinein improvisiert.",
+      "prayer": "Herr, erinnere mich daran, dass ich dein Werk bin, absichtlich gemacht, kein Zufall, bei dem du noch überlegst, was du damit anfangen sollst."
+    },
+    {
+      "entry_id": "insecure-zeph-3-17",
+      "reflection": "Der Vers beschreibt nicht, dass Gott dich aus der Ferne erträgt, sondern dass er sich aus der Nähe an dir erfreut, singend – ein seltsames Bild, wenn man es neben die Stimme hält, die sagt, du seist nicht genug.",
+      "prayer": "Herr, lass mich heute dich über mir singen hören statt der Stimme, die sagt, ich sei nicht genug."
+    },
+    {
+      "entry_id": "greedy-1tim-6-10",
+      "reflection": "Die Warnung benennt den Preis genau: nicht das Geld selbst, sondern die Liebe dazu, und die selbstverschuldeten Schmerzen, die jene treffen, die sich davon vom Kurs abbringen lassen.",
+      "prayer": "Herr, zeig mir, wo die Liebe zum Geld leise die Führung vor der Liebe zu dir übernommen hat."
+    },
+    {
+      "entry_id": "greedy-heb-13-5",
+      "reflection": "Das Heilmittel gegen die Liebe zum Geld ist nicht mehr Geld, sondern eine ganz andere Sicherheit – ein Versprechen der Gegenwart, das nicht davon abhängt, was auf deinem Konto ist.",
+      "prayer": "Herr, lass deine Gegenwart die Sicherheit sein, nach der ich greife, statt nach mehr."
+    },
+    {
+      "entry_id": "greedy-mt-6-21",
+      "reflection": "Christus verlangt nicht, dass du anders über das fühlst, was du bereits liebst. Er weist darauf hin, dass das Herz einfach dorthin folgt, wo der Schatz zuerst hingelegt wird – die nützlichere Frage ist also, wo du ihn hinlegst.",
+      "prayer": "Herr, zeig mir ehrlich, wo mein Schatz tatsächlich ist, und hilf mir, ihn zu dir hin zu verlagern."
+    },
+    {
+      "entry_id": "impatient-ro-12-12",
+      "reflection": "Die drei Anweisungen werden zusammen gegeben, als würden sie sich gegenseitig stützen – Hoffnung macht das Ausharren möglich, und beständiges Gebet ist das, was verhindert, dass die Hoffnung zuerst ausgeht.",
+      "prayer": "Herr, halte mich beständig im Gebet, während ich warte. Lass Hoffnung das Warten tragen, nicht Ungeduld."
+    },
+    {
+      "entry_id": "impatient-ps-37-7",
+      "reflection": "Der Psalmist verbindet Ungeduld mit Vergleich – sich darüber zu ärgern, dass der Zeitplan eines anderen schneller voranschreitet als der eigene. Ruhe wird als Alternative zu genau dieser Art des Uhrenschauens angeboten.",
+      "prayer": "Herr, hindere mich daran, mein Warten an dem eines anderen zu messen. Lass mich stattdessen in deinem ruhen."
+    },
+    {
+      "entry_id": "impatient-eccl-7-8",
+      "reflection": "Der Prediger verbindet Geduld mit Demut, als wäre das Drängen zum Ende selbst eine Art Stolz – eine Weigerung, etwas die Zeit zu lassen, die es tatsächlich braucht.",
+      "prayer": "Herr, halte mich demütig genug, um dies die Zeit nehmen zu lassen, die es braucht."
+    },
+    {
+      "entry_id": "discontent-1tim-6-6",
+      "reflection": "Paulus nennt Zufriedenheit selbst eine Art Reichtum, nicht bloß die Abwesenheit von Klage – ein kurzer Vers, der dafür plädiert, dass das, was du bereits hast, richtig gehalten, als echter Gewinn zählt.",
+      "prayer": "Herr, hilf mir, das, was ich bereits habe, als Gewinn zu zählen, nicht als Platzhalter für etwas Besseres."
+    },
+    {
+      "entry_id": "discontent-ps-73-25",
+      "reflection": "Der Psalmist gesteht, dass sein eigenes Fleisch und Herz ihn im Stich lassen – dies ist nicht aus einer Position vollkommener Fassung geschrieben. Selbst dort wird das, was übrig bleibt, als genug beschrieben.",
+      "prayer": "Herr, selbst wenn alles andere in mir zu versagen scheint, sei mein Anteil."
+    },
+    {
+      "entry_id": "discontent-mt-6-33",
+      "reflection": "Christus sagt nicht, dass die anderen Dinge unwichtig sind, nur dass sie nicht zuerst gesucht werden sollen. Unzufriedenheit entsteht oft daraus, diese Reihenfolge umzukehren – dem „Auch-Noch“ hinterherzujagen, bevor man das Wesentliche sucht.",
+      "prayer": "Herr, hilf mir, heute zuerst dein Reich zu wollen, und darauf zu vertrauen, dass der Rest an seiner Stelle folgt."
+    }
+  ]
+}

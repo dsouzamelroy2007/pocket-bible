@@ -87,12 +87,18 @@ and indexed by `content/manifest.json`, which `SeedLoader` reads first:
 content/
   manifest.json                   Index: content_version + paths to every module below
   core.json                       Translations + the 73-book Catholic canon (names only)
-  topics.json                     Feelings/aliases/entries/passages/entry_passages/daily_passages
+  topics.json                     Feelings/aliases/entries/passages/entry_passages/daily_passages,
+                                   all English -- the base content and the fallback for any
+                                   language/topic combination not yet translated
+  topics/
+    de.json                       Translated label/description/reflection/prayer for German;
+                                   any topic or entry missing from it falls back to English
+    <other-language>.json         Same shape, one file per additional UI language
   scripture/
     web-c/
       ps.json                     One file per book per translation
       ... (add more books here)
-    <other-translation-id>/       A future language/translation gets its own folder
+    <other-translation-id>/       A future scripture translation/language gets its own folder
 ```
 
 The point of splitting it this way: adding a book, or a whole new
@@ -140,20 +146,34 @@ gets imported per run.
 
 ### Adding a new UI language
 
-The app's chrome (nav labels, buttons, prompts) is already fully
-resource-driven — `values-de/`, `values-fr/`, `values-pt/`, `values-es/`,
-and `values-hi/` under `app/src/main/res/` — and switchable in-app via the
-language button on the Topics tab (`AppCompatDelegate.setApplicationLocales`),
-independent of the phone's system language. Adding another UI language is
-a new `values-<lang>/strings.xml` with the same keys, no code changes.
+Three layers respond to the in-app language switcher (the button on the
+Topics tab, backed by `AppCompatDelegate.setApplicationLocales` — MainActivity
+is an `AppCompatActivity` specifically so `recreate()` actually reloads
+resources in the new locale, not just persists the choice):
 
-That switcher only affects UI chrome and book *names* (`BookNames.kt`
-gives book ids a translated name per language, since those are bundled
-data, not string resources). It does **not** translate scripture text or
-the curated topic reflections/prayers — those need real translated
-content per the scripture workflow above; there's no shortcut for prose
-that isn't machine translation, which this project deliberately avoids
-for devotional content the same way it avoids it for scripture.
+1. **App chrome** — nav labels, buttons, prompts. Fully resource-driven:
+   `values-de/`, `values-fr/`, `values-pt/`, `values-es/`, `values-hi/`
+   under `app/src/main/res/`. A new language is a new `values-<lang>/strings.xml`
+   with the same keys, no code changes.
+2. **Book names** — just names ("Psalms", "Luke"), not scripture text.
+   `BookNames.kt` maps each book id to a translated `R.string` per
+   language, falling back to the bundled English name for any book id
+   without one.
+3. **Topics content** — feeling label/description, entry reflection/prayer.
+   Bundled data (Room, seeded from `content/topics/<language>.json`), not
+   string resources, translated per the file layout above with the same
+   fallback-to-English pattern via `feeling_translation`/`entry_translation`
+   tables (`ContentModel.kt`) that `MainViewModel.ensureFreshForCurrentLanguage()`
+   re-queries whenever the language changes.
+
+Layers 1 and 2 are safe to translate freely — UI vocabulary and proper
+nouns, not scripture. Layer 3 is *my own* devotional prose (not scripture),
+so it's translatable the same way — that's what `content/topics/de.json`
+is. What still doesn't get machine-translated, deliberately, is **scripture
+text itself** (including the Psalms already loaded): different languages
+have specific trusted translations (Luther, Segond, Almeida, Reina-Valera),
+and an ad-hoc translation wouldn't be any of those — see the scripture
+workflow above for the real path.
 
 ## What's intentionally left for production
 

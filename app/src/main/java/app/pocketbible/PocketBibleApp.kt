@@ -35,13 +35,41 @@ private val MIGRATION_1_2 = object : Migration(1, 2) {
     }
 }
 
+/** Adds feeling_translation/entry_translation tables for the in-app language switcher. */
+private val MIGRATION_2_3 = object : Migration(2, 3) {
+    override fun migrate(db: SupportSQLiteDatabase) {
+        db.execSQL(
+            """
+            CREATE TABLE IF NOT EXISTS `feeling_translation` (
+                `feeling_id` TEXT NOT NULL,
+                `language` TEXT NOT NULL,
+                `label` TEXT NOT NULL,
+                `description` TEXT NOT NULL,
+                PRIMARY KEY(`feeling_id`, `language`)
+            )
+            """.trimIndent()
+        )
+        db.execSQL(
+            """
+            CREATE TABLE IF NOT EXISTS `entry_translation` (
+                `entry_id` TEXT NOT NULL,
+                `language` TEXT NOT NULL,
+                `reflection` TEXT NOT NULL,
+                `prayer` TEXT NOT NULL,
+                PRIMARY KEY(`entry_id`, `language`)
+            )
+            """.trimIndent()
+        )
+    }
+}
+
 class PocketBibleApp : Application() {
 
     private val appScope = CoroutineScope(SupervisorJob() + Dispatchers.IO)
 
     val database: ContentDatabase by lazy {
         Room.databaseBuilder(this, ContentDatabase::class.java, "pocketbible.db")
-            .addMigrations(MIGRATION_1_2)
+            .addMigrations(MIGRATION_1_2, MIGRATION_2_3)
             // Covers any *future* schema change that doesn't get a real
             // Migration written for it — still prototype-stage safety net,
             // not a substitute for writing migrations as the schema grows.
