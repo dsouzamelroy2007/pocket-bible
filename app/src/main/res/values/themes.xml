@@ -2,8 +2,8 @@
     <!-- Compose paints the actual UI; this platform theme just avoids an
          ActionBar and a white flash before Compose takes over. Must descend
          from Theme.AppCompat (not a plain platform theme) because
-         MainActivity extends AppCompatActivity -- that's what makes the
+         MainActivity extends AppCompatActivity; that is what makes the
          in-app language switcher's recreate() actually reload resources in
-         the newly-selected locale instead of silently no-op'ing. -->
+         the newly selected locale instead of silently no-oping. -->
     <style name="Theme.PocketBible" parent="Theme.AppCompat.DayNight.NoActionBar" />
 </resources>
