@@ -33,6 +33,7 @@ import app.pocketbible.ui.MainViewModel
 import app.pocketbible.ui.bible.BibleBookListScreen
 import app.pocketbible.ui.bible.BibleChapterListScreen
 import app.pocketbible.ui.bible.BibleReaderScreen
+import app.pocketbible.ui.bible.localizedBookName
 import app.pocketbible.ui.home.HomeScreen
 import app.pocketbible.ui.saved.SavedScreen
 import app.pocketbible.ui.theme.PocketBibleTheme
@@ -168,7 +169,7 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                 val book by viewModel.selectedBook.collectAsState()
                 val chapters by viewModel.chapters.collectAsState()
                 BibleChapterListScreen(
-                    bookName = book?.displayName ?: "",
+                    bookName = book?.let { localizedBookName(it) } ?: "",
                     chapters = chapters,
                     onBack = { navController.popBackStack() },
                     onChapterSelected = {
@@ -185,7 +186,7 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                 val highlightVerse by viewModel.scrollToVerse.collectAsState()
                 val index = chapters.indexOf(chapter)
                 BibleReaderScreen(
-                    bookName = book?.displayName ?: "",
+                    bookName = book?.let { localizedBookName(it) } ?: "",
                     chapter = chapter,
                     verses = verses,
                     highlightVerse = highlightVerse,

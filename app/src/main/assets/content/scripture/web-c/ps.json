@@ -1,0 +1,106 @@
+{
+  "translation_id": "web-c",
+  "book_id": "ps",
+  "language": "en",
+  "license": "public-domain",
+  "source": "sarata.com/bible/web (World English Bible)",
+  "verified": true,
+  "note": "Chapters 1, 23, 100, 117 only -- fetched directly from a clearly-labeled WEB source during authoring, not written from memory. Populating the rest of this book (and the rest of the Bible) is a bulk-import job: see tools/import_scripture.py and its README section.",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Blessed is the man who doesn't walk in the counsel of the wicked, nor stand in the way of sinners, nor sit in the seat of scoffers;"
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "but his delight is in the LORD's law. On his law he meditates day and night."
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "He will be like a tree planted by the streams of water, that brings forth its fruit in its season, whose leaf also does not wither. Whatever he does shall prosper."
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "The wicked are not so, but are like the chaff which the wind drives away."
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Therefore the wicked shall not stand in the judgment, nor sinners in the congregation of the righteous."
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "For the LORD knows the way of the righteous, but the way of the wicked shall perish."
+    },
+    {
+      "chapter": 23,
+      "verse": 1,
+      "text": "The LORD is my shepherd; I shall lack nothing."
+    },
+    {
+      "chapter": 23,
+      "verse": 2,
+      "text": "He makes me lie down in green pastures. He leads me beside still waters."
+    },
+    {
+      "chapter": 23,
+      "verse": 3,
+      "text": "He restores my soul. He guides me in the paths of righteousness for his name's sake."
+    },
+    {
+      "chapter": 23,
+      "verse": 4,
+      "text": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me. Your rod and your staff, they comfort me."
+    },
+    {
+      "chapter": 23,
+      "verse": 5,
+      "text": "You prepare a table before me in the presence of my enemies. You anoint my head with oil. My cup runs over."
+    },
+    {
+      "chapter": 23,
+      "verse": 6,
+      "text": "Surely goodness and loving kindness shall follow me all the days of my life, and I will dwell in the LORD's house forever."
+    },
+    {
+      "chapter": 100,
+      "verse": 1,
+      "text": "Shout for joy to the LORD, all you lands!"
+    },
+    {
+      "chapter": 100,
+      "verse": 2,
+      "text": "Serve the LORD with gladness. Come before his presence with singing."
+    },
+    {
+      "chapter": 100,
+      "verse": 3,
+      "text": "Know that the LORD, he is God. It is he who has made us, and we are his. We are his people, and the sheep of his pasture."
+    },
+    {
+      "chapter": 100,
+      "verse": 4,
+      "text": "Enter into his gates with thanksgiving, into his courts with praise. Give thanks to him, and bless his name."
+    },
+    {
+      "chapter": 100,
+      "verse": 5,
+      "text": "For the LORD is good. His loving kindness endures forever, his faithfulness to all generations."
+    },
+    {
+      "chapter": 117,
+      "verse": 1,
+      "text": "Praise the LORD, all you nations! Extol him, all you peoples!"
+    },
+    {
+      "chapter": 117,
+      "verse": 2,
+      "text": "For his loving kindness is great toward us. The LORD's faithfulness endures forever. Praise the LORD!"
+    }
+  ]
+}

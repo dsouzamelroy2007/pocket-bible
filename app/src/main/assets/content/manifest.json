@@ -1,0 +1,13 @@
+{
+  "content_version": 8,
+  "_note": "Index of every content module this app ships. To add a book or a new translation/language: drop a new file under content/scripture/<translation_id>/<book_id>.json (see tools/import_scripture.py) and add one entry here -- no need to touch core.json, topics.json, or any other scripture file. Bump content_version whenever any module's data changes so SeedLoader re-seeds on next launch.",
+  "core": "content/core.json",
+  "topics": "content/topics.json",
+  "scripture": [
+    {
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "path": "content/scripture/web-c/ps.json"
+    }
+  ]
+}

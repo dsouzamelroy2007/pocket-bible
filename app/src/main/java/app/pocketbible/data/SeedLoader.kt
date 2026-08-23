@@ -5,25 +5,34 @@ import org.json.JSONArray
 import org.json.JSONObject
 
 /**
- * Hydrates the Room database from the bundled assets/seed_content.json on
- * first launch, and again whenever content_version increases (e.g. an app
- * update ships more entries). User data — saved verses, view history — is
- * never touched here.
+ * Hydrates the Room database from the bundled assets/content/ tree on first
+ * launch, and again whenever content_version increases (e.g. an app update
+ * ships more entries). User data -- saved verses, view history -- is never
+ * touched here.
+ *
+ * Content is split into modules, indexed by content/manifest.json:
+ *   - core.json           translations + the book canon (structural, rarely changes)
+ *   - topics.json         feelings/aliases/entries/passages/entry_passages/daily_passages
+ *   - scripture/<translation_id>/<book_id>.json   one file per book per translation
+ *
+ * Adding a book or a new translation/language is meant to be a matter of
+ * dropping a new scripture/<translation_id>/<book_id>.json file (see
+ * tools/import_scripture.py) and adding one line to manifest.json's
+ * "scripture" list -- no other module needs to change.
  */
 class SeedLoader(private val context: Context, private val db: ContentDatabase) {
 
     private val prefs = context.getSharedPreferences("pocketbible_prefs", Context.MODE_PRIVATE)
 
-    suspend fun seedIfNeeded(assetName: String = "seed_content.json") {
-        val json = JSONObject(
-            context.assets.open(assetName).bufferedReader().use { it.readText() }
-        )
-        val version = json.optInt("content_version", 1)
+    suspend fun seedIfNeeded(manifestPath: String = "content/manifest.json") {
+        val manifest = readJson(manifestPath)
+        val version = manifest.optInt("content_version", 1)
         if (prefs.getInt("content_version", -1) == version) return
 
         val seedDao = db.seedDao()
 
-        seedDao.insertTranslations(json.getJSONArray("translations").mapObjects { o ->
+        val core = readJson(manifest.getString("core"))
+        seedDao.insertTranslations(core.getJSONArray("translations").mapObjects { o ->
             Translation(
                 id = o.getString("id"),
                 name = o.getString("name"),
@@ -35,9 +44,8 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                 language = o.getString("language")
             )
         })
-
         seedDao.insertBooks(
-            json.optJSONArray("books")?.mapObjects { o ->
+            core.optJSONArray("books")?.mapObjects { o ->
                 Book(
                     id = o.getString("id"),
                     name = o.getString("name"),
@@ -49,7 +57,8 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
             } ?: emptyList()
         )
 
-        seedDao.insertPassages(json.getJSONArray("passages").mapObjects { o ->
+        val topics = readJson(manifest.getString("topics"))
+        seedDao.insertPassages(topics.getJSONArray("passages").mapObjects { o ->
             Passage(
                 id = o.getString("id"),
                 translationId = o.getString("translation_id"),
@@ -67,7 +76,7 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
 
         val feelings = mutableListOf<Feeling>()
         val aliases = mutableListOf<FeelingAlias>()
-        val feelingArray = json.getJSONArray("feelings")
+        val feelingArray = topics.getJSONArray("feelings")
         for (i in 0 until feelingArray.length()) {
             val o = feelingArray.getJSONObject(i)
             feelings += Feeling(
@@ -91,7 +100,7 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
         seedDao.insertFeelings(feelings)
         seedDao.insertAliases(aliases)
 
-        seedDao.insertEntries(json.getJSONArray("entries").mapObjects { o ->
+        seedDao.insertEntries(topics.getJSONArray("entries").mapObjects { o ->
             Entry(
                 id = o.getString("id"),
                 feelingId = o.getString("feeling_id"),
@@ -106,7 +115,7 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
             )
         })
 
-        seedDao.insertEntryPassages(json.getJSONArray("entry_passages").mapObjects { o ->
+        seedDao.insertEntryPassages(topics.getJSONArray("entry_passages").mapObjects { o ->
             EntryPassage(
                 entryId = o.getString("entry_id"),
                 passageId = o.getString("passage_id"),
@@ -116,7 +125,7 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
         })
 
         seedDao.insertDailyPassages(
-            json.optJSONArray("daily_passages")?.mapObjects { o ->
+            topics.optJSONArray("daily_passages")?.mapObjects { o ->
                 DailyPassage(
                     monthDay = o.getString("month_day"),
                     passageId = o.getString("passage_id")
@@ -124,21 +133,35 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
             } ?: emptyList()
         )
 
-        seedDao.insertScriptureVerses(
-            json.optJSONArray("scripture")?.mapObjects { o ->
-                ScriptureVerse(
-                    id = o.getString("id"),
-                    translationId = o.getString("translation_id"),
-                    bookId = o.getString("book_id"),
-                    chapter = o.getInt("chapter"),
-                    verse = o.getInt("verse"),
-                    text = o.getString("text")
+        val scriptureVerses = mutableListOf<ScriptureVerse>()
+        val scriptureFiles = manifest.optJSONArray("scripture") ?: JSONArray()
+        for (i in 0 until scriptureFiles.length()) {
+            val ref = scriptureFiles.getJSONObject(i)
+            val book = readJson(ref.getString("path"))
+            val translationId = book.getString("translation_id")
+            val bookId = book.getString("book_id")
+            val verses = book.optJSONArray("verses") ?: JSONArray()
+            for (j in 0 until verses.length()) {
+                val v = verses.getJSONObject(j)
+                val chapter = v.getInt("chapter")
+                val verse = v.getInt("verse")
+                scriptureVerses += ScriptureVerse(
+                    id = "$translationId:$bookId:$chapter:$verse",
+                    translationId = translationId,
+                    bookId = bookId,
+                    chapter = chapter,
+                    verse = verse,
+                    text = v.getString("text")
                 )
-            } ?: emptyList()
-        )
+            }
+        }
+        seedDao.insertScriptureVerses(scriptureVerses)
 
         prefs.edit().putInt("content_version", version).apply()
     }
+
+    private fun readJson(assetPath: String): JSONObject =
+        JSONObject(context.assets.open(assetPath).bufferedReader().use { it.readText() })
 }
 
 private fun <T> JSONArray.mapObjects(transform: (JSONObject) -> T): List<T> =

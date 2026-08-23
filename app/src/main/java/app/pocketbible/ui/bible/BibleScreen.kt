@@ -104,7 +104,7 @@ fun BibleBookListScreen(
                         .clickable { onBookSelected(book) }
                         .padding(vertical = 12.dp)
                 ) {
-                    Text(book.displayName, style = MaterialTheme.typography.bodyLarge)
+                    Text(localizedBookName(book), style = MaterialTheme.typography.bodyLarge)
                 }
                 HorizontalDivider()
             }
@@ -160,7 +160,7 @@ private fun GoToReferenceCard(
 
             ExposedDropdownMenuBox(expanded = expandedBook, onExpandedChange = { expandedBook = it }) {
                 TextField(
-                    value = selectedBook?.displayName ?: "",
+                    value = selectedBook?.let { localizedBookName(it) } ?: "",
                     onValueChange = {},
                     readOnly = true,
                     label = { Text(stringResource(R.string.read_book_label)) },
@@ -176,7 +176,7 @@ private fun GoToReferenceCard(
                         DropdownMenuItem(
                             text = {
                                 Text(
-                                    book.displayName,
+                                    localizedBookName(book),
                                     color = if (loaded) Color.Unspecified else MaterialTheme.colorScheme.secondary
                                 )
                             },
@@ -263,7 +263,7 @@ private fun GoToReferenceCard(
             if (selectedBook != null && availableChapters.isEmpty()) {
                 Spacer(Modifier.height(8.dp))
                 Text(
-                    stringResource(R.string.read_book_not_loaded, selectedBook?.displayName ?: ""),
+                    stringResource(R.string.read_book_not_loaded, selectedBook?.let { localizedBookName(it) } ?: ""),
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.secondary
                 )
