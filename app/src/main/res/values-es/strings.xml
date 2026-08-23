@@ -44,7 +44,7 @@
     <string name="verse_save">Guardar</string>
     <string name="verse_another">Otro</string>
 
-    <!-- Book names (data, not app chrome -- shown wherever a Book from the canon is displayed) -->
+    <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">Génesis</string>
     <string name="book_ex">Éxodo</string>
     <string name="book_lev">Levítico</string>

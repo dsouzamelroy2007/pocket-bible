@@ -50,7 +50,7 @@
     <string name="verse_save">Save</string>
     <string name="verse_another">Another</string>
 
-    <!-- Book names (data, not app chrome -- shown wherever a Book from the canon is displayed) -->
+    <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">Genesis</string>
     <string name="book_ex">Exodus</string>
     <string name="book_lev">Leviticus</string>

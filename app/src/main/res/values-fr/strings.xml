@@ -44,7 +44,7 @@
     <string name="verse_save">Enregistrer</string>
     <string name="verse_another">Un autre</string>
 
-    <!-- Book names (data, not app chrome -- shown wherever a Book from the canon is displayed) -->
+    <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">Genèse</string>
     <string name="book_ex">Exode</string>
     <string name="book_lev">Lévitique</string>

@@ -44,7 +44,7 @@
     <string name="verse_save">सहेजें</string>
     <string name="verse_another">दूसरा</string>
 
-    <!-- Book names (data, not app chrome -- shown wherever a Book from the canon is displayed) -->
+    <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">उत्पत्ति</string>
     <string name="book_ex">निर्गमन</string>
     <string name="book_lev">लैव्यव्यवस्था</string>
