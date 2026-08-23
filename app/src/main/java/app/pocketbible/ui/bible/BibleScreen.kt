@@ -43,6 +43,7 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
@@ -63,6 +64,8 @@ fun BibleBookListScreen(
     onReferenceFound: () -> Unit,
     modifier: Modifier = Modifier
 ) {
+    val readableBookIds = remember(books) { books.map { it.id }.toSet() }
+
     Column(modifier.padding(horizontal = 20.dp)) {
         Spacer(Modifier.height(16.dp))
         Text(stringResource(R.string.read_title), style = MaterialTheme.typography.headlineSmall, fontWeight = FontWeight.Medium)
@@ -76,6 +79,7 @@ fun BibleBookListScreen(
 
         GoToReferenceCard(
             allBooks = allBooks,
+            readableBookIds = readableBookIds,
             onLoadChapters = onLoadChapters,
             onLoadVerses = onLoadVerses,
             onSubmit = onGoToReference,
@@ -112,13 +116,19 @@ fun BibleBookListScreen(
 @Composable
 private fun GoToReferenceCard(
     allBooks: List<Book>,
+    readableBookIds: Set<String>,
     onLoadChapters: suspend (Book) -> List<Int>,
     onLoadVerses: suspend (Book, Int) -> List<Int>,
     onSubmit: suspend (Book, Int, Int?) -> String?,
     onFound: () -> Unit
 ) {
+    // Loaded books float to the top so it's obvious, before you even pick one,
+    // which of the 73 actually have text behind them yet.
+    val orderedBooks = remember(allBooks, readableBookIds) {
+        allBooks.sortedBy { if (it.id in readableBookIds) 0 else 1 }
+    }
     var expandedBook by remember { mutableStateOf(false) }
-    var selectedBook by remember(allBooks) { mutableStateOf(allBooks.firstOrNull()) }
+    var selectedBook by remember(orderedBooks) { mutableStateOf(orderedBooks.firstOrNull()) }
 
     var expandedChapter by remember { mutableStateOf(false) }
     var availableChapters by remember { mutableStateOf<List<Int>>(emptyList()) }
@@ -161,9 +171,15 @@ private fun GoToReferenceCard(
                     expanded = expandedBook,
                     onDismissRequest = { expandedBook = false }
                 ) {
-                    allBooks.forEach { book ->
+                    orderedBooks.forEach { book ->
+                        val loaded = book.id in readableBookIds
                         DropdownMenuItem(
-                            text = { Text(book.displayName) },
+                            text = {
+                                Text(
+                                    book.displayName,
+                                    color = if (loaded) Color.Unspecified else MaterialTheme.colorScheme.secondary
+                                )
+                            },
                             onClick = {
                                 selectedBook = book
                                 expandedBook = false

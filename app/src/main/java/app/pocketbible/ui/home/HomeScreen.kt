@@ -2,6 +2,7 @@ package app.pocketbible.ui.home
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
@@ -9,16 +10,26 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
 import androidx.compose.foundation.lazy.grid.items
+import androidx.compose.foundation.layout.Box
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Language
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
+import androidx.compose.material3.DropdownMenu
+import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ElevatedCard
 import androidx.compose.material3.Icon
+import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontStyle
@@ -29,6 +40,21 @@ import app.pocketbible.data.Feeling
 import app.pocketbible.data.Passage
 import app.pocketbible.ui.theme.categoryAccent
 
+/**
+ * Language tag to native name, so each option stays findable regardless of
+ * the app's current locale. `null` means "follow the system language" and
+ * is rendered separately using [R.string.language_system_default].
+ */
+private val APP_LANGUAGES: List<Pair<String?, String>> = listOf(
+    null to "",
+    "en" to "English",
+    "de" to "Deutsch",
+    "fr" to "Français",
+    "pt" to "Português",
+    "es" to "Español",
+    "hi" to "हिन्दी"
+)
+
 @Composable
 fun HomeScreen(
     feelings: List<Feeling>,
@@ -37,6 +63,7 @@ fun HomeScreen(
     verseOfDay: Passage?,
     onSearchQueryChange: (String) -> Unit,
     onFeelingSelected: (Feeling) -> Unit,
+    onLanguageSelected: (String?) -> Unit,
     modifier: Modifier = Modifier
 ) {
     Column(
@@ -44,11 +71,18 @@ fun HomeScreen(
             .padding(horizontal = 20.dp)
             .padding(top = 12.dp)
     ) {
-        Text(
-            stringResource(R.string.home_title),
-            style = MaterialTheme.typography.headlineSmall,
-            fontWeight = FontWeight.Medium
-        )
+        Row(
+            Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.SpaceBetween,
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text(
+                stringResource(R.string.home_title),
+                style = MaterialTheme.typography.headlineSmall,
+                fontWeight = FontWeight.Medium
+            )
+            LanguageMenuButton(onLanguageSelected = onLanguageSelected)
+        }
         Spacer(Modifier.height(4.dp))
         Text(
             stringResource(R.string.home_subtitle),
@@ -150,6 +184,28 @@ fun HomeScreen(
         }
 
         Spacer(Modifier.height(24.dp))
+    }
+}
+
+@Composable
+private fun LanguageMenuButton(onLanguageSelected: (String?) -> Unit) {
+    var expanded by remember { mutableStateOf(false) }
+    val systemDefaultLabel = stringResource(R.string.language_system_default)
+    Box {
+        IconButton(onClick = { expanded = true }) {
+            Icon(Icons.Filled.Language, contentDescription = stringResource(R.string.language_button))
+        }
+        DropdownMenu(expanded = expanded, onDismissRequest = { expanded = false }) {
+            APP_LANGUAGES.forEach { (tag, nativeName) ->
+                DropdownMenuItem(
+                    text = { Text(if (tag == null) systemDefaultLabel else nativeName) },
+                    onClick = {
+                        expanded = false
+                        onLanguageSelected(tag)
+                    }
+                )
+            }
+        }
     }
 }
 

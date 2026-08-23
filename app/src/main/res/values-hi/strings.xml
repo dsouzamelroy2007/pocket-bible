@@ -5,6 +5,9 @@
     <string name="nav_read">पढ़ें</string>
     <string name="nav_saved">सहेजे गए</string>
 
+    <string name="language_button">भाषा</string>
+    <string name="language_system_default">सिस्टम डिफ़ॉल्ट</string>
+
     <string name="home_title">आज आपका दिल कैसा है?</string>
     <string name="home_subtitle">जो उपयुक्त हो उसे चुनें, या किसी शब्द या भावना को खोजें।</string>
     <string name="home_search_placeholder">कोई शब्द या भावना खोजें</string>

@@ -6,6 +6,10 @@
     <string name="nav_read">Read</string>
     <string name="nav_saved">Saved</string>
 
+    <!-- Language switcher -->
+    <string name="language_button">Language</string>
+    <string name="language_system_default">System default</string>
+
     <!-- Home / topics tab -->
     <string name="home_title">How is your heart today?</string>
     <string name="home_subtitle">Choose what fits, or search for a word or a feeling.</string>

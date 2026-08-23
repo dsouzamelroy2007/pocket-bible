@@ -5,6 +5,9 @@
     <string name="nav_read">Lesen</string>
     <string name="nav_saved">Gespeichert</string>
 
+    <string name="language_button">Sprache</string>
+    <string name="language_system_default">Systemstandard</string>
+
     <string name="home_title">Wie geht es deinem Herzen heute?</string>
     <string name="home_subtitle">Wähle, was passt, oder suche nach einem Wort oder Gefühl.</string>
     <string name="home_search_placeholder">Nach einem Wort oder Gefühl suchen</string>

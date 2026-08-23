@@ -3,7 +3,9 @@ package app.pocketbible
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.appcompat.app.AppCompatDelegate
 import androidx.compose.foundation.layout.padding
+import androidx.core.os.LocaleListCompat
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Favorite
@@ -43,14 +45,25 @@ class MainActivity : ComponentActivity() {
         setContent {
             PocketBibleTheme {
                 val viewModel: MainViewModel = viewModel(factory = MainViewModel.Factory(repo))
-                AppScaffold(viewModel)
+                AppScaffold(
+                    viewModel = viewModel,
+                    onLanguageSelected = { tag ->
+                        val locales = if (tag == null) {
+                            LocaleListCompat.getEmptyLocaleList()
+                        } else {
+                            LocaleListCompat.forLanguageTags(tag)
+                        }
+                        AppCompatDelegate.setApplicationLocales(locales)
+                        recreate()
+                    }
+                )
             }
         }
     }
 }
 
 @Composable
-private fun AppScaffold(viewModel: MainViewModel) {
+private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) -> Unit) {
     val navController = rememberNavController()
     val backStack by navController.currentBackStackEntryAsState()
     val currentRoute = backStack?.destination?.route
@@ -114,7 +127,8 @@ private fun AppScaffold(viewModel: MainViewModel) {
                     onFeelingSelected = {
                         viewModel.selectFeeling(it)
                         navController.navigate("verse")
-                    }
+                    },
+                    onLanguageSelected = onLanguageSelected
                 )
             }
             composable("verse") {
