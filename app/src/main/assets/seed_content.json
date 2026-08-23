@@ -1,0 +1,3040 @@
+{
+  "content_version": 6,
+  "_note": "Scripture text is World English Bible Catholic Edition (public domain). The curated 'passages' (tied to feelings) were checked as noted before. The 'scripture' array (full chapters for the Read tab) now holds Psalm 1, Psalm 23, Psalm 100, and Psalm 117 — all four fetched directly from a clearly-labeled WEB source (sarata.com/bible/web) during authoring, not written from memory. Populating the rest of the Bible still needs a real bulk import from ebible.org's eng-web-c — see tools/import_scripture.py and the README. 'daily_passages' assigns one of the existing 28 curated passages to each day of the year by cycling through them — it is NOT 366 independently chosen 'best verse for this specific day' picks, just a way to make the Verse of the Day card show something every day without inventing new content. Replace with deliberate picks later if that curation is worth doing.",
+  "translations": [
+    {
+      "id": "web-c",
+      "name": "World English Bible, Catholic Edition",
+      "abbreviation": "WEB-CE",
+      "license": "public-domain",
+      "versification": "masoretic",
+      "includes_deuterocanon": true,
+      "has_imprimatur": false,
+      "language": "en"
+    }
+  ],
+  "books": [
+    {
+      "id": "isa",
+      "name": "Isaiah",
+      "display_name": "Isaiah",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 23
+    },
+    {
+      "id": "ps",
+      "name": "Psalms",
+      "display_name": "Psalms",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 19
+    },
+    {
+      "id": "mt",
+      "name": "Matthew",
+      "display_name": "Matthew",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 40
+    },
+    {
+      "id": "1cor",
+      "name": "1 Corinthians",
+      "display_name": "1 Corinthians",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 46
+    },
+    {
+      "id": "phil",
+      "name": "Philippians",
+      "display_name": "Philippians",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 50
+    },
+    {
+      "id": "1pet",
+      "name": "1 Peter",
+      "display_name": "1 Peter",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 60
+    },
+    {
+      "id": "jn",
+      "name": "John",
+      "display_name": "John",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 43
+    },
+    {
+      "id": "mk",
+      "name": "Mark",
+      "display_name": "Mark",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 41
+    },
+    {
+      "id": "ro",
+      "name": "Romans",
+      "display_name": "Romans",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 45
+    },
+    {
+      "id": "eph",
+      "name": "Ephesians",
+      "display_name": "Ephesians",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 49
+    },
+    {
+      "id": "1the",
+      "name": "1 Thessalonians",
+      "display_name": "1 Thessalonians",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 52
+    },
+    {
+      "id": "jas",
+      "name": "James",
+      "display_name": "James",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 59
+    },
+    {
+      "id": "1jo",
+      "name": "1 John",
+      "display_name": "1 John",
+      "testament": "nt",
+      "is_deuterocanonical": false,
+      "sort_order": 62
+    },
+    {
+      "id": "pr",
+      "name": "Proverbs",
+      "display_name": "Proverbs",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 20
+    },
+    {
+      "id": "jer",
+      "name": "Jeremiah",
+      "display_name": "Jeremiah",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 24
+    },
+    {
+      "id": "lam",
+      "name": "Lamentations",
+      "display_name": "Lamentations",
+      "testament": "ot",
+      "is_deuterocanonical": false,
+      "sort_order": 25
+    }
+  ],
+  "feelings": [
+    {
+      "id": "fear",
+      "label": "Afraid",
+      "icon": "ti-shield",
+      "category": "distress",
+      "description": "For the nights when something ahead of you feels larger than you are.",
+      "sort_order": 1,
+      "aliases": [
+        {
+          "alias": "scared",
+          "weight": 1.0
+        },
+        {
+          "alias": "terrified",
+          "weight": 1.0
+        },
+        {
+          "alias": "dread",
+          "weight": 0.8
+        },
+        {
+          "alias": "panicking",
+          "weight": 0.7
+        },
+        {
+          "alias": "what if it goes wrong",
+          "weight": 0.6
+        }
+      ]
+    },
+    {
+      "id": "anxiety",
+      "label": "Anxious",
+      "icon": "ti-wind",
+      "category": "distress",
+      "description": "For a mind that will not stop turning the same thing over.",
+      "sort_order": 2,
+      "aliases": [
+        {
+          "alias": "worried",
+          "weight": 1.0
+        },
+        {
+          "alias": "overthinking",
+          "weight": 0.9
+        },
+        {
+          "alias": "cant sleep",
+          "weight": 0.7
+        },
+        {
+          "alias": "stressed",
+          "weight": 0.8
+        }
+      ]
+    },
+    {
+      "id": "grief",
+      "label": "Grieving",
+      "icon": "ti-cloud-rain",
+      "category": "distress",
+      "description": "For loss that has not finished being loss.",
+      "sort_order": 3,
+      "aliases": [
+        {
+          "alias": "mourning",
+          "weight": 1.0
+        },
+        {
+          "alias": "someone died",
+          "weight": 1.0
+        },
+        {
+          "alias": "funeral",
+          "weight": 0.8
+        },
+        {
+          "alias": "heartbroken",
+          "weight": 0.6
+        }
+      ]
+    },
+    {
+      "id": "temptation",
+      "label": "Tempted",
+      "icon": "ti-flame",
+      "category": "moral",
+      "description": "For the moment before the choice, when you still have a choice.",
+      "sort_order": 4,
+      "aliases": [
+        {
+          "alias": "struggling with sin",
+          "weight": 1.0
+        },
+        {
+          "alias": "keep relapsing",
+          "weight": 0.9
+        },
+        {
+          "alias": "willpower",
+          "weight": 0.6
+        }
+      ]
+    },
+    {
+      "id": "lonely",
+      "label": "Lonely",
+      "icon": "ti-users",
+      "category": "relational",
+      "description": "For when the room, or the day, feels emptier than it should.",
+      "sort_order": 5,
+      "aliases": [
+        {
+          "alias": "alone",
+          "weight": 1.0
+        },
+        {
+          "alias": "isolated",
+          "weight": 0.9
+        },
+        {
+          "alias": "no one understands me",
+          "weight": 0.7
+        },
+        {
+          "alias": "left out",
+          "weight": 0.7
+        },
+        {
+          "alias": "nobody calls",
+          "weight": 0.6
+        }
+      ]
+    },
+    {
+      "id": "angry",
+      "label": "Angry",
+      "icon": "ti-bolt",
+      "category": "distress",
+      "description": "For when something in you wants to hit back.",
+      "sort_order": 6,
+      "aliases": [
+        {
+          "alias": "furious",
+          "weight": 1.0
+        },
+        {
+          "alias": "irritated",
+          "weight": 0.8
+        },
+        {
+          "alias": "resentful",
+          "weight": 0.8
+        },
+        {
+          "alias": "fed up",
+          "weight": 0.7
+        },
+        {
+          "alias": "mad",
+          "weight": 0.9
+        }
+      ]
+    },
+    {
+      "id": "guilt",
+      "label": "Guilty",
+      "icon": "ti-cloud-storm",
+      "category": "moral",
+      "description": "For carrying something you did and can't undo.",
+      "sort_order": 7,
+      "aliases": [
+        {
+          "alias": "ashamed",
+          "weight": 1.0
+        },
+        {
+          "alias": "regret",
+          "weight": 0.9
+        },
+        {
+          "alias": "i messed up",
+          "weight": 0.8
+        },
+        {
+          "alias": "feel bad about what i did",
+          "weight": 0.7
+        },
+        {
+          "alias": "shame",
+          "weight": 0.9
+        }
+      ]
+    },
+    {
+      "id": "doubt",
+      "label": "Doubting",
+      "icon": "ti-help-circle",
+      "category": "spiritual",
+      "description": "For when belief feels thinner than you'd like it to.",
+      "sort_order": 8,
+      "aliases": [
+        {
+          "alias": "not sure i believe",
+          "weight": 1.0
+        },
+        {
+          "alias": "losing my faith",
+          "weight": 0.9
+        },
+        {
+          "alias": "questioning god",
+          "weight": 0.8
+        },
+        {
+          "alias": "skeptical",
+          "weight": 0.6
+        }
+      ]
+    },
+    {
+      "id": "weary",
+      "label": "Weary",
+      "icon": "ti-battery-1",
+      "category": "distress",
+      "description": "For when effort alone won't fix how tired you are.",
+      "sort_order": 9,
+      "aliases": [
+        {
+          "alias": "exhausted",
+          "weight": 1.0
+        },
+        {
+          "alias": "burned out",
+          "weight": 1.0
+        },
+        {
+          "alias": "worn out",
+          "weight": 0.9
+        },
+        {
+          "alias": "tired of everything",
+          "weight": 0.8
+        },
+        {
+          "alias": "no energy",
+          "weight": 0.7
+        }
+      ]
+    },
+    {
+      "id": "grateful",
+      "label": "Grateful",
+      "icon": "ti-heart",
+      "category": "thanksgiving",
+      "description": "For the moments worth pausing to notice.",
+      "sort_order": 10,
+      "aliases": [
+        {
+          "alias": "thankful",
+          "weight": 1.0
+        },
+        {
+          "alias": "blessed",
+          "weight": 0.9
+        },
+        {
+          "alias": "appreciative",
+          "weight": 0.8
+        },
+        {
+          "alias": "counting my blessings",
+          "weight": 0.8
+        }
+      ]
+    },
+    {
+      "id": "guidance",
+      "label": "Seeking guidance",
+      "icon": "ti-compass",
+      "category": "desire",
+      "description": "For decisions you don't feel ready to make alone.",
+      "sort_order": 11,
+      "aliases": [
+        {
+          "alias": "what should i do",
+          "weight": 1.0
+        },
+        {
+          "alias": "need direction",
+          "weight": 0.9
+        },
+        {
+          "alias": "big decision",
+          "weight": 0.8
+        },
+        {
+          "alias": "which way",
+          "weight": 0.6
+        },
+        {
+          "alias": "confused about my path",
+          "weight": 0.8
+        }
+      ]
+    },
+    {
+      "id": "hurt",
+      "label": "Hurt",
+      "icon": "ti-heart-broken",
+      "category": "relational",
+      "description": "For when someone else's choice left a mark.",
+      "sort_order": 12,
+      "aliases": [
+        {
+          "alias": "betrayed",
+          "weight": 1.0
+        },
+        {
+          "alias": "someone wronged me",
+          "weight": 0.9
+        },
+        {
+          "alias": "cant forgive",
+          "weight": 0.8
+        },
+        {
+          "alias": "wounded",
+          "weight": 0.8
+        },
+        {
+          "alias": "backstabbed",
+          "weight": 0.7
+        }
+      ]
+    },
+    {
+      "id": "overwhelmed",
+      "label": "Overwhelmed",
+      "icon": "ti-layers-difference",
+      "category": "distress",
+      "description": "For when there's more on the plate than there's room for.",
+      "sort_order": 13,
+      "aliases": [
+        {
+          "alias": "too much to do",
+          "weight": 1.0
+        },
+        {
+          "alias": "drowning",
+          "weight": 0.9
+        },
+        {
+          "alias": "cant cope",
+          "weight": 0.9
+        },
+        {
+          "alias": "swamped",
+          "weight": 0.8
+        }
+      ]
+    },
+    {
+      "id": "hopeful",
+      "label": "Starting over",
+      "icon": "ti-sunrise",
+      "category": "desire",
+      "description": "For fresh starts, and the nerve it takes to begin one.",
+      "sort_order": 14,
+      "aliases": [
+        {
+          "alias": "new beginnings",
+          "weight": 1.0
+        },
+        {
+          "alias": "starting over",
+          "weight": 1.0
+        },
+        {
+          "alias": "looking forward",
+          "weight": 0.8
+        },
+        {
+          "alias": "fresh start",
+          "weight": 0.9
+        },
+        {
+          "alias": "excited for whats next",
+          "weight": 0.7
+        }
+      ]
+    }
+  ],
+  "passages": [
+    {
+      "id": "web-c:isa:41:10",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 41,
+      "chapter_end": 41,
+      "verse_start": 10,
+      "verse_end": 10,
+      "text": "Don't you be afraid, for I am with you. Don't be dismayed, for I am your God. I will strengthen you. Yes, I will help you. Yes, I will uphold you with the right hand of my righteousness.",
+      "pull_quote": "Don't you be afraid, for I am with you.",
+      "reference_display": "Isaiah 41:10",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:27:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 27,
+      "chapter_end": 27,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "The LORD is my light and my salvation. Whom shall I fear? The LORD is the strength of my life. Of whom shall I be afraid?",
+      "pull_quote": null,
+      "reference_display": "Psalm 27:1",
+      "reference_alt": "Psalm 26:1 (Vulgate)"
+    },
+    {
+      "id": "web-c:1pet:5:7",
+      "translation_id": "web-c",
+      "book_id": "1pet",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "casting all your worries on him, because he cares for you.",
+      "pull_quote": null,
+      "reference_display": "1 Peter 5:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:phil:4:6",
+      "translation_id": "web-c",
+      "book_id": "phil",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 6,
+      "verse_end": 7,
+      "text": "In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus.",
+      "pull_quote": "The peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus.",
+      "reference_display": "Philippians 4:6-7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mt:5:4",
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 4,
+      "verse_end": 4,
+      "text": "Blessed are those who mourn, for they shall be comforted.",
+      "pull_quote": null,
+      "reference_display": "Matthew 5:4",
+      "reference_alt": "Matthew 5:5 (Douay-Rheims)"
+    },
+    {
+      "id": "web-c:ps:34:18",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 34,
+      "chapter_end": 34,
+      "verse_start": 18,
+      "verse_end": 18,
+      "text": "The LORD is near to those who have a broken heart, and saves those who have a crushed spirit.",
+      "pull_quote": null,
+      "reference_display": "Psalm 34:18",
+      "reference_alt": "Psalm 33:19 (Vulgate)"
+    },
+    {
+      "id": "web-c:1cor:10:13",
+      "translation_id": "web-c",
+      "book_id": "1cor",
+      "chapter_start": 10,
+      "chapter_end": 10,
+      "verse_start": 13,
+      "verse_end": 13,
+      "text": "No temptation has taken you except what is common to man. God is faithful, who will not allow you to be tempted above what you are able, but will with the temptation also make the way of escape, that you may be able to endure it.",
+      "pull_quote": "God is faithful, who will not allow you to be tempted above what you are able.",
+      "reference_display": "1 Corinthians 10:13",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mt:26:41",
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "chapter_start": 26,
+      "chapter_end": 26,
+      "verse_start": 41,
+      "verse_end": 41,
+      "text": "Watch and pray, that you don't enter into temptation. The spirit indeed is willing, but the flesh is weak.",
+      "pull_quote": null,
+      "reference_display": "Matthew 26:41",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jn:14:18",
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "chapter_start": 14,
+      "chapter_end": 14,
+      "verse_start": 18,
+      "verse_end": 18,
+      "text": "I will not leave you orphans. I will come to you.",
+      "pull_quote": null,
+      "reference_display": "John 14:18",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mt:28:20",
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "chapter_start": 28,
+      "chapter_end": 28,
+      "verse_start": 20,
+      "verse_end": 20,
+      "text": "Behold, I am with you always, even to the end of the age.",
+      "pull_quote": null,
+      "reference_display": "Matthew 28:20",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:eph:4:26",
+      "translation_id": "web-c",
+      "book_id": "eph",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 26,
+      "verse_end": 26,
+      "text": "Be angry, and don't sin. Don't let the sun go down on your wrath,",
+      "pull_quote": null,
+      "reference_display": "Ephesians 4:26",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jas:1:19",
+      "translation_id": "web-c",
+      "book_id": "jas",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 19,
+      "verse_end": 19,
+      "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger;",
+      "pull_quote": "Be swift to hear, slow to speak, and slow to anger.",
+      "reference_display": "James 1:19",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1jo:1:9",
+      "translation_id": "web-c",
+      "book_id": "1jo",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 9,
+      "verse_end": 9,
+      "text": "If we confess our sins, he is faithful and righteous to forgive us our sins, and to cleanse us from all unrighteousness.",
+      "pull_quote": null,
+      "reference_display": "1 John 1:9",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ro:8:1",
+      "translation_id": "web-c",
+      "book_id": "ro",
+      "chapter_start": 8,
+      "chapter_end": 8,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "There is therefore now no condemnation to those who are in Christ Jesus.",
+      "pull_quote": null,
+      "reference_display": "Romans 8:1",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mk:9:24",
+      "translation_id": "web-c",
+      "book_id": "mk",
+      "chapter_start": 9,
+      "chapter_end": 9,
+      "verse_start": 24,
+      "verse_end": 24,
+      "text": "Lord, I believe. Help my unbelief.",
+      "pull_quote": null,
+      "reference_display": "Mark 9:24",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jn:20:29",
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "chapter_start": 20,
+      "chapter_end": 20,
+      "verse_start": 29,
+      "verse_end": 29,
+      "text": "Blessed are those who have not seen, and have believed.",
+      "pull_quote": null,
+      "reference_display": "John 20:29",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mt:11:28",
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "chapter_start": 11,
+      "chapter_end": 11,
+      "verse_start": 28,
+      "verse_end": 28,
+      "text": "Come to me, all you who labor and are heavily burdened, and I will give you rest.",
+      "pull_quote": null,
+      "reference_display": "Matthew 11:28",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:40:31",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 40,
+      "chapter_end": 40,
+      "verse_start": 31,
+      "verse_end": 31,
+      "text": "but those who wait for the LORD will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not be faint.",
+      "pull_quote": "Those who wait for the LORD will renew their strength. They will mount up with wings like eagles.",
+      "reference_display": "Isaiah 40:31",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1the:5:16",
+      "translation_id": "web-c",
+      "book_id": "1the",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 16,
+      "verse_end": 18,
+      "text": "Rejoice always. Pray without ceasing. In everything give thanks, for this is the will of God in Christ Jesus toward you.",
+      "pull_quote": "In everything give thanks, for this is the will of God in Christ Jesus toward you.",
+      "reference_display": "1 Thessalonians 5:16-18",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:118:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 118,
+      "chapter_end": 118,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "Give thanks to the LORD, for he is good, for his loving kindness endures forever.",
+      "pull_quote": null,
+      "reference_display": "Psalm 118:1",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:3:5",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 5,
+      "verse_end": 6,
+      "text": "Trust in the LORD with all your heart, and don't lean on your own understanding. In all your ways acknowledge him, and he will make your paths straight.",
+      "pull_quote": "Trust in the LORD with all your heart, and don't lean on your own understanding.",
+      "reference_display": "Proverbs 3:5-6",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jas:1:5",
+      "translation_id": "web-c",
+      "book_id": "jas",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 5,
+      "verse_end": 5,
+      "text": "But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him.",
+      "pull_quote": "If any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach.",
+      "reference_display": "James 1:5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:eph:4:32",
+      "translation_id": "web-c",
+      "book_id": "eph",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 32,
+      "verse_end": 32,
+      "text": "And be kind to one another, tender-hearted, forgiving each other, just as God also in Christ forgave you.",
+      "pull_quote": null,
+      "reference_display": "Ephesians 4:32",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mt:6:14",
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 14,
+      "verse_end": 14,
+      "text": "For if you forgive men their trespasses, your heavenly Father will also forgive you.",
+      "pull_quote": null,
+      "reference_display": "Matthew 6:14",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:61:2",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 61,
+      "chapter_end": 61,
+      "verse_start": 2,
+      "verse_end": 2,
+      "text": "From the end of the earth, I will call to you, when my heart is overwhelmed. Lead me to the rock that is higher than I.",
+      "pull_quote": null,
+      "reference_display": "Psalm 61:2",
+      "reference_alt": "Psalm 60:3 (Vulgate)"
+    },
+    {
+      "id": "web-c:mt:6:34",
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 34,
+      "verse_end": 34,
+      "text": "Therefore don't be anxious for tomorrow, for tomorrow will be anxious for itself. Each day's own evil is sufficient.",
+      "pull_quote": "Each day's own evil is sufficient.",
+      "reference_display": "Matthew 6:34",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jer:29:11",
+      "translation_id": "web-c",
+      "book_id": "jer",
+      "chapter_start": 29,
+      "chapter_end": 29,
+      "verse_start": 11,
+      "verse_end": 11,
+      "text": "For I know the thoughts that I think toward you, says the LORD, thoughts of peace, and not of evil, to give you hope and a future.",
+      "pull_quote": "Thoughts of peace, and not of evil, to give you hope and a future.",
+      "reference_display": "Jeremiah 29:11",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:lam:3:22",
+      "translation_id": "web-c",
+      "book_id": "lam",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 22,
+      "verse_end": 23,
+      "text": "It is because of the LORD's loving kindnesses that we are not consumed, because his compassion doesn't fail. They are new every morning. Great is your faithfulness.",
+      "pull_quote": "They are new every morning. Great is your faithfulness.",
+      "reference_display": "Lamentations 3:22-23",
+      "reference_alt": null
+    }
+  ],
+  "entries": [
+    {
+      "id": "fear-isa-41-10",
+      "feeling_id": "fear",
+      "reflection": "Notice what is not promised. The danger does not disappear, and Isaiah does not tell his people that their fear is unreasonable. What changes is that they are no longer alone inside it. Courage here is not the absence of fear but the presence of God within it.",
+      "prayer": "Lord, be near me in the thing I am afraid of tonight. Steady my heart, and go before me into it.",
+      "intensity": "acute",
+      "depth_order": 1,
+      "ccc_reference": "1817",
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "fear-ps-27-1",
+      "feeling_id": "fear",
+      "reflection": "David writes this as a soldier, not as a man in safety. He does not deny that there are enemies; he measures them against someone larger. Fear shrinks not when the threat is small but when what stands beside you is greater than it.",
+      "prayer": "Lord, you are my light. Make me brave enough for the next small step, and only that one.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": "Let nothing disturb you. Whoever has God lacks nothing.",
+      "saint_attribution": "St Teresa of Avila",
+      "liturgical_season": null
+    },
+    {
+      "id": "anxiety-1pet-5-7",
+      "feeling_id": "anxiety",
+      "reflection": "Anxiety is care with nowhere to put itself. Peter does not ask you to feel less or to care less. He asks you to hand the weight to someone able to carry it, which is a different action entirely from trying to stop thinking about it.",
+      "prayer": "Father, I give you the thing I keep turning over. Take it from me, and let me rest tonight.",
+      "intensity": "acute",
+      "depth_order": 1,
+      "ccc_reference": "2830",
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "anxiety-phil-4-6",
+      "feeling_id": "anxiety",
+      "reflection": "Paul replaces worry with a specific action rather than a mood. Name the thing. Ask for it plainly. Vague dread has no edges and so cannot be put down, but a concrete request can be handed over. The peace he describes arrives after the asking, not before it.",
+      "prayer": "Lord, here is exactly what worries me, said plainly. I place it in your hands and leave it there.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grief-mt-5-4",
+      "feeling_id": "grief",
+      "reflection": "Grief is not a failure of faith. Christ calls the one who mourns blessed, which means your sorrow is held rather than hurried. The comfort is promised in the future tense; you are not late for it if it has not arrived yet.",
+      "prayer": "Lord, sit with me in this loss. Comfort me in your time, not in mine.",
+      "intensity": "acute",
+      "depth_order": 1,
+      "ccc_reference": "1503",
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grief-ps-34-18",
+      "feeling_id": "grief",
+      "reflection": "Nearness comes before healing in this verse, and that order matters. God draws closest to the broken rather than to the composed, which means you do not have to pull yourself together first in order to be met.",
+      "prayer": "Jesus, stay close tonight. I do not need answers yet, only your presence.",
+      "intensity": "settled",
+      "depth_order": 2,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "temptation-1cor-10-13",
+      "feeling_id": "temptation",
+      "reflection": "Two things are said here, and the second is the useful one. The pull you feel is common to everyone, so it is not evidence that you are uniquely broken. And there is always a way out already made. Look for the exit rather than for more willpower.",
+      "prayer": "Lord, show me the way out you have already made. Give me strength for the next hour, not the next year.",
+      "intensity": "acute",
+      "depth_order": 1,
+      "ccc_reference": "2846",
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "temptation-mt-26-41",
+      "feeling_id": "temptation",
+      "reflection": "Christ names the pattern the night before he dies. Watchfulness comes before the moment, not during it. By the time you are at the edge the fight is mostly decided, so the work belongs earlier, in guarding the approach.",
+      "prayer": "Jesus, guard my steps before I reach the edge. Make me honest about what leads me there.",
+      "intensity": "steady",
+      "depth_order": 2,
+      "ccc_reference": "2849",
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": "lent"
+    },
+    {
+      "id": "lonely-jn-14-18",
+      "feeling_id": "lonely",
+      "intensity": "acute",
+      "depth_order": 1,
+      "reflection": "Christ says this hours before his arrest, to men about to scatter. He does not promise you will feel accompanied right away. He promises he will not leave you as an orphan — the loneliness is real, but it is not the last word.",
+      "prayer": "Jesus, in this empty room, let me know you are here.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lonely-mt-28-20",
+      "feeling_id": "lonely",
+      "intensity": "steady",
+      "depth_order": 2,
+      "reflection": "These are the last words of the Gospel, spoken as a command to go out into the world. The promise of presence isn't reserved for the safe moments — always includes the days you feel most alone. It is a fact to lean on, not a feeling to chase.",
+      "prayer": "Lord, remind me today that I am accompanied, even when it doesn't feel like it.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "angry-eph-4-26",
+      "feeling_id": "angry",
+      "intensity": "acute",
+      "depth_order": 1,
+      "reflection": "Paul doesn't condemn the anger itself, only what you let it become after dark. Something in you may be right to be upset. The instruction isn't to swallow it — it's to not let it move in and set up permanent residence.",
+      "prayer": "Lord, I am angry. Show me what's just in it, and help me set the rest down before tonight.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "angry-jas-1-19",
+      "feeling_id": "angry",
+      "intensity": "steady",
+      "depth_order": 2,
+      "reflection": "The order in this sentence is the whole instruction: hearing first, speaking second, anger last. Most arguments run the order backwards. Listening all the way through, before responding, does more to defuse anger than any amount of self-control applied afterward.",
+      "prayer": "Lord, slow me down. Let me hear before I answer.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guilt-1jo-1-9",
+      "feeling_id": "guilt",
+      "intensity": "acute",
+      "depth_order": 1,
+      "reflection": "John doesn't say confession makes the guilt disappear instantly, or that what happened was somehow excusable. He says God is faithful to forgive it — faithful, not merely willing, as though this were a surprising grace rather than routine reluctance you have to talk him into.",
+      "prayer": "Lord, I bring you what I've done. Forgive me, and help me believe that you already have.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guilt-ro-8-1",
+      "feeling_id": "guilt",
+      "intensity": "settled",
+      "depth_order": 2,
+      "reflection": "Paul isn't describing a feeling here but a standing: no condemnation, present tense, for anyone in Christ. Shame keeps re-litigating a case that's already been decided in your favor. You're allowed to stop arguing it.",
+      "prayer": "Lord, help me live like someone who has actually been forgiven, not like someone still on trial.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "doubt-mk-9-24",
+      "feeling_id": "doubt",
+      "intensity": "acute",
+      "depth_order": 1,
+      "reflection": "A father says this to Jesus about his own dying son, and it's not a tidy statement of faith. It's two true things said in the same breath: I believe, and I don't believe enough. Christ doesn't ask him to resolve the contradiction first. He heals the boy anyway.",
+      "prayer": "Lord, I believe. Help my unbelief.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "doubt-jn-20-29",
+      "feeling_id": "doubt",
+      "intensity": "steady",
+      "depth_order": 2,
+      "reflection": "Thomas gets the encounter he demanded, and Christ doesn't shame him for needing it. But the blessing named here belongs to those who trust without that proof. Doubt isn't disqualifying — it's simply the harder road, and the one most believers actually walk.",
+      "prayer": "Lord, I have not seen, and I want to believe. Meet me in the not-seeing.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": "easter"
+    },
+    {
+      "id": "weary-mt-11-28",
+      "feeling_id": "weary",
+      "intensity": "acute",
+      "depth_order": 1,
+      "reflection": "This is an invitation, not a command. Christ doesn't tell the exhausted to try harder or explain the burden away — he says come to him first. Rest is where the answer begins, not a reward waiting at the end of solving everything yourself.",
+      "prayer": "Jesus, I come as I am, worn out. Give me rest.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "weary-isa-40-31",
+      "feeling_id": "weary",
+      "intensity": "steady",
+      "depth_order": 2,
+      "reflection": "Renewal here belongs to those who wait, not to those who push harder — a hard instruction for a tired person, since waiting can feel like doing nothing. But strength that comes from waiting on God outlasts strength forced through on your own.",
+      "prayer": "Lord, I'm tired in a way effort won't fix. Renew what I can't renew myself.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grateful-1the-5-16",
+      "feeling_id": "grateful",
+      "intensity": "steady",
+      "depth_order": 1,
+      "reflection": "Paul doesn't say give thanks for everything, only in everything — a distinction worth keeping. You aren't asked to be thankful something hard happened, only to keep looking for what's good even while it's happening.",
+      "prayer": "Thank you, Lord, for this specific mercy today. Keep my eyes open for more.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grateful-ps-118-1",
+      "feeling_id": "grateful",
+      "intensity": "settled",
+      "depth_order": 2,
+      "reflection": "The reason given here isn't your circumstances but his character: he is good, and that endures whether or not the day went well. Gratitude anchored in who God is outlasts gratitude that depends on things going right.",
+      "prayer": "Lord, I praise you for who you are, not only for what you've given me.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guidance-pr-3-5",
+      "feeling_id": "guidance",
+      "intensity": "acute",
+      "depth_order": 1,
+      "reflection": "The instruction isn't to have no understanding, but to not lean the whole weight of a decision on it alone. Acknowledging him in all your ways is broader than prayer before a big choice — it's a habit in the small ones too, so the big one isn't a stranger to you.",
+      "prayer": "Lord, I don't see the whole path. Make it straight where I can't.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guidance-jas-1-5",
+      "feeling_id": "guidance",
+      "intensity": "steady",
+      "depth_order": 2,
+      "reflection": "James promises wisdom will be given, and adds something easy to miss: without reproach. You aren't being scolded for not already knowing. Asking is treated here as the ordinary way wisdom arrives, not a last resort for people who should have figured it out alone.",
+      "prayer": "Father, I lack wisdom for this. Give it generously, the way you promised.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hurt-eph-4-32",
+      "feeling_id": "hurt",
+      "intensity": "acute",
+      "depth_order": 1,
+      "reflection": "The forgiveness asked of you here is modeled on one you already received, not one you're expected to generate from nothing. That doesn't make it instant. It gives you somewhere to start when your own kindness toward the person feels dry.",
+      "prayer": "Lord, I don't have it in me to forgive this on my own. Lend me yours.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hurt-mt-6-14",
+      "feeling_id": "hurt",
+      "intensity": "settled",
+      "depth_order": 2,
+      "reflection": "Christ ties your forgiveness to theirs in a way that's uncomfortable to sit with. It isn't a transaction so much as a mirror: the grace you refuse to extend is, in some sense, grace you're refusing to fully receive.",
+      "prayer": "Father, soften what has hardened in me toward them.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "overwhelmed-ps-61-2",
+      "feeling_id": "overwhelmed",
+      "intensity": "acute",
+      "depth_order": 1,
+      "reflection": "David prays this from what he calls the end of the earth — as far from help as he can imagine being. He doesn't ask to feel less overwhelmed. He asks to be led somewhere higher than where he stands, a request you can make even mid-collapse.",
+      "prayer": "Lord, my heart is overwhelmed. Lead me to the rock that is higher than I am.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "overwhelmed-mt-6-34",
+      "feeling_id": "overwhelmed",
+      "intensity": "steady",
+      "depth_order": 2,
+      "reflection": "Christ doesn't tell you the future will be fine. He tells you tomorrow has its own trouble, and today's is already enough to carry — so you aren't actually required to carry both at once, however much it feels that way.",
+      "prayer": "Lord, help me stay in today. Tomorrow can wait for tomorrow.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hopeful-jer-29-11",
+      "feeling_id": "hopeful",
+      "intensity": "steady",
+      "depth_order": 1,
+      "reflection": "This promise is spoken to people in exile, not people about to be rescued tomorrow. God's plans for them play out over decades, not overnight — a durable kind of hope, built to survive a long wait rather than a quick turnaround.",
+      "prayer": "Lord, I don't know your timeline, but I trust it has one. Give me hope for what's ahead.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hopeful-lam-3-22",
+      "feeling_id": "hopeful",
+      "intensity": "settled",
+      "depth_order": 2,
+      "reflection": "These words sit in the middle of a book about the destruction of Jerusalem — grief and hope on the same page. Mercy described as new every morning means yesterday's failure doesn't diminish today's fresh start.",
+      "prayer": "Lord, thank you that this morning isn't bound by yesterday. Meet me new today.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    }
+  ],
+  "entry_passages": [
+    {
+      "entry_id": "fear-isa-41-10",
+      "passage_id": "web-c:isa:41:10",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "fear-ps-27-1",
+      "passage_id": "web-c:ps:27:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "anxiety-1pet-5-7",
+      "passage_id": "web-c:1pet:5:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "anxiety-phil-4-6",
+      "passage_id": "web-c:phil:4:6",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grief-mt-5-4",
+      "passage_id": "web-c:mt:5:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grief-ps-34-18",
+      "passage_id": "web-c:ps:34:18",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "temptation-1cor-10-13",
+      "passage_id": "web-c:1cor:10:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "temptation-mt-26-41",
+      "passage_id": "web-c:mt:26:41",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lonely-jn-14-18",
+      "passage_id": "web-c:jn:14:18",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lonely-mt-28-20",
+      "passage_id": "web-c:mt:28:20",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "angry-eph-4-26",
+      "passage_id": "web-c:eph:4:26",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "angry-jas-1-19",
+      "passage_id": "web-c:jas:1:19",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guilt-1jo-1-9",
+      "passage_id": "web-c:1jo:1:9",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guilt-ro-8-1",
+      "passage_id": "web-c:ro:8:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "doubt-mk-9-24",
+      "passage_id": "web-c:mk:9:24",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "doubt-jn-20-29",
+      "passage_id": "web-c:jn:20:29",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "weary-mt-11-28",
+      "passage_id": "web-c:mt:11:28",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "weary-isa-40-31",
+      "passage_id": "web-c:isa:40:31",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grateful-1the-5-16",
+      "passage_id": "web-c:1the:5:16",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grateful-ps-118-1",
+      "passage_id": "web-c:ps:118:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guidance-pr-3-5",
+      "passage_id": "web-c:pr:3:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guidance-jas-1-5",
+      "passage_id": "web-c:jas:1:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hurt-eph-4-32",
+      "passage_id": "web-c:eph:4:32",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hurt-mt-6-14",
+      "passage_id": "web-c:mt:6:14",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "overwhelmed-ps-61-2",
+      "passage_id": "web-c:ps:61:2",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "overwhelmed-mt-6-34",
+      "passage_id": "web-c:mt:6:34",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hopeful-jer-29-11",
+      "passage_id": "web-c:jer:29:11",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hopeful-lam-3-22",
+      "passage_id": "web-c:lam:3:22",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "fear-isa-41-10",
+      "passage_id": "web-c:ps:27:1",
+      "position": 1,
+      "role": "echo"
+    }
+  ],
+  "daily_passages": [
+    {
+      "month_day": "01-01",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "01-02",
+      "passage_id": "web-c:ps:27:1"
+    },
+    {
+      "month_day": "01-03",
+      "passage_id": "web-c:1pet:5:7"
+    },
+    {
+      "month_day": "01-04",
+      "passage_id": "web-c:phil:4:6"
+    },
+    {
+      "month_day": "01-05",
+      "passage_id": "web-c:mt:5:4"
+    },
+    {
+      "month_day": "01-06",
+      "passage_id": "web-c:ps:34:18"
+    },
+    {
+      "month_day": "01-07",
+      "passage_id": "web-c:1cor:10:13"
+    },
+    {
+      "month_day": "01-08",
+      "passage_id": "web-c:mt:26:41"
+    },
+    {
+      "month_day": "01-09",
+      "passage_id": "web-c:jn:14:18"
+    },
+    {
+      "month_day": "01-10",
+      "passage_id": "web-c:mt:28:20"
+    },
+    {
+      "month_day": "01-11",
+      "passage_id": "web-c:eph:4:26"
+    },
+    {
+      "month_day": "01-12",
+      "passage_id": "web-c:jas:1:19"
+    },
+    {
+      "month_day": "01-13",
+      "passage_id": "web-c:1jo:1:9"
+    },
+    {
+      "month_day": "01-14",
+      "passage_id": "web-c:ro:8:1"
+    },
+    {
+      "month_day": "01-15",
+      "passage_id": "web-c:mk:9:24"
+    },
+    {
+      "month_day": "01-16",
+      "passage_id": "web-c:jn:20:29"
+    },
+    {
+      "month_day": "01-17",
+      "passage_id": "web-c:mt:11:28"
+    },
+    {
+      "month_day": "01-18",
+      "passage_id": "web-c:isa:40:31"
+    },
+    {
+      "month_day": "01-19",
+      "passage_id": "web-c:1the:5:16"
+    },
+    {
+      "month_day": "01-20",
+      "passage_id": "web-c:ps:118:1"
+    },
+    {
+      "month_day": "01-21",
+      "passage_id": "web-c:pr:3:5"
+    },
+    {
+      "month_day": "01-22",
+      "passage_id": "web-c:jas:1:5"
+    },
+    {
+      "month_day": "01-23",
+      "passage_id": "web-c:eph:4:32"
+    },
+    {
+      "month_day": "01-24",
+      "passage_id": "web-c:mt:6:14"
+    },
+    {
+      "month_day": "01-25",
+      "passage_id": "web-c:ps:61:2"
+    },
+    {
+      "month_day": "01-26",
+      "passage_id": "web-c:mt:6:34"
+    },
+    {
+      "month_day": "01-27",
+      "passage_id": "web-c:jer:29:11"
+    },
+    {
+      "month_day": "01-28",
+      "passage_id": "web-c:lam:3:22"
+    },
+    {
+      "month_day": "01-29",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "01-30",
+      "passage_id": "web-c:ps:27:1"
+    },
+    {
+      "month_day": "01-31",
+      "passage_id": "web-c:1pet:5:7"
+    },
+    {
+      "month_day": "02-01",
+      "passage_id": "web-c:phil:4:6"
+    },
+    {
+      "month_day": "02-02",
+      "passage_id": "web-c:mt:5:4"
+    },
+    {
+      "month_day": "02-03",
+      "passage_id": "web-c:ps:34:18"
+    },
+    {
+      "month_day": "02-04",
+      "passage_id": "web-c:1cor:10:13"
+    },
+    {
+      "month_day": "02-05",
+      "passage_id": "web-c:mt:26:41"
+    },
+    {
+      "month_day": "02-06",
+      "passage_id": "web-c:jn:14:18"
+    },
+    {
+      "month_day": "02-07",
+      "passage_id": "web-c:mt:28:20"
+    },
+    {
+      "month_day": "02-08",
+      "passage_id": "web-c:eph:4:26"
+    },
+    {
+      "month_day": "02-09",
+      "passage_id": "web-c:jas:1:19"
+    },
+    {
+      "month_day": "02-10",
+      "passage_id": "web-c:1jo:1:9"
+    },
+    {
+      "month_day": "02-11",
+      "passage_id": "web-c:ro:8:1"
+    },
+    {
+      "month_day": "02-12",
+      "passage_id": "web-c:mk:9:24"
+    },
+    {
+      "month_day": "02-13",
+      "passage_id": "web-c:jn:20:29"
+    },
+    {
+      "month_day": "02-14",
+      "passage_id": "web-c:mt:11:28"
+    },
+    {
+      "month_day": "02-15",
+      "passage_id": "web-c:isa:40:31"
+    },
+    {
+      "month_day": "02-16",
+      "passage_id": "web-c:1the:5:16"
+    },
+    {
+      "month_day": "02-17",
+      "passage_id": "web-c:ps:118:1"
+    },
+    {
+      "month_day": "02-18",
+      "passage_id": "web-c:pr:3:5"
+    },
+    {
+      "month_day": "02-19",
+      "passage_id": "web-c:jas:1:5"
+    },
+    {
+      "month_day": "02-20",
+      "passage_id": "web-c:eph:4:32"
+    },
+    {
+      "month_day": "02-21",
+      "passage_id": "web-c:mt:6:14"
+    },
+    {
+      "month_day": "02-22",
+      "passage_id": "web-c:ps:61:2"
+    },
+    {
+      "month_day": "02-23",
+      "passage_id": "web-c:mt:6:34"
+    },
+    {
+      "month_day": "02-24",
+      "passage_id": "web-c:jer:29:11"
+    },
+    {
+      "month_day": "02-25",
+      "passage_id": "web-c:lam:3:22"
+    },
+    {
+      "month_day": "02-26",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "02-27",
+      "passage_id": "web-c:ps:27:1"
+    },
+    {
+      "month_day": "02-28",
+      "passage_id": "web-c:1pet:5:7"
+    },
+    {
+      "month_day": "02-29",
+      "passage_id": "web-c:phil:4:6"
+    },
+    {
+      "month_day": "03-01",
+      "passage_id": "web-c:mt:5:4"
+    },
+    {
+      "month_day": "03-02",
+      "passage_id": "web-c:ps:34:18"
+    },
+    {
+      "month_day": "03-03",
+      "passage_id": "web-c:1cor:10:13"
+    },
+    {
+      "month_day": "03-04",
+      "passage_id": "web-c:mt:26:41"
+    },
+    {
+      "month_day": "03-05",
+      "passage_id": "web-c:jn:14:18"
+    },
+    {
+      "month_day": "03-06",
+      "passage_id": "web-c:mt:28:20"
+    },
+    {
+      "month_day": "03-07",
+      "passage_id": "web-c:eph:4:26"
+    },
+    {
+      "month_day": "03-08",
+      "passage_id": "web-c:jas:1:19"
+    },
+    {
+      "month_day": "03-09",
+      "passage_id": "web-c:1jo:1:9"
+    },
+    {
+      "month_day": "03-10",
+      "passage_id": "web-c:ro:8:1"
+    },
+    {
+      "month_day": "03-11",
+      "passage_id": "web-c:mk:9:24"
+    },
+    {
+      "month_day": "03-12",
+      "passage_id": "web-c:jn:20:29"
+    },
+    {
+      "month_day": "03-13",
+      "passage_id": "web-c:mt:11:28"
+    },
+    {
+      "month_day": "03-14",
+      "passage_id": "web-c:isa:40:31"
+    },
+    {
+      "month_day": "03-15",
+      "passage_id": "web-c:1the:5:16"
+    },
+    {
+      "month_day": "03-16",
+      "passage_id": "web-c:ps:118:1"
+    },
+    {
+      "month_day": "03-17",
+      "passage_id": "web-c:pr:3:5"
+    },
+    {
+      "month_day": "03-18",
+      "passage_id": "web-c:jas:1:5"
+    },
+    {
+      "month_day": "03-19",
+      "passage_id": "web-c:eph:4:32"
+    },
+    {
+      "month_day": "03-20",
+      "passage_id": "web-c:mt:6:14"
+    },
+    {
+      "month_day": "03-21",
+      "passage_id": "web-c:ps:61:2"
+    },
+    {
+      "month_day": "03-22",
+      "passage_id": "web-c:mt:6:34"
+    },
+    {
+      "month_day": "03-23",
+      "passage_id": "web-c:jer:29:11"
+    },
+    {
+      "month_day": "03-24",
+      "passage_id": "web-c:lam:3:22"
+    },
+    {
+      "month_day": "03-25",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "03-26",
+      "passage_id": "web-c:ps:27:1"
+    },
+    {
+      "month_day": "03-27",
+      "passage_id": "web-c:1pet:5:7"
+    },
+    {
+      "month_day": "03-28",
+      "passage_id": "web-c:phil:4:6"
+    },
+    {
+      "month_day": "03-29",
+      "passage_id": "web-c:mt:5:4"
+    },
+    {
+      "month_day": "03-30",
+      "passage_id": "web-c:ps:34:18"
+    },
+    {
+      "month_day": "03-31",
+      "passage_id": "web-c:1cor:10:13"
+    },
+    {
+      "month_day": "04-01",
+      "passage_id": "web-c:mt:26:41"
+    },
+    {
+      "month_day": "04-02",
+      "passage_id": "web-c:jn:14:18"
+    },
+    {
+      "month_day": "04-03",
+      "passage_id": "web-c:mt:28:20"
+    },
+    {
+      "month_day": "04-04",
+      "passage_id": "web-c:eph:4:26"
+    },
+    {
+      "month_day": "04-05",
+      "passage_id": "web-c:jas:1:19"
+    },
+    {
+      "month_day": "04-06",
+      "passage_id": "web-c:1jo:1:9"
+    },
+    {
+      "month_day": "04-07",
+      "passage_id": "web-c:ro:8:1"
+    },
+    {
+      "month_day": "04-08",
+      "passage_id": "web-c:mk:9:24"
+    },
+    {
+      "month_day": "04-09",
+      "passage_id": "web-c:jn:20:29"
+    },
+    {
+      "month_day": "04-10",
+      "passage_id": "web-c:mt:11:28"
+    },
+    {
+      "month_day": "04-11",
+      "passage_id": "web-c:isa:40:31"
+    },
+    {
+      "month_day": "04-12",
+      "passage_id": "web-c:1the:5:16"
+    },
+    {
+      "month_day": "04-13",
+      "passage_id": "web-c:ps:118:1"
+    },
+    {
+      "month_day": "04-14",
+      "passage_id": "web-c:pr:3:5"
+    },
+    {
+      "month_day": "04-15",
+      "passage_id": "web-c:jas:1:5"
+    },
+    {
+      "month_day": "04-16",
+      "passage_id": "web-c:eph:4:32"
+    },
+    {
+      "month_day": "04-17",
+      "passage_id": "web-c:mt:6:14"
+    },
+    {
+      "month_day": "04-18",
+      "passage_id": "web-c:ps:61:2"
+    },
+    {
+      "month_day": "04-19",
+      "passage_id": "web-c:mt:6:34"
+    },
+    {
+      "month_day": "04-20",
+      "passage_id": "web-c:jer:29:11"
+    },
+    {
+      "month_day": "04-21",
+      "passage_id": "web-c:lam:3:22"
+    },
+    {
+      "month_day": "04-22",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "04-23",
+      "passage_id": "web-c:ps:27:1"
+    },
+    {
+      "month_day": "04-24",
+      "passage_id": "web-c:1pet:5:7"
+    },
+    {
+      "month_day": "04-25",
+      "passage_id": "web-c:phil:4:6"
+    },
+    {
+      "month_day": "04-26",
+      "passage_id": "web-c:mt:5:4"
+    },
+    {
+      "month_day": "04-27",
+      "passage_id": "web-c:ps:34:18"
+    },
+    {
+      "month_day": "04-28",
+      "passage_id": "web-c:1cor:10:13"
+    },
+    {
+      "month_day": "04-29",
+      "passage_id": "web-c:mt:26:41"
+    },
+    {
+      "month_day": "04-30",
+      "passage_id": "web-c:jn:14:18"
+    },
+    {
+      "month_day": "05-01",
+      "passage_id": "web-c:mt:28:20"
+    },
+    {
+      "month_day": "05-02",
+      "passage_id": "web-c:eph:4:26"
+    },
+    {
+      "month_day": "05-03",
+      "passage_id": "web-c:jas:1:19"
+    },
+    {
+      "month_day": "05-04",
+      "passage_id": "web-c:1jo:1:9"
+    },
+    {
+      "month_day": "05-05",
+      "passage_id": "web-c:ro:8:1"
+    },
+    {
+      "month_day": "05-06",
+      "passage_id": "web-c:mk:9:24"
+    },
+    {
+      "month_day": "05-07",
+      "passage_id": "web-c:jn:20:29"
+    },
+    {
+      "month_day": "05-08",
+      "passage_id": "web-c:mt:11:28"
+    },
+    {
+      "month_day": "05-09",
+      "passage_id": "web-c:isa:40:31"
+    },
+    {
+      "month_day": "05-10",
+      "passage_id": "web-c:1the:5:16"
+    },
+    {
+      "month_day": "05-11",
+      "passage_id": "web-c:ps:118:1"
+    },
+    {
+      "month_day": "05-12",
+      "passage_id": "web-c:pr:3:5"
+    },
+    {
+      "month_day": "05-13",
+      "passage_id": "web-c:jas:1:5"
+    },
+    {
+      "month_day": "05-14",
+      "passage_id": "web-c:eph:4:32"
+    },
+    {
+      "month_day": "05-15",
+      "passage_id": "web-c:mt:6:14"
+    },
+    {
+      "month_day": "05-16",
+      "passage_id": "web-c:ps:61:2"
+    },
+    {
+      "month_day": "05-17",
+      "passage_id": "web-c:mt:6:34"
+    },
+    {
+      "month_day": "05-18",
+      "passage_id": "web-c:jer:29:11"
+    },
+    {
+      "month_day": "05-19",
+      "passage_id": "web-c:lam:3:22"
+    },
+    {
+      "month_day": "05-20",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "05-21",
+      "passage_id": "web-c:ps:27:1"
+    },
+    {
+      "month_day": "05-22",
+      "passage_id": "web-c:1pet:5:7"
+    },
+    {
+      "month_day": "05-23",
+      "passage_id": "web-c:phil:4:6"
+    },
+    {
+      "month_day": "05-24",
+      "passage_id": "web-c:mt:5:4"
+    },
+    {
+      "month_day": "05-25",
+      "passage_id": "web-c:ps:34:18"
+    },
+    {
+      "month_day": "05-26",
+      "passage_id": "web-c:1cor:10:13"
+    },
+    {
+      "month_day": "05-27",
+      "passage_id": "web-c:mt:26:41"
+    },
+    {
+      "month_day": "05-28",
+      "passage_id": "web-c:jn:14:18"
+    },
+    {
+      "month_day": "05-29",
+      "passage_id": "web-c:mt:28:20"
+    },
+    {
+      "month_day": "05-30",
+      "passage_id": "web-c:eph:4:26"
+    },
+    {
+      "month_day": "05-31",
+      "passage_id": "web-c:jas:1:19"
+    },
+    {
+      "month_day": "06-01",
+      "passage_id": "web-c:1jo:1:9"
+    },
+    {
+      "month_day": "06-02",
+      "passage_id": "web-c:ro:8:1"
+    },
+    {
+      "month_day": "06-03",
+      "passage_id": "web-c:mk:9:24"
+    },
+    {
+      "month_day": "06-04",
+      "passage_id": "web-c:jn:20:29"
+    },
+    {
+      "month_day": "06-05",
+      "passage_id": "web-c:mt:11:28"
+    },
+    {
+      "month_day": "06-06",
+      "passage_id": "web-c:isa:40:31"
+    },
+    {
+      "month_day": "06-07",
+      "passage_id": "web-c:1the:5:16"
+    },
+    {
+      "month_day": "06-08",
+      "passage_id": "web-c:ps:118:1"
+    },
+    {
+      "month_day": "06-09",
+      "passage_id": "web-c:pr:3:5"
+    },
+    {
+      "month_day": "06-10",
+      "passage_id": "web-c:jas:1:5"
+    },
+    {
+      "month_day": "06-11",
+      "passage_id": "web-c:eph:4:32"
+    },
+    {
+      "month_day": "06-12",
+      "passage_id": "web-c:mt:6:14"
+    },
+    {
+      "month_day": "06-13",
+      "passage_id": "web-c:ps:61:2"
+    },
+    {
+      "month_day": "06-14",
+      "passage_id": "web-c:mt:6:34"
+    },
+    {
+      "month_day": "06-15",
+      "passage_id": "web-c:jer:29:11"
+    },
+    {
+      "month_day": "06-16",
+      "passage_id": "web-c:lam:3:22"
+    },
+    {
+      "month_day": "06-17",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "06-18",
+      "passage_id": "web-c:ps:27:1"
+    },
+    {
+      "month_day": "06-19",
+      "passage_id": "web-c:1pet:5:7"
+    },
+    {
+      "month_day": "06-20",
+      "passage_id": "web-c:phil:4:6"
+    },
+    {
+      "month_day": "06-21",
+      "passage_id": "web-c:mt:5:4"
+    },
+    {
+      "month_day": "06-22",
+      "passage_id": "web-c:ps:34:18"
+    },
+    {
+      "month_day": "06-23",
+      "passage_id": "web-c:1cor:10:13"
+    },
+    {
+      "month_day": "06-24",
+      "passage_id": "web-c:mt:26:41"
+    },
+    {
+      "month_day": "06-25",
+      "passage_id": "web-c:jn:14:18"
+    },
+    {
+      "month_day": "06-26",
+      "passage_id": "web-c:mt:28:20"
+    },
+    {
+      "month_day": "06-27",
+      "passage_id": "web-c:eph:4:26"
+    },
+    {
+      "month_day": "06-28",
+      "passage_id": "web-c:jas:1:19"
+    },
+    {
+      "month_day": "06-29",
+      "passage_id": "web-c:1jo:1:9"
+    },
+    {
+      "month_day": "06-30",
+      "passage_id": "web-c:ro:8:1"
+    },
+    {
+      "month_day": "07-01",
+      "passage_id": "web-c:mk:9:24"
+    },
+    {
+      "month_day": "07-02",
+      "passage_id": "web-c:jn:20:29"
+    },
+    {
+      "month_day": "07-03",
+      "passage_id": "web-c:mt:11:28"
+    },
+    {
+      "month_day": "07-04",
+      "passage_id": "web-c:isa:40:31"
+    },
+    {
+      "month_day": "07-05",
+      "passage_id": "web-c:1the:5:16"
+    },
+    {
+      "month_day": "07-06",
+      "passage_id": "web-c:ps:118:1"
+    },
+    {
+      "month_day": "07-07",
+      "passage_id": "web-c:pr:3:5"
+    },
+    {
+      "month_day": "07-08",
+      "passage_id": "web-c:jas:1:5"
+    },
+    {
+      "month_day": "07-09",
+      "passage_id": "web-c:eph:4:32"
+    },
+    {
+      "month_day": "07-10",
+      "passage_id": "web-c:mt:6:14"
+    },
+    {
+      "month_day": "07-11",
+      "passage_id": "web-c:ps:61:2"
+    },
+    {
+      "month_day": "07-12",
+      "passage_id": "web-c:mt:6:34"
+    },
+    {
+      "month_day": "07-13",
+      "passage_id": "web-c:jer:29:11"
+    },
+    {
+      "month_day": "07-14",
+      "passage_id": "web-c:lam:3:22"
+    },
+    {
+      "month_day": "07-15",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "07-16",
+      "passage_id": "web-c:ps:27:1"
+    },
+    {
+      "month_day": "07-17",
+      "passage_id": "web-c:1pet:5:7"
+    },
+    {
+      "month_day": "07-18",
+      "passage_id": "web-c:phil:4:6"
+    },
+    {
+      "month_day": "07-19",
+      "passage_id": "web-c:mt:5:4"
+    },
+    {
+      "month_day": "07-20",
+      "passage_id": "web-c:ps:34:18"
+    },
+    {
+      "month_day": "07-21",
+      "passage_id": "web-c:1cor:10:13"
+    },
+    {
+      "month_day": "07-22",
+      "passage_id": "web-c:mt:26:41"
+    },
+    {
+      "month_day": "07-23",
+      "passage_id": "web-c:jn:14:18"
+    },
+    {
+      "month_day": "07-24",
+      "passage_id": "web-c:mt:28:20"
+    },
+    {
+      "month_day": "07-25",
+      "passage_id": "web-c:eph:4:26"
+    },
+    {
+      "month_day": "07-26",
+      "passage_id": "web-c:jas:1:19"
+    },
+    {
+      "month_day": "07-27",
+      "passage_id": "web-c:1jo:1:9"
+    },
+    {
+      "month_day": "07-28",
+      "passage_id": "web-c:ro:8:1"
+    },
+    {
+      "month_day": "07-29",
+      "passage_id": "web-c:mk:9:24"
+    },
+    {
+      "month_day": "07-30",
+      "passage_id": "web-c:jn:20:29"
+    },
+    {
+      "month_day": "07-31",
+      "passage_id": "web-c:mt:11:28"
+    },
+    {
+      "month_day": "08-01",
+      "passage_id": "web-c:isa:40:31"
+    },
+    {
+      "month_day": "08-02",
+      "passage_id": "web-c:1the:5:16"
+    },
+    {
+      "month_day": "08-03",
+      "passage_id": "web-c:ps:118:1"
+    },
+    {
+      "month_day": "08-04",
+      "passage_id": "web-c:pr:3:5"
+    },
+    {
+      "month_day": "08-05",
+      "passage_id": "web-c:jas:1:5"
+    },
+    {
+      "month_day": "08-06",
+      "passage_id": "web-c:eph:4:32"
+    },
+    {
+      "month_day": "08-07",
+      "passage_id": "web-c:mt:6:14"
+    },
+    {
+      "month_day": "08-08",
+      "passage_id": "web-c:ps:61:2"
+    },
+    {
+      "month_day": "08-09",
+      "passage_id": "web-c:mt:6:34"
+    },
+    {
+      "month_day": "08-10",
+      "passage_id": "web-c:jer:29:11"
+    },
+    {
+      "month_day": "08-11",
+      "passage_id": "web-c:lam:3:22"
+    },
+    {
+      "month_day": "08-12",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "08-13",
+      "passage_id": "web-c:ps:27:1"
+    },
+    {
+      "month_day": "08-14",
+      "passage_id": "web-c:1pet:5:7"
+    },
+    {
+      "month_day": "08-15",
+      "passage_id": "web-c:phil:4:6"
+    },
+    {
+      "month_day": "08-16",
+      "passage_id": "web-c:mt:5:4"
+    },
+    {
+      "month_day": "08-17",
+      "passage_id": "web-c:ps:34:18"
+    },
+    {
+      "month_day": "08-18",
+      "passage_id": "web-c:1cor:10:13"
+    },
+    {
+      "month_day": "08-19",
+      "passage_id": "web-c:mt:26:41"
+    },
+    {
+      "month_day": "08-20",
+      "passage_id": "web-c:jn:14:18"
+    },
+    {
+      "month_day": "08-21",
+      "passage_id": "web-c:mt:28:20"
+    },
+    {
+      "month_day": "08-22",
+      "passage_id": "web-c:eph:4:26"
+    },
+    {
+      "month_day": "08-23",
+      "passage_id": "web-c:jas:1:19"
+    },
+    {
+      "month_day": "08-24",
+      "passage_id": "web-c:1jo:1:9"
+    },
+    {
+      "month_day": "08-25",
+      "passage_id": "web-c:ro:8:1"
+    },
+    {
+      "month_day": "08-26",
+      "passage_id": "web-c:mk:9:24"
+    },
+    {
+      "month_day": "08-27",
+      "passage_id": "web-c:jn:20:29"
+    },
+    {
+      "month_day": "08-28",
+      "passage_id": "web-c:mt:11:28"
+    },
+    {
+      "month_day": "08-29",
+      "passage_id": "web-c:isa:40:31"
+    },
+    {
+      "month_day": "08-30",
+      "passage_id": "web-c:1the:5:16"
+    },
+    {
+      "month_day": "08-31",
+      "passage_id": "web-c:ps:118:1"
+    },
+    {
+      "month_day": "09-01",
+      "passage_id": "web-c:pr:3:5"
+    },
+    {
+      "month_day": "09-02",
+      "passage_id": "web-c:jas:1:5"
+    },
+    {
+      "month_day": "09-03",
+      "passage_id": "web-c:eph:4:32"
+    },
+    {
+      "month_day": "09-04",
+      "passage_id": "web-c:mt:6:14"
+    },
+    {
+      "month_day": "09-05",
+      "passage_id": "web-c:ps:61:2"
+    },
+    {
+      "month_day": "09-06",
+      "passage_id": "web-c:mt:6:34"
+    },
+    {
+      "month_day": "09-07",
+      "passage_id": "web-c:jer:29:11"
+    },
+    {
+      "month_day": "09-08",
+      "passage_id": "web-c:lam:3:22"
+    },
+    {
+      "month_day": "09-09",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "09-10",
+      "passage_id": "web-c:ps:27:1"
+    },
+    {
+      "month_day": "09-11",
+      "passage_id": "web-c:1pet:5:7"
+    },
+    {
+      "month_day": "09-12",
+      "passage_id": "web-c:phil:4:6"
+    },
+    {
+      "month_day": "09-13",
+      "passage_id": "web-c:mt:5:4"
+    },
+    {
+      "month_day": "09-14",
+      "passage_id": "web-c:ps:34:18"
+    },
+    {
+      "month_day": "09-15",
+      "passage_id": "web-c:1cor:10:13"
+    },
+    {
+      "month_day": "09-16",
+      "passage_id": "web-c:mt:26:41"
+    },
+    {
+      "month_day": "09-17",
+      "passage_id": "web-c:jn:14:18"
+    },
+    {
+      "month_day": "09-18",
+      "passage_id": "web-c:mt:28:20"
+    },
+    {
+      "month_day": "09-19",
+      "passage_id": "web-c:eph:4:26"
+    },
+    {
+      "month_day": "09-20",
+      "passage_id": "web-c:jas:1:19"
+    },
+    {
+      "month_day": "09-21",
+      "passage_id": "web-c:1jo:1:9"
+    },
+    {
+      "month_day": "09-22",
+      "passage_id": "web-c:ro:8:1"
+    },
+    {
+      "month_day": "09-23",
+      "passage_id": "web-c:mk:9:24"
+    },
+    {
+      "month_day": "09-24",
+      "passage_id": "web-c:jn:20:29"
+    },
+    {
+      "month_day": "09-25",
+      "passage_id": "web-c:mt:11:28"
+    },
+    {
+      "month_day": "09-26",
+      "passage_id": "web-c:isa:40:31"
+    },
+    {
+      "month_day": "09-27",
+      "passage_id": "web-c:1the:5:16"
+    },
+    {
+      "month_day": "09-28",
+      "passage_id": "web-c:ps:118:1"
+    },
+    {
+      "month_day": "09-29",
+      "passage_id": "web-c:pr:3:5"
+    },
+    {
+      "month_day": "09-30",
+      "passage_id": "web-c:jas:1:5"
+    },
+    {
+      "month_day": "10-01",
+      "passage_id": "web-c:eph:4:32"
+    },
+    {
+      "month_day": "10-02",
+      "passage_id": "web-c:mt:6:14"
+    },
+    {
+      "month_day": "10-03",
+      "passage_id": "web-c:ps:61:2"
+    },
+    {
+      "month_day": "10-04",
+      "passage_id": "web-c:mt:6:34"
+    },
+    {
+      "month_day": "10-05",
+      "passage_id": "web-c:jer:29:11"
+    },
+    {
+      "month_day": "10-06",
+      "passage_id": "web-c:lam:3:22"
+    },
+    {
+      "month_day": "10-07",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "10-08",
+      "passage_id": "web-c:ps:27:1"
+    },
+    {
+      "month_day": "10-09",
+      "passage_id": "web-c:1pet:5:7"
+    },
+    {
+      "month_day": "10-10",
+      "passage_id": "web-c:phil:4:6"
+    },
+    {
+      "month_day": "10-11",
+      "passage_id": "web-c:mt:5:4"
+    },
+    {
+      "month_day": "10-12",
+      "passage_id": "web-c:ps:34:18"
+    },
+    {
+      "month_day": "10-13",
+      "passage_id": "web-c:1cor:10:13"
+    },
+    {
+      "month_day": "10-14",
+      "passage_id": "web-c:mt:26:41"
+    },
+    {
+      "month_day": "10-15",
+      "passage_id": "web-c:jn:14:18"
+    },
+    {
+      "month_day": "10-16",
+      "passage_id": "web-c:mt:28:20"
+    },
+    {
+      "month_day": "10-17",
+      "passage_id": "web-c:eph:4:26"
+    },
+    {
+      "month_day": "10-18",
+      "passage_id": "web-c:jas:1:19"
+    },
+    {
+      "month_day": "10-19",
+      "passage_id": "web-c:1jo:1:9"
+    },
+    {
+      "month_day": "10-20",
+      "passage_id": "web-c:ro:8:1"
+    },
+    {
+      "month_day": "10-21",
+      "passage_id": "web-c:mk:9:24"
+    },
+    {
+      "month_day": "10-22",
+      "passage_id": "web-c:jn:20:29"
+    },
+    {
+      "month_day": "10-23",
+      "passage_id": "web-c:mt:11:28"
+    },
+    {
+      "month_day": "10-24",
+      "passage_id": "web-c:isa:40:31"
+    },
+    {
+      "month_day": "10-25",
+      "passage_id": "web-c:1the:5:16"
+    },
+    {
+      "month_day": "10-26",
+      "passage_id": "web-c:ps:118:1"
+    },
+    {
+      "month_day": "10-27",
+      "passage_id": "web-c:pr:3:5"
+    },
+    {
+      "month_day": "10-28",
+      "passage_id": "web-c:jas:1:5"
+    },
+    {
+      "month_day": "10-29",
+      "passage_id": "web-c:eph:4:32"
+    },
+    {
+      "month_day": "10-30",
+      "passage_id": "web-c:mt:6:14"
+    },
+    {
+      "month_day": "10-31",
+      "passage_id": "web-c:ps:61:2"
+    },
+    {
+      "month_day": "11-01",
+      "passage_id": "web-c:mt:6:34"
+    },
+    {
+      "month_day": "11-02",
+      "passage_id": "web-c:jer:29:11"
+    },
+    {
+      "month_day": "11-03",
+      "passage_id": "web-c:lam:3:22"
+    },
+    {
+      "month_day": "11-04",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "11-05",
+      "passage_id": "web-c:ps:27:1"
+    },
+    {
+      "month_day": "11-06",
+      "passage_id": "web-c:1pet:5:7"
+    },
+    {
+      "month_day": "11-07",
+      "passage_id": "web-c:phil:4:6"
+    },
+    {
+      "month_day": "11-08",
+      "passage_id": "web-c:mt:5:4"
+    },
+    {
+      "month_day": "11-09",
+      "passage_id": "web-c:ps:34:18"
+    },
+    {
+      "month_day": "11-10",
+      "passage_id": "web-c:1cor:10:13"
+    },
+    {
+      "month_day": "11-11",
+      "passage_id": "web-c:mt:26:41"
+    },
+    {
+      "month_day": "11-12",
+      "passage_id": "web-c:jn:14:18"
+    },
+    {
+      "month_day": "11-13",
+      "passage_id": "web-c:mt:28:20"
+    },
+    {
+      "month_day": "11-14",
+      "passage_id": "web-c:eph:4:26"
+    },
+    {
+      "month_day": "11-15",
+      "passage_id": "web-c:jas:1:19"
+    },
+    {
+      "month_day": "11-16",
+      "passage_id": "web-c:1jo:1:9"
+    },
+    {
+      "month_day": "11-17",
+      "passage_id": "web-c:ro:8:1"
+    },
+    {
+      "month_day": "11-18",
+      "passage_id": "web-c:mk:9:24"
+    },
+    {
+      "month_day": "11-19",
+      "passage_id": "web-c:jn:20:29"
+    },
+    {
+      "month_day": "11-20",
+      "passage_id": "web-c:mt:11:28"
+    },
+    {
+      "month_day": "11-21",
+      "passage_id": "web-c:isa:40:31"
+    },
+    {
+      "month_day": "11-22",
+      "passage_id": "web-c:1the:5:16"
+    },
+    {
+      "month_day": "11-23",
+      "passage_id": "web-c:ps:118:1"
+    },
+    {
+      "month_day": "11-24",
+      "passage_id": "web-c:pr:3:5"
+    },
+    {
+      "month_day": "11-25",
+      "passage_id": "web-c:jas:1:5"
+    },
+    {
+      "month_day": "11-26",
+      "passage_id": "web-c:eph:4:32"
+    },
+    {
+      "month_day": "11-27",
+      "passage_id": "web-c:mt:6:14"
+    },
+    {
+      "month_day": "11-28",
+      "passage_id": "web-c:ps:61:2"
+    },
+    {
+      "month_day": "11-29",
+      "passage_id": "web-c:mt:6:34"
+    },
+    {
+      "month_day": "11-30",
+      "passage_id": "web-c:jer:29:11"
+    },
+    {
+      "month_day": "12-01",
+      "passage_id": "web-c:lam:3:22"
+    },
+    {
+      "month_day": "12-02",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "12-03",
+      "passage_id": "web-c:ps:27:1"
+    },
+    {
+      "month_day": "12-04",
+      "passage_id": "web-c:1pet:5:7"
+    },
+    {
+      "month_day": "12-05",
+      "passage_id": "web-c:phil:4:6"
+    },
+    {
+      "month_day": "12-06",
+      "passage_id": "web-c:mt:5:4"
+    },
+    {
+      "month_day": "12-07",
+      "passage_id": "web-c:ps:34:18"
+    },
+    {
+      "month_day": "12-08",
+      "passage_id": "web-c:1cor:10:13"
+    },
+    {
+      "month_day": "12-09",
+      "passage_id": "web-c:mt:26:41"
+    },
+    {
+      "month_day": "12-10",
+      "passage_id": "web-c:jn:14:18"
+    },
+    {
+      "month_day": "12-11",
+      "passage_id": "web-c:mt:28:20"
+    },
+    {
+      "month_day": "12-12",
+      "passage_id": "web-c:eph:4:26"
+    },
+    {
+      "month_day": "12-13",
+      "passage_id": "web-c:jas:1:19"
+    },
+    {
+      "month_day": "12-14",
+      "passage_id": "web-c:1jo:1:9"
+    },
+    {
+      "month_day": "12-15",
+      "passage_id": "web-c:ro:8:1"
+    },
+    {
+      "month_day": "12-16",
+      "passage_id": "web-c:mk:9:24"
+    },
+    {
+      "month_day": "12-17",
+      "passage_id": "web-c:jn:20:29"
+    },
+    {
+      "month_day": "12-18",
+      "passage_id": "web-c:mt:11:28"
+    },
+    {
+      "month_day": "12-19",
+      "passage_id": "web-c:isa:40:31"
+    },
+    {
+      "month_day": "12-20",
+      "passage_id": "web-c:1the:5:16"
+    },
+    {
+      "month_day": "12-21",
+      "passage_id": "web-c:ps:118:1"
+    },
+    {
+      "month_day": "12-22",
+      "passage_id": "web-c:pr:3:5"
+    },
+    {
+      "month_day": "12-23",
+      "passage_id": "web-c:jas:1:5"
+    },
+    {
+      "month_day": "12-24",
+      "passage_id": "web-c:eph:4:32"
+    },
+    {
+      "month_day": "12-25",
+      "passage_id": "web-c:mt:6:14"
+    },
+    {
+      "month_day": "12-26",
+      "passage_id": "web-c:ps:61:2"
+    },
+    {
+      "month_day": "12-27",
+      "passage_id": "web-c:mt:6:34"
+    },
+    {
+      "month_day": "12-28",
+      "passage_id": "web-c:jer:29:11"
+    },
+    {
+      "month_day": "12-29",
+      "passage_id": "web-c:lam:3:22"
+    },
+    {
+      "month_day": "12-30",
+      "passage_id": "web-c:isa:41:10"
+    },
+    {
+      "month_day": "12-31",
+      "passage_id": "web-c:ps:27:1"
+    }
+  ],
+  "scripture": [
+    {
+      "id": "web-c:ps:23:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 23,
+      "verse": 1,
+      "text": "The LORD is my shepherd; I shall lack nothing."
+    },
+    {
+      "id": "web-c:ps:23:2",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 23,
+      "verse": 2,
+      "text": "He makes me lie down in green pastures. He leads me beside still waters."
+    },
+    {
+      "id": "web-c:ps:23:3",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 23,
+      "verse": 3,
+      "text": "He restores my soul. He guides me in the paths of righteousness for his name's sake."
+    },
+    {
+      "id": "web-c:ps:23:4",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 23,
+      "verse": 4,
+      "text": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me. Your rod and your staff, they comfort me."
+    },
+    {
+      "id": "web-c:ps:23:5",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 23,
+      "verse": 5,
+      "text": "You prepare a table before me in the presence of my enemies. You anoint my head with oil. My cup runs over."
+    },
+    {
+      "id": "web-c:ps:23:6",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 23,
+      "verse": 6,
+      "text": "Surely goodness and loving kindness shall follow me all the days of my life, and I will dwell in the LORD's house forever."
+    },
+    {
+      "id": "web-c:ps:117:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 117,
+      "verse": 1,
+      "text": "Praise the LORD, all you nations! Extol him, all you peoples!"
+    },
+    {
+      "id": "web-c:ps:117:2",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 117,
+      "verse": 2,
+      "text": "For his loving kindness is great toward us. The LORD's faithfulness endures forever. Praise the LORD!"
+    },
+    {
+      "id": "web-c:ps:1:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 1,
+      "verse": 1,
+      "text": "Blessed is the man who doesn't walk in the counsel of the wicked, nor stand in the way of sinners, nor sit in the seat of scoffers;"
+    },
+    {
+      "id": "web-c:ps:1:2",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 1,
+      "verse": 2,
+      "text": "but his delight is in the LORD's law. On his law he meditates day and night."
+    },
+    {
+      "id": "web-c:ps:1:3",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 1,
+      "verse": 3,
+      "text": "He will be like a tree planted by the streams of water, that brings forth its fruit in its season, whose leaf also does not wither. Whatever he does shall prosper."
+    },
+    {
+      "id": "web-c:ps:1:4",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 1,
+      "verse": 4,
+      "text": "The wicked are not so, but are like the chaff which the wind drives away."
+    },
+    {
+      "id": "web-c:ps:1:5",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 1,
+      "verse": 5,
+      "text": "Therefore the wicked shall not stand in the judgment, nor sinners in the congregation of the righteous."
+    },
+    {
+      "id": "web-c:ps:1:6",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 1,
+      "verse": 6,
+      "text": "For the LORD knows the way of the righteous, but the way of the wicked shall perish."
+    },
+    {
+      "id": "web-c:ps:100:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 100,
+      "verse": 1,
+      "text": "Shout for joy to the LORD, all you lands!"
+    },
+    {
+      "id": "web-c:ps:100:2",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 100,
+      "verse": 2,
+      "text": "Serve the LORD with gladness. Come before his presence with singing."
+    },
+    {
+      "id": "web-c:ps:100:3",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 100,
+      "verse": 3,
+      "text": "Know that the LORD, he is God. It is he who has made us, and we are his. We are his people, and the sheep of his pasture."
+    },
+    {
+      "id": "web-c:ps:100:4",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 100,
+      "verse": 4,
+      "text": "Enter into his gates with thanksgiving, into his courts with praise. Give thanks to him, and bless his name."
+    },
+    {
+      "id": "web-c:ps:100:5",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter": 100,
+      "verse": 5,
+      "text": "For the LORD is good. His loving kindness endures forever, his faithfulness to all generations."
+    }
+  ]
+}

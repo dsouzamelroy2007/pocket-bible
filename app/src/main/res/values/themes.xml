@@ -1,0 +1,5 @@
+<resources>
+    <!-- Compose paints the actual UI; this platform theme just avoids an
+         ActionBar and a white flash before Compose takes over. -->
+    <style name="Theme.PocketBible" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
