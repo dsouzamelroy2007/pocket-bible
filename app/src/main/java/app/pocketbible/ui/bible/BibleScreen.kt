@@ -51,6 +51,7 @@ import androidx.compose.foundation.text.KeyboardOptions
 import kotlinx.coroutines.launch
 import app.pocketbible.data.Book
 import app.pocketbible.data.ScriptureVerse
+import androidx.compose.material3.ExposedDropdownMenu
 
 @Composable
 fun BibleBookListScreen(
@@ -133,7 +134,7 @@ private fun GoToReferenceCard(
                     trailingIcon = { ExposedDropdownMenuDefaults.TrailingIcon(expanded = expanded) },
                     modifier = Modifier.menuAnchor().fillMaxWidth()
                 )
-                androidx.compose.material3.ExposedDropdownMenu(
+                ExposedDropdownMenu(
                     expanded = expanded,
                     onDismissRequest = { expanded = false }
                 ) {
