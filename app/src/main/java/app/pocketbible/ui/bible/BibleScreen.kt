@@ -51,7 +51,6 @@ import androidx.compose.foundation.text.KeyboardOptions
 import kotlinx.coroutines.launch
 import app.pocketbible.data.Book
 import app.pocketbible.data.ScriptureVerse
-import androidx.compose.material3.ExposedDropdownMenu
 
 @Composable
 fun BibleBookListScreen(
