@@ -68,13 +68,10 @@ If Gradle sync fails, the most likely culprit is a version mismatch (AGP
 - The **fear → Isaiah 41:10** entry now also shows an echo passage
   (Psalm 27:1) underneath — the multi-passage capability from the data
   model is live, not just schema.
-- **Read tab → "Go to a verse"** — pick any book, type a chapter (and
-  optionally a verse), tap Go. If that chapter is loaded, it opens and
-  scrolls straight to the verse, which is highlighted. If it isn't loaded,
-  you get a plain-language message instead of a blank screen or a crash.
-  The book picker lists every book in the Catholic canon already seeded
-  into the `book` table — not just the ones with text — so it's ready for
-  more content without UI changes.
+- **Read tab → "Go to a verse"** — pick any book, chapter, and verse from
+  the dropdowns, tap Go. The full 73-book Catholic canon is loaded in
+  English (see "Content layout" below), so every book/chapter/verse in
+  the pickers actually has text behind it now.
 - Read tab also still supports plain browsing: book → chapter grid →
   reader, with Previous/Next.
 
@@ -96,8 +93,8 @@ content/
     <other-language>.json         Same shape, one file per additional UI language
   scripture/
     web-c/
-      ps.json                     One file per book per translation
-      ... (add more books here)
+      gen.json, ex.json, ...      One file per book -- all 73 Catholic-canon books,
+      ps.json, mt.json, etc.      full text, English (World English Bible Classic)
     <other-translation-id>/       A future scripture translation/language gets its own folder
 ```
 
@@ -125,19 +122,27 @@ from memory, in English or any other language. At Bible scale, small
 wording drift becomes a real accuracy problem, and it's avoidable — real,
 checked source text exists and is free for many languages.
 
-The real path:
+The real path — two import scripts, same idea, pick whichever matches the
+format your download comes in:
 
-1. Download a plain-text or USFM bundle for the translation you want from
-   [ebible.org](https://ebible.org/find/) (English WEB-CE:
-   [eng-web-c](https://ebible.org/find/details.php?id=engwebc)) or another
-   source you can vouch for.
-2. Run `tools/import_scripture.py` against it (see the script's own
-   docstring for the expected input format, a `book_map.json` example, and
-   the `--translation-id`/`--language`/`--source` flags). It writes one
-   `content/scripture/<translation-id>/<book-id>.json` file per book — it
-   contains no Bible text itself, just the conversion logic — and prints
-   the `manifest.json` lines to add.
-3. Add those lines to `content/manifest.json`'s `"scripture"` array, bump
+1. Get a bundle for the translation you want from
+   [ebible.org](https://ebible.org/find/) (search by language; check the
+   license on the translation's own page) or another source you can vouch
+   for.
+2. If it's an **epub** (eBible.org offers these for most of its
+   translations): run `tools/import_epub.py` against it directly — see its
+   docstring for the `--book-map`/`--translation-id`/`--language`/`--source`
+   flags. It parses the book-per-chapter/verse markup epub readers already
+   rely on, so there's no intermediate conversion step. This is how the
+   current English text (World English Bible Classic, all 73 books) was
+   imported.
+   If it's **plain-text or USFM** instead: convert USFM to VPL first (e.g.
+   `usfm-grammar`), then run `tools/import_scripture.py` (see its own
+   docstring for the VPL format and a `book_map.json` example).
+3. Either script writes one `content/scripture/<translation-id>/<book-id>.json`
+   file per book — no Bible text lives in the scripts themselves, just the
+   conversion logic — and prints the `manifest.json` lines to add.
+4. Add those lines to `content/manifest.json`'s `"scripture"` array, bump
    `content_version`, rebuild.
 
 You can do this incrementally — Psalms and the Gospels first, the rest
@@ -192,7 +197,8 @@ This is a prototype, so several things are simplified on purpose:
 
 - **Content scale.** 14 feelings × 2 entries so far. Launch needs roughly
   6–8 entries per feeling — writing work, not engineering work. The Read
-  tab is at 4 sample chapters out of a full Bible; see the section above.
+  tab now has the full 73-book English canon (see "Content layout" below);
+  other languages are still pending a real source text per language.
 - **Verse of the day is a placeholder rotation**, not curated per-day
   picks — flagged in the seed file's `_note`, worth deliberate curation
   later if it matters to you.
@@ -212,9 +218,13 @@ This is a prototype, so several things are simplified on purpose:
   ranked, typo-tolerant search.
 - **App identity.** Package name, app name, icon, and color palette are
   all placeholders — easy to swap, worth deciding deliberately.
-- **Scripture licensing.** WEB-CE text in the seed file should be checked
-  verse-by-verse against the official `eng-web-c` source at ebible.org
-  before shipping.
+- **Scripture text.** English is now the full World English Bible Classic
+  (public domain), extracted directly from an eBible.org epub via
+  `tools/import_epub.py` — not hand-typed or paraphrased. Note it renders
+  the divine name as "Yahweh" (WEB Classic's convention) rather than "the
+  LORD", which some Catholic readers will notice; swapping in a different
+  public-domain edition later is just a re-run of the same import step
+  against a different epub.
 - **No tests, no ProGuard/R8 rules, no crash reporting, no analytics.**
 - **No verse-of-the-day wiring**, though `daily_passage` and the DAO query
   for it already exist.

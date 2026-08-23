@@ -1,13 +1,373 @@
 {
-  "content_version": 10,
+  "content_version": 11,
   "_note": "Index of every content module this app ships. To add a book or a new scripture translation/language: drop a new file under content/scripture/<translation_id>/<book_id>.json (see tools/import_scripture.py) and add one entry to \"scripture\" here. To add or extend a UI-language translation of the topics content (feeling label/description, entry reflection/prayer -- NOT scripture text): drop a content/topics/<language>.json file and add one entry to \"topic_translations\" here; any topic or entry missing from that file just falls back to English. Either way, no need to touch core.json, topics.json, or any other module. Bump content_version whenever any module changes so SeedLoader re-seeds on next launch.",
   "core": "content/core.json",
   "topics": "content/topics.json",
   "scripture": [
     {
       "translation_id": "web-c",
+      "book_id": "1chr",
+      "path": "content/scripture/web-c/1chr.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "1cor",
+      "path": "content/scripture/web-c/1cor.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "1jo",
+      "path": "content/scripture/web-c/1jo.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "1kgs",
+      "path": "content/scripture/web-c/1kgs.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "1macc",
+      "path": "content/scripture/web-c/1macc.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "1pet",
+      "path": "content/scripture/web-c/1pet.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "1sam",
+      "path": "content/scripture/web-c/1sam.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "1the",
+      "path": "content/scripture/web-c/1the.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "1tim",
+      "path": "content/scripture/web-c/1tim.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "2chr",
+      "path": "content/scripture/web-c/2chr.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "2cor",
+      "path": "content/scripture/web-c/2cor.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "2jo",
+      "path": "content/scripture/web-c/2jo.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "2kgs",
+      "path": "content/scripture/web-c/2kgs.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "2macc",
+      "path": "content/scripture/web-c/2macc.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "2pet",
+      "path": "content/scripture/web-c/2pet.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "2sam",
+      "path": "content/scripture/web-c/2sam.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "2the",
+      "path": "content/scripture/web-c/2the.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "2tim",
+      "path": "content/scripture/web-c/2tim.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "3jo",
+      "path": "content/scripture/web-c/3jo.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "acts",
+      "path": "content/scripture/web-c/acts.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "amos",
+      "path": "content/scripture/web-c/amos.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "bar",
+      "path": "content/scripture/web-c/bar.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "col",
+      "path": "content/scripture/web-c/col.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "dan",
+      "path": "content/scripture/web-c/dan.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "deut",
+      "path": "content/scripture/web-c/deut.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "eccl",
+      "path": "content/scripture/web-c/eccl.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "eph",
+      "path": "content/scripture/web-c/eph.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "esth",
+      "path": "content/scripture/web-c/esth.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "ex",
+      "path": "content/scripture/web-c/ex.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "ezek",
+      "path": "content/scripture/web-c/ezek.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "ezra",
+      "path": "content/scripture/web-c/ezra.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "gal",
+      "path": "content/scripture/web-c/gal.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "gen",
+      "path": "content/scripture/web-c/gen.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "hab",
+      "path": "content/scripture/web-c/hab.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "hag",
+      "path": "content/scripture/web-c/hag.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "heb",
+      "path": "content/scripture/web-c/heb.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "hos",
+      "path": "content/scripture/web-c/hos.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "path": "content/scripture/web-c/isa.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "jas",
+      "path": "content/scripture/web-c/jas.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "jdt",
+      "path": "content/scripture/web-c/jdt.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "jer",
+      "path": "content/scripture/web-c/jer.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "path": "content/scripture/web-c/jn.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "job",
+      "path": "content/scripture/web-c/job.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "joel",
+      "path": "content/scripture/web-c/joel.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "jonah",
+      "path": "content/scripture/web-c/jonah.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "josh",
+      "path": "content/scripture/web-c/josh.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "jude",
+      "path": "content/scripture/web-c/jude.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "judg",
+      "path": "content/scripture/web-c/judg.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "lam",
+      "path": "content/scripture/web-c/lam.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "lev",
+      "path": "content/scripture/web-c/lev.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "lk",
+      "path": "content/scripture/web-c/lk.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "mal",
+      "path": "content/scripture/web-c/mal.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "mic",
+      "path": "content/scripture/web-c/mic.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "mk",
+      "path": "content/scripture/web-c/mk.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "path": "content/scripture/web-c/mt.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "nah",
+      "path": "content/scripture/web-c/nah.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "neh",
+      "path": "content/scripture/web-c/neh.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "num",
+      "path": "content/scripture/web-c/num.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "obad",
+      "path": "content/scripture/web-c/obad.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "phil",
+      "path": "content/scripture/web-c/phil.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "phlm",
+      "path": "content/scripture/web-c/phlm.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "path": "content/scripture/web-c/pr.json"
+    },
+    {
+      "translation_id": "web-c",
       "book_id": "ps",
       "path": "content/scripture/web-c/ps.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "rev",
+      "path": "content/scripture/web-c/rev.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "ro",
+      "path": "content/scripture/web-c/ro.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "ruth",
+      "path": "content/scripture/web-c/ruth.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "sir",
+      "path": "content/scripture/web-c/sir.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "song",
+      "path": "content/scripture/web-c/song.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "titus",
+      "path": "content/scripture/web-c/titus.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "tob",
+      "path": "content/scripture/web-c/tob.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "wis",
+      "path": "content/scripture/web-c/wis.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "zech",
+      "path": "content/scripture/web-c/zech.json"
+    },
+    {
+      "translation_id": "web-c",
+      "book_id": "zeph",
+      "path": "content/scripture/web-c/zeph.json"
     }
   ],
   "topic_translations": [

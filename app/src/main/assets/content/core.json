@@ -3,8 +3,8 @@
   "translations": [
     {
       "id": "web-c",
-      "name": "World English Bible, Catholic Edition",
-      "abbreviation": "WEB-CE",
+      "name": "World English Bible Classic",
+      "abbreviation": "WEB",
       "license": "public-domain",
       "versification": "masoretic",
       "includes_deuterocanon": true,
