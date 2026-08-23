@@ -83,15 +83,18 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     private fun currentLanguage(): String =
         (AppCompatDelegate.getApplicationLocales().get(0) ?: Locale.getDefault()).language
 
+    /** Scripture translation to read in for the current language, falling back to English. */
+    private suspend fun currentTranslationId(): String = repo.translationForLanguage(currentLanguage())
+
     /**
-     * Re-issues the language-dependent queries (topics list, saved list, and
-     * the currently open topic's entries) if the app's language has changed
-     * since the last call. Safe to call on every composition: it's a no-op
-     * once the language is already current. Needed because a language
-     * switch causes MainActivity to recreate() itself, and whether this
-     * ViewModel instance survives that (keeping its already-collected Flows
-     * pinned to the old language) or not isn't something to rely on either
-     * way -- this covers both cases.
+     * Re-issues the language-dependent queries (topics list, saved list, the
+     * currently open topic's entries, and the Read tab's book list) if the
+     * app's language has changed since the last call. Safe to call on every
+     * composition: it's a no-op once the language is already current.
+     * Needed because a language switch causes MainActivity to recreate()
+     * itself, and whether this ViewModel instance survives that (keeping
+     * its already-collected Flows pinned to the old language) or not isn't
+     * something to rely on either way -- this covers both cases.
      */
     fun ensureFreshForCurrentLanguage() {
         val language = currentLanguage()
@@ -99,6 +102,9 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         loadedLanguage = language
         viewModelScope.launch { repo.feelings(language).collect { _feelings.value = it } }
         viewModelScope.launch { repo.savedEntries(language).collect { _saved.value = it } }
+        viewModelScope.launch {
+            repo.readableBooks(currentTranslationId()).collect { _readableBooks.value = it }
+        }
         _selectedFeeling.value?.let { feeling ->
             viewModelScope.launch { _feelingEntries.value = repo.entriesForFeeling(feeling.id, language) }
         }
@@ -106,7 +112,6 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
     init {
         ensureFreshForCurrentLanguage()
-        viewModelScope.launch { repo.readableBooks().collect { _readableBooks.value = it } }
         viewModelScope.launch { repo.allBooks().collect { _allBooks.value = it } }
         viewModelScope.launch {
             val monthDay = LocalDate.now().format(DateTimeFormatter.ofPattern("MM-dd"))
@@ -124,21 +129,21 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
     fun selectBook(book: Book) {
         _selectedBook.value = book
-        viewModelScope.launch { _chapters.value = repo.chaptersForBook(book.id) }
+        viewModelScope.launch { _chapters.value = repo.chaptersForBook(book.id, currentTranslationId()) }
     }
 
-    /** Chapters actually loaded for [book] — drives the "go to reference" picker's chapter list. */
-    suspend fun chaptersAvailable(book: Book): List<Int> = repo.chaptersForBook(book.id)
+    /** Chapters actually loaded for [book] in the current reading language — drives the "go to reference" picker's chapter list. */
+    suspend fun chaptersAvailable(book: Book): List<Int> = repo.chaptersForBook(book.id, currentTranslationId())
 
     /** Verse numbers actually loaded for [book]/[chapter] — drives the picker's verse list. */
     suspend fun versesAvailable(book: Book, chapter: Int): List<Int> =
-        repo.versesForChapter(book.id, chapter).map { it.verse }
+        repo.versesForChapter(book.id, chapter, currentTranslationId()).map { it.verse }
 
     fun openChapter(chapter: Int) {
         val book = _selectedBook.value ?: return
         _currentChapter.value = chapter
         _scrollToVerse.value = null
-        viewModelScope.launch { _chapterVerses.value = repo.versesForChapter(book.id, chapter) }
+        viewModelScope.launch { _chapterVerses.value = repo.versesForChapter(book.id, chapter, currentTranslationId()) }
     }
 
     /**
@@ -148,11 +153,12 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
      * intentionally lists every book, not just the ones with text.
      */
     suspend fun goToReference(book: Book, chapter: Int, verse: Int?): String? {
-        val chapters = repo.chaptersForBook(book.id)
+        val translationId = currentTranslationId()
+        val chapters = repo.chaptersForBook(book.id, translationId)
         if (chapter !in chapters) {
             return "${book.displayName} $chapter isn't loaded in this prototype yet."
         }
-        val verses = repo.versesForChapter(book.id, chapter)
+        val verses = repo.versesForChapter(book.id, chapter, translationId)
         if (verse != null && verses.none { it.verse == verse }) {
             return "${book.displayName} $chapter has ${verses.size} verse(s) loaded here — verse $verse isn't among them."
         }

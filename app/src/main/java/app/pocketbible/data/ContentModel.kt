@@ -324,27 +324,39 @@ interface ContentDao {
 
     // ---------- Open-ended reading ----------
 
-    /** Only books that actually have text loaded show up in the reading tab. */
+    /**
+     * The translation to read in for a given UI language, e.g. "de" ->
+     * "de-schlachter" once a German scripture file is loaded. Null means no
+     * scripture has been imported for that language yet; callers fall back
+     * to the English translation_id ("web-c") in that case, so the Read tab
+     * shows English rather than going blank.
+     */
+    @Query("SELECT id FROM translation WHERE language = :language LIMIT 1")
+    suspend fun translationForLanguage(language: String): String?
+
+    /** Only books with text loaded *for this translation* show up in the reading tab. */
     @Query(
         """
         SELECT b.* FROM book b
-        WHERE b.id IN (SELECT DISTINCT book_id FROM scripture_verse)
+        WHERE b.id IN (SELECT DISTINCT book_id FROM scripture_verse WHERE translation_id = :translationId)
         ORDER BY b.sort_order
         """
     )
-    fun readableBooks(): Flow<List<Book>>
+    fun readableBooks(translationId: String): Flow<List<Book>>
 
     /** Every known book, for the "go to reference" picker — independent of what's loaded. */
     @Query("SELECT * FROM book ORDER BY sort_order")
     fun allBooks(): Flow<List<Book>>
 
-    @Query("SELECT DISTINCT chapter FROM scripture_verse WHERE book_id = :bookId ORDER BY chapter")
-    suspend fun chaptersForBook(bookId: String): List<Int>
+    @Query(
+        "SELECT DISTINCT chapter FROM scripture_verse WHERE book_id = :bookId AND translation_id = :translationId ORDER BY chapter"
+    )
+    suspend fun chaptersForBook(bookId: String, translationId: String): List<Int>
 
     @Query(
-        "SELECT * FROM scripture_verse WHERE book_id = :bookId AND chapter = :chapter ORDER BY verse"
+        "SELECT * FROM scripture_verse WHERE book_id = :bookId AND chapter = :chapter AND translation_id = :translationId ORDER BY verse"
     )
-    suspend fun versesForChapter(bookId: String, chapter: Int): List<ScriptureVerse>
+    suspend fun versesForChapter(bookId: String, chapter: Int, translationId: String): List<ScriptureVerse>
 }
 
 /** Bulk inserts used once, on first launch, to hydrate the bundled content. */

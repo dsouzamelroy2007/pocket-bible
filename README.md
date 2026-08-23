@@ -165,6 +165,17 @@ resources in the new locale, not just persists the choice):
    fallback-to-English pattern via `feeling_translation`/`entry_translation`
    tables (`ContentModel.kt`) that `MainViewModel.ensureFreshForCurrentLanguage()`
    re-queries whenever the language changes.
+4. **Read tab scripture** — which `translation_id` the Read tab shows is
+   resolved from the current language via `ContentDao.translationForLanguage()`
+   (`SELECT id FROM translation WHERE language = :language`), falling back
+   to `web-c` (English) if that language has no scripture file loaded yet.
+   `readableBooks`/`chaptersForBook`/`versesForChapter` all filter by that
+   translation_id — this matters once more than one translation's verses
+   share the `scripture_verse` table, so a chapter view never mixes verses
+   from two languages together. Importing a translation via
+   `tools/import_scripture.py` (see above) is what actually makes a
+   language's Read tab show real text; the fallback just keeps it from
+   going blank in the meantime.
 
 Layers 1 and 2 are safe to translate freely — UI vocabulary and proper
 nouns, not scripture. Layer 3 is *my own* devotional prose (not scripture),

@@ -29,14 +29,19 @@ class ContentRepository(private val dao: ContentDao) {
 
     // ---------- Open-ended reading ----------
 
-    fun readableBooks(): Flow<List<Book>> = dao.readableBooks()
+    /** Translation to read in for [language], falling back to English if none is loaded yet. */
+    suspend fun translationForLanguage(language: String): String =
+        dao.translationForLanguage(language) ?: "web-c"
+
+    fun readableBooks(translationId: String): Flow<List<Book>> = dao.readableBooks(translationId)
 
     fun allBooks(): Flow<List<Book>> = dao.allBooks()
 
-    suspend fun chaptersForBook(bookId: String): List<Int> = dao.chaptersForBook(bookId)
+    suspend fun chaptersForBook(bookId: String, translationId: String): List<Int> =
+        dao.chaptersForBook(bookId, translationId)
 
-    suspend fun versesForChapter(bookId: String, chapter: Int): List<ScriptureVerse> =
-        dao.versesForChapter(bookId, chapter)
+    suspend fun versesForChapter(bookId: String, chapter: Int, translationId: String): List<ScriptureVerse> =
+        dao.versesForChapter(bookId, chapter, translationId)
 
     suspend fun verseOfDay(monthDay: String): Passage? =
         dao.passageOfDay(monthDay)?.let { dao.passage(it) }
