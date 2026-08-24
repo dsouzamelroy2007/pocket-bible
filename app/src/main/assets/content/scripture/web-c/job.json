@@ -5,7 +5,7 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
@@ -35,22 +35,22 @@
     {
       "chapter": 1,
       "verse": 6,
-      "text": "Now on the day when God’s sons came to present themselves before Yahweh, Satan also came among them."
+      "text": "Now on the day when God’s sons came to present themselves before the LORD, Satan also came among them."
     },
     {
       "chapter": 1,
       "verse": 7,
-      "text": "Yahweh said to Satan, “Where have you come from?” Then Satan answered Yahweh, and said, “From going back and forth on the earth, and from walking up and down in it.”"
+      "text": "The LORD said to Satan, “Where have you come from?” Then Satan answered the LORD, and said, “From going back and forth on the earth, and from walking up and down in it.”"
     },
     {
       "chapter": 1,
       "verse": 8,
-      "text": "Yahweh said to Satan, “Have you considered my servant, Job? For there is no one like him on the earth, a blameless and an upright man, one who fears God, and turns away from evil.”"
+      "text": "The LORD said to Satan, “Have you considered my servant, Job? For there is no one like him on the earth, a blameless and an upright man, one who fears God, and turns away from evil.”"
     },
     {
       "chapter": 1,
       "verse": 9,
-      "text": "Then Satan answered Yahweh, and said, “Does Job fear God for nothing?"
+      "text": "Then Satan answered the LORD, and said, “Does Job fear God for nothing?"
     },
     {
       "chapter": 1,
@@ -65,7 +65,7 @@
     {
       "chapter": 1,
       "verse": 12,
-      "text": "Yahweh said to Satan, “Behold, all that he has is in your power. Only on himself don’t stretch out your hand.” So Satan went out from the presence of Yahweh."
+      "text": "The LORD said to Satan, “Behold, all that he has is in your power. Only on himself don’t stretch out your hand.” So Satan went out from the presence of the LORD."
     },
     {
       "chapter": 1,
@@ -110,7 +110,7 @@
     {
       "chapter": 1,
       "verse": 21,
-      "text": "He said, “Naked I came out of my mother’s womb, and naked will I return there. Yahweh gave, and Yahweh has taken away. Blessed be Yahweh’s name.”"
+      "text": "He said, “Naked I came out of my mother’s womb, and naked will I return there. The LORD gave, and the LORD has taken away. Blessed be the LORD’s name.”"
     },
     {
       "chapter": 1,
@@ -120,22 +120,22 @@
     {
       "chapter": 2,
       "verse": 1,
-      "text": "Again, on the day when God’s sons came to present themselves before Yahweh, Satan came also among them to present himself before Yahweh."
+      "text": "Again, on the day when God’s sons came to present themselves before the LORD, Satan came also among them to present himself before the LORD."
     },
     {
       "chapter": 2,
       "verse": 2,
-      "text": "Yahweh said to Satan, “Where have you come from?” Satan answered Yahweh, and said, “From going back and forth on the earth, and from walking up and down in it.”"
+      "text": "The LORD said to Satan, “Where have you come from?” Satan answered the LORD, and said, “From going back and forth on the earth, and from walking up and down in it.”"
     },
     {
       "chapter": 2,
       "verse": 3,
-      "text": "Yahweh said to Satan, “Have you considered my servant Job? For there is no one like him on the earth, a blameless and an upright man, one who fears God, and turns away from evil. He still maintains his integrity, although you incited me against him, to ruin him without cause.”"
+      "text": "The LORD said to Satan, “Have you considered my servant Job? For there is no one like him on the earth, a blameless and an upright man, one who fears God, and turns away from evil. He still maintains his integrity, although you incited me against him, to ruin him without cause.”"
     },
     {
       "chapter": 2,
       "verse": 4,
-      "text": "Satan answered Yahweh, and said, “Skin for skin. Yes, all that a man has he will give for his life."
+      "text": "Satan answered the LORD, and said, “Skin for skin. Yes, all that a man has he will give for his life."
     },
     {
       "chapter": 2,
@@ -145,12 +145,12 @@
     {
       "chapter": 2,
       "verse": 6,
-      "text": "Yahweh said to Satan, “Behold, he is in your hand. Only spare his life.”"
+      "text": "The LORD said to Satan, “Behold, he is in your hand. Only spare his life.”"
     },
     {
       "chapter": 2,
       "verse": 7,
-      "text": "So Satan went out from the presence of Yahweh, and struck Job with painful sores from the sole of his foot to his head."
+      "text": "So Satan went out from the presence of the LORD, and struck Job with painful sores from the sole of his foot to his head."
     },
     {
       "chapter": 2,
@@ -1345,7 +1345,7 @@
     {
       "chapter": 12,
       "verse": 9,
-      "text": "Who doesn’t know that in all these, Yahweh’s hand has done this,"
+      "text": "Who doesn’t know that in all these, the LORD’s hand has done this,"
     },
     {
       "chapter": 12,
@@ -4630,7 +4630,7 @@
     {
       "chapter": 38,
       "verse": 1,
-      "text": "Then Yahweh answered Job out of the whirlwind,"
+      "text": "Then the LORD answered Job out of the whirlwind,"
     },
     {
       "chapter": 38,
@@ -4985,7 +4985,7 @@
     {
       "chapter": 40,
       "verse": 1,
-      "text": "Moreover Yahweh answered Job,"
+      "text": "Moreover the LORD answered Job,"
     },
     {
       "chapter": 40,
@@ -4995,7 +4995,7 @@
     {
       "chapter": 40,
       "verse": 3,
-      "text": "Then Job answered Yahweh,"
+      "text": "Then Job answered the LORD,"
     },
     {
       "chapter": 40,
@@ -5010,7 +5010,7 @@
     {
       "chapter": 40,
       "verse": 6,
-      "text": "Then Yahweh answered Job out of the whirlwind:"
+      "text": "Then the LORD answered Job out of the whirlwind:"
     },
     {
       "chapter": 40,
@@ -5275,7 +5275,7 @@
     {
       "chapter": 42,
       "verse": 1,
-      "text": "Then Job answered Yahweh:"
+      "text": "Then Job answered the LORD:"
     },
     {
       "chapter": 42,
@@ -5305,7 +5305,7 @@
     {
       "chapter": 42,
       "verse": 7,
-      "text": "It was so, that after Yahweh had spoken these words to Job, Yahweh said to Eliphaz the Temanite, “My wrath is kindled against you, and against your two friends; for you have not spoken of me the thing that is right, as my servant Job has."
+      "text": "It was so, that after the LORD had spoken these words to Job, the LORD said to Eliphaz the Temanite, “My wrath is kindled against you, and against your two friends; for you have not spoken of me the thing that is right, as my servant Job has."
     },
     {
       "chapter": 42,
@@ -5315,22 +5315,22 @@
     {
       "chapter": 42,
       "verse": 9,
-      "text": "So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went and did what Yahweh commanded them, and Yahweh accepted Job."
+      "text": "So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went and did what the LORD commanded them, and the LORD accepted Job."
     },
     {
       "chapter": 42,
       "verse": 10,
-      "text": "Yahweh restored Job’s prosperity when he prayed for his friends. Yahweh gave Job twice as much as he had before."
+      "text": "The LORD restored Job’s prosperity when he prayed for his friends. The LORD gave Job twice as much as he had before."
     },
     {
       "chapter": 42,
       "verse": 11,
-      "text": "Then all his brothers, all his sisters, and all those who had been of his acquaintance before, came to him and ate bread with him in his house. They comforted him, and consoled him concerning all the evil that Yahweh had brought on him. Everyone also gave him a piece of money, and everyone a ring of gold."
+      "text": "Then all his brothers, all his sisters, and all those who had been of his acquaintance before, came to him and ate bread with him in his house. They comforted him, and consoled him concerning all the evil that the LORD had brought on him. Everyone also gave him a piece of money, and everyone a ring of gold."
     },
     {
       "chapter": 42,
       "verse": 12,
-      "text": "So Yahweh blessed the latter end of Job more than his beginning. He had fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and a thousand female donkeys."
+      "text": "So the LORD blessed the latter end of Job more than his beginning. He had fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and a thousand female donkeys."
     },
     {
       "chapter": 42,

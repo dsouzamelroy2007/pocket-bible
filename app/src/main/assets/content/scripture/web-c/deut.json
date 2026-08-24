@@ -5,7 +5,7 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
@@ -20,7 +20,7 @@
     {
       "chapter": 1,
       "verse": 3,
-      "text": "In the fortieth year, in the eleventh month, on the first day of the month, Moses spoke to the children of Israel according to all that Yahweh had given him in commandment to them,"
+      "text": "In the fortieth year, in the eleventh month, on the first day of the month, Moses spoke to the children of Israel according to all that the LORD had given him in commandment to them,"
     },
     {
       "chapter": 1,
@@ -35,7 +35,7 @@
     {
       "chapter": 1,
       "verse": 6,
-      "text": "“Yahweh our God spoke to us in Horeb, saying, ‘You have lived long enough at this mountain."
+      "text": "“The LORD our God spoke to us in Horeb, saying, ‘You have lived long enough at this mountain."
     },
     {
       "chapter": 1,
@@ -45,7 +45,7 @@
     {
       "chapter": 1,
       "verse": 8,
-      "text": "Behold, I have set the land before you. Go in and possess the land which Yahweh swore to your fathers—to Abraham, to Isaac, and to Jacob—to give to them and to their offspring after them.’ ”"
+      "text": "Behold, I have set the land before you. Go in and possess the land which the LORD swore to your fathers—to Abraham, to Isaac, and to Jacob—to give to them and to their offspring after them.’ ”"
     },
     {
       "chapter": 1,
@@ -55,12 +55,12 @@
     {
       "chapter": 1,
       "verse": 10,
-      "text": "Yahweh your God has multiplied you, and behold, you are today as the stars of the sky for multitude."
+      "text": "The LORD your God has multiplied you, and behold, you are today as the stars of the sky for multitude."
     },
     {
       "chapter": 1,
       "verse": 11,
-      "text": "May Yahweh, the God of your fathers, make you a thousand times as many as you are and bless you, as he has promised you!"
+      "text": "May the LORD, the God of your fathers, make you a thousand times as many as you are and bless you, as he has promised you!"
     },
     {
       "chapter": 1,
@@ -100,17 +100,17 @@
     {
       "chapter": 1,
       "verse": 19,
-      "text": "We traveled from Horeb and went through all that great and terrible wilderness which you saw, by the way to the hill country of the Amorites, as Yahweh our God commanded us; and we came to Kadesh Barnea."
+      "text": "We traveled from Horeb and went through all that great and terrible wilderness which you saw, by the way to the hill country of the Amorites, as the LORD our God commanded us; and we came to Kadesh Barnea."
     },
     {
       "chapter": 1,
       "verse": 20,
-      "text": "I said to you, “You have come to the hill country of the Amorites, which Yahweh our God gives to us."
+      "text": "I said to you, “You have come to the hill country of the Amorites, which the LORD our God gives to us."
     },
     {
       "chapter": 1,
       "verse": 21,
-      "text": "Behold, Yahweh your God has set the land before you. Go up, take possession, as Yahweh the God of your fathers has spoken to you. Don’t be afraid, neither be dismayed.”"
+      "text": "Behold, the LORD your God has set the land before you. Go up, take possession, as the LORD the God of your fathers has spoken to you. Don’t be afraid, neither be dismayed.”"
     },
     {
       "chapter": 1,
@@ -130,17 +130,17 @@
     {
       "chapter": 1,
       "verse": 25,
-      "text": "They took some of the fruit of the land in their hands and brought it down to us, and brought us word again, and said, “It is a good land which Yahweh our God gives to us.”"
+      "text": "They took some of the fruit of the land in their hands and brought it down to us, and brought us word again, and said, “It is a good land which the LORD our God gives to us.”"
     },
     {
       "chapter": 1,
       "verse": 26,
-      "text": "Yet you wouldn’t go up, but rebelled against the commandment of Yahweh your God."
+      "text": "Yet you wouldn’t go up, but rebelled against the commandment of the LORD your God."
     },
     {
       "chapter": 1,
       "verse": 27,
-      "text": "You murmured in your tents, and said, “Because Yahweh hated us, he has brought us out of the land of Egypt, to deliver us into the hand of the Amorites to destroy us."
+      "text": "You murmured in your tents, and said, “Because the LORD hated us, he has brought us out of the land of Egypt, to deliver us into the hand of the Amorites to destroy us."
     },
     {
       "chapter": 1,
@@ -155,17 +155,17 @@
     {
       "chapter": 1,
       "verse": 30,
-      "text": "Yahweh your God, who goes before you, he will fight for you, according to all that he did for you in Egypt before your eyes,"
+      "text": "The LORD your God, who goes before you, he will fight for you, according to all that he did for you in Egypt before your eyes,"
     },
     {
       "chapter": 1,
       "verse": 31,
-      "text": "and in the wilderness where you have seen how that Yahweh your God carried you, as a man carries his son, in all the way that you went, until you came to this place.”"
+      "text": "and in the wilderness where you have seen how that the LORD your God carried you, as a man carries his son, in all the way that you went, until you came to this place.”"
     },
     {
       "chapter": 1,
       "verse": 32,
-      "text": "Yet in this thing you didn’t believe Yahweh your God,"
+      "text": "Yet in this thing you didn’t believe the LORD your God,"
     },
     {
       "chapter": 1,
@@ -175,7 +175,7 @@
     {
       "chapter": 1,
       "verse": 34,
-      "text": "Yahweh heard the voice of your words and was angry, and swore, saying,"
+      "text": "The LORD heard the voice of your words and was angry, and swore, saying,"
     },
     {
       "chapter": 1,
@@ -185,12 +185,12 @@
     {
       "chapter": 1,
       "verse": 36,
-      "text": "except Caleb the son of Jephunneh. He shall see it. I will give the land that he has trodden on to him and to his children, because he has wholly followed Yahweh.”"
+      "text": "except Caleb the son of Jephunneh. He shall see it. I will give the land that he has trodden on to him and to his children, because he has wholly followed the LORD.”"
     },
     {
       "chapter": 1,
       "verse": 37,
-      "text": "Also Yahweh was angry with me for your sakes, saying, “You also shall not go in there."
+      "text": "Also the LORD was angry with me for your sakes, saying, “You also shall not go in there."
     },
     {
       "chapter": 1,
@@ -210,17 +210,17 @@
     {
       "chapter": 1,
       "verse": 41,
-      "text": "Then you answered and said to me, “We have sinned against Yahweh. We will go up and fight, according to all that Yahweh our God commanded us.” Every man of you put on his weapons of war, and presumed to go up into the hill country."
+      "text": "Then you answered and said to me, “We have sinned against the LORD. We will go up and fight, according to all that the LORD our God commanded us.” Every man of you put on his weapons of war, and presumed to go up into the hill country."
     },
     {
       "chapter": 1,
       "verse": 42,
-      "text": "Yahweh said to me, “Tell them, ‘Don’t go up and don’t fight; for I am not among you, lest you be struck before your enemies.’ ”"
+      "text": "The LORD said to me, “Tell them, ‘Don’t go up and don’t fight; for I am not among you, lest you be struck before your enemies.’ ”"
     },
     {
       "chapter": 1,
       "verse": 43,
-      "text": "So I spoke to you, and you didn’t listen; but you rebelled against the commandment of Yahweh, and were presumptuous, and went up into the hill country."
+      "text": "So I spoke to you, and you didn’t listen; but you rebelled against the commandment of the LORD, and were presumptuous, and went up into the hill country."
     },
     {
       "chapter": 1,
@@ -230,7 +230,7 @@
     {
       "chapter": 1,
       "verse": 45,
-      "text": "You returned and wept before Yahweh, but Yahweh didn’t listen to your voice, nor turn his ear to you."
+      "text": "You returned and wept before the LORD, but the LORD didn’t listen to your voice, nor turn his ear to you."
     },
     {
       "chapter": 1,
@@ -240,12 +240,12 @@
     {
       "chapter": 2,
       "verse": 1,
-      "text": "Then we turned, and took our journey into the wilderness by the way to the Red Sea, as Yahweh spoke to me; and we encircled Mount Seir many days."
+      "text": "Then we turned, and took our journey into the wilderness by the way to the Red Sea, as the LORD spoke to me; and we encircled Mount Seir many days."
     },
     {
       "chapter": 2,
       "verse": 2,
-      "text": "Yahweh spoke to me, saying,"
+      "text": "The LORD spoke to me, saying,"
     },
     {
       "chapter": 2,
@@ -270,7 +270,7 @@
     {
       "chapter": 2,
       "verse": 7,
-      "text": "For Yahweh your God has blessed you in all the work of your hands. He has known your walking through this great wilderness. These forty years, Yahweh your God has been with you. You have lacked nothing."
+      "text": "For the LORD your God has blessed you in all the work of your hands. He has known your walking through this great wilderness. These forty years, the LORD your God has been with you. You have lacked nothing."
     },
     {
       "chapter": 2,
@@ -280,7 +280,7 @@
     {
       "chapter": 2,
       "verse": 9,
-      "text": "Yahweh said to me, “Don’t bother Moab, neither contend with them in battle; for I will not give you any of his land for a possession, because I have given Ar to the children of Lot for a possession.”"
+      "text": "The LORD said to me, “Don’t bother Moab, neither contend with them in battle; for I will not give you any of his land for a possession, because I have given Ar to the children of Lot for a possession.”"
     },
     {
       "chapter": 2,
@@ -295,7 +295,7 @@
     {
       "chapter": 2,
       "verse": 12,
-      "text": "The Horites also lived in Seir in the past, but the children of Esau succeeded them. They destroyed them from before them, and lived in their place, as Israel did to the land of his possession, which Yahweh gave to them.)"
+      "text": "The Horites also lived in Seir in the past, but the children of Esau succeeded them. They destroyed them from before them, and lived in their place, as Israel did to the land of his possession, which the LORD gave to them.)"
     },
     {
       "chapter": 2,
@@ -305,12 +305,12 @@
     {
       "chapter": 2,
       "verse": 14,
-      "text": "The days in which we came from Kadesh Barnea until we had come over the brook Zered were thirty-eight years, until all the generation of the men of war were consumed from the middle of the camp, as Yahweh swore to them."
+      "text": "The days in which we came from Kadesh Barnea until we had come over the brook Zered were thirty-eight years, until all the generation of the men of war were consumed from the middle of the camp, as the LORD swore to them."
     },
     {
       "chapter": 2,
       "verse": 15,
-      "text": "Moreover Yahweh’s hand was against them, to destroy them from the middle of the camp, until they were consumed."
+      "text": "Moreover the LORD’s hand was against them, to destroy them from the middle of the camp, until they were consumed."
     },
     {
       "chapter": 2,
@@ -320,7 +320,7 @@
     {
       "chapter": 2,
       "verse": 17,
-      "text": "Yahweh spoke to me, saying,"
+      "text": "The LORD spoke to me, saying,"
     },
     {
       "chapter": 2,
@@ -340,7 +340,7 @@
     {
       "chapter": 2,
       "verse": 21,
-      "text": "a great people, many, and tall, as the Anakim; but Yahweh destroyed them from before Israel, and they succeeded them, and lived in their place,"
+      "text": "a great people, many, and tall, as the Anakim; but the LORD destroyed them from before Israel, and they succeeded them, and lived in their place,"
     },
     {
       "chapter": 2,
@@ -380,17 +380,17 @@
     {
       "chapter": 2,
       "verse": 29,
-      "text": "as the children of Esau who dwell in Seir, and the Moabites who dwell in Ar, did to me, until I pass over the Jordan into the land which Yahweh our God gives us.”"
+      "text": "as the children of Esau who dwell in Seir, and the Moabites who dwell in Ar, did to me, until I pass over the Jordan into the land which the LORD our God gives us.”"
     },
     {
       "chapter": 2,
       "verse": 30,
-      "text": "But Sihon king of Heshbon would not let us pass by him, for Yahweh your God hardened his spirit and made his heart obstinate, that he might deliver him into your hand, as it is today."
+      "text": "But Sihon king of Heshbon would not let us pass by him, for the LORD your God hardened his spirit and made his heart obstinate, that he might deliver him into your hand, as it is today."
     },
     {
       "chapter": 2,
       "verse": 31,
-      "text": "Yahweh said to me, “Behold, I have begun to deliver up Sihon and his land before you. Begin to possess, that you may inherit his land.”"
+      "text": "The LORD said to me, “Behold, I have begun to deliver up Sihon and his land before you. Begin to possess, that you may inherit his land.”"
     },
     {
       "chapter": 2,
@@ -400,7 +400,7 @@
     {
       "chapter": 2,
       "verse": 33,
-      "text": "Yahweh our God delivered him up before us; and we struck him, his sons, and all his people."
+      "text": "The LORD our God delivered him up before us; and we struck him, his sons, and all his people."
     },
     {
       "chapter": 2,
@@ -415,12 +415,12 @@
     {
       "chapter": 2,
       "verse": 36,
-      "text": "From Aroer, which is on the edge of the valley of the Arnon, and the city that is in the valley, even to Gilead, there was not a city too high for us. Yahweh our God delivered up all before us."
+      "text": "From Aroer, which is on the edge of the valley of the Arnon, and the city that is in the valley, even to Gilead, there was not a city too high for us. The LORD our God delivered up all before us."
     },
     {
       "chapter": 2,
       "verse": 37,
-      "text": "Only to the land of the children of Ammon you didn’t come near: all the banks of the river Jabbok, and the cities of the hill country, and wherever Yahweh our God forbade us."
+      "text": "Only to the land of the children of Ammon you didn’t come near: all the banks of the river Jabbok, and the cities of the hill country, and wherever the LORD our God forbade us."
     },
     {
       "chapter": 3,
@@ -430,12 +430,12 @@
     {
       "chapter": 3,
       "verse": 2,
-      "text": "Yahweh said to me, “Don’t fear him; for I have delivered him, with all his people and his land, into your hand. You shall do to him as you did to Sihon king of the Amorites, who lived at Heshbon.”"
+      "text": "The LORD said to me, “Don’t fear him; for I have delivered him, with all his people and his land, into your hand. You shall do to him as you did to Sihon king of the Amorites, who lived at Heshbon.”"
     },
     {
       "chapter": 3,
       "verse": 3,
-      "text": "So Yahweh our God also delivered into our hand Og, the king of Bashan, and all his people. We struck him until no one was left to him remaining."
+      "text": "So the LORD our God also delivered into our hand Og, the king of Bashan, and all his people. We struck him until no one was left to him remaining."
     },
     {
       "chapter": 3,
@@ -510,7 +510,7 @@
     {
       "chapter": 3,
       "verse": 18,
-      "text": "I commanded you at that time, saying, “Yahweh your God has given you this land to possess it. All of you men of valor shall pass over armed before your brothers, the children of Israel."
+      "text": "I commanded you at that time, saying, “The LORD your God has given you this land to possess it. All of you men of valor shall pass over armed before your brothers, the children of Israel."
     },
     {
       "chapter": 3,
@@ -520,27 +520,27 @@
     {
       "chapter": 3,
       "verse": 20,
-      "text": "until Yahweh gives rest to your brothers, as to you, and they also possess the land which Yahweh your God gives them beyond the Jordan. Then you shall each return to his own possession, which I have given you.”"
+      "text": "until the LORD gives rest to your brothers, as to you, and they also possess the land which the LORD your God gives them beyond the Jordan. Then you shall each return to his own possession, which I have given you.”"
     },
     {
       "chapter": 3,
       "verse": 21,
-      "text": "I commanded Joshua at that time, saying, “Your eyes have seen all that Yahweh your God has done to these two kings. So shall Yahweh do to all the kingdoms where you go over."
+      "text": "I commanded Joshua at that time, saying, “Your eyes have seen all that the LORD your God has done to these two kings. So shall the LORD do to all the kingdoms where you go over."
     },
     {
       "chapter": 3,
       "verse": 22,
-      "text": "You shall not fear them; for Yahweh your God himself fights for you.”"
+      "text": "You shall not fear them; for the LORD your God himself fights for you.”"
     },
     {
       "chapter": 3,
       "verse": 23,
-      "text": "I begged Yahweh at that time, saying,"
+      "text": "I begged the LORD at that time, saying,"
     },
     {
       "chapter": 3,
       "verse": 24,
-      "text": "“Lord Yahweh, you have begun to show your servant your greatness, and your strong hand. For what god is there in heaven or in earth that can do works like yours, and mighty acts like yours?"
+      "text": "“Lord the LORD, you have begun to show your servant your greatness, and your strong hand. For what god is there in heaven or in earth that can do works like yours, and mighty acts like yours?"
     },
     {
       "chapter": 3,
@@ -550,7 +550,7 @@
     {
       "chapter": 3,
       "verse": 26,
-      "text": "But Yahweh was angry with me because of you, and didn’t listen to me. Yahweh said to me, “That is enough! Speak no more to me of this matter."
+      "text": "But the LORD was angry with me because of you, and didn’t listen to me. The LORD said to me, “That is enough! Speak no more to me of this matter."
     },
     {
       "chapter": 3,
@@ -570,27 +570,27 @@
     {
       "chapter": 4,
       "verse": 1,
-      "text": "Now, Israel, listen to the statutes and to the ordinances which I teach you, to do them, that you may live and go in and possess the land which Yahweh, the God of your fathers, gives you."
+      "text": "Now, Israel, listen to the statutes and to the ordinances which I teach you, to do them, that you may live and go in and possess the land which the LORD, the God of your fathers, gives you."
     },
     {
       "chapter": 4,
       "verse": 2,
-      "text": "You shall not add to the word which I command you, neither shall you take away from it, that you may keep the commandments of Yahweh your God which I command you."
+      "text": "You shall not add to the word which I command you, neither shall you take away from it, that you may keep the commandments of the LORD your God which I command you."
     },
     {
       "chapter": 4,
       "verse": 3,
-      "text": "Your eyes have seen what Yahweh did because of Baal Peor; for Yahweh your God has destroyed all the men who followed Baal Peor from among you."
+      "text": "Your eyes have seen what the LORD did because of Baal Peor; for the LORD your God has destroyed all the men who followed Baal Peor from among you."
     },
     {
       "chapter": 4,
       "verse": 4,
-      "text": "But you who were faithful to Yahweh your God are all alive today."
+      "text": "But you who were faithful to the LORD your God are all alive today."
     },
     {
       "chapter": 4,
       "verse": 5,
-      "text": "Behold, I have taught you statutes and ordinances, even as Yahweh my God commanded me, that you should do so in the middle of the land where you go in to possess it."
+      "text": "Behold, I have taught you statutes and ordinances, even as the LORD my God commanded me, that you should do so in the middle of the land where you go in to possess it."
     },
     {
       "chapter": 4,
@@ -600,7 +600,7 @@
     {
       "chapter": 4,
       "verse": 7,
-      "text": "For what great nation is there that has a god so near to them as Yahweh our God is whenever we call on him?"
+      "text": "For what great nation is there that has a god so near to them as the LORD our God is whenever we call on him?"
     },
     {
       "chapter": 4,
@@ -615,7 +615,7 @@
     {
       "chapter": 4,
       "verse": 10,
-      "text": "the day that you stood before Yahweh your God in Horeb, when Yahweh said to me, “Assemble the people to me, and I will make them hear my words, that they may learn to fear me all the days that they live on the earth, and that they may teach their children.”"
+      "text": "the day that you stood before the LORD your God in Horeb, when the LORD said to me, “Assemble the people to me, and I will make them hear my words, that they may learn to fear me all the days that they live on the earth, and that they may teach their children.”"
     },
     {
       "chapter": 4,
@@ -625,7 +625,7 @@
     {
       "chapter": 4,
       "verse": 12,
-      "text": "Yahweh spoke to you out of the middle of the fire: you heard the voice of words, but you saw no form; you only heard a voice."
+      "text": "The LORD spoke to you out of the middle of the fire: you heard the voice of words, but you saw no form; you only heard a voice."
     },
     {
       "chapter": 4,
@@ -635,12 +635,12 @@
     {
       "chapter": 4,
       "verse": 14,
-      "text": "Yahweh commanded me at that time to teach you statutes and ordinances, that you might do them in the land where you go over to possess it."
+      "text": "The LORD commanded me at that time to teach you statutes and ordinances, that you might do them in the land where you go over to possess it."
     },
     {
       "chapter": 4,
       "verse": 15,
-      "text": "Be very careful, for you saw no kind of form on the day that Yahweh spoke to you in Horeb out of the middle of the fire,"
+      "text": "Be very careful, for you saw no kind of form on the day that the LORD spoke to you in Horeb out of the middle of the fire,"
     },
     {
       "chapter": 4,
@@ -660,17 +660,17 @@
     {
       "chapter": 4,
       "verse": 19,
-      "text": "and lest you lift up your eyes to the sky, and when you see the sun and the moon and the stars, even all the army of the sky, you are drawn away and worship them, and serve them, which Yahweh your God has allotted to all the peoples under the whole sky."
+      "text": "and lest you lift up your eyes to the sky, and when you see the sun and the moon and the stars, even all the army of the sky, you are drawn away and worship them, and serve them, which the LORD your God has allotted to all the peoples under the whole sky."
     },
     {
       "chapter": 4,
       "verse": 20,
-      "text": "But Yahweh has taken you, and brought you out of the iron furnace, out of Egypt, to be to him a people of inheritance, as it is today."
+      "text": "But the LORD has taken you, and brought you out of the iron furnace, out of Egypt, to be to him a people of inheritance, as it is today."
     },
     {
       "chapter": 4,
       "verse": 21,
-      "text": "Furthermore Yahweh was angry with me for your sakes, and swore that I should not go over the Jordan, and that I should not go in to that good land which Yahweh your God gives you for an inheritance;"
+      "text": "Furthermore the LORD was angry with me for your sakes, and swore that I should not go over the Jordan, and that I should not go in to that good land which the LORD your God gives you for an inheritance;"
     },
     {
       "chapter": 4,
@@ -680,17 +680,17 @@
     {
       "chapter": 4,
       "verse": 23,
-      "text": "Be careful, lest you forget the covenant of Yahweh your God, which he made with you, and make yourselves a carved image in the form of anything which Yahweh your God has forbidden you."
+      "text": "Be careful, lest you forget the covenant of the LORD your God, which he made with you, and make yourselves a carved image in the form of anything which the LORD your God has forbidden you."
     },
     {
       "chapter": 4,
       "verse": 24,
-      "text": "For Yahweh your God is a devouring fire, a jealous God."
+      "text": "For the LORD your God is a devouring fire, a jealous God."
     },
     {
       "chapter": 4,
       "verse": 25,
-      "text": "When you father children and children’s children, and you have been long in the land, and then corrupt yourselves, and make a carved image in the form of anything, and do that which is evil in Yahweh your God’s sight to provoke him to anger,"
+      "text": "When you father children and children’s children, and you have been long in the land, and then corrupt yourselves, and make a carved image in the form of anything, and do that which is evil in the LORD your God’s sight to provoke him to anger,"
     },
     {
       "chapter": 4,
@@ -700,7 +700,7 @@
     {
       "chapter": 4,
       "verse": 27,
-      "text": "Yahweh will scatter you among the peoples, and you will be left few in number among the nations where Yahweh will lead you away."
+      "text": "The LORD will scatter you among the peoples, and you will be left few in number among the nations where the LORD will lead you away."
     },
     {
       "chapter": 4,
@@ -710,17 +710,17 @@
     {
       "chapter": 4,
       "verse": 29,
-      "text": "But from there you shall seek Yahweh your God, and you will find him when you search after him with all your heart and with all your soul."
+      "text": "But from there you shall seek the LORD your God, and you will find him when you search after him with all your heart and with all your soul."
     },
     {
       "chapter": 4,
       "verse": 30,
-      "text": "When you are in oppression, and all these things have come on you, in the latter days you shall return to Yahweh your God and listen to his voice."
+      "text": "When you are in oppression, and all these things have come on you, in the latter days you shall return to the LORD your God and listen to his voice."
     },
     {
       "chapter": 4,
       "verse": 31,
-      "text": "For Yahweh your God is a merciful God. He will not fail you nor destroy you, nor forget the covenant of your fathers which he swore to them."
+      "text": "For the LORD your God is a merciful God. He will not fail you nor destroy you, nor forget the covenant of your fathers which he swore to them."
     },
     {
       "chapter": 4,
@@ -735,12 +735,12 @@
     {
       "chapter": 4,
       "verse": 34,
-      "text": "Or has God tried to go and take a nation for himself from among another nation, by trials, by signs, by wonders, by war, by a mighty hand, by an outstretched arm, and by great terrors, according to all that Yahweh your God did for you in Egypt before your eyes?"
+      "text": "Or has God tried to go and take a nation for himself from among another nation, by trials, by signs, by wonders, by war, by a mighty hand, by an outstretched arm, and by great terrors, according to all that the LORD your God did for you in Egypt before your eyes?"
     },
     {
       "chapter": 4,
       "verse": 35,
-      "text": "It was shown to you so that you might know that Yahweh is God. There is no one else besides him."
+      "text": "It was shown to you so that you might know that the LORD is God. There is no one else besides him."
     },
     {
       "chapter": 4,
@@ -760,12 +760,12 @@
     {
       "chapter": 4,
       "verse": 39,
-      "text": "Know therefore today, and take it to heart, that Yahweh himself is God in heaven above and on the earth beneath. There is no one else."
+      "text": "Know therefore today, and take it to heart, that the LORD himself is God in heaven above and on the earth beneath. There is no one else."
     },
     {
       "chapter": 4,
       "verse": 40,
-      "text": "You shall keep his statutes and his commandments which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land which Yahweh your God gives you for all time."
+      "text": "You shall keep his statutes and his commandments which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land which the LORD your God gives you for all time."
     },
     {
       "chapter": 4,
@@ -820,27 +820,27 @@
     {
       "chapter": 5,
       "verse": 2,
-      "text": "Yahweh our God made a covenant with us in Horeb."
+      "text": "The LORD our God made a covenant with us in Horeb."
     },
     {
       "chapter": 5,
       "verse": 3,
-      "text": "Yahweh didn’t make this covenant with our fathers, but with us, even us, who are all of us here alive today."
+      "text": "The LORD didn’t make this covenant with our fathers, but with us, even us, who are all of us here alive today."
     },
     {
       "chapter": 5,
       "verse": 4,
-      "text": "Yahweh spoke with you face to face on the mountain out of the middle of the fire,"
+      "text": "The LORD spoke with you face to face on the mountain out of the middle of the fire,"
     },
     {
       "chapter": 5,
       "verse": 5,
-      "text": "(I stood between Yahweh and you at that time, to show you Yahweh’s word; for you were afraid because of the fire, and didn’t go up onto the mountain) saying,"
+      "text": "(I stood between the LORD and you at that time, to show you the LORD’s word; for you were afraid because of the fire, and didn’t go up onto the mountain) saying,"
     },
     {
       "chapter": 5,
       "verse": 6,
-      "text": "“I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage."
+      "text": "“I am the LORD your God, who brought you out of the land of Egypt, out of the house of bondage."
     },
     {
       "chapter": 5,
@@ -855,7 +855,7 @@
     {
       "chapter": 5,
       "verse": 9,
-      "text": "You shall not bow yourself down to them, nor serve them, for I, Yahweh your God, am a jealous God, visiting the iniquity of the fathers on the children and on the third and on the fourth generation of those who hate me"
+      "text": "You shall not bow yourself down to them, nor serve them, for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on the children and on the third and on the fourth generation of those who hate me"
     },
     {
       "chapter": 5,
@@ -865,12 +865,12 @@
     {
       "chapter": 5,
       "verse": 11,
-      "text": "“You shall not misuse the name of Yahweh your God; for Yahweh will not hold him guiltless who misuses his name."
+      "text": "“You shall not misuse the name of the LORD your God; for the LORD will not hold him guiltless who misuses his name."
     },
     {
       "chapter": 5,
       "verse": 12,
-      "text": "“Observe the Sabbath day, to keep it holy, as Yahweh your God commanded you."
+      "text": "“Observe the Sabbath day, to keep it holy, as the LORD your God commanded you."
     },
     {
       "chapter": 5,
@@ -880,17 +880,17 @@
     {
       "chapter": 5,
       "verse": 14,
-      "text": "but the seventh day is a Sabbath to Yahweh your God, in which you shall not do any work—neither you, nor your son, nor your daughter, nor your male servant, nor your female servant, nor your ox, nor your donkey, nor any of your livestock, nor your stranger who is within your gates; that your male servant and your female servant may rest as well as you."
+      "text": "but the seventh day is a Sabbath to the LORD your God, in which you shall not do any work—neither you, nor your son, nor your daughter, nor your male servant, nor your female servant, nor your ox, nor your donkey, nor any of your livestock, nor your stranger who is within your gates; that your male servant and your female servant may rest as well as you."
     },
     {
       "chapter": 5,
       "verse": 15,
-      "text": "You shall remember that you were a servant in the land of Egypt, and Yahweh your God brought you out of there by a mighty hand and by an outstretched arm. Therefore Yahweh your God commanded you to keep the Sabbath day."
+      "text": "You shall remember that you were a servant in the land of Egypt, and the LORD your God brought you out of there by a mighty hand and by an outstretched arm. Therefore the LORD your God commanded you to keep the Sabbath day."
     },
     {
       "chapter": 5,
       "verse": 16,
-      "text": "“Honor your father and your mother, as Yahweh your God commanded you, that your days may be long and that it may go well with you in the land which Yahweh your God gives you."
+      "text": "“Honor your father and your mother, as the LORD your God commanded you, that your days may be long and that it may go well with you in the land which the LORD your God gives you."
     },
     {
       "chapter": 5,
@@ -920,7 +920,7 @@
     {
       "chapter": 5,
       "verse": 22,
-      "text": "Yahweh spoke these words to all your assembly on the mountain out of the middle of the fire, of the cloud, and of the thick darkness, with a great voice. He added no more. He wrote them on two stone tablets, and gave them to me."
+      "text": "The LORD spoke these words to all your assembly on the mountain out of the middle of the fire, of the cloud, and of the thick darkness, with a great voice. He added no more. He wrote them on two stone tablets, and gave them to me."
     },
     {
       "chapter": 5,
@@ -930,12 +930,12 @@
     {
       "chapter": 5,
       "verse": 24,
-      "text": "and you said, “Behold, Yahweh our God has shown us his glory and his greatness, and we have heard his voice out of the middle of the fire. We have seen today that God does speak with man, and he lives."
+      "text": "and you said, “Behold, the LORD our God has shown us his glory and his greatness, and we have heard his voice out of the middle of the fire. We have seen today that God does speak with man, and he lives."
     },
     {
       "chapter": 5,
       "verse": 25,
-      "text": "Now therefore, why should we die? For this great fire will consume us. If we hear Yahweh our God’s voice any more, then we shall die."
+      "text": "Now therefore, why should we die? For this great fire will consume us. If we hear the LORD our God’s voice any more, then we shall die."
     },
     {
       "chapter": 5,
@@ -945,12 +945,12 @@
     {
       "chapter": 5,
       "verse": 27,
-      "text": "Go near, and hear all that Yahweh our God shall say, and tell us all that Yahweh our God tells you; and we will hear it, and do it.”"
+      "text": "Go near, and hear all that the LORD our God shall say, and tell us all that the LORD our God tells you; and we will hear it, and do it.”"
     },
     {
       "chapter": 5,
       "verse": 28,
-      "text": "Yahweh heard the voice of your words when you spoke to me; and Yahweh said to me, “I have heard the voice of the words of this people which they have spoken to you. They have well said all that they have spoken."
+      "text": "The LORD heard the voice of your words when you spoke to me; and the LORD said to me, “I have heard the voice of the words of this people which they have spoken to you. They have well said all that they have spoken."
     },
     {
       "chapter": 5,
@@ -970,37 +970,37 @@
     {
       "chapter": 5,
       "verse": 32,
-      "text": "You shall observe to do therefore as Yahweh your God has commanded you. You shall not turn away to the right hand or to the left."
+      "text": "You shall observe to do therefore as the LORD your God has commanded you. You shall not turn away to the right hand or to the left."
     },
     {
       "chapter": 5,
       "verse": 33,
-      "text": "You shall walk in all the way which Yahweh your God has commanded you, that you may live and that it may be well with you, and that you may prolong your days in the land which you shall possess."
+      "text": "You shall walk in all the way which the LORD your God has commanded you, that you may live and that it may be well with you, and that you may prolong your days in the land which you shall possess."
     },
     {
       "chapter": 6,
       "verse": 1,
-      "text": "Now these are the commandments, the statutes, and the ordinances, which Yahweh your God commanded to teach you, that you might do them in the land that you go over to possess;"
+      "text": "Now these are the commandments, the statutes, and the ordinances, which the LORD your God commanded to teach you, that you might do them in the land that you go over to possess;"
     },
     {
       "chapter": 6,
       "verse": 2,
-      "text": "that you might fear Yahweh your God, to keep all his statutes and his commandments, which I command you—you, your son, and your son’s son, all the days of your life; and that your days may be prolonged."
+      "text": "that you might fear the LORD your God, to keep all his statutes and his commandments, which I command you—you, your son, and your son’s son, all the days of your life; and that your days may be prolonged."
     },
     {
       "chapter": 6,
       "verse": 3,
-      "text": "Hear therefore, Israel, and observe to do it, that it may be well with you, and that you may increase mightily, as Yahweh, the God of your fathers, has promised to you, in a land flowing with milk and honey."
+      "text": "Hear therefore, Israel, and observe to do it, that it may be well with you, and that you may increase mightily, as the LORD, the God of your fathers, has promised to you, in a land flowing with milk and honey."
     },
     {
       "chapter": 6,
       "verse": 4,
-      "text": "Hear, Israel: Yahweh is our God. Yahweh is one."
+      "text": "Hear, Israel: the LORD is our God. The LORD is one."
     },
     {
       "chapter": 6,
       "verse": 5,
-      "text": "You shall love Yahweh your God with all your heart, with all your soul, and with all your might."
+      "text": "You shall love the LORD your God with all your heart, with all your soul, and with all your might."
     },
     {
       "chapter": 6,
@@ -1025,7 +1025,7 @@
     {
       "chapter": 6,
       "verse": 10,
-      "text": "It shall be, when Yahweh your God brings you into the land which he swore to your fathers, to Abraham, to Isaac, and to Jacob, to give you, great and goodly cities which you didn’t build,"
+      "text": "It shall be, when the LORD your God brings you into the land which he swore to your fathers, to Abraham, to Isaac, and to Jacob, to give you, great and goodly cities which you didn’t build,"
     },
     {
       "chapter": 6,
@@ -1035,12 +1035,12 @@
     {
       "chapter": 6,
       "verse": 12,
-      "text": "then beware lest you forget Yahweh, who brought you out of the land of Egypt, out of the house of bondage."
+      "text": "then beware lest you forget the LORD, who brought you out of the land of Egypt, out of the house of bondage."
     },
     {
       "chapter": 6,
       "verse": 13,
-      "text": "You shall fear Yahweh your God; and you shall serve him, and shall swear by his name."
+      "text": "You shall fear the LORD your God; and you shall serve him, and shall swear by his name."
     },
     {
       "chapter": 6,
@@ -1050,42 +1050,42 @@
     {
       "chapter": 6,
       "verse": 15,
-      "text": "for Yahweh your God among you is a jealous God, lest the anger of Yahweh your God be kindled against you, and he destroy you from off the face of the earth."
+      "text": "for the LORD your God among you is a jealous God, lest the anger of the LORD your God be kindled against you, and he destroy you from off the face of the earth."
     },
     {
       "chapter": 6,
       "verse": 16,
-      "text": "You shall not tempt Yahweh your God, as you tempted him in Massah."
+      "text": "You shall not tempt the LORD your God, as you tempted him in Massah."
     },
     {
       "chapter": 6,
       "verse": 17,
-      "text": "You shall diligently keep the commandments of Yahweh your God, and his testimonies, and his statutes, which he has commanded you."
+      "text": "You shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he has commanded you."
     },
     {
       "chapter": 6,
       "verse": 18,
-      "text": "You shall do that which is right and good in Yahweh’s sight, that it may be well with you and that you may go in and possess the good land which Yahweh swore to your fathers,"
+      "text": "You shall do that which is right and good in the LORD’s sight, that it may be well with you and that you may go in and possess the good land which the LORD swore to your fathers,"
     },
     {
       "chapter": 6,
       "verse": 19,
-      "text": "to thrust out all your enemies from before you, as Yahweh has spoken."
+      "text": "to thrust out all your enemies from before you, as the LORD has spoken."
     },
     {
       "chapter": 6,
       "verse": 20,
-      "text": "When your son asks you in time to come, saying, “What do the testimonies, the statutes, and the ordinances, which Yahweh our God has commanded you mean?”"
+      "text": "When your son asks you in time to come, saying, “What do the testimonies, the statutes, and the ordinances, which the LORD our God has commanded you mean?”"
     },
     {
       "chapter": 6,
       "verse": 21,
-      "text": "then you shall tell your son, “We were Pharaoh’s slaves in Egypt. Yahweh brought us out of Egypt with a mighty hand;"
+      "text": "then you shall tell your son, “We were Pharaoh’s slaves in Egypt. The LORD brought us out of Egypt with a mighty hand;"
     },
     {
       "chapter": 6,
       "verse": 22,
-      "text": "and Yahweh showed great and awesome signs and wonders on Egypt, on Pharaoh, and on all his house, before our eyes;"
+      "text": "and the LORD showed great and awesome signs and wonders on Egypt, on Pharaoh, and on all his house, before our eyes;"
     },
     {
       "chapter": 6,
@@ -1095,22 +1095,22 @@
     {
       "chapter": 6,
       "verse": 24,
-      "text": "Yahweh commanded us to do all these statutes, to fear Yahweh our God, for our good always, that he might preserve us alive, as we are today."
+      "text": "The LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that he might preserve us alive, as we are today."
     },
     {
       "chapter": 6,
       "verse": 25,
-      "text": "It shall be righteousness to us, if we observe to do all these commandments before Yahweh our God, as he has commanded us.”"
+      "text": "It shall be righteousness to us, if we observe to do all these commandments before the LORD our God, as he has commanded us.”"
     },
     {
       "chapter": 7,
       "verse": 1,
-      "text": "When Yahweh your God brings you into the land where you go to possess it, and casts out many nations before you—the Hittite, the Girgashite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite—seven nations greater and mightier than you;"
+      "text": "When the LORD your God brings you into the land where you go to possess it, and casts out many nations before you—the Hittite, the Girgashite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite—seven nations greater and mightier than you;"
     },
     {
       "chapter": 7,
       "verse": 2,
-      "text": "and when Yahweh your God delivers them up before you, and you strike them, then you shall utterly destroy them. You shall make no covenant with them, nor show mercy to them."
+      "text": "and when the LORD your God delivers them up before you, and you strike them, then you shall utterly destroy them. You shall make no covenant with them, nor show mercy to them."
     },
     {
       "chapter": 7,
@@ -1120,7 +1120,7 @@
     {
       "chapter": 7,
       "verse": 4,
-      "text": "For that would turn away your sons from following me, that they may serve other gods. So Yahweh’s anger would be kindled against you, and he would destroy you quickly."
+      "text": "For that would turn away your sons from following me, that they may serve other gods. So the LORD’s anger would be kindled against you, and he would destroy you quickly."
     },
     {
       "chapter": 7,
@@ -1130,22 +1130,22 @@
     {
       "chapter": 7,
       "verse": 6,
-      "text": "For you are a holy people to Yahweh your God. Yahweh your God has chosen you to be a people for his own possession, above all peoples who are on the face of the earth."
+      "text": "For you are a holy people to the LORD your God. The LORD your God has chosen you to be a people for his own possession, above all peoples who are on the face of the earth."
     },
     {
       "chapter": 7,
       "verse": 7,
-      "text": "Yahweh didn’t set his love on you nor choose you, because you were more in number than any people; for you were the fewest of all peoples;"
+      "text": "The LORD didn’t set his love on you nor choose you, because you were more in number than any people; for you were the fewest of all peoples;"
     },
     {
       "chapter": 7,
       "verse": 8,
-      "text": "but because Yahweh loves you, and because he desires to keep the oath which he swore to your fathers, Yahweh has brought you out with a mighty hand and redeemed you out of the house of bondage, from the hand of Pharaoh king of Egypt."
+      "text": "but because the LORD loves you, and because he desires to keep the oath which he swore to your fathers, the LORD has brought you out with a mighty hand and redeemed you out of the house of bondage, from the hand of Pharaoh king of Egypt."
     },
     {
       "chapter": 7,
       "verse": 9,
-      "text": "Know therefore that Yahweh your God himself is God, the faithful God, who keeps covenant and loving kindness to a thousand generations with those who love him and keep his commandments,"
+      "text": "Know therefore that the LORD your God himself is God, the faithful God, who keeps covenant and loving kindness to a thousand generations with those who love him and keep his commandments,"
     },
     {
       "chapter": 7,
@@ -1160,7 +1160,7 @@
     {
       "chapter": 7,
       "verse": 12,
-      "text": "It shall happen, because you listen to these ordinances and keep and do them, that Yahweh your God will keep with you the covenant and the loving kindness which he swore to your fathers."
+      "text": "It shall happen, because you listen to these ordinances and keep and do them, that the LORD your God will keep with you the covenant and the loving kindness which he swore to your fathers."
     },
     {
       "chapter": 7,
@@ -1175,12 +1175,12 @@
     {
       "chapter": 7,
       "verse": 15,
-      "text": "Yahweh will take away from you all sickness; and he will put none of the evil diseases of Egypt, which you know, on you, but will lay them on all those who hate you."
+      "text": "The LORD will take away from you all sickness; and he will put none of the evil diseases of Egypt, which you know, on you, but will lay them on all those who hate you."
     },
     {
       "chapter": 7,
       "verse": 16,
-      "text": "You shall consume all the peoples whom Yahweh your God shall deliver to you. Your eye shall not pity them. You shall not serve their gods; for that would be a snare to you."
+      "text": "You shall consume all the peoples whom the LORD your God shall deliver to you. Your eye shall not pity them. You shall not serve their gods; for that would be a snare to you."
     },
     {
       "chapter": 7,
@@ -1190,32 +1190,32 @@
     {
       "chapter": 7,
       "verse": 18,
-      "text": "you shall not be afraid of them. You shall remember well what Yahweh your God did to Pharaoh and to all Egypt:"
+      "text": "you shall not be afraid of them. You shall remember well what the LORD your God did to Pharaoh and to all Egypt:"
     },
     {
       "chapter": 7,
       "verse": 19,
-      "text": "the great trials which your eyes saw, the signs, the wonders, the mighty hand, and the outstretched arm, by which Yahweh your God brought you out. So shall Yahweh your God do to all the peoples of whom you are afraid."
+      "text": "the great trials which your eyes saw, the signs, the wonders, the mighty hand, and the outstretched arm, by which the LORD your God brought you out. So shall the LORD your God do to all the peoples of whom you are afraid."
     },
     {
       "chapter": 7,
       "verse": 20,
-      "text": "Moreover Yahweh your God will send the hornet among them, until those who are left, and hide themselves, perish from before you."
+      "text": "Moreover the LORD your God will send the hornet among them, until those who are left, and hide themselves, perish from before you."
     },
     {
       "chapter": 7,
       "verse": 21,
-      "text": "You shall not be scared of them; for Yahweh your God is among you, a great and awesome God."
+      "text": "You shall not be scared of them; for the LORD your God is among you, a great and awesome God."
     },
     {
       "chapter": 7,
       "verse": 22,
-      "text": "Yahweh your God will cast out those nations before you little by little. You may not consume them at once, lest the animals of the field increase on you."
+      "text": "The LORD your God will cast out those nations before you little by little. You may not consume them at once, lest the animals of the field increase on you."
     },
     {
       "chapter": 7,
       "verse": 23,
-      "text": "But Yahweh your God will deliver them up before you, and will confuse them with a great confusion, until they are destroyed."
+      "text": "But the LORD your God will deliver them up before you, and will confuse them with a great confusion, until they are destroyed."
     },
     {
       "chapter": 7,
@@ -1225,7 +1225,7 @@
     {
       "chapter": 7,
       "verse": 25,
-      "text": "You shall burn the engraved images of their gods with fire. You shall not covet the silver or the gold that is on them, nor take it for yourself, lest you be snared in it; for it is an abomination to Yahweh your God."
+      "text": "You shall burn the engraved images of their gods with fire. You shall not covet the silver or the gold that is on them, nor take it for yourself, lest you be snared in it; for it is an abomination to the LORD your God."
     },
     {
       "chapter": 7,
@@ -1235,17 +1235,17 @@
     {
       "chapter": 8,
       "verse": 1,
-      "text": "You shall observe to do all the commandments which I command you today, that you may live, and multiply, and go in and possess the land which Yahweh swore to your fathers."
+      "text": "You shall observe to do all the commandments which I command you today, that you may live, and multiply, and go in and possess the land which the LORD swore to your fathers."
     },
     {
       "chapter": 8,
       "verse": 2,
-      "text": "You shall remember all the way which Yahweh your God has led you these forty years in the wilderness, that he might humble you, to test you, to know what was in your heart, whether you would keep his commandments or not."
+      "text": "You shall remember all the way which the LORD your God has led you these forty years in the wilderness, that he might humble you, to test you, to know what was in your heart, whether you would keep his commandments or not."
     },
     {
       "chapter": 8,
       "verse": 3,
-      "text": "He humbled you, allowed you to be hungry, and fed you with manna, which you didn’t know, neither did your fathers know, that he might teach you that man does not live by bread only, but man lives by every word that proceeds out of Yahweh’s mouth."
+      "text": "He humbled you, allowed you to be hungry, and fed you with manna, which you didn’t know, neither did your fathers know, that he might teach you that man does not live by bread only, but man lives by every word that proceeds out of the LORD’s mouth."
     },
     {
       "chapter": 8,
@@ -1255,17 +1255,17 @@
     {
       "chapter": 8,
       "verse": 5,
-      "text": "You shall consider in your heart that as a man disciplines his son, so Yahweh your God disciplines you."
+      "text": "You shall consider in your heart that as a man disciplines his son, so the LORD your God disciplines you."
     },
     {
       "chapter": 8,
       "verse": 6,
-      "text": "You shall keep the commandments of Yahweh your God, to walk in his ways, and to fear him."
+      "text": "You shall keep the commandments of the LORD your God, to walk in his ways, and to fear him."
     },
     {
       "chapter": 8,
       "verse": 7,
-      "text": "For Yahweh your God brings you into a good land, a land of brooks of water, of springs, and underground water flowing into valleys and hills;"
+      "text": "For the LORD your God brings you into a good land, a land of brooks of water, of springs, and underground water flowing into valleys and hills;"
     },
     {
       "chapter": 8,
@@ -1280,12 +1280,12 @@
     {
       "chapter": 8,
       "verse": 10,
-      "text": "You shall eat and be full, and you shall bless Yahweh your God for the good land which he has given you."
+      "text": "You shall eat and be full, and you shall bless the LORD your God for the good land which he has given you."
     },
     {
       "chapter": 8,
       "verse": 11,
-      "text": "Beware lest you forget Yahweh your God, in not keeping his commandments, his ordinances, and his statutes, which I command you today;"
+      "text": "Beware lest you forget the LORD your God, in not keeping his commandments, his ordinances, and his statutes, which I command you today;"
     },
     {
       "chapter": 8,
@@ -1300,7 +1300,7 @@
     {
       "chapter": 8,
       "verse": 14,
-      "text": "then your heart might be lifted up, and you forget Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage;"
+      "text": "then your heart might be lifted up, and you forget the LORD your God, who brought you out of the land of Egypt, out of the house of bondage;"
     },
     {
       "chapter": 8,
@@ -1320,17 +1320,17 @@
     {
       "chapter": 8,
       "verse": 18,
-      "text": "But you shall remember Yahweh your God, for it is he who gives you power to get wealth, that he may establish his covenant which he swore to your fathers, as it is today."
+      "text": "But you shall remember the LORD your God, for it is he who gives you power to get wealth, that he may establish his covenant which he swore to your fathers, as it is today."
     },
     {
       "chapter": 8,
       "verse": 19,
-      "text": "It shall be, if you shall forget Yahweh your God, and walk after other gods, and serve them and worship them, I testify against you today that you shall surely perish."
+      "text": "It shall be, if you shall forget the LORD your God, and walk after other gods, and serve them and worship them, I testify against you today that you shall surely perish."
     },
     {
       "chapter": 8,
       "verse": 20,
-      "text": "As the nations that Yahweh makes to perish before you, so you shall perish, because you wouldn’t listen to Yahweh your God’s voice."
+      "text": "As the nations that the LORD makes to perish before you, so you shall perish, because you wouldn’t listen to the LORD your God’s voice."
     },
     {
       "chapter": 9,
@@ -1345,57 +1345,57 @@
     {
       "chapter": 9,
       "verse": 3,
-      "text": "Know therefore today that Yahweh your God is he who goes over before you as a devouring fire. He will destroy them and he will bring them down before you. So you shall drive them out and make them perish quickly, as Yahweh has spoken to you."
+      "text": "Know therefore today that the LORD your God is he who goes over before you as a devouring fire. He will destroy them and he will bring them down before you. So you shall drive them out and make them perish quickly, as the LORD has spoken to you."
     },
     {
       "chapter": 9,
       "verse": 4,
-      "text": "Don’t say in your heart, after Yahweh your God has thrust them out from before you, “For my righteousness Yahweh has brought me in to possess this land;” because Yahweh drives them out before you because of the wickedness of these nations."
+      "text": "Don’t say in your heart, after the LORD your God has thrust them out from before you, “For my righteousness the LORD has brought me in to possess this land;” because the LORD drives them out before you because of the wickedness of these nations."
     },
     {
       "chapter": 9,
       "verse": 5,
-      "text": "Not for your righteousness or for the uprightness of your heart do you go in to possess their land; but for the wickedness of these nations Yahweh your God does drive them out from before you, and that he may establish the word which Yahweh swore to your fathers, to Abraham, to Isaac, and to Jacob."
+      "text": "Not for your righteousness or for the uprightness of your heart do you go in to possess their land; but for the wickedness of these nations the LORD your God does drive them out from before you, and that he may establish the word which the LORD swore to your fathers, to Abraham, to Isaac, and to Jacob."
     },
     {
       "chapter": 9,
       "verse": 6,
-      "text": "Know therefore that Yahweh your God doesn’t give you this good land to possess for your righteousness, for you are a stiff-necked people."
+      "text": "Know therefore that the LORD your God doesn’t give you this good land to possess for your righteousness, for you are a stiff-necked people."
     },
     {
       "chapter": 9,
       "verse": 7,
-      "text": "Remember, and don’t forget, how you provoked Yahweh your God to wrath in the wilderness. From the day that you left the land of Egypt until you came to this place, you have been rebellious against Yahweh."
+      "text": "Remember, and don’t forget, how you provoked the LORD your God to wrath in the wilderness. From the day that you left the land of Egypt until you came to this place, you have been rebellious against the LORD."
     },
     {
       "chapter": 9,
       "verse": 8,
-      "text": "Also in Horeb you provoked Yahweh to wrath, and Yahweh was angry with you to destroy you."
+      "text": "Also in Horeb you provoked the LORD to wrath, and the LORD was angry with you to destroy you."
     },
     {
       "chapter": 9,
       "verse": 9,
-      "text": "When I had gone up onto the mountain to receive the stone tablets, even the tablets of the covenant which Yahweh made with you, then I stayed on the mountain forty days and forty nights. I neither ate bread nor drank water."
+      "text": "When I had gone up onto the mountain to receive the stone tablets, even the tablets of the covenant which the LORD made with you, then I stayed on the mountain forty days and forty nights. I neither ate bread nor drank water."
     },
     {
       "chapter": 9,
       "verse": 10,
-      "text": "Yahweh delivered to me the two stone tablets written with God’s finger. On them were all the words which Yahweh spoke with you on the mountain out of the middle of the fire in the day of the assembly."
+      "text": "The LORD delivered to me the two stone tablets written with God’s finger. On them were all the words which the LORD spoke with you on the mountain out of the middle of the fire in the day of the assembly."
     },
     {
       "chapter": 9,
       "verse": 11,
-      "text": "It came to pass at the end of forty days and forty nights that Yahweh gave me the two stone tablets, even the tablets of the covenant."
+      "text": "It came to pass at the end of forty days and forty nights that the LORD gave me the two stone tablets, even the tablets of the covenant."
     },
     {
       "chapter": 9,
       "verse": 12,
-      "text": "Yahweh said to me, “Arise, get down quickly from here; for your people whom you have brought out of Egypt have corrupted themselves. They have quickly turned away from the way which I commanded them. They have made a molten image for themselves!”"
+      "text": "The LORD said to me, “Arise, get down quickly from here; for your people whom you have brought out of Egypt have corrupted themselves. They have quickly turned away from the way which I commanded them. They have made a molten image for themselves!”"
     },
     {
       "chapter": 9,
       "verse": 13,
-      "text": "Furthermore Yahweh spoke to me, saying, “I have seen these people, and behold, they are a stiff-necked people."
+      "text": "Furthermore the LORD spoke to me, saying, “I have seen these people, and behold, they are a stiff-necked people."
     },
     {
       "chapter": 9,
@@ -1410,7 +1410,7 @@
     {
       "chapter": 9,
       "verse": 16,
-      "text": "I looked, and behold, you had sinned against Yahweh your God. You had made yourselves a molded calf. You had quickly turned away from the way which Yahweh had commanded you."
+      "text": "I looked, and behold, you had sinned against the LORD your God. You had made yourselves a molded calf. You had quickly turned away from the way which the LORD had commanded you."
     },
     {
       "chapter": 9,
@@ -1420,17 +1420,17 @@
     {
       "chapter": 9,
       "verse": 18,
-      "text": "I fell down before Yahweh, as at the first, forty days and forty nights. I neither ate bread nor drank water, because of all your sin which you sinned, in doing that which was evil in Yahweh’s sight, to provoke him to anger."
+      "text": "I fell down before the LORD, as at the first, forty days and forty nights. I neither ate bread nor drank water, because of all your sin which you sinned, in doing that which was evil in the LORD’s sight, to provoke him to anger."
     },
     {
       "chapter": 9,
       "verse": 19,
-      "text": "For I was afraid of the anger and hot displeasure with which Yahweh was angry against you to destroy you. But Yahweh listened to me that time also."
+      "text": "For I was afraid of the anger and hot displeasure with which the LORD was angry against you to destroy you. But the LORD listened to me that time also."
     },
     {
       "chapter": 9,
       "verse": 20,
-      "text": "Yahweh was angry enough with Aaron to destroy him. I prayed for Aaron also at the same time."
+      "text": "The LORD was angry enough with Aaron to destroy him. I prayed for Aaron also at the same time."
     },
     {
       "chapter": 9,
@@ -1440,27 +1440,27 @@
     {
       "chapter": 9,
       "verse": 22,
-      "text": "At Taberah, at Massah, and at Kibroth Hattaavah you provoked Yahweh to wrath."
+      "text": "At Taberah, at Massah, and at Kibroth Hattaavah you provoked the LORD to wrath."
     },
     {
       "chapter": 9,
       "verse": 23,
-      "text": "When Yahweh sent you from Kadesh Barnea, saying, “Go up and possess the land which I have given you,” you rebelled against the commandment of Yahweh your God, and you didn’t believe him or listen to his voice."
+      "text": "When the LORD sent you from Kadesh Barnea, saying, “Go up and possess the land which I have given you,” you rebelled against the commandment of the LORD your God, and you didn’t believe him or listen to his voice."
     },
     {
       "chapter": 9,
       "verse": 24,
-      "text": "You have been rebellious against Yahweh from the day that I knew you."
+      "text": "You have been rebellious against the LORD from the day that I knew you."
     },
     {
       "chapter": 9,
       "verse": 25,
-      "text": "So I fell down before Yahweh the forty days and forty nights that I fell down, because Yahweh had said he would destroy you."
+      "text": "So I fell down before the LORD the forty days and forty nights that I fell down, because the LORD had said he would destroy you."
     },
     {
       "chapter": 9,
       "verse": 26,
-      "text": "I prayed to Yahweh, and said, “Lord Yahweh, don’t destroy your people and your inheritance that you have redeemed through your greatness, that you have brought out of Egypt with a mighty hand."
+      "text": "I prayed to the LORD, and said, “Lord the LORD, don’t destroy your people and your inheritance that you have redeemed through your greatness, that you have brought out of Egypt with a mighty hand."
     },
     {
       "chapter": 9,
@@ -1470,7 +1470,7 @@
     {
       "chapter": 9,
       "verse": 28,
-      "text": "lest the land you brought us out from say, ‘Because Yahweh was not able to bring them into the land which he promised to them, and because he hated them, he has brought them out to kill them in the wilderness.’"
+      "text": "lest the land you brought us out from say, ‘Because the LORD was not able to bring them into the land which he promised to them, and because he hated them, he has brought them out to kill them in the wilderness.’"
     },
     {
       "chapter": 9,
@@ -1480,7 +1480,7 @@
     {
       "chapter": 10,
       "verse": 1,
-      "text": "At that time Yahweh said to me, “Cut two stone tablets like the first, and come up to me onto the mountain, and make an ark of wood."
+      "text": "At that time the LORD said to me, “Cut two stone tablets like the first, and come up to me onto the mountain, and make an ark of wood."
     },
     {
       "chapter": 10,
@@ -1495,12 +1495,12 @@
     {
       "chapter": 10,
       "verse": 4,
-      "text": "He wrote on the tablets, according to the first writing, the ten commandments, which Yahweh spoke to you on the mountain out of the middle of the fire in the day of the assembly; and Yahweh gave them to me."
+      "text": "He wrote on the tablets, according to the first writing, the ten commandments, which the LORD spoke to you on the mountain out of the middle of the fire in the day of the assembly; and the LORD gave them to me."
     },
     {
       "chapter": 10,
       "verse": 5,
-      "text": "I turned and came down from the mountain, and put the tablets in the ark which I had made; and there they are as Yahweh commanded me."
+      "text": "I turned and came down from the mountain, and put the tablets in the ark which I had made; and there they are as the LORD commanded me."
     },
     {
       "chapter": 10,
@@ -1515,42 +1515,42 @@
     {
       "chapter": 10,
       "verse": 8,
-      "text": "At that time Yahweh set apart the tribe of Levi to bear the ark of Yahweh’s covenant, to stand before Yahweh to minister to him, and to bless in his name, to this day."
+      "text": "At that time the LORD set apart the tribe of Levi to bear the ark of the LORD’s covenant, to stand before the LORD to minister to him, and to bless in his name, to this day."
     },
     {
       "chapter": 10,
       "verse": 9,
-      "text": "Therefore Levi has no portion nor inheritance with his brothers; Yahweh is his inheritance, according as Yahweh your God spoke to him.)"
+      "text": "Therefore Levi has no portion nor inheritance with his brothers; the LORD is his inheritance, according as the LORD your God spoke to him.)"
     },
     {
       "chapter": 10,
       "verse": 10,
-      "text": "I stayed on the mountain, as at the first time, forty days and forty nights; and Yahweh listened to me that time also. Yahweh would not destroy you."
+      "text": "I stayed on the mountain, as at the first time, forty days and forty nights; and the LORD listened to me that time also. The LORD would not destroy you."
     },
     {
       "chapter": 10,
       "verse": 11,
-      "text": "Yahweh said to me, “Arise, take your journey before the people; and they shall go in and possess the land which I swore to their fathers to give to them.”"
+      "text": "The LORD said to me, “Arise, take your journey before the people; and they shall go in and possess the land which I swore to their fathers to give to them.”"
     },
     {
       "chapter": 10,
       "verse": 12,
-      "text": "Now, Israel, what does Yahweh your God require of you, but to fear Yahweh your God, to walk in all his ways, to love him, and to serve Yahweh your God with all your heart and with all your soul,"
+      "text": "Now, Israel, what does the LORD your God require of you, but to fear the LORD your God, to walk in all his ways, to love him, and to serve the LORD your God with all your heart and with all your soul,"
     },
     {
       "chapter": 10,
       "verse": 13,
-      "text": "to keep Yahweh’s commandments and statutes, which I command you today for your good?"
+      "text": "to keep the LORD’s commandments and statutes, which I command you today for your good?"
     },
     {
       "chapter": 10,
       "verse": 14,
-      "text": "Behold, to Yahweh your God belongs heaven, the heaven of heavens, and the earth, with all that is therein."
+      "text": "Behold, to the LORD your God belongs heaven, the heaven of heavens, and the earth, with all that is therein."
     },
     {
       "chapter": 10,
       "verse": 15,
-      "text": "Only Yahweh had a delight in your fathers to love them, and he chose their offspring after them, even you above all peoples, as it is today."
+      "text": "Only the LORD had a delight in your fathers to love them, and he chose their offspring after them, even you above all peoples, as it is today."
     },
     {
       "chapter": 10,
@@ -1560,7 +1560,7 @@
     {
       "chapter": 10,
       "verse": 17,
-      "text": "For Yahweh your God, he is God of gods and Lord of lords, the great God, the mighty, and the awesome, who doesn’t respect persons or take bribes."
+      "text": "For the LORD your God, he is God of gods and Lord of lords, the great God, the mighty, and the awesome, who doesn’t respect persons or take bribes."
     },
     {
       "chapter": 10,
@@ -1575,7 +1575,7 @@
     {
       "chapter": 10,
       "verse": 20,
-      "text": "You shall fear Yahweh your God. You shall serve him. You shall cling to him, and you shall swear by his name."
+      "text": "You shall fear the LORD your God. You shall serve him. You shall cling to him, and you shall swear by his name."
     },
     {
       "chapter": 10,
@@ -1585,17 +1585,17 @@
     {
       "chapter": 10,
       "verse": 22,
-      "text": "Your fathers went down into Egypt with seventy persons; and now Yahweh your God has made you as the stars of the sky for multitude."
+      "text": "Your fathers went down into Egypt with seventy persons; and now the LORD your God has made you as the stars of the sky for multitude."
     },
     {
       "chapter": 11,
       "verse": 1,
-      "text": "Therefore you shall love Yahweh your God, and keep his instructions, his statutes, his ordinances, and his commandments, always."
+      "text": "Therefore you shall love the LORD your God, and keep his instructions, his statutes, his ordinances, and his commandments, always."
     },
     {
       "chapter": 11,
       "verse": 2,
-      "text": "Know this day—for I don’t speak with your children who have not known, and who have not seen the chastisement of Yahweh your God, his greatness, his mighty hand, his outstretched arm,"
+      "text": "Know this day—for I don’t speak with your children who have not known, and who have not seen the chastisement of the LORD your God, his greatness, his mighty hand, his outstretched arm,"
     },
     {
       "chapter": 11,
@@ -1605,7 +1605,7 @@
     {
       "chapter": 11,
       "verse": 4,
-      "text": "and what he did to the army of Egypt, to their horses, and to their chariots; how he made the water of the Red Sea to overflow them as they pursued you, and how Yahweh has destroyed them to this day;"
+      "text": "and what he did to the army of Egypt, to their horses, and to their chariots; how he made the water of the Red Sea to overflow them as they pursued you, and how the LORD has destroyed them to this day;"
     },
     {
       "chapter": 11,
@@ -1620,7 +1620,7 @@
     {
       "chapter": 11,
       "verse": 7,
-      "text": "but your eyes have seen all of Yahweh’s great work which he did."
+      "text": "but your eyes have seen all of the LORD’s great work which he did."
     },
     {
       "chapter": 11,
@@ -1630,7 +1630,7 @@
     {
       "chapter": 11,
       "verse": 9,
-      "text": "and that you may prolong your days in the land which Yahweh swore to your fathers to give to them and to their offspring, a land flowing with milk and honey."
+      "text": "and that you may prolong your days in the land which the LORD swore to your fathers to give to them and to their offspring, a land flowing with milk and honey."
     },
     {
       "chapter": 11,
@@ -1645,12 +1645,12 @@
     {
       "chapter": 11,
       "verse": 12,
-      "text": "a land which Yahweh your God cares for. Yahweh your God’s eyes are always on it, from the beginning of the year even to the end of the year."
+      "text": "a land which the LORD your God cares for. The LORD your God’s eyes are always on it, from the beginning of the year even to the end of the year."
     },
     {
       "chapter": 11,
       "verse": 13,
-      "text": "It shall happen, if you shall listen diligently to my commandments which I command you today, to love Yahweh your God, and to serve him with all your heart and with all your soul,"
+      "text": "It shall happen, if you shall listen diligently to my commandments which I command you today, to love the LORD your God, and to serve him with all your heart and with all your soul,"
     },
     {
       "chapter": 11,
@@ -1670,7 +1670,7 @@
     {
       "chapter": 11,
       "verse": 17,
-      "text": "and Yahweh’s anger be kindled against you, and he shut up the sky so that there is no rain, and the land doesn’t yield its fruit; and you perish quickly from off the good land which Yahweh gives you."
+      "text": "and the LORD’s anger be kindled against you, and he shut up the sky so that there is no rain, and the land doesn’t yield its fruit; and you perish quickly from off the good land which the LORD gives you."
     },
     {
       "chapter": 11,
@@ -1690,17 +1690,17 @@
     {
       "chapter": 11,
       "verse": 21,
-      "text": "that your days and your children’s days may be multiplied in the land which Yahweh swore to your fathers to give them, as the days of the heavens above the earth."
+      "text": "that your days and your children’s days may be multiplied in the land which the LORD swore to your fathers to give them, as the days of the heavens above the earth."
     },
     {
       "chapter": 11,
       "verse": 22,
-      "text": "For if you shall diligently keep all these commandments which I command you—to do them, to love Yahweh your God, to walk in all his ways, and to cling to him—"
+      "text": "For if you shall diligently keep all these commandments which I command you—to do them, to love the LORD your God, to walk in all his ways, and to cling to him—"
     },
     {
       "chapter": 11,
       "verse": 23,
-      "text": "then Yahweh will drive out all these nations from before you, and you shall dispossess nations greater and mightier than yourselves."
+      "text": "then the LORD will drive out all these nations from before you, and you shall dispossess nations greater and mightier than yourselves."
     },
     {
       "chapter": 11,
@@ -1710,7 +1710,7 @@
     {
       "chapter": 11,
       "verse": 25,
-      "text": "No man will be able to stand before you. Yahweh your God will lay the fear of you and the dread of you on all the land that you tread on, as he has spoken to you."
+      "text": "No man will be able to stand before you. The LORD your God will lay the fear of you and the dread of you on all the land that you tread on, as he has spoken to you."
     },
     {
       "chapter": 11,
@@ -1720,17 +1720,17 @@
     {
       "chapter": 11,
       "verse": 27,
-      "text": "the blessing, if you listen to the commandments of Yahweh your God, which I command you today;"
+      "text": "the blessing, if you listen to the commandments of the LORD your God, which I command you today;"
     },
     {
       "chapter": 11,
       "verse": 28,
-      "text": "and the curse, if you do not listen to the commandments of Yahweh your God, but turn away out of the way which I command you today, to go after other gods which you have not known."
+      "text": "and the curse, if you do not listen to the commandments of the LORD your God, but turn away out of the way which I command you today, to go after other gods which you have not known."
     },
     {
       "chapter": 11,
       "verse": 29,
-      "text": "It shall happen, when Yahweh your God brings you into the land that you go to possess, that you shall set the blessing on Mount Gerizim, and the curse on Mount Ebal."
+      "text": "It shall happen, when the LORD your God brings you into the land that you go to possess, that you shall set the blessing on Mount Gerizim, and the curse on Mount Ebal."
     },
     {
       "chapter": 11,
@@ -1740,7 +1740,7 @@
     {
       "chapter": 11,
       "verse": 31,
-      "text": "For you are to pass over the Jordan to go in to possess the land which Yahweh your God gives you, and you shall possess it and dwell in it."
+      "text": "For you are to pass over the Jordan to go in to possess the land which the LORD your God gives you, and you shall possess it and dwell in it."
     },
     {
       "chapter": 11,
@@ -1750,7 +1750,7 @@
     {
       "chapter": 12,
       "verse": 1,
-      "text": "These are the statutes and the ordinances which you shall observe to do in the land which Yahweh, the God of your fathers, has given you to possess all the days that you live on the earth."
+      "text": "These are the statutes and the ordinances which you shall observe to do in the land which the LORD, the God of your fathers, has given you to possess all the days that you live on the earth."
     },
     {
       "chapter": 12,
@@ -1765,12 +1765,12 @@
     {
       "chapter": 12,
       "verse": 4,
-      "text": "You shall not do so to Yahweh your God."
+      "text": "You shall not do so to the LORD your God."
     },
     {
       "chapter": 12,
       "verse": 5,
-      "text": "But to the place which Yahweh your God shall choose out of all your tribes, to put his name there, you shall seek his habitation, and you shall come there."
+      "text": "But to the place which the LORD your God shall choose out of all your tribes, to put his name there, you shall seek his habitation, and you shall come there."
     },
     {
       "chapter": 12,
@@ -1780,7 +1780,7 @@
     {
       "chapter": 12,
       "verse": 7,
-      "text": "There you shall eat before Yahweh your God, and you shall rejoice in all that you put your hand to, you and your households, in which Yahweh your God has blessed you."
+      "text": "There you shall eat before the LORD your God, and you shall rejoice in all that you put your hand to, you and your households, in which the LORD your God has blessed you."
     },
     {
       "chapter": 12,
@@ -1790,22 +1790,22 @@
     {
       "chapter": 12,
       "verse": 9,
-      "text": "for you haven’t yet come to the rest and to the inheritance which Yahweh your God gives you."
+      "text": "for you haven’t yet come to the rest and to the inheritance which the LORD your God gives you."
     },
     {
       "chapter": 12,
       "verse": 10,
-      "text": "But when you go over the Jordan and dwell in the land which Yahweh your God causes you to inherit, and he gives you rest from all your enemies around you, so that you dwell in safety,"
+      "text": "But when you go over the Jordan and dwell in the land which the LORD your God causes you to inherit, and he gives you rest from all your enemies around you, so that you dwell in safety,"
     },
     {
       "chapter": 12,
       "verse": 11,
-      "text": "then it shall happen that to the place which Yahweh your God shall choose, to cause his name to dwell there, there you shall bring all that I command you: your burnt offerings, your sacrifices, your tithes, the wave offering of your hand, and all your choice vows which you vow to Yahweh."
+      "text": "then it shall happen that to the place which the LORD your God shall choose, to cause his name to dwell there, there you shall bring all that I command you: your burnt offerings, your sacrifices, your tithes, the wave offering of your hand, and all your choice vows which you vow to the LORD."
     },
     {
       "chapter": 12,
       "verse": 12,
-      "text": "You shall rejoice before Yahweh your God—you, and your sons, your daughters, your male servants, your female servants, and the Levite who is within your gates, because he has no portion nor inheritance with you."
+      "text": "You shall rejoice before the LORD your God—you, and your sons, your daughters, your male servants, your female servants, and the Levite who is within your gates, because he has no portion nor inheritance with you."
     },
     {
       "chapter": 12,
@@ -1815,12 +1815,12 @@
     {
       "chapter": 12,
       "verse": 14,
-      "text": "but in the place which Yahweh chooses in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I command you."
+      "text": "but in the place which the LORD chooses in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I command you."
     },
     {
       "chapter": 12,
       "verse": 15,
-      "text": "Yet you may kill and eat meat within all your gates, after all the desire of your soul, according to Yahweh your God’s blessing which he has given you. The unclean and the clean may eat of it, as of the gazelle and the deer."
+      "text": "Yet you may kill and eat meat within all your gates, after all the desire of your soul, according to the LORD your God’s blessing which he has given you. The unclean and the clean may eat of it, as of the gazelle and the deer."
     },
     {
       "chapter": 12,
@@ -1835,7 +1835,7 @@
     {
       "chapter": 12,
       "verse": 18,
-      "text": "but you shall eat them before Yahweh your God in the place which Yahweh your God shall choose: you, your son, your daughter, your male servant, your female servant, and the Levite who is within your gates. You shall rejoice before Yahweh your God in all that you put your hand to."
+      "text": "but you shall eat them before the LORD your God in the place which the LORD your God shall choose: you, your son, your daughter, your male servant, your female servant, and the Levite who is within your gates. You shall rejoice before the LORD your God in all that you put your hand to."
     },
     {
       "chapter": 12,
@@ -1845,12 +1845,12 @@
     {
       "chapter": 12,
       "verse": 20,
-      "text": "When Yahweh your God enlarges your border, as he has promised you, and you say, “I want to eat meat,” because your soul desires to eat meat, you may eat meat, after all the desire of your soul."
+      "text": "When the LORD your God enlarges your border, as he has promised you, and you say, “I want to eat meat,” because your soul desires to eat meat, you may eat meat, after all the desire of your soul."
     },
     {
       "chapter": 12,
       "verse": 21,
-      "text": "If the place which Yahweh your God shall choose to put his name is too far from you, then you shall kill of your herd and of your flock, which Yahweh has given you, as I have commanded you; and you may eat within your gates, after all the desire of your soul."
+      "text": "If the place which the LORD your God shall choose to put his name is too far from you, then you shall kill of your herd and of your flock, which the LORD has given you, as I have commanded you; and you may eat within your gates, after all the desire of your soul."
     },
     {
       "chapter": 12,
@@ -1870,27 +1870,27 @@
     {
       "chapter": 12,
       "verse": 25,
-      "text": "You shall not eat it, that it may go well with you and with your children after you, when you do that which is right in Yahweh’s eyes."
+      "text": "You shall not eat it, that it may go well with you and with your children after you, when you do that which is right in the LORD’s eyes."
     },
     {
       "chapter": 12,
       "verse": 26,
-      "text": "Only your holy things which you have, and your vows, you shall take and go to the place which Yahweh shall choose."
+      "text": "Only your holy things which you have, and your vows, you shall take and go to the place which the LORD shall choose."
     },
     {
       "chapter": 12,
       "verse": 27,
-      "text": "You shall offer your burnt offerings, the meat and the blood, on Yahweh your God’s altar. The blood of your sacrifices shall be poured out on Yahweh your God’s altar, and you shall eat the meat."
+      "text": "You shall offer your burnt offerings, the meat and the blood, on the LORD your God’s altar. The blood of your sacrifices shall be poured out on the LORD your God’s altar, and you shall eat the meat."
     },
     {
       "chapter": 12,
       "verse": 28,
-      "text": "Observe and hear all these words which I command you, that it may go well with you and with your children after you forever, when you do that which is good and right in Yahweh your God’s eyes."
+      "text": "Observe and hear all these words which I command you, that it may go well with you and with your children after you forever, when you do that which is good and right in the LORD your God’s eyes."
     },
     {
       "chapter": 12,
       "verse": 29,
-      "text": "When Yahweh your God cuts off the nations from before you where you go in to dispossess them, and you dispossess them and dwell in their land,"
+      "text": "When the LORD your God cuts off the nations from before you where you go in to dispossess them, and you dispossess them and dwell in their land,"
     },
     {
       "chapter": 12,
@@ -1900,7 +1900,7 @@
     {
       "chapter": 12,
       "verse": 31,
-      "text": "You shall not do so to Yahweh your God; for every abomination to Yahweh, which he hates, they have done to their gods; for they even burn their sons and their daughters in the fire to their gods."
+      "text": "You shall not do so to the LORD your God; for every abomination to the LORD, which he hates, they have done to their gods; for they even burn their sons and their daughters in the fire to their gods."
     },
     {
       "chapter": 12,
@@ -1920,17 +1920,17 @@
     {
       "chapter": 13,
       "verse": 3,
-      "text": "you shall not listen to the words of that prophet, or to that dreamer of dreams; for Yahweh your God is testing you, to know whether you love Yahweh your God with all your heart and with all your soul."
+      "text": "you shall not listen to the words of that prophet, or to that dreamer of dreams; for the LORD your God is testing you, to know whether you love the LORD your God with all your heart and with all your soul."
     },
     {
       "chapter": 13,
       "verse": 4,
-      "text": "You shall walk after Yahweh your God, fear him, keep his commandments, and obey his voice. You shall serve him, and cling to him."
+      "text": "You shall walk after the LORD your God, fear him, keep his commandments, and obey his voice. You shall serve him, and cling to him."
     },
     {
       "chapter": 13,
       "verse": 5,
-      "text": "That prophet, or that dreamer of dreams, shall be put to death, because he has spoken rebellion against Yahweh your God, who brought you out of the land of Egypt and redeemed you out of the house of bondage, to draw you aside out of the way which Yahweh your God commanded you to walk in. So you shall remove the evil from among you."
+      "text": "That prophet, or that dreamer of dreams, shall be put to death, because he has spoken rebellion against the LORD your God, who brought you out of the land of Egypt and redeemed you out of the house of bondage, to draw you aside out of the way which the LORD your God commanded you to walk in. So you shall remove the evil from among you."
     },
     {
       "chapter": 13,
@@ -1955,7 +1955,7 @@
     {
       "chapter": 13,
       "verse": 10,
-      "text": "You shall stone him to death with stones, because he has sought to draw you away from Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage."
+      "text": "You shall stone him to death with stones, because he has sought to draw you away from the LORD your God, who brought you out of the land of Egypt, out of the house of bondage."
     },
     {
       "chapter": 13,
@@ -1965,7 +1965,7 @@
     {
       "chapter": 13,
       "verse": 12,
-      "text": "If you hear about one of your cities, which Yahweh your God gives you to dwell there, that"
+      "text": "If you hear about one of your cities, which the LORD your God gives you to dwell there, that"
     },
     {
       "chapter": 13,
@@ -1985,27 +1985,27 @@
     {
       "chapter": 13,
       "verse": 16,
-      "text": "You shall gather all its plunder into the middle of its street, and shall burn with fire the city, with all of its plunder, to Yahweh your God. It shall be a heap forever. It shall not be built again."
+      "text": "You shall gather all its plunder into the middle of its street, and shall burn with fire the city, with all of its plunder, to the LORD your God. It shall be a heap forever. It shall not be built again."
     },
     {
       "chapter": 13,
       "verse": 17,
-      "text": "Nothing of the devoted thing shall cling to your hand, that Yahweh may turn from the fierceness of his anger and show you mercy, and have compassion on you and multiply you, as he has sworn to your fathers,"
+      "text": "Nothing of the devoted thing shall cling to your hand, that the LORD may turn from the fierceness of his anger and show you mercy, and have compassion on you and multiply you, as he has sworn to your fathers,"
     },
     {
       "chapter": 13,
       "verse": 18,
-      "text": "when you listen to Yahweh your God’s voice, to keep all his commandments which I command you today, to do that which is right in Yahweh your God’s eyes."
+      "text": "when you listen to the LORD your God’s voice, to keep all his commandments which I command you today, to do that which is right in the LORD your God’s eyes."
     },
     {
       "chapter": 14,
       "verse": 1,
-      "text": "You are the children of Yahweh your God. You shall not cut yourselves, nor make any baldness between your eyes for the dead."
+      "text": "You are the children of the LORD your God. You shall not cut yourselves, nor make any baldness between your eyes for the dead."
     },
     {
       "chapter": 14,
       "verse": 2,
-      "text": "For you are a holy people to Yahweh your God, and Yahweh has chosen you to be a people for his own possession, above all peoples who are on the face of the earth."
+      "text": "For you are a holy people to the LORD your God, and the LORD has chosen you to be a people for his own possession, above all peoples who are on the face of the earth."
     },
     {
       "chapter": 14,
@@ -2100,7 +2100,7 @@
     {
       "chapter": 14,
       "verse": 21,
-      "text": "You shall not eat of anything that dies of itself. You may give it to the foreigner living among you who is within your gates, that he may eat it; or you may sell it to a foreigner; for you are a holy people to Yahweh your God. You shall not boil a young goat in its mother’s milk."
+      "text": "You shall not eat of anything that dies of itself. You may give it to the foreigner living among you who is within your gates, that he may eat it; or you may sell it to a foreigner; for you are a holy people to the LORD your God. You shall not boil a young goat in its mother’s milk."
     },
     {
       "chapter": 14,
@@ -2110,22 +2110,22 @@
     {
       "chapter": 14,
       "verse": 23,
-      "text": "You shall eat before Yahweh your God, in the place which he chooses to cause his name to dwell, the tithe of your grain, of your new wine, and of your oil, and the firstborn of your herd and of your flock; that you may learn to fear Yahweh your God always."
+      "text": "You shall eat before the LORD your God, in the place which he chooses to cause his name to dwell, the tithe of your grain, of your new wine, and of your oil, and the firstborn of your herd and of your flock; that you may learn to fear the LORD your God always."
     },
     {
       "chapter": 14,
       "verse": 24,
-      "text": "If the way is too long for you, so that you are not able to carry it because the place which Yahweh your God shall choose to set his name there is too far from you, when Yahweh your God blesses you,"
+      "text": "If the way is too long for you, so that you are not able to carry it because the place which the LORD your God shall choose to set his name there is too far from you, when the LORD your God blesses you,"
     },
     {
       "chapter": 14,
       "verse": 25,
-      "text": "then you shall turn it into money, bind up the money in your hand, and shall go to the place which Yahweh your God shall choose."
+      "text": "then you shall turn it into money, bind up the money in your hand, and shall go to the place which the LORD your God shall choose."
     },
     {
       "chapter": 14,
       "verse": 26,
-      "text": "You shall trade the money for whatever your soul desires: for cattle, or for sheep, or for wine, or for strong drink, or for whatever your soul asks of you. You shall eat there before Yahweh your God, and you shall rejoice, you and your household."
+      "text": "You shall trade the money for whatever your soul desires: for cattle, or for sheep, or for wine, or for strong drink, or for whatever your soul asks of you. You shall eat there before the LORD your God, and you shall rejoice, you and your household."
     },
     {
       "chapter": 14,
@@ -2140,7 +2140,7 @@
     {
       "chapter": 14,
       "verse": 29,
-      "text": "The Levite, because he has no portion nor inheritance with you, as well as the foreigner living among you, the fatherless, and the widow who are within your gates shall come, and shall eat and be satisfied; that Yahweh your God may bless you in all the work of your hand which you do."
+      "text": "The Levite, because he has no portion nor inheritance with you, as well as the foreigner living among you, the fatherless, and the widow who are within your gates shall come, and shall eat and be satisfied; that the LORD your God may bless you in all the work of your hand which you do."
     },
     {
       "chapter": 15,
@@ -2150,7 +2150,7 @@
     {
       "chapter": 15,
       "verse": 2,
-      "text": "This is the way it shall be done: every creditor shall release that which he has lent to his neighbor. He shall not require payment from his neighbor and his brother, because Yahweh’s release has been proclaimed."
+      "text": "This is the way it shall be done: every creditor shall release that which he has lent to his neighbor. He shall not require payment from his neighbor and his brother, because the LORD’s release has been proclaimed."
     },
     {
       "chapter": 15,
@@ -2160,22 +2160,22 @@
     {
       "chapter": 15,
       "verse": 4,
-      "text": "However there will be no poor with you (for Yahweh will surely bless you in the land which Yahweh your God gives you for an inheritance to possess)"
+      "text": "However there will be no poor with you (for the LORD will surely bless you in the land which the LORD your God gives you for an inheritance to possess)"
     },
     {
       "chapter": 15,
       "verse": 5,
-      "text": "if only you diligently listen to Yahweh your God’s voice, to observe to do all this commandment which I command you today."
+      "text": "if only you diligently listen to the LORD your God’s voice, to observe to do all this commandment which I command you today."
     },
     {
       "chapter": 15,
       "verse": 6,
-      "text": "For Yahweh your God will bless you, as he promised you. You will lend to many nations, but you will not borrow. You will rule over many nations, but they will not rule over you."
+      "text": "For the LORD your God will bless you, as he promised you. You will lend to many nations, but you will not borrow. You will rule over many nations, but they will not rule over you."
     },
     {
       "chapter": 15,
       "verse": 7,
-      "text": "If a poor man, one of your brothers, is with you within any of your gates in your land which Yahweh your God gives you, you shall not harden your heart, nor shut your hand from your poor brother;"
+      "text": "If a poor man, one of your brothers, is with you within any of your gates in your land which the LORD your God gives you, you shall not harden your heart, nor shut your hand from your poor brother;"
     },
     {
       "chapter": 15,
@@ -2185,12 +2185,12 @@
     {
       "chapter": 15,
       "verse": 9,
-      "text": "Beware that there not be a wicked thought in your heart, saying, “The seventh year, the year of release, is at hand,” and your eye be evil against your poor brother and you give him nothing; and he cry to Yahweh against you, and it be sin to you."
+      "text": "Beware that there not be a wicked thought in your heart, saying, “The seventh year, the year of release, is at hand,” and your eye be evil against your poor brother and you give him nothing; and he cry to the LORD against you, and it be sin to you."
     },
     {
       "chapter": 15,
       "verse": 10,
-      "text": "You shall surely give, and your heart shall not be grieved when you give to him, because it is for this thing Yahweh your God will bless you in all your work and in all that you put your hand to."
+      "text": "You shall surely give, and your heart shall not be grieved when you give to him, because it is for this thing the LORD your God will bless you in all your work and in all that you put your hand to."
     },
     {
       "chapter": 15,
@@ -2210,12 +2210,12 @@
     {
       "chapter": 15,
       "verse": 14,
-      "text": "You shall furnish him liberally out of your flock, out of your threshing floor, and out of your wine press. As Yahweh your God has blessed you, you shall give to him."
+      "text": "You shall furnish him liberally out of your flock, out of your threshing floor, and out of your wine press. As the LORD your God has blessed you, you shall give to him."
     },
     {
       "chapter": 15,
       "verse": 15,
-      "text": "You shall remember that you were a slave in the land of Egypt, and Yahweh your God redeemed you. Therefore I command you this thing today."
+      "text": "You shall remember that you were a slave in the land of Egypt, and the LORD your God redeemed you. Therefore I command you this thing today."
     },
     {
       "chapter": 15,
@@ -2230,22 +2230,22 @@
     {
       "chapter": 15,
       "verse": 18,
-      "text": "It shall not seem hard to you when you let him go free from you, for he has been double the value of a hired hand as he served you six years. Yahweh your God will bless you in all that you do."
+      "text": "It shall not seem hard to you when you let him go free from you, for he has been double the value of a hired hand as he served you six years. The LORD your God will bless you in all that you do."
     },
     {
       "chapter": 15,
       "verse": 19,
-      "text": "You shall dedicate all the firstborn males that are born of your herd and of your flock to Yahweh your God. You shall do no work with the firstborn of your herd, nor shear the firstborn of your flock."
+      "text": "You shall dedicate all the firstborn males that are born of your herd and of your flock to the LORD your God. You shall do no work with the firstborn of your herd, nor shear the firstborn of your flock."
     },
     {
       "chapter": 15,
       "verse": 20,
-      "text": "You shall eat it before Yahweh your God year by year in the place which Yahweh shall choose, you and your household."
+      "text": "You shall eat it before the LORD your God year by year in the place which the LORD shall choose, you and your household."
     },
     {
       "chapter": 15,
       "verse": 21,
-      "text": "If it has any defect—is lame or blind, or has any defect whatever, you shall not sacrifice it to Yahweh your God."
+      "text": "If it has any defect—is lame or blind, or has any defect whatever, you shall not sacrifice it to the LORD your God."
     },
     {
       "chapter": 15,
@@ -2260,12 +2260,12 @@
     {
       "chapter": 16,
       "verse": 1,
-      "text": "Observe the month of Abib, and keep the Passover to Yahweh your God; for in the month of Abib Yahweh your God brought you out of Egypt by night."
+      "text": "Observe the month of Abib, and keep the Passover to the LORD your God; for in the month of Abib the LORD your God brought you out of Egypt by night."
     },
     {
       "chapter": 16,
       "verse": 2,
-      "text": "You shall sacrifice the Passover to Yahweh your God, of the flock and the herd, in the place which Yahweh shall choose to cause his name to dwell there."
+      "text": "You shall sacrifice the Passover to the LORD your God, of the flock and the herd, in the place which the LORD shall choose to cause his name to dwell there."
     },
     {
       "chapter": 16,
@@ -2280,22 +2280,22 @@
     {
       "chapter": 16,
       "verse": 5,
-      "text": "You may not sacrifice the Passover within any of your gates which Yahweh your God gives you;"
+      "text": "You may not sacrifice the Passover within any of your gates which the LORD your God gives you;"
     },
     {
       "chapter": 16,
       "verse": 6,
-      "text": "but at the place which Yahweh your God shall choose to cause his name to dwell in, there you shall sacrifice the Passover at evening, at the going down of the sun, at the season that you came out of Egypt."
+      "text": "but at the place which the LORD your God shall choose to cause his name to dwell in, there you shall sacrifice the Passover at evening, at the going down of the sun, at the season that you came out of Egypt."
     },
     {
       "chapter": 16,
       "verse": 7,
-      "text": "You shall roast and eat it in the place which Yahweh your God chooses. In the morning you shall return to your tents."
+      "text": "You shall roast and eat it in the place which the LORD your God chooses. In the morning you shall return to your tents."
     },
     {
       "chapter": 16,
       "verse": 8,
-      "text": "Six days you shall eat unleavened bread. On the seventh day shall be a solemn assembly to Yahweh your God. You shall do no work."
+      "text": "Six days you shall eat unleavened bread. On the seventh day shall be a solemn assembly to the LORD your God. You shall do no work."
     },
     {
       "chapter": 16,
@@ -2305,12 +2305,12 @@
     {
       "chapter": 16,
       "verse": 10,
-      "text": "You shall keep the feast of weeks to Yahweh your God with a tribute of a free will offering of your hand, which you shall give according to how Yahweh your God blesses you."
+      "text": "You shall keep the feast of weeks to the LORD your God with a tribute of a free will offering of your hand, which you shall give according to how the LORD your God blesses you."
     },
     {
       "chapter": 16,
       "verse": 11,
-      "text": "You shall rejoice before Yahweh your God: you, your son, your daughter, your male servant, your female servant, the Levite who is within your gates, the foreigner, the fatherless, and the widow who are among you, in the place which Yahweh your God shall choose to cause his name to dwell there."
+      "text": "You shall rejoice before the LORD your God: you, your son, your daughter, your male servant, your female servant, the Levite who is within your gates, the foreigner, the fatherless, and the widow who are among you, in the place which the LORD your God shall choose to cause his name to dwell there."
     },
     {
       "chapter": 16,
@@ -2330,22 +2330,22 @@
     {
       "chapter": 16,
       "verse": 15,
-      "text": "You shall keep a feast to Yahweh your God seven days in the place which Yahweh chooses, because Yahweh your God will bless you in all your increase and in all the work of your hands, and you shall be altogether joyful."
+      "text": "You shall keep a feast to the LORD your God seven days in the place which the LORD chooses, because the LORD your God will bless you in all your increase and in all the work of your hands, and you shall be altogether joyful."
     },
     {
       "chapter": 16,
       "verse": 16,
-      "text": "Three times in a year all of your males shall appear before Yahweh your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of booths. They shall not appear before Yahweh empty."
+      "text": "Three times in a year all of your males shall appear before the LORD your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of booths. They shall not appear before the LORD empty."
     },
     {
       "chapter": 16,
       "verse": 17,
-      "text": "Every man shall give as he is able, according to Yahweh your God’s blessing which he has given you."
+      "text": "Every man shall give as he is able, according to the LORD your God’s blessing which he has given you."
     },
     {
       "chapter": 16,
       "verse": 18,
-      "text": "You shall make judges and officers in all your gates, which Yahweh your God gives you, according to your tribes; and they shall judge the people with righteous judgment."
+      "text": "You shall make judges and officers in all your gates, which the LORD your God gives you, according to your tribes; and they shall judge the people with righteous judgment."
     },
     {
       "chapter": 16,
@@ -2355,27 +2355,27 @@
     {
       "chapter": 16,
       "verse": 20,
-      "text": "You shall follow that which is altogether just, that you may live and inherit the land which Yahweh your God gives you."
+      "text": "You shall follow that which is altogether just, that you may live and inherit the land which the LORD your God gives you."
     },
     {
       "chapter": 16,
       "verse": 21,
-      "text": "You shall not plant for yourselves an Asherah of any kind of tree beside Yahweh your God’s altar, which you shall make for yourselves."
+      "text": "You shall not plant for yourselves an Asherah of any kind of tree beside the LORD your God’s altar, which you shall make for yourselves."
     },
     {
       "chapter": 16,
       "verse": 22,
-      "text": "Neither shall you set yourself up a sacred stone which Yahweh your God hates."
+      "text": "Neither shall you set yourself up a sacred stone which the LORD your God hates."
     },
     {
       "chapter": 17,
       "verse": 1,
-      "text": "You shall not sacrifice to Yahweh your God an ox or a sheep in which is a defect or anything evil; for that is an abomination to Yahweh your God."
+      "text": "You shall not sacrifice to the LORD your God an ox or a sheep in which is a defect or anything evil; for that is an abomination to the LORD your God."
     },
     {
       "chapter": 17,
       "verse": 2,
-      "text": "If there is found among you, within any of your gates which Yahweh your God gives you, a man or woman who does that which is evil in Yahweh your God’s sight in transgressing his covenant,"
+      "text": "If there is found among you, within any of your gates which the LORD your God gives you, a man or woman who does that which is evil in the LORD your God’s sight in transgressing his covenant,"
     },
     {
       "chapter": 17,
@@ -2405,7 +2405,7 @@
     {
       "chapter": 17,
       "verse": 8,
-      "text": "If there arises a matter too hard for you in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within your gates, then you shall arise, and go up to the place which Yahweh your God chooses."
+      "text": "If there arises a matter too hard for you in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within your gates, then you shall arise, and go up to the place which the LORD your God chooses."
     },
     {
       "chapter": 17,
@@ -2415,7 +2415,7 @@
     {
       "chapter": 17,
       "verse": 10,
-      "text": "You shall do according to the decisions of the verdict which they shall give you from that place which Yahweh chooses. You shall observe to do according to all that they shall teach you."
+      "text": "You shall do according to the decisions of the verdict which they shall give you from that place which the LORD chooses. You shall observe to do according to all that they shall teach you."
     },
     {
       "chapter": 17,
@@ -2425,7 +2425,7 @@
     {
       "chapter": 17,
       "verse": 12,
-      "text": "The man who does presumptuously in not listening to the priest who stands to minister there before Yahweh your God, or to the judge, even that man shall die. You shall put away the evil from Israel."
+      "text": "The man who does presumptuously in not listening to the priest who stands to minister there before the LORD your God, or to the judge, even that man shall die. You shall put away the evil from Israel."
     },
     {
       "chapter": 17,
@@ -2435,17 +2435,17 @@
     {
       "chapter": 17,
       "verse": 14,
-      "text": "When you have come to the land which Yahweh your God gives you, and possess it and dwell in it, and say, “I will set a king over me, like all the nations that are around me,”"
+      "text": "When you have come to the land which the LORD your God gives you, and possess it and dwell in it, and say, “I will set a king over me, like all the nations that are around me,”"
     },
     {
       "chapter": 17,
       "verse": 15,
-      "text": "you shall surely set him whom Yahweh your God chooses as king over yourselves. You shall set as king over you one from among your brothers. You may not put a foreigner over you, who is not your brother."
+      "text": "you shall surely set him whom the LORD your God chooses as king over yourselves. You shall set as king over you one from among your brothers. You may not put a foreigner over you, who is not your brother."
     },
     {
       "chapter": 17,
       "verse": 16,
-      "text": "Only he shall not multiply horses to himself, nor cause the people to return to Egypt, to the end that he may multiply horses; because Yahweh has said to you, “You shall not go back that way again.”"
+      "text": "Only he shall not multiply horses to himself, nor cause the people to return to Egypt, to the end that he may multiply horses; because the LORD has said to you, “You shall not go back that way again.”"
     },
     {
       "chapter": 17,
@@ -2460,7 +2460,7 @@
     {
       "chapter": 17,
       "verse": 19,
-      "text": "It shall be with him, and he shall read from it all the days of his life, that he may learn to fear Yahweh his God, to keep all the words of this law and these statutes, to do them;"
+      "text": "It shall be with him, and he shall read from it all the days of his life, that he may learn to fear the LORD his God, to keep all the words of this law and these statutes, to do them;"
     },
     {
       "chapter": 17,
@@ -2470,12 +2470,12 @@
     {
       "chapter": 18,
       "verse": 1,
-      "text": "The priests and the Levites—all the tribe of Levi—shall have no portion nor inheritance with Israel. They shall eat the offerings of Yahweh made by fire and his portion."
+      "text": "The priests and the Levites—all the tribe of Levi—shall have no portion nor inheritance with Israel. They shall eat the offerings of the LORD made by fire and his portion."
     },
     {
       "chapter": 18,
       "verse": 2,
-      "text": "They shall have no inheritance among their brothers. Yahweh is their inheritance, as he has spoken to them."
+      "text": "They shall have no inheritance among their brothers. The LORD is their inheritance, as he has spoken to them."
     },
     {
       "chapter": 18,
@@ -2490,17 +2490,17 @@
     {
       "chapter": 18,
       "verse": 5,
-      "text": "For Yahweh your God has chosen him out of all your tribes to stand to minister in Yahweh’s name, him and his sons forever."
+      "text": "For the LORD your God has chosen him out of all your tribes to stand to minister in the LORD’s name, him and his sons forever."
     },
     {
       "chapter": 18,
       "verse": 6,
-      "text": "If a Levite comes from any of your gates out of all Israel where he lives, and comes with all the desire of his soul to the place which Yahweh shall choose,"
+      "text": "If a Levite comes from any of your gates out of all Israel where he lives, and comes with all the desire of his soul to the place which the LORD shall choose,"
     },
     {
       "chapter": 18,
       "verse": 7,
-      "text": "then he shall minister in the name of Yahweh his God, as all his brothers the Levites do, who stand there before Yahweh."
+      "text": "then he shall minister in the name of the LORD his God, as all his brothers the Levites do, who stand there before the LORD."
     },
     {
       "chapter": 18,
@@ -2510,7 +2510,7 @@
     {
       "chapter": 18,
       "verse": 9,
-      "text": "When you have come into the land which Yahweh your God gives you, you shall not learn to imitate the abominations of those nations."
+      "text": "When you have come into the land which the LORD your God gives you, you shall not learn to imitate the abominations of those nations."
     },
     {
       "chapter": 18,
@@ -2525,32 +2525,32 @@
     {
       "chapter": 18,
       "verse": 12,
-      "text": "For whoever does these things is an abomination to Yahweh. Because of these abominations, Yahweh your God drives them out from before you."
+      "text": "For whoever does these things is an abomination to the LORD. Because of these abominations, the LORD your God drives them out from before you."
     },
     {
       "chapter": 18,
       "verse": 13,
-      "text": "You shall be blameless with Yahweh your God."
+      "text": "You shall be blameless with the LORD your God."
     },
     {
       "chapter": 18,
       "verse": 14,
-      "text": "For these nations that you shall dispossess listen to those who practice sorcery and to diviners; but as for you, Yahweh your God has not allowed you so to do."
+      "text": "For these nations that you shall dispossess listen to those who practice sorcery and to diviners; but as for you, the LORD your God has not allowed you so to do."
     },
     {
       "chapter": 18,
       "verse": 15,
-      "text": "Yahweh your God will raise up to you a prophet from among you, of your brothers, like me. You shall listen to him."
+      "text": "The LORD your God will raise up to you a prophet from among you, of your brothers, like me. You shall listen to him."
     },
     {
       "chapter": 18,
       "verse": 16,
-      "text": "This is according to all that you desired of Yahweh your God in Horeb in the day of the assembly, saying, “Let me not hear again Yahweh my God’s voice, neither let me see this great fire any more, that I not die.”"
+      "text": "This is according to all that you desired of the LORD your God in Horeb in the day of the assembly, saying, “Let me not hear again the LORD my God’s voice, neither let me see this great fire any more, that I not die.”"
     },
     {
       "chapter": 18,
       "verse": 17,
-      "text": "Yahweh said to me, “They have well said that which they have spoken."
+      "text": "The LORD said to me, “They have well said that which they have spoken."
     },
     {
       "chapter": 18,
@@ -2570,27 +2570,27 @@
     {
       "chapter": 18,
       "verse": 21,
-      "text": "You may say in your heart, “How shall we know the word which Yahweh has not spoken?”"
+      "text": "You may say in your heart, “How shall we know the word which the LORD has not spoken?”"
     },
     {
       "chapter": 18,
       "verse": 22,
-      "text": "When a prophet speaks in Yahweh’s name, if the thing doesn’t follow, nor happen, that is the thing which Yahweh has not spoken. The prophet has spoken it presumptuously. You shall not be afraid of him."
+      "text": "When a prophet speaks in the LORD’s name, if the thing doesn’t follow, nor happen, that is the thing which the LORD has not spoken. The prophet has spoken it presumptuously. You shall not be afraid of him."
     },
     {
       "chapter": 19,
       "verse": 1,
-      "text": "When Yahweh your God cuts off the nations whose land Yahweh your God gives you, and you succeed them and dwell in their cities and in their houses,"
+      "text": "When the LORD your God cuts off the nations whose land the LORD your God gives you, and you succeed them and dwell in their cities and in their houses,"
     },
     {
       "chapter": 19,
       "verse": 2,
-      "text": "you shall set apart three cities for yourselves in the middle of your land, which Yahweh your God gives you to possess."
+      "text": "you shall set apart three cities for yourselves in the middle of your land, which the LORD your God gives you to possess."
     },
     {
       "chapter": 19,
       "verse": 3,
-      "text": "You shall prepare the way, and divide the borders of your land which Yahweh your God causes you to inherit into three parts, that every man slayer may flee there."
+      "text": "You shall prepare the way, and divide the borders of your land which the LORD your God causes you to inherit into three parts, that every man slayer may flee there."
     },
     {
       "chapter": 19,
@@ -2615,17 +2615,17 @@
     {
       "chapter": 19,
       "verse": 8,
-      "text": "If Yahweh your God enlarges your border, as he has sworn to your fathers, and gives you all the land which he promised to give to your fathers;"
+      "text": "If the LORD your God enlarges your border, as he has sworn to your fathers, and gives you all the land which he promised to give to your fathers;"
     },
     {
       "chapter": 19,
       "verse": 9,
-      "text": "and if you keep all this commandment to do it, which I command you today, to love Yahweh your God, and to walk ever in his ways, then you shall add three cities more for yourselves, in addition to these three."
+      "text": "and if you keep all this commandment to do it, which I command you today, to love the LORD your God, and to walk ever in his ways, then you shall add three cities more for yourselves, in addition to these three."
     },
     {
       "chapter": 19,
       "verse": 10,
-      "text": "This is so that innocent blood will not be shed in the middle of your land which Yahweh your God gives you for an inheritance, leaving blood guilt on you."
+      "text": "This is so that innocent blood will not be shed in the middle of your land which the LORD your God gives you for an inheritance, leaving blood guilt on you."
     },
     {
       "chapter": 19,
@@ -2645,7 +2645,7 @@
     {
       "chapter": 19,
       "verse": 14,
-      "text": "You shall not remove your neighbor’s landmark, which they of old time have set, in your inheritance which you shall inherit, in the land that Yahweh your God gives you to possess."
+      "text": "You shall not remove your neighbor’s landmark, which they of old time have set, in your inheritance which you shall inherit, in the land that the LORD your God gives you to possess."
     },
     {
       "chapter": 19,
@@ -2660,7 +2660,7 @@
     {
       "chapter": 19,
       "verse": 17,
-      "text": "then both the men, between whom the controversy is, shall stand before Yahweh, before the priests and the judges who shall be in those days;"
+      "text": "then both the men, between whom the controversy is, shall stand before the LORD, before the priests and the judges who shall be in those days;"
     },
     {
       "chapter": 19,
@@ -2685,7 +2685,7 @@
     {
       "chapter": 20,
       "verse": 1,
-      "text": "When you go out to battle against your enemies, and see horses, chariots, and a people more numerous than you, you shall not be afraid of them; for Yahweh your God, who brought you up out of the land of Egypt, is with you."
+      "text": "When you go out to battle against your enemies, and see horses, chariots, and a people more numerous than you, you shall not be afraid of them; for the LORD your God, who brought you up out of the land of Egypt, is with you."
     },
     {
       "chapter": 20,
@@ -2700,7 +2700,7 @@
     {
       "chapter": 20,
       "verse": 4,
-      "text": "for Yahweh your God is he who goes with you, to fight for you against your enemies, to save you.”"
+      "text": "for the LORD your God is he who goes with you, to fight for you against your enemies, to save you.”"
     },
     {
       "chapter": 20,
@@ -2745,12 +2745,12 @@
     {
       "chapter": 20,
       "verse": 13,
-      "text": "When Yahweh your God delivers it into your hand, you shall strike every male of it with the edge of the sword;"
+      "text": "When the LORD your God delivers it into your hand, you shall strike every male of it with the edge of the sword;"
     },
     {
       "chapter": 20,
       "verse": 14,
-      "text": "but the women, the little ones, the livestock, and all that is in the city, even all its plunder, you shall take for plunder for yourself. You may use the plunder of your enemies, which Yahweh your God has given you."
+      "text": "but the women, the little ones, the livestock, and all that is in the city, even all its plunder, you shall take for plunder for yourself. You may use the plunder of your enemies, which the LORD your God has given you."
     },
     {
       "chapter": 20,
@@ -2760,17 +2760,17 @@
     {
       "chapter": 20,
       "verse": 16,
-      "text": "But of the cities of these peoples that Yahweh your God gives you for an inheritance, you shall save alive nothing that breathes;"
+      "text": "But of the cities of these peoples that the LORD your God gives you for an inheritance, you shall save alive nothing that breathes;"
     },
     {
       "chapter": 20,
       "verse": 17,
-      "text": "but you shall utterly destroy them: the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, as Yahweh your God has commanded you;"
+      "text": "but you shall utterly destroy them: the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, as the LORD your God has commanded you;"
     },
     {
       "chapter": 20,
       "verse": 18,
-      "text": "that they not teach you to follow all their abominations, which they have done for their gods; so would you sin against Yahweh your God."
+      "text": "that they not teach you to follow all their abominations, which they have done for their gods; so would you sin against the LORD your God."
     },
     {
       "chapter": 20,
@@ -2785,7 +2785,7 @@
     {
       "chapter": 21,
       "verse": 1,
-      "text": "If someone is found slain in the land which Yahweh your God gives you to possess, lying in the field, and it isn’t known who has struck him,"
+      "text": "If someone is found slain in the land which the LORD your God gives you to possess, lying in the field, and it isn’t known who has struck him,"
     },
     {
       "chapter": 21,
@@ -2805,7 +2805,7 @@
     {
       "chapter": 21,
       "verse": 5,
-      "text": "The priests the sons of Levi shall come near, for them Yahweh your God has chosen to minister to him, and to bless in Yahweh’s name; and according to their word shall every controversy and every assault be decided."
+      "text": "The priests the sons of Levi shall come near, for them the LORD your God has chosen to minister to him, and to bless in the LORD’s name; and according to their word shall every controversy and every assault be decided."
     },
     {
       "chapter": 21,
@@ -2820,17 +2820,17 @@
     {
       "chapter": 21,
       "verse": 8,
-      "text": "Forgive, Yahweh, your people Israel, whom you have redeemed, and don’t allow innocent blood among your people Israel.” The blood shall be forgiven them."
+      "text": "Forgive, the LORD, your people Israel, whom you have redeemed, and don’t allow innocent blood among your people Israel.” The blood shall be forgiven them."
     },
     {
       "chapter": 21,
       "verse": 9,
-      "text": "So you shall put away the innocent blood from among you, when you shall do that which is right in Yahweh’s eyes."
+      "text": "So you shall put away the innocent blood from among you, when you shall do that which is right in the LORD’s eyes."
     },
     {
       "chapter": 21,
       "verse": 10,
-      "text": "When you go out to battle against your enemies, and Yahweh your God delivers them into your hands and you carry them away captive,"
+      "text": "When you go out to battle against your enemies, and the LORD your God delivers them into your hands and you carry them away captive,"
     },
     {
       "chapter": 21,
@@ -2895,7 +2895,7 @@
     {
       "chapter": 21,
       "verse": 23,
-      "text": "his body shall not remain all night on the tree, but you shall surely bury him the same day; for he who is hanged is accursed of God. Don’t defile your land which Yahweh your God gives you for an inheritance."
+      "text": "his body shall not remain all night on the tree, but you shall surely bury him the same day; for he who is hanged is accursed of God. Don’t defile your land which the LORD your God gives you for an inheritance."
     },
     {
       "chapter": 22,
@@ -2920,7 +2920,7 @@
     {
       "chapter": 22,
       "verse": 5,
-      "text": "A woman shall not wear men’s clothing, neither shall a man put on women’s clothing; for whoever does these things is an abomination to Yahweh your God."
+      "text": "A woman shall not wear men’s clothing, neither shall a man put on women’s clothing; for whoever does these things is an abomination to the LORD your God."
     },
     {
       "chapter": 22,
@@ -3050,17 +3050,17 @@
     {
       "chapter": 23,
       "verse": 1,
-      "text": "He who is emasculated by crushing or cutting shall not enter into Yahweh’s assembly."
+      "text": "He who is emasculated by crushing or cutting shall not enter into the LORD’s assembly."
     },
     {
       "chapter": 23,
       "verse": 2,
-      "text": "A person born of a forbidden union shall not enter into Yahweh’s assembly; even to the tenth generation shall no one of his enter into Yahweh’s assembly."
+      "text": "A person born of a forbidden union shall not enter into the LORD’s assembly; even to the tenth generation shall no one of his enter into the LORD’s assembly."
     },
     {
       "chapter": 23,
       "verse": 3,
-      "text": "An Ammonite or a Moabite shall not enter into Yahweh’s assembly; even to the tenth generation shall no one belonging to them enter into Yahweh’s assembly forever,"
+      "text": "An Ammonite or a Moabite shall not enter into the LORD’s assembly; even to the tenth generation shall no one belonging to them enter into the LORD’s assembly forever,"
     },
     {
       "chapter": 23,
@@ -3070,7 +3070,7 @@
     {
       "chapter": 23,
       "verse": 5,
-      "text": "Nevertheless Yahweh your God wouldn’t listen to Balaam, but Yahweh your God turned the curse into a blessing to you, because Yahweh your God loved you."
+      "text": "Nevertheless the LORD your God wouldn’t listen to Balaam, but the LORD your God turned the curse into a blessing to you, because the LORD your God loved you."
     },
     {
       "chapter": 23,
@@ -3085,7 +3085,7 @@
     {
       "chapter": 23,
       "verse": 8,
-      "text": "The children of the third generation who are born to them may enter into Yahweh’s assembly."
+      "text": "The children of the third generation who are born to them may enter into the LORD’s assembly."
     },
     {
       "chapter": 23,
@@ -3115,7 +3115,7 @@
     {
       "chapter": 23,
       "verse": 14,
-      "text": "for Yahweh your God walks in the middle of your camp, to deliver you, and to give up your enemies before you. Therefore your camp shall be holy, that he may not see an unclean thing in you, and turn away from you."
+      "text": "for the LORD your God walks in the middle of your camp, to deliver you, and to give up your enemies before you. Therefore your camp shall be holy, that he may not see an unclean thing in you, and turn away from you."
     },
     {
       "chapter": 23,
@@ -3135,7 +3135,7 @@
     {
       "chapter": 23,
       "verse": 18,
-      "text": "You shall not bring the hire of a prostitute, or the wages of a male prostitute, into the house of Yahweh your God for any vow; for both of these are an abomination to Yahweh your God."
+      "text": "You shall not bring the hire of a prostitute, or the wages of a male prostitute, into the house of the LORD your God for any vow; for both of these are an abomination to the LORD your God."
     },
     {
       "chapter": 23,
@@ -3145,12 +3145,12 @@
     {
       "chapter": 23,
       "verse": 20,
-      "text": "You may charge a foreigner interest; but you shall not charge your brother interest, that Yahweh your God may bless you in all that you put your hand to, in the land where you go in to possess it."
+      "text": "You may charge a foreigner interest; but you shall not charge your brother interest, that the LORD your God may bless you in all that you put your hand to, in the land where you go in to possess it."
     },
     {
       "chapter": 23,
       "verse": 21,
-      "text": "When you vow a vow to Yahweh your God, you shall not be slack to pay it, for Yahweh your God will surely require it of you; and it would be sin in you."
+      "text": "When you vow a vow to the LORD your God, you shall not be slack to pay it, for the LORD your God will surely require it of you; and it would be sin in you."
     },
     {
       "chapter": 23,
@@ -3160,7 +3160,7 @@
     {
       "chapter": 23,
       "verse": 23,
-      "text": "You shall observe and do that which has gone out of your lips. Whatever you have vowed to Yahweh your God as a free will offering, which you have promised with your mouth, you must do."
+      "text": "You shall observe and do that which has gone out of your lips. Whatever you have vowed to the LORD your God as a free will offering, which you have promised with your mouth, you must do."
     },
     {
       "chapter": 23,
@@ -3190,7 +3190,7 @@
     {
       "chapter": 24,
       "verse": 4,
-      "text": "her former husband, who sent her away, may not take her again to be his wife after she is defiled; for that would be an abomination to Yahweh. You shall not cause the land to sin, which Yahweh your God gives you for an inheritance."
+      "text": "her former husband, who sent her away, may not take her again to be his wife after she is defiled; for that would be an abomination to the LORD. You shall not cause the land to sin, which the LORD your God gives you for an inheritance."
     },
     {
       "chapter": 24,
@@ -3215,7 +3215,7 @@
     {
       "chapter": 24,
       "verse": 9,
-      "text": "Remember what Yahweh your God did to Miriam, by the way as you came out of Egypt."
+      "text": "Remember what the LORD your God did to Miriam, by the way as you came out of Egypt."
     },
     {
       "chapter": 24,
@@ -3235,7 +3235,7 @@
     {
       "chapter": 24,
       "verse": 13,
-      "text": "You shall surely restore to him the pledge when the sun goes down, that he may sleep in his garment and bless you. It shall be righteousness to you before Yahweh your God."
+      "text": "You shall surely restore to him the pledge when the sun goes down, that he may sleep in his garment and bless you. It shall be righteousness to you before the LORD your God."
     },
     {
       "chapter": 24,
@@ -3245,7 +3245,7 @@
     {
       "chapter": 24,
       "verse": 15,
-      "text": "In his day you shall give him his wages, neither shall the sun go down on it, for he is poor and sets his heart on it, lest he cry against you to Yahweh, and it be sin to you."
+      "text": "In his day you shall give him his wages, neither shall the sun go down on it, for he is poor and sets his heart on it, lest he cry against you to the LORD, and it be sin to you."
     },
     {
       "chapter": 24,
@@ -3260,12 +3260,12 @@
     {
       "chapter": 24,
       "verse": 18,
-      "text": "but you shall remember that you were a slave in Egypt, and Yahweh your God redeemed you there. Therefore I command you to do this thing."
+      "text": "but you shall remember that you were a slave in Egypt, and the LORD your God redeemed you there. Therefore I command you to do this thing."
     },
     {
       "chapter": 24,
       "verse": 19,
-      "text": "When you reap your harvest in your field, and have forgotten a sheaf in the field, you shall not go again to get it. It shall be for the foreigner, for the fatherless, and for the widow, that Yahweh your God may bless you in all the work of your hands."
+      "text": "When you reap your harvest in your field, and have forgotten a sheaf in the field, you shall not go again to get it. It shall be for the foreigner, for the fatherless, and for the widow, that the LORD your God may bless you in all the work of your hands."
     },
     {
       "chapter": 24,
@@ -3355,12 +3355,12 @@
     {
       "chapter": 25,
       "verse": 15,
-      "text": "You shall have a perfect and just weight. You shall have a perfect and just measure, that your days may be long in the land which Yahweh your God gives you."
+      "text": "You shall have a perfect and just weight. You shall have a perfect and just measure, that your days may be long in the land which the LORD your God gives you."
     },
     {
       "chapter": 25,
       "verse": 16,
-      "text": "For all who do such things, all who do unrighteously, are an abomination to Yahweh your God."
+      "text": "For all who do such things, all who do unrighteously, are an abomination to the LORD your God."
     },
     {
       "chapter": 25,
@@ -3375,32 +3375,32 @@
     {
       "chapter": 25,
       "verse": 19,
-      "text": "Therefore it shall be, when Yahweh your God has given you rest from all your enemies all around, in the land which Yahweh your God gives you for an inheritance to possess it, that you shall blot out the memory of Amalek from under the sky. You shall not forget."
+      "text": "Therefore it shall be, when the LORD your God has given you rest from all your enemies all around, in the land which the LORD your God gives you for an inheritance to possess it, that you shall blot out the memory of Amalek from under the sky. You shall not forget."
     },
     {
       "chapter": 26,
       "verse": 1,
-      "text": "It shall be, when you have come in to the land which Yahweh your God gives you for an inheritance, possess it, and dwell in it,"
+      "text": "It shall be, when you have come in to the land which the LORD your God gives you for an inheritance, possess it, and dwell in it,"
     },
     {
       "chapter": 26,
       "verse": 2,
-      "text": "that you shall take some of the first of all the fruit of the ground, which you shall bring in from your land that Yahweh your God gives you. You shall put it in a basket, and shall go to the place which Yahweh your God shall choose to cause his name to dwell there."
+      "text": "that you shall take some of the first of all the fruit of the ground, which you shall bring in from your land that the LORD your God gives you. You shall put it in a basket, and shall go to the place which the LORD your God shall choose to cause his name to dwell there."
     },
     {
       "chapter": 26,
       "verse": 3,
-      "text": "You shall come to the priest who shall be in those days, and tell him, “I profess today to Yahweh your God, that I have come to the land which Yahweh swore to our fathers to give us.”"
+      "text": "You shall come to the priest who shall be in those days, and tell him, “I profess today to the LORD your God, that I have come to the land which the LORD swore to our fathers to give us.”"
     },
     {
       "chapter": 26,
       "verse": 4,
-      "text": "The priest shall take the basket out of your hand, and set it down before Yahweh your God’s altar."
+      "text": "The priest shall take the basket out of your hand, and set it down before the LORD your God’s altar."
     },
     {
       "chapter": 26,
       "verse": 5,
-      "text": "You shall answer and say before Yahweh your God, “My father was a Syrian ready to perish. He went down into Egypt, and lived there, few in number. There he became a great, mighty, and populous nation."
+      "text": "You shall answer and say before the LORD your God, “My father was a Syrian ready to perish. He went down into Egypt, and lived there, few in number. There he became a great, mighty, and populous nation."
     },
     {
       "chapter": 26,
@@ -3410,12 +3410,12 @@
     {
       "chapter": 26,
       "verse": 7,
-      "text": "Then we cried to Yahweh, the God of our fathers. Yahweh heard our voice, and saw our affliction, our toil, and our oppression."
+      "text": "Then we cried to the LORD, the God of our fathers. The LORD heard our voice, and saw our affliction, our toil, and our oppression."
     },
     {
       "chapter": 26,
       "verse": 8,
-      "text": "Yahweh brought us out of Egypt with a mighty hand, with an outstretched arm, with great terror, with signs, and with wonders;"
+      "text": "The LORD brought us out of Egypt with a mighty hand, with an outstretched arm, with great terror, with signs, and with wonders;"
     },
     {
       "chapter": 26,
@@ -3425,12 +3425,12 @@
     {
       "chapter": 26,
       "verse": 10,
-      "text": "Now, behold, I have brought the first of the fruit of the ground, which you, Yahweh, have given me.” You shall set it down before Yahweh your God, and worship before Yahweh your God."
+      "text": "Now, behold, I have brought the first of the fruit of the ground, which you, the LORD, have given me.” You shall set it down before the LORD your God, and worship before the LORD your God."
     },
     {
       "chapter": 26,
       "verse": 11,
-      "text": "You shall rejoice in all the good which Yahweh your God has given to you, and to your house, you, and the Levite, and the foreigner who is among you."
+      "text": "You shall rejoice in all the good which the LORD your God has given to you, and to your house, you, and the Levite, and the foreigner who is among you."
     },
     {
       "chapter": 26,
@@ -3440,12 +3440,12 @@
     {
       "chapter": 26,
       "verse": 13,
-      "text": "You shall say before Yahweh your God, “I have put away the holy things out of my house, and also have given them to the Levite, to the foreigner, to the fatherless, and to the widow, according to all your commandment which you have commanded me. I have not transgressed any of your commandments, neither have I forgotten them."
+      "text": "You shall say before the LORD your God, “I have put away the holy things out of my house, and also have given them to the Levite, to the foreigner, to the fatherless, and to the widow, according to all your commandment which you have commanded me. I have not transgressed any of your commandments, neither have I forgotten them."
     },
     {
       "chapter": 26,
       "verse": 14,
-      "text": "I have not eaten of it in my mourning, neither have I removed any of it while I was unclean, nor given of it for the dead. I have listened to Yahweh my God’s voice. I have done according to all that you have commanded me."
+      "text": "I have not eaten of it in my mourning, neither have I removed any of it while I was unclean, nor given of it for the dead. I have listened to the LORD my God’s voice. I have done according to all that you have commanded me."
     },
     {
       "chapter": 26,
@@ -3455,22 +3455,22 @@
     {
       "chapter": 26,
       "verse": 16,
-      "text": "Today Yahweh your God commands you to do these statutes and ordinances. You shall therefore keep and do them with all your heart and with all your soul."
+      "text": "Today the LORD your God commands you to do these statutes and ordinances. You shall therefore keep and do them with all your heart and with all your soul."
     },
     {
       "chapter": 26,
       "verse": 17,
-      "text": "You have declared today that Yahweh is your God, and that you would walk in his ways, keep his statutes, his commandments, and his ordinances, and listen to his voice."
+      "text": "You have declared today that the LORD is your God, and that you would walk in his ways, keep his statutes, his commandments, and his ordinances, and listen to his voice."
     },
     {
       "chapter": 26,
       "verse": 18,
-      "text": "Yahweh has declared today that you are a people for his own possession, as he has promised you, and that you should keep all his commandments."
+      "text": "The LORD has declared today that you are a people for his own possession, as he has promised you, and that you should keep all his commandments."
     },
     {
       "chapter": 26,
       "verse": 19,
-      "text": "He will make you high above all nations that he has made, in praise, in name, and in honor, and that you may be a holy people to Yahweh your God, as he has spoken."
+      "text": "He will make you high above all nations that he has made, in praise, in name, and in honor, and that you may be a holy people to the LORD your God, as he has spoken."
     },
     {
       "chapter": 27,
@@ -3480,12 +3480,12 @@
     {
       "chapter": 27,
       "verse": 2,
-      "text": "It shall be on the day when you shall pass over the Jordan to the land which Yahweh your God gives you, that you shall set yourself up great stones, and coat them with plaster."
+      "text": "It shall be on the day when you shall pass over the Jordan to the land which the LORD your God gives you, that you shall set yourself up great stones, and coat them with plaster."
     },
     {
       "chapter": 27,
       "verse": 3,
-      "text": "You shall write on them all the words of this law, when you have passed over, that you may go in to the land which Yahweh your God gives you, a land flowing with milk and honey, as Yahweh, the God of your fathers, has promised you."
+      "text": "You shall write on them all the words of this law, when you have passed over, that you may go in to the land which the LORD your God gives you, a land flowing with milk and honey, as the LORD, the God of your fathers, has promised you."
     },
     {
       "chapter": 27,
@@ -3495,17 +3495,17 @@
     {
       "chapter": 27,
       "verse": 5,
-      "text": "There you shall build an altar to Yahweh your God, an altar of stones. You shall not use any iron tool on them."
+      "text": "There you shall build an altar to the LORD your God, an altar of stones. You shall not use any iron tool on them."
     },
     {
       "chapter": 27,
       "verse": 6,
-      "text": "You shall build Yahweh your God’s altar of uncut stones. You shall offer burnt offerings on it to Yahweh your God."
+      "text": "You shall build the LORD your God’s altar of uncut stones. You shall offer burnt offerings on it to the LORD your God."
     },
     {
       "chapter": 27,
       "verse": 7,
-      "text": "You shall sacrifice peace offerings, and shall eat there. You shall rejoice before Yahweh your God."
+      "text": "You shall sacrifice peace offerings, and shall eat there. You shall rejoice before the LORD your God."
     },
     {
       "chapter": 27,
@@ -3515,12 +3515,12 @@
     {
       "chapter": 27,
       "verse": 9,
-      "text": "Moses and the Levitical priests spoke to all Israel, saying, “Be silent and listen, Israel! Today you have become the people of Yahweh your God."
+      "text": "Moses and the Levitical priests spoke to all Israel, saying, “Be silent and listen, Israel! Today you have become the people of the LORD your God."
     },
     {
       "chapter": 27,
       "verse": 10,
-      "text": "You shall therefore obey Yahweh your God’s voice, and do his commandments and his statutes, which I command you today.”"
+      "text": "You shall therefore obey the LORD your God’s voice, and do his commandments and his statutes, which I command you today.”"
     },
     {
       "chapter": 27,
@@ -3545,7 +3545,7 @@
     {
       "chapter": 27,
       "verse": 15,
-      "text": "‘Cursed is the man who makes an engraved or molten image, an abomination to Yahweh, the work of the hands of the craftsman, and sets it up in secret.’ All the people shall answer and say, ‘Amen.’"
+      "text": "‘Cursed is the man who makes an engraved or molten image, an abomination to the LORD, the work of the hands of the craftsman, and sets it up in secret.’ All the people shall answer and say, ‘Amen.’"
     },
     {
       "chapter": 27,
@@ -3605,12 +3605,12 @@
     {
       "chapter": 28,
       "verse": 1,
-      "text": "It shall happen, if you shall listen diligently to Yahweh your God’s voice, to observe to do all his commandments which I command you today, that Yahweh your God will set you high above all the nations of the earth."
+      "text": "It shall happen, if you shall listen diligently to the LORD your God’s voice, to observe to do all his commandments which I command you today, that the LORD your God will set you high above all the nations of the earth."
     },
     {
       "chapter": 28,
       "verse": 2,
-      "text": "All these blessings will come upon you, and overtake you, if you listen to Yahweh your God’s voice."
+      "text": "All these blessings will come upon you, and overtake you, if you listen to the LORD your God’s voice."
     },
     {
       "chapter": 28,
@@ -3635,37 +3635,37 @@
     {
       "chapter": 28,
       "verse": 7,
-      "text": "Yahweh will cause your enemies who rise up against you to be struck before you. They will come out against you one way, and will flee before you seven ways."
+      "text": "The LORD will cause your enemies who rise up against you to be struck before you. They will come out against you one way, and will flee before you seven ways."
     },
     {
       "chapter": 28,
       "verse": 8,
-      "text": "Yahweh will command the blessing on you in your barns, and in all that you put your hand to. He will bless you in the land which Yahweh your God gives you."
+      "text": "The LORD will command the blessing on you in your barns, and in all that you put your hand to. He will bless you in the land which the LORD your God gives you."
     },
     {
       "chapter": 28,
       "verse": 9,
-      "text": "Yahweh will establish you for a holy people to himself, as he has sworn to you, if you shall keep the commandments of Yahweh your God, and walk in his ways."
+      "text": "The LORD will establish you for a holy people to himself, as he has sworn to you, if you shall keep the commandments of the LORD your God, and walk in his ways."
     },
     {
       "chapter": 28,
       "verse": 10,
-      "text": "All the peoples of the earth shall see that you are called by Yahweh’s name, and they will be afraid of you."
+      "text": "All the peoples of the earth shall see that you are called by the LORD’s name, and they will be afraid of you."
     },
     {
       "chapter": 28,
       "verse": 11,
-      "text": "Yahweh will grant you abundant prosperity in the fruit of your body, in the fruit of your livestock, and in the fruit of your ground, in the land which Yahweh swore to your fathers to give you."
+      "text": "The LORD will grant you abundant prosperity in the fruit of your body, in the fruit of your livestock, and in the fruit of your ground, in the land which the LORD swore to your fathers to give you."
     },
     {
       "chapter": 28,
       "verse": 12,
-      "text": "Yahweh will open to you his good treasure in the sky, to give the rain of your land in its season, and to bless all the work of your hand. You will lend to many nations, and you will not borrow."
+      "text": "The LORD will open to you his good treasure in the sky, to give the rain of your land in its season, and to bless all the work of your hand. You will lend to many nations, and you will not borrow."
     },
     {
       "chapter": 28,
       "verse": 13,
-      "text": "Yahweh will make you the head, and not the tail. You will be above only, and you will not be beneath, if you listen to the commandments of Yahweh your God which I command you today, to observe and to do,"
+      "text": "The LORD will make you the head, and not the tail. You will be above only, and you will not be beneath, if you listen to the commandments of the LORD your God which I command you today, to observe and to do,"
     },
     {
       "chapter": 28,
@@ -3675,7 +3675,7 @@
     {
       "chapter": 28,
       "verse": 15,
-      "text": "But it shall come to pass, if you will not listen to Yahweh your God’s voice, to observe to do all his commandments and his statutes which I command you today, that all these curses will come on you and overtake you."
+      "text": "But it shall come to pass, if you will not listen to the LORD your God’s voice, to observe to do all his commandments and his statutes which I command you today, that all these curses will come on you and overtake you."
     },
     {
       "chapter": 28,
@@ -3700,17 +3700,17 @@
     {
       "chapter": 28,
       "verse": 20,
-      "text": "Yahweh will send on you cursing, confusion, and rebuke in all that you put your hand to do, until you are destroyed and until you perish quickly, because of the evil of your doings, by which you have forsaken me."
+      "text": "The LORD will send on you cursing, confusion, and rebuke in all that you put your hand to do, until you are destroyed and until you perish quickly, because of the evil of your doings, by which you have forsaken me."
     },
     {
       "chapter": 28,
       "verse": 21,
-      "text": "Yahweh will make the pestilence cling to you, until he has consumed you from off the land where you go in to possess it."
+      "text": "The LORD will make the pestilence cling to you, until he has consumed you from off the land where you go in to possess it."
     },
     {
       "chapter": 28,
       "verse": 22,
-      "text": "Yahweh will strike you with consumption, with fever, with inflammation, with fiery heat, with the sword, with blight, and with mildew. They will pursue you until you perish."
+      "text": "The LORD will strike you with consumption, with fever, with inflammation, with fiery heat, with the sword, with blight, and with mildew. They will pursue you until you perish."
     },
     {
       "chapter": 28,
@@ -3720,12 +3720,12 @@
     {
       "chapter": 28,
       "verse": 24,
-      "text": "Yahweh will make the rain of your land powder and dust. It will come down on you from the sky, until you are destroyed."
+      "text": "The LORD will make the rain of your land powder and dust. It will come down on you from the sky, until you are destroyed."
     },
     {
       "chapter": 28,
       "verse": 25,
-      "text": "Yahweh will cause you to be struck before your enemies. You will go out one way against them, and will flee seven ways before them. You will be tossed back and forth among all the kingdoms of the earth."
+      "text": "The LORD will cause you to be struck before your enemies. You will go out one way against them, and will flee seven ways before them. You will be tossed back and forth among all the kingdoms of the earth."
     },
     {
       "chapter": 28,
@@ -3735,12 +3735,12 @@
     {
       "chapter": 28,
       "verse": 27,
-      "text": "Yahweh will strike you with the boils of Egypt, with the tumors, with the scurvy, and with the itch, of which you can not be healed."
+      "text": "The LORD will strike you with the boils of Egypt, with the tumors, with the scurvy, and with the itch, of which you can not be healed."
     },
     {
       "chapter": 28,
       "verse": 28,
-      "text": "Yahweh will strike you with madness, with blindness, and with astonishment of heart."
+      "text": "The LORD will strike you with madness, with blindness, and with astonishment of heart."
     },
     {
       "chapter": 28,
@@ -3775,17 +3775,17 @@
     {
       "chapter": 28,
       "verse": 35,
-      "text": "Yahweh will strike you in the knees and in the legs with a sore boil, of which you cannot be healed, from the sole of your foot to the crown of your head."
+      "text": "The LORD will strike you in the knees and in the legs with a sore boil, of which you cannot be healed, from the sole of your foot to the crown of your head."
     },
     {
       "chapter": 28,
       "verse": 36,
-      "text": "Yahweh will bring you, and your king whom you will set over yourselves, to a nation that you have not known, you nor your fathers. There you will serve other gods of wood and stone."
+      "text": "The LORD will bring you, and your king whom you will set over yourselves, to a nation that you have not known, you nor your fathers. There you will serve other gods of wood and stone."
     },
     {
       "chapter": 28,
       "verse": 37,
-      "text": "You will become an astonishment, a proverb, and a byword among all the peoples where Yahweh will lead you away."
+      "text": "You will become an astonishment, a proverb, and a byword among all the peoples where the LORD will lead you away."
     },
     {
       "chapter": 28,
@@ -3825,7 +3825,7 @@
     {
       "chapter": 28,
       "verse": 45,
-      "text": "All these curses will come on you, and will pursue you and overtake you, until you are destroyed, because you didn’t listen to Yahweh your God’s voice, to keep his commandments and his statutes which he commanded you."
+      "text": "All these curses will come on you, and will pursue you and overtake you, until you are destroyed, because you didn’t listen to the LORD your God’s voice, to keep his commandments and his statutes which he commanded you."
     },
     {
       "chapter": 28,
@@ -3835,17 +3835,17 @@
     {
       "chapter": 28,
       "verse": 47,
-      "text": "Because you didn’t serve Yahweh your God with joyfulness and with gladness of heart, by reason of the abundance of all things;"
+      "text": "Because you didn’t serve the LORD your God with joyfulness and with gladness of heart, by reason of the abundance of all things;"
     },
     {
       "chapter": 28,
       "verse": 48,
-      "text": "therefore you will serve your enemies whom Yahweh sends against you, in hunger, in thirst, in nakedness, and in lack of all things. He will put an iron yoke on your neck until he has destroyed you."
+      "text": "therefore you will serve your enemies whom the LORD sends against you, in hunger, in thirst, in nakedness, and in lack of all things. He will put an iron yoke on your neck until he has destroyed you."
     },
     {
       "chapter": 28,
       "verse": 49,
-      "text": "Yahweh will bring a nation against you from far away, from the end of the earth, as the eagle flies: a nation whose language you will not understand,"
+      "text": "The LORD will bring a nation against you from far away, from the end of the earth, as the eagle flies: a nation whose language you will not understand,"
     },
     {
       "chapter": 28,
@@ -3860,12 +3860,12 @@
     {
       "chapter": 28,
       "verse": 52,
-      "text": "They will besiege you in all your gates until your high and fortified walls in which you trusted come down throughout all your land. They will besiege you in all your gates throughout all your land which Yahweh your God has given you."
+      "text": "They will besiege you in all your gates until your high and fortified walls in which you trusted come down throughout all your land. They will besiege you in all your gates throughout all your land which the LORD your God has given you."
     },
     {
       "chapter": 28,
       "verse": 53,
-      "text": "You will eat the fruit of your own body, the flesh of your sons and of your daughters, whom Yahweh your God has given you, in the siege and in the distress with which your enemies will distress you."
+      "text": "You will eat the fruit of your own body, the flesh of your sons and of your daughters, whom the LORD your God has given you, in the siege and in the distress with which your enemies will distress you."
     },
     {
       "chapter": 28,
@@ -3895,7 +3895,7 @@
     {
       "chapter": 28,
       "verse": 59,
-      "text": "then Yahweh will make your plagues and the plagues of your offspring fearful, even great plagues, and of long duration, and severe sicknesses, and of long duration."
+      "text": "then the LORD will make your plagues and the plagues of your offspring fearful, even great plagues, and of long duration, and severe sicknesses, and of long duration."
     },
     {
       "chapter": 28,
@@ -3905,27 +3905,27 @@
     {
       "chapter": 28,
       "verse": 61,
-      "text": "Also every sickness and every plague which is not written in the book of this law, Yahweh will bring them on you until you are destroyed."
+      "text": "Also every sickness and every plague which is not written in the book of this law, the LORD will bring them on you until you are destroyed."
     },
     {
       "chapter": 28,
       "verse": 62,
-      "text": "You will be left few in number, even though you were as the stars of the sky for multitude, because you didn’t listen to Yahweh your God’s voice."
+      "text": "You will be left few in number, even though you were as the stars of the sky for multitude, because you didn’t listen to the LORD your God’s voice."
     },
     {
       "chapter": 28,
       "verse": 63,
-      "text": "It will happen that as Yahweh rejoiced over you to do you good, and to multiply you, so Yahweh will rejoice over you to cause you to perish and to destroy you. You will be plucked from the land that you are going in to possess."
+      "text": "It will happen that as the LORD rejoiced over you to do you good, and to multiply you, so the LORD will rejoice over you to cause you to perish and to destroy you. You will be plucked from the land that you are going in to possess."
     },
     {
       "chapter": 28,
       "verse": 64,
-      "text": "Yahweh will scatter you among all peoples, from one end of the earth to the other end of the earth. There you will serve other gods which you have not known, you nor your fathers, even wood and stone."
+      "text": "The LORD will scatter you among all peoples, from one end of the earth to the other end of the earth. There you will serve other gods which you have not known, you nor your fathers, even wood and stone."
     },
     {
       "chapter": 28,
       "verse": 65,
-      "text": "Among these nations you will find no ease, and there will be no rest for the sole of your foot; but Yahweh will give you there a trembling heart, failing of eyes, and pining of soul."
+      "text": "Among these nations you will find no ease, and there will be no rest for the sole of your foot; but the LORD will give you there a trembling heart, failing of eyes, and pining of soul."
     },
     {
       "chapter": 28,
@@ -3940,17 +3940,17 @@
     {
       "chapter": 28,
       "verse": 68,
-      "text": "Yahweh will bring you into Egypt again with ships, by the way of which I told you that you would never see it again. There you will offer yourselves to your enemies for male and female slaves, and nobody will buy you."
+      "text": "The LORD will bring you into Egypt again with ships, by the way of which I told you that you would never see it again. There you will offer yourselves to your enemies for male and female slaves, and nobody will buy you."
     },
     {
       "chapter": 29,
       "verse": 1,
-      "text": "These are the words of the covenant which Yahweh commanded Moses to make with the children of Israel in the land of Moab, in addition to the covenant which he made with them in Horeb."
+      "text": "These are the words of the covenant which the LORD commanded Moses to make with the children of Israel in the land of Moab, in addition to the covenant which he made with them in Horeb."
     },
     {
       "chapter": 29,
       "verse": 2,
-      "text": "Moses called to all Israel, and said to them: Your eyes have seen all that Yahweh did in the land of Egypt to Pharaoh, and to all his servants, and to all his land;"
+      "text": "Moses called to all Israel, and said to them: Your eyes have seen all that the LORD did in the land of Egypt to Pharaoh, and to all his servants, and to all his land;"
     },
     {
       "chapter": 29,
@@ -3960,7 +3960,7 @@
     {
       "chapter": 29,
       "verse": 4,
-      "text": "But Yahweh has not given you a heart to know, eyes to see, and ears to hear, to this day."
+      "text": "But the LORD has not given you a heart to know, eyes to see, and ears to hear, to this day."
     },
     {
       "chapter": 29,
@@ -3970,7 +3970,7 @@
     {
       "chapter": 29,
       "verse": 6,
-      "text": "You have not eaten bread, neither have you drunk wine or strong drink, that you may know that I am Yahweh your God."
+      "text": "You have not eaten bread, neither have you drunk wine or strong drink, that you may know that I am the LORD your God."
     },
     {
       "chapter": 29,
@@ -3990,7 +3990,7 @@
     {
       "chapter": 29,
       "verse": 10,
-      "text": "All of you stand today in the presence of Yahweh your God: your heads, your tribes, your elders, and your officers, even all the men of Israel,"
+      "text": "All of you stand today in the presence of the LORD your God: your heads, your tribes, your elders, and your officers, even all the men of Israel,"
     },
     {
       "chapter": 29,
@@ -4000,7 +4000,7 @@
     {
       "chapter": 29,
       "verse": 12,
-      "text": "that you may enter into the covenant of Yahweh your God, and into his oath, which Yahweh your God makes with you today,"
+      "text": "that you may enter into the covenant of the LORD your God, and into his oath, which the LORD your God makes with you today,"
     },
     {
       "chapter": 29,
@@ -4015,7 +4015,7 @@
     {
       "chapter": 29,
       "verse": 15,
-      "text": "but with those who stand here with us today before Yahweh our God, and also with those who are not here with us today"
+      "text": "but with those who stand here with us today before the LORD our God, and also with those who are not here with us today"
     },
     {
       "chapter": 29,
@@ -4030,7 +4030,7 @@
     {
       "chapter": 29,
       "verse": 18,
-      "text": "lest there should be among you man, woman, family, or tribe whose heart turns away today from Yahweh our God, to go to serve the gods of those nations; lest there should be among you a root that produces bitter poison;"
+      "text": "lest there should be among you man, woman, family, or tribe whose heart turns away today from the LORD our God, to go to serve the gods of those nations; lest there should be among you a root that produces bitter poison;"
     },
     {
       "chapter": 29,
@@ -4040,32 +4040,32 @@
     {
       "chapter": 29,
       "verse": 20,
-      "text": "Yahweh will not pardon him, but then Yahweh’s anger and his jealousy will smoke against that man, and all the curse that is written in this book will fall on him, and Yahweh will blot out his name from under the sky."
+      "text": "The LORD will not pardon him, but then the LORD’s anger and his jealousy will smoke against that man, and all the curse that is written in this book will fall on him, and the LORD will blot out his name from under the sky."
     },
     {
       "chapter": 29,
       "verse": 21,
-      "text": "Yahweh will set him apart for evil out of all the tribes of Israel, according to all the curses of the covenant written in this book of the law."
+      "text": "The LORD will set him apart for evil out of all the tribes of Israel, according to all the curses of the covenant written in this book of the law."
     },
     {
       "chapter": 29,
       "verse": 22,
-      "text": "The generation to come—your children who will rise up after you, and the foreigner who will come from a far land—will say, when they see the plagues of that land, and the sicknesses with which Yahweh has made it sick,"
+      "text": "The generation to come—your children who will rise up after you, and the foreigner who will come from a far land—will say, when they see the plagues of that land, and the sicknesses with which the LORD has made it sick,"
     },
     {
       "chapter": 29,
       "verse": 23,
-      "text": "that all of its land is sulfur, salt, and burning, that it is not sown, doesn’t produce, nor does any grass grow in it, like the overthrow of Sodom, Gomorrah, Admah, and Zeboiim, which Yahweh overthrew in his anger, and in his wrath."
+      "text": "that all of its land is sulfur, salt, and burning, that it is not sown, doesn’t produce, nor does any grass grow in it, like the overthrow of Sodom, Gomorrah, Admah, and Zeboiim, which the LORD overthrew in his anger, and in his wrath."
     },
     {
       "chapter": 29,
       "verse": 24,
-      "text": "Even all the nations will say, “Why has Yahweh done this to this land? What does the heat of this great anger mean?”"
+      "text": "Even all the nations will say, “Why has the LORD done this to this land? What does the heat of this great anger mean?”"
     },
     {
       "chapter": 29,
       "verse": 25,
-      "text": "Then men will say, “Because they abandoned the covenant of Yahweh, the God of their fathers, which he made with them when he brought them out of the land of Egypt,"
+      "text": "Then men will say, “Because they abandoned the covenant of the LORD, the God of their fathers, which he made with them when he brought them out of the land of Egypt,"
     },
     {
       "chapter": 29,
@@ -4075,67 +4075,67 @@
     {
       "chapter": 29,
       "verse": 27,
-      "text": "Therefore Yahweh’s anger burned against this land, to bring on it all the curses that are written in this book."
+      "text": "Therefore the LORD’s anger burned against this land, to bring on it all the curses that are written in this book."
     },
     {
       "chapter": 29,
       "verse": 28,
-      "text": "Yahweh rooted them out of their land in anger, in wrath, and in great indignation, and thrust them into another land, as it is today.”"
+      "text": "The LORD rooted them out of their land in anger, in wrath, and in great indignation, and thrust them into another land, as it is today.”"
     },
     {
       "chapter": 29,
       "verse": 29,
-      "text": "The secret things belong to Yahweh our God; but the things that are revealed belong to us and to our children forever, that we may do all the words of this law."
+      "text": "The secret things belong to the LORD our God; but the things that are revealed belong to us and to our children forever, that we may do all the words of this law."
     },
     {
       "chapter": 30,
       "verse": 1,
-      "text": "It shall happen, when all these things have come on you, the blessing and the curse, which I have set before you, and you shall call them to mind among all the nations where Yahweh your God has driven you,"
+      "text": "It shall happen, when all these things have come on you, the blessing and the curse, which I have set before you, and you shall call them to mind among all the nations where the LORD your God has driven you,"
     },
     {
       "chapter": 30,
       "verse": 2,
-      "text": "and return to Yahweh your God and obey his voice according to all that I command you today, you and your children, with all your heart and with all your soul,"
+      "text": "and return to the LORD your God and obey his voice according to all that I command you today, you and your children, with all your heart and with all your soul,"
     },
     {
       "chapter": 30,
       "verse": 3,
-      "text": "that then Yahweh your God will release you from captivity, have compassion on you, and will return and gather you from all the peoples where Yahweh your God has scattered you."
+      "text": "that then the LORD your God will release you from captivity, have compassion on you, and will return and gather you from all the peoples where the LORD your God has scattered you."
     },
     {
       "chapter": 30,
       "verse": 4,
-      "text": "If your outcasts are in the uttermost parts of the heavens, from there Yahweh your God will gather you, and from there he will bring you back."
+      "text": "If your outcasts are in the uttermost parts of the heavens, from there the LORD your God will gather you, and from there he will bring you back."
     },
     {
       "chapter": 30,
       "verse": 5,
-      "text": "Yahweh your God will bring you into the land which your fathers possessed, and you will possess it. He will do you good, and increase your numbers more than your fathers."
+      "text": "The LORD your God will bring you into the land which your fathers possessed, and you will possess it. He will do you good, and increase your numbers more than your fathers."
     },
     {
       "chapter": 30,
       "verse": 6,
-      "text": "Yahweh your God will circumcise your heart, and the heart of your offspring, to love Yahweh your God with all your heart and with all your soul, that you may live."
+      "text": "The LORD your God will circumcise your heart, and the heart of your offspring, to love the LORD your God with all your heart and with all your soul, that you may live."
     },
     {
       "chapter": 30,
       "verse": 7,
-      "text": "Yahweh your God will put all these curses on your enemies and on those who hate you, who persecuted you."
+      "text": "The LORD your God will put all these curses on your enemies and on those who hate you, who persecuted you."
     },
     {
       "chapter": 30,
       "verse": 8,
-      "text": "You shall return and obey Yahweh’s voice, and do all his commandments which I command you today."
+      "text": "You shall return and obey the LORD’s voice, and do all his commandments which I command you today."
     },
     {
       "chapter": 30,
       "verse": 9,
-      "text": "Yahweh your God will make you prosperous in all the work of your hand, in the fruit of your body, in the fruit of your livestock, and in the fruit of your ground, for good; for Yahweh will again rejoice over you for good, as he rejoiced over your fathers,"
+      "text": "The LORD your God will make you prosperous in all the work of your hand, in the fruit of your body, in the fruit of your livestock, and in the fruit of your ground, for good; for the LORD will again rejoice over you for good, as he rejoiced over your fathers,"
     },
     {
       "chapter": 30,
       "verse": 10,
-      "text": "if you will obey Yahweh your God’s voice, to keep his commandments and his statutes which are written in this book of the law, if you turn to Yahweh your God with all your heart and with all your soul."
+      "text": "if you will obey the LORD your God’s voice, to keep his commandments and his statutes which are written in this book of the law, if you turn to the LORD your God with all your heart and with all your soul."
     },
     {
       "chapter": 30,
@@ -4165,7 +4165,7 @@
     {
       "chapter": 30,
       "verse": 16,
-      "text": "For I command you today to love Yahweh your God, to walk in his ways and to keep his commandments, his statutes, and his ordinances, that you may live and multiply, and that Yahweh your God may bless you in the land where you go in to possess it."
+      "text": "For I command you today to love the LORD your God, to walk in his ways and to keep his commandments, his statutes, and his ordinances, that you may live and multiply, and that the LORD your God may bless you in the land where you go in to possess it."
     },
     {
       "chapter": 30,
@@ -4185,7 +4185,7 @@
     {
       "chapter": 30,
       "verse": 20,
-      "text": "to love Yahweh your God, to obey his voice, and to cling to him; for he is your life, and the length of your days, that you may dwell in the land which Yahweh swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them."
+      "text": "to love the LORD your God, to obey his voice, and to cling to him; for he is your life, and the length of your days, that you may dwell in the land which the LORD swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them."
     },
     {
       "chapter": 31,
@@ -4195,42 +4195,42 @@
     {
       "chapter": 31,
       "verse": 2,
-      "text": "He said to them, “I am one hundred twenty years old today. I can no more go out and come in. Yahweh has said to me, ‘You shall not go over this Jordan.’"
+      "text": "He said to them, “I am one hundred twenty years old today. I can no more go out and come in. The LORD has said to me, ‘You shall not go over this Jordan.’"
     },
     {
       "chapter": 31,
       "verse": 3,
-      "text": "Yahweh your God himself will go over before you. He will destroy these nations from before you, and you shall dispossess them. Joshua will go over before you, as Yahweh has spoken."
+      "text": "The LORD your God himself will go over before you. He will destroy these nations from before you, and you shall dispossess them. Joshua will go over before you, as the LORD has spoken."
     },
     {
       "chapter": 31,
       "verse": 4,
-      "text": "Yahweh will do to them as he did to Sihon and to Og, the kings of the Amorites, and to their land, when he destroyed them."
+      "text": "The LORD will do to them as he did to Sihon and to Og, the kings of the Amorites, and to their land, when he destroyed them."
     },
     {
       "chapter": 31,
       "verse": 5,
-      "text": "Yahweh will deliver them up before you, and you shall do to them according to all the commandment which I have commanded you."
+      "text": "The LORD will deliver them up before you, and you shall do to them according to all the commandment which I have commanded you."
     },
     {
       "chapter": 31,
       "verse": 6,
-      "text": "Be strong and courageous. Don’t be afraid or scared of them, for Yahweh your God himself is who goes with you. He will not fail you nor forsake you.”"
+      "text": "Be strong and courageous. Don’t be afraid or scared of them, for the LORD your God himself is who goes with you. He will not fail you nor forsake you.”"
     },
     {
       "chapter": 31,
       "verse": 7,
-      "text": "Moses called to Joshua, and said to him in the sight of all Israel, “Be strong and courageous, for you shall go with this people into the land which Yahweh has sworn to their fathers to give them; and you shall cause them to inherit it."
+      "text": "Moses called to Joshua, and said to him in the sight of all Israel, “Be strong and courageous, for you shall go with this people into the land which the LORD has sworn to their fathers to give them; and you shall cause them to inherit it."
     },
     {
       "chapter": 31,
       "verse": 8,
-      "text": "Yahweh himself is who goes before you. He will be with you. He will not fail you nor forsake you. Don’t be afraid. Don’t be discouraged.”"
+      "text": "The LORD himself is who goes before you. He will be with you. He will not fail you nor forsake you. Don’t be afraid. Don’t be discouraged.”"
     },
     {
       "chapter": 31,
       "verse": 9,
-      "text": "Moses wrote this law and delivered it to the priests the sons of Levi, who bore the ark of Yahweh’s covenant, and to all the elders of Israel."
+      "text": "Moses wrote this law and delivered it to the priests the sons of Levi, who bore the ark of the LORD’s covenant, and to all the elders of Israel."
     },
     {
       "chapter": 31,
@@ -4240,32 +4240,32 @@
     {
       "chapter": 31,
       "verse": 11,
-      "text": "when all Israel has come to appear before Yahweh your God in the place which he will choose, you shall read this law before all Israel in their hearing."
+      "text": "when all Israel has come to appear before the LORD your God in the place which he will choose, you shall read this law before all Israel in their hearing."
     },
     {
       "chapter": 31,
       "verse": 12,
-      "text": "Assemble the people, the men and the women and the little ones, and the foreigners who are within your gates, that they may hear, learn, fear Yahweh your God, and observe to do all the words of this law,"
+      "text": "Assemble the people, the men and the women and the little ones, and the foreigners who are within your gates, that they may hear, learn, fear the LORD your God, and observe to do all the words of this law,"
     },
     {
       "chapter": 31,
       "verse": 13,
-      "text": "and that their children, who have not known, may hear and learn to fear Yahweh your God, as long as you live in the land where you go over the Jordan to possess it.”"
+      "text": "and that their children, who have not known, may hear and learn to fear the LORD your God, as long as you live in the land where you go over the Jordan to possess it.”"
     },
     {
       "chapter": 31,
       "verse": 14,
-      "text": "Yahweh said to Moses, “Behold, your days approach that you must die. Call Joshua, and present yourselves in the Tent of Meeting, that I may commission him.” Moses and Joshua went, and presented themselves in the Tent of Meeting."
+      "text": "The LORD said to Moses, “Behold, your days approach that you must die. Call Joshua, and present yourselves in the Tent of Meeting, that I may commission him.” Moses and Joshua went, and presented themselves in the Tent of Meeting."
     },
     {
       "chapter": 31,
       "verse": 15,
-      "text": "Yahweh appeared in the Tent in a pillar of cloud, and the pillar of cloud stood over the Tent’s door."
+      "text": "The LORD appeared in the Tent in a pillar of cloud, and the pillar of cloud stood over the Tent’s door."
     },
     {
       "chapter": 31,
       "verse": 16,
-      "text": "Yahweh said to Moses, “Behold, you shall sleep with your fathers. This people will rise up and play the prostitute after the strange gods of the land where they go to be among them, and will forsake me and break my covenant which I have made with them."
+      "text": "The LORD said to Moses, “Behold, you shall sleep with your fathers. This people will rise up and play the prostitute after the strange gods of the land where they go to be among them, and will forsake me and break my covenant which I have made with them."
     },
     {
       "chapter": 31,
@@ -4310,17 +4310,17 @@
     {
       "chapter": 31,
       "verse": 25,
-      "text": "Moses commanded the Levites, who bore the ark of Yahweh’s covenant, saying,"
+      "text": "Moses commanded the Levites, who bore the ark of the LORD’s covenant, saying,"
     },
     {
       "chapter": 31,
       "verse": 26,
-      "text": "“Take this book of the law, and put it by the side of the ark of Yahweh your God’s covenant, that it may be there for a witness against you."
+      "text": "“Take this book of the law, and put it by the side of the ark of the LORD your God’s covenant, that it may be there for a witness against you."
     },
     {
       "chapter": 31,
       "verse": 27,
-      "text": "For I know your rebellion and your stiff neck. Behold, while I am yet alive with you today, you have been rebellious against Yahweh. How much more after my death?"
+      "text": "For I know your rebellion and your stiff neck. Behold, while I am yet alive with you today, you have been rebellious against the LORD. How much more after my death?"
     },
     {
       "chapter": 31,
@@ -4330,7 +4330,7 @@
     {
       "chapter": 31,
       "verse": 29,
-      "text": "For I know that after my death you will utterly corrupt yourselves, and turn away from the way which I have commanded you; and evil will happen to you in the latter days, because you will do that which is evil in Yahweh’s sight, to provoke him to anger through the work of your hands.”"
+      "text": "For I know that after my death you will utterly corrupt yourselves, and turn away from the way which I have commanded you; and evil will happen to you in the latter days, because you will do that which is evil in the LORD’s sight, to provoke him to anger through the work of your hands.”"
     },
     {
       "chapter": 31,
@@ -4350,7 +4350,7 @@
     {
       "chapter": 32,
       "verse": 3,
-      "text": "For I will proclaim Yahweh’s name. Ascribe greatness to our God!"
+      "text": "For I will proclaim the LORD’s name. Ascribe greatness to our God!"
     },
     {
       "chapter": 32,
@@ -4365,7 +4365,7 @@
     {
       "chapter": 32,
       "verse": 6,
-      "text": "Is this the way you repay Yahweh, foolish and unwise people? Isn’t he your father who has bought you? He has made you and established you."
+      "text": "Is this the way you repay the LORD, foolish and unwise people? Isn’t he your father who has bought you? He has made you and established you."
     },
     {
       "chapter": 32,
@@ -4380,7 +4380,7 @@
     {
       "chapter": 32,
       "verse": 9,
-      "text": "For Yahweh’s portion is his people. Jacob is the lot of his inheritance."
+      "text": "For the LORD’s portion is his people. Jacob is the lot of his inheritance."
     },
     {
       "chapter": 32,
@@ -4395,7 +4395,7 @@
     {
       "chapter": 32,
       "verse": 12,
-      "text": "Yahweh alone led him. There was no foreign god with him."
+      "text": "The LORD alone led him. There was no foreign god with him."
     },
     {
       "chapter": 32,
@@ -4430,7 +4430,7 @@
     {
       "chapter": 32,
       "verse": 19,
-      "text": "Yahweh saw and abhorred, because of the provocation of his sons and his daughters."
+      "text": "The LORD saw and abhorred, because of the provocation of his sons and his daughters."
     },
     {
       "chapter": 32,
@@ -4470,7 +4470,7 @@
     {
       "chapter": 32,
       "verse": 27,
-      "text": "were it not that I feared the provocation of the enemy, lest their adversaries should judge wrongly, lest they should say, ‘Our hand is exalted; Yahweh has not done all this.’ ”"
+      "text": "were it not that I feared the provocation of the enemy, lest their adversaries should judge wrongly, lest they should say, ‘Our hand is exalted; the LORD has not done all this.’ ”"
     },
     {
       "chapter": 32,
@@ -4485,7 +4485,7 @@
     {
       "chapter": 32,
       "verse": 30,
-      "text": "How could one chase a thousand, and two put ten thousand to flight, unless their Rock had sold them, and Yahweh had delivered them up?"
+      "text": "How could one chase a thousand, and two put ten thousand to flight, unless their Rock had sold them, and the LORD had delivered them up?"
     },
     {
       "chapter": 32,
@@ -4515,7 +4515,7 @@
     {
       "chapter": 32,
       "verse": 36,
-      "text": "For Yahweh will judge his people, and have compassion on his servants, when he sees that their power is gone, that there is no one remaining, shut up or left at large."
+      "text": "For the LORD will judge his people, and have compassion on his servants, when he sees that their power is gone, that there is no one remaining, shut up or left at large."
     },
     {
       "chapter": 32,
@@ -4575,7 +4575,7 @@
     {
       "chapter": 32,
       "verse": 48,
-      "text": "Yahweh spoke to Moses that same day, saying,"
+      "text": "The LORD spoke to Moses that same day, saying,"
     },
     {
       "chapter": 32,
@@ -4605,7 +4605,7 @@
     {
       "chapter": 33,
       "verse": 2,
-      "text": "He said, “Yahweh came from Sinai, and rose from Seir to them. He shone from Mount Paran. He came from the ten thousands of holy ones. At his right hand was a fiery law for them."
+      "text": "He said, “The LORD came from Sinai, and rose from Seir to them. He shone from Mount Paran. He came from the ten thousands of holy ones. At his right hand was a fiery law for them."
     },
     {
       "chapter": 33,
@@ -4630,7 +4630,7 @@
     {
       "chapter": 33,
       "verse": 7,
-      "text": "This is for Judah. He said, “Hear, Yahweh, the voice of Judah. Bring him in to his people. With his hands he contended for himself. You shall be a help against his adversaries.”"
+      "text": "This is for Judah. He said, “Hear, the LORD, the voice of Judah. Bring him in to his people. With his hands he contended for himself. You shall be a help against his adversaries.”"
     },
     {
       "chapter": 33,
@@ -4650,17 +4650,17 @@
     {
       "chapter": 33,
       "verse": 11,
-      "text": "Yahweh, bless his skills. Accept the work of his hands. Strike through the hips of those who rise up against him, of those who hate him, that they not rise again.”"
+      "text": "The LORD, bless his skills. Accept the work of his hands. Strike through the hips of those who rise up against him, of those who hate him, that they not rise again.”"
     },
     {
       "chapter": 33,
       "verse": 12,
-      "text": "About Benjamin he said, “The beloved of Yahweh will dwell in safety by him. He covers him all day long. He dwells between his shoulders.”"
+      "text": "About Benjamin he said, “The beloved of the LORD will dwell in safety by him. He covers him all day long. He dwells between his shoulders.”"
     },
     {
       "chapter": 33,
       "verse": 13,
-      "text": "About Joseph he said, “His land is blessed by Yahweh, for the precious things of the heavens, for the dew, for the deep that couches beneath,"
+      "text": "About Joseph he said, “His land is blessed by the LORD, for the precious things of the heavens, for the dew, for the deep that couches beneath,"
     },
     {
       "chapter": 33,
@@ -4700,7 +4700,7 @@
     {
       "chapter": 33,
       "verse": 21,
-      "text": "He provided the first part for himself, for the lawgiver’s portion was reserved for him. He came with the heads of the people. He executed the righteousness of Yahweh, His ordinances with Israel.”"
+      "text": "He provided the first part for himself, for the lawgiver’s portion was reserved for him. He came with the heads of the people. He executed the righteousness of the LORD, His ordinances with Israel.”"
     },
     {
       "chapter": 33,
@@ -4710,7 +4710,7 @@
     {
       "chapter": 33,
       "verse": 23,
-      "text": "About Naphtali he said, “Naphtali, satisfied with favor, full of Yahweh’s blessing, Possess the west and the south.”"
+      "text": "About Naphtali he said, “Naphtali, satisfied with favor, full of the LORD’s blessing, Possess the west and the south.”"
     },
     {
       "chapter": 33,
@@ -4740,12 +4740,12 @@
     {
       "chapter": 33,
       "verse": 29,
-      "text": "You are happy, Israel! Who is like you, a people saved by Yahweh, the shield of your help, the sword of your excellency? Your enemies will submit themselves to you. You will tread on their high places.”"
+      "text": "You are happy, Israel! Who is like you, a people saved by the LORD, the shield of your help, the sword of your excellency? Your enemies will submit themselves to you. You will tread on their high places.”"
     },
     {
       "chapter": 34,
       "verse": 1,
-      "text": "Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, that is opposite Jericho. Yahweh showed him all the land of Gilead to Dan,"
+      "text": "Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, that is opposite Jericho. The LORD showed him all the land of Gilead to Dan,"
     },
     {
       "chapter": 34,
@@ -4760,12 +4760,12 @@
     {
       "chapter": 34,
       "verse": 4,
-      "text": "Yahweh said to him, “This is the land which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring.’ I have caused you to see it with your eyes, but you shall not go over there.”"
+      "text": "The LORD said to him, “This is the land which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring.’ I have caused you to see it with your eyes, but you shall not go over there.”"
     },
     {
       "chapter": 34,
       "verse": 5,
-      "text": "So Moses the servant of Yahweh died there in the land of Moab, according to Yahweh’s word."
+      "text": "So Moses the servant of the LORD died there in the land of Moab, according to the LORD’s word."
     },
     {
       "chapter": 34,
@@ -4785,17 +4785,17 @@
     {
       "chapter": 34,
       "verse": 9,
-      "text": "Joshua the son of Nun was full of the spirit of wisdom, for Moses had laid his hands on him. The children of Israel listened to him, and did as Yahweh commanded Moses."
+      "text": "Joshua the son of Nun was full of the spirit of wisdom, for Moses had laid his hands on him. The children of Israel listened to him, and did as the LORD commanded Moses."
     },
     {
       "chapter": 34,
       "verse": 10,
-      "text": "Since then, there has not arisen a prophet in Israel like Moses, whom Yahweh knew face to face,"
+      "text": "Since then, there has not arisen a prophet in Israel like Moses, whom the LORD knew face to face,"
     },
     {
       "chapter": 34,
       "verse": 11,
-      "text": "in all the signs and the wonders which Yahweh sent him to do in the land of Egypt, to Pharaoh, and to all his servants, and to all his land,"
+      "text": "in all the signs and the wonders which the LORD sent him to do in the land of Egypt, to Pharaoh, and to all his servants, and to all his land,"
     },
     {
       "chapter": 34,

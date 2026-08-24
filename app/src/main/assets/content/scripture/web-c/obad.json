@@ -5,12 +5,12 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
       "verse": 1,
-      "text": "The vision of Obadiah. This is what the Lord Yahweh says about Edom. We have heard news from Yahweh, and an ambassador is sent among the nations, saying, “Arise, and let’s rise up against her in battle."
+      "text": "The vision of Obadiah. This is what the Lord the LORD says about Edom. We have heard news from the LORD, and an ambassador is sent among the nations, saying, “Arise, and let’s rise up against her in battle."
     },
     {
       "chapter": 1,
@@ -25,7 +25,7 @@
     {
       "chapter": 1,
       "verse": 4,
-      "text": "Though you mount on high as the eagle, and though your nest is set among the stars, I will bring you down from there,” says Yahweh."
+      "text": "Though you mount on high as the eagle, and though your nest is set among the stars, I will bring you down from there,” says the LORD."
     },
     {
       "chapter": 1,
@@ -45,7 +45,7 @@
     {
       "chapter": 1,
       "verse": 8,
-      "text": "“Won’t I in that day”, says Yahweh, “destroy the wise men out of Edom, and understanding out of the mountain of Esau?"
+      "text": "“Won’t I in that day”, says the LORD, “destroy the wise men out of Edom, and understanding out of the mountain of Esau?"
     },
     {
       "chapter": 1,
@@ -80,7 +80,7 @@
     {
       "chapter": 1,
       "verse": 15,
-      "text": "For the day of Yahweh is near all the nations! As you have done, it will be done to you. Your deeds will return upon your own head."
+      "text": "For the day of the LORD is near all the nations! As you have done, it will be done to you. Your deeds will return upon your own head."
     },
     {
       "chapter": 1,
@@ -95,7 +95,7 @@
     {
       "chapter": 1,
       "verse": 18,
-      "text": "The house of Jacob will be a fire, the house of Joseph a flame, and the house of Esau for stubble. They will burn among them and devour them. There will not be any remaining to the house of Esau.” Indeed, Yahweh has spoken."
+      "text": "The house of Jacob will be a fire, the house of Joseph a flame, and the house of Esau for stubble. They will burn among them and devour them. There will not be any remaining to the house of Esau.” Indeed, the LORD has spoken."
     },
     {
       "chapter": 1,
@@ -110,7 +110,7 @@
     {
       "chapter": 1,
       "verse": 21,
-      "text": "Saviors will go up on Mount Zion to judge the mountains of Esau, and the kingdom will be Yahweh’s."
+      "text": "Saviors will go up on Mount Zion to judge the mountains of Esau, and the kingdom will be the LORD’s."
     }
   ]
 }

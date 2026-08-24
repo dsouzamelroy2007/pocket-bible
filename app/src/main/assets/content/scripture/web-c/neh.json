@@ -5,7 +5,7 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
@@ -30,7 +30,7 @@
     {
       "chapter": 1,
       "verse": 5,
-      "text": "and said, “I beg you, Yahweh, the God of heaven, the great and awesome God who keeps covenant and loving kindness with those who love him and keep his commandments,"
+      "text": "and said, “I beg you, the LORD, the God of heaven, the great and awesome God who keeps covenant and loving kindness with those who love him and keep his commandments,"
     },
     {
       "chapter": 1,
@@ -500,7 +500,7 @@
     {
       "chapter": 5,
       "verse": 13,
-      "text": "Also I shook out my lap, and said, “So may God shake out every man from his house, and from his labor, that doesn’t perform this promise; even may he be shaken out and emptied like this.” All the assembly said, “Amen,” and praised Yahweh. The people did according to this promise."
+      "text": "Also I shook out my lap, and said, “So may God shake out every man from his house, and from his labor, that doesn’t perform this promise; even may he be shaken out and emptied like this.” All the assembly said, “Amen,” and praised the LORD. The people did according to this promise."
     },
     {
       "chapter": 5,
@@ -995,7 +995,7 @@
     {
       "chapter": 8,
       "verse": 1,
-      "text": "All the people gathered themselves together as one man into the wide place that was in front of the water gate; and they spoke to Ezra the scribe to bring the book of the law of Moses, which Yahweh had commanded to Israel."
+      "text": "All the people gathered themselves together as one man into the wide place that was in front of the water gate; and they spoke to Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel."
     },
     {
       "chapter": 8,
@@ -1020,7 +1020,7 @@
     {
       "chapter": 8,
       "verse": 6,
-      "text": "Then Ezra blessed Yahweh, the great God. All the people answered, “Amen, Amen,” with the lifting up of their hands. They bowed their heads, and worshiped Yahweh with their faces to the ground."
+      "text": "Then Ezra blessed the LORD, the great God. All the people answered, “Amen, Amen,” with the lifting up of their hands. They bowed their heads, and worshiped the LORD with their faces to the ground."
     },
     {
       "chapter": 8,
@@ -1035,12 +1035,12 @@
     {
       "chapter": 8,
       "verse": 9,
-      "text": "Nehemiah, who was the governor, Ezra the priest and scribe, and the Levites who taught the people said to all the people, “Today is holy to Yahweh your God. Don’t mourn, nor weep.” For all the people wept when they heard the words of the law."
+      "text": "Nehemiah, who was the governor, Ezra the priest and scribe, and the Levites who taught the people said to all the people, “Today is holy to the LORD your God. Don’t mourn, nor weep.” For all the people wept when they heard the words of the law."
     },
     {
       "chapter": 8,
       "verse": 10,
-      "text": "Then he said to them, “Go your way. Eat the fat, drink the sweet, and send portions to him for whom nothing is prepared, for today is holy to our Lord. Don’t be grieved, for the joy of Yahweh is your strength.”"
+      "text": "Then he said to them, “Go your way. Eat the fat, drink the sweet, and send portions to him for whom nothing is prepared, for today is holy to our Lord. Don’t be grieved, for the joy of the LORD is your strength.”"
     },
     {
       "chapter": 8,
@@ -1060,7 +1060,7 @@
     {
       "chapter": 8,
       "verse": 14,
-      "text": "They found written in the law how Yahweh had commanded by Moses that the children of Israel should dwell in booths in the feast of the seventh month;"
+      "text": "They found written in the law how the LORD had commanded by Moses that the children of Israel should dwell in booths in the feast of the seventh month;"
     },
     {
       "chapter": 8,
@@ -1095,27 +1095,27 @@
     {
       "chapter": 9,
       "verse": 3,
-      "text": "They stood up in their place, and read in the book of the law of Yahweh their God a fourth part of the day; and a fourth part they confessed and worshiped Yahweh their God."
+      "text": "They stood up in their place, and read in the book of the law of the LORD their God a fourth part of the day; and a fourth part they confessed and worshiped the LORD their God."
     },
     {
       "chapter": 9,
       "verse": 4,
-      "text": "Then Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani of the Levites stood up on the stairs, and cried with a loud voice to Yahweh their God."
+      "text": "Then Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani of the Levites stood up on the stairs, and cried with a loud voice to the LORD their God."
     },
     {
       "chapter": 9,
       "verse": 5,
-      "text": "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, “Stand up and bless Yahweh your God from everlasting to everlasting! Blessed be your glorious name, which is exalted above all blessing and praise!"
+      "text": "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, “Stand up and bless the LORD your God from everlasting to everlasting! Blessed be your glorious name, which is exalted above all blessing and praise!"
     },
     {
       "chapter": 9,
       "verse": 6,
-      "text": "You are Yahweh, even you alone. You have made heaven, the heaven of heavens, with all their army, the earth and all things that are on it, the seas and all that is in them, and you preserve them all. The army of heaven worships you."
+      "text": "You are the LORD, even you alone. You have made heaven, the heaven of heavens, with all their army, the earth and all things that are on it, the seas and all that is in them, and you preserve them all. The army of heaven worships you."
     },
     {
       "chapter": 9,
       "verse": 7,
-      "text": "You are Yahweh, the God who chose Abram, brought him out of Ur of the Chaldees, gave him the name of Abraham,"
+      "text": "You are the LORD, the God who chose Abram, brought him out of Ur of the Chaldees, gave him the name of Abraham,"
     },
     {
       "chapter": 9,
@@ -1415,7 +1415,7 @@
     {
       "chapter": 10,
       "verse": 29,
-      "text": "joined with their brothers, their nobles, and entered into a curse and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of Yahweh our Lord, and his ordinances and his statutes;"
+      "text": "joined with their brothers, their nobles, and entered into a curse and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his ordinances and his statutes;"
     },
     {
       "chapter": 10,
@@ -1440,12 +1440,12 @@
     {
       "chapter": 10,
       "verse": 34,
-      "text": "We, the priests, the Levites, and the people, cast lots for the wood offering, to bring it into the house of our God, according to our fathers’ houses, at times appointed year by year, to burn on Yahweh our God’s altar, as it is written in the law;"
+      "text": "We, the priests, the Levites, and the people, cast lots for the wood offering, to bring it into the house of our God, according to our fathers’ houses, at times appointed year by year, to burn on the LORD our God’s altar, as it is written in the law;"
     },
     {
       "chapter": 10,
       "verse": 35,
-      "text": "and to bring the first fruits of our ground and the first fruits of all fruit of all kinds of trees, year by year, to Yahweh’s house;"
+      "text": "and to bring the first fruits of our ground and the first fruits of all fruit of all kinds of trees, year by year, to the LORD’s house;"
     },
     {
       "chapter": 10,

@@ -5,12 +5,12 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
       "verse": 1,
-      "text": "Yahweh spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying,"
+      "text": "The LORD spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying,"
     },
     {
       "chapter": 1,
@@ -100,7 +100,7 @@
     {
       "chapter": 1,
       "verse": 19,
-      "text": "As Yahweh commanded Moses, so he counted them in the wilderness of Sinai."
+      "text": "As the LORD commanded Moses, so he counted them in the wilderness of Sinai."
     },
     {
       "chapter": 1,
@@ -245,7 +245,7 @@
     {
       "chapter": 1,
       "verse": 48,
-      "text": "For Yahweh spoke to Moses, saying,"
+      "text": "For the LORD spoke to Moses, saying,"
     },
     {
       "chapter": 1,
@@ -275,12 +275,12 @@
     {
       "chapter": 1,
       "verse": 54,
-      "text": "Thus the children of Israel did. According to all that Yahweh commanded Moses, so they did."
+      "text": "Thus the children of Israel did. According to all that the LORD commanded Moses, so they did."
     },
     {
       "chapter": 2,
       "verse": 1,
-      "text": "Yahweh spoke to Moses and to Aaron, saying,"
+      "text": "The LORD spoke to Moses and to Aaron, saying,"
     },
     {
       "chapter": 2,
@@ -440,17 +440,17 @@
     {
       "chapter": 2,
       "verse": 33,
-      "text": "But the Levites were not counted among the children of Israel, as Yahweh commanded Moses."
+      "text": "But the Levites were not counted among the children of Israel, as the LORD commanded Moses."
     },
     {
       "chapter": 2,
       "verse": 34,
-      "text": "Thus the children of Israel did. According to all that Yahweh commanded Moses, so they encamped by their standards, and so they set out, everyone by their families, according to their fathers’ houses."
+      "text": "Thus the children of Israel did. According to all that the LORD commanded Moses, so they encamped by their standards, and so they set out, everyone by their families, according to their fathers’ houses."
     },
     {
       "chapter": 3,
       "verse": 1,
-      "text": "Now this is the history of the generations of Aaron and Moses in the day that Yahweh spoke with Moses in Mount Sinai."
+      "text": "Now this is the history of the generations of Aaron and Moses in the day that the LORD spoke with Moses in Mount Sinai."
     },
     {
       "chapter": 3,
@@ -465,12 +465,12 @@
     {
       "chapter": 3,
       "verse": 4,
-      "text": "Nadab and Abihu died before Yahweh when they offered strange fire before Yahweh in the wilderness of Sinai, and they had no children. Eleazar and Ithamar ministered in the priest’s office in the presence of Aaron their father."
+      "text": "Nadab and Abihu died before the LORD when they offered strange fire before the LORD in the wilderness of Sinai, and they had no children. Eleazar and Ithamar ministered in the priest’s office in the presence of Aaron their father."
     },
     {
       "chapter": 3,
       "verse": 5,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 3,
@@ -500,7 +500,7 @@
     {
       "chapter": 3,
       "verse": 11,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 3,
@@ -510,12 +510,12 @@
     {
       "chapter": 3,
       "verse": 13,
-      "text": "for all the firstborn are mine. On the day that I struck down all the firstborn in the land of Egypt I made holy to me all the firstborn in Israel, both man and animal. They shall be mine. I am Yahweh.”"
+      "text": "for all the firstborn are mine. On the day that I struck down all the firstborn in the land of Egypt I made holy to me all the firstborn in Israel, both man and animal. They shall be mine. I am the LORD.”"
     },
     {
       "chapter": 3,
       "verse": 14,
-      "text": "Yahweh spoke to Moses in the wilderness of Sinai, saying,"
+      "text": "The LORD spoke to Moses in the wilderness of Sinai, saying,"
     },
     {
       "chapter": 3,
@@ -525,7 +525,7 @@
     {
       "chapter": 3,
       "verse": 16,
-      "text": "Moses counted them according to Yahweh’s word, as he was commanded."
+      "text": "Moses counted them according to the LORD’s word, as he was commanded."
     },
     {
       "chapter": 3,
@@ -640,22 +640,22 @@
     {
       "chapter": 3,
       "verse": 39,
-      "text": "All who were counted of the Levites, whom Moses and Aaron counted at the commandment of Yahweh, by their families, all the males from a month old and upward, were twenty-two thousand."
+      "text": "All who were counted of the Levites, whom Moses and Aaron counted at the commandment of the LORD, by their families, all the males from a month old and upward, were twenty-two thousand."
     },
     {
       "chapter": 3,
       "verse": 40,
-      "text": "Yahweh said to Moses, “Count all the firstborn males of the children of Israel from a month old and upward, and take the number of their names."
+      "text": "The LORD said to Moses, “Count all the firstborn males of the children of Israel from a month old and upward, and take the number of their names."
     },
     {
       "chapter": 3,
       "verse": 41,
-      "text": "You shall take the Levites for me—I am Yahweh—instead of all the firstborn among the children of Israel; and the livestock of the Levites instead of all the firstborn among the livestock of the children of Israel.”"
+      "text": "You shall take the Levites for me—I am the LORD—instead of all the firstborn among the children of Israel; and the livestock of the Levites instead of all the firstborn among the livestock of the children of Israel.”"
     },
     {
       "chapter": 3,
       "verse": 42,
-      "text": "Moses counted, as Yahweh commanded him, all the firstborn among the children of Israel."
+      "text": "Moses counted, as the LORD commanded him, all the firstborn among the children of Israel."
     },
     {
       "chapter": 3,
@@ -665,12 +665,12 @@
     {
       "chapter": 3,
       "verse": 44,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 3,
       "verse": 45,
-      "text": "“Take the Levites instead of all the firstborn among the children of Israel, and the livestock of the Levites instead of their livestock; and the Levites shall be mine. I am Yahweh."
+      "text": "“Take the Levites instead of all the firstborn among the children of Israel, and the livestock of the Levites instead of their livestock; and the Levites shall be mine. I am the LORD."
     },
     {
       "chapter": 3,
@@ -700,12 +700,12 @@
     {
       "chapter": 3,
       "verse": 51,
-      "text": "and Moses gave the redemption money to Aaron and to his sons, according to Yahweh’s word, as Yahweh commanded Moses."
+      "text": "and Moses gave the redemption money to Aaron and to his sons, according to the LORD’s word, as the LORD commanded Moses."
     },
     {
       "chapter": 4,
       "verse": 1,
-      "text": "Yahweh spoke to Moses and to Aaron, saying,"
+      "text": "The LORD spoke to Moses and to Aaron, saying,"
     },
     {
       "chapter": 4,
@@ -785,7 +785,7 @@
     {
       "chapter": 4,
       "verse": 17,
-      "text": "Yahweh spoke to Moses and to Aaron, saying,"
+      "text": "The LORD spoke to Moses and to Aaron, saying,"
     },
     {
       "chapter": 4,
@@ -805,7 +805,7 @@
     {
       "chapter": 4,
       "verse": 21,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 4,
@@ -885,7 +885,7 @@
     {
       "chapter": 4,
       "verse": 37,
-      "text": "These are those who were counted of the families of the Kohathites, all who served in the Tent of Meeting, whom Moses and Aaron counted according to the commandment of Yahweh by Moses."
+      "text": "These are those who were counted of the families of the Kohathites, all who served in the Tent of Meeting, whom Moses and Aaron counted according to the commandment of the LORD by Moses."
     },
     {
       "chapter": 4,
@@ -905,7 +905,7 @@
     {
       "chapter": 4,
       "verse": 41,
-      "text": "These are those who were counted of the families of the sons of Gershon, all who served in the Tent of Meeting, whom Moses and Aaron counted according to the commandment of Yahweh."
+      "text": "These are those who were counted of the families of the sons of Gershon, all who served in the Tent of Meeting, whom Moses and Aaron counted according to the commandment of the LORD."
     },
     {
       "chapter": 4,
@@ -925,7 +925,7 @@
     {
       "chapter": 4,
       "verse": 45,
-      "text": "These are those who were counted of the families of the sons of Merari, whom Moses and Aaron counted according to the commandment of Yahweh by Moses."
+      "text": "These are those who were counted of the families of the sons of Merari, whom Moses and Aaron counted according to the commandment of the LORD by Moses."
     },
     {
       "chapter": 4,
@@ -945,12 +945,12 @@
     {
       "chapter": 4,
       "verse": 49,
-      "text": "According to the commandment of Yahweh they were counted by Moses, everyone according to his service and according to his burden. Thus they were counted by him, as Yahweh commanded Moses."
+      "text": "According to the commandment of the LORD they were counted by Moses, everyone according to his service and according to his burden. Thus they were counted by him, as the LORD commanded Moses."
     },
     {
       "chapter": 5,
       "verse": 1,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 5,
@@ -965,17 +965,17 @@
     {
       "chapter": 5,
       "verse": 4,
-      "text": "The children of Israel did so, and put them outside of the camp; as Yahweh spoke to Moses, so the children of Israel did."
+      "text": "The children of Israel did so, and put them outside of the camp; as the LORD spoke to Moses, so the children of Israel did."
     },
     {
       "chapter": 5,
       "verse": 5,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 5,
       "verse": 6,
-      "text": "“Speak to the children of Israel: ‘When a man or woman commits any sin that men commit, so as to trespass against Yahweh, and that soul is guilty,"
+      "text": "“Speak to the children of Israel: ‘When a man or woman commits any sin that men commit, so as to trespass against the LORD, and that soul is guilty,"
     },
     {
       "chapter": 5,
@@ -985,7 +985,7 @@
     {
       "chapter": 5,
       "verse": 8,
-      "text": "But if the man has no kinsman to whom restitution may be made for the guilt, the restitution for guilt which is made to Yahweh shall be the priest’s, in addition to the ram of the atonement, by which atonement shall be made for him."
+      "text": "But if the man has no kinsman to whom restitution may be made for the guilt, the restitution for guilt which is made to the LORD shall be the priest’s, in addition to the ram of the atonement, by which atonement shall be made for him."
     },
     {
       "chapter": 5,
@@ -1000,7 +1000,7 @@
     {
       "chapter": 5,
       "verse": 11,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 5,
@@ -1025,7 +1025,7 @@
     {
       "chapter": 5,
       "verse": 16,
-      "text": "The priest shall bring her near, and set her before Yahweh."
+      "text": "The priest shall bring her near, and set her before the LORD."
     },
     {
       "chapter": 5,
@@ -1035,7 +1035,7 @@
     {
       "chapter": 5,
       "verse": 18,
-      "text": "The priest shall set the woman before Yahweh, and let the hair of the woman’s head go loose, and put the meal offering of memorial in her hands, which is the meal offering of jealousy. The priest shall have in his hand the water of bitterness that brings a curse."
+      "text": "The priest shall set the woman before the LORD, and let the hair of the woman’s head go loose, and put the meal offering of memorial in her hands, which is the meal offering of jealousy. The priest shall have in his hand the water of bitterness that brings a curse."
     },
     {
       "chapter": 5,
@@ -1050,7 +1050,7 @@
     {
       "chapter": 5,
       "verse": 21,
-      "text": "then the priest shall cause the woman to swear with the oath of cursing, and the priest shall tell the woman, “May Yahweh make you a curse and an oath among your people, when Yahweh allows your thigh to fall away, and your body to swell;"
+      "text": "then the priest shall cause the woman to swear with the oath of cursing, and the priest shall tell the woman, “May the LORD make you a curse and an oath among your people, when the LORD allows your thigh to fall away, and your body to swell;"
     },
     {
       "chapter": 5,
@@ -1070,7 +1070,7 @@
     {
       "chapter": 5,
       "verse": 25,
-      "text": "The priest shall take the meal offering of jealousy out of the woman’s hand, and shall wave the meal offering before Yahweh, and bring it to the altar."
+      "text": "The priest shall take the meal offering of jealousy out of the woman’s hand, and shall wave the meal offering before the LORD, and bring it to the altar."
     },
     {
       "chapter": 5,
@@ -1095,7 +1095,7 @@
     {
       "chapter": 5,
       "verse": 30,
-      "text": "or when the spirit of jealousy comes on a man, and he is jealous of his wife; then he shall set the woman before Yahweh, and the priest shall execute on her all this law."
+      "text": "or when the spirit of jealousy comes on a man, and he is jealous of his wife; then he shall set the woman before the LORD, and the priest shall execute on her all this law."
     },
     {
       "chapter": 5,
@@ -1105,12 +1105,12 @@
     {
       "chapter": 6,
       "verse": 1,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 6,
       "verse": 2,
-      "text": "“Speak to the children of Israel, and tell them: ‘When either man or woman shall make a special vow, the vow of a Nazirite, to separate himself to Yahweh,"
+      "text": "“Speak to the children of Israel, and tell them: ‘When either man or woman shall make a special vow, the vow of a Nazirite, to separate himself to the LORD,"
     },
     {
       "chapter": 6,
@@ -1125,12 +1125,12 @@
     {
       "chapter": 6,
       "verse": 5,
-      "text": "“ ‘All the days of his vow of separation no razor shall come on his head, until the days are fulfilled in which he separates himself to Yahweh. He shall be holy. He shall let the locks of the hair of his head grow long."
+      "text": "“ ‘All the days of his vow of separation no razor shall come on his head, until the days are fulfilled in which he separates himself to the LORD. He shall be holy. He shall let the locks of the hair of his head grow long."
     },
     {
       "chapter": 6,
       "verse": 6,
-      "text": "“ ‘All the days that he separates himself to Yahweh he shall not go near a dead body."
+      "text": "“ ‘All the days that he separates himself to the LORD he shall not go near a dead body."
     },
     {
       "chapter": 6,
@@ -1140,7 +1140,7 @@
     {
       "chapter": 6,
       "verse": 8,
-      "text": "All the days of his separation he is holy to Yahweh."
+      "text": "All the days of his separation he is holy to the LORD."
     },
     {
       "chapter": 6,
@@ -1160,7 +1160,7 @@
     {
       "chapter": 6,
       "verse": 12,
-      "text": "He shall separate to Yahweh the days of his separation, and shall bring a male lamb a year old for a trespass offering; but the former days shall be void, because his separation was defiled."
+      "text": "He shall separate to the LORD the days of his separation, and shall bring a male lamb a year old for a trespass offering; but the former days shall be void, because his separation was defiled."
     },
     {
       "chapter": 6,
@@ -1170,7 +1170,7 @@
     {
       "chapter": 6,
       "verse": 14,
-      "text": "and he shall offer his offering to Yahweh: one male lamb a year old without defect for a burnt offering, one ewe lamb a year old without defect for a sin offering, one ram without defect for peace offerings,"
+      "text": "and he shall offer his offering to the LORD: one male lamb a year old without defect for a burnt offering, one ewe lamb a year old without defect for a sin offering, one ram without defect for peace offerings,"
     },
     {
       "chapter": 6,
@@ -1180,12 +1180,12 @@
     {
       "chapter": 6,
       "verse": 16,
-      "text": "The priest shall present them before Yahweh, and shall offer his sin offering and his burnt offering."
+      "text": "The priest shall present them before the LORD, and shall offer his sin offering and his burnt offering."
     },
     {
       "chapter": 6,
       "verse": 17,
-      "text": "He shall offer the ram for a sacrifice of peace offerings to Yahweh, with the basket of unleavened bread. The priest shall offer also its meal offering and its drink offering."
+      "text": "He shall offer the ram for a sacrifice of peace offerings to the LORD, with the basket of unleavened bread. The priest shall offer also its meal offering and its drink offering."
     },
     {
       "chapter": 6,
@@ -1200,17 +1200,17 @@
     {
       "chapter": 6,
       "verse": 20,
-      "text": "and the priest shall wave them for a wave offering before Yahweh. They are holy for the priest, together with the breast that is waved and the thigh that is offered. After that the Nazirite may drink wine."
+      "text": "and the priest shall wave them for a wave offering before the LORD. They are holy for the priest, together with the breast that is waved and the thigh that is offered. After that the Nazirite may drink wine."
     },
     {
       "chapter": 6,
       "verse": 21,
-      "text": "“ ‘This is the law of the Nazirite who vows and of his offering to Yahweh for his separation, in addition to that which he is able to afford. According to his vow which he vows, so he must do after the law of his separation.’ ”"
+      "text": "“ ‘This is the law of the Nazirite who vows and of his offering to the LORD for his separation, in addition to that which he is able to afford. According to his vow which he vows, so he must do after the law of his separation.’ ”"
     },
     {
       "chapter": 6,
       "verse": 22,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 6,
@@ -1220,17 +1220,17 @@
     {
       "chapter": 6,
       "verse": 24,
-      "text": "‘Yahweh bless you, and keep you."
+      "text": "‘The LORD bless you, and keep you."
     },
     {
       "chapter": 6,
       "verse": 25,
-      "text": "Yahweh make his face to shine on you, and be gracious to you."
+      "text": "The LORD make his face to shine on you, and be gracious to you."
     },
     {
       "chapter": 6,
       "verse": 26,
-      "text": "Yahweh lift up his face toward you, and give you peace.’"
+      "text": "The LORD lift up his face toward you, and give you peace.’"
     },
     {
       "chapter": 6,
@@ -1250,12 +1250,12 @@
     {
       "chapter": 7,
       "verse": 3,
-      "text": "and they brought their offering before Yahweh, six covered wagons and twelve oxen; a wagon for every two of the princes, and for each one an ox. They presented them before the tabernacle."
+      "text": "and they brought their offering before the LORD, six covered wagons and twelve oxen; a wagon for every two of the princes, and for each one an ox. They presented them before the tabernacle."
     },
     {
       "chapter": 7,
       "verse": 4,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 7,
@@ -1290,7 +1290,7 @@
     {
       "chapter": 7,
       "verse": 11,
-      "text": "Yahweh said to Moses, “They shall offer their offering, each prince on his day, for the dedication of the altar.”"
+      "text": "The LORD said to Moses, “They shall offer their offering, each prince on his day, for the dedication of the altar.”"
     },
     {
       "chapter": 7,
@@ -1680,12 +1680,12 @@
     {
       "chapter": 7,
       "verse": 89,
-      "text": "When Moses went into the Tent of Meeting to speak with Yahweh, he heard his voice speaking to him from above the mercy seat that was on the ark of the Testimony, from between the two cherubim; and he spoke to him."
+      "text": "When Moses went into the Tent of Meeting to speak with the LORD, he heard his voice speaking to him from above the mercy seat that was on the ark of the Testimony, from between the two cherubim; and he spoke to him."
     },
     {
       "chapter": 8,
       "verse": 1,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 8,
@@ -1695,17 +1695,17 @@
     {
       "chapter": 8,
       "verse": 3,
-      "text": "Aaron did so. He lit its lamps to light the area in front of the lamp stand, as Yahweh commanded Moses."
+      "text": "Aaron did so. He lit its lamps to light the area in front of the lamp stand, as the LORD commanded Moses."
     },
     {
       "chapter": 8,
       "verse": 4,
-      "text": "This was the workmanship of the lamp stand, beaten work of gold. From its base to its flowers, it was beaten work. He made the lamp stand according to the pattern which Yahweh had shown Moses."
+      "text": "This was the workmanship of the lamp stand, beaten work of gold. From its base to its flowers, it was beaten work. He made the lamp stand according to the pattern which the LORD had shown Moses."
     },
     {
       "chapter": 8,
       "verse": 5,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 8,
@@ -1730,22 +1730,22 @@
     {
       "chapter": 8,
       "verse": 10,
-      "text": "You shall present the Levites before Yahweh. The children of Israel shall lay their hands on the Levites,"
+      "text": "You shall present the Levites before the LORD. The children of Israel shall lay their hands on the Levites,"
     },
     {
       "chapter": 8,
       "verse": 11,
-      "text": "and Aaron shall offer the Levites before Yahweh for a wave offering on the behalf of the children of Israel, that it may be theirs to do the service of Yahweh."
+      "text": "and Aaron shall offer the Levites before the LORD for a wave offering on the behalf of the children of Israel, that it may be theirs to do the service of the LORD."
     },
     {
       "chapter": 8,
       "verse": 12,
-      "text": "“The Levites shall lay their hands on the heads of the bulls, and you shall offer the one for a sin offering and the other for a burnt offering to Yahweh, to make atonement for the Levites."
+      "text": "“The Levites shall lay their hands on the heads of the bulls, and you shall offer the one for a sin offering and the other for a burnt offering to the LORD, to make atonement for the Levites."
     },
     {
       "chapter": 8,
       "verse": 13,
-      "text": "You shall set the Levites before Aaron and before his sons, and offer them as a wave offering to Yahweh."
+      "text": "You shall set the Levites before Aaron and before his sons, and offer them as a wave offering to the LORD."
     },
     {
       "chapter": 8,
@@ -1780,22 +1780,22 @@
     {
       "chapter": 8,
       "verse": 20,
-      "text": "Moses, and Aaron, and all the congregation of the children of Israel did so to the Levites. According to all that Yahweh commanded Moses concerning the Levites, so the children of Israel did to them."
+      "text": "Moses, and Aaron, and all the congregation of the children of Israel did so to the Levites. According to all that the LORD commanded Moses concerning the Levites, so the children of Israel did to them."
     },
     {
       "chapter": 8,
       "verse": 21,
-      "text": "The Levites purified themselves from sin, and they washed their clothes; and Aaron offered them for a wave offering before Yahweh and Aaron made atonement for them to cleanse them."
+      "text": "The Levites purified themselves from sin, and they washed their clothes; and Aaron offered them for a wave offering before the LORD and Aaron made atonement for them to cleanse them."
     },
     {
       "chapter": 8,
       "verse": 22,
-      "text": "After that, the Levites went in to do their service in the Tent of Meeting before Aaron and before his sons: as Yahweh had commanded Moses concerning the Levites, so they did to them."
+      "text": "After that, the Levites went in to do their service in the Tent of Meeting before Aaron and before his sons: as the LORD had commanded Moses concerning the Levites, so they did to them."
     },
     {
       "chapter": 8,
       "verse": 23,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 8,
@@ -1815,7 +1815,7 @@
     {
       "chapter": 9,
       "verse": 1,
-      "text": "Yahweh spoke to Moses in the wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt, saying,"
+      "text": "The LORD spoke to Moses in the wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt, saying,"
     },
     {
       "chapter": 9,
@@ -1835,7 +1835,7 @@
     {
       "chapter": 9,
       "verse": 5,
-      "text": "They kept the Passover in the first month, on the fourteenth day of the month at evening, in the wilderness of Sinai. According to all that Yahweh commanded Moses, so the children of Israel did."
+      "text": "They kept the Passover in the first month, on the fourteenth day of the month at evening, in the wilderness of Sinai. According to all that the LORD commanded Moses, so the children of Israel did."
     },
     {
       "chapter": 9,
@@ -1845,22 +1845,22 @@
     {
       "chapter": 9,
       "verse": 7,
-      "text": "Those men said to him, “We are unclean because of the dead body of a man. Why are we kept back, that we may not offer the offering of Yahweh in its appointed season among the children of Israel?”"
+      "text": "Those men said to him, “We are unclean because of the dead body of a man. Why are we kept back, that we may not offer the offering of the LORD in its appointed season among the children of Israel?”"
     },
     {
       "chapter": 9,
       "verse": 8,
-      "text": "Moses answered them, “Wait, that I may hear what Yahweh will command concerning you.”"
+      "text": "Moses answered them, “Wait, that I may hear what the LORD will command concerning you.”"
     },
     {
       "chapter": 9,
       "verse": 9,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 9,
       "verse": 10,
-      "text": "“Say to the children of Israel, ‘If any man of you or of your generations is unclean by reason of a dead body, or is on a journey far away, he shall still keep the Passover to Yahweh."
+      "text": "“Say to the children of Israel, ‘If any man of you or of your generations is unclean by reason of a dead body, or is on a journey far away, he shall still keep the Passover to the LORD."
     },
     {
       "chapter": 9,
@@ -1875,12 +1875,12 @@
     {
       "chapter": 9,
       "verse": 13,
-      "text": "But the man who is clean, and is not on a journey, and fails to keep the Passover, that soul shall be cut off from his people. Because he didn’t offer the offering of Yahweh in its appointed season, that man shall bear his sin."
+      "text": "But the man who is clean, and is not on a journey, and fails to keep the Passover, that soul shall be cut off from his people. Because he didn’t offer the offering of the LORD in its appointed season, that man shall bear his sin."
     },
     {
       "chapter": 9,
       "verse": 14,
-      "text": "“ ‘If a foreigner lives among you and desires to keep the Passover to Yahweh, then he shall do so according to the statute of the Passover, and according to its ordinance. You shall have one statute, both for the foreigner and for him who is born in the land.’ ”"
+      "text": "“ ‘If a foreigner lives among you and desires to keep the Passover to the LORD, then he shall do so according to the statute of the Passover, and according to its ordinance. You shall have one statute, both for the foreigner and for him who is born in the land.’ ”"
     },
     {
       "chapter": 9,
@@ -1900,17 +1900,17 @@
     {
       "chapter": 9,
       "verse": 18,
-      "text": "At the commandment of Yahweh, the children of Israel traveled, and at the commandment of Yahweh they encamped. As long as the cloud remained on the tabernacle they remained encamped."
+      "text": "At the commandment of the LORD, the children of Israel traveled, and at the commandment of the LORD they encamped. As long as the cloud remained on the tabernacle they remained encamped."
     },
     {
       "chapter": 9,
       "verse": 19,
-      "text": "When the cloud stayed on the tabernacle many days, then the children of Israel kept Yahweh’s command, and didn’t travel."
+      "text": "When the cloud stayed on the tabernacle many days, then the children of Israel kept the LORD’s command, and didn’t travel."
     },
     {
       "chapter": 9,
       "verse": 20,
-      "text": "Sometimes the cloud was a few days on the tabernacle; then according to the commandment of Yahweh they remained encamped, and according to the commandment of Yahweh they traveled."
+      "text": "Sometimes the cloud was a few days on the tabernacle; then according to the commandment of the LORD they remained encamped, and according to the commandment of the LORD they traveled."
     },
     {
       "chapter": 9,
@@ -1925,12 +1925,12 @@
     {
       "chapter": 9,
       "verse": 23,
-      "text": "At the commandment of Yahweh they encamped, and at the commandment of Yahweh they traveled. They kept Yahweh’s command, at the commandment of Yahweh by Moses."
+      "text": "At the commandment of the LORD they encamped, and at the commandment of the LORD they traveled. They kept the LORD’s command, at the commandment of the LORD by Moses."
     },
     {
       "chapter": 10,
       "verse": 1,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 10,
@@ -1970,12 +1970,12 @@
     {
       "chapter": 10,
       "verse": 9,
-      "text": "When you go to war in your land against the adversary who oppresses you, then you shall sound an alarm with the trumpets. Then you will be remembered before Yahweh your God, and you will be saved from your enemies."
+      "text": "When you go to war in your land against the adversary who oppresses you, then you shall sound an alarm with the trumpets. Then you will be remembered before the LORD your God, and you will be saved from your enemies."
     },
     {
       "chapter": 10,
       "verse": 10,
-      "text": "“Also in the day of your gladness, and in your set feasts, and in the beginnings of your months, you shall blow the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; and they shall be to you for a memorial before your God. I am Yahweh your God.”"
+      "text": "“Also in the day of your gladness, and in your set feasts, and in the beginnings of your months, you shall blow the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; and they shall be to you for a memorial before your God. I am the LORD your God.”"
     },
     {
       "chapter": 10,
@@ -1990,7 +1990,7 @@
     {
       "chapter": 10,
       "verse": 13,
-      "text": "They first went forward according to the commandment of Yahweh by Moses."
+      "text": "They first went forward according to the commandment of the LORD by Moses."
     },
     {
       "chapter": 10,
@@ -2070,7 +2070,7 @@
     {
       "chapter": 10,
       "verse": 29,
-      "text": "Moses said to Hobab, the son of Reuel the Midianite, Moses’ father-in-law, “We are journeying to the place of which Yahweh said, ‘I will give it to you.’ Come with us, and we will treat you well; for Yahweh has spoken good concerning Israel.”"
+      "text": "Moses said to Hobab, the son of Reuel the Midianite, Moses’ father-in-law, “We are journeying to the place of which the LORD said, ‘I will give it to you.’ Come with us, and we will treat you well; for the LORD has spoken good concerning Israel.”"
     },
     {
       "chapter": 10,
@@ -2085,42 +2085,42 @@
     {
       "chapter": 10,
       "verse": 32,
-      "text": "It shall be, if you go with us—yes, it shall be—that whatever good Yahweh does to us, we will do the same to you.”"
+      "text": "It shall be, if you go with us—yes, it shall be—that whatever good the LORD does to us, we will do the same to you.”"
     },
     {
       "chapter": 10,
       "verse": 33,
-      "text": "They set forward from the Mount of Yahweh three days’ journey. The ark of Yahweh’s covenant went before them three days’ journey, to seek out a resting place for them."
+      "text": "They set forward from the Mount of the LORD three days’ journey. The ark of the LORD’s covenant went before them three days’ journey, to seek out a resting place for them."
     },
     {
       "chapter": 10,
       "verse": 34,
-      "text": "The cloud of Yahweh was over them by day, when they set forward from the camp."
+      "text": "The cloud of the LORD was over them by day, when they set forward from the camp."
     },
     {
       "chapter": 10,
       "verse": 35,
-      "text": "When the ark went forward, Moses said, “Rise up, Yahweh, and let your enemies be scattered! Let those who hate you flee before you!”"
+      "text": "When the ark went forward, Moses said, “Rise up, the LORD, and let your enemies be scattered! Let those who hate you flee before you!”"
     },
     {
       "chapter": 10,
       "verse": 36,
-      "text": "When it rested, he said, “Return, Yahweh, to the ten thousands of the thousands of Israel.”"
+      "text": "When it rested, he said, “Return, the LORD, to the ten thousands of the thousands of Israel.”"
     },
     {
       "chapter": 11,
       "verse": 1,
-      "text": "The people were complaining in the ears of Yahweh. When Yahweh heard it, his anger burned; and Yahweh’s fire burned among them, and consumed some of the outskirts of the camp."
+      "text": "The people were complaining in the ears of the LORD. When the LORD heard it, his anger burned; and the LORD’s fire burned among them, and consumed some of the outskirts of the camp."
     },
     {
       "chapter": 11,
       "verse": 2,
-      "text": "The people cried to Moses; and Moses prayed to Yahweh, and the fire abated."
+      "text": "The people cried to Moses; and Moses prayed to the LORD, and the fire abated."
     },
     {
       "chapter": 11,
       "verse": 3,
-      "text": "The name of that place was called Taberah, because Yahweh’s fire burned among them."
+      "text": "The name of that place was called Taberah, because the LORD’s fire burned among them."
     },
     {
       "chapter": 11,
@@ -2155,12 +2155,12 @@
     {
       "chapter": 11,
       "verse": 10,
-      "text": "Moses heard the people weeping throughout their families, every man at the door of his tent; and Yahweh’s anger burned greatly; and Moses was displeased."
+      "text": "Moses heard the people weeping throughout their families, every man at the door of his tent; and the LORD’s anger burned greatly; and Moses was displeased."
     },
     {
       "chapter": 11,
       "verse": 11,
-      "text": "Moses said to Yahweh, “Why have you treated your servant so badly? Why haven’t I found favor in your sight, that you lay the burden of all this people on me?"
+      "text": "Moses said to the LORD, “Why have you treated your servant so badly? Why haven’t I found favor in your sight, that you lay the burden of all this people on me?"
     },
     {
       "chapter": 11,
@@ -2185,7 +2185,7 @@
     {
       "chapter": 11,
       "verse": 16,
-      "text": "Yahweh said to Moses, “Gather to me seventy men of the elders of Israel, whom you know to be the elders of the people and officers over them; and bring them to the Tent of Meeting, that they may stand there with you."
+      "text": "The LORD said to Moses, “Gather to me seventy men of the elders of Israel, whom you know to be the elders of the people and officers over them; and bring them to the Tent of Meeting, that they may stand there with you."
     },
     {
       "chapter": 11,
@@ -2195,7 +2195,7 @@
     {
       "chapter": 11,
       "verse": 18,
-      "text": "“Say to the people, ‘Sanctify yourselves in preparation for tomorrow, and you will eat meat; for you have wept in the ears of Yahweh, saying, “Who will give us meat to eat? For it was well with us in Egypt.” Therefore Yahweh will give you meat, and you will eat."
+      "text": "“Say to the people, ‘Sanctify yourselves in preparation for tomorrow, and you will eat meat; for you have wept in the ears of the LORD, saying, “Who will give us meat to eat? For it was well with us in Egypt.” Therefore the LORD will give you meat, and you will eat."
     },
     {
       "chapter": 11,
@@ -2205,7 +2205,7 @@
     {
       "chapter": 11,
       "verse": 20,
-      "text": "but a whole month, until it comes out at your nostrils, and it is loathsome to you; because you have rejected Yahweh who is among you, and have wept before him, saying, “Why did we come out of Egypt?” ’ ”"
+      "text": "but a whole month, until it comes out at your nostrils, and it is loathsome to you; because you have rejected the LORD who is among you, and have wept before him, saying, “Why did we come out of Egypt?” ’ ”"
     },
     {
       "chapter": 11,
@@ -2220,17 +2220,17 @@
     {
       "chapter": 11,
       "verse": 23,
-      "text": "Yahweh said to Moses, “Has Yahweh’s hand grown short? Now you will see whether my word will happen to you or not.”"
+      "text": "The LORD said to Moses, “Has the LORD’s hand grown short? Now you will see whether my word will happen to you or not.”"
     },
     {
       "chapter": 11,
       "verse": 24,
-      "text": "Moses went out, and told the people Yahweh’s words; and he gathered seventy men of the elders of the people, and set them around the Tent."
+      "text": "Moses went out, and told the people the LORD’s words; and he gathered seventy men of the elders of the people, and set them around the Tent."
     },
     {
       "chapter": 11,
       "verse": 25,
-      "text": "Yahweh came down in the cloud, and spoke to him, and took of the Spirit that was on him, and put it on the seventy elders. When the Spirit rested on them, they prophesied, but they did so no more."
+      "text": "The LORD came down in the cloud, and spoke to him, and took of the Spirit that was on him, and put it on the seventy elders. When the Spirit rested on them, they prophesied, but they did so no more."
     },
     {
       "chapter": 11,
@@ -2250,7 +2250,7 @@
     {
       "chapter": 11,
       "verse": 29,
-      "text": "Moses said to him, “Are you jealous for my sake? I wish that all Yahweh’s people were prophets, that Yahweh would put his Spirit on them!”"
+      "text": "Moses said to him, “Are you jealous for my sake? I wish that all the LORD’s people were prophets, that the LORD would put his Spirit on them!”"
     },
     {
       "chapter": 11,
@@ -2260,7 +2260,7 @@
     {
       "chapter": 11,
       "verse": 31,
-      "text": "A wind from Yahweh went out and brought quails from the sea, and let them fall by the camp, about a day’s journey on this side, and a day’s journey on the other side, around the camp, and about two cubits above the surface of the earth."
+      "text": "A wind from the LORD went out and brought quails from the sea, and let them fall by the camp, about a day’s journey on this side, and a day’s journey on the other side, around the camp, and about two cubits above the surface of the earth."
     },
     {
       "chapter": 11,
@@ -2270,7 +2270,7 @@
     {
       "chapter": 11,
       "verse": 33,
-      "text": "While the meat was still between their teeth, before it was chewed, Yahweh’s anger burned against the people, and Yahweh struck the people with a very great plague."
+      "text": "While the meat was still between their teeth, before it was chewed, the LORD’s anger burned against the people, and the LORD struck the people with a very great plague."
     },
     {
       "chapter": 11,
@@ -2290,7 +2290,7 @@
     {
       "chapter": 12,
       "verse": 2,
-      "text": "They said, “Has Yahweh indeed spoken only with Moses? Hasn’t he spoken also with us?” And Yahweh heard it."
+      "text": "They said, “Has the LORD indeed spoken only with Moses? Hasn’t he spoken also with us?” And the LORD heard it."
     },
     {
       "chapter": 12,
@@ -2300,17 +2300,17 @@
     {
       "chapter": 12,
       "verse": 4,
-      "text": "Yahweh spoke suddenly to Moses, to Aaron, and to Miriam, “You three come out to the Tent of Meeting!” The three of them came out."
+      "text": "The LORD spoke suddenly to Moses, to Aaron, and to Miriam, “You three come out to the Tent of Meeting!” The three of them came out."
     },
     {
       "chapter": 12,
       "verse": 5,
-      "text": "Yahweh came down in a pillar of cloud, and stood at the door of the Tent, and called Aaron and Miriam; and they both came forward."
+      "text": "The LORD came down in a pillar of cloud, and stood at the door of the Tent, and called Aaron and Miriam; and they both came forward."
     },
     {
       "chapter": 12,
       "verse": 6,
-      "text": "He said, “Now hear my words. If there is a prophet among you, I, Yahweh, will make myself known to him in a vision. I will speak with him in a dream."
+      "text": "He said, “Now hear my words. If there is a prophet among you, I, the LORD, will make myself known to him in a vision. I will speak with him in a dream."
     },
     {
       "chapter": 12,
@@ -2320,12 +2320,12 @@
     {
       "chapter": 12,
       "verse": 8,
-      "text": "With him, I will speak mouth to mouth, even plainly, and not in riddles; and he shall see Yahweh’s form. Why then were you not afraid to speak against my servant, against Moses?”"
+      "text": "With him, I will speak mouth to mouth, even plainly, and not in riddles; and he shall see the LORD’s form. Why then were you not afraid to speak against my servant, against Moses?”"
     },
     {
       "chapter": 12,
       "verse": 9,
-      "text": "Yahweh’s anger burned against them; and he departed."
+      "text": "The LORD’s anger burned against them; and he departed."
     },
     {
       "chapter": 12,
@@ -2345,12 +2345,12 @@
     {
       "chapter": 12,
       "verse": 13,
-      "text": "Moses cried to Yahweh, saying, “Heal her, God, I beg you!”"
+      "text": "Moses cried to the LORD, saying, “Heal her, God, I beg you!”"
     },
     {
       "chapter": 12,
       "verse": 14,
-      "text": "Yahweh said to Moses, “If her father had but spit in her face, shouldn’t she be ashamed seven days? Let her be shut up outside of the camp seven days, and after that she shall be brought in again.”"
+      "text": "The LORD said to Moses, “If her father had but spit in her face, shouldn’t she be ashamed seven days? Let her be shut up outside of the camp seven days, and after that she shall be brought in again.”"
     },
     {
       "chapter": 12,
@@ -2365,7 +2365,7 @@
     {
       "chapter": 13,
       "verse": 1,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 13,
@@ -2375,7 +2375,7 @@
     {
       "chapter": 13,
       "verse": 3,
-      "text": "Moses sent them from the wilderness of Paran according to the commandment of Yahweh. All of them were men who were heads of the children of Israel."
+      "text": "Moses sent them from the wilderness of Paran according to the commandment of the LORD. All of them were men who were heads of the children of Israel."
     },
     {
       "chapter": 13,
@@ -2540,7 +2540,7 @@
     {
       "chapter": 14,
       "verse": 3,
-      "text": "Why does Yahweh bring us to this land, to fall by the sword? Our wives and our little ones will be captured or killed! Wouldn’t it be better for us to return into Egypt?”"
+      "text": "Why does the LORD bring us to this land, to fall by the sword? Our wives and our little ones will be captured or killed! Wouldn’t it be better for us to return into Egypt?”"
     },
     {
       "chapter": 14,
@@ -2565,22 +2565,22 @@
     {
       "chapter": 14,
       "verse": 8,
-      "text": "If Yahweh delights in us, then he will bring us into this land, and give it to us: a land which flows with milk and honey."
+      "text": "If the LORD delights in us, then he will bring us into this land, and give it to us: a land which flows with milk and honey."
     },
     {
       "chapter": 14,
       "verse": 9,
-      "text": "Only don’t rebel against Yahweh, neither fear the people of the land; for they are bread for us. Their defense is removed from over them, and Yahweh is with us. Don’t fear them.”"
+      "text": "Only don’t rebel against the LORD, neither fear the people of the land; for they are bread for us. Their defense is removed from over them, and the LORD is with us. Don’t fear them.”"
     },
     {
       "chapter": 14,
       "verse": 10,
-      "text": "But all the congregation threatened to stone them with stones. Yahweh’s glory appeared in the Tent of Meeting to all the children of Israel."
+      "text": "But all the congregation threatened to stone them with stones. The LORD’s glory appeared in the Tent of Meeting to all the children of Israel."
     },
     {
       "chapter": 14,
       "verse": 11,
-      "text": "Yahweh said to Moses, “How long will this people despise me? How long will they not believe in me, for all the signs which I have worked among them?"
+      "text": "The LORD said to Moses, “How long will this people despise me? How long will they not believe in me, for all the signs which I have worked among them?"
     },
     {
       "chapter": 14,
@@ -2590,12 +2590,12 @@
     {
       "chapter": 14,
       "verse": 13,
-      "text": "Moses said to Yahweh, “Then the Egyptians will hear it; for you brought up this people in your might from among them."
+      "text": "Moses said to the LORD, “Then the Egyptians will hear it; for you brought up this people in your might from among them."
     },
     {
       "chapter": 14,
       "verse": 14,
-      "text": "They will tell it to the inhabitants of this land. They have heard that you Yahweh are among this people; for you Yahweh are seen face to face, and your cloud stands over them, and you go before them, in a pillar of cloud by day, and in a pillar of fire by night."
+      "text": "They will tell it to the inhabitants of this land. They have heard that you the LORD are among this people; for you the LORD are seen face to face, and your cloud stands over them, and you go before them, in a pillar of cloud by day, and in a pillar of fire by night."
     },
     {
       "chapter": 14,
@@ -2605,7 +2605,7 @@
     {
       "chapter": 14,
       "verse": 16,
-      "text": "‘Because Yahweh was not able to bring this people into the land which he swore to them, therefore he has slain them in the wilderness.’"
+      "text": "‘Because the LORD was not able to bring this people into the land which he swore to them, therefore he has slain them in the wilderness.’"
     },
     {
       "chapter": 14,
@@ -2615,7 +2615,7 @@
     {
       "chapter": 14,
       "verse": 18,
-      "text": "‘Yahweh is slow to anger, and abundant in loving kindness, forgiving iniquity and disobedience; and he will by no means clear the guilty, visiting the iniquity of the fathers on the children, on the third and on the fourth generation.’"
+      "text": "‘The LORD is slow to anger, and abundant in loving kindness, forgiving iniquity and disobedience; and he will by no means clear the guilty, visiting the iniquity of the fathers on the children, on the third and on the fourth generation.’"
     },
     {
       "chapter": 14,
@@ -2625,12 +2625,12 @@
     {
       "chapter": 14,
       "verse": 20,
-      "text": "Yahweh said, “I have pardoned according to your word;"
+      "text": "The LORD said, “I have pardoned according to your word;"
     },
     {
       "chapter": 14,
       "verse": 21,
-      "text": "but in very deed—as I live, and as all the earth shall be filled with Yahweh’s glory—"
+      "text": "but in very deed—as I live, and as all the earth shall be filled with the LORD’s glory—"
     },
     {
       "chapter": 14,
@@ -2655,7 +2655,7 @@
     {
       "chapter": 14,
       "verse": 26,
-      "text": "Yahweh spoke to Moses and to Aaron, saying,"
+      "text": "The LORD spoke to Moses and to Aaron, saying,"
     },
     {
       "chapter": 14,
@@ -2665,7 +2665,7 @@
     {
       "chapter": 14,
       "verse": 28,
-      "text": "Tell them, ‘As I live, says Yahweh, surely as you have spoken in my ears, so I will do to you."
+      "text": "Tell them, ‘As I live, says the LORD, surely as you have spoken in my ears, so I will do to you."
     },
     {
       "chapter": 14,
@@ -2700,7 +2700,7 @@
     {
       "chapter": 14,
       "verse": 35,
-      "text": "I, Yahweh, have spoken. I will surely do this to all this evil congregation who are gathered together against me. In this wilderness they shall be consumed, and there they shall die.”"
+      "text": "I, the LORD, have spoken. I will surely do this to all this evil congregation who are gathered together against me. In this wilderness they shall be consumed, and there they shall die.”"
     },
     {
       "chapter": 14,
@@ -2710,7 +2710,7 @@
     {
       "chapter": 14,
       "verse": 37,
-      "text": "even those men who brought up an evil report of the land, died by the plague before Yahweh."
+      "text": "even those men who brought up an evil report of the land, died by the plague before the LORD."
     },
     {
       "chapter": 14,
@@ -2725,27 +2725,27 @@
     {
       "chapter": 14,
       "verse": 40,
-      "text": "They rose up early in the morning and went up to the top of the mountain, saying, “Behold, we are here, and will go up to the place which Yahweh has promised; for we have sinned.”"
+      "text": "They rose up early in the morning and went up to the top of the mountain, saying, “Behold, we are here, and will go up to the place which the LORD has promised; for we have sinned.”"
     },
     {
       "chapter": 14,
       "verse": 41,
-      "text": "Moses said, “Why now do you disobey the commandment of Yahweh, since it shall not prosper?"
+      "text": "Moses said, “Why now do you disobey the commandment of the LORD, since it shall not prosper?"
     },
     {
       "chapter": 14,
       "verse": 42,
-      "text": "Don’t go up, for Yahweh isn’t among you; that way you won’t be struck down before your enemies."
+      "text": "Don’t go up, for the LORD isn’t among you; that way you won’t be struck down before your enemies."
     },
     {
       "chapter": 14,
       "verse": 43,
-      "text": "For there the Amalekite and the Canaanite are before you, and you will fall by the sword because you turned back from following Yahweh; therefore Yahweh will not be with you.”"
+      "text": "For there the Amalekite and the Canaanite are before you, and you will fall by the sword because you turned back from following the LORD; therefore the LORD will not be with you.”"
     },
     {
       "chapter": 14,
       "verse": 44,
-      "text": "But they presumed to go up to the top of the mountain. Nevertheless, the ark of Yahweh’s covenant and Moses didn’t depart out of the camp."
+      "text": "But they presumed to go up to the top of the mountain. Nevertheless, the ark of the LORD’s covenant and Moses didn’t depart out of the camp."
     },
     {
       "chapter": 14,
@@ -2755,7 +2755,7 @@
     {
       "chapter": 15,
       "verse": 1,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 15,
@@ -2765,12 +2765,12 @@
     {
       "chapter": 15,
       "verse": 3,
-      "text": "and will make an offering by fire to Yahweh—a burnt offering, or a sacrifice, to accomplish a vow, or as a free will offering, or in your set feasts, to make a pleasant aroma to Yahweh, of the herd, or of the flock—"
+      "text": "and will make an offering by fire to the LORD—a burnt offering, or a sacrifice, to accomplish a vow, or as a free will offering, or in your set feasts, to make a pleasant aroma to the LORD, of the herd, or of the flock—"
     },
     {
       "chapter": 15,
       "verse": 4,
-      "text": "then he who offers his offering shall offer to Yahweh a meal offering of one tenth of an ephah of fine flour mixed with one fourth of a hin of oil."
+      "text": "then he who offers his offering shall offer to the LORD a meal offering of one tenth of an ephah of fine flour mixed with one fourth of a hin of oil."
     },
     {
       "chapter": 15,
@@ -2785,12 +2785,12 @@
     {
       "chapter": 15,
       "verse": 7,
-      "text": "and for the drink offering you shall offer the third part of a hin of wine, of a pleasant aroma to Yahweh."
+      "text": "and for the drink offering you shall offer the third part of a hin of wine, of a pleasant aroma to the LORD."
     },
     {
       "chapter": 15,
       "verse": 8,
-      "text": "When you prepare a bull for a burnt offering or for a sacrifice, to accomplish a vow, or for peace offerings to Yahweh,"
+      "text": "When you prepare a bull for a burnt offering or for a sacrifice, to accomplish a vow, or for peace offerings to the LORD,"
     },
     {
       "chapter": 15,
@@ -2800,7 +2800,7 @@
     {
       "chapter": 15,
       "verse": 10,
-      "text": "and you shall offer for the drink offering half a hin of wine, for an offering made by fire, of a pleasant aroma to Yahweh."
+      "text": "and you shall offer for the drink offering half a hin of wine, for an offering made by fire, of a pleasant aroma to the LORD."
     },
     {
       "chapter": 15,
@@ -2815,17 +2815,17 @@
     {
       "chapter": 15,
       "verse": 13,
-      "text": "“ ‘All who are native-born shall do these things in this way, in offering an offering made by fire, of a pleasant aroma to Yahweh."
+      "text": "“ ‘All who are native-born shall do these things in this way, in offering an offering made by fire, of a pleasant aroma to the LORD."
     },
     {
       "chapter": 15,
       "verse": 14,
-      "text": "If a stranger lives as a foreigner with you, or whoever may be among you throughout your generations, and will offer an offering made by fire, of a pleasant aroma to Yahweh, as you do, so he shall do."
+      "text": "If a stranger lives as a foreigner with you, or whoever may be among you throughout your generations, and will offer an offering made by fire, of a pleasant aroma to the LORD, as you do, so he shall do."
     },
     {
       "chapter": 15,
       "verse": 15,
-      "text": "For the assembly, there shall be one statute for you and for the stranger who lives as a foreigner, a statute forever throughout your generations. As you are, so the foreigner shall be before Yahweh."
+      "text": "For the assembly, there shall be one statute for you and for the stranger who lives as a foreigner, a statute forever throughout your generations. As you are, so the foreigner shall be before the LORD."
     },
     {
       "chapter": 15,
@@ -2835,7 +2835,7 @@
     {
       "chapter": 15,
       "verse": 17,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 15,
@@ -2845,7 +2845,7 @@
     {
       "chapter": 15,
       "verse": 19,
-      "text": "then it shall be that when you eat of the bread of the land, you shall offer up a wave offering to Yahweh."
+      "text": "then it shall be that when you eat of the bread of the land, you shall offer up a wave offering to the LORD."
     },
     {
       "chapter": 15,
@@ -2855,27 +2855,27 @@
     {
       "chapter": 15,
       "verse": 21,
-      "text": "Of the first of your dough, you shall give to Yahweh a wave offering throughout your generations."
+      "text": "Of the first of your dough, you shall give to the LORD a wave offering throughout your generations."
     },
     {
       "chapter": 15,
       "verse": 22,
-      "text": "“ ‘When you err, and don’t observe all these commandments which Yahweh has spoken to Moses—"
+      "text": "“ ‘When you err, and don’t observe all these commandments which the LORD has spoken to Moses—"
     },
     {
       "chapter": 15,
       "verse": 23,
-      "text": "even all that Yahweh has commanded you by Moses, from the day that Yahweh gave commandment and onward throughout your generations—"
+      "text": "even all that the LORD has commanded you by Moses, from the day that the LORD gave commandment and onward throughout your generations—"
     },
     {
       "chapter": 15,
       "verse": 24,
-      "text": "then it shall be, if it was done unwittingly, without the knowledge of the congregation, that all the congregation shall offer one young bull for a burnt offering, for a pleasant aroma to Yahweh, with its meal offering and its drink offering, according to the ordinance, and one male goat for a sin offering."
+      "text": "then it shall be, if it was done unwittingly, without the knowledge of the congregation, that all the congregation shall offer one young bull for a burnt offering, for a pleasant aroma to the LORD, with its meal offering and its drink offering, according to the ordinance, and one male goat for a sin offering."
     },
     {
       "chapter": 15,
       "verse": 25,
-      "text": "The priest shall make atonement for all the congregation of the children of Israel, and they shall be forgiven; for it was an error, and they have brought their offering, an offering made by fire to Yahweh, and their sin offering before Yahweh, for their error."
+      "text": "The priest shall make atonement for all the congregation of the children of Israel, and they shall be forgiven; for it was an error, and they have brought their offering, an offering made by fire to the LORD, and their sin offering before the LORD, for their error."
     },
     {
       "chapter": 15,
@@ -2890,7 +2890,7 @@
     {
       "chapter": 15,
       "verse": 28,
-      "text": "The priest shall make atonement for the soul who errs when he sins unwittingly before Yahweh. He shall make atonement for him; and he shall be forgiven."
+      "text": "The priest shall make atonement for the soul who errs when he sins unwittingly before the LORD. He shall make atonement for him; and he shall be forgiven."
     },
     {
       "chapter": 15,
@@ -2900,12 +2900,12 @@
     {
       "chapter": 15,
       "verse": 30,
-      "text": "“ ‘But the soul who does anything with a high hand, whether he is native-born or a foreigner, blasphemes Yahweh. That soul shall be cut off from among his people."
+      "text": "“ ‘But the soul who does anything with a high hand, whether he is native-born or a foreigner, blasphemes the LORD. That soul shall be cut off from among his people."
     },
     {
       "chapter": 15,
       "verse": 31,
-      "text": "Because he has despised Yahweh’s word, and has broken his commandment, that soul shall be utterly cut off. His iniquity shall be on him.’ ”"
+      "text": "Because he has despised the LORD’s word, and has broken his commandment, that soul shall be utterly cut off. His iniquity shall be on him.’ ”"
     },
     {
       "chapter": 15,
@@ -2925,17 +2925,17 @@
     {
       "chapter": 15,
       "verse": 35,
-      "text": "Yahweh said to Moses, “The man shall surely be put to death. All the congregation shall stone him with stones outside of the camp.”"
+      "text": "The LORD said to Moses, “The man shall surely be put to death. All the congregation shall stone him with stones outside of the camp.”"
     },
     {
       "chapter": 15,
       "verse": 36,
-      "text": "All the congregation brought him outside of the camp, and stoned him to death with stones, as Yahweh commanded Moses."
+      "text": "All the congregation brought him outside of the camp, and stoned him to death with stones, as the LORD commanded Moses."
     },
     {
       "chapter": 15,
       "verse": 37,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 15,
@@ -2945,7 +2945,7 @@
     {
       "chapter": 15,
       "verse": 39,
-      "text": "It shall be to you for a fringe, that you may see it, and remember all Yahweh’s commandments, and do them; and that you don’t follow your own heart and your own eyes, after which you used to play the prostitute;"
+      "text": "It shall be to you for a fringe, that you may see it, and remember all the LORD’s commandments, and do them; and that you don’t follow your own heart and your own eyes, after which you used to play the prostitute;"
     },
     {
       "chapter": 15,
@@ -2955,7 +2955,7 @@
     {
       "chapter": 15,
       "verse": 41,
-      "text": "I am Yahweh your God, who brought you out of the land of Egypt, to be your God: I am Yahweh your God.”"
+      "text": "I am the LORD your God, who brought you out of the land of Egypt, to be your God: I am the LORD your God.”"
     },
     {
       "chapter": 16,
@@ -2970,7 +2970,7 @@
     {
       "chapter": 16,
       "verse": 3,
-      "text": "They assembled themselves together against Moses and against Aaron, and said to them, “You take too much on yourself, since all the congregation are holy, everyone of them, and Yahweh is among them! Why do you lift yourselves up above Yahweh’s assembly?”"
+      "text": "They assembled themselves together against Moses and against Aaron, and said to them, “You take too much on yourself, since all the congregation are holy, everyone of them, and the LORD is among them! Why do you lift yourselves up above the LORD’s assembly?”"
     },
     {
       "chapter": 16,
@@ -2980,7 +2980,7 @@
     {
       "chapter": 16,
       "verse": 5,
-      "text": "He said to Korah and to all his company, “In the morning, Yahweh will show who are his, and who is holy, and will cause him to come near to him. Even him whom he shall choose, he will cause to come near to him."
+      "text": "He said to Korah and to all his company, “In the morning, the LORD will show who are his, and who is holy, and will cause him to come near to him. Even him whom he shall choose, he will cause to come near to him."
     },
     {
       "chapter": 16,
@@ -2990,7 +2990,7 @@
     {
       "chapter": 16,
       "verse": 7,
-      "text": "put fire in them, and put incense on them before Yahweh tomorrow. It shall be that the man whom Yahweh chooses, he shall be holy. You have gone too far, you sons of Levi!”"
+      "text": "put fire in them, and put incense on them before the LORD tomorrow. It shall be that the man whom the LORD chooses, he shall be holy. You have gone too far, you sons of Levi!”"
     },
     {
       "chapter": 16,
@@ -3000,7 +3000,7 @@
     {
       "chapter": 16,
       "verse": 9,
-      "text": "Is it a small thing to you that the God of Israel has separated you from the congregation of Israel, to bring you near to himself, to do the service of Yahweh’s tabernacle, and to stand before the congregation to minister to them;"
+      "text": "Is it a small thing to you that the God of Israel has separated you from the congregation of Israel, to bring you near to himself, to do the service of the LORD’s tabernacle, and to stand before the congregation to minister to them;"
     },
     {
       "chapter": 16,
@@ -3010,7 +3010,7 @@
     {
       "chapter": 16,
       "verse": 11,
-      "text": "Therefore you and all your company have gathered together against Yahweh! What is Aaron that you complain against him?”"
+      "text": "Therefore you and all your company have gathered together against the LORD! What is Aaron that you complain against him?”"
     },
     {
       "chapter": 16,
@@ -3030,17 +3030,17 @@
     {
       "chapter": 16,
       "verse": 15,
-      "text": "Moses was very angry, and said to Yahweh, “Don’t respect their offering. I have not taken one donkey from them, neither have I hurt one of them.”"
+      "text": "Moses was very angry, and said to the LORD, “Don’t respect their offering. I have not taken one donkey from them, neither have I hurt one of them.”"
     },
     {
       "chapter": 16,
       "verse": 16,
-      "text": "Moses said to Korah, “You and all your company go before Yahweh, you, and they, and Aaron, tomorrow."
+      "text": "Moses said to Korah, “You and all your company go before the LORD, you, and they, and Aaron, tomorrow."
     },
     {
       "chapter": 16,
       "verse": 17,
-      "text": "Each man take his censer and put incense on it, and each man bring before Yahweh his censer, two hundred fifty censers; you also, and Aaron, each with his censer.”"
+      "text": "Each man take his censer and put incense on it, and each man bring before the LORD his censer, two hundred fifty censers; you also, and Aaron, each with his censer.”"
     },
     {
       "chapter": 16,
@@ -3050,12 +3050,12 @@
     {
       "chapter": 16,
       "verse": 19,
-      "text": "Korah assembled all the congregation opposite them to the door of the Tent of Meeting. Yahweh’s glory appeared to all the congregation."
+      "text": "Korah assembled all the congregation opposite them to the door of the Tent of Meeting. The LORD’s glory appeared to all the congregation."
     },
     {
       "chapter": 16,
       "verse": 20,
-      "text": "Yahweh spoke to Moses and to Aaron, saying,"
+      "text": "The LORD spoke to Moses and to Aaron, saying,"
     },
     {
       "chapter": 16,
@@ -3070,7 +3070,7 @@
     {
       "chapter": 16,
       "verse": 23,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 16,
@@ -3095,17 +3095,17 @@
     {
       "chapter": 16,
       "verse": 28,
-      "text": "Moses said, “Hereby you shall know that Yahweh has sent me to do all these works; for they are not from my own mind."
+      "text": "Moses said, “Hereby you shall know that the LORD has sent me to do all these works; for they are not from my own mind."
     },
     {
       "chapter": 16,
       "verse": 29,
-      "text": "If these men die the common death of all men, or if they experience what all men experience, then Yahweh hasn’t sent me."
+      "text": "If these men die the common death of all men, or if they experience what all men experience, then the LORD hasn’t sent me."
     },
     {
       "chapter": 16,
       "verse": 30,
-      "text": "But if Yahweh makes a new thing, and the ground opens its mouth, and swallows them up with all that belong to them, and they go down alive into Sheol, then you shall understand that these men have despised Yahweh.”"
+      "text": "But if the LORD makes a new thing, and the ground opens its mouth, and swallows them up with all that belong to them, and they go down alive into Sheol, then you shall understand that these men have despised the LORD.”"
     },
     {
       "chapter": 16,
@@ -3130,12 +3130,12 @@
     {
       "chapter": 16,
       "verse": 35,
-      "text": "Fire came out from Yahweh, and devoured the two hundred fifty men who offered the incense."
+      "text": "Fire came out from the LORD, and devoured the two hundred fifty men who offered the incense."
     },
     {
       "chapter": 16,
       "verse": 36,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 16,
@@ -3145,7 +3145,7 @@
     {
       "chapter": 16,
       "verse": 38,
-      "text": "even the censers of those who sinned against their own lives. Let them be beaten into plates for a covering of the altar, for they offered them before Yahweh. Therefore they are holy. They shall be a sign to the children of Israel.”"
+      "text": "even the censers of those who sinned against their own lives. Let them be beaten into plates for a covering of the altar, for they offered them before the LORD. Therefore they are holy. They shall be a sign to the children of Israel.”"
     },
     {
       "chapter": 16,
@@ -3155,17 +3155,17 @@
     {
       "chapter": 16,
       "verse": 40,
-      "text": "to be a memorial to the children of Israel, to the end that no stranger who isn’t of the offspring of Aaron, would come near to burn incense before Yahweh, that he not be as Korah and as his company; as Yahweh spoke to him by Moses."
+      "text": "to be a memorial to the children of Israel, to the end that no stranger who isn’t of the offspring of Aaron, would come near to burn incense before the LORD, that he not be as Korah and as his company; as the LORD spoke to him by Moses."
     },
     {
       "chapter": 16,
       "verse": 41,
-      "text": "But on the next day all the congregation of the children of Israel complained against Moses and against Aaron, saying, “You have killed Yahweh’s people!”"
+      "text": "But on the next day all the congregation of the children of Israel complained against Moses and against Aaron, saying, “You have killed the LORD’s people!”"
     },
     {
       "chapter": 16,
       "verse": 42,
-      "text": "When the congregation was assembled against Moses and against Aaron, they looked toward the Tent of Meeting. Behold, the cloud covered it, and Yahweh’s glory appeared."
+      "text": "When the congregation was assembled against Moses and against Aaron, they looked toward the Tent of Meeting. Behold, the cloud covered it, and the LORD’s glory appeared."
     },
     {
       "chapter": 16,
@@ -3175,7 +3175,7 @@
     {
       "chapter": 16,
       "verse": 44,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 16,
@@ -3185,7 +3185,7 @@
     {
       "chapter": 16,
       "verse": 46,
-      "text": "Moses said to Aaron, “Take your censer, put fire from the altar in it, lay incense on it, carry it quickly to the congregation, and make atonement for them; for wrath has gone out from Yahweh! The plague has begun.”"
+      "text": "Moses said to Aaron, “Take your censer, put fire from the altar in it, lay incense on it, carry it quickly to the congregation, and make atonement for them; for wrath has gone out from the LORD! The plague has begun.”"
     },
     {
       "chapter": 16,
@@ -3210,7 +3210,7 @@
     {
       "chapter": 17,
       "verse": 1,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 17,
@@ -3240,7 +3240,7 @@
     {
       "chapter": 17,
       "verse": 7,
-      "text": "Moses laid up the rods before Yahweh in the Tent of the Testimony."
+      "text": "Moses laid up the rods before the LORD in the Tent of the Testimony."
     },
     {
       "chapter": 17,
@@ -3250,17 +3250,17 @@
     {
       "chapter": 17,
       "verse": 9,
-      "text": "Moses brought out all the rods from before Yahweh to all the children of Israel. They looked, and each man took his rod."
+      "text": "Moses brought out all the rods from before the LORD to all the children of Israel. They looked, and each man took his rod."
     },
     {
       "chapter": 17,
       "verse": 10,
-      "text": "Yahweh said to Moses, “Put back the rod of Aaron before the covenant, to be kept for a token against the children of rebellion; that you may make an end of their complaining against me, that they not die.”"
+      "text": "The LORD said to Moses, “Put back the rod of Aaron before the covenant, to be kept for a token against the children of rebellion; that you may make an end of their complaining against me, that they not die.”"
     },
     {
       "chapter": 17,
       "verse": 11,
-      "text": "Moses did so. As Yahweh commanded him, so he did."
+      "text": "Moses did so. As the LORD commanded him, so he did."
     },
     {
       "chapter": 17,
@@ -3270,12 +3270,12 @@
     {
       "chapter": 17,
       "verse": 13,
-      "text": "Everyone who keeps approaching Yahweh’s tabernacle, dies! Will we all perish?”"
+      "text": "Everyone who keeps approaching the LORD’s tabernacle, dies! Will we all perish?”"
     },
     {
       "chapter": 18,
       "verse": 1,
-      "text": "Yahweh said to Aaron, “You and your sons and your fathers’ house with you shall bear the iniquity of the sanctuary; and you and your sons with you shall bear the iniquity of your priesthood."
+      "text": "The LORD said to Aaron, “You and your sons and your fathers’ house with you shall bear the iniquity of the sanctuary; and you and your sons with you shall bear the iniquity of your priesthood."
     },
     {
       "chapter": 18,
@@ -3300,7 +3300,7 @@
     {
       "chapter": 18,
       "verse": 6,
-      "text": "Behold, I myself have taken your brothers the Levites from among the children of Israel. They are a gift to you, dedicated to Yahweh, to do the service of the Tent of Meeting."
+      "text": "Behold, I myself have taken your brothers the Levites from among the children of Israel. They are a gift to you, dedicated to the LORD, to do the service of the Tent of Meeting."
     },
     {
       "chapter": 18,
@@ -3310,7 +3310,7 @@
     {
       "chapter": 18,
       "verse": 8,
-      "text": "Yahweh spoke to Aaron, “Behold, I myself have given you the command of my wave offerings, even all the holy things of the children of Israel. I have given them to you by reason of the anointing, and to your sons, as a portion forever."
+      "text": "The LORD spoke to Aaron, “Behold, I myself have given you the command of my wave offerings, even all the holy things of the children of Israel. I have given them to you by reason of the anointing, and to your sons, as a portion forever."
     },
     {
       "chapter": 18,
@@ -3330,12 +3330,12 @@
     {
       "chapter": 18,
       "verse": 12,
-      "text": "“I have given to you all the best of the oil, all the best of the vintage, and of the grain, the first fruits of them which they give to Yahweh."
+      "text": "“I have given to you all the best of the oil, all the best of the vintage, and of the grain, the first fruits of them which they give to the LORD."
     },
     {
       "chapter": 18,
       "verse": 13,
-      "text": "The first-ripe fruits of all that is in their land, which they bring to Yahweh, shall be yours. Everyone who is clean in your house shall eat of it."
+      "text": "The first-ripe fruits of all that is in their land, which they bring to the LORD, shall be yours. Everyone who is clean in your house shall eat of it."
     },
     {
       "chapter": 18,
@@ -3345,7 +3345,7 @@
     {
       "chapter": 18,
       "verse": 15,
-      "text": "Everything that opens the womb, of all flesh which they offer to Yahweh, both of man and animal, shall be yours. Nevertheless, you shall surely redeem the firstborn of man, and you shall redeem the firstborn of unclean animals."
+      "text": "Everything that opens the womb, of all flesh which they offer to the LORD, both of man and animal, shall be yours. Nevertheless, you shall surely redeem the firstborn of man, and you shall redeem the firstborn of unclean animals."
     },
     {
       "chapter": 18,
@@ -3355,7 +3355,7 @@
     {
       "chapter": 18,
       "verse": 17,
-      "text": "“But you shall not redeem the firstborn of a cow, or the firstborn of a sheep, or the firstborn of a goat. They are holy. You shall sprinkle their blood on the altar, and shall burn their fat for an offering made by fire, for a pleasant aroma to Yahweh."
+      "text": "“But you shall not redeem the firstborn of a cow, or the firstborn of a sheep, or the firstborn of a goat. They are holy. You shall sprinkle their blood on the altar, and shall burn their fat for an offering made by fire, for a pleasant aroma to the LORD."
     },
     {
       "chapter": 18,
@@ -3365,12 +3365,12 @@
     {
       "chapter": 18,
       "verse": 19,
-      "text": "All the wave offerings of the holy things which the children of Israel offer to Yahweh, I have given you and your sons and your daughters with you, as a portion forever. It is a covenant of salt forever before Yahweh to you and to your offspring with you.”"
+      "text": "All the wave offerings of the holy things which the children of Israel offer to the LORD, I have given you and your sons and your daughters with you, as a portion forever. It is a covenant of salt forever before the LORD to you and to your offspring with you.”"
     },
     {
       "chapter": 18,
       "verse": 20,
-      "text": "Yahweh said to Aaron, “You shall have no inheritance in their land, neither shall you have any portion among them. I am your portion and your inheritance among the children of Israel."
+      "text": "The LORD said to Aaron, “You shall have no inheritance in their land, neither shall you have any portion among them. I am your portion and your inheritance among the children of Israel."
     },
     {
       "chapter": 18,
@@ -3390,17 +3390,17 @@
     {
       "chapter": 18,
       "verse": 24,
-      "text": "For the tithe of the children of Israel, which they offer as a wave offering to Yahweh, I have given to the Levites for an inheritance. Therefore I have said to them, ‘Among the children of Israel they shall have no inheritance.’ ”"
+      "text": "For the tithe of the children of Israel, which they offer as a wave offering to the LORD, I have given to the Levites for an inheritance. Therefore I have said to them, ‘Among the children of Israel they shall have no inheritance.’ ”"
     },
     {
       "chapter": 18,
       "verse": 25,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 18,
       "verse": 26,
-      "text": "“Moreover you shall speak to the Levites, and tell them, ‘When you take of the children of Israel the tithe which I have given you from them for your inheritance, then you shall offer up a wave offering of it for Yahweh, a tithe of the tithe."
+      "text": "“Moreover you shall speak to the Levites, and tell them, ‘When you take of the children of Israel the tithe which I have given you from them for your inheritance, then you shall offer up a wave offering of it for the LORD, a tithe of the tithe."
     },
     {
       "chapter": 18,
@@ -3410,12 +3410,12 @@
     {
       "chapter": 18,
       "verse": 28,
-      "text": "Thus you also shall offer a wave offering to Yahweh of all your tithes, which you receive of the children of Israel; and of it you shall give Yahweh’s wave offering to Aaron the priest."
+      "text": "Thus you also shall offer a wave offering to the LORD of all your tithes, which you receive of the children of Israel; and of it you shall give the LORD’s wave offering to Aaron the priest."
     },
     {
       "chapter": 18,
       "verse": 29,
-      "text": "Out of all your gifts, you shall offer every wave offering to Yahweh, of all its best parts, even the holy part of it.’"
+      "text": "Out of all your gifts, you shall offer every wave offering to the LORD, of all its best parts, even the holy part of it.’"
     },
     {
       "chapter": 18,
@@ -3435,12 +3435,12 @@
     {
       "chapter": 19,
       "verse": 1,
-      "text": "Yahweh spoke to Moses and to Aaron, saying,"
+      "text": "The LORD spoke to Moses and to Aaron, saying,"
     },
     {
       "chapter": 19,
       "verse": 2,
-      "text": "“This is the statute of the law which Yahweh has commanded. Tell the children of Israel to bring you a red heifer without spot, in which is no defect, and which was never yoked."
+      "text": "“This is the statute of the law which the LORD has commanded. Tell the children of Israel to bring you a red heifer without spot, in which is no defect, and which was never yoked."
     },
     {
       "chapter": 19,
@@ -3495,7 +3495,7 @@
     {
       "chapter": 19,
       "verse": 13,
-      "text": "Whoever touches a dead person, the body of a man who has died, and doesn’t purify himself, defiles Yahweh’s tabernacle; and that soul shall be cut off from Israel; because the water for impurity was not sprinkled on him, he shall be unclean. His uncleanness is yet on him."
+      "text": "Whoever touches a dead person, the body of a man who has died, and doesn’t purify himself, defiles the LORD’s tabernacle; and that soul shall be cut off from Israel; because the water for impurity was not sprinkled on him, he shall be unclean. His uncleanness is yet on him."
     },
     {
       "chapter": 19,
@@ -3530,7 +3530,7 @@
     {
       "chapter": 19,
       "verse": 20,
-      "text": "But the man who shall be unclean, and shall not purify himself, that soul shall be cut off from among the assembly, because he has defiled the sanctuary of Yahweh. The water for impurity has not been sprinkled on him. He is unclean."
+      "text": "But the man who shall be unclean, and shall not purify himself, that soul shall be cut off from among the assembly, because he has defiled the sanctuary of the LORD. The water for impurity has not been sprinkled on him. He is unclean."
     },
     {
       "chapter": 19,
@@ -3555,12 +3555,12 @@
     {
       "chapter": 20,
       "verse": 3,
-      "text": "The people quarreled with Moses, and spoke, saying, “We wish that we had died when our brothers died before Yahweh!"
+      "text": "The people quarreled with Moses, and spoke, saying, “We wish that we had died when our brothers died before the LORD!"
     },
     {
       "chapter": 20,
       "verse": 4,
-      "text": "Why have you brought Yahweh’s assembly into this wilderness, that we should die there, we and our animals?"
+      "text": "Why have you brought the LORD’s assembly into this wilderness, that we should die there, we and our animals?"
     },
     {
       "chapter": 20,
@@ -3570,12 +3570,12 @@
     {
       "chapter": 20,
       "verse": 6,
-      "text": "Moses and Aaron went from the presence of the assembly to the door of the Tent of Meeting, and fell on their faces. Yahweh’s glory appeared to them."
+      "text": "Moses and Aaron went from the presence of the assembly to the door of the Tent of Meeting, and fell on their faces. The LORD’s glory appeared to them."
     },
     {
       "chapter": 20,
       "verse": 7,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 20,
@@ -3585,7 +3585,7 @@
     {
       "chapter": 20,
       "verse": 9,
-      "text": "Moses took the rod from before Yahweh, as he commanded him."
+      "text": "Moses took the rod from before the LORD, as he commanded him."
     },
     {
       "chapter": 20,
@@ -3600,12 +3600,12 @@
     {
       "chapter": 20,
       "verse": 12,
-      "text": "Yahweh said to Moses and Aaron, “Because you didn’t believe in me, to sanctify me in the eyes of the children of Israel, therefore you shall not bring this assembly into the land which I have given them.”"
+      "text": "The LORD said to Moses and Aaron, “Because you didn’t believe in me, to sanctify me in the eyes of the children of Israel, therefore you shall not bring this assembly into the land which I have given them.”"
     },
     {
       "chapter": 20,
       "verse": 13,
-      "text": "These are the waters of Meribah; because the children of Israel strove with Yahweh, and he was sanctified in them."
+      "text": "These are the waters of Meribah; because the children of Israel strove with the LORD, and he was sanctified in them."
     },
     {
       "chapter": 20,
@@ -3620,7 +3620,7 @@
     {
       "chapter": 20,
       "verse": 16,
-      "text": "When we cried to Yahweh, he heard our voice, sent an angel, and brought us out of Egypt. Behold, we are in Kadesh, a city in the edge of your border."
+      "text": "When we cried to the LORD, he heard our voice, sent an angel, and brought us out of Egypt. Behold, we are in Kadesh, a city in the edge of your border."
     },
     {
       "chapter": 20,
@@ -3655,7 +3655,7 @@
     {
       "chapter": 20,
       "verse": 23,
-      "text": "Yahweh spoke to Moses and Aaron in Mount Hor, by the border of the land of Edom, saying,"
+      "text": "The LORD spoke to Moses and Aaron in Mount Hor, by the border of the land of Edom, saying,"
     },
     {
       "chapter": 20,
@@ -3675,7 +3675,7 @@
     {
       "chapter": 20,
       "verse": 27,
-      "text": "Moses did as Yahweh commanded. They went up onto Mount Hor in the sight of all the congregation."
+      "text": "Moses did as the LORD commanded. They went up onto Mount Hor in the sight of all the congregation."
     },
     {
       "chapter": 20,
@@ -3695,12 +3695,12 @@
     {
       "chapter": 21,
       "verse": 2,
-      "text": "Israel vowed a vow to Yahweh, and said, “If you will indeed deliver this people into my hand, then I will utterly destroy their cities.”"
+      "text": "Israel vowed a vow to the LORD, and said, “If you will indeed deliver this people into my hand, then I will utterly destroy their cities.”"
     },
     {
       "chapter": 21,
       "verse": 3,
-      "text": "Yahweh listened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities. The name of the place was called Hormah."
+      "text": "The LORD listened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities. The name of the place was called Hormah."
     },
     {
       "chapter": 21,
@@ -3715,17 +3715,17 @@
     {
       "chapter": 21,
       "verse": 6,
-      "text": "Yahweh sent venomous snakes among the people, and they bit the people. Many people of Israel died."
+      "text": "The LORD sent venomous snakes among the people, and they bit the people. Many people of Israel died."
     },
     {
       "chapter": 21,
       "verse": 7,
-      "text": "The people came to Moses, and said, “We have sinned, because we have spoken against Yahweh and against you. Pray to Yahweh, that he take away the serpents from us.” Moses prayed for the people."
+      "text": "The people came to Moses, and said, “We have sinned, because we have spoken against the LORD and against you. Pray to the LORD, that he take away the serpents from us.” Moses prayed for the people."
     },
     {
       "chapter": 21,
       "verse": 8,
-      "text": "Yahweh said to Moses, “Make a venomous snake, and set it on a pole. It shall happen that everyone who is bitten, when he sees it, shall live.”"
+      "text": "The LORD said to Moses, “Make a venomous snake, and set it on a pole. It shall happen that everyone who is bitten, when he sees it, shall live.”"
     },
     {
       "chapter": 21,
@@ -3755,7 +3755,7 @@
     {
       "chapter": 21,
       "verse": 14,
-      "text": "Therefore it is said in The Book of the Wars of Yahweh, “Vaheb in Suphah, the valleys of the Arnon,"
+      "text": "Therefore it is said in The Book of the Wars of the LORD, “Vaheb in Suphah, the valleys of the Arnon,"
     },
     {
       "chapter": 21,
@@ -3765,7 +3765,7 @@
     {
       "chapter": 21,
       "verse": 16,
-      "text": "From there they traveled to Beer; that is the well of which Yahweh said to Moses, “Gather the people together, and I will give them water.”"
+      "text": "From there they traveled to Beer; that is the well of which the LORD said to Moses, “Gather the people together, and I will give them water.”"
     },
     {
       "chapter": 21,
@@ -3855,7 +3855,7 @@
     {
       "chapter": 21,
       "verse": 34,
-      "text": "Yahweh said to Moses, “Don’t fear him, for I have delivered him into your hand, with all his people, and his land. You shall do to him as you did to Sihon king of the Amorites, who lived at Heshbon.”"
+      "text": "The LORD said to Moses, “Don’t fear him, for I have delivered him into your hand, with all his people, and his land. You shall do to him as you did to Sihon king of the Amorites, who lived at Heshbon.”"
     },
     {
       "chapter": 21,
@@ -3900,7 +3900,7 @@
     {
       "chapter": 22,
       "verse": 8,
-      "text": "He said to them, “Lodge here this night, and I will bring you word again, as Yahweh shall speak to me.” The princes of Moab stayed with Balaam."
+      "text": "He said to them, “Lodge here this night, and I will bring you word again, as the LORD shall speak to me.” The princes of Moab stayed with Balaam."
     },
     {
       "chapter": 22,
@@ -3925,7 +3925,7 @@
     {
       "chapter": 22,
       "verse": 13,
-      "text": "Balaam rose up in the morning, and said to the princes of Balak, “Go to your land; for Yahweh refuses to permit me to go with you.”"
+      "text": "Balaam rose up in the morning, and said to the princes of Balak, “Go to your land; for the LORD refuses to permit me to go with you.”"
     },
     {
       "chapter": 22,
@@ -3950,12 +3950,12 @@
     {
       "chapter": 22,
       "verse": 18,
-      "text": "Balaam answered the servants of Balak, “If Balak would give me his house full of silver and gold, I can’t go beyond the word of Yahweh my God, to do less or more."
+      "text": "Balaam answered the servants of Balak, “If Balak would give me his house full of silver and gold, I can’t go beyond the word of the LORD my God, to do less or more."
     },
     {
       "chapter": 22,
       "verse": 19,
-      "text": "Now therefore please stay here tonight as well, that I may know what else Yahweh will speak to me.”"
+      "text": "Now therefore please stay here tonight as well, that I may know what else the LORD will speak to me.”"
     },
     {
       "chapter": 22,
@@ -3970,37 +3970,37 @@
     {
       "chapter": 22,
       "verse": 22,
-      "text": "God’s anger burned because he went; and Yahweh’s angel placed himself in the way as an adversary against him. Now he was riding on his donkey, and his two servants were with him."
+      "text": "God’s anger burned because he went; and the LORD’s angel placed himself in the way as an adversary against him. Now he was riding on his donkey, and his two servants were with him."
     },
     {
       "chapter": 22,
       "verse": 23,
-      "text": "The donkey saw Yahweh’s angel standing in the way, with his sword drawn in his hand; and the donkey turned out of the path, and went into the field. Balaam struck the donkey, to turn her into the path."
+      "text": "The donkey saw the LORD’s angel standing in the way, with his sword drawn in his hand; and the donkey turned out of the path, and went into the field. Balaam struck the donkey, to turn her into the path."
     },
     {
       "chapter": 22,
       "verse": 24,
-      "text": "Then Yahweh’s angel stood in a narrow path between the vineyards, a wall being on this side, and a wall on that side."
+      "text": "Then the LORD’s angel stood in a narrow path between the vineyards, a wall being on this side, and a wall on that side."
     },
     {
       "chapter": 22,
       "verse": 25,
-      "text": "The donkey saw Yahweh’s angel, and she thrust herself to the wall, and crushed Balaam’s foot against the wall. He struck her again."
+      "text": "The donkey saw the LORD’s angel, and she thrust herself to the wall, and crushed Balaam’s foot against the wall. He struck her again."
     },
     {
       "chapter": 22,
       "verse": 26,
-      "text": "Yahweh’s angel went further, and stood in a narrow place, where there was no way to turn either to the right hand or to the left."
+      "text": "The LORD’s angel went further, and stood in a narrow place, where there was no way to turn either to the right hand or to the left."
     },
     {
       "chapter": 22,
       "verse": 27,
-      "text": "The donkey saw Yahweh’s angel, and she lay down under Balaam. Balaam’s anger burned, and he struck the donkey with his staff."
+      "text": "The donkey saw the LORD’s angel, and she lay down under Balaam. Balaam’s anger burned, and he struck the donkey with his staff."
     },
     {
       "chapter": 22,
       "verse": 28,
-      "text": "Yahweh opened the mouth of the donkey, and she said to Balaam, “What have I done to you, that you have struck me these three times?”"
+      "text": "The LORD opened the mouth of the donkey, and she said to Balaam, “What have I done to you, that you have struck me these three times?”"
     },
     {
       "chapter": 22,
@@ -4015,12 +4015,12 @@
     {
       "chapter": 22,
       "verse": 31,
-      "text": "Then Yahweh opened the eyes of Balaam, and he saw Yahweh’s angel standing in the way, with his sword drawn in his hand; and he bowed his head, and fell on his face."
+      "text": "Then the LORD opened the eyes of Balaam, and he saw the LORD’s angel standing in the way, with his sword drawn in his hand; and he bowed his head, and fell on his face."
     },
     {
       "chapter": 22,
       "verse": 32,
-      "text": "Yahweh’s angel said to him, “Why have you struck your donkey these three times? Behold, I have come out as an adversary, because your way is perverse before me."
+      "text": "The LORD’s angel said to him, “Why have you struck your donkey these three times? Behold, I have come out as an adversary, because your way is perverse before me."
     },
     {
       "chapter": 22,
@@ -4030,12 +4030,12 @@
     {
       "chapter": 22,
       "verse": 34,
-      "text": "Balaam said to Yahweh’s angel, “I have sinned; for I didn’t know that you stood in the way against me. Now therefore, if it displeases you, I will go back again.”"
+      "text": "Balaam said to the LORD’s angel, “I have sinned; for I didn’t know that you stood in the way against me. Now therefore, if it displeases you, I will go back again.”"
     },
     {
       "chapter": 22,
       "verse": 35,
-      "text": "Yahweh’s angel said to Balaam, “Go with the men; but you shall only speak the word that I shall speak to you.” So Balaam went with the princes of Balak."
+      "text": "The LORD’s angel said to Balaam, “Go with the men; but you shall only speak the word that I shall speak to you.” So Balaam went with the princes of Balak."
     },
     {
       "chapter": 22,
@@ -4080,7 +4080,7 @@
     {
       "chapter": 23,
       "verse": 3,
-      "text": "Balaam said to Balak, “Stand by your burnt offering, and I will go. Perhaps Yahweh will come to meet me. Whatever he shows me I will tell you.” He went to a bare height."
+      "text": "Balaam said to Balak, “Stand by your burnt offering, and I will go. Perhaps the LORD will come to meet me. Whatever he shows me I will tell you.” He went to a bare height."
     },
     {
       "chapter": 23,
@@ -4090,7 +4090,7 @@
     {
       "chapter": 23,
       "verse": 5,
-      "text": "Yahweh put a word in Balaam’s mouth, and said, “Return to Balak, and thus you shall speak.”"
+      "text": "The LORD put a word in Balaam’s mouth, and said, “Return to Balak, and thus you shall speak.”"
     },
     {
       "chapter": 23,
@@ -4105,7 +4105,7 @@
     {
       "chapter": 23,
       "verse": 8,
-      "text": "How shall I curse whom God has not cursed? How shall I defy whom Yahweh has not defied?"
+      "text": "How shall I curse whom God has not cursed? How shall I defy whom the LORD has not defied?"
     },
     {
       "chapter": 23,
@@ -4125,7 +4125,7 @@
     {
       "chapter": 23,
       "verse": 12,
-      "text": "He answered and said, “Must I not take heed to speak that which Yahweh puts in my mouth?”"
+      "text": "He answered and said, “Must I not take heed to speak that which the LORD puts in my mouth?”"
     },
     {
       "chapter": 23,
@@ -4145,12 +4145,12 @@
     {
       "chapter": 23,
       "verse": 16,
-      "text": "Yahweh met Balaam, and put a word in his mouth, and said, “Return to Balak, and say this.”"
+      "text": "The LORD met Balaam, and put a word in his mouth, and said, “Return to Balak, and say this.”"
     },
     {
       "chapter": 23,
       "verse": 17,
-      "text": "He came to him, and behold, he was standing by his burnt offering, and the princes of Moab with him. Balak said to him, “What has Yahweh spoken?”"
+      "text": "He came to him, and behold, he was standing by his burnt offering, and the princes of Moab with him. Balak said to him, “What has the LORD spoken?”"
     },
     {
       "chapter": 23,
@@ -4170,7 +4170,7 @@
     {
       "chapter": 23,
       "verse": 21,
-      "text": "He has not seen iniquity in Jacob. Neither has he seen perverseness in Israel. Yahweh his God is with him. The shout of a king is among them."
+      "text": "He has not seen iniquity in Jacob. Neither has he seen perverseness in Israel. The LORD his God is with him. The shout of a king is among them."
     },
     {
       "chapter": 23,
@@ -4195,7 +4195,7 @@
     {
       "chapter": 23,
       "verse": 26,
-      "text": "But Balaam answered Balak, “Didn’t I tell you, saying, ‘All that Yahweh speaks, that I must do’?”"
+      "text": "But Balaam answered Balak, “Didn’t I tell you, saying, ‘All that the LORD speaks, that I must do’?”"
     },
     {
       "chapter": 23,
@@ -4220,7 +4220,7 @@
     {
       "chapter": 24,
       "verse": 1,
-      "text": "When Balaam saw that it pleased Yahweh to bless Israel, he didn’t go, as at the other times, to use divination, but he set his face toward the wilderness."
+      "text": "When Balaam saw that it pleased the LORD to bless Israel, he didn’t go, as at the other times, to use divination, but he set his face toward the wilderness."
     },
     {
       "chapter": 24,
@@ -4245,7 +4245,7 @@
     {
       "chapter": 24,
       "verse": 6,
-      "text": "As valleys they are spread out, as gardens by the riverside, as aloes which Yahweh has planted, as cedar trees beside the waters."
+      "text": "As valleys they are spread out, as gardens by the riverside, as aloes which the LORD has planted, as cedar trees beside the waters."
     },
     {
       "chapter": 24,
@@ -4270,7 +4270,7 @@
     {
       "chapter": 24,
       "verse": 11,
-      "text": "Therefore, flee to your place, now! I thought to promote you to great honor; but, behold, Yahweh has kept you back from honor.”"
+      "text": "Therefore, flee to your place, now! I thought to promote you to great honor; but, behold, the LORD has kept you back from honor.”"
     },
     {
       "chapter": 24,
@@ -4280,7 +4280,7 @@
     {
       "chapter": 24,
       "verse": 13,
-      "text": "‘If Balak would give me his house full of silver and gold, I can’t go beyond Yahweh’s word, to do either good or bad from my own mind. I will say what Yahweh says’?"
+      "text": "‘If Balak would give me his house full of silver and gold, I can’t go beyond the LORD’s word, to do either good or bad from my own mind. I will say what the LORD says’?"
     },
     {
       "chapter": 24,
@@ -4355,12 +4355,12 @@
     {
       "chapter": 25,
       "verse": 3,
-      "text": "Israel joined himself to Baal Peor, and Yahweh’s anger burned against Israel."
+      "text": "Israel joined himself to Baal Peor, and the LORD’s anger burned against Israel."
     },
     {
       "chapter": 25,
       "verse": 4,
-      "text": "Yahweh said to Moses, “Take all the chiefs of the people, and hang them up to Yahweh before the sun, that the fierce anger of Yahweh may turn away from Israel.”"
+      "text": "The LORD said to Moses, “Take all the chiefs of the people, and hang them up to the LORD before the sun, that the fierce anger of the LORD may turn away from Israel.”"
     },
     {
       "chapter": 25,
@@ -4390,7 +4390,7 @@
     {
       "chapter": 25,
       "verse": 10,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 25,
@@ -4420,7 +4420,7 @@
     {
       "chapter": 25,
       "verse": 16,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 25,
@@ -4435,7 +4435,7 @@
     {
       "chapter": 26,
       "verse": 1,
-      "text": "After the plague, Yahweh spoke to Moses and to Eleazar the son of Aaron the priest, saying,"
+      "text": "After the plague, the LORD spoke to Moses and to Eleazar the son of Aaron the priest, saying,"
     },
     {
       "chapter": 26,
@@ -4450,7 +4450,7 @@
     {
       "chapter": 26,
       "verse": 4,
-      "text": "“Take a census, from twenty years old and upward, as Yahweh commanded Moses and the children of Israel.” These are those who came out of the land of Egypt."
+      "text": "“Take a census, from twenty years old and upward, as the LORD commanded Moses and the children of Israel.” These are those who came out of the land of Egypt."
     },
     {
       "chapter": 26,
@@ -4475,7 +4475,7 @@
     {
       "chapter": 26,
       "verse": 9,
-      "text": "The sons of Eliab: Nemuel, Dathan, and Abiram. These are that Dathan and Abiram who were called by the congregation, who rebelled against Moses and against Aaron in the company of Korah when they rebelled against Yahweh;"
+      "text": "The sons of Eliab: Nemuel, Dathan, and Abiram. These are that Dathan and Abiram who were called by the congregation, who rebelled against Moses and against Aaron in the company of Korah when they rebelled against the LORD;"
     },
     {
       "chapter": 26,
@@ -4690,7 +4690,7 @@
     {
       "chapter": 26,
       "verse": 52,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 26,
@@ -4735,7 +4735,7 @@
     {
       "chapter": 26,
       "verse": 61,
-      "text": "Nadab and Abihu died when they offered strange fire before Yahweh."
+      "text": "Nadab and Abihu died when they offered strange fire before the LORD."
     },
     {
       "chapter": 26,
@@ -4755,7 +4755,7 @@
     {
       "chapter": 26,
       "verse": 65,
-      "text": "For Yahweh had said of them, “They shall surely die in the wilderness.” There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun."
+      "text": "For the LORD had said of them, “They shall surely die in the wilderness.” There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun."
     },
     {
       "chapter": 27,
@@ -4770,7 +4770,7 @@
     {
       "chapter": 27,
       "verse": 3,
-      "text": "“Our father died in the wilderness. He was not among the company of those who gathered themselves together against Yahweh in the company of Korah, but he died in his own sin. He had no sons."
+      "text": "“Our father died in the wilderness. He was not among the company of those who gathered themselves together against the LORD in the company of Korah, but he died in his own sin. He had no sons."
     },
     {
       "chapter": 27,
@@ -4780,12 +4780,12 @@
     {
       "chapter": 27,
       "verse": 5,
-      "text": "Moses brought their cause before Yahweh."
+      "text": "Moses brought their cause before the LORD."
     },
     {
       "chapter": 27,
       "verse": 6,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 27,
@@ -4810,12 +4810,12 @@
     {
       "chapter": 27,
       "verse": 11,
-      "text": "If his father has no brothers, then you shall give his inheritance to his kinsman who is next to him of his family, and he shall possess it. This shall be a statute and ordinance for the children of Israel, as Yahweh commanded Moses.’ ”"
+      "text": "If his father has no brothers, then you shall give his inheritance to his kinsman who is next to him of his family, and he shall possess it. This shall be a statute and ordinance for the children of Israel, as the LORD commanded Moses.’ ”"
     },
     {
       "chapter": 27,
       "verse": 12,
-      "text": "Yahweh said to Moses, “Go up into this mountain of Abarim, and see the land which I have given to the children of Israel."
+      "text": "The LORD said to Moses, “Go up into this mountain of Abarim, and see the land which I have given to the children of Israel."
     },
     {
       "chapter": 27,
@@ -4830,22 +4830,22 @@
     {
       "chapter": 27,
       "verse": 15,
-      "text": "Moses spoke to Yahweh, saying,"
+      "text": "Moses spoke to the LORD, saying,"
     },
     {
       "chapter": 27,
       "verse": 16,
-      "text": "“Let Yahweh, the God of the spirits of all flesh, appoint a man over the congregation,"
+      "text": "“Let the LORD, the God of the spirits of all flesh, appoint a man over the congregation,"
     },
     {
       "chapter": 27,
       "verse": 17,
-      "text": "who may go out before them, and who may come in before them, and who may lead them out, and who may bring them in, that the congregation of Yahweh may not be as sheep which have no shepherd.”"
+      "text": "who may go out before them, and who may come in before them, and who may lead them out, and who may bring them in, that the congregation of the LORD may not be as sheep which have no shepherd.”"
     },
     {
       "chapter": 27,
       "verse": 18,
-      "text": "Yahweh said to Moses, “Take Joshua the son of Nun, a man in whom is the Spirit, and lay your hand on him."
+      "text": "The LORD said to Moses, “Take Joshua the son of Nun, a man in whom is the Spirit, and lay your hand on him."
     },
     {
       "chapter": 27,
@@ -4860,22 +4860,22 @@
     {
       "chapter": 27,
       "verse": 21,
-      "text": "He shall stand before Eleazar the priest, who shall inquire for him by the judgment of the Urim before Yahweh. At his word they shall go out, and at his word they shall come in, both he and all the children of Israel with him, even all the congregation.”"
+      "text": "He shall stand before Eleazar the priest, who shall inquire for him by the judgment of the Urim before the LORD. At his word they shall go out, and at his word they shall come in, both he and all the children of Israel with him, even all the congregation.”"
     },
     {
       "chapter": 27,
       "verse": 22,
-      "text": "Moses did as Yahweh commanded him. He took Joshua, and set him before Eleazar the priest and before all the congregation."
+      "text": "Moses did as the LORD commanded him. He took Joshua, and set him before Eleazar the priest and before all the congregation."
     },
     {
       "chapter": 27,
       "verse": 23,
-      "text": "He laid his hands on him and commissioned him, as Yahweh spoke by Moses."
+      "text": "He laid his hands on him and commissioned him, as the LORD spoke by Moses."
     },
     {
       "chapter": 28,
       "verse": 1,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 28,
@@ -4885,7 +4885,7 @@
     {
       "chapter": 28,
       "verse": 3,
-      "text": "You shall tell them, ‘This is the offering made by fire which you shall offer to Yahweh: male lambs a year old without defect, two day by day, for a continual burnt offering."
+      "text": "You shall tell them, ‘This is the offering made by fire which you shall offer to the LORD: male lambs a year old without defect, two day by day, for a continual burnt offering."
     },
     {
       "chapter": 28,
@@ -4900,17 +4900,17 @@
     {
       "chapter": 28,
       "verse": 6,
-      "text": "It is a continual burnt offering which was ordained in Mount Sinai for a pleasant aroma, an offering made by fire to Yahweh."
+      "text": "It is a continual burnt offering which was ordained in Mount Sinai for a pleasant aroma, an offering made by fire to the LORD."
     },
     {
       "chapter": 28,
       "verse": 7,
-      "text": "Its drink offering shall be the fourth part of a hin for each lamb. You shall pour out a drink offering of strong drink to Yahweh in the holy place."
+      "text": "Its drink offering shall be the fourth part of a hin for each lamb. You shall pour out a drink offering of strong drink to the LORD in the holy place."
     },
     {
       "chapter": 28,
       "verse": 8,
-      "text": "The other lamb you shall offer at evening. As the meal offering of the morning, and as its drink offering, you shall offer it, an offering made by fire, for a pleasant aroma to Yahweh."
+      "text": "The other lamb you shall offer at evening. As the meal offering of the morning, and as its drink offering, you shall offer it, an offering made by fire, for a pleasant aroma to the LORD."
     },
     {
       "chapter": 28,
@@ -4925,7 +4925,7 @@
     {
       "chapter": 28,
       "verse": 11,
-      "text": "“ ‘In the beginnings of your months, you shall offer a burnt offering to Yahweh: two young bulls, one ram, seven male lambs a year old without defect,"
+      "text": "“ ‘In the beginnings of your months, you shall offer a burnt offering to the LORD: two young bulls, one ram, seven male lambs a year old without defect,"
     },
     {
       "chapter": 28,
@@ -4935,7 +4935,7 @@
     {
       "chapter": 28,
       "verse": 13,
-      "text": "and one tenth part of fine flour mixed with oil for a meal offering to every lamb, as a burnt offering of a pleasant aroma, an offering made by fire to Yahweh."
+      "text": "and one tenth part of fine flour mixed with oil for a meal offering to every lamb, as a burnt offering of a pleasant aroma, an offering made by fire to the LORD."
     },
     {
       "chapter": 28,
@@ -4945,12 +4945,12 @@
     {
       "chapter": 28,
       "verse": 15,
-      "text": "Also, one male goat for a sin offering to Yahweh shall be offered in addition to the continual burnt offering and its drink offering."
+      "text": "Also, one male goat for a sin offering to the LORD shall be offered in addition to the continual burnt offering and its drink offering."
     },
     {
       "chapter": 28,
       "verse": 16,
-      "text": "“ ‘In the first month, on the fourteenth day of the month, is Yahweh’s Passover."
+      "text": "“ ‘In the first month, on the fourteenth day of the month, is the LORD’s Passover."
     },
     {
       "chapter": 28,
@@ -4965,7 +4965,7 @@
     {
       "chapter": 28,
       "verse": 19,
-      "text": "but you shall offer an offering made by fire, a burnt offering to Yahweh: two young bulls, one ram, and seven male lambs a year old. They shall be without defect,"
+      "text": "but you shall offer an offering made by fire, a burnt offering to the LORD: two young bulls, one ram, and seven male lambs a year old. They shall be without defect,"
     },
     {
       "chapter": 28,
@@ -4990,7 +4990,7 @@
     {
       "chapter": 28,
       "verse": 24,
-      "text": "In this way you shall offer daily, for seven days, the food of the offering made by fire, of a pleasant aroma to Yahweh. It shall be offered in addition to the continual burnt offering and its drink offering."
+      "text": "In this way you shall offer daily, for seven days, the food of the offering made by fire, of a pleasant aroma to the LORD. It shall be offered in addition to the continual burnt offering and its drink offering."
     },
     {
       "chapter": 28,
@@ -5000,12 +5000,12 @@
     {
       "chapter": 28,
       "verse": 26,
-      "text": "“ ‘Also in the day of the first fruits, when you offer a new meal offering to Yahweh in your feast of weeks, you shall have a holy convocation. You shall do no regular work;"
+      "text": "“ ‘Also in the day of the first fruits, when you offer a new meal offering to the LORD in your feast of weeks, you shall have a holy convocation. You shall do no regular work;"
     },
     {
       "chapter": 28,
       "verse": 27,
-      "text": "but you shall offer a burnt offering for a pleasant aroma to Yahweh: two young bulls, one ram, seven male lambs a year old;"
+      "text": "but you shall offer a burnt offering for a pleasant aroma to the LORD: two young bulls, one ram, seven male lambs a year old;"
     },
     {
       "chapter": 28,
@@ -5035,7 +5035,7 @@
     {
       "chapter": 29,
       "verse": 2,
-      "text": "You shall offer a burnt offering for a pleasant aroma to Yahweh: one young bull, one ram, seven male lambs a year old without defect;"
+      "text": "You shall offer a burnt offering for a pleasant aroma to the LORD: one young bull, one ram, seven male lambs a year old without defect;"
     },
     {
       "chapter": 29,
@@ -5055,7 +5055,7 @@
     {
       "chapter": 29,
       "verse": 6,
-      "text": "in addition to the burnt offering of the new moon with its meal offering, and the continual burnt offering with its meal offering, and their drink offerings, according to their ordinance, for a pleasant aroma, an offering made by fire to Yahweh."
+      "text": "in addition to the burnt offering of the new moon with its meal offering, and the continual burnt offering with its meal offering, and their drink offerings, according to their ordinance, for a pleasant aroma, an offering made by fire to the LORD."
     },
     {
       "chapter": 29,
@@ -5065,7 +5065,7 @@
     {
       "chapter": 29,
       "verse": 8,
-      "text": "but you shall offer a burnt offering to Yahweh for a pleasant aroma: one young bull, one ram, seven male lambs a year old, all without defect;"
+      "text": "but you shall offer a burnt offering to the LORD for a pleasant aroma: one young bull, one ram, seven male lambs a year old, all without defect;"
     },
     {
       "chapter": 29,
@@ -5085,12 +5085,12 @@
     {
       "chapter": 29,
       "verse": 12,
-      "text": "“ ‘On the fifteenth day of the seventh month you shall have a holy convocation. You shall do no regular work. You shall keep a feast to Yahweh seven days."
+      "text": "“ ‘On the fifteenth day of the seventh month you shall have a holy convocation. You shall do no regular work. You shall keep a feast to the LORD seven days."
     },
     {
       "chapter": 29,
       "verse": 13,
-      "text": "You shall offer a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh: thirteen young bulls, two rams, fourteen male lambs a year old, all without defect;"
+      "text": "You shall offer a burnt offering, an offering made by fire, of a pleasant aroma to the LORD: thirteen young bulls, two rams, fourteen male lambs a year old, all without defect;"
     },
     {
       "chapter": 29,
@@ -5205,7 +5205,7 @@
     {
       "chapter": 29,
       "verse": 36,
-      "text": "but you shall offer a burnt offering, an offering made by fire, a pleasant aroma to Yahweh: one bull, one ram, seven male lambs a year old without defect;"
+      "text": "but you shall offer a burnt offering, an offering made by fire, a pleasant aroma to the LORD: one bull, one ram, seven male lambs a year old without defect;"
     },
     {
       "chapter": 29,
@@ -5220,27 +5220,27 @@
     {
       "chapter": 29,
       "verse": 39,
-      "text": "“ ‘You shall offer these to Yahweh in your set feasts—in addition to your vows and your free will offerings—for your burnt offerings, your meal offerings, your drink offerings, and your peace offerings.’ ”"
+      "text": "“ ‘You shall offer these to the LORD in your set feasts—in addition to your vows and your free will offerings—for your burnt offerings, your meal offerings, your drink offerings, and your peace offerings.’ ”"
     },
     {
       "chapter": 29,
       "verse": 40,
-      "text": "Moses told the children of Israel according to all that Yahweh commanded Moses."
+      "text": "Moses told the children of Israel according to all that the LORD commanded Moses."
     },
     {
       "chapter": 30,
       "verse": 1,
-      "text": "Moses spoke to the heads of the tribes of the children of Israel, saying, “This is the thing which Yahweh has commanded."
+      "text": "Moses spoke to the heads of the tribes of the children of Israel, saying, “This is the thing which the LORD has commanded."
     },
     {
       "chapter": 30,
       "verse": 2,
-      "text": "When a man vows a vow to Yahweh, or swears an oath to bind his soul with a bond, he shall not break his word. He shall do according to all that proceeds out of his mouth."
+      "text": "When a man vows a vow to the LORD, or swears an oath to bind his soul with a bond, he shall not break his word. He shall do according to all that proceeds out of his mouth."
     },
     {
       "chapter": 30,
       "verse": 3,
-      "text": "“Also, when a woman vows a vow to Yahweh and binds herself by a pledge, being in her father’s house, in her youth,"
+      "text": "“Also, when a woman vows a vow to the LORD and binds herself by a pledge, being in her father’s house, in her youth,"
     },
     {
       "chapter": 30,
@@ -5250,7 +5250,7 @@
     {
       "chapter": 30,
       "verse": 5,
-      "text": "But if her father forbids her in the day that he hears, none of her vows or of her pledges with which she has bound her soul, shall stand. Yahweh will forgive her, because her father has forbidden her."
+      "text": "But if her father forbids her in the day that he hears, none of her vows or of her pledges with which she has bound her soul, shall stand. The LORD will forgive her, because her father has forbidden her."
     },
     {
       "chapter": 30,
@@ -5265,7 +5265,7 @@
     {
       "chapter": 30,
       "verse": 8,
-      "text": "But if her husband forbids her in the day that he hears it, then he makes void her vow which is on her and the rash utterance of her lips, with which she has bound her soul. Yahweh will forgive her."
+      "text": "But if her husband forbids her in the day that he hears it, then he makes void her vow which is on her and the rash utterance of her lips, with which she has bound her soul. The LORD will forgive her."
     },
     {
       "chapter": 30,
@@ -5285,7 +5285,7 @@
     {
       "chapter": 30,
       "verse": 12,
-      "text": "But if her husband made them null and void in the day that he heard them, then whatever proceeded out of her lips concerning her vows, or concerning the bond of her soul, shall not stand. Her husband has made them void. Yahweh will forgive her."
+      "text": "But if her husband made them null and void in the day that he heard them, then whatever proceeded out of her lips concerning her vows, or concerning the bond of her soul, shall not stand. Her husband has made them void. The LORD will forgive her."
     },
     {
       "chapter": 30,
@@ -5305,12 +5305,12 @@
     {
       "chapter": 30,
       "verse": 16,
-      "text": "These are the statutes which Yahweh commanded Moses, between a man and his wife, between a father and his daughter, being in her youth, in her father’s house."
+      "text": "These are the statutes which the LORD commanded Moses, between a man and his wife, between a father and his daughter, being in her youth, in her father’s house."
     },
     {
       "chapter": 31,
       "verse": 1,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 31,
@@ -5320,7 +5320,7 @@
     {
       "chapter": 31,
       "verse": 3,
-      "text": "Moses spoke to the people, saying, “Arm men from among you for war, that they may go against Midian, to execute Yahweh’s vengeance on Midian."
+      "text": "Moses spoke to the people, saying, “Arm men from among you for war, that they may go against Midian, to execute the LORD’s vengeance on Midian."
     },
     {
       "chapter": 31,
@@ -5340,7 +5340,7 @@
     {
       "chapter": 31,
       "verse": 7,
-      "text": "They fought against Midian, as Yahweh commanded Moses. They killed every male."
+      "text": "They fought against Midian, as the LORD commanded Moses. They killed every male."
     },
     {
       "chapter": 31,
@@ -5385,7 +5385,7 @@
     {
       "chapter": 31,
       "verse": 16,
-      "text": "Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against Yahweh in the matter of Peor, and so the plague was among the congregation of Yahweh."
+      "text": "Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the LORD in the matter of Peor, and so the plague was among the congregation of the LORD."
     },
     {
       "chapter": 31,
@@ -5410,7 +5410,7 @@
     {
       "chapter": 31,
       "verse": 21,
-      "text": "Eleazar the priest said to the men of war who went to the battle, “This is the statute of the law which Yahweh has commanded Moses."
+      "text": "Eleazar the priest said to the men of war who went to the battle, “This is the statute of the law which the LORD has commanded Moses."
     },
     {
       "chapter": 31,
@@ -5430,7 +5430,7 @@
     {
       "chapter": 31,
       "verse": 25,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 31,
@@ -5445,22 +5445,22 @@
     {
       "chapter": 31,
       "verse": 28,
-      "text": "Levy a tribute to Yahweh of the men of war who went out to battle: one soul of five hundred; of the persons, of the cattle, of the donkeys, and of the flocks."
+      "text": "Levy a tribute to the LORD of the men of war who went out to battle: one soul of five hundred; of the persons, of the cattle, of the donkeys, and of the flocks."
     },
     {
       "chapter": 31,
       "verse": 29,
-      "text": "Take it from their half, and give it to Eleazar the priest, for Yahweh’s wave offering."
+      "text": "Take it from their half, and give it to Eleazar the priest, for the LORD’s wave offering."
     },
     {
       "chapter": 31,
       "verse": 30,
-      "text": "Of the children of Israel’s half, you shall take one drawn out of every fifty, of the persons, of the cattle, of the donkeys, and of the flocks, of all the livestock, and give them to the Levites, who perform the duty of Yahweh’s tabernacle.”"
+      "text": "Of the children of Israel’s half, you shall take one drawn out of every fifty, of the persons, of the cattle, of the donkeys, and of the flocks, of all the livestock, and give them to the Levites, who perform the duty of the LORD’s tabernacle.”"
     },
     {
       "chapter": 31,
       "verse": 31,
-      "text": "Moses and Eleazar the priest did as Yahweh commanded Moses."
+      "text": "Moses and Eleazar the priest did as the LORD commanded Moses."
     },
     {
       "chapter": 31,
@@ -5490,27 +5490,27 @@
     {
       "chapter": 31,
       "verse": 37,
-      "text": "and Yahweh’s tribute of the sheep was six hundred seventy-five."
+      "text": "and the LORD’s tribute of the sheep was six hundred seventy-five."
     },
     {
       "chapter": 31,
       "verse": 38,
-      "text": "The cattle were thirty-six thousand, of which Yahweh’s tribute was seventy-two."
+      "text": "The cattle were thirty-six thousand, of which the LORD’s tribute was seventy-two."
     },
     {
       "chapter": 31,
       "verse": 39,
-      "text": "The donkeys were thirty thousand five hundred, of which Yahweh’s tribute was sixty-one."
+      "text": "The donkeys were thirty thousand five hundred, of which the LORD’s tribute was sixty-one."
     },
     {
       "chapter": 31,
       "verse": 40,
-      "text": "The persons were sixteen thousand, of whom Yahweh’s tribute was thirty-two persons."
+      "text": "The persons were sixteen thousand, of whom the LORD’s tribute was thirty-two persons."
     },
     {
       "chapter": 31,
       "verse": 41,
-      "text": "Moses gave the tribute, which was Yahweh’s wave offering, to Eleazar the priest, as Yahweh commanded Moses."
+      "text": "Moses gave the tribute, which was the LORD’s wave offering, to Eleazar the priest, as the LORD commanded Moses."
     },
     {
       "chapter": 31,
@@ -5540,7 +5540,7 @@
     {
       "chapter": 31,
       "verse": 47,
-      "text": "even of the children of Israel’s half, Moses took one drawn out of every fifty, both of man and of animal, and gave them to the Levites, who performed the duty of Yahweh’s tabernacle, as Yahweh commanded Moses."
+      "text": "even of the children of Israel’s half, Moses took one drawn out of every fifty, both of man and of animal, and gave them to the Levites, who performed the duty of the LORD’s tabernacle, as the LORD commanded Moses."
     },
     {
       "chapter": 31,
@@ -5555,7 +5555,7 @@
     {
       "chapter": 31,
       "verse": 50,
-      "text": "We have brought Yahweh’s offering, what every man found: gold ornaments, armlets, bracelets, signet rings, earrings, and necklaces, to make atonement for our souls before Yahweh.”"
+      "text": "We have brought the LORD’s offering, what every man found: gold ornaments, armlets, bracelets, signet rings, earrings, and necklaces, to make atonement for our souls before the LORD.”"
     },
     {
       "chapter": 31,
@@ -5565,7 +5565,7 @@
     {
       "chapter": 31,
       "verse": 52,
-      "text": "All the gold of the wave offering that they offered up to Yahweh, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred fifty shekels."
+      "text": "All the gold of the wave offering that they offered up to the LORD, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred fifty shekels."
     },
     {
       "chapter": 31,
@@ -5575,7 +5575,7 @@
     {
       "chapter": 31,
       "verse": 54,
-      "text": "Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the Tent of Meeting for a memorial for the children of Israel before Yahweh."
+      "text": "Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the Tent of Meeting for a memorial for the children of Israel before the LORD."
     },
     {
       "chapter": 32,
@@ -5595,7 +5595,7 @@
     {
       "chapter": 32,
       "verse": 4,
-      "text": "the land which Yahweh struck before the congregation of Israel, is a land for livestock; and your servants have livestock.”"
+      "text": "the land which the LORD struck before the congregation of Israel, is a land for livestock; and your servants have livestock.”"
     },
     {
       "chapter": 32,
@@ -5610,7 +5610,7 @@
     {
       "chapter": 32,
       "verse": 7,
-      "text": "Why do you discourage the heart of the children of Israel from going over into the land which Yahweh has given them?"
+      "text": "Why do you discourage the heart of the children of Israel from going over into the land which the LORD has given them?"
     },
     {
       "chapter": 32,
@@ -5620,12 +5620,12 @@
     {
       "chapter": 32,
       "verse": 9,
-      "text": "For when they went up to the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which Yahweh had given them."
+      "text": "For when they went up to the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them."
     },
     {
       "chapter": 32,
       "verse": 10,
-      "text": "Yahweh’s anger burned in that day, and he swore, saying,"
+      "text": "The LORD’s anger burned in that day, and he swore, saying,"
     },
     {
       "chapter": 32,
@@ -5635,17 +5635,17 @@
     {
       "chapter": 32,
       "verse": 12,
-      "text": "except Caleb the son of Jephunneh the Kenizzite, and Joshua the son of Nun, because they have followed Yahweh completely.’"
+      "text": "except Caleb the son of Jephunneh the Kenizzite, and Joshua the son of Nun, because they have followed the LORD completely.’"
     },
     {
       "chapter": 32,
       "verse": 13,
-      "text": "Yahweh’s anger burned against Israel, and he made them wander back and forth in the wilderness forty years, until all the generation who had done evil in Yahweh’s sight was consumed."
+      "text": "The LORD’s anger burned against Israel, and he made them wander back and forth in the wilderness forty years, until all the generation who had done evil in the LORD’s sight was consumed."
     },
     {
       "chapter": 32,
       "verse": 14,
-      "text": "“Behold, you have risen up in your fathers’ place, an increase of sinful men, to increase the fierce anger of Yahweh toward Israel."
+      "text": "“Behold, you have risen up in your fathers’ place, an increase of sinful men, to increase the fierce anger of the LORD toward Israel."
     },
     {
       "chapter": 32,
@@ -5675,22 +5675,22 @@
     {
       "chapter": 32,
       "verse": 20,
-      "text": "Moses said to them: “If you will do this thing, if you will arm yourselves to go before Yahweh to the war,"
+      "text": "Moses said to them: “If you will do this thing, if you will arm yourselves to go before the LORD to the war,"
     },
     {
       "chapter": 32,
       "verse": 21,
-      "text": "and every one of your armed men will pass over the Jordan before Yahweh until he has driven out his enemies from before him,"
+      "text": "and every one of your armed men will pass over the Jordan before the LORD until he has driven out his enemies from before him,"
     },
     {
       "chapter": 32,
       "verse": 22,
-      "text": "and the land is subdued before Yahweh; then afterward you shall return, and be clear of obligation to Yahweh and to Israel. Then this land shall be your possession before Yahweh."
+      "text": "and the land is subdued before the LORD; then afterward you shall return, and be clear of obligation to the LORD and to Israel. Then this land shall be your possession before the LORD."
     },
     {
       "chapter": 32,
       "verse": 23,
-      "text": "“But if you will not do so, behold, you have sinned against Yahweh; and be sure your sin will find you out."
+      "text": "“But if you will not do so, behold, you have sinned against the LORD; and be sure your sin will find you out."
     },
     {
       "chapter": 32,
@@ -5710,7 +5710,7 @@
     {
       "chapter": 32,
       "verse": 27,
-      "text": "but your servants will pass over, every man who is armed for war, before Yahweh to battle, as my lord says.”"
+      "text": "but your servants will pass over, every man who is armed for war, before the LORD to battle, as my lord says.”"
     },
     {
       "chapter": 32,
@@ -5720,7 +5720,7 @@
     {
       "chapter": 32,
       "verse": 29,
-      "text": "Moses said to them, “If the children of Gad and the children of Reuben will pass with you over the Jordan, every man who is armed to battle before Yahweh, and the land is subdued before you, then you shall give them the land of Gilead for a possession;"
+      "text": "Moses said to them, “If the children of Gad and the children of Reuben will pass with you over the Jordan, every man who is armed to battle before the LORD, and the land is subdued before you, then you shall give them the land of Gilead for a possession;"
     },
     {
       "chapter": 32,
@@ -5730,12 +5730,12 @@
     {
       "chapter": 32,
       "verse": 31,
-      "text": "The children of Gad and the children of Reuben answered, saying, “As Yahweh has said to your servants, so will we do."
+      "text": "The children of Gad and the children of Reuben answered, saying, “As the LORD has said to your servants, so will we do."
     },
     {
       "chapter": 32,
       "verse": 32,
-      "text": "We will pass over armed before Yahweh into the land of Canaan, and the possession of our inheritance shall remain with us beyond the Jordan.”"
+      "text": "We will pass over armed before the LORD into the land of Canaan, and the possession of our inheritance shall remain with us beyond the Jordan.”"
     },
     {
       "chapter": 32,
@@ -5795,7 +5795,7 @@
     {
       "chapter": 33,
       "verse": 2,
-      "text": "Moses wrote the starting points of their journeys by the commandment of Yahweh. These are their journeys according to their starting points."
+      "text": "Moses wrote the starting points of their journeys by the commandment of the LORD. These are their journeys according to their starting points."
     },
     {
       "chapter": 33,
@@ -5805,7 +5805,7 @@
     {
       "chapter": 33,
       "verse": 4,
-      "text": "while the Egyptians were burying all their firstborn, whom Yahweh had struck among them. Yahweh also executed judgments on their gods."
+      "text": "while the Egyptians were burying all their firstborn, whom the LORD had struck among them. The LORD also executed judgments on their gods."
     },
     {
       "chapter": 33,
@@ -5975,7 +5975,7 @@
     {
       "chapter": 33,
       "verse": 38,
-      "text": "Aaron the priest went up into Mount Hor at the commandment of Yahweh and died there, in the fortieth year after the children of Israel had come out of the land of Egypt, in the fifth month, on the first day of the month."
+      "text": "Aaron the priest went up into Mount Hor at the commandment of the LORD and died there, in the fortieth year after the children of Israel had come out of the land of Egypt, in the fifth month, on the first day of the month."
     },
     {
       "chapter": 33,
@@ -6035,7 +6035,7 @@
     {
       "chapter": 33,
       "verse": 50,
-      "text": "Yahweh spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,"
+      "text": "The LORD spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,"
     },
     {
       "chapter": 33,
@@ -6070,7 +6070,7 @@
     {
       "chapter": 34,
       "verse": 1,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 34,
@@ -6130,7 +6130,7 @@
     {
       "chapter": 34,
       "verse": 13,
-      "text": "Moses commanded the children of Israel, saying, “This is the land which you shall inherit by lot, which Yahweh has commanded to give to the nine tribes, and to the half-tribe;"
+      "text": "Moses commanded the children of Israel, saying, “This is the land which you shall inherit by lot, which the LORD has commanded to give to the nine tribes, and to the half-tribe;"
     },
     {
       "chapter": 34,
@@ -6145,7 +6145,7 @@
     {
       "chapter": 34,
       "verse": 16,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 34,
@@ -6210,12 +6210,12 @@
     {
       "chapter": 34,
       "verse": 29,
-      "text": "These are they whom Yahweh commanded to divide the inheritance to the children of Israel in the land of Canaan."
+      "text": "These are they whom the LORD commanded to divide the inheritance to the children of Israel in the land of Canaan."
     },
     {
       "chapter": 35,
       "verse": 1,
-      "text": "Yahweh spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,"
+      "text": "The LORD spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,"
     },
     {
       "chapter": 35,
@@ -6255,7 +6255,7 @@
     {
       "chapter": 35,
       "verse": 9,
-      "text": "Yahweh spoke to Moses, saying,"
+      "text": "The LORD spoke to Moses, saying,"
     },
     {
       "chapter": 35,
@@ -6380,7 +6380,7 @@
     {
       "chapter": 35,
       "verse": 34,
-      "text": "You shall not defile the land which you inhabit, where I dwell; for I, Yahweh, dwell among the children of Israel.’ ”"
+      "text": "You shall not defile the land which you inhabit, where I dwell; for I, the LORD, dwell among the children of Israel.’ ”"
     },
     {
       "chapter": 36,
@@ -6390,7 +6390,7 @@
     {
       "chapter": 36,
       "verse": 2,
-      "text": "They said, “Yahweh commanded my lord to give the land for inheritance by lot to the children of Israel. My lord was commanded by Yahweh to give the inheritance of Zelophehad our brother to his daughters."
+      "text": "They said, “The LORD commanded my lord to give the land for inheritance by lot to the children of Israel. My lord was commanded by the LORD to give the inheritance of Zelophehad our brother to his daughters."
     },
     {
       "chapter": 36,
@@ -6405,12 +6405,12 @@
     {
       "chapter": 36,
       "verse": 5,
-      "text": "Moses commanded the children of Israel according to Yahweh’s word, saying, “The tribe of the sons of Joseph speak what is right."
+      "text": "Moses commanded the children of Israel according to the LORD’s word, saying, “The tribe of the sons of Joseph speak what is right."
     },
     {
       "chapter": 36,
       "verse": 6,
-      "text": "This is the thing which Yahweh commands concerning the daughters of Zelophehad, saying, ‘Let them be married to whom they think best, only they shall marry into the family of the tribe of their father."
+      "text": "This is the thing which the LORD commands concerning the daughters of Zelophehad, saying, ‘Let them be married to whom they think best, only they shall marry into the family of the tribe of their father."
     },
     {
       "chapter": 36,
@@ -6430,7 +6430,7 @@
     {
       "chapter": 36,
       "verse": 10,
-      "text": "The daughters of Zelophehad did as Yahweh commanded Moses:"
+      "text": "The daughters of Zelophehad did as the LORD commanded Moses:"
     },
     {
       "chapter": 36,
@@ -6445,7 +6445,7 @@
     {
       "chapter": 36,
       "verse": 13,
-      "text": "These are the commandments and the ordinances which Yahweh commanded by Moses to the children of Israel in the plains of Moab by the Jordan at Jericho."
+      "text": "These are the commandments and the ordinances which the LORD commanded by Moses to the children of Israel in the plains of Moab by the Jordan at Jericho."
     }
   ]
 }

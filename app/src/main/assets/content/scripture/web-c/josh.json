@@ -5,12 +5,12 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
       "verse": 1,
-      "text": "Now after the death of Moses the servant of Yahweh, Yahweh spoke to Joshua the son of Nun, Moses’ servant, saying,"
+      "text": "Now after the death of Moses the servant of the LORD, the LORD spoke to Joshua the son of Nun, Moses’ servant, saying,"
     },
     {
       "chapter": 1,
@@ -50,7 +50,7 @@
     {
       "chapter": 1,
       "verse": 9,
-      "text": "Haven’t I commanded you? Be strong and courageous. Don’t be afraid. Don’t be dismayed, for Yahweh your God is with you wherever you go.”"
+      "text": "Haven’t I commanded you? Be strong and courageous. Don’t be afraid. Don’t be dismayed, for the LORD your God is with you wherever you go.”"
     },
     {
       "chapter": 1,
@@ -60,7 +60,7 @@
     {
       "chapter": 1,
       "verse": 11,
-      "text": "“Pass through the middle of the camp, and command the people, saying, ‘Prepare food; for within three days you are to pass over this Jordan, to go in to possess the land which Yahweh your God gives you to possess.’ ”"
+      "text": "“Pass through the middle of the camp, and command the people, saying, ‘Prepare food; for within three days you are to pass over this Jordan, to go in to possess the land which the LORD your God gives you to possess.’ ”"
     },
     {
       "chapter": 1,
@@ -70,7 +70,7 @@
     {
       "chapter": 1,
       "verse": 13,
-      "text": "“Remember the word which Moses the servant of Yahweh commanded you, saying, ‘Yahweh your God gives you rest, and will give you this land."
+      "text": "“Remember the word which Moses the servant of the LORD commanded you, saying, ‘The LORD your God gives you rest, and will give you this land."
     },
     {
       "chapter": 1,
@@ -80,7 +80,7 @@
     {
       "chapter": 1,
       "verse": 15,
-      "text": "until Yahweh has given your brothers rest, as he has given you, and they have also possessed the land which Yahweh your God gives them. Then you shall return to the land of your possession and possess it, which Moses the servant of Yahweh gave you beyond the Jordan toward the sunrise.’ ”"
+      "text": "until the LORD has given your brothers rest, as he has given you, and they have also possessed the land which the LORD your God gives them. Then you shall return to the land of your possession and possess it, which Moses the servant of the LORD gave you beyond the Jordan toward the sunrise.’ ”"
     },
     {
       "chapter": 1,
@@ -90,7 +90,7 @@
     {
       "chapter": 1,
       "verse": 17,
-      "text": "Just as we listened to Moses in all things, so will we listen to you. Only may Yahweh your God be with you, as he was with Moses."
+      "text": "Just as we listened to Moses in all things, so will we listen to you. Only may the LORD your God be with you, as he was with Moses."
     },
     {
       "chapter": 1,
@@ -140,22 +140,22 @@
     {
       "chapter": 2,
       "verse": 9,
-      "text": "She said to the men, “I know that Yahweh has given you the land, and that the fear of you has fallen upon us, and that all the inhabitants of the land melt away before you."
+      "text": "She said to the men, “I know that the LORD has given you the land, and that the fear of you has fallen upon us, and that all the inhabitants of the land melt away before you."
     },
     {
       "chapter": 2,
       "verse": 10,
-      "text": "For we have heard how Yahweh dried up the water of the Red Sea before you, when you came out of Egypt; and what you did to the two kings of the Amorites, who were beyond the Jordan, to Sihon and to Og, whom you utterly destroyed."
+      "text": "For we have heard how the LORD dried up the water of the Red Sea before you, when you came out of Egypt; and what you did to the two kings of the Amorites, who were beyond the Jordan, to Sihon and to Og, whom you utterly destroyed."
     },
     {
       "chapter": 2,
       "verse": 11,
-      "text": "As soon as we had heard it, our hearts melted, and there wasn’t any more spirit in any man, because of you: for Yahweh your God, he is God in heaven above, and on earth beneath."
+      "text": "As soon as we had heard it, our hearts melted, and there wasn’t any more spirit in any man, because of you: for the LORD your God, he is God in heaven above, and on earth beneath."
     },
     {
       "chapter": 2,
       "verse": 12,
-      "text": "Now therefore, please swear to me by Yahweh, since I have dealt kindly with you, that you also will deal kindly with my father’s house, and give me a true sign;"
+      "text": "Now therefore, please swear to me by the LORD, since I have dealt kindly with you, that you also will deal kindly with my father’s house, and give me a true sign;"
     },
     {
       "chapter": 2,
@@ -165,7 +165,7 @@
     {
       "chapter": 2,
       "verse": 14,
-      "text": "The men said to her, “Our life for yours, if you don’t talk about this business of ours; and it shall be, when Yahweh gives us the land, that we will deal kindly and truly with you.”"
+      "text": "The men said to her, “Our life for yours, if you don’t talk about this business of ours; and it shall be, when the LORD gives us the land, that we will deal kindly and truly with you.”"
     },
     {
       "chapter": 2,
@@ -215,7 +215,7 @@
     {
       "chapter": 2,
       "verse": 24,
-      "text": "They said to Joshua, “Truly Yahweh has delivered all the land into our hands. Moreover, all the inhabitants of the land melt away before us.”"
+      "text": "They said to Joshua, “Truly the LORD has delivered all the land into our hands. Moreover, all the inhabitants of the land melt away before us.”"
     },
     {
       "chapter": 3,
@@ -230,7 +230,7 @@
     {
       "chapter": 3,
       "verse": 3,
-      "text": "and they commanded the people, saying, “When you see the ark of Yahweh your God’s covenant, and the Levitical priests bearing it, then leave your place and follow it."
+      "text": "and they commanded the people, saying, “When you see the ark of the LORD your God’s covenant, and the Levitical priests bearing it, then leave your place and follow it."
     },
     {
       "chapter": 3,
@@ -240,7 +240,7 @@
     {
       "chapter": 3,
       "verse": 5,
-      "text": "Joshua said to the people, “Sanctify yourselves; for tomorrow Yahweh will do wonders among you.”"
+      "text": "Joshua said to the people, “Sanctify yourselves; for tomorrow the LORD will do wonders among you.”"
     },
     {
       "chapter": 3,
@@ -250,7 +250,7 @@
     {
       "chapter": 3,
       "verse": 7,
-      "text": "Yahweh said to Joshua, “Today I will begin to magnify you in the sight of all Israel, that they may know that as I was with Moses, so I will be with you."
+      "text": "The LORD said to Joshua, “Today I will begin to magnify you in the sight of all Israel, that they may know that as I was with Moses, so I will be with you."
     },
     {
       "chapter": 3,
@@ -260,7 +260,7 @@
     {
       "chapter": 3,
       "verse": 9,
-      "text": "Joshua said to the children of Israel, “Come here, and hear the words of Yahweh your God.”"
+      "text": "Joshua said to the children of Israel, “Come here, and hear the words of the LORD your God.”"
     },
     {
       "chapter": 3,
@@ -280,7 +280,7 @@
     {
       "chapter": 3,
       "verse": 13,
-      "text": "It shall be that when the soles of the feet of the priests who bear the ark of Yahweh, the Lord of all the earth, rest in the waters of the Jordan, that the waters of the Jordan will be cut off. The waters that come down from above shall stand in one heap.”"
+      "text": "It shall be that when the soles of the feet of the priests who bear the ark of the LORD, the Lord of all the earth, rest in the waters of the Jordan, that the waters of the Jordan will be cut off. The waters that come down from above shall stand in one heap.”"
     },
     {
       "chapter": 3,
@@ -300,12 +300,12 @@
     {
       "chapter": 3,
       "verse": 17,
-      "text": "The priests who bore the ark of Yahweh’s covenant stood firm on dry ground in the middle of the Jordan; and all Israel crossed over on dry ground, until all the nation had passed completely over the Jordan."
+      "text": "The priests who bore the ark of the LORD’s covenant stood firm on dry ground in the middle of the Jordan; and all Israel crossed over on dry ground, until all the nation had passed completely over the Jordan."
     },
     {
       "chapter": 4,
       "verse": 1,
-      "text": "When all the nation had completely crossed over the Jordan, Yahweh spoke to Joshua, saying,"
+      "text": "When all the nation had completely crossed over the Jordan, the LORD spoke to Joshua, saying,"
     },
     {
       "chapter": 4,
@@ -325,7 +325,7 @@
     {
       "chapter": 4,
       "verse": 5,
-      "text": "Joshua said to them, “Cross before the ark of Yahweh your God into the middle of the Jordan, and each of you pick up a stone and put it on your shoulder, according to the number of the tribes of the children of Israel;"
+      "text": "Joshua said to them, “Cross before the ark of the LORD your God into the middle of the Jordan, and each of you pick up a stone and put it on your shoulder, according to the number of the tribes of the children of Israel;"
     },
     {
       "chapter": 4,
@@ -335,12 +335,12 @@
     {
       "chapter": 4,
       "verse": 7,
-      "text": "then you shall tell them, ‘Because the waters of the Jordan were cut off before the ark of Yahweh’s covenant. When it crossed over the Jordan, the waters of the Jordan were cut off. These stones shall be for a memorial to the children of Israel forever.’ ”"
+      "text": "then you shall tell them, ‘Because the waters of the Jordan were cut off before the ark of the LORD’s covenant. When it crossed over the Jordan, the waters of the Jordan were cut off. These stones shall be for a memorial to the children of Israel forever.’ ”"
     },
     {
       "chapter": 4,
       "verse": 8,
-      "text": "The children of Israel did as Joshua commanded, and took up twelve stones out of the middle of the Jordan, as Yahweh spoke to Joshua, according to the number of the tribes of the children of Israel. They carried them over with them to the place where they camped, and laid them down there."
+      "text": "The children of Israel did as Joshua commanded, and took up twelve stones out of the middle of the Jordan, as the LORD spoke to Joshua, according to the number of the tribes of the children of Israel. They carried them over with them to the place where they camped, and laid them down there."
     },
     {
       "chapter": 4,
@@ -350,12 +350,12 @@
     {
       "chapter": 4,
       "verse": 10,
-      "text": "For the priests who bore the ark stood in the middle of the Jordan until everything was finished that Yahweh commanded Joshua to speak to the people, according to all that Moses commanded Joshua; and the people hurried and passed over."
+      "text": "For the priests who bore the ark stood in the middle of the Jordan until everything was finished that the LORD commanded Joshua to speak to the people, according to all that Moses commanded Joshua; and the people hurried and passed over."
     },
     {
       "chapter": 4,
       "verse": 11,
-      "text": "When all the people had completely crossed over, Yahweh’s ark crossed over with the priests in the presence of the people."
+      "text": "When all the people had completely crossed over, the LORD’s ark crossed over with the priests in the presence of the people."
     },
     {
       "chapter": 4,
@@ -365,17 +365,17 @@
     {
       "chapter": 4,
       "verse": 13,
-      "text": "About forty thousand men, ready and armed for war, passed over before Yahweh to battle, to the plains of Jericho."
+      "text": "About forty thousand men, ready and armed for war, passed over before the LORD to battle, to the plains of Jericho."
     },
     {
       "chapter": 4,
       "verse": 14,
-      "text": "On that day, Yahweh magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life."
+      "text": "On that day, the LORD magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life."
     },
     {
       "chapter": 4,
       "verse": 15,
-      "text": "Yahweh spoke to Joshua, saying,"
+      "text": "The LORD spoke to Joshua, saying,"
     },
     {
       "chapter": 4,
@@ -390,7 +390,7 @@
     {
       "chapter": 4,
       "verse": 18,
-      "text": "When the priests who bore the ark of Yahweh’s covenant had come up out of the middle of the Jordan, and the soles of the priests’ feet had been lifted up to the dry ground, the waters of the Jordan returned to their place, and went over all its banks, as before."
+      "text": "When the priests who bore the ark of the LORD’s covenant had come up out of the middle of the Jordan, and the soles of the priests’ feet had been lifted up to the dry ground, the waters of the Jordan returned to their place, and went over all its banks, as before."
     },
     {
       "chapter": 4,
@@ -415,22 +415,22 @@
     {
       "chapter": 4,
       "verse": 23,
-      "text": "For Yahweh your God dried up the waters of the Jordan from before you until you had crossed over, as Yahweh your God did to the Red Sea, which he dried up from before us, until we had crossed over,"
+      "text": "For the LORD your God dried up the waters of the Jordan from before you until you had crossed over, as the LORD your God did to the Red Sea, which he dried up from before us, until we had crossed over,"
     },
     {
       "chapter": 4,
       "verse": 24,
-      "text": "that all the peoples of the earth may know that Yahweh’s hand is mighty, and that you may fear Yahweh your God forever.’ ”"
+      "text": "that all the peoples of the earth may know that the LORD’s hand is mighty, and that you may fear the LORD your God forever.’ ”"
     },
     {
       "chapter": 5,
       "verse": 1,
-      "text": "When all the kings of the Amorites, who were beyond the Jordan westward, and all the kings of the Canaanites, who were by the sea, heard how Yahweh had dried up the waters of the Jordan from before the children of Israel until we had crossed over, their heart melted, and there was no more spirit in them, because of the children of Israel."
+      "text": "When all the kings of the Amorites, who were beyond the Jordan westward, and all the kings of the Canaanites, who were by the sea, heard how the LORD had dried up the waters of the Jordan from before the children of Israel until we had crossed over, their heart melted, and there was no more spirit in them, because of the children of Israel."
     },
     {
       "chapter": 5,
       "verse": 2,
-      "text": "At that time, Yahweh said to Joshua, “Make flint knives, and circumcise again the sons of Israel the second time.”"
+      "text": "At that time, the LORD said to Joshua, “Make flint knives, and circumcise again the sons of Israel the second time.”"
     },
     {
       "chapter": 5,
@@ -450,7 +450,7 @@
     {
       "chapter": 5,
       "verse": 6,
-      "text": "For the children of Israel walked forty years in the wilderness until all the nation, even the men of war who came out of Egypt, were consumed, because they didn’t listen to Yahweh’s voice. Yahweh swore to them that he wouldn’t let them see the land which Yahweh swore to their fathers that he would give us, a land flowing with milk and honey."
+      "text": "For the children of Israel walked forty years in the wilderness until all the nation, even the men of war who came out of Egypt, were consumed, because they didn’t listen to the LORD’s voice. The LORD swore to them that he wouldn’t let them see the land which the LORD swore to their fathers that he would give us, a land flowing with milk and honey."
     },
     {
       "chapter": 5,
@@ -465,7 +465,7 @@
     {
       "chapter": 5,
       "verse": 9,
-      "text": "Yahweh said to Joshua, “Today I have rolled away the reproach of Egypt from you.” Therefore the name of that place was called Gilgal to this day."
+      "text": "The LORD said to Joshua, “Today I have rolled away the reproach of Egypt from you.” Therefore the name of that place was called Gilgal to this day."
     },
     {
       "chapter": 5,
@@ -490,12 +490,12 @@
     {
       "chapter": 5,
       "verse": 14,
-      "text": "He said, “No; but I have come now as commander of Yahweh’s army.” Joshua fell on his face to the earth, and worshiped, and asked him, “What does my lord say to his servant?”"
+      "text": "He said, “No; but I have come now as commander of the LORD’s army.” Joshua fell on his face to the earth, and worshiped, and asked him, “What does my lord say to his servant?”"
     },
     {
       "chapter": 5,
       "verse": 15,
-      "text": "The prince of Yahweh’s army said to Joshua, “Take off your sandals, for the place on which you stand is holy.” Joshua did so."
+      "text": "The prince of the LORD’s army said to Joshua, “Take off your sandals, for the place on which you stand is holy.” Joshua did so."
     },
     {
       "chapter": 6,
@@ -505,7 +505,7 @@
     {
       "chapter": 6,
       "verse": 2,
-      "text": "Yahweh said to Joshua, “Behold, I have given Jericho into your hand, with its king and the mighty men of valor."
+      "text": "The LORD said to Joshua, “Behold, I have given Jericho into your hand, with its king and the mighty men of valor."
     },
     {
       "chapter": 6,
@@ -525,17 +525,17 @@
     {
       "chapter": 6,
       "verse": 6,
-      "text": "Joshua the son of Nun called the priests, and said to them, “Take up the ark of the covenant, and let seven priests bear seven trumpets of rams’ horns before Yahweh’s ark.”"
+      "text": "Joshua the son of Nun called the priests, and said to them, “Take up the ark of the covenant, and let seven priests bear seven trumpets of rams’ horns before the LORD’s ark.”"
     },
     {
       "chapter": 6,
       "verse": 7,
-      "text": "They said to the people, “Advance! March around the city, and let the armed men pass on before Yahweh’s ark.”"
+      "text": "They said to the people, “Advance! March around the city, and let the armed men pass on before the LORD’s ark.”"
     },
     {
       "chapter": 6,
       "verse": 8,
-      "text": "It was so, that when Joshua had spoken to the people, the seven priests bearing the seven trumpets of rams’ horns before Yahweh advanced and blew the trumpets, and the ark of Yahweh’s covenant followed them."
+      "text": "It was so, that when Joshua had spoken to the people, the seven priests bearing the seven trumpets of rams’ horns before the LORD advanced and blew the trumpets, and the ark of the LORD’s covenant followed them."
     },
     {
       "chapter": 6,
@@ -550,17 +550,17 @@
     {
       "chapter": 6,
       "verse": 11,
-      "text": "So he caused Yahweh’s ark to go around the city, circling it once. Then they came into the camp, and stayed in the camp."
+      "text": "So he caused the LORD’s ark to go around the city, circling it once. Then they came into the camp, and stayed in the camp."
     },
     {
       "chapter": 6,
       "verse": 12,
-      "text": "Joshua rose early in the morning, and the priests took up Yahweh’s ark."
+      "text": "Joshua rose early in the morning, and the priests took up the LORD’s ark."
     },
     {
       "chapter": 6,
       "verse": 13,
-      "text": "The seven priests bearing the seven trumpets of rams’ horns in front of Yahweh’s ark went on continually, and blew the trumpets. The armed men went in front of them. The rear guard came after Yahweh’s ark. The trumpets sounded as they went."
+      "text": "The seven priests bearing the seven trumpets of rams’ horns in front of the LORD’s ark went on continually, and blew the trumpets. The armed men went in front of them. The rear guard came after the LORD’s ark. The trumpets sounded as they went."
     },
     {
       "chapter": 6,
@@ -575,12 +575,12 @@
     {
       "chapter": 6,
       "verse": 16,
-      "text": "At the seventh time, when the priests blew the trumpets, Joshua said to the people, “Shout, for Yahweh has given you the city!"
+      "text": "At the seventh time, when the priests blew the trumpets, Joshua said to the people, “Shout, for the LORD has given you the city!"
     },
     {
       "chapter": 6,
       "verse": 17,
-      "text": "The city shall be devoted, even it and all that is in it, to Yahweh. Only Rahab the prostitute shall live, she and all who are with her in the house, because she hid the messengers that we sent."
+      "text": "The city shall be devoted, even it and all that is in it, to the LORD. Only Rahab the prostitute shall live, she and all who are with her in the house, because she hid the messengers that we sent."
     },
     {
       "chapter": 6,
@@ -590,7 +590,7 @@
     {
       "chapter": 6,
       "verse": 19,
-      "text": "But all the silver, gold, and vessels of bronze and iron are holy to Yahweh. They shall come into Yahweh’s treasury.”"
+      "text": "But all the silver, gold, and vessels of bronze and iron are holy to the LORD. They shall come into the LORD’s treasury.”"
     },
     {
       "chapter": 6,
@@ -615,7 +615,7 @@
     {
       "chapter": 6,
       "verse": 24,
-      "text": "They burned the city with fire, and all that was in it. Only they put the silver, the gold, and the vessels of bronze and of iron into the treasury of Yahweh’s house."
+      "text": "They burned the city with fire, and all that was in it. Only they put the silver, the gold, and the vessels of bronze and of iron into the treasury of the LORD’s house."
     },
     {
       "chapter": 6,
@@ -625,17 +625,17 @@
     {
       "chapter": 6,
       "verse": 26,
-      "text": "Joshua commanded them with an oath at that time, saying, “Cursed is the man before Yahweh who rises up and builds this city Jericho. With the loss of his firstborn he will lay its foundation, and with the loss of his youngest son he will set up its gates.”"
+      "text": "Joshua commanded them with an oath at that time, saying, “Cursed is the man before the LORD who rises up and builds this city Jericho. With the loss of his firstborn he will lay its foundation, and with the loss of his youngest son he will set up its gates.”"
     },
     {
       "chapter": 6,
       "verse": 27,
-      "text": "So Yahweh was with Joshua; and his fame was in all the land."
+      "text": "So the LORD was with Joshua; and his fame was in all the land."
     },
     {
       "chapter": 7,
       "verse": 1,
-      "text": "But the children of Israel committed a trespass in the devoted things; for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took some of the devoted things. Therefore Yahweh’s anger burned against the children of Israel."
+      "text": "But the children of Israel committed a trespass in the devoted things; for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took some of the devoted things. Therefore the LORD’s anger burned against the children of Israel."
     },
     {
       "chapter": 7,
@@ -660,12 +660,12 @@
     {
       "chapter": 7,
       "verse": 6,
-      "text": "Joshua tore his clothes, and fell to the earth on his face before Yahweh’s ark until the evening, he and the elders of Israel; and they put dust on their heads."
+      "text": "Joshua tore his clothes, and fell to the earth on his face before the LORD’s ark until the evening, he and the elders of Israel; and they put dust on their heads."
     },
     {
       "chapter": 7,
       "verse": 7,
-      "text": "Joshua said, “Alas, Lord Yahweh, why have you brought this people over the Jordan at all, to deliver us into the hand of the Amorites, to cause us to perish? I wish that we had been content and lived beyond the Jordan!"
+      "text": "Joshua said, “Alas, Lord the LORD, why have you brought this people over the Jordan at all, to deliver us into the hand of the Amorites, to cause us to perish? I wish that we had been content and lived beyond the Jordan!"
     },
     {
       "chapter": 7,
@@ -680,7 +680,7 @@
     {
       "chapter": 7,
       "verse": 10,
-      "text": "Yahweh said to Joshua, “Get up! Why have you fallen on your face like that?"
+      "text": "The LORD said to Joshua, “Get up! Why have you fallen on your face like that?"
     },
     {
       "chapter": 7,
@@ -695,17 +695,17 @@
     {
       "chapter": 7,
       "verse": 13,
-      "text": "Get up! Sanctify the people, and say, ‘Sanctify yourselves for tomorrow, for Yahweh, the God of Israel, says, “There is a devoted thing among you, Israel. You cannot stand before your enemies until you take away the devoted thing from among you.”"
+      "text": "Get up! Sanctify the people, and say, ‘Sanctify yourselves for tomorrow, for the LORD, the God of Israel, says, “There is a devoted thing among you, Israel. You cannot stand before your enemies until you take away the devoted thing from among you.”"
     },
     {
       "chapter": 7,
       "verse": 14,
-      "text": "In the morning therefore you shall be brought near by your tribes. It shall be that the tribe which Yahweh selects shall come near by families. The family which Yahweh selects shall come near by households. The household which Yahweh selects shall come near man by man."
+      "text": "In the morning therefore you shall be brought near by your tribes. It shall be that the tribe which the LORD selects shall come near by families. The family which the LORD selects shall come near by households. The household which the LORD selects shall come near man by man."
     },
     {
       "chapter": 7,
       "verse": 15,
-      "text": "It shall be, that he who is taken with the devoted thing shall be burned with fire, he and all that he has, because he has transgressed Yahweh’s covenant, and because he has done a disgraceful thing in Israel.’ ”"
+      "text": "It shall be, that he who is taken with the devoted thing shall be burned with fire, he and all that he has, because he has transgressed the LORD’s covenant, and because he has done a disgraceful thing in Israel.’ ”"
     },
     {
       "chapter": 7,
@@ -725,12 +725,12 @@
     {
       "chapter": 7,
       "verse": 19,
-      "text": "Joshua said to Achan, “My son, please give glory to Yahweh, the God of Israel, and make confession to him. Tell me now what you have done! Don’t hide it from me!”"
+      "text": "Joshua said to Achan, “My son, please give glory to the LORD, the God of Israel, and make confession to him. Tell me now what you have done! Don’t hide it from me!”"
     },
     {
       "chapter": 7,
       "verse": 20,
-      "text": "Achan answered Joshua, and said, “I have truly sinned against Yahweh, the God of Israel, and this is what I have done."
+      "text": "Achan answered Joshua, and said, “I have truly sinned against the LORD, the God of Israel, and this is what I have done."
     },
     {
       "chapter": 7,
@@ -745,7 +745,7 @@
     {
       "chapter": 7,
       "verse": 23,
-      "text": "They took them from the middle of the tent, and brought them to Joshua and to all the children of Israel. They laid them down before Yahweh."
+      "text": "They took them from the middle of the tent, and brought them to Joshua and to all the children of Israel. They laid them down before the LORD."
     },
     {
       "chapter": 7,
@@ -755,17 +755,17 @@
     {
       "chapter": 7,
       "verse": 25,
-      "text": "Joshua said, “Why have you troubled us? Yahweh will trouble you today.” All Israel stoned him with stones, and they burned them with fire and stoned them with stones."
+      "text": "Joshua said, “Why have you troubled us? The LORD will trouble you today.” All Israel stoned him with stones, and they burned them with fire and stoned them with stones."
     },
     {
       "chapter": 7,
       "verse": 26,
-      "text": "They raised over him a great heap of stones that remains to this day. Yahweh turned from the fierceness of his anger. Therefore the name of that place was called “The valley of Achor” to this day."
+      "text": "They raised over him a great heap of stones that remains to this day. The LORD turned from the fierceness of his anger. Therefore the name of that place was called “The valley of Achor” to this day."
     },
     {
       "chapter": 8,
       "verse": 1,
-      "text": "Yahweh said to Joshua, “Don’t be afraid, and don’t be dismayed. Take all the warriors with you, and arise, go up to Ai. Behold, I have given into your hand the king of Ai, with his people, his city, and his land."
+      "text": "The LORD said to Joshua, “Don’t be afraid, and don’t be dismayed. Take all the warriors with you, and arise, go up to Ai. Behold, I have given into your hand the king of Ai, with his people, his city, and his land."
     },
     {
       "chapter": 8,
@@ -795,12 +795,12 @@
     {
       "chapter": 8,
       "verse": 7,
-      "text": "and you shall rise up from the ambush, and take possession of the city; for Yahweh your God will deliver it into your hand."
+      "text": "and you shall rise up from the ambush, and take possession of the city; for the LORD your God will deliver it into your hand."
     },
     {
       "chapter": 8,
       "verse": 8,
-      "text": "It shall be, when you have seized the city, that you shall set the city on fire. You shall do this according to Yahweh’s word. Behold, I have commanded you.”"
+      "text": "It shall be, when you have seized the city, that you shall set the city on fire. You shall do this according to the LORD’s word. Behold, I have commanded you.”"
     },
     {
       "chapter": 8,
@@ -850,7 +850,7 @@
     {
       "chapter": 8,
       "verse": 18,
-      "text": "Yahweh said to Joshua, “Stretch out the javelin that is in your hand toward Ai, for I will give it into your hand.” Joshua stretched out the javelin that was in his hand toward the city."
+      "text": "The LORD said to Joshua, “Stretch out the javelin that is in your hand toward Ai, for I will give it into your hand.” Joshua stretched out the javelin that was in his hand toward the city."
     },
     {
       "chapter": 8,
@@ -895,7 +895,7 @@
     {
       "chapter": 8,
       "verse": 27,
-      "text": "Israel took for themselves only the livestock and the goods of that city, according to Yahweh’s word which he commanded Joshua."
+      "text": "Israel took for themselves only the livestock and the goods of that city, according to the LORD’s word which he commanded Joshua."
     },
     {
       "chapter": 8,
@@ -910,12 +910,12 @@
     {
       "chapter": 8,
       "verse": 30,
-      "text": "Then Joshua built an altar to Yahweh, the God of Israel, on Mount Ebal,"
+      "text": "Then Joshua built an altar to the LORD, the God of Israel, on Mount Ebal,"
     },
     {
       "chapter": 8,
       "verse": 31,
-      "text": "as Moses the servant of Yahweh commanded the children of Israel, as it is written in the book of the law of Moses: an altar of uncut stones, on which no one had lifted up any iron. They offered burnt offerings on it to Yahweh and sacrificed peace offerings."
+      "text": "as Moses the servant of the LORD commanded the children of Israel, as it is written in the book of the law of Moses: an altar of uncut stones, on which no one had lifted up any iron. They offered burnt offerings on it to the LORD and sacrificed peace offerings."
     },
     {
       "chapter": 8,
@@ -925,7 +925,7 @@
     {
       "chapter": 8,
       "verse": 33,
-      "text": "All Israel, with their elders, officers, and judges, stood on both sides of the ark before the Levitical priests, who carried the ark of Yahweh’s covenant, the foreigner as well as the native; half of them in front of Mount Gerizim, and half of them in front of Mount Ebal, as Moses the servant of Yahweh had commanded at the first, that they should bless the people of Israel."
+      "text": "All Israel, with their elders, officers, and judges, stood on both sides of the ark before the Levitical priests, who carried the ark of the LORD’s covenant, the foreigner as well as the native; half of them in front of Mount Gerizim, and half of them in front of Mount Ebal, as Moses the servant of the LORD had commanded at the first, that they should bless the people of Israel."
     },
     {
       "chapter": 8,
@@ -980,7 +980,7 @@
     {
       "chapter": 9,
       "verse": 9,
-      "text": "They said to him, “Your servants have come from a very far country because of the name of Yahweh your God; for we have heard of his fame, all that he did in Egypt,"
+      "text": "They said to him, “Your servants have come from a very far country because of the name of the LORD your God; for we have heard of his fame, all that he did in Egypt,"
     },
     {
       "chapter": 9,
@@ -1005,7 +1005,7 @@
     {
       "chapter": 9,
       "verse": 14,
-      "text": "The men sampled their provisions, and didn’t ask counsel from Yahweh’s mouth."
+      "text": "The men sampled their provisions, and didn’t ask counsel from the LORD’s mouth."
     },
     {
       "chapter": 9,
@@ -1025,12 +1025,12 @@
     {
       "chapter": 9,
       "verse": 18,
-      "text": "The children of Israel didn’t strike them, because the princes of the congregation had sworn to them by Yahweh, the God of Israel. All the congregation murmured against the princes."
+      "text": "The children of Israel didn’t strike them, because the princes of the congregation had sworn to them by the LORD, the God of Israel. All the congregation murmured against the princes."
     },
     {
       "chapter": 9,
       "verse": 19,
-      "text": "But all the princes said to all the congregation, “We have sworn to them by Yahweh, the God of Israel. Now therefore we may not touch them."
+      "text": "But all the princes said to all the congregation, “We have sworn to them by the LORD, the God of Israel. Now therefore we may not touch them."
     },
     {
       "chapter": 9,
@@ -1055,7 +1055,7 @@
     {
       "chapter": 9,
       "verse": 24,
-      "text": "They answered Joshua, and said, “Because your servants were certainly told how Yahweh your God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you. Therefore we were very afraid for our lives because of you, and have done this thing."
+      "text": "They answered Joshua, and said, “Because your servants were certainly told how the LORD your God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you. Therefore we were very afraid for our lives because of you, and have done this thing."
     },
     {
       "chapter": 9,
@@ -1070,7 +1070,7 @@
     {
       "chapter": 9,
       "verse": 27,
-      "text": "That day Joshua made them wood cutters and drawers of water for the congregation and for Yahweh’s altar to this day, in the place which he should choose."
+      "text": "That day Joshua made them wood cutters and drawers of water for the congregation and for the LORD’s altar to this day, in the place which he should choose."
     },
     {
       "chapter": 10,
@@ -1110,7 +1110,7 @@
     {
       "chapter": 10,
       "verse": 8,
-      "text": "Yahweh said to Joshua, “Don’t fear them, for I have delivered them into your hands. Not a man of them will stand before you.”"
+      "text": "The LORD said to Joshua, “Don’t fear them, for I have delivered them into your hands. Not a man of them will stand before you.”"
     },
     {
       "chapter": 10,
@@ -1120,17 +1120,17 @@
     {
       "chapter": 10,
       "verse": 10,
-      "text": "Yahweh confused them before Israel. He killed them with a great slaughter at Gibeon, and chased them by the way of the ascent of Beth Horon, and struck them to Azekah and to Makkedah."
+      "text": "The LORD confused them before Israel. He killed them with a great slaughter at Gibeon, and chased them by the way of the ascent of Beth Horon, and struck them to Azekah and to Makkedah."
     },
     {
       "chapter": 10,
       "verse": 11,
-      "text": "As they fled from before Israel, while they were at the descent of Beth Horon, Yahweh hurled down great stones from the sky on them to Azekah, and they died. There were more who died from the hailstones than those whom the children of Israel killed with the sword."
+      "text": "As they fled from before Israel, while they were at the descent of Beth Horon, the LORD hurled down great stones from the sky on them to Azekah, and they died. There were more who died from the hailstones than those whom the children of Israel killed with the sword."
     },
     {
       "chapter": 10,
       "verse": 12,
-      "text": "Then Joshua spoke to Yahweh in the day when Yahweh delivered up the Amorites before the children of Israel. He said in the sight of Israel, “Sun, stand still on Gibeon! You, moon, stop in the valley of Aijalon!”"
+      "text": "Then Joshua spoke to the LORD in the day when the LORD delivered up the Amorites before the children of Israel. He said in the sight of Israel, “Sun, stand still on Gibeon! You, moon, stop in the valley of Aijalon!”"
     },
     {
       "chapter": 10,
@@ -1140,7 +1140,7 @@
     {
       "chapter": 10,
       "verse": 14,
-      "text": "There was no day like that before it or after it, that Yahweh listened to the voice of a man; for Yahweh fought for Israel."
+      "text": "There was no day like that before it or after it, that the LORD listened to the voice of a man; for the LORD fought for Israel."
     },
     {
       "chapter": 10,
@@ -1165,7 +1165,7 @@
     {
       "chapter": 10,
       "verse": 19,
-      "text": "but don’t stay there. Pursue your enemies, and attack them from the rear. Don’t allow them to enter into their cities; for Yahweh your God has delivered them into your hand.”"
+      "text": "but don’t stay there. Pursue your enemies, and attack them from the rear. Don’t allow them to enter into their cities; for the LORD your God has delivered them into your hand.”"
     },
     {
       "chapter": 10,
@@ -1195,7 +1195,7 @@
     {
       "chapter": 10,
       "verse": 25,
-      "text": "Joshua said to them, “Don’t be afraid, nor be dismayed. Be strong and courageous, for Yahweh will do this to all your enemies against whom you fight.”"
+      "text": "Joshua said to them, “Don’t be afraid, nor be dismayed. Be strong and courageous, for the LORD will do this to all your enemies against whom you fight.”"
     },
     {
       "chapter": 10,
@@ -1220,7 +1220,7 @@
     {
       "chapter": 10,
       "verse": 30,
-      "text": "Yahweh delivered it also, with its king, into the hand of Israel. He struck it with the edge of the sword, and all the souls who were in it. He left no one remaining in it. He did to its king as he had done to the king of Jericho."
+      "text": "The LORD delivered it also, with its king, into the hand of Israel. He struck it with the edge of the sword, and all the souls who were in it. He left no one remaining in it. He did to its king as he had done to the king of Jericho."
     },
     {
       "chapter": 10,
@@ -1230,7 +1230,7 @@
     {
       "chapter": 10,
       "verse": 32,
-      "text": "Yahweh delivered Lachish into the hand of Israel. He took it on the second day, and struck it with the edge of the sword, with all the souls who were in it, according to all that he had done to Libnah."
+      "text": "The LORD delivered Lachish into the hand of Israel. He took it on the second day, and struck it with the edge of the sword, with all the souls who were in it, according to all that he had done to Libnah."
     },
     {
       "chapter": 10,
@@ -1270,7 +1270,7 @@
     {
       "chapter": 10,
       "verse": 40,
-      "text": "So Joshua struck all the land, the hill country, the South, the lowland, the slopes, and all their kings. He left no one remaining, but he utterly destroyed all that breathed, as Yahweh, the God of Israel, commanded."
+      "text": "So Joshua struck all the land, the hill country, the South, the lowland, the slopes, and all their kings. He left no one remaining, but he utterly destroyed all that breathed, as the LORD, the God of Israel, commanded."
     },
     {
       "chapter": 10,
@@ -1280,7 +1280,7 @@
     {
       "chapter": 10,
       "verse": 42,
-      "text": "Joshua took all these kings and their land at one time because Yahweh, the God of Israel, fought for Israel."
+      "text": "Joshua took all these kings and their land at one time because the LORD, the God of Israel, fought for Israel."
     },
     {
       "chapter": 10,
@@ -1315,7 +1315,7 @@
     {
       "chapter": 11,
       "verse": 6,
-      "text": "Yahweh said to Joshua, “Don’t be afraid because of them; for tomorrow at this time, I will deliver them up all slain before Israel. You shall hamstring their horses and burn their chariots with fire.”"
+      "text": "The LORD said to Joshua, “Don’t be afraid because of them; for tomorrow at this time, I will deliver them up all slain before Israel. You shall hamstring their horses and burn their chariots with fire.”"
     },
     {
       "chapter": 11,
@@ -1325,12 +1325,12 @@
     {
       "chapter": 11,
       "verse": 8,
-      "text": "Yahweh delivered them into the hand of Israel, and they struck them, and chased them to great Sidon, and to Misrephoth Maim, and to the valley of Mizpah eastward. They struck them until they left them no one remaining."
+      "text": "The LORD delivered them into the hand of Israel, and they struck them, and chased them to great Sidon, and to Misrephoth Maim, and to the valley of Mizpah eastward. They struck them until they left them no one remaining."
     },
     {
       "chapter": 11,
       "verse": 9,
-      "text": "Joshua did to them as Yahweh told him. He hamstrung their horses and burned their chariots with fire."
+      "text": "Joshua did to them as the LORD told him. He hamstrung their horses and burned their chariots with fire."
     },
     {
       "chapter": 11,
@@ -1345,7 +1345,7 @@
     {
       "chapter": 11,
       "verse": 12,
-      "text": "Joshua captured all the cities of those kings, with their kings, and he struck them with the edge of the sword, and utterly destroyed them, as Moses the servant of Yahweh commanded."
+      "text": "Joshua captured all the cities of those kings, with their kings, and he struck them with the edge of the sword, and utterly destroyed them, as Moses the servant of the LORD commanded."
     },
     {
       "chapter": 11,
@@ -1360,7 +1360,7 @@
     {
       "chapter": 11,
       "verse": 15,
-      "text": "As Yahweh commanded Moses his servant, so Moses commanded Joshua. Joshua did so. He left nothing undone of all that Yahweh commanded Moses."
+      "text": "As the LORD commanded Moses his servant, so Moses commanded Joshua. Joshua did so. He left nothing undone of all that the LORD commanded Moses."
     },
     {
       "chapter": 11,
@@ -1385,7 +1385,7 @@
     {
       "chapter": 11,
       "verse": 20,
-      "text": "For it was of Yahweh to harden their hearts, to come against Israel in battle, that he might utterly destroy them, that they might have no favor, but that he might destroy them, as Yahweh commanded Moses."
+      "text": "For it was of the LORD to harden their hearts, to come against Israel in battle, that he might utterly destroy them, that they might have no favor, but that he might destroy them, as the LORD commanded Moses."
     },
     {
       "chapter": 11,
@@ -1400,7 +1400,7 @@
     {
       "chapter": 11,
       "verse": 23,
-      "text": "So Joshua took the whole land, according to all that Yahweh spoke to Moses; and Joshua gave it for an inheritance to Israel according to their divisions by their tribes. Then the land had rest from war."
+      "text": "So Joshua took the whole land, according to all that the LORD spoke to Moses; and Joshua gave it for an inheritance to Israel according to their divisions by their tribes. Then the land had rest from war."
     },
     {
       "chapter": 12,
@@ -1430,7 +1430,7 @@
     {
       "chapter": 12,
       "verse": 6,
-      "text": "Moses the servant of Yahweh and the children of Israel struck them. Moses the servant of Yahweh gave it for a possession to the Reubenites, and the Gadites, and the half-tribe of Manasseh."
+      "text": "Moses the servant of the LORD and the children of Israel struck them. Moses the servant of the LORD gave it for a possession to the Reubenites, and the Gadites, and the half-tribe of Manasseh."
     },
     {
       "chapter": 12,
@@ -1525,7 +1525,7 @@
     {
       "chapter": 13,
       "verse": 1,
-      "text": "Now Joshua was old and well advanced in years. Yahweh said to him, “You are old and advanced in years, and there remains yet very much land to be possessed."
+      "text": "Now Joshua was old and well advanced in years. The LORD said to him, “You are old and advanced in years, and there remains yet very much land to be possessed."
     },
     {
       "chapter": 13,
@@ -1560,7 +1560,7 @@
     {
       "chapter": 13,
       "verse": 8,
-      "text": "With him the Reubenites and the Gadites received their inheritance, which Moses gave them, beyond the Jordan eastward, even as Moses the servant of Yahweh gave them:"
+      "text": "With him the Reubenites and the Gadites received their inheritance, which Moses gave them, beyond the Jordan eastward, even as Moses the servant of the LORD gave them:"
     },
     {
       "chapter": 13,
@@ -1590,7 +1590,7 @@
     {
       "chapter": 13,
       "verse": 14,
-      "text": "Only he gave no inheritance to the tribe of Levi. The offerings of Yahweh, the God of Israel, made by fire are his inheritance, as he spoke to him."
+      "text": "Only he gave no inheritance to the tribe of Levi. The offerings of the LORD, the God of Israel, made by fire are his inheritance, as he spoke to him."
     },
     {
       "chapter": 13,
@@ -1685,7 +1685,7 @@
     {
       "chapter": 13,
       "verse": 33,
-      "text": "But Moses gave no inheritance to the tribe of Levi. Yahweh, the God of Israel, is their inheritance, as he spoke to them."
+      "text": "But Moses gave no inheritance to the tribe of Levi. The LORD, the God of Israel, is their inheritance, as he spoke to them."
     },
     {
       "chapter": 14,
@@ -1695,7 +1695,7 @@
     {
       "chapter": 14,
       "verse": 2,
-      "text": "by the lot of their inheritance, as Yahweh commanded by Moses, for the nine tribes, and for the half-tribe."
+      "text": "by the lot of their inheritance, as the LORD commanded by Moses, for the nine tribes, and for the half-tribe."
     },
     {
       "chapter": 14,
@@ -1710,32 +1710,32 @@
     {
       "chapter": 14,
       "verse": 5,
-      "text": "The children of Israel did as Yahweh commanded Moses, and they divided the land."
+      "text": "The children of Israel did as the LORD commanded Moses, and they divided the land."
     },
     {
       "chapter": 14,
       "verse": 6,
-      "text": "Then the children of Judah came near to Joshua in Gilgal. Caleb the son of Jephunneh the Kenizzite said to him, “You know the thing that Yahweh spoke to Moses the man of God concerning me and concerning you in Kadesh Barnea."
+      "text": "Then the children of Judah came near to Joshua in Gilgal. Caleb the son of Jephunneh the Kenizzite said to him, “You know the thing that the LORD spoke to Moses the man of God concerning me and concerning you in Kadesh Barnea."
     },
     {
       "chapter": 14,
       "verse": 7,
-      "text": "I was forty years old when Moses the servant of Yahweh sent me from Kadesh Barnea to spy out the land. I brought him word again as it was in my heart."
+      "text": "I was forty years old when Moses the servant of the LORD sent me from Kadesh Barnea to spy out the land. I brought him word again as it was in my heart."
     },
     {
       "chapter": 14,
       "verse": 8,
-      "text": "Nevertheless, my brothers who went up with me made the heart of the people melt; but I wholly followed Yahweh my God."
+      "text": "Nevertheless, my brothers who went up with me made the heart of the people melt; but I wholly followed the LORD my God."
     },
     {
       "chapter": 14,
       "verse": 9,
-      "text": "Moses swore on that day, saying, ‘Surely the land where you walked shall be an inheritance to you and to your children forever, because you have wholly followed Yahweh my God.’"
+      "text": "Moses swore on that day, saying, ‘Surely the land where you walked shall be an inheritance to you and to your children forever, because you have wholly followed the LORD my God.’"
     },
     {
       "chapter": 14,
       "verse": 10,
-      "text": "“Now, behold, Yahweh has kept me alive, as he spoke, these forty-five years, from the time that Yahweh spoke this word to Moses, while Israel walked in the wilderness. Now, behold, I am eighty-five years old, today."
+      "text": "“Now, behold, the LORD has kept me alive, as he spoke, these forty-five years, from the time that the LORD spoke this word to Moses, while Israel walked in the wilderness. Now, behold, I am eighty-five years old, today."
     },
     {
       "chapter": 14,
@@ -1745,7 +1745,7 @@
     {
       "chapter": 14,
       "verse": 12,
-      "text": "Now therefore give me this hill country, of which Yahweh spoke in that day; for you heard in that day how the Anakim were there, and great and fortified cities. It may be that Yahweh will be with me, and I shall drive them out, as Yahweh said.”"
+      "text": "Now therefore give me this hill country, of which the LORD spoke in that day; for you heard in that day how the Anakim were there, and great and fortified cities. It may be that the LORD will be with me, and I shall drive them out, as the LORD said.”"
     },
     {
       "chapter": 14,
@@ -1755,7 +1755,7 @@
     {
       "chapter": 14,
       "verse": 14,
-      "text": "Therefore Hebron became the inheritance of Caleb the son of Jephunneh the Kenizzite to this day, because he followed Yahweh, the God of Israel wholeheartedly."
+      "text": "Therefore Hebron became the inheritance of Caleb the son of Jephunneh the Kenizzite to this day, because he followed the LORD, the God of Israel wholeheartedly."
     },
     {
       "chapter": 14,
@@ -1825,7 +1825,7 @@
     {
       "chapter": 15,
       "verse": 13,
-      "text": "He gave to Caleb the son of Jephunneh a portion among the children of Judah, according to the commandment of Yahweh to Joshua, even Kiriath Arba, named after the father of Anak (also called Hebron)."
+      "text": "He gave to Caleb the son of Jephunneh a portion among the children of Judah, according to the commandment of the LORD to Joshua, even Kiriath Arba, named after the father of Anak (also called Hebron)."
     },
     {
       "chapter": 15,
@@ -2145,7 +2145,7 @@
     {
       "chapter": 17,
       "verse": 4,
-      "text": "They came to Eleazar the priest, and to Joshua the son of Nun, and to the princes, saying, “Yahweh commanded Moses to give us an inheritance among our brothers.” Therefore according to the commandment of Yahweh he gave them an inheritance among the brothers of their father."
+      "text": "They came to Eleazar the priest, and to Joshua the son of Nun, and to the princes, saying, “The LORD commanded Moses to give us an inheritance among our brothers.” Therefore according to the commandment of the LORD he gave them an inheritance among the brothers of their father."
     },
     {
       "chapter": 17,
@@ -2195,7 +2195,7 @@
     {
       "chapter": 17,
       "verse": 14,
-      "text": "The children of Joseph spoke to Joshua, saying, “Why have you given me just one lot and one part for an inheritance, since we are a numerous people, because Yahweh has blessed us so far?”"
+      "text": "The children of Joseph spoke to Joshua, saying, “Why have you given me just one lot and one part for an inheritance, since we are a numerous people, because the LORD has blessed us so far?”"
     },
     {
       "chapter": 17,
@@ -2230,7 +2230,7 @@
     {
       "chapter": 18,
       "verse": 3,
-      "text": "Joshua said to the children of Israel, “How long will you neglect to go in to possess the land, which Yahweh, the God of your fathers, has given you?"
+      "text": "Joshua said to the children of Israel, “How long will you neglect to go in to possess the land, which the LORD, the God of your fathers, has given you?"
     },
     {
       "chapter": 18,
@@ -2245,17 +2245,17 @@
     {
       "chapter": 18,
       "verse": 6,
-      "text": "You shall survey the land into seven parts, and bring the description here to me; and I will cast lots for you here before Yahweh our God."
+      "text": "You shall survey the land into seven parts, and bring the description here to me; and I will cast lots for you here before the LORD our God."
     },
     {
       "chapter": 18,
       "verse": 7,
-      "text": "However, the Levites have no portion among you; for the priesthood of Yahweh is their inheritance. Gad, Reuben, and the half-tribe of Manasseh have received their inheritance east of the Jordan, which Moses the servant of Yahweh gave them.”"
+      "text": "However, the Levites have no portion among you; for the priesthood of the LORD is their inheritance. Gad, Reuben, and the half-tribe of Manasseh have received their inheritance east of the Jordan, which Moses the servant of the LORD gave them.”"
     },
     {
       "chapter": 18,
       "verse": 8,
-      "text": "The men arose and went. Joshua commanded those who went to survey the land, saying, “Go walk through the land, survey it, and come again to me. I will cast lots for you here before Yahweh in Shiloh.”"
+      "text": "The men arose and went. Joshua commanded those who went to survey the land, saying, “Go walk through the land, survey it, and come again to me. I will cast lots for you here before the LORD in Shiloh.”"
     },
     {
       "chapter": 18,
@@ -2265,7 +2265,7 @@
     {
       "chapter": 18,
       "verse": 10,
-      "text": "Joshua cast lots for them in Shiloh before Yahweh. There Joshua divided the land to the children of Israel according to their divisions."
+      "text": "Joshua cast lots for them in Shiloh before the LORD. There Joshua divided the land to the children of Israel according to their divisions."
     },
     {
       "chapter": 18,
@@ -2605,17 +2605,17 @@
     {
       "chapter": 19,
       "verse": 50,
-      "text": "According to Yahweh’s commandment, they gave him the city which he asked, even Timnathserah in the hill country of Ephraim; and he built the city, and lived there."
+      "text": "According to the LORD’s commandment, they gave him the city which he asked, even Timnathserah in the hill country of Ephraim; and he built the city, and lived there."
     },
     {
       "chapter": 19,
       "verse": 51,
-      "text": "These are the inheritances, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers’ houses of the tribes of the children of Israel, distributed for inheritance by lot in Shiloh before Yahweh, at the door of the Tent of Meeting. So they finished dividing the land."
+      "text": "These are the inheritances, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers’ houses of the tribes of the children of Israel, distributed for inheritance by lot in Shiloh before the LORD, at the door of the Tent of Meeting. So they finished dividing the land."
     },
     {
       "chapter": 20,
       "verse": 1,
-      "text": "Yahweh spoke to Joshua, saying,"
+      "text": "The LORD spoke to Joshua, saying,"
     },
     {
       "chapter": 20,
@@ -2665,12 +2665,12 @@
     {
       "chapter": 21,
       "verse": 2,
-      "text": "They spoke to them at Shiloh in the land of Canaan, saying, “Yahweh commanded through Moses to give us cities to dwell in, with their pasture lands for our livestock.”"
+      "text": "They spoke to them at Shiloh in the land of Canaan, saying, “The LORD commanded through Moses to give us cities to dwell in, with their pasture lands for our livestock.”"
     },
     {
       "chapter": 21,
       "verse": 3,
-      "text": "The children of Israel gave to the Levites out of their inheritance, according to the commandment of Yahweh, these cities with their pasture lands."
+      "text": "The children of Israel gave to the Levites out of their inheritance, according to the commandment of the LORD, these cities with their pasture lands."
     },
     {
       "chapter": 21,
@@ -2695,7 +2695,7 @@
     {
       "chapter": 21,
       "verse": 8,
-      "text": "The children of Israel gave these cities with their pasture lands by lot to the Levites, as Yahweh commanded by Moses."
+      "text": "The children of Israel gave these cities with their pasture lands by lot to the Levites, as the LORD commanded by Moses."
     },
     {
       "chapter": 21,
@@ -2870,17 +2870,17 @@
     {
       "chapter": 21,
       "verse": 43,
-      "text": "So Yahweh gave to Israel all the land which he swore to give to their fathers. They possessed it, and lived in it."
+      "text": "So the LORD gave to Israel all the land which he swore to give to their fathers. They possessed it, and lived in it."
     },
     {
       "chapter": 21,
       "verse": 44,
-      "text": "Yahweh gave them rest all around, according to all that he swore to their fathers. Not a man of all their enemies stood before them. Yahweh delivered all their enemies into their hand."
+      "text": "The LORD gave them rest all around, according to all that he swore to their fathers. Not a man of all their enemies stood before them. The LORD delivered all their enemies into their hand."
     },
     {
       "chapter": 21,
       "verse": 45,
-      "text": "Nothing failed of any good thing which Yahweh had spoken to the house of Israel. All came to pass."
+      "text": "Nothing failed of any good thing which the LORD had spoken to the house of Israel. All came to pass."
     },
     {
       "chapter": 22,
@@ -2890,22 +2890,22 @@
     {
       "chapter": 22,
       "verse": 2,
-      "text": "and said to them, “You have kept all that Moses the servant of Yahweh commanded you, and have listened to my voice in all that I commanded you."
+      "text": "and said to them, “You have kept all that Moses the servant of the LORD commanded you, and have listened to my voice in all that I commanded you."
     },
     {
       "chapter": 22,
       "verse": 3,
-      "text": "You have not left your brothers these many days to this day, but have performed the duty of the commandment of Yahweh your God."
+      "text": "You have not left your brothers these many days to this day, but have performed the duty of the commandment of the LORD your God."
     },
     {
       "chapter": 22,
       "verse": 4,
-      "text": "Now Yahweh your God has given rest to your brothers, as he spoke to them. Therefore now return and go to your tents, to the land of your possession, which Moses the servant of Yahweh gave you beyond the Jordan."
+      "text": "Now the LORD your God has given rest to your brothers, as he spoke to them. Therefore now return and go to your tents, to the land of your possession, which Moses the servant of the LORD gave you beyond the Jordan."
     },
     {
       "chapter": 22,
       "verse": 5,
-      "text": "Only take diligent heed to do the commandment and the law which Moses the servant of Yahweh commanded you, to love Yahweh your God, to walk in all his ways, to keep his commandments, to hold fast to him, and to serve him with all your heart and with all your soul.”"
+      "text": "Only take diligent heed to do the commandment and the law which Moses the servant of the LORD commanded you, to love the LORD your God, to walk in all his ways, to keep his commandments, to hold fast to him, and to serve him with all your heart and with all your soul.”"
     },
     {
       "chapter": 22,
@@ -2925,7 +2925,7 @@
     {
       "chapter": 22,
       "verse": 9,
-      "text": "The children of Reuben and the children of Gad and the half-tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which is in the land of Canaan, to go to the land of Gilead, to the land of their possession, which they owned, according to the commandment of Yahweh by Moses."
+      "text": "The children of Reuben and the children of Gad and the half-tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which is in the land of Canaan, to go to the land of Gilead, to the land of their possession, which they owned, according to the commandment of the LORD by Moses."
     },
     {
       "chapter": 22,
@@ -2960,22 +2960,22 @@
     {
       "chapter": 22,
       "verse": 16,
-      "text": "“The whole congregation of Yahweh says, ‘What trespass is this that you have committed against the God of Israel, to turn away today from following Yahweh, in that you have built yourselves an altar, to rebel today against Yahweh?"
+      "text": "“The whole congregation of the LORD says, ‘What trespass is this that you have committed against the God of Israel, to turn away today from following the LORD, in that you have built yourselves an altar, to rebel today against the LORD?"
     },
     {
       "chapter": 22,
       "verse": 17,
-      "text": "Is the iniquity of Peor too little for us, from which we have not cleansed ourselves to this day, although there came a plague on the congregation of Yahweh,"
+      "text": "Is the iniquity of Peor too little for us, from which we have not cleansed ourselves to this day, although there came a plague on the congregation of the LORD,"
     },
     {
       "chapter": 22,
       "verse": 18,
-      "text": "that you must turn away today from following Yahweh? It will be, since you rebel today against Yahweh, that tomorrow he will be angry with the whole congregation of Israel."
+      "text": "that you must turn away today from following the LORD? It will be, since you rebel today against the LORD, that tomorrow he will be angry with the whole congregation of Israel."
     },
     {
       "chapter": 22,
       "verse": 19,
-      "text": "However, if the land of your possession is unclean, then pass over to the land of the possession of Yahweh, in which Yahweh’s tabernacle dwells, and take possession among us; but don’t rebel against Yahweh, nor rebel against us, in building an altar other than Yahweh our God’s altar."
+      "text": "However, if the land of your possession is unclean, then pass over to the land of the possession of the LORD, in which the LORD’s tabernacle dwells, and take possession among us; but don’t rebel against the LORD, nor rebel against us, in building an altar other than the LORD our God’s altar."
     },
     {
       "chapter": 22,
@@ -2990,22 +2990,22 @@
     {
       "chapter": 22,
       "verse": 22,
-      "text": "“The Mighty One, God, Yahweh, the Mighty One, God, Yahweh, he knows; and Israel shall know: if it was in rebellion, or if in trespass against Yahweh (don’t save us today),"
+      "text": "“The Mighty One, God, the LORD, the Mighty One, God, the LORD, he knows; and Israel shall know: if it was in rebellion, or if in trespass against the LORD (don’t save us today),"
     },
     {
       "chapter": 22,
       "verse": 23,
-      "text": "that we have built us an altar to turn away from following Yahweh; or if to offer burnt offering or meal offering, or if to offer sacrifices of peace offerings, let Yahweh himself require it."
+      "text": "that we have built us an altar to turn away from following the LORD; or if to offer burnt offering or meal offering, or if to offer sacrifices of peace offerings, let the LORD himself require it."
     },
     {
       "chapter": 22,
       "verse": 24,
-      "text": "“If we have not out of concern done this, and for a reason, saying, ‘In time to come your children might speak to our children, saying, “What have you to do with Yahweh, the God of Israel?"
+      "text": "“If we have not out of concern done this, and for a reason, saying, ‘In time to come your children might speak to our children, saying, “What have you to do with the LORD, the God of Israel?"
     },
     {
       "chapter": 22,
       "verse": 25,
-      "text": "For Yahweh has made the Jordan a border between us and you, you children of Reuben and children of Gad. You have no portion in Yahweh.” ’ So your children might make our children cease from fearing Yahweh."
+      "text": "For the LORD has made the Jordan a border between us and you, you children of Reuben and children of Gad. You have no portion in the LORD.” ’ So your children might make our children cease from fearing the LORD."
     },
     {
       "chapter": 22,
@@ -3015,17 +3015,17 @@
     {
       "chapter": 22,
       "verse": 27,
-      "text": "but it will be a witness between us and you, and between our generations after us, that we may perform the service of Yahweh before him with our burnt offerings, with our sacrifices, and with our peace offerings;’ that your children may not tell our children in time to come, ‘You have no portion in Yahweh.’"
+      "text": "but it will be a witness between us and you, and between our generations after us, that we may perform the service of the LORD before him with our burnt offerings, with our sacrifices, and with our peace offerings;’ that your children may not tell our children in time to come, ‘You have no portion in the LORD.’"
     },
     {
       "chapter": 22,
       "verse": 28,
-      "text": "“Therefore we said, ‘It shall be, when they tell us or our generations this in time to come, that we shall say, “Behold the pattern of Yahweh’s altar, which our fathers made, not for burnt offering, nor for sacrifice; but it is a witness between us and you.” ’"
+      "text": "“Therefore we said, ‘It shall be, when they tell us or our generations this in time to come, that we shall say, “Behold the pattern of the LORD’s altar, which our fathers made, not for burnt offering, nor for sacrifice; but it is a witness between us and you.” ’"
     },
     {
       "chapter": 22,
       "verse": 29,
-      "text": "“Far be it from us that we should rebel against Yahweh, and turn away today from following Yahweh, to build an altar for burnt offering, for meal offering, or for sacrifice, besides Yahweh our God’s altar that is before his tabernacle!”"
+      "text": "“Far be it from us that we should rebel against the LORD, and turn away today from following the LORD, to build an altar for burnt offering, for meal offering, or for sacrifice, besides the LORD our God’s altar that is before his tabernacle!”"
     },
     {
       "chapter": 22,
@@ -3035,7 +3035,7 @@
     {
       "chapter": 22,
       "verse": 31,
-      "text": "Phinehas the son of Eleazar the priest said to the children of Reuben, to the children of Gad, and to the children of Manasseh, “Today we know that Yahweh is among us, because you have not committed this trespass against Yahweh. Now you have delivered the children of Israel out of Yahweh’s hand.”"
+      "text": "Phinehas the son of Eleazar the priest said to the children of Reuben, to the children of Gad, and to the children of Manasseh, “Today we know that the LORD is among us, because you have not committed this trespass against the LORD. Now you have delivered the children of Israel out of the LORD’s hand.”"
     },
     {
       "chapter": 22,
@@ -3050,12 +3050,12 @@
     {
       "chapter": 22,
       "verse": 34,
-      "text": "The children of Reuben and the children of Gad named the altar “A Witness Between Us that Yahweh is God.”"
+      "text": "The children of Reuben and the children of Gad named the altar “A Witness Between Us that the LORD is God.”"
     },
     {
       "chapter": 23,
       "verse": 1,
-      "text": "After many days, when Yahweh had given rest to Israel from their enemies all around, and Joshua was old and well advanced in years,"
+      "text": "After many days, when the LORD had given rest to Israel from their enemies all around, and Joshua was old and well advanced in years,"
     },
     {
       "chapter": 23,
@@ -3065,7 +3065,7 @@
     {
       "chapter": 23,
       "verse": 3,
-      "text": "You have seen all that Yahweh your God has done to all these nations because of you; for it is Yahweh your God who has fought for you."
+      "text": "You have seen all that the LORD your God has done to all these nations because of you; for it is the LORD your God who has fought for you."
     },
     {
       "chapter": 23,
@@ -3075,7 +3075,7 @@
     {
       "chapter": 23,
       "verse": 5,
-      "text": "Yahweh your God will thrust them out from before you, and drive them from out of your sight. You shall possess their land, as Yahweh your God spoke to you."
+      "text": "The LORD your God will thrust them out from before you, and drive them from out of your sight. You shall possess their land, as the LORD your God spoke to you."
     },
     {
       "chapter": 23,
@@ -3090,22 +3090,22 @@
     {
       "chapter": 23,
       "verse": 8,
-      "text": "but hold fast to Yahweh your God, as you have done to this day."
+      "text": "but hold fast to the LORD your God, as you have done to this day."
     },
     {
       "chapter": 23,
       "verse": 9,
-      "text": "“For Yahweh has driven great and strong nations out from before you. But as for you, no man has stood before you to this day."
+      "text": "“For the LORD has driven great and strong nations out from before you. But as for you, no man has stood before you to this day."
     },
     {
       "chapter": 23,
       "verse": 10,
-      "text": "One man of you shall chase a thousand; for it is Yahweh your God who fights for you, as he spoke to you."
+      "text": "One man of you shall chase a thousand; for it is the LORD your God who fights for you, as he spoke to you."
     },
     {
       "chapter": 23,
       "verse": 11,
-      "text": "Take good heed therefore to yourselves, that you love Yahweh your God."
+      "text": "Take good heed therefore to yourselves, that you love the LORD your God."
     },
     {
       "chapter": 23,
@@ -3115,22 +3115,22 @@
     {
       "chapter": 23,
       "verse": 13,
-      "text": "know for a certainty that Yahweh your God will no longer drive these nations from out of your sight; but they shall be a snare and a trap to you, a scourge in your sides, and thorns in your eyes, until you perish from off this good land which Yahweh your God has given you."
+      "text": "know for a certainty that the LORD your God will no longer drive these nations from out of your sight; but they shall be a snare and a trap to you, a scourge in your sides, and thorns in your eyes, until you perish from off this good land which the LORD your God has given you."
     },
     {
       "chapter": 23,
       "verse": 14,
-      "text": "“Behold, today I am going the way of all the earth. You know in all your hearts and in all your souls that not one thing has failed of all the good things which Yahweh your God spoke concerning you. All have happened to you. Not one thing has failed of it."
+      "text": "“Behold, today I am going the way of all the earth. You know in all your hearts and in all your souls that not one thing has failed of all the good things which the LORD your God spoke concerning you. All have happened to you. Not one thing has failed of it."
     },
     {
       "chapter": 23,
       "verse": 15,
-      "text": "It shall happen that as all the good things have come on you of which Yahweh your God spoke to you, so Yahweh will bring on you all the evil things, until he has destroyed you from off this good land which Yahweh your God has given you,"
+      "text": "It shall happen that as all the good things have come on you of which the LORD your God spoke to you, so the LORD will bring on you all the evil things, until he has destroyed you from off this good land which the LORD your God has given you,"
     },
     {
       "chapter": 23,
       "verse": 16,
-      "text": "when you disobey the covenant of Yahweh your God, which he commanded you, and go and serve other gods, and bow down yourselves to them. Then Yahweh’s anger will be kindled against you, and you will perish quickly from off the good land which he has given to you.”"
+      "text": "when you disobey the covenant of the LORD your God, which he commanded you, and go and serve other gods, and bow down yourselves to them. Then the LORD’s anger will be kindled against you, and you will perish quickly from off the good land which he has given to you.”"
     },
     {
       "chapter": 24,
@@ -3140,7 +3140,7 @@
     {
       "chapter": 24,
       "verse": 2,
-      "text": "Joshua said to all the people, “Yahweh, the God of Israel, says, ‘Your fathers lived of old time beyond the River, even Terah, the father of Abraham, and the father of Nahor. They served other gods."
+      "text": "Joshua said to all the people, “The LORD, the God of Israel, says, ‘Your fathers lived of old time beyond the River, even Terah, the father of Abraham, and the father of Nahor. They served other gods."
     },
     {
       "chapter": 24,
@@ -3165,7 +3165,7 @@
     {
       "chapter": 24,
       "verse": 7,
-      "text": "When they cried out to Yahweh, he put darkness between you and the Egyptians, and brought the sea on them, and covered them; and your eyes saw what I did in Egypt. You lived in the wilderness many days."
+      "text": "When they cried out to the LORD, he put darkness between you and the Egyptians, and brought the sea on them, and covered them; and your eyes saw what I did in Egypt. You lived in the wilderness many days."
     },
     {
       "chapter": 24,
@@ -3200,57 +3200,57 @@
     {
       "chapter": 24,
       "verse": 14,
-      "text": "“Now therefore fear Yahweh, and serve him in sincerity and in truth. Put away the gods which your fathers served beyond the River, in Egypt; and serve Yahweh."
+      "text": "“Now therefore fear the LORD, and serve him in sincerity and in truth. Put away the gods which your fathers served beyond the River, in Egypt; and serve the LORD."
     },
     {
       "chapter": 24,
       "verse": 15,
-      "text": "If it seems evil to you to serve Yahweh, choose today whom you will serve; whether the gods which your fathers served that were beyond the River, or the gods of the Amorites, in whose land you dwell; but as for me and my house, we will serve Yahweh.”"
+      "text": "If it seems evil to you to serve the LORD, choose today whom you will serve; whether the gods which your fathers served that were beyond the River, or the gods of the Amorites, in whose land you dwell; but as for me and my house, we will serve the LORD.”"
     },
     {
       "chapter": 24,
       "verse": 16,
-      "text": "The people answered, “Far be it from us that we should forsake Yahweh, to serve other gods;"
+      "text": "The people answered, “Far be it from us that we should forsake the LORD, to serve other gods;"
     },
     {
       "chapter": 24,
       "verse": 17,
-      "text": "for it is Yahweh our God who brought us and our fathers up out of the land of Egypt, from the house of bondage, and who did those great signs in our sight, and preserved us in all the way in which we went, and among all the peoples through the middle of whom we passed."
+      "text": "for it is the LORD our God who brought us and our fathers up out of the land of Egypt, from the house of bondage, and who did those great signs in our sight, and preserved us in all the way in which we went, and among all the peoples through the middle of whom we passed."
     },
     {
       "chapter": 24,
       "verse": 18,
-      "text": "Yahweh drove out from before us all the peoples, even the Amorites who lived in the land. Therefore we also will serve Yahweh; for he is our God.”"
+      "text": "The LORD drove out from before us all the peoples, even the Amorites who lived in the land. Therefore we also will serve the LORD; for he is our God.”"
     },
     {
       "chapter": 24,
       "verse": 19,
-      "text": "Joshua said to the people, “You can’t serve Yahweh, for he is a holy God. He is a jealous God. He will not forgive your disobedience nor your sins."
+      "text": "Joshua said to the people, “You can’t serve the LORD, for he is a holy God. He is a jealous God. He will not forgive your disobedience nor your sins."
     },
     {
       "chapter": 24,
       "verse": 20,
-      "text": "If you forsake Yahweh, and serve foreign gods, then he will turn and do you evil, and consume you, after he has done you good.”"
+      "text": "If you forsake the LORD, and serve foreign gods, then he will turn and do you evil, and consume you, after he has done you good.”"
     },
     {
       "chapter": 24,
       "verse": 21,
-      "text": "The people said to Joshua, “No, but we will serve Yahweh.”"
+      "text": "The people said to Joshua, “No, but we will serve the LORD.”"
     },
     {
       "chapter": 24,
       "verse": 22,
-      "text": "Joshua said to the people, “You are witnesses against yourselves that you have chosen Yahweh yourselves, to serve him.” They said, “We are witnesses.”"
+      "text": "Joshua said to the people, “You are witnesses against yourselves that you have chosen the LORD yourselves, to serve him.” They said, “We are witnesses.”"
     },
     {
       "chapter": 24,
       "verse": 23,
-      "text": "“Now therefore put away the foreign gods which are among you, and incline your heart to Yahweh, the God of Israel.”"
+      "text": "“Now therefore put away the foreign gods which are among you, and incline your heart to the LORD, the God of Israel.”"
     },
     {
       "chapter": 24,
       "verse": 24,
-      "text": "The people said to Joshua, “We will serve Yahweh our God, and we will listen to his voice.”"
+      "text": "The people said to Joshua, “We will serve the LORD our God, and we will listen to his voice.”"
     },
     {
       "chapter": 24,
@@ -3260,12 +3260,12 @@
     {
       "chapter": 24,
       "verse": 26,
-      "text": "Joshua wrote these words in the book of the law of God; and he took a great stone, and set it up there under the oak that was by the sanctuary of Yahweh."
+      "text": "Joshua wrote these words in the book of the law of God; and he took a great stone, and set it up there under the oak that was by the sanctuary of the LORD."
     },
     {
       "chapter": 24,
       "verse": 27,
-      "text": "Joshua said to all the people, “Behold, this stone shall be a witness against us, for it has heard all Yahweh’s words which he spoke to us. It shall be therefore a witness against you, lest you deny your God.”"
+      "text": "Joshua said to all the people, “Behold, this stone shall be a witness against us, for it has heard all the LORD’s words which he spoke to us. It shall be therefore a witness against you, lest you deny your God.”"
     },
     {
       "chapter": 24,
@@ -3275,7 +3275,7 @@
     {
       "chapter": 24,
       "verse": 29,
-      "text": "After these things, Joshua the son of Nun, the servant of Yahweh, died, being one hundred ten years old."
+      "text": "After these things, Joshua the son of Nun, the servant of the LORD, died, being one hundred ten years old."
     },
     {
       "chapter": 24,
@@ -3285,7 +3285,7 @@
     {
       "chapter": 24,
       "verse": 31,
-      "text": "Israel served Yahweh all the days of Joshua, and all the days of the elders who outlived Joshua, and had known all the work of Yahweh, that he had worked for Israel."
+      "text": "Israel served the LORD all the days of Joshua, and all the days of the elders who outlived Joshua, and had known all the work of the LORD, that he had worked for Israel."
     },
     {
       "chapter": 24,

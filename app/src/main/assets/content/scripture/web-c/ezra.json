@@ -5,22 +5,22 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
       "verse": 1,
-      "text": "Now in the first year of Cyrus king of Persia, that Yahweh’s word by Jeremiah’s mouth might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
+      "text": "Now in the first year of Cyrus king of Persia, that the LORD’s word by Jeremiah’s mouth might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
     },
     {
       "chapter": 1,
       "verse": 2,
-      "text": "“Cyrus king of Persia says, ‘Yahweh, the God of heaven, has given me all the kingdoms of the earth; and he has commanded me to build him a house in Jerusalem, which is in Judah."
+      "text": "“Cyrus king of Persia says, ‘The LORD, the God of heaven, has given me all the kingdoms of the earth; and he has commanded me to build him a house in Jerusalem, which is in Judah."
     },
     {
       "chapter": 1,
       "verse": 3,
-      "text": "Whoever there is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of Yahweh, the God of Israel (he is God), which is in Jerusalem."
+      "text": "Whoever there is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD, the God of Israel (he is God), which is in Jerusalem."
     },
     {
       "chapter": 1,
@@ -30,7 +30,7 @@
     {
       "chapter": 1,
       "verse": 5,
-      "text": "Then the heads of fathers’ households of Judah and Benjamin, the priests and the Levites, all whose spirit God had stirred to go up, rose up to build Yahweh’s house which is in Jerusalem."
+      "text": "Then the heads of fathers’ households of Judah and Benjamin, the priests and the Levites, all whose spirit God had stirred to go up, rose up to build the LORD’s house which is in Jerusalem."
     },
     {
       "chapter": 1,
@@ -40,7 +40,7 @@
     {
       "chapter": 1,
       "verse": 7,
-      "text": "Also Cyrus the king brought out the vessels of Yahweh’s house, which Nebuchadnezzar had brought out of Jerusalem, and had put in the house of his gods;"
+      "text": "Also Cyrus the king brought out the vessels of the LORD’s house, which Nebuchadnezzar had brought out of Jerusalem, and had put in the house of his gods;"
     },
     {
       "chapter": 1,
@@ -400,7 +400,7 @@
     {
       "chapter": 2,
       "verse": 68,
-      "text": "Some of the heads of fathers’ households, when they came to Yahweh’s house which is in Jerusalem, offered willingly for God’s house to set it up in its place."
+      "text": "Some of the heads of fathers’ households, when they came to the LORD’s house which is in Jerusalem, offered willingly for God’s house to set it up in its place."
     },
     {
       "chapter": 2,
@@ -425,7 +425,7 @@
     {
       "chapter": 3,
       "verse": 3,
-      "text": "In spite of their fear because of the peoples of the surrounding lands, they set the altar on its base; and they offered burnt offerings on it to Yahweh, even burnt offerings morning and evening."
+      "text": "In spite of their fear because of the peoples of the surrounding lands, they set the altar on its base; and they offered burnt offerings on it to the LORD, even burnt offerings morning and evening."
     },
     {
       "chapter": 3,
@@ -435,12 +435,12 @@
     {
       "chapter": 3,
       "verse": 5,
-      "text": "and afterward the continual burnt offering, the offerings of the new moons, of all the set feasts of Yahweh that were consecrated, and of everyone who willingly offered a free will offering to Yahweh."
+      "text": "and afterward the continual burnt offering, the offerings of the new moons, of all the set feasts of the LORD that were consecrated, and of everyone who willingly offered a free will offering to the LORD."
     },
     {
       "chapter": 3,
       "verse": 6,
-      "text": "From the first day of the seventh month, they began to offer burnt offerings to Yahweh; but the foundation of Yahweh’s temple was not yet laid."
+      "text": "From the first day of the seventh month, they began to offer burnt offerings to the LORD; but the foundation of the LORD’s temple was not yet laid."
     },
     {
       "chapter": 3,
@@ -450,7 +450,7 @@
     {
       "chapter": 3,
       "verse": 8,
-      "text": "Now in the second year of their coming to God’s house at Jerusalem, in the second month, Zerubbabel the son of Shealtiel, Jeshua the son of Jozadak, and the rest of their brothers the priests and the Levites, and all those who had come out of the captivity to Jerusalem, began the work and appointed the Levites, from twenty years old and upward, to have the oversight of the work of Yahweh’s house."
+      "text": "Now in the second year of their coming to God’s house at Jerusalem, in the second month, Zerubbabel the son of Shealtiel, Jeshua the son of Jozadak, and the rest of their brothers the priests and the Levites, and all those who had come out of the captivity to Jerusalem, began the work and appointed the Levites, from twenty years old and upward, to have the oversight of the work of the LORD’s house."
     },
     {
       "chapter": 3,
@@ -460,12 +460,12 @@
     {
       "chapter": 3,
       "verse": 10,
-      "text": "When the builders laid the foundation of Yahweh’s temple, they set the priests in their vestments with trumpets, with the Levites the sons of Asaph with cymbals, to praise Yahweh, according to the directions of David king of Israel."
+      "text": "When the builders laid the foundation of the LORD’s temple, they set the priests in their vestments with trumpets, with the Levites the sons of Asaph with cymbals, to praise the LORD, according to the directions of David king of Israel."
     },
     {
       "chapter": 3,
       "verse": 11,
-      "text": "They sang to one another in praising and giving thanks to Yahweh, “For he is good, for his loving kindness endures forever toward Israel.” All the people shouted with a great shout, when they praised Yahweh, because the foundation of Yahweh’s house had been laid."
+      "text": "They sang to one another in praising and giving thanks to the LORD, “For he is good, for his loving kindness endures forever toward Israel.” All the people shouted with a great shout, when they praised the LORD, because the foundation of the LORD’s house had been laid."
     },
     {
       "chapter": 3,
@@ -480,7 +480,7 @@
     {
       "chapter": 4,
       "verse": 1,
-      "text": "Now when the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple to Yahweh, the God of Israel,"
+      "text": "Now when the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple to the LORD, the God of Israel,"
     },
     {
       "chapter": 4,
@@ -490,7 +490,7 @@
     {
       "chapter": 4,
       "verse": 3,
-      "text": "But Zerubbabel, Jeshua, and the rest of the heads of fathers’ households of Israel said to them, “You have nothing to do with us in building a house to our God; but we ourselves together will build to Yahweh, the God of Israel, as King Cyrus the king of Persia has commanded us.”"
+      "text": "But Zerubbabel, Jeshua, and the rest of the heads of fathers’ households of Israel said to them, “You have nothing to do with us in building a house to our God; but we ourselves together will build to the LORD, the God of Israel, as King Cyrus the king of Persia has commanded us.”"
     },
     {
       "chapter": 4,
@@ -785,12 +785,12 @@
     {
       "chapter": 6,
       "verse": 21,
-      "text": "The children of Israel who had returned out of the captivity, and all who had separated themselves to them from the filthiness of the nations of the land to seek Yahweh, the God of Israel, ate,"
+      "text": "The children of Israel who had returned out of the captivity, and all who had separated themselves to them from the filthiness of the nations of the land to seek the LORD, the God of Israel, ate,"
     },
     {
       "chapter": 6,
       "verse": 22,
-      "text": "and kept the feast of unleavened bread seven days with joy; because Yahweh had made them joyful, and had turned the heart of the king of Assyria to them, to strengthen their hands in the work of God, the God of Israel’s house."
+      "text": "and kept the feast of unleavened bread seven days with joy; because the LORD had made them joyful, and had turned the heart of the king of Assyria to them, to strengthen their hands in the work of God, the God of Israel’s house."
     },
     {
       "chapter": 7,
@@ -820,7 +820,7 @@
     {
       "chapter": 7,
       "verse": 6,
-      "text": "this Ezra went up from Babylon. He was a skilled scribe in the law of Moses, which Yahweh, the God of Israel, had given; and the king granted him all his request, according to Yahweh his God’s hand on him."
+      "text": "this Ezra went up from Babylon. He was a skilled scribe in the law of Moses, which the LORD, the God of Israel, had given; and the king granted him all his request, according to the LORD his God’s hand on him."
     },
     {
       "chapter": 7,
@@ -840,12 +840,12 @@
     {
       "chapter": 7,
       "verse": 10,
-      "text": "For Ezra had set his heart to seek Yahweh’s law, and to do it, and to teach statutes and ordinances in Israel."
+      "text": "For Ezra had set his heart to seek the LORD’s law, and to do it, and to teach statutes and ordinances in Israel."
     },
     {
       "chapter": 7,
       "verse": 11,
-      "text": "Now this is the copy of the letter that King Artaxerxes gave to Ezra the priest, the scribe, even the scribe of the words of Yahweh’s commandments, and of his statutes to Israel:"
+      "text": "Now this is the copy of the letter that King Artaxerxes gave to Ezra the priest, the scribe, even the scribe of the words of the LORD’s commandments, and of his statutes to Israel:"
     },
     {
       "chapter": 7,
@@ -925,12 +925,12 @@
     {
       "chapter": 7,
       "verse": 27,
-      "text": "Blessed be Yahweh, the God of our fathers, who has put such a thing as this in the king’s heart, to beautify Yahweh’s house which is in Jerusalem;"
+      "text": "Blessed be the LORD, the God of our fathers, who has put such a thing as this in the king’s heart, to beautify the LORD’s house which is in Jerusalem;"
     },
     {
       "chapter": 7,
       "verse": 28,
-      "text": "and has extended loving kindness to me before the king and his counselors, and before all the king’s mighty princes. I was strengthened according to Yahweh my God’s hand on me, and I gathered together chief men out of Israel to go up with me."
+      "text": "and has extended loving kindness to me before the king and his counselors, and before all the king’s mighty princes. I was strengthened according to the LORD my God’s hand on me, and I gathered together chief men out of Israel to go up with me."
     },
     {
       "chapter": 8,
@@ -1070,12 +1070,12 @@
     {
       "chapter": 8,
       "verse": 28,
-      "text": "I said to them, “You are holy to Yahweh, and the vessels are holy. The silver and the gold are a free will offering to Yahweh, the God of your fathers."
+      "text": "I said to them, “You are holy to the LORD, and the vessels are holy. The silver and the gold are a free will offering to the LORD, the God of your fathers."
     },
     {
       "chapter": 8,
       "verse": 29,
-      "text": "Watch and keep them until you weigh them before the chiefs of the priests, the Levites, and the princes of the fathers’ households of Israel at Jerusalem, in the rooms of Yahweh’s house.”"
+      "text": "Watch and keep them until you weigh them before the chiefs of the priests, the Levites, and the princes of the fathers’ households of Israel at Jerusalem, in the rooms of the LORD’s house.”"
     },
     {
       "chapter": 8,
@@ -1105,7 +1105,7 @@
     {
       "chapter": 8,
       "verse": 35,
-      "text": "The children of the captivity, who had come out of exile, offered burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve male goats for a sin offering. All this was a burnt offering to Yahweh."
+      "text": "The children of the captivity, who had come out of exile, offered burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve male goats for a sin offering. All this was a burnt offering to the LORD."
     },
     {
       "chapter": 8,
@@ -1135,7 +1135,7 @@
     {
       "chapter": 9,
       "verse": 5,
-      "text": "At the evening offering I rose up from my humiliation, even with my garment and my robe torn; and I fell on my knees, and spread out my hands to Yahweh my God;"
+      "text": "At the evening offering I rose up from my humiliation, even with my garment and my robe torn; and I fell on my knees, and spread out my hands to the LORD my God;"
     },
     {
       "chapter": 9,
@@ -1150,7 +1150,7 @@
     {
       "chapter": 9,
       "verse": 8,
-      "text": "Now for a little moment grace has been shown from Yahweh our God, to leave us a remnant to escape, and to give us a stake in his holy place, that our God may lighten our eyes, and revive us a little in our bondage."
+      "text": "Now for a little moment grace has been shown from the LORD our God, to leave us a remnant to escape, and to give us a stake in his holy place, that our God may lighten our eyes, and revive us a little in our bondage."
     },
     {
       "chapter": 9,
@@ -1185,7 +1185,7 @@
     {
       "chapter": 9,
       "verse": 15,
-      "text": "Yahweh, the God of Israel, you are righteous; for we are left a remnant that has escaped, as it is today. Behold, we are before you in our guiltiness; for no one can stand before you because of this.”"
+      "text": "The LORD, the God of Israel, you are righteous; for we are left a remnant that has escaped, as it is today. Behold, we are before you in our guiltiness; for no one can stand before you because of this.”"
     },
     {
       "chapter": 10,
@@ -1240,7 +1240,7 @@
     {
       "chapter": 10,
       "verse": 11,
-      "text": "Now therefore make confession to Yahweh, the God of your fathers and do his pleasure. Separate yourselves from the peoples of the land and from the foreign women.”"
+      "text": "Now therefore make confession to the LORD, the God of your fathers and do his pleasure. Separate yourselves from the peoples of the land and from the foreign women.”"
     },
     {
       "chapter": 10,

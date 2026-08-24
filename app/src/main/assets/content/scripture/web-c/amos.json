@@ -5,7 +5,7 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
@@ -15,12 +15,12 @@
     {
       "chapter": 1,
       "verse": 2,
-      "text": "He said: “Yahweh will roar from Zion, and utter his voice from Jerusalem; and the pastures of the shepherds will mourn, and the top of Carmel will wither.”"
+      "text": "He said: “The LORD will roar from Zion, and utter his voice from Jerusalem; and the pastures of the shepherds will mourn, and the top of Carmel will wither.”"
     },
     {
       "chapter": 1,
       "verse": 3,
-      "text": "Yahweh says: “For three transgressions of Damascus, yes, for four, I will not turn away its punishment, because they have threshed Gilead with threshing instruments of iron;"
+      "text": "The LORD says: “For three transgressions of Damascus, yes, for four, I will not turn away its punishment, because they have threshed Gilead with threshing instruments of iron;"
     },
     {
       "chapter": 1,
@@ -30,12 +30,12 @@
     {
       "chapter": 1,
       "verse": 5,
-      "text": "I will break the bar of Damascus, and cut off the inhabitant from the valley of Aven, and him who holds the scepter from the house of Eden; and the people of Syria shall go into captivity to Kir,” says Yahweh."
+      "text": "I will break the bar of Damascus, and cut off the inhabitant from the valley of Aven, and him who holds the scepter from the house of Eden; and the people of Syria shall go into captivity to Kir,” says the LORD."
     },
     {
       "chapter": 1,
       "verse": 6,
-      "text": "Yahweh says: “For three transgressions of Gaza, yes, for four, I will not turn away its punishment, because they carried away captive the whole community, to deliver them up to Edom;"
+      "text": "The LORD says: “For three transgressions of Gaza, yes, for four, I will not turn away its punishment, because they carried away captive the whole community, to deliver them up to Edom;"
     },
     {
       "chapter": 1,
@@ -45,12 +45,12 @@
     {
       "chapter": 1,
       "verse": 8,
-      "text": "I will cut off the inhabitant from Ashdod, and him who holds the scepter from Ashkelon; and I will turn my hand against Ekron; and the remnant of the Philistines will perish,” says the Lord Yahweh."
+      "text": "I will cut off the inhabitant from Ashdod, and him who holds the scepter from Ashkelon; and I will turn my hand against Ekron; and the remnant of the Philistines will perish,” says the Lord the LORD."
     },
     {
       "chapter": 1,
       "verse": 9,
-      "text": "Yahweh says: “For three transgressions of Tyre, yes, for four, I will not turn away its punishment; because they delivered up the whole community to Edom, and didn’t remember the brotherly covenant;"
+      "text": "The LORD says: “For three transgressions of Tyre, yes, for four, I will not turn away its punishment; because they delivered up the whole community to Edom, and didn’t remember the brotherly covenant;"
     },
     {
       "chapter": 1,
@@ -60,7 +60,7 @@
     {
       "chapter": 1,
       "verse": 11,
-      "text": "Yahweh says: “For three transgressions of Edom, yes, for four, I will not turn away its punishment, because he pursued his brother with the sword and cast off all pity, and his anger raged continually, and he kept his wrath forever;"
+      "text": "The LORD says: “For three transgressions of Edom, yes, for four, I will not turn away its punishment, because he pursued his brother with the sword and cast off all pity, and his anger raged continually, and he kept his wrath forever;"
     },
     {
       "chapter": 1,
@@ -70,7 +70,7 @@
     {
       "chapter": 1,
       "verse": 13,
-      "text": "Yahweh says: “For three transgressions of the children of Ammon, yes, for four, I will not turn away its punishment, because they have ripped open the pregnant women of Gilead, that they may enlarge their border."
+      "text": "The LORD says: “For three transgressions of the children of Ammon, yes, for four, I will not turn away its punishment, because they have ripped open the pregnant women of Gilead, that they may enlarge their border."
     },
     {
       "chapter": 1,
@@ -80,12 +80,12 @@
     {
       "chapter": 1,
       "verse": 15,
-      "text": "and their king will go into captivity, he and his princes together,” says Yahweh."
+      "text": "and their king will go into captivity, he and his princes together,” says the LORD."
     },
     {
       "chapter": 2,
       "verse": 1,
-      "text": "Yahweh says: “For three transgressions of Moab, yes, for four, I will not turn away its punishment, because he burned the bones of the king of Edom into lime;"
+      "text": "The LORD says: “For three transgressions of Moab, yes, for four, I will not turn away its punishment, because he burned the bones of the king of Edom into lime;"
     },
     {
       "chapter": 2,
@@ -95,12 +95,12 @@
     {
       "chapter": 2,
       "verse": 3,
-      "text": "and I will cut off the judge from among them, and will kill all its princes with him,” says Yahweh."
+      "text": "and I will cut off the judge from among them, and will kill all its princes with him,” says the LORD."
     },
     {
       "chapter": 2,
       "verse": 4,
-      "text": "Yahweh says: “For three transgressions of Judah, yes, for four, I will not turn away its punishment, because they have rejected Yahweh’s law, and have not kept his statutes, and their lies have led them astray, after which their fathers walked;"
+      "text": "The LORD says: “For three transgressions of Judah, yes, for four, I will not turn away its punishment, because they have rejected the LORD’s law, and have not kept his statutes, and their lies have led them astray, after which their fathers walked;"
     },
     {
       "chapter": 2,
@@ -110,7 +110,7 @@
     {
       "chapter": 2,
       "verse": 6,
-      "text": "Yahweh says: “For three transgressions of Israel, yes, for four, I will not turn away its punishment, because they have sold the righteous for silver, and the needy for a pair of sandals;"
+      "text": "The LORD says: “For three transgressions of Israel, yes, for four, I will not turn away its punishment, because they have sold the righteous for silver, and the needy for a pair of sandals;"
     },
     {
       "chapter": 2,
@@ -135,7 +135,7 @@
     {
       "chapter": 2,
       "verse": 11,
-      "text": "I raised up some of your sons for prophets, and some of your young men for Nazirites. Isn’t this true, you children of Israel?” says Yahweh."
+      "text": "I raised up some of your sons for prophets, and some of your young men for Nazirites. Isn’t this true, you children of Israel?” says the LORD."
     },
     {
       "chapter": 2,
@@ -160,12 +160,12 @@
     {
       "chapter": 2,
       "verse": 16,
-      "text": "He who is courageous among the mighty will flee away naked on that day,” says Yahweh."
+      "text": "He who is courageous among the mighty will flee away naked on that day,” says the LORD."
     },
     {
       "chapter": 3,
       "verse": 1,
-      "text": "Hear this word that Yahweh has spoken against you, children of Israel, against the whole family which I brought up out of the land of Egypt, saying:"
+      "text": "Hear this word that the LORD has spoken against you, children of Israel, against the whole family which I brought up out of the land of Egypt, saying:"
     },
     {
       "chapter": 3,
@@ -190,17 +190,17 @@
     {
       "chapter": 3,
       "verse": 6,
-      "text": "Does the trumpet alarm sound in a city, without the people being afraid? Does evil happen to a city, and Yahweh hasn’t done it?"
+      "text": "Does the trumpet alarm sound in a city, without the people being afraid? Does evil happen to a city, and the LORD hasn’t done it?"
     },
     {
       "chapter": 3,
       "verse": 7,
-      "text": "Surely the Lord Yahweh will do nothing, unless he reveals his secret to his servants the prophets."
+      "text": "Surely the Lord the LORD will do nothing, unless he reveals his secret to his servants the prophets."
     },
     {
       "chapter": 3,
       "verse": 8,
-      "text": "The lion has roared. Who will not fear? The Lord Yahweh has spoken. Who can but prophesy?"
+      "text": "The lion has roared. Who will not fear? The Lord the LORD has spoken. Who can but prophesy?"
     },
     {
       "chapter": 3,
@@ -210,22 +210,22 @@
     {
       "chapter": 3,
       "verse": 10,
-      "text": "“Indeed they don’t know to do right,” says Yahweh, “Who hoard plunder and loot in their palaces.”"
+      "text": "“Indeed they don’t know to do right,” says the LORD, “Who hoard plunder and loot in their palaces.”"
     },
     {
       "chapter": 3,
       "verse": 11,
-      "text": "Therefore the Lord Yahweh says: “An adversary will overrun the land; and he will pull down your strongholds, and your fortresses will be plundered.”"
+      "text": "Therefore the Lord the LORD says: “An adversary will overrun the land; and he will pull down your strongholds, and your fortresses will be plundered.”"
     },
     {
       "chapter": 3,
       "verse": 12,
-      "text": "Yahweh says: “As the shepherd rescues out of the mouth of the lion two legs, or a piece of an ear, so shall the children of Israel be rescued who sit in Samaria on the corner of a couch, and on the silken cushions of a bed.”"
+      "text": "The LORD says: “As the shepherd rescues out of the mouth of the lion two legs, or a piece of an ear, so shall the children of Israel be rescued who sit in Samaria on the corner of a couch, and on the silken cushions of a bed.”"
     },
     {
       "chapter": 3,
       "verse": 13,
-      "text": "“Listen, and testify against the house of Jacob,” says the Lord Yahweh, the God of Armies."
+      "text": "“Listen, and testify against the house of Jacob,” says the Lord the LORD, the God of Armies."
     },
     {
       "chapter": 3,
@@ -235,7 +235,7 @@
     {
       "chapter": 3,
       "verse": 15,
-      "text": "I will strike the winter house with the summer house; and the houses of ivory will perish, and the great houses will have an end,” says Yahweh."
+      "text": "I will strike the winter house with the summer house; and the houses of ivory will perish, and the great houses will have an end,” says the LORD."
     },
     {
       "chapter": 4,
@@ -245,12 +245,12 @@
     {
       "chapter": 4,
       "verse": 2,
-      "text": "The Lord Yahweh has sworn by his holiness, “Behold, the days shall come on you that they will take you away with hooks, and the last of you with fish hooks."
+      "text": "The Lord the LORD has sworn by his holiness, “Behold, the days shall come on you that they will take you away with hooks, and the last of you with fish hooks."
     },
     {
       "chapter": 4,
       "verse": 3,
-      "text": "You will go out at the breaks in the wall, everyone straight before her; and you will cast yourselves into Harmon,” says Yahweh."
+      "text": "You will go out at the breaks in the wall, everyone straight before her; and you will cast yourselves into Harmon,” says the LORD."
     },
     {
       "chapter": 4,
@@ -260,12 +260,12 @@
     {
       "chapter": 4,
       "verse": 5,
-      "text": "offer a sacrifice of thanksgiving of that which is leavened, and proclaim free will offerings and brag about them; for this pleases you, you children of Israel,” says the Lord Yahweh."
+      "text": "offer a sacrifice of thanksgiving of that which is leavened, and proclaim free will offerings and brag about them; for this pleases you, you children of Israel,” says the Lord the LORD."
     },
     {
       "chapter": 4,
       "verse": 6,
-      "text": "“I also have given you cleanness of teeth in all your cities, and lack of bread in every town; yet you haven’t returned to me,” says Yahweh."
+      "text": "“I also have given you cleanness of teeth in all your cities, and lack of bread in every town; yet you haven’t returned to me,” says the LORD."
     },
     {
       "chapter": 4,
@@ -275,22 +275,22 @@
     {
       "chapter": 4,
       "verse": 8,
-      "text": "So two or three cities staggered to one city to drink water, and were not satisfied; yet you haven’t returned to me,” says Yahweh."
+      "text": "So two or three cities staggered to one city to drink water, and were not satisfied; yet you haven’t returned to me,” says the LORD."
     },
     {
       "chapter": 4,
       "verse": 9,
-      "text": "“I struck you with blight and mildew many times in your gardens and your vineyards, and the swarming locusts have devoured your fig trees and your olive trees; yet you haven’t returned to me,” says Yahweh."
+      "text": "“I struck you with blight and mildew many times in your gardens and your vineyards, and the swarming locusts have devoured your fig trees and your olive trees; yet you haven’t returned to me,” says the LORD."
     },
     {
       "chapter": 4,
       "verse": 10,
-      "text": "“I sent plagues among you like I did Egypt. I have slain your young men with the sword, and have carried away your horses. I filled your nostrils with the stench of your camp, yet you haven’t returned to me,” says Yahweh."
+      "text": "“I sent plagues among you like I did Egypt. I have slain your young men with the sword, and have carried away your horses. I filled your nostrils with the stench of your camp, yet you haven’t returned to me,” says the LORD."
     },
     {
       "chapter": 4,
       "verse": 11,
-      "text": "“I have overthrown some of you, as when God overthrew Sodom and Gomorrah, and you were like a burning stick plucked out of the fire; yet you haven’t returned to me,” says Yahweh."
+      "text": "“I have overthrown some of you, as when God overthrew Sodom and Gomorrah, and you were like a burning stick plucked out of the fire; yet you haven’t returned to me,” says the LORD."
     },
     {
       "chapter": 4,
@@ -300,7 +300,7 @@
     {
       "chapter": 4,
       "verse": 13,
-      "text": "For, behold, he who forms the mountains, creates the wind, declares to man what is his thought, who makes the morning darkness, and treads on the high places of the earth: Yahweh, the God of Armies, is his name.”"
+      "text": "For, behold, he who forms the mountains, creates the wind, declares to man what is his thought, who makes the morning darkness, and treads on the high places of the earth: the LORD, the God of Armies, is his name.”"
     },
     {
       "chapter": 5,
@@ -315,12 +315,12 @@
     {
       "chapter": 5,
       "verse": 3,
-      "text": "For the Lord Yahweh says: “The city that went out a thousand shall have a hundred left, and that which went out one hundred shall have ten left to the house of Israel.”"
+      "text": "For the Lord the LORD says: “The city that went out a thousand shall have a hundred left, and that which went out one hundred shall have ten left to the house of Israel.”"
     },
     {
       "chapter": 5,
       "verse": 4,
-      "text": "For Yahweh says to the house of Israel: “Seek me, and you will live;"
+      "text": "For the LORD says to the house of Israel: “Seek me, and you will live;"
     },
     {
       "chapter": 5,
@@ -330,7 +330,7 @@
     {
       "chapter": 5,
       "verse": 6,
-      "text": "Seek Yahweh, and you will live, lest he break out like fire in the house of Joseph, and it devour, and there be no one to quench it in Bethel."
+      "text": "Seek the LORD, and you will live, lest he break out like fire in the house of Joseph, and it devour, and there be no one to quench it in Bethel."
     },
     {
       "chapter": 5,
@@ -340,7 +340,7 @@
     {
       "chapter": 5,
       "verse": 8,
-      "text": "Seek him who made the Pleiades and Orion, and turns the shadow of death into the morning, and makes the day dark with night; who calls for the waters of the sea, and pours them out on the surface of the earth, Yahweh is his name,"
+      "text": "Seek him who made the Pleiades and Orion, and turns the shadow of death into the morning, and makes the day dark with night; who calls for the waters of the sea, and pours them out on the surface of the earth, the LORD is his name,"
     },
     {
       "chapter": 5,
@@ -370,27 +370,27 @@
     {
       "chapter": 5,
       "verse": 14,
-      "text": "Seek good, and not evil, that you may live; and so Yahweh, the God of Armies, will be with you, as you say."
+      "text": "Seek good, and not evil, that you may live; and so the LORD, the God of Armies, will be with you, as you say."
     },
     {
       "chapter": 5,
       "verse": 15,
-      "text": "Hate evil, love good, and establish justice in the courts. It may be that Yahweh, the God of Armies, will be gracious to the remnant of Joseph.”"
+      "text": "Hate evil, love good, and establish justice in the courts. It may be that the LORD, the God of Armies, will be gracious to the remnant of Joseph.”"
     },
     {
       "chapter": 5,
       "verse": 16,
-      "text": "Therefore Yahweh, the God of Armies, the Lord, says: “Wailing will be in all the wide ways. They will say in all the streets, ‘Alas! Alas!’ They will call the farmer to mourning, and those who are skillful in lamentation to wailing."
+      "text": "Therefore the LORD, the God of Armies, the Lord, says: “Wailing will be in all the wide ways. They will say in all the streets, ‘Alas! Alas!’ They will call the farmer to mourning, and those who are skillful in lamentation to wailing."
     },
     {
       "chapter": 5,
       "verse": 17,
-      "text": "In all vineyards there will be wailing, for I will pass through the middle of you,” says Yahweh."
+      "text": "In all vineyards there will be wailing, for I will pass through the middle of you,” says the LORD."
     },
     {
       "chapter": 5,
       "verse": 18,
-      "text": "“Woe to you who desire the day of Yahweh! Why do you long for the day of Yahweh? It is darkness, and not light."
+      "text": "“Woe to you who desire the day of the LORD! Why do you long for the day of the LORD? It is darkness, and not light."
     },
     {
       "chapter": 5,
@@ -400,7 +400,7 @@
     {
       "chapter": 5,
       "verse": 20,
-      "text": "Won’t the day of Yahweh be darkness, and not light? Even very dark, and no brightness in it?"
+      "text": "Won’t the day of the LORD be darkness, and not light? Even very dark, and no brightness in it?"
     },
     {
       "chapter": 5,
@@ -435,7 +435,7 @@
     {
       "chapter": 5,
       "verse": 27,
-      "text": "Therefore I will cause you to go into captivity beyond Damascus,” says Yahweh, whose name is the God of Armies."
+      "text": "Therefore I will cause you to go into captivity beyond Damascus,” says the LORD, whose name is the God of Armies."
     },
     {
       "chapter": 6,
@@ -475,7 +475,7 @@
     {
       "chapter": 6,
       "verse": 8,
-      "text": "“The Lord Yahweh has sworn by himself,” says Yahweh, the God of Armies: “I abhor the pride of Jacob, and detest his fortresses. Therefore I will deliver up the city with all that is in it."
+      "text": "“The Lord the LORD has sworn by himself,” says the LORD, the God of Armies: “I abhor the pride of Jacob, and detest his fortresses. Therefore I will deliver up the city with all that is in it."
     },
     {
       "chapter": 6,
@@ -485,12 +485,12 @@
     {
       "chapter": 6,
       "verse": 10,
-      "text": "“When a man’s relative carries him, even he who burns him, to bring bodies out of the house, and asks him who is in the innermost parts of the house, ‘Is there yet any with you?’ And he says, ‘No;’ then he will say, ‘Hush! Indeed we must not mention Yahweh’s name.’"
+      "text": "“When a man’s relative carries him, even he who burns him, to bring bodies out of the house, and asks him who is in the innermost parts of the house, ‘Is there yet any with you?’ And he says, ‘No;’ then he will say, ‘Hush! Indeed we must not mention the LORD’s name.’"
     },
     {
       "chapter": 6,
       "verse": 11,
-      "text": "“For, behold, Yahweh commands, and the great house will be smashed to pieces, and the little house into bits."
+      "text": "“For, behold, the LORD commands, and the great house will be smashed to pieces, and the little house into bits."
     },
     {
       "chapter": 6,
@@ -505,37 +505,37 @@
     {
       "chapter": 6,
       "verse": 14,
-      "text": "For, behold, I will raise up against you a nation, house of Israel,” says Yahweh, the God of Armies; “and they will afflict you from the entrance of Hamath to the brook of the Arabah.”"
+      "text": "For, behold, I will raise up against you a nation, house of Israel,” says the LORD, the God of Armies; “and they will afflict you from the entrance of Hamath to the brook of the Arabah.”"
     },
     {
       "chapter": 7,
       "verse": 1,
-      "text": "Thus the Lord Yahweh showed me: behold, he formed locusts in the beginning of the shooting up of the latter growth; and behold, it was the latter growth after the king’s harvest."
+      "text": "Thus the Lord the LORD showed me: behold, he formed locusts in the beginning of the shooting up of the latter growth; and behold, it was the latter growth after the king’s harvest."
     },
     {
       "chapter": 7,
       "verse": 2,
-      "text": "When they finished eating the grass of the land, then I said, “Lord Yahweh, forgive, I beg you! How could Jacob stand? For he is small.”"
+      "text": "When they finished eating the grass of the land, then I said, “Lord the LORD, forgive, I beg you! How could Jacob stand? For he is small.”"
     },
     {
       "chapter": 7,
       "verse": 3,
-      "text": "Yahweh relented concerning this. “It shall not be,” says Yahweh."
+      "text": "The LORD relented concerning this. “It shall not be,” says the LORD."
     },
     {
       "chapter": 7,
       "verse": 4,
-      "text": "Thus the Lord Yahweh showed me: behold, the Lord Yahweh called for judgment by fire; and it dried up the great deep, and would have devoured the land."
+      "text": "Thus the Lord the LORD showed me: behold, the Lord the LORD called for judgment by fire; and it dried up the great deep, and would have devoured the land."
     },
     {
       "chapter": 7,
       "verse": 5,
-      "text": "Then I said, “Lord Yahweh, stop, I beg you! How could Jacob stand? For he is small.”"
+      "text": "Then I said, “Lord the LORD, stop, I beg you! How could Jacob stand? For he is small.”"
     },
     {
       "chapter": 7,
       "verse": 6,
-      "text": "Yahweh relented concerning this. “This also shall not be,” says the Lord Yahweh."
+      "text": "The LORD relented concerning this. “This also shall not be,” says the Lord the LORD."
     },
     {
       "chapter": 7,
@@ -545,7 +545,7 @@
     {
       "chapter": 7,
       "verse": 8,
-      "text": "Yahweh said to me, “Amos, what do you see?” I said, “A plumb line.” Then the Lord said, “Behold, I will set a plumb line in the middle of my people Israel. I will not again pass by them any more."
+      "text": "The LORD said to me, “Amos, what do you see?” I said, “A plumb line.” Then the Lord said, “Behold, I will set a plumb line in the middle of my people Israel. I will not again pass by them any more."
     },
     {
       "chapter": 7,
@@ -580,32 +580,32 @@
     {
       "chapter": 7,
       "verse": 15,
-      "text": "and Yahweh took me from following the flock, and Yahweh said to me, ‘Go, prophesy to my people Israel.’"
+      "text": "and the LORD took me from following the flock, and the LORD said to me, ‘Go, prophesy to my people Israel.’"
     },
     {
       "chapter": 7,
       "verse": 16,
-      "text": "Now therefore listen to Yahweh’s word: ‘You say, Don’t prophesy against Israel, and don’t preach against the house of Isaac.’"
+      "text": "Now therefore listen to the LORD’s word: ‘You say, Don’t prophesy against Israel, and don’t preach against the house of Isaac.’"
     },
     {
       "chapter": 7,
       "verse": 17,
-      "text": "Therefore Yahweh says: ‘Your wife shall be a prostitute in the city, and your sons and your daughters shall fall by the sword, and your land shall be divided by line; and you yourself shall die in a land that is unclean, and Israel shall surely be led away captive out of his land.’ ”"
+      "text": "Therefore the LORD says: ‘Your wife shall be a prostitute in the city, and your sons and your daughters shall fall by the sword, and your land shall be divided by line; and you yourself shall die in a land that is unclean, and Israel shall surely be led away captive out of his land.’ ”"
     },
     {
       "chapter": 8,
       "verse": 1,
-      "text": "Thus the Lord Yahweh showed me: behold, a basket of summer fruit."
+      "text": "Thus the Lord the LORD showed me: behold, a basket of summer fruit."
     },
     {
       "chapter": 8,
       "verse": 2,
-      "text": "He said, “Amos, what do you see?” I said, “A basket of summer fruit.” Then Yahweh said to me, “The end has come on my people Israel. I will not again pass by them any more."
+      "text": "He said, “Amos, what do you see?” I said, “A basket of summer fruit.” Then the LORD said to me, “The end has come on my people Israel. I will not again pass by them any more."
     },
     {
       "chapter": 8,
       "verse": 3,
-      "text": "The songs of the temple will be wailing in that day,” says the Lord Yahweh. “The dead bodies will be many. In every place they will throw them out with silence."
+      "text": "The songs of the temple will be wailing in that day,” says the Lord the LORD. “The dead bodies will be many. In every place they will throw them out with silence."
     },
     {
       "chapter": 8,
@@ -625,7 +625,7 @@
     {
       "chapter": 8,
       "verse": 7,
-      "text": "Yahweh has sworn by the pride of Jacob, “Surely I will never forget any of their works."
+      "text": "The LORD has sworn by the pride of Jacob, “Surely I will never forget any of their works."
     },
     {
       "chapter": 8,
@@ -635,7 +635,7 @@
     {
       "chapter": 8,
       "verse": 9,
-      "text": "It will happen in that day,” says the Lord Yahweh, “that I will cause the sun to go down at noon, and I will darken the earth in the clear day."
+      "text": "It will happen in that day,” says the Lord the LORD, “that I will cause the sun to go down at noon, and I will darken the earth in the clear day."
     },
     {
       "chapter": 8,
@@ -645,12 +645,12 @@
     {
       "chapter": 8,
       "verse": 11,
-      "text": "Behold, the days come,” says the Lord Yahweh, “that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing Yahweh’s words."
+      "text": "Behold, the days come,” says the Lord the LORD, “that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the LORD’s words."
     },
     {
       "chapter": 8,
       "verse": 12,
-      "text": "They will wander from sea to sea, and from the north even to the east; they will run back and forth to seek Yahweh’s word, and will not find it."
+      "text": "They will wander from sea to sea, and from the north even to the east; they will run back and forth to seek the LORD’s word, and will not find it."
     },
     {
       "chapter": 8,
@@ -685,22 +685,22 @@
     {
       "chapter": 9,
       "verse": 5,
-      "text": "For the Lord, Yahweh of Armies, is he who touches the land and it melts, and all who dwell in it will mourn; and it will rise up wholly like the River, and will sink again, like the River of Egypt."
+      "text": "For the Lord, the LORD of Armies, is he who touches the land and it melts, and all who dwell in it will mourn; and it will rise up wholly like the River, and will sink again, like the River of Egypt."
     },
     {
       "chapter": 9,
       "verse": 6,
-      "text": "It is he who builds his rooms in the heavens, and has founded his vault on the earth; he who calls for the waters of the sea, and pours them out on the surface of the earth—Yahweh is his name."
+      "text": "It is he who builds his rooms in the heavens, and has founded his vault on the earth; he who calls for the waters of the sea, and pours them out on the surface of the earth—the LORD is his name."
     },
     {
       "chapter": 9,
       "verse": 7,
-      "text": "Are you not like the children of the Ethiopians to me, children of Israel?” says Yahweh. “Haven’t I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir?"
+      "text": "Are you not like the children of the Ethiopians to me, children of Israel?” says the LORD. “Haven’t I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir?"
     },
     {
       "chapter": 9,
       "verse": 8,
-      "text": "Behold, the eyes of the Lord Yahweh are on the sinful kingdom, and I will destroy it from off the surface of the earth, except that I will not utterly destroy the house of Jacob,” says Yahweh."
+      "text": "Behold, the eyes of the Lord the LORD are on the sinful kingdom, and I will destroy it from off the surface of the earth, except that I will not utterly destroy the house of Jacob,” says the LORD."
     },
     {
       "chapter": 9,
@@ -720,12 +720,12 @@
     {
       "chapter": 9,
       "verse": 12,
-      "text": "that they may possess the remnant of Edom and all the nations who are called by my name,” says Yahweh who does this."
+      "text": "that they may possess the remnant of Edom and all the nations who are called by my name,” says the LORD who does this."
     },
     {
       "chapter": 9,
       "verse": 13,
-      "text": "“Behold, the days come,” says Yahweh, “that the plowman shall overtake the reaper, and the one treading grapes him who sows seed; and sweet wine will drip from the mountains, and flow from the hills."
+      "text": "“Behold, the days come,” says the LORD, “that the plowman shall overtake the reaper, and the one treading grapes him who sows seed; and sweet wine will drip from the mountains, and flow from the hills."
     },
     {
       "chapter": 9,
@@ -735,7 +735,7 @@
     {
       "chapter": 9,
       "verse": 15,
-      "text": "I will plant them on their land, and they will no more be plucked up out of their land which I have given them,” says Yahweh your God."
+      "text": "I will plant them on their land, and they will no more be plucked up out of their land which I have given them,” says the LORD your God."
     }
   ]
 }

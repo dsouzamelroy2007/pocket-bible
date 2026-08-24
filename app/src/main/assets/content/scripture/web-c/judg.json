@@ -5,17 +5,17 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
       "verse": 1,
-      "text": "After the death of Joshua, the children of Israel asked of Yahweh, saying, “Who should go up for us first against the Canaanites, to fight against them?”"
+      "text": "After the death of Joshua, the children of Israel asked of the LORD, saying, “Who should go up for us first against the Canaanites, to fight against them?”"
     },
     {
       "chapter": 1,
       "verse": 2,
-      "text": "Yahweh said, “Judah shall go up. Behold, I have delivered the land into his hand.”"
+      "text": "The LORD said, “Judah shall go up. Behold, I have delivered the land into his hand.”"
     },
     {
       "chapter": 1,
@@ -25,7 +25,7 @@
     {
       "chapter": 1,
       "verse": 4,
-      "text": "Judah went up, and Yahweh delivered the Canaanites and the Perizzites into their hand. They struck ten thousand men in Bezek."
+      "text": "Judah went up, and the LORD delivered the Canaanites and the Perizzites into their hand. They struck ten thousand men in Bezek."
     },
     {
       "chapter": 1,
@@ -100,7 +100,7 @@
     {
       "chapter": 1,
       "verse": 19,
-      "text": "Yahweh was with Judah, and drove out the inhabitants of the hill country; for he could not drive out the inhabitants of the valley, because they had chariots of iron."
+      "text": "The LORD was with Judah, and drove out the inhabitants of the hill country; for he could not drive out the inhabitants of the valley, because they had chariots of iron."
     },
     {
       "chapter": 1,
@@ -115,7 +115,7 @@
     {
       "chapter": 1,
       "verse": 22,
-      "text": "The house of Joseph also went up against Bethel, and Yahweh was with them."
+      "text": "The house of Joseph also went up against Bethel, and the LORD was with them."
     },
     {
       "chapter": 1,
@@ -190,7 +190,7 @@
     {
       "chapter": 2,
       "verse": 1,
-      "text": "Yahweh’s angel came up from Gilgal to Bochim. He said, “I brought you out of Egypt, and have brought you to the land which I swore to give your fathers. I said, ‘I will never break my covenant with you."
+      "text": "The LORD’s angel came up from Gilgal to Bochim. He said, “I brought you out of Egypt, and have brought you to the land which I swore to give your fathers. I said, ‘I will never break my covenant with you."
     },
     {
       "chapter": 2,
@@ -205,12 +205,12 @@
     {
       "chapter": 2,
       "verse": 4,
-      "text": "When Yahweh’s angel spoke these words to all the children of Israel, the people lifted up their voice and wept."
+      "text": "When the LORD’s angel spoke these words to all the children of Israel, the people lifted up their voice and wept."
     },
     {
       "chapter": 2,
       "verse": 5,
-      "text": "They called the name of that place Bochim, and they sacrificed there to Yahweh."
+      "text": "They called the name of that place Bochim, and they sacrificed there to the LORD."
     },
     {
       "chapter": 2,
@@ -220,12 +220,12 @@
     {
       "chapter": 2,
       "verse": 7,
-      "text": "The people served Yahweh all the days of Joshua, and all the days of the elders who outlived Joshua, who had seen all the great work of Yahweh that he had worked for Israel."
+      "text": "The people served the LORD all the days of Joshua, and all the days of the elders who outlived Joshua, who had seen all the great work of the LORD that he had worked for Israel."
     },
     {
       "chapter": 2,
       "verse": 8,
-      "text": "Joshua the son of Nun, the servant of Yahweh, died, being one hundred ten years old."
+      "text": "Joshua the son of Nun, the servant of the LORD, died, being one hundred ten years old."
     },
     {
       "chapter": 2,
@@ -235,47 +235,47 @@
     {
       "chapter": 2,
       "verse": 10,
-      "text": "After all that generation were gathered to their fathers, another generation arose after them who didn’t know Yahweh, nor the work which he had done for Israel."
+      "text": "After all that generation were gathered to their fathers, another generation arose after them who didn’t know the LORD, nor the work which he had done for Israel."
     },
     {
       "chapter": 2,
       "verse": 11,
-      "text": "The children of Israel did that which was evil in Yahweh’s sight, and served the Baals."
+      "text": "The children of Israel did that which was evil in the LORD’s sight, and served the Baals."
     },
     {
       "chapter": 2,
       "verse": 12,
-      "text": "They abandoned Yahweh, the God of their fathers, who brought them out of the land of Egypt, and followed other gods, of the gods of the peoples who were around them, and bowed themselves down to them; and they provoked Yahweh to anger."
+      "text": "They abandoned the LORD, the God of their fathers, who brought them out of the land of Egypt, and followed other gods, of the gods of the peoples who were around them, and bowed themselves down to them; and they provoked the LORD to anger."
     },
     {
       "chapter": 2,
       "verse": 13,
-      "text": "They abandoned Yahweh, and served Baal and the Ashtaroth."
+      "text": "They abandoned the LORD, and served Baal and the Ashtaroth."
     },
     {
       "chapter": 2,
       "verse": 14,
-      "text": "Yahweh’s anger burned against Israel, and he delivered them into the hands of raiders who plundered them. He sold them into the hands of their enemies all around, so that they could no longer stand before their enemies."
+      "text": "The LORD’s anger burned against Israel, and he delivered them into the hands of raiders who plundered them. He sold them into the hands of their enemies all around, so that they could no longer stand before their enemies."
     },
     {
       "chapter": 2,
       "verse": 15,
-      "text": "Wherever they went out, Yahweh’s hand was against them for evil, as Yahweh had spoken, and as Yahweh had sworn to them; and they were very distressed."
+      "text": "Wherever they went out, the LORD’s hand was against them for evil, as the LORD had spoken, and as the LORD had sworn to them; and they were very distressed."
     },
     {
       "chapter": 2,
       "verse": 16,
-      "text": "Yahweh raised up judges, who saved them out of the hand of those who plundered them."
+      "text": "The LORD raised up judges, who saved them out of the hand of those who plundered them."
     },
     {
       "chapter": 2,
       "verse": 17,
-      "text": "Yet they didn’t listen to their judges; for they prostituted themselves to other gods, and bowed themselves down to them. They quickly turned away from the way in which their fathers walked, obeying Yahweh’s commandments. They didn’t do so."
+      "text": "Yet they didn’t listen to their judges; for they prostituted themselves to other gods, and bowed themselves down to them. They quickly turned away from the way in which their fathers walked, obeying the LORD’s commandments. They didn’t do so."
     },
     {
       "chapter": 2,
       "verse": 18,
-      "text": "When Yahweh raised up judges for them, then Yahweh was with the judge, and saved them out of the hand of their enemies all the days of the judge; for it grieved Yahweh because of their groaning by reason of those who oppressed them and troubled them."
+      "text": "When the LORD raised up judges for them, then the LORD was with the judge, and saved them out of the hand of their enemies all the days of the judge; for it grieved the LORD because of their groaning by reason of those who oppressed them and troubled them."
     },
     {
       "chapter": 2,
@@ -285,7 +285,7 @@
     {
       "chapter": 2,
       "verse": 20,
-      "text": "Yahweh’s anger burned against Israel; and he said, “Because this nation transgressed my covenant which I commanded their fathers, and has not listened to my voice,"
+      "text": "The LORD’s anger burned against Israel; and he said, “Because this nation transgressed my covenant which I commanded their fathers, and has not listened to my voice,"
     },
     {
       "chapter": 2,
@@ -295,17 +295,17 @@
     {
       "chapter": 2,
       "verse": 22,
-      "text": "that by them I may test Israel, to see if they will keep Yahweh’s way to walk therein, as their fathers kept it, or not.”"
+      "text": "that by them I may test Israel, to see if they will keep the LORD’s way to walk therein, as their fathers kept it, or not.”"
     },
     {
       "chapter": 2,
       "verse": 23,
-      "text": "So Yahweh left those nations, without driving them out hastily. He didn’t deliver them into Joshua’s hand."
+      "text": "So the LORD left those nations, without driving them out hastily. He didn’t deliver them into Joshua’s hand."
     },
     {
       "chapter": 3,
       "verse": 1,
-      "text": "Now these are the nations which Yahweh left, to test Israel by them, even as many as had not known all the wars of Canaan;"
+      "text": "Now these are the nations which the LORD left, to test Israel by them, even as many as had not known all the wars of Canaan;"
     },
     {
       "chapter": 3,
@@ -320,7 +320,7 @@
     {
       "chapter": 3,
       "verse": 4,
-      "text": "They were left to test Israel by them, to know whether they would listen to Yahweh’s commandments, which he commanded their fathers by Moses."
+      "text": "They were left to test Israel by them, to know whether they would listen to the LORD’s commandments, which he commanded their fathers by Moses."
     },
     {
       "chapter": 3,
@@ -335,22 +335,22 @@
     {
       "chapter": 3,
       "verse": 7,
-      "text": "The children of Israel did that which was evil in Yahweh’s sight, and forgot Yahweh their God, and served the Baals and the Asheroth."
+      "text": "The children of Israel did that which was evil in the LORD’s sight, and forgot the LORD their God, and served the Baals and the Asheroth."
     },
     {
       "chapter": 3,
       "verse": 8,
-      "text": "Therefore Yahweh’s anger burned against Israel, and he sold them into the hand of Cushan Rishathaim king of Mesopotamia; and the children of Israel served Cushan Rishathaim eight years."
+      "text": "Therefore the LORD’s anger burned against Israel, and he sold them into the hand of Cushan Rishathaim king of Mesopotamia; and the children of Israel served Cushan Rishathaim eight years."
     },
     {
       "chapter": 3,
       "verse": 9,
-      "text": "When the children of Israel cried to Yahweh, Yahweh raised up a savior to the children of Israel, who saved them, even Othniel the son of Kenaz, Caleb’s younger brother."
+      "text": "When the children of Israel cried to the LORD, the LORD raised up a savior to the children of Israel, who saved them, even Othniel the son of Kenaz, Caleb’s younger brother."
     },
     {
       "chapter": 3,
       "verse": 10,
-      "text": "Yahweh’s Spirit came on him, and he judged Israel; and he went out to war, and Yahweh delivered Cushan Rishathaim king of Mesopotamia into his hand. His hand prevailed against Cushan Rishathaim."
+      "text": "The LORD’s Spirit came on him, and he judged Israel; and he went out to war, and the LORD delivered Cushan Rishathaim king of Mesopotamia into his hand. His hand prevailed against Cushan Rishathaim."
     },
     {
       "chapter": 3,
@@ -360,7 +360,7 @@
     {
       "chapter": 3,
       "verse": 12,
-      "text": "The children of Israel again did that which was evil in Yahweh’s sight, and Yahweh strengthened Eglon the king of Moab against Israel, because they had done that which was evil in Yahweh’s sight."
+      "text": "The children of Israel again did that which was evil in the LORD’s sight, and the LORD strengthened Eglon the king of Moab against Israel, because they had done that which was evil in the LORD’s sight."
     },
     {
       "chapter": 3,
@@ -375,7 +375,7 @@
     {
       "chapter": 3,
       "verse": 15,
-      "text": "But when the children of Israel cried to Yahweh, Yahweh raised up a savior for them: Ehud the son of Gera, the Benjamite, a left-handed man. The children of Israel sent tribute by him to Eglon the king of Moab."
+      "text": "But when the children of Israel cried to the LORD, the LORD raised up a savior for them: Ehud the son of Gera, the Benjamite, a left-handed man. The children of Israel sent tribute by him to Eglon the king of Moab."
     },
     {
       "chapter": 3,
@@ -440,7 +440,7 @@
     {
       "chapter": 3,
       "verse": 28,
-      "text": "He said to them, “Follow me; for Yahweh has delivered your enemies the Moabites into your hand.” They followed him, and took the fords of the Jordan against the Moabites, and didn’t allow any man to pass over."
+      "text": "He said to them, “Follow me; for the LORD has delivered your enemies the Moabites into your hand.” They followed him, and took the fords of the Jordan against the Moabites, and didn’t allow any man to pass over."
     },
     {
       "chapter": 3,
@@ -460,17 +460,17 @@
     {
       "chapter": 4,
       "verse": 1,
-      "text": "The children of Israel again did that which was evil in Yahweh’s sight, when Ehud was dead."
+      "text": "The children of Israel again did that which was evil in the LORD’s sight, when Ehud was dead."
     },
     {
       "chapter": 4,
       "verse": 2,
-      "text": "Yahweh sold them into the hand of Jabin king of Canaan, who reigned in Hazor; the captain of whose army was Sisera, who lived in Harosheth of the Gentiles."
+      "text": "The LORD sold them into the hand of Jabin king of Canaan, who reigned in Hazor; the captain of whose army was Sisera, who lived in Harosheth of the Gentiles."
     },
     {
       "chapter": 4,
       "verse": 3,
-      "text": "The children of Israel cried to Yahweh, for he had nine hundred chariots of iron; and he mightily oppressed the children of Israel for twenty years."
+      "text": "The children of Israel cried to the LORD, for he had nine hundred chariots of iron; and he mightily oppressed the children of Israel for twenty years."
     },
     {
       "chapter": 4,
@@ -485,7 +485,7 @@
     {
       "chapter": 4,
       "verse": 6,
-      "text": "She sent and called Barak the son of Abinoam out of Kedesh Naphtali, and said to him, “Hasn’t Yahweh, the God of Israel, commanded, ‘Go and lead the way to Mount Tabor, and take with you ten thousand men of the children of Naphtali and of the children of Zebulun?"
+      "text": "She sent and called Barak the son of Abinoam out of Kedesh Naphtali, and said to him, “Hasn’t the LORD, the God of Israel, commanded, ‘Go and lead the way to Mount Tabor, and take with you ten thousand men of the children of Naphtali and of the children of Zebulun?"
     },
     {
       "chapter": 4,
@@ -500,7 +500,7 @@
     {
       "chapter": 4,
       "verse": 9,
-      "text": "She said, “I will surely go with you. Nevertheless, the journey that you take won’t be for your honor; for Yahweh will sell Sisera into a woman’s hand.” Deborah arose, and went with Barak to Kedesh."
+      "text": "She said, “I will surely go with you. Nevertheless, the journey that you take won’t be for your honor; for the LORD will sell Sisera into a woman’s hand.” Deborah arose, and went with Barak to Kedesh."
     },
     {
       "chapter": 4,
@@ -525,12 +525,12 @@
     {
       "chapter": 4,
       "verse": 14,
-      "text": "Deborah said to Barak, “Go; for this is the day in which Yahweh has delivered Sisera into your hand. Hasn’t Yahweh gone out before you?” So Barak went down from Mount Tabor, and ten thousand men after him."
+      "text": "Deborah said to Barak, “Go; for this is the day in which the LORD has delivered Sisera into your hand. Hasn’t the LORD gone out before you?” So Barak went down from Mount Tabor, and ten thousand men after him."
     },
     {
       "chapter": 4,
       "verse": 15,
-      "text": "Yahweh confused Sisera, all his chariots, and all his army, with the edge of the sword before Barak. Sisera abandoned his chariot and fled away on his feet."
+      "text": "The LORD confused Sisera, all his chariots, and all his army, with the edge of the sword before Barak. Sisera abandoned his chariot and fled away on his feet."
     },
     {
       "chapter": 4,
@@ -585,22 +585,22 @@
     {
       "chapter": 5,
       "verse": 2,
-      "text": "“Because the leaders took the lead in Israel, because the people offered themselves willingly, be blessed, Yahweh!"
+      "text": "“Because the leaders took the lead in Israel, because the people offered themselves willingly, be blessed, the LORD!"
     },
     {
       "chapter": 5,
       "verse": 3,
-      "text": "“Hear, you kings! Give ear, you princes! I, even I, will sing to Yahweh. I will sing praise to Yahweh, the God of Israel."
+      "text": "“Hear, you kings! Give ear, you princes! I, even I, will sing to the LORD. I will sing praise to the LORD, the God of Israel."
     },
     {
       "chapter": 5,
       "verse": 4,
-      "text": "“Yahweh, when you went out of Seir, when you marched out of the field of Edom, the earth trembled, the sky also dropped. Yes, the clouds dropped water."
+      "text": "“The LORD, when you went out of Seir, when you marched out of the field of Edom, the earth trembled, the sky also dropped. Yes, the clouds dropped water."
     },
     {
       "chapter": 5,
       "verse": 5,
-      "text": "The mountains quaked at Yahweh’s presence, even Sinai at the presence of Yahweh, the God of Israel."
+      "text": "The mountains quaked at the LORD’s presence, even Sinai at the presence of the LORD, the God of Israel."
     },
     {
       "chapter": 5,
@@ -620,7 +620,7 @@
     {
       "chapter": 5,
       "verse": 9,
-      "text": "My heart is toward the governors of Israel, who offered themselves willingly among the people. Bless Yahweh!"
+      "text": "My heart is toward the governors of Israel, who offered themselves willingly among the people. Bless the LORD!"
     },
     {
       "chapter": 5,
@@ -630,7 +630,7 @@
     {
       "chapter": 5,
       "verse": 11,
-      "text": "Far from the noise of archers, in the places of drawing water, there they will rehearse Yahweh’s righteous acts, the righteous acts of his rule in Israel. “Then Yahweh’s people went down to the gates."
+      "text": "Far from the noise of archers, in the places of drawing water, there they will rehearse the LORD’s righteous acts, the righteous acts of his rule in Israel. “Then the LORD’s people went down to the gates."
     },
     {
       "chapter": 5,
@@ -640,7 +640,7 @@
     {
       "chapter": 5,
       "verse": 13,
-      "text": "“Then a remnant of the nobles and the people came down. Yahweh came down for me against the mighty."
+      "text": "“Then a remnant of the nobles and the people came down. The LORD came down for me against the mighty."
     },
     {
       "chapter": 5,
@@ -690,7 +690,7 @@
     {
       "chapter": 5,
       "verse": 23,
-      "text": "‘Curse Meroz,’ said Yahweh’s angel. ‘Curse bitterly its inhabitants, because they didn’t come to help Yahweh, to help Yahweh against the mighty.’"
+      "text": "‘Curse Meroz,’ said the LORD’s angel. ‘Curse bitterly its inhabitants, because they didn’t come to help the LORD, to help the LORD against the mighty.’"
     },
     {
       "chapter": 5,
@@ -730,12 +730,12 @@
     {
       "chapter": 5,
       "verse": 31,
-      "text": "“So let all your enemies perish, Yahweh, but let those who love him be as the sun when it rises in its strength.” Then the land had rest forty years."
+      "text": "“So let all your enemies perish, the LORD, but let those who love him be as the sun when it rises in its strength.” Then the land had rest forty years."
     },
     {
       "chapter": 6,
       "verse": 1,
-      "text": "The children of Israel did that which was evil in Yahweh’s sight, so Yahweh delivered them into the hand of Midian seven years."
+      "text": "The children of Israel did that which was evil in the LORD’s sight, so the LORD delivered them into the hand of Midian seven years."
     },
     {
       "chapter": 6,
@@ -760,17 +760,17 @@
     {
       "chapter": 6,
       "verse": 6,
-      "text": "Israel was brought very low because of Midian; and the children of Israel cried to Yahweh."
+      "text": "Israel was brought very low because of Midian; and the children of Israel cried to the LORD."
     },
     {
       "chapter": 6,
       "verse": 7,
-      "text": "When the children of Israel cried to Yahweh because of Midian,"
+      "text": "When the children of Israel cried to the LORD because of Midian,"
     },
     {
       "chapter": 6,
       "verse": 8,
-      "text": "Yahweh sent a prophet to the children of Israel; and he said to them, “Yahweh, the God of Israel, says, ‘I brought you up from Egypt, and brought you out of the house of bondage."
+      "text": "The LORD sent a prophet to the children of Israel; and he said to them, “The LORD, the God of Israel, says, ‘I brought you up from Egypt, and brought you out of the house of bondage."
     },
     {
       "chapter": 6,
@@ -780,27 +780,27 @@
     {
       "chapter": 6,
       "verse": 10,
-      "text": "I said to you, “I am Yahweh your God. You shall not fear the gods of the Amorites, in whose land you dwell.” But you have not listened to my voice.’ ”"
+      "text": "I said to you, “I am the LORD your God. You shall not fear the gods of the Amorites, in whose land you dwell.” But you have not listened to my voice.’ ”"
     },
     {
       "chapter": 6,
       "verse": 11,
-      "text": "Yahweh’s angel came and sat under the oak which was in Ophrah, that belonged to Joash the Abiezrite. His son Gideon was beating out wheat in the wine press, to hide it from the Midianites."
+      "text": "The LORD’s angel came and sat under the oak which was in Ophrah, that belonged to Joash the Abiezrite. His son Gideon was beating out wheat in the wine press, to hide it from the Midianites."
     },
     {
       "chapter": 6,
       "verse": 12,
-      "text": "Yahweh’s angel appeared to him, and said to him, “Yahweh is with you, you mighty man of valor!”"
+      "text": "The LORD’s angel appeared to him, and said to him, “The LORD is with you, you mighty man of valor!”"
     },
     {
       "chapter": 6,
       "verse": 13,
-      "text": "Gideon said to him, “Oh, my lord, if Yahweh is with us, why then has all this happened to us? Where are all his wondrous works which our fathers told us of, saying, ‘Didn’t Yahweh bring us up from Egypt?’ But now Yahweh has cast us off, and delivered us into the hand of Midian.”"
+      "text": "Gideon said to him, “Oh, my lord, if the LORD is with us, why then has all this happened to us? Where are all his wondrous works which our fathers told us of, saying, ‘Didn’t the LORD bring us up from Egypt?’ But now the LORD has cast us off, and delivered us into the hand of Midian.”"
     },
     {
       "chapter": 6,
       "verse": 14,
-      "text": "Yahweh looked at him, and said, “Go in this your might, and save Israel from the hand of Midian. Haven’t I sent you?”"
+      "text": "The LORD looked at him, and said, “Go in this your might, and save Israel from the hand of Midian. Haven’t I sent you?”"
     },
     {
       "chapter": 6,
@@ -810,7 +810,7 @@
     {
       "chapter": 6,
       "verse": 16,
-      "text": "Yahweh said to him, “Surely I will be with you, and you shall strike the Midianites as one man.”"
+      "text": "The LORD said to him, “Surely I will be with you, and you shall strike the Midianites as one man.”"
     },
     {
       "chapter": 6,
@@ -835,37 +835,37 @@
     {
       "chapter": 6,
       "verse": 21,
-      "text": "Then Yahweh’s angel stretched out the end of the staff that was in his hand, and touched the meat and the unleavened cakes; and fire went up out of the rock and consumed the meat and the unleavened cakes. Then Yahweh’s angel departed out of his sight."
+      "text": "Then the LORD’s angel stretched out the end of the staff that was in his hand, and touched the meat and the unleavened cakes; and fire went up out of the rock and consumed the meat and the unleavened cakes. Then the LORD’s angel departed out of his sight."
     },
     {
       "chapter": 6,
       "verse": 22,
-      "text": "Gideon saw that he was Yahweh’s angel; and Gideon said, “Alas, Lord Yahweh! Because I have seen Yahweh’s angel face to face!”"
+      "text": "Gideon saw that he was the LORD’s angel; and Gideon said, “Alas, Lord the LORD! Because I have seen the LORD’s angel face to face!”"
     },
     {
       "chapter": 6,
       "verse": 23,
-      "text": "Yahweh said to him, “Peace be to you! Don’t be afraid. You shall not die.”"
+      "text": "The LORD said to him, “Peace be to you! Don’t be afraid. You shall not die.”"
     },
     {
       "chapter": 6,
       "verse": 24,
-      "text": "Then Gideon built an altar there to Yahweh, and called it “Yahweh is Peace.” To this day it is still in Ophrah of the Abiezrites."
+      "text": "Then Gideon built an altar there to the LORD, and called it “The LORD is Peace.” To this day it is still in Ophrah of the Abiezrites."
     },
     {
       "chapter": 6,
       "verse": 25,
-      "text": "That same night, Yahweh said to him, “Take your father’s bull, even the second bull seven years old, and throw down the altar of Baal that your father has, and cut down the Asherah that is by it."
+      "text": "That same night, the LORD said to him, “Take your father’s bull, even the second bull seven years old, and throw down the altar of Baal that your father has, and cut down the Asherah that is by it."
     },
     {
       "chapter": 6,
       "verse": 26,
-      "text": "Then build an altar to Yahweh your God on the top of this stronghold, in an orderly way, and take the second bull, and offer a burnt offering with the wood of the Asherah which you shall cut down.”"
+      "text": "Then build an altar to the LORD your God on the top of this stronghold, in an orderly way, and take the second bull, and offer a burnt offering with the wood of the Asherah which you shall cut down.”"
     },
     {
       "chapter": 6,
       "verse": 27,
-      "text": "Then Gideon took ten men of his servants, and did as Yahweh had spoken to him. Because he feared his father’s household and the men of the city, he could not do it by day, but he did it by night."
+      "text": "Then Gideon took ten men of his servants, and did as the LORD had spoken to him. Because he feared his father’s household and the men of the city, he could not do it by day, but he did it by night."
     },
     {
       "chapter": 6,
@@ -900,7 +900,7 @@
     {
       "chapter": 6,
       "verse": 34,
-      "text": "But Yahweh’s Spirit came on Gideon, and he blew a trumpet; and Abiezer was gathered together to follow him."
+      "text": "But the LORD’s Spirit came on Gideon, and he blew a trumpet; and Abiezer was gathered together to follow him."
     },
     {
       "chapter": 6,
@@ -940,7 +940,7 @@
     {
       "chapter": 7,
       "verse": 2,
-      "text": "Yahweh said to Gideon, “The people who are with you are too many for me to give the Midianites into their hand, lest Israel brag against me, saying, ‘My own hand has saved me.’"
+      "text": "The LORD said to Gideon, “The people who are with you are too many for me to give the Midianites into their hand, lest Israel brag against me, saying, ‘My own hand has saved me.’"
     },
     {
       "chapter": 7,
@@ -950,12 +950,12 @@
     {
       "chapter": 7,
       "verse": 4,
-      "text": "Yahweh said to Gideon, “There are still too many people. Bring them down to the water, and I will test them for you there. It shall be, that those whom I tell you, ‘This shall go with you,’ shall go with you; and whoever I tell you, ‘This shall not go with you,’ shall not go.”"
+      "text": "The LORD said to Gideon, “There are still too many people. Bring them down to the water, and I will test them for you there. It shall be, that those whom I tell you, ‘This shall go with you,’ shall go with you; and whoever I tell you, ‘This shall not go with you,’ shall not go.”"
     },
     {
       "chapter": 7,
       "verse": 5,
-      "text": "So he brought down the people to the water; and Yahweh said to Gideon, “Everyone who laps of the water with his tongue, like a dog laps, you shall set him by himself; likewise everyone who bows down on his knees to drink.”"
+      "text": "So he brought down the people to the water; and the LORD said to Gideon, “Everyone who laps of the water with his tongue, like a dog laps, you shall set him by himself; likewise everyone who bows down on his knees to drink.”"
     },
     {
       "chapter": 7,
@@ -965,7 +965,7 @@
     {
       "chapter": 7,
       "verse": 7,
-      "text": "Yahweh said to Gideon, “I will save you by the three hundred men who lapped, and deliver the Midianites into your hand. Let all the other people go, each to his own place.”"
+      "text": "The LORD said to Gideon, “I will save you by the three hundred men who lapped, and deliver the Midianites into your hand. Let all the other people go, each to his own place.”"
     },
     {
       "chapter": 7,
@@ -975,7 +975,7 @@
     {
       "chapter": 7,
       "verse": 9,
-      "text": "That same night, Yahweh said to him, “Arise, go down into the camp, for I have delivered it into your hand."
+      "text": "That same night, the LORD said to him, “Arise, go down into the camp, for I have delivered it into your hand."
     },
     {
       "chapter": 7,
@@ -1005,7 +1005,7 @@
     {
       "chapter": 7,
       "verse": 15,
-      "text": "It was so, when Gideon heard the telling of the dream and its interpretation, that he worshiped. Then he returned into the camp of Israel and said, “Arise, for Yahweh has delivered the army of Midian into your hand!”"
+      "text": "It was so, when Gideon heard the telling of the dream and its interpretation, that he worshiped. Then he returned into the camp of Israel and said, “Arise, for the LORD has delivered the army of Midian into your hand!”"
     },
     {
       "chapter": 7,
@@ -1020,7 +1020,7 @@
     {
       "chapter": 7,
       "verse": 18,
-      "text": "When I blow the trumpet, I and all who are with me, then blow the trumpets also on every side of all the camp, and shout, ‘For Yahweh and for Gideon!’ ”"
+      "text": "When I blow the trumpet, I and all who are with me, then blow the trumpets also on every side of all the camp, and shout, ‘For the LORD and for Gideon!’ ”"
     },
     {
       "chapter": 7,
@@ -1030,7 +1030,7 @@
     {
       "chapter": 7,
       "verse": 20,
-      "text": "The three companies blew the trumpets, broke the pitchers, and held the torches in their left hands and the trumpets in their right hands with which to blow; and they shouted, “The sword of Yahweh and of Gideon!”"
+      "text": "The three companies blew the trumpets, broke the pitchers, and held the torches in their left hands and the trumpets in their right hands with which to blow; and they shouted, “The sword of the LORD and of Gideon!”"
     },
     {
       "chapter": 7,
@@ -1040,7 +1040,7 @@
     {
       "chapter": 7,
       "verse": 22,
-      "text": "They blew the three hundred trumpets, and Yahweh set every man’s sword against his fellow and against all the army; and the army fled as far as Beth Shittah toward Zererah, as far as the border of Abel Meholah, by Tabbath."
+      "text": "They blew the three hundred trumpets, and the LORD set every man’s sword against his fellow and against all the army; and the army fled as far as Beth Shittah toward Zererah, as far as the border of Abel Meholah, by Tabbath."
     },
     {
       "chapter": 7,
@@ -1090,7 +1090,7 @@
     {
       "chapter": 8,
       "verse": 7,
-      "text": "Gideon said, “Therefore when Yahweh has delivered Zebah and Zalmunna into my hand, then I will tear your flesh with the thorns of the wilderness and with briers.”"
+      "text": "Gideon said, “Therefore when the LORD has delivered Zebah and Zalmunna into my hand, then I will tear your flesh with the thorns of the wilderness and with briers.”"
     },
     {
       "chapter": 8,
@@ -1150,7 +1150,7 @@
     {
       "chapter": 8,
       "verse": 19,
-      "text": "He said, “They were my brothers, the sons of my mother. As Yahweh lives, if you had saved them alive, I would not kill you.”"
+      "text": "He said, “They were my brothers, the sons of my mother. As the LORD lives, if you had saved them alive, I would not kill you.”"
     },
     {
       "chapter": 8,
@@ -1170,7 +1170,7 @@
     {
       "chapter": 8,
       "verse": 23,
-      "text": "Gideon said to them, “I will not rule over you, neither shall my son rule over you. Yahweh shall rule over you.”"
+      "text": "Gideon said to them, “I will not rule over you, neither shall my son rule over you. The LORD shall rule over you.”"
     },
     {
       "chapter": 8,
@@ -1225,7 +1225,7 @@
     {
       "chapter": 8,
       "verse": 34,
-      "text": "The children of Israel didn’t remember Yahweh their God, who had delivered them out of the hand of all their enemies on every side;"
+      "text": "The children of Israel didn’t remember the LORD their God, who had delivered them out of the hand of all their enemies on every side;"
     },
     {
       "chapter": 8,
@@ -1545,12 +1545,12 @@
     {
       "chapter": 10,
       "verse": 6,
-      "text": "The children of Israel again did that which was evil in Yahweh’s sight, and served the Baals, the Ashtaroth, the gods of Syria, the gods of Sidon, the gods of Moab, the gods of the children of Ammon, and the gods of the Philistines. They abandoned Yahweh, and didn’t serve him."
+      "text": "The children of Israel again did that which was evil in the LORD’s sight, and served the Baals, the Ashtaroth, the gods of Syria, the gods of Sidon, the gods of Moab, the gods of the children of Ammon, and the gods of the Philistines. They abandoned the LORD, and didn’t serve him."
     },
     {
       "chapter": 10,
       "verse": 7,
-      "text": "Yahweh’s anger burned against Israel, and he sold them into the hand of the Philistines and into the hand of the children of Ammon."
+      "text": "The LORD’s anger burned against Israel, and he sold them into the hand of the Philistines and into the hand of the children of Ammon."
     },
     {
       "chapter": 10,
@@ -1565,12 +1565,12 @@
     {
       "chapter": 10,
       "verse": 10,
-      "text": "The children of Israel cried to Yahweh, saying, “We have sinned against you, even because we have forsaken our God, and have served the Baals.”"
+      "text": "The children of Israel cried to the LORD, saying, “We have sinned against you, even because we have forsaken our God, and have served the Baals.”"
     },
     {
       "chapter": 10,
       "verse": 11,
-      "text": "Yahweh said to the children of Israel, “Didn’t I save you from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines?"
+      "text": "The LORD said to the children of Israel, “Didn’t I save you from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines?"
     },
     {
       "chapter": 10,
@@ -1590,12 +1590,12 @@
     {
       "chapter": 10,
       "verse": 15,
-      "text": "The children of Israel said to Yahweh, “We have sinned! Do to us whatever seems good to you; only deliver us, please, today.”"
+      "text": "The children of Israel said to the LORD, “We have sinned! Do to us whatever seems good to you; only deliver us, please, today.”"
     },
     {
       "chapter": 10,
       "verse": 16,
-      "text": "They put away the foreign gods from among them and served Yahweh; and his soul was grieved for the misery of Israel."
+      "text": "They put away the foreign gods from among them and served the LORD; and his soul was grieved for the misery of Israel."
     },
     {
       "chapter": 10,
@@ -1650,17 +1650,17 @@
     {
       "chapter": 11,
       "verse": 9,
-      "text": "Jephthah said to the elders of Gilead, “If you bring me home again to fight with the children of Ammon, and Yahweh delivers them before me, will I be your head?”"
+      "text": "Jephthah said to the elders of Gilead, “If you bring me home again to fight with the children of Ammon, and the LORD delivers them before me, will I be your head?”"
     },
     {
       "chapter": 11,
       "verse": 10,
-      "text": "The elders of Gilead said to Jephthah, “Yahweh will be witness between us. Surely we will do what you say.”"
+      "text": "The elders of Gilead said to Jephthah, “The LORD will be witness between us. Surely we will do what you say.”"
     },
     {
       "chapter": 11,
       "verse": 11,
-      "text": "Then Jephthah went with the elders of Gilead, and the people made him head and chief over them. Jephthah spoke all his words before Yahweh in Mizpah."
+      "text": "Then Jephthah went with the elders of Gilead, and the people made him head and chief over them. Jephthah spoke all his words before the LORD in Mizpah."
     },
     {
       "chapter": 11,
@@ -1710,7 +1710,7 @@
     {
       "chapter": 11,
       "verse": 21,
-      "text": "Yahweh, the God of Israel, delivered Sihon and all his people into the hand of Israel, and they struck them. So Israel possessed all the land of the Amorites, the inhabitants of that country."
+      "text": "The LORD, the God of Israel, delivered Sihon and all his people into the hand of Israel, and they struck them. So Israel possessed all the land of the Amorites, the inhabitants of that country."
     },
     {
       "chapter": 11,
@@ -1720,12 +1720,12 @@
     {
       "chapter": 11,
       "verse": 23,
-      "text": "So now Yahweh, the God of Israel, has dispossessed the Amorites from before his people Israel, and should you possess them?"
+      "text": "So now the LORD, the God of Israel, has dispossessed the Amorites from before his people Israel, and should you possess them?"
     },
     {
       "chapter": 11,
       "verse": 24,
-      "text": "Won’t you possess that which Chemosh your god gives you to possess? So whoever Yahweh our God has dispossessed from before us, them will we possess."
+      "text": "Won’t you possess that which Chemosh your god gives you to possess? So whoever the LORD our God has dispossessed from before us, them will we possess."
     },
     {
       "chapter": 11,
@@ -1740,7 +1740,7 @@
     {
       "chapter": 11,
       "verse": 27,
-      "text": "Therefore I have not sinned against you, but you do me wrong to war against me. May Yahweh the Judge be judge today between the children of Israel and the children of Ammon.”"
+      "text": "Therefore I have not sinned against you, but you do me wrong to war against me. May the LORD the Judge be judge today between the children of Israel and the children of Ammon.”"
     },
     {
       "chapter": 11,
@@ -1750,22 +1750,22 @@
     {
       "chapter": 11,
       "verse": 29,
-      "text": "Then Yahweh’s Spirit came on Jephthah, and he passed over Gilead and Manasseh, and passed over Mizpah of Gilead, and from Mizpah of Gilead he passed over to the children of Ammon."
+      "text": "Then the LORD’s Spirit came on Jephthah, and he passed over Gilead and Manasseh, and passed over Mizpah of Gilead, and from Mizpah of Gilead he passed over to the children of Ammon."
     },
     {
       "chapter": 11,
       "verse": 30,
-      "text": "Jephthah vowed a vow to Yahweh, and said, “If you will indeed deliver the children of Ammon into my hand,"
+      "text": "Jephthah vowed a vow to the LORD, and said, “If you will indeed deliver the children of Ammon into my hand,"
     },
     {
       "chapter": 11,
       "verse": 31,
-      "text": "then it shall be, that whatever comes out of the doors of my house to meet me when I return in peace from the children of Ammon, it shall be Yahweh’s, and I will offer it up for a burnt offering.”"
+      "text": "then it shall be, that whatever comes out of the doors of my house to meet me when I return in peace from the children of Ammon, it shall be the LORD’s, and I will offer it up for a burnt offering.”"
     },
     {
       "chapter": 11,
       "verse": 32,
-      "text": "So Jephthah passed over to the children of Ammon to fight against them; and Yahweh delivered them into his hand."
+      "text": "So Jephthah passed over to the children of Ammon to fight against them; and the LORD delivered them into his hand."
     },
     {
       "chapter": 11,
@@ -1780,12 +1780,12 @@
     {
       "chapter": 11,
       "verse": 35,
-      "text": "When he saw her, he tore his clothes, and said, “Alas, my daughter! You have brought me very low, and you are one of those who trouble me; for I have opened my mouth to Yahweh, and I can’t go back.”"
+      "text": "When he saw her, he tore his clothes, and said, “Alas, my daughter! You have brought me very low, and you are one of those who trouble me; for I have opened my mouth to the LORD, and I can’t go back.”"
     },
     {
       "chapter": 11,
       "verse": 36,
-      "text": "She said to him, “My father, you have opened your mouth to Yahweh; do to me according to that which has proceeded out of your mouth, because Yahweh has taken vengeance for you on your enemies, even on the children of Ammon.”"
+      "text": "She said to him, “My father, you have opened your mouth to the LORD; do to me according to that which has proceeded out of your mouth, because the LORD has taken vengeance for you on your enemies, even on the children of Ammon.”"
     },
     {
       "chapter": 11,
@@ -1820,7 +1820,7 @@
     {
       "chapter": 12,
       "verse": 3,
-      "text": "When I saw that you didn’t save me, I put my life in my hand, and passed over against the children of Ammon, and Yahweh delivered them into my hand. Why then have you come up to me today, to fight against me?”"
+      "text": "When I saw that you didn’t save me, I put my life in my hand, and passed over against the children of Ammon, and the LORD delivered them into my hand. Why then have you come up to me today, to fight against me?”"
     },
     {
       "chapter": 12,
@@ -1885,7 +1885,7 @@
     {
       "chapter": 13,
       "verse": 1,
-      "text": "The children of Israel again did that which was evil in Yahweh’s sight; and Yahweh delivered them into the hand of the Philistines forty years."
+      "text": "The children of Israel again did that which was evil in the LORD’s sight; and the LORD delivered them into the hand of the Philistines forty years."
     },
     {
       "chapter": 13,
@@ -1895,7 +1895,7 @@
     {
       "chapter": 13,
       "verse": 3,
-      "text": "Yahweh’s angel appeared to the woman, and said to her, “See now, you are barren and childless; but you shall conceive and bear a son."
+      "text": "The LORD’s angel appeared to the woman, and said to her, “See now, you are barren and childless; but you shall conceive and bear a son."
     },
     {
       "chapter": 13,
@@ -1920,7 +1920,7 @@
     {
       "chapter": 13,
       "verse": 8,
-      "text": "Then Manoah entreated Yahweh, and said, “Oh, Lord, please let the man of God whom you sent come again to us, and teach us what we should do to the child who shall be born.”"
+      "text": "Then Manoah entreated the LORD, and said, “Oh, Lord, please let the man of God whom you sent come again to us, and teach us what we should do to the child who shall be born.”"
     },
     {
       "chapter": 13,
@@ -1945,7 +1945,7 @@
     {
       "chapter": 13,
       "verse": 13,
-      "text": "Yahweh’s angel said to Manoah, “Of all that I said to the woman let her beware."
+      "text": "The LORD’s angel said to Manoah, “Of all that I said to the woman let her beware."
     },
     {
       "chapter": 13,
@@ -1955,37 +1955,37 @@
     {
       "chapter": 13,
       "verse": 15,
-      "text": "Manoah said to Yahweh’s angel, “Please stay with us, that we may make a young goat ready for you.”"
+      "text": "Manoah said to the LORD’s angel, “Please stay with us, that we may make a young goat ready for you.”"
     },
     {
       "chapter": 13,
       "verse": 16,
-      "text": "Yahweh’s angel said to Manoah, “Though you detain me, I won’t eat your bread. If you will prepare a burnt offering, you must offer it to Yahweh.” For Manoah didn’t know that he was Yahweh’s angel."
+      "text": "The LORD’s angel said to Manoah, “Though you detain me, I won’t eat your bread. If you will prepare a burnt offering, you must offer it to the LORD.” For Manoah didn’t know that he was the LORD’s angel."
     },
     {
       "chapter": 13,
       "verse": 17,
-      "text": "Manoah said to Yahweh’s angel, “What is your name, that when your words happen, we may honor you?”"
+      "text": "Manoah said to the LORD’s angel, “What is your name, that when your words happen, we may honor you?”"
     },
     {
       "chapter": 13,
       "verse": 18,
-      "text": "Yahweh’s angel said to him, “Why do you ask about my name, since it is incomprehensible?”"
+      "text": "The LORD’s angel said to him, “Why do you ask about my name, since it is incomprehensible?”"
     },
     {
       "chapter": 13,
       "verse": 19,
-      "text": "So Manoah took the young goat with the meal offering, and offered it on the rock to Yahweh. Then the angel did an amazing thing as Manoah and his wife watched."
+      "text": "So Manoah took the young goat with the meal offering, and offered it on the rock to the LORD. Then the angel did an amazing thing as Manoah and his wife watched."
     },
     {
       "chapter": 13,
       "verse": 20,
-      "text": "For when the flame went up toward the sky from off the altar, Yahweh’s angel ascended in the flame of the altar. Manoah and his wife watched; and they fell on their faces to the ground."
+      "text": "For when the flame went up toward the sky from off the altar, the LORD’s angel ascended in the flame of the altar. Manoah and his wife watched; and they fell on their faces to the ground."
     },
     {
       "chapter": 13,
       "verse": 21,
-      "text": "But Yahweh’s angel didn’t appear to Manoah or to his wife any more. Then Manoah knew that he was Yahweh’s angel."
+      "text": "But the LORD’s angel didn’t appear to Manoah or to his wife any more. Then Manoah knew that he was the LORD’s angel."
     },
     {
       "chapter": 13,
@@ -1995,17 +1995,17 @@
     {
       "chapter": 13,
       "verse": 23,
-      "text": "But his wife said to him, “If Yahweh were pleased to kill us, he wouldn’t have received a burnt offering and a meal offering at our hand, and he wouldn’t have shown us all these things, nor would he have told us such things as these at this time.”"
+      "text": "But his wife said to him, “If the LORD were pleased to kill us, he wouldn’t have received a burnt offering and a meal offering at our hand, and he wouldn’t have shown us all these things, nor would he have told us such things as these at this time.”"
     },
     {
       "chapter": 13,
       "verse": 24,
-      "text": "The woman bore a son and named him Samson. The child grew, and Yahweh blessed him."
+      "text": "The woman bore a son and named him Samson. The child grew, and the LORD blessed him."
     },
     {
       "chapter": 13,
       "verse": 25,
-      "text": "Yahweh’s Spirit began to move him in Mahaneh Dan, between Zorah and Eshtaol."
+      "text": "The LORD’s Spirit began to move him in Mahaneh Dan, between Zorah and Eshtaol."
     },
     {
       "chapter": 14,
@@ -2025,7 +2025,7 @@
     {
       "chapter": 14,
       "verse": 4,
-      "text": "But his father and his mother didn’t know that it was of Yahweh; for he sought an occasion against the Philistines. Now at that time the Philistines ruled over Israel."
+      "text": "But his father and his mother didn’t know that it was of the LORD; for he sought an occasion against the Philistines. Now at that time the Philistines ruled over Israel."
     },
     {
       "chapter": 14,
@@ -2035,7 +2035,7 @@
     {
       "chapter": 14,
       "verse": 6,
-      "text": "Yahweh’s Spirit came mightily on him, and he tore him as he would have torn a young goat with his bare hands, but he didn’t tell his father or his mother what he had done."
+      "text": "The LORD’s Spirit came mightily on him, and he tore him as he would have torn a young goat with his bare hands, but he didn’t tell his father or his mother what he had done."
     },
     {
       "chapter": 14,
@@ -2100,7 +2100,7 @@
     {
       "chapter": 14,
       "verse": 19,
-      "text": "Yahweh’s Spirit came mightily on him, and he went down to Ashkelon and struck thirty men of them. He took their plunder, then gave the changes of clothing to those who declared the riddle. His anger burned, and he went up to his father’s house."
+      "text": "The LORD’s Spirit came mightily on him, and he went down to Ashkelon and struck thirty men of them. He took their plunder, then gave the changes of clothing to those who declared the riddle. His anger burned, and he went up to his father’s house."
     },
     {
       "chapter": 14,
@@ -2175,7 +2175,7 @@
     {
       "chapter": 15,
       "verse": 14,
-      "text": "When he came to Lehi, the Philistines shouted as they met him. Then Yahweh’s Spirit came mightily on him, and the ropes that were on his arms became as flax that was burned with fire; and his bands dropped from off his hands."
+      "text": "When he came to Lehi, the Philistines shouted as they met him. Then the LORD’s Spirit came mightily on him, and the ropes that were on his arms became as flax that was burned with fire; and his bands dropped from off his hands."
     },
     {
       "chapter": 15,
@@ -2195,7 +2195,7 @@
     {
       "chapter": 15,
       "verse": 18,
-      "text": "He was very thirsty, and called on Yahweh and said, “You have given this great deliverance by the hand of your servant; and now shall I die of thirst, and fall into the hands of the uncircumcised?”"
+      "text": "He was very thirsty, and called on the LORD and said, “You have given this great deliverance by the hand of your servant; and now shall I die of thirst, and fall into the hands of the uncircumcised?”"
     },
     {
       "chapter": 15,
@@ -2305,7 +2305,7 @@
     {
       "chapter": 16,
       "verse": 20,
-      "text": "She said, “The Philistines are upon you, Samson!” He awoke out of his sleep, and said, “I will go out as at other times, and shake myself free.” But he didn’t know that Yahweh had departed from him."
+      "text": "She said, “The Philistines are upon you, Samson!” He awoke out of his sleep, and said, “I will go out as at other times, and shake myself free.” But he didn’t know that the LORD had departed from him."
     },
     {
       "chapter": 16,
@@ -2345,7 +2345,7 @@
     {
       "chapter": 16,
       "verse": 28,
-      "text": "Samson called to Yahweh, and said, “Lord Yahweh, remember me, please, and strengthen me, please, only this once, God, that I may be at once avenged of the Philistines for my two eyes.”"
+      "text": "Samson called to the LORD, and said, “Lord the LORD, remember me, please, and strengthen me, please, only this once, God, that I may be at once avenged of the Philistines for my two eyes.”"
     },
     {
       "chapter": 16,
@@ -2370,12 +2370,12 @@
     {
       "chapter": 17,
       "verse": 2,
-      "text": "He said to his mother, “The eleven hundred pieces of silver that were taken from you, about which you uttered a curse, and also spoke it in my ears—behold, the silver is with me. I took it.” His mother said, “May Yahweh bless my son!”"
+      "text": "He said to his mother, “The eleven hundred pieces of silver that were taken from you, about which you uttered a curse, and also spoke it in my ears—behold, the silver is with me. I took it.” His mother said, “May the LORD bless my son!”"
     },
     {
       "chapter": 17,
       "verse": 3,
-      "text": "He restored the eleven hundred pieces of silver to his mother, then his mother said, “I most certainly dedicate the silver to Yahweh from my hand for my son, to make a carved image and a molten image. Now therefore I will restore it to you.”"
+      "text": "He restored the eleven hundred pieces of silver to his mother, then his mother said, “I most certainly dedicate the silver to the LORD from my hand for my son, to make a carved image and a molten image. Now therefore I will restore it to you.”"
     },
     {
       "chapter": 17,
@@ -2425,7 +2425,7 @@
     {
       "chapter": 17,
       "verse": 13,
-      "text": "Then Micah said, “Now I know that Yahweh will do good to me, since I have a Levite as my priest.”"
+      "text": "Then Micah said, “Now I know that the LORD will do good to me, since I have a Levite as my priest.”"
     },
     {
       "chapter": 18,
@@ -2455,7 +2455,7 @@
     {
       "chapter": 18,
       "verse": 6,
-      "text": "The priest said to them, “Go in peace. Your way in which you go is before Yahweh.”"
+      "text": "The priest said to them, “Go in peace. Your way in which you go is before the LORD.”"
     },
     {
       "chapter": 18,
@@ -2670,7 +2670,7 @@
     {
       "chapter": 19,
       "verse": 18,
-      "text": "He said to him, “We are passing from Bethlehem Judah to the farther side of the hill country of Ephraim. I am from there, and I went to Bethlehem Judah. I am going to Yahweh’s house; and there is no one who has taken me into his house."
+      "text": "He said to him, “We are passing from Bethlehem Judah to the farther side of the hill country of Ephraim. I am from there, and I went to Bethlehem Judah. I am going to the LORD’s house; and there is no one who has taken me into his house."
     },
     {
       "chapter": 19,
@@ -2735,7 +2735,7 @@
     {
       "chapter": 20,
       "verse": 1,
-      "text": "Then all the children of Israel went out, and the congregation was assembled as one man, from Dan even to Beersheba, with the land of Gilead, to Yahweh at Mizpah."
+      "text": "Then all the children of Israel went out, and the congregation was assembled as one man, from Dan even to Beersheba, with the land of Gilead, to the LORD at Mizpah."
     },
     {
       "chapter": 20,
@@ -2820,7 +2820,7 @@
     {
       "chapter": 20,
       "verse": 18,
-      "text": "The children of Israel arose, went up to Bethel, and asked counsel of God. They asked, “Who shall go up for us first to battle against the children of Benjamin?” Yahweh said, “Judah first.”"
+      "text": "The children of Israel arose, went up to Bethel, and asked counsel of God. They asked, “Who shall go up for us first to battle against the children of Benjamin?” the LORD said, “Judah first.”"
     },
     {
       "chapter": 20,
@@ -2845,7 +2845,7 @@
     {
       "chapter": 20,
       "verse": 23,
-      "text": "The children of Israel went up and wept before Yahweh until evening; and they asked of Yahweh, saying, “Shall I again draw near to battle against the children of Benjamin my brother?” Yahweh said, “Go up against him.”"
+      "text": "The children of Israel went up and wept before the LORD until evening; and they asked of the LORD, saying, “Shall I again draw near to battle against the children of Benjamin my brother?” the LORD said, “Go up against him.”"
     },
     {
       "chapter": 20,
@@ -2860,17 +2860,17 @@
     {
       "chapter": 20,
       "verse": 26,
-      "text": "Then all the children of Israel and all the people went up, and came to Bethel, and wept, and sat there before Yahweh, and fasted that day until evening; then they offered burnt offerings and peace offerings before Yahweh."
+      "text": "Then all the children of Israel and all the people went up, and came to Bethel, and wept, and sat there before the LORD, and fasted that day until evening; then they offered burnt offerings and peace offerings before the LORD."
     },
     {
       "chapter": 20,
       "verse": 27,
-      "text": "The children of Israel asked Yahweh (for the ark of the covenant of God was there in those days,"
+      "text": "The children of Israel asked the LORD (for the ark of the covenant of God was there in those days,"
     },
     {
       "chapter": 20,
       "verse": 28,
-      "text": "and Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days), saying, “Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease?” Yahweh said, “Go up; for tomorrow I will deliver him into your hand.”"
+      "text": "and Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days), saying, “Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease?” the LORD said, “Go up; for tomorrow I will deliver him into your hand.”"
     },
     {
       "chapter": 20,
@@ -2905,7 +2905,7 @@
     {
       "chapter": 20,
       "verse": 35,
-      "text": "Yahweh struck Benjamin before Israel; and the children of Israel destroyed of Benjamin that day twenty-five thousand one hundred men. All these drew the sword."
+      "text": "The LORD struck Benjamin before Israel; and the children of Israel destroyed of Benjamin that day twenty-five thousand one hundred men. All these drew the sword."
     },
     {
       "chapter": 20,
@@ -2985,7 +2985,7 @@
     {
       "chapter": 21,
       "verse": 3,
-      "text": "They said, “Yahweh, the God of Israel, why has this happened in Israel, that there should be one tribe lacking in Israel today?”"
+      "text": "They said, “The LORD, the God of Israel, why has this happened in Israel, that there should be one tribe lacking in Israel today?”"
     },
     {
       "chapter": 21,
@@ -2995,7 +2995,7 @@
     {
       "chapter": 21,
       "verse": 5,
-      "text": "The children of Israel said, “Who is there among all the tribes of Israel who didn’t come up in the assembly to Yahweh?” For they had made a great oath concerning him who didn’t come up to Yahweh to Mizpah, saying, “He shall surely be put to death.”"
+      "text": "The children of Israel said, “Who is there among all the tribes of Israel who didn’t come up in the assembly to the LORD?” For they had made a great oath concerning him who didn’t come up to the LORD to Mizpah, saying, “He shall surely be put to death.”"
     },
     {
       "chapter": 21,
@@ -3005,12 +3005,12 @@
     {
       "chapter": 21,
       "verse": 7,
-      "text": "How shall we provide wives for those who remain, since we have sworn by Yahweh that we will not give them of our daughters to wives?”"
+      "text": "How shall we provide wives for those who remain, since we have sworn by the LORD that we will not give them of our daughters to wives?”"
     },
     {
       "chapter": 21,
       "verse": 8,
-      "text": "They said, “What one is there of the tribes of Israel who didn’t come up to Yahweh to Mizpah?” Behold, no one came from Jabesh Gilead to the camp to the assembly."
+      "text": "They said, “What one is there of the tribes of Israel who didn’t come up to the LORD to Mizpah?” Behold, no one came from Jabesh Gilead to the camp to the assembly."
     },
     {
       "chapter": 21,
@@ -3045,7 +3045,7 @@
     {
       "chapter": 21,
       "verse": 15,
-      "text": "The people grieved for Benjamin, because Yahweh had made a breach in the tribes of Israel."
+      "text": "The people grieved for Benjamin, because the LORD had made a breach in the tribes of Israel."
     },
     {
       "chapter": 21,
@@ -3065,7 +3065,7 @@
     {
       "chapter": 21,
       "verse": 19,
-      "text": "They said, “Behold, there is a feast of Yahweh from year to year in Shiloh, which is on the north of Bethel, on the east side of the highway that goes up from Bethel to Shechem, and on the south of Lebonah.”"
+      "text": "They said, “Behold, there is a feast of the LORD from year to year in Shiloh, which is on the north of Bethel, on the east side of the highway that goes up from Bethel to Shechem, and on the south of Lebonah.”"
     },
     {
       "chapter": 21,

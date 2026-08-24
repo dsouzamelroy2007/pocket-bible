@@ -5,7 +5,7 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
@@ -35,7 +35,7 @@
     {
       "chapter": 1,
       "verse": 6,
-      "text": "Then she arose with her daughters-in-law, that she might return from the country of Moab; for she had heard in the country of Moab how Yahweh had visited his people in giving them bread."
+      "text": "Then she arose with her daughters-in-law, that she might return from the country of Moab; for she had heard in the country of Moab how the LORD had visited his people in giving them bread."
     },
     {
       "chapter": 1,
@@ -45,12 +45,12 @@
     {
       "chapter": 1,
       "verse": 8,
-      "text": "Naomi said to her two daughters-in-law, “Go, return each of you to her mother’s house. May Yahweh deal kindly with you, as you have dealt with the dead and with me."
+      "text": "Naomi said to her two daughters-in-law, “Go, return each of you to her mother’s house. May the LORD deal kindly with you, as you have dealt with the dead and with me."
     },
     {
       "chapter": 1,
       "verse": 9,
-      "text": "May Yahweh grant you that you may find rest, each of you in the house of her husband.” Then she kissed them, and they lifted up their voices, and wept."
+      "text": "May the LORD grant you that you may find rest, each of you in the house of her husband.” Then she kissed them, and they lifted up their voices, and wept."
     },
     {
       "chapter": 1,
@@ -70,7 +70,7 @@
     {
       "chapter": 1,
       "verse": 13,
-      "text": "would you then wait until they were grown? Would you then refrain from having husbands? No, my daughters, for it grieves me seriously for your sakes, for Yahweh’s hand has gone out against me.”"
+      "text": "would you then wait until they were grown? Would you then refrain from having husbands? No, my daughters, for it grieves me seriously for your sakes, for the LORD’s hand has gone out against me.”"
     },
     {
       "chapter": 1,
@@ -90,7 +90,7 @@
     {
       "chapter": 1,
       "verse": 17,
-      "text": "Where you die, I will die, and there I will be buried. May Yahweh do so to me, and more also, if anything but death parts you and me.”"
+      "text": "Where you die, I will die, and there I will be buried. May the LORD do so to me, and more also, if anything but death parts you and me.”"
     },
     {
       "chapter": 1,
@@ -110,7 +110,7 @@
     {
       "chapter": 1,
       "verse": 21,
-      "text": "I went out full, and Yahweh has brought me home again empty. Why do you call me Naomi, since Yahweh has testified against me, and the Almighty has afflicted me?”"
+      "text": "I went out full, and the LORD has brought me home again empty. Why do you call me Naomi, since the LORD has testified against me, and the Almighty has afflicted me?”"
     },
     {
       "chapter": 1,
@@ -135,7 +135,7 @@
     {
       "chapter": 2,
       "verse": 4,
-      "text": "Behold, Boaz came from Bethlehem, and said to the reapers, “May Yahweh be with you.” They answered him, “May Yahweh bless you.”"
+      "text": "Behold, Boaz came from Bethlehem, and said to the reapers, “May the LORD be with you.” They answered him, “May the LORD bless you.”"
     },
     {
       "chapter": 2,
@@ -175,7 +175,7 @@
     {
       "chapter": 2,
       "verse": 12,
-      "text": "May Yahweh repay your work, and a full reward be given to you from Yahweh, the God of Israel, under whose wings you have come to take refuge.”"
+      "text": "May the LORD repay your work, and a full reward be given to you from the LORD, the God of Israel, under whose wings you have come to take refuge.”"
     },
     {
       "chapter": 2,
@@ -215,7 +215,7 @@
     {
       "chapter": 2,
       "verse": 20,
-      "text": "Naomi said to her daughter-in-law, “May he be blessed by Yahweh, who has not abandoned his kindness to the living and to the dead.” Naomi said to her, “The man is a close relative to us, one of our near kinsmen.”"
+      "text": "Naomi said to her daughter-in-law, “May he be blessed by the LORD, who has not abandoned his kindness to the living and to the dead.” Naomi said to her, “The man is a close relative to us, one of our near kinsmen.”"
     },
     {
       "chapter": 2,
@@ -280,7 +280,7 @@
     {
       "chapter": 3,
       "verse": 10,
-      "text": "He said, “You are blessed by Yahweh, my daughter. You have shown more kindness in the latter end than at the beginning, because you didn’t follow young men, whether poor or rich."
+      "text": "He said, “You are blessed by the LORD, my daughter. You have shown more kindness in the latter end than at the beginning, because you didn’t follow young men, whether poor or rich."
     },
     {
       "chapter": 3,
@@ -295,7 +295,7 @@
     {
       "chapter": 3,
       "verse": 13,
-      "text": "Stay this night, and in the morning, if he will perform for you the part of a kinsman, good. Let him do the kinsman’s duty. But if he will not do the duty of a kinsman for you, then I will do the duty of a kinsman for you, as Yahweh lives. Lie down until the morning.”"
+      "text": "Stay this night, and in the morning, if he will perform for you the part of a kinsman, good. Let him do the kinsman’s duty. But if he will not do the duty of a kinsman for you, then I will do the duty of a kinsman for you, as the LORD lives. Lie down until the morning.”"
     },
     {
       "chapter": 3,
@@ -375,22 +375,22 @@
     {
       "chapter": 4,
       "verse": 11,
-      "text": "All the people who were in the gate, and the elders, said, “We are witnesses. May Yahweh make the woman who has come into your house like Rachel and like Leah, which both built the house of Israel; and treat you worthily in Ephrathah, and be famous in Bethlehem."
+      "text": "All the people who were in the gate, and the elders, said, “We are witnesses. May the LORD make the woman who has come into your house like Rachel and like Leah, which both built the house of Israel; and treat you worthily in Ephrathah, and be famous in Bethlehem."
     },
     {
       "chapter": 4,
       "verse": 12,
-      "text": "Let your house be like the house of Perez, whom Tamar bore to Judah, of the offspring which Yahweh will give you by this young woman.”"
+      "text": "Let your house be like the house of Perez, whom Tamar bore to Judah, of the offspring which the LORD will give you by this young woman.”"
     },
     {
       "chapter": 4,
       "verse": 13,
-      "text": "So Boaz took Ruth and she became his wife; and he went in to her, and Yahweh enabled her to conceive, and she bore a son."
+      "text": "So Boaz took Ruth and she became his wife; and he went in to her, and the LORD enabled her to conceive, and she bore a son."
     },
     {
       "chapter": 4,
       "verse": 14,
-      "text": "The women said to Naomi, “Blessed be Yahweh, who has not left you today without a near kinsman. Let his name be famous in Israel."
+      "text": "The women said to Naomi, “Blessed be the LORD, who has not left you today without a near kinsman. Let his name be famous in Israel."
     },
     {
       "chapter": 4,

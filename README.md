@@ -139,6 +139,10 @@ format your download comes in:
    If it's **plain-text or USFM** instead: convert USFM to VPL first (e.g.
    `usfm-grammar`), then run `tools/import_scripture.py` (see its own
    docstring for the VPL format and a `book_map.json` example).
+   If the source renders the divine name as "Yahweh"/"Yah" and you want
+   "the LORD" instead, run `tools/apply_lord_rendering.py` against the
+   output directory afterward — a separate, explicit pass so the change
+   is visible on its own, not folded silently into the import step.
 3. Either script writes one `content/scripture/<translation-id>/<book-id>.json`
    file per book — no Bible text lives in the scripts themselves, just the
    conversion logic — and prints the `manifest.json` lines to add.
@@ -220,11 +224,12 @@ This is a prototype, so several things are simplified on purpose:
   all placeholders — easy to swap, worth deciding deliberately.
 - **Scripture text.** English is now the full World English Bible Classic
   (public domain), extracted directly from an eBible.org epub via
-  `tools/import_epub.py` — not hand-typed or paraphrased. Note it renders
-  the divine name as "Yahweh" (WEB Classic's convention) rather than "the
-  LORD", which some Catholic readers will notice; swapping in a different
-  public-domain edition later is just a re-run of the same import step
-  against a different epub.
+  `tools/import_epub.py` — not hand-typed or paraphrased. The source
+  edition renders the divine name as "Yahweh"; a mechanical, sentence-
+  boundary-aware pass (see `tools/import_epub.py`'s history) swaps this to
+  "the LORD" to match familiar Catholic usage, without touching any other
+  wording. Swapping in a different public-domain edition later is just a
+  re-run of the import step against a different epub.
 - **No tests, no ProGuard/R8 rules, no crash reporting, no analytics.**
 - **No verse-of-the-day wiring**, though `daily_passage` and the DAO query
   for it already exist.

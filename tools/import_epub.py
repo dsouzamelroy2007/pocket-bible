@@ -59,9 +59,6 @@ EXCLUDE_CLASSES = {
     "rq", "s", "s1", "s2", "sp", "sts", "tnav", "x", "xk", "xo", "xt",
 }
 
-ID_RE = re.compile(r"^[A-Za-z0-9]+?(\d+)_(\d+(?:-\d+)?)$")
-
-
 def has_class(tag: Tag, cls: str) -> bool:
     classes = tag.get("class") or []
     return cls in classes
@@ -72,8 +69,29 @@ def any_excluded_class(tag: Tag) -> bool:
     return any(c in EXCLUDE_CLASSES for c in classes)
 
 
+def find_book_prefix(main_div: Tag) -> str | None:
+    """
+    The id scheme is <book-prefix><chapter>_<verse>, but the prefix itself
+    can end in a digit (numbered books like 1 Samuel use a prefix such as
+    "S1", giving ids like "S11_1") -- a generic prefix regex can't tell
+    where the prefix ends and the chapter number begins in "S11_1" (is it
+    prefix "S"/chapter 11, or prefix "S1"/chapter 1?). Resolved by using
+    the one id we can be sure of: the very first verse span in the book is
+    always chapter 1, verse 1, so whatever precedes a trailing "1_1" in
+    its id is the real prefix.
+    """
+    first_verse = main_div.find("span", class_="verse")
+    if first_verse is None:
+        return None
+    first_id = first_verse.get("id", "")
+    if not first_id.endswith("1_1"):
+        return None
+    return first_id[: -len("1_1")]
+
+
 class BookExtractor:
-    def __init__(self):
+    def __init__(self, prefix: str):
+        self.id_re = re.compile(r"^" + re.escape(prefix) + r"(\d+)_(\d+(?:-\d+)?)$")
         self.chapter = 0
         self.verse = 0
         self.buffer: list[str] = []
@@ -97,7 +115,7 @@ class BookExtractor:
 
         id_attr = node.get("id")
         if id_attr:
-            m = ID_RE.match(id_attr)
+            m = self.id_re.match(id_attr)
             if m:
                 chapter = int(m.group(1))
                 verse_part = m.group(2).split("-")[0]
@@ -155,7 +173,11 @@ def main():
             if main_div is None:
                 print(f"WARNING: no main div in {stem}, skipping ({book_id})")
                 continue
-            verses = BookExtractor().extract(main_div)
+            prefix = find_book_prefix(main_div)
+            if prefix is None:
+                print(f"WARNING: couldn't determine id prefix for {stem}, skipping ({book_id})")
+                continue
+            verses = BookExtractor(prefix).extract(main_div)
             if not verses:
                 print(f"WARNING: no verses extracted for {stem} ({book_id})")
                 continue

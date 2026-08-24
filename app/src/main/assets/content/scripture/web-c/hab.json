@@ -5,7 +5,7 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
@@ -15,7 +15,7 @@
     {
       "chapter": 1,
       "verse": 2,
-      "text": "Yahweh, how long will I cry, and you will not hear? I cry out to you “Violence!” and will you not save?"
+      "text": "The LORD, how long will I cry, and you will not hear? I cry out to you “Violence!” and will you not save?"
     },
     {
       "chapter": 1,
@@ -65,7 +65,7 @@
     {
       "chapter": 1,
       "verse": 12,
-      "text": "Aren’t you from everlasting, Yahweh my God, my Holy One? We will not die. Yahweh, you have appointed them for judgment. You, Rock, have established him to punish."
+      "text": "Aren’t you from everlasting, the LORD my God, my Holy One? We will not die. The LORD, you have appointed them for judgment. You, Rock, have established him to punish."
     },
     {
       "chapter": 1,
@@ -100,7 +100,7 @@
     {
       "chapter": 2,
       "verse": 2,
-      "text": "Yahweh answered me, “Write the vision, and make it plain on tablets, that he who runs may read it."
+      "text": "The LORD answered me, “Write the vision, and make it plain on tablets, that he who runs may read it."
     },
     {
       "chapter": 2,
@@ -155,12 +155,12 @@
     {
       "chapter": 2,
       "verse": 13,
-      "text": "Behold, isn’t it from Yahweh of Armies that the peoples labor for the fire, and the nations weary themselves for vanity?"
+      "text": "Behold, isn’t it from the LORD of Armies that the peoples labor for the fire, and the nations weary themselves for vanity?"
     },
     {
       "chapter": 2,
       "verse": 14,
-      "text": "For the earth will be filled with the knowledge of Yahweh’s glory, as the waters cover the sea."
+      "text": "For the earth will be filled with the knowledge of the LORD’s glory, as the waters cover the sea."
     },
     {
       "chapter": 2,
@@ -170,7 +170,7 @@
     {
       "chapter": 2,
       "verse": 16,
-      "text": "You are filled with shame, and not glory. You will also drink and be exposed! The cup of Yahweh’s right hand will come around to you, and disgrace will cover your glory."
+      "text": "You are filled with shame, and not glory. You will also drink and be exposed! The cup of the LORD’s right hand will come around to you, and disgrace will cover your glory."
     },
     {
       "chapter": 2,
@@ -190,7 +190,7 @@
     {
       "chapter": 2,
       "verse": 20,
-      "text": "But Yahweh is in his holy temple. Let all the earth be silent before him!”"
+      "text": "But the LORD is in his holy temple. Let all the earth be silent before him!”"
     },
     {
       "chapter": 3,
@@ -200,7 +200,7 @@
     {
       "chapter": 3,
       "verse": 2,
-      "text": "Yahweh, I have heard of your fame. I stand in awe of your deeds, Yahweh. Renew your work in the middle of the years. In the middle of the years make it known. In wrath, you remember mercy."
+      "text": "The LORD, I have heard of your fame. I stand in awe of your deeds, the LORD. Renew your work in the middle of the years. In the middle of the years make it known. In wrath, you remember mercy."
     },
     {
       "chapter": 3,
@@ -230,7 +230,7 @@
     {
       "chapter": 3,
       "verse": 8,
-      "text": "Was Yahweh displeased with the rivers? Was your anger against the rivers, or your wrath against the sea, that you rode on your horses, on your chariots of salvation?"
+      "text": "Was the LORD displeased with the rivers? Was your anger against the rivers, or your wrath against the sea, that you rode on your horses, on your chariots of salvation?"
     },
     {
       "chapter": 3,
@@ -280,12 +280,12 @@
     {
       "chapter": 3,
       "verse": 18,
-      "text": "yet I will rejoice in Yahweh. I will be joyful in the God of my salvation!"
+      "text": "yet I will rejoice in the LORD. I will be joyful in the God of my salvation!"
     },
     {
       "chapter": 3,
       "verse": 19,
-      "text": "Yahweh, the Lord, is my strength. He makes my feet like deer’s feet, and enables me to go in high places. For the music director, on my stringed instruments."
+      "text": "The LORD, the Lord, is my strength. He makes my feet like deer’s feet, and enables me to go in high places. For the music director, on my stringed instruments."
     }
   ]
 }

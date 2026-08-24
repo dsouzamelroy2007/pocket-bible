@@ -5,7 +5,7 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
@@ -20,7 +20,7 @@
     {
       "chapter": 1,
       "verse": 3,
-      "text": "Yahweh’s word came to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and Yahweh’s hand was there on him."
+      "text": "The LORD’s word came to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the LORD’s hand was there on him."
     },
     {
       "chapter": 1,
@@ -145,7 +145,7 @@
     {
       "chapter": 1,
       "verse": 28,
-      "text": "As the appearance of the rainbow that is in the cloud in the day of rain, so was the appearance of the brightness all around. This was the appearance of the likeness of Yahweh’s glory. When I saw it, I fell on my face, and I heard a voice of one that spoke."
+      "text": "As the appearance of the rainbow that is in the cloud in the day of rain, so was the appearance of the brightness all around. This was the appearance of the likeness of the LORD’s glory. When I saw it, I fell on my face, and I heard a voice of one that spoke."
     },
     {
       "chapter": 2,
@@ -165,7 +165,7 @@
     {
       "chapter": 2,
       "verse": 4,
-      "text": "The children are impudent and stiff-hearted. I am sending you to them, and you shall tell them, ‘This is what the Lord Yahweh says.’"
+      "text": "The children are impudent and stiff-hearted. I am sending you to them, and you shall tell them, ‘This is what the Lord the LORD says.’"
     },
     {
       "chapter": 2,
@@ -250,12 +250,12 @@
     {
       "chapter": 3,
       "verse": 11,
-      "text": "Go to them of the captivity, to the children of your people, and speak to them, and tell them, ‘This is what the Lord Yahweh says,’ whether they will hear, or whether they will refuse.”"
+      "text": "Go to them of the captivity, to the children of your people, and speak to them, and tell them, ‘This is what the Lord the LORD says,’ whether they will hear, or whether they will refuse.”"
     },
     {
       "chapter": 3,
       "verse": 12,
-      "text": "Then the Spirit lifted me up, and I heard behind me the voice of a great rushing, saying, “Blessed be Yahweh’s glory from his place.”"
+      "text": "Then the Spirit lifted me up, and I heard behind me the voice of a great rushing, saying, “Blessed be the LORD’s glory from his place.”"
     },
     {
       "chapter": 3,
@@ -265,7 +265,7 @@
     {
       "chapter": 3,
       "verse": 14,
-      "text": "So the Spirit lifted me up, and took me away; and I went in bitterness, in the heat of my spirit; and Yahweh’s hand was strong on me."
+      "text": "So the Spirit lifted me up, and took me away; and I went in bitterness, in the heat of my spirit; and the LORD’s hand was strong on me."
     },
     {
       "chapter": 3,
@@ -275,7 +275,7 @@
     {
       "chapter": 3,
       "verse": 16,
-      "text": "At the end of seven days, Yahweh’s word came to me, saying,"
+      "text": "At the end of seven days, the LORD’s word came to me, saying,"
     },
     {
       "chapter": 3,
@@ -305,12 +305,12 @@
     {
       "chapter": 3,
       "verse": 22,
-      "text": "Yahweh’s hand was there on me; and he said to me, “Arise, go out into the plain, and I will talk with you there.”"
+      "text": "The LORD’s hand was there on me; and he said to me, “Arise, go out into the plain, and I will talk with you there.”"
     },
     {
       "chapter": 3,
       "verse": 23,
-      "text": "Then I arose, and went out into the plain, and behold, Yahweh’s glory stood there, like the glory which I saw by the river Chebar. Then I fell on my face."
+      "text": "Then I arose, and went out into the plain, and behold, the LORD’s glory stood there, like the glory which I saw by the river Chebar. Then I fell on my face."
     },
     {
       "chapter": 3,
@@ -330,7 +330,7 @@
     {
       "chapter": 3,
       "verse": 27,
-      "text": "But when I speak with you, I will open your mouth, and you shall tell them, ‘This is what the Lord Yahweh says.’ He who hears, let him hear; and he who refuses, let him refuse; for they are a rebellious house.”"
+      "text": "But when I speak with you, I will open your mouth, and you shall tell them, ‘This is what the Lord the LORD says.’ He who hears, let him hear; and he who refuses, let him refuse; for they are a rebellious house.”"
     },
     {
       "chapter": 4,
@@ -395,12 +395,12 @@
     {
       "chapter": 4,
       "verse": 13,
-      "text": "Yahweh said, “Even thus will the children of Israel eat their bread unclean, among the nations where I will drive them.”"
+      "text": "The LORD said, “Even thus will the children of Israel eat their bread unclean, among the nations where I will drive them.”"
     },
     {
       "chapter": 4,
       "verse": 14,
-      "text": "Then I said, “Ah Lord Yahweh! Behold, my soul has not been polluted; for from my youth up even until now I have not eaten of that which dies of itself, or is torn of animals. No abominable meat has come into my mouth!”"
+      "text": "Then I said, “Ah Lord the LORD! Behold, my soul has not been polluted; for from my youth up even until now I have not eaten of that which dies of itself, or is torn of animals. No abominable meat has come into my mouth!”"
     },
     {
       "chapter": 4,
@@ -440,7 +440,7 @@
     {
       "chapter": 5,
       "verse": 5,
-      "text": "“The Lord Yahweh says: ‘This is Jerusalem. I have set her in the middle of the nations, and countries are around her."
+      "text": "“The Lord the LORD says: ‘This is Jerusalem. I have set her in the middle of the nations, and countries are around her."
     },
     {
       "chapter": 5,
@@ -450,12 +450,12 @@
     {
       "chapter": 5,
       "verse": 7,
-      "text": "“Therefore the Lord Yahweh says: ‘Because you are more turbulent than the nations that are around you, and have not walked in my statutes, neither have kept my ordinances, neither have followed the ordinances of the nations that are around you;"
+      "text": "“Therefore the Lord the LORD says: ‘Because you are more turbulent than the nations that are around you, and have not walked in my statutes, neither have kept my ordinances, neither have followed the ordinances of the nations that are around you;"
     },
     {
       "chapter": 5,
       "verse": 8,
-      "text": "therefore the Lord Yahweh says: ‘Behold, I, even I, am against you; and I will execute judgments among you in the sight of the nations."
+      "text": "therefore the Lord the LORD says: ‘Behold, I, even I, am against you; and I will execute judgments among you in the sight of the nations."
     },
     {
       "chapter": 5,
@@ -470,7 +470,7 @@
     {
       "chapter": 5,
       "verse": 11,
-      "text": "Therefore as I live,’ says the Lord Yahweh, ‘surely, because you have defiled my sanctuary with all your detestable things, and with all your abominations, therefore I will also diminish you. My eye won’t spare, and I will have no pity."
+      "text": "Therefore as I live,’ says the Lord the LORD, ‘surely, because you have defiled my sanctuary with all your detestable things, and with all your abominations, therefore I will also diminish you. My eye won’t spare, and I will have no pity."
     },
     {
       "chapter": 5,
@@ -480,7 +480,7 @@
     {
       "chapter": 5,
       "verse": 13,
-      "text": "“ ‘Thus my anger will be accomplished, and I will cause my wrath toward them to rest, and I will be comforted. They will know that I, Yahweh, have spoken in my zeal, when I have accomplished my wrath on them."
+      "text": "“ ‘Thus my anger will be accomplished, and I will cause my wrath toward them to rest, and I will be comforted. They will know that I, the LORD, have spoken in my zeal, when I have accomplished my wrath on them."
     },
     {
       "chapter": 5,
@@ -490,7 +490,7 @@
     {
       "chapter": 5,
       "verse": 15,
-      "text": "So it will be a reproach and a taunt, an instruction and an astonishment, to the nations that are around you, when I execute judgments on you in anger and in wrath, and in wrathful rebukes—I, Yahweh, have spoken it—"
+      "text": "So it will be a reproach and a taunt, an instruction and an astonishment, to the nations that are around you, when I execute judgments on you in anger and in wrath, and in wrathful rebukes—I, the LORD, have spoken it—"
     },
     {
       "chapter": 5,
@@ -500,12 +500,12 @@
     {
       "chapter": 5,
       "verse": 17,
-      "text": "I will send on you famine and evil animals, and they will bereave you. Pestilence and blood will pass through you. I will bring the sword on you. I, Yahweh, have spoken it.’ ”"
+      "text": "I will send on you famine and evil animals, and they will bereave you. Pestilence and blood will pass through you. I will bring the sword on you. I, the LORD, have spoken it.’ ”"
     },
     {
       "chapter": 6,
       "verse": 1,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 6,
@@ -515,7 +515,7 @@
     {
       "chapter": 6,
       "verse": 3,
-      "text": "and say, ‘You mountains of Israel, hear the word of the Lord Yahweh! The Lord Yahweh says to the mountains and to the hills, to the watercourses and to the valleys: “Behold, I, even I, will bring a sword on you, and I will destroy your high places."
+      "text": "and say, ‘You mountains of Israel, hear the word of the Lord the LORD! The Lord the LORD says to the mountains and to the hills, to the watercourses and to the valleys: “Behold, I, even I, will bring a sword on you, and I will destroy your high places."
     },
     {
       "chapter": 6,
@@ -535,7 +535,7 @@
     {
       "chapter": 6,
       "verse": 7,
-      "text": "The slain will fall among you, and you will know that I am Yahweh."
+      "text": "The slain will fall among you, and you will know that I am the LORD."
     },
     {
       "chapter": 6,
@@ -550,12 +550,12 @@
     {
       "chapter": 6,
       "verse": 10,
-      "text": "They will know that I am Yahweh. I have not said in vain that I would do this evil to them.” ’"
+      "text": "They will know that I am the LORD. I have not said in vain that I would do this evil to them.” ’"
     },
     {
       "chapter": 6,
       "verse": 11,
-      "text": "“The Lord Yahweh says: ‘Strike with your hand, and stamp with your foot, and say, “Alas!”, because of all the evil abominations of the house of Israel; for they will fall by the sword, by the famine, and by the pestilence."
+      "text": "“The Lord the LORD says: ‘Strike with your hand, and stamp with your foot, and say, “Alas!”, because of all the evil abominations of the house of Israel; for they will fall by the sword, by the famine, and by the pestilence."
     },
     {
       "chapter": 6,
@@ -565,22 +565,22 @@
     {
       "chapter": 6,
       "verse": 13,
-      "text": "You will know that I am Yahweh when their slain men are among their idols around their altars, on every high hill, on all the tops of the mountains, under every green tree, and under every thick oak—the places where they offered pleasant aroma to all their idols."
+      "text": "You will know that I am the LORD when their slain men are among their idols around their altars, on every high hill, on all the tops of the mountains, under every green tree, and under every thick oak—the places where they offered pleasant aroma to all their idols."
     },
     {
       "chapter": 6,
       "verse": 14,
-      "text": "I will stretch out my hand on them and make the land desolate and waste, from the wilderness toward Diblah, throughout all their habitations. Then they will know that I am Yahweh.’ ”"
+      "text": "I will stretch out my hand on them and make the land desolate and waste, from the wilderness toward Diblah, throughout all their habitations. Then they will know that I am the LORD.’ ”"
     },
     {
       "chapter": 7,
       "verse": 1,
-      "text": "Moreover Yahweh’s word came to me, saying,"
+      "text": "Moreover the LORD’s word came to me, saying,"
     },
     {
       "chapter": 7,
       "verse": 2,
-      "text": "“You, son of man, the Lord Yahweh says to the land of Israel, ‘An end! The end has come on the four corners of the land."
+      "text": "“You, son of man, the Lord the LORD says to the land of Israel, ‘An end! The end has come on the four corners of the land."
     },
     {
       "chapter": 7,
@@ -590,12 +590,12 @@
     {
       "chapter": 7,
       "verse": 4,
-      "text": "My eye will not spare you, neither will I have pity; but I will bring your ways on you, and your abominations will be among you. Then you will know that I am Yahweh.’"
+      "text": "My eye will not spare you, neither will I have pity; but I will bring your ways on you, and your abominations will be among you. Then you will know that I am the LORD.’"
     },
     {
       "chapter": 7,
       "verse": 5,
-      "text": "“The Lord Yahweh says: ‘A disaster! A unique disaster! Behold, it comes."
+      "text": "“The Lord the LORD says: ‘A disaster! A unique disaster! Behold, it comes."
     },
     {
       "chapter": 7,
@@ -615,7 +615,7 @@
     {
       "chapter": 7,
       "verse": 9,
-      "text": "My eye won’t spare, neither will I have pity. I will punish you according to your ways. Your abominations will be among you. Then you will know that I, Yahweh, strike."
+      "text": "My eye won’t spare, neither will I have pity. I will punish you according to your ways. Your abominations will be among you. Then you will know that I, the LORD, strike."
     },
     {
       "chapter": 7,
@@ -665,7 +665,7 @@
     {
       "chapter": 7,
       "verse": 19,
-      "text": "They will cast their silver in the streets, and their gold will be as an unclean thing. Their silver and their gold won’t be able to deliver them in the day of Yahweh’s wrath. They won’t satisfy their souls or fill their bellies; because it has been the stumbling block of their iniquity."
+      "text": "They will cast their silver in the streets, and their gold will be as an unclean thing. Their silver and their gold won’t be able to deliver them in the day of the LORD’s wrath. They won’t satisfy their souls or fill their bellies; because it has been the stumbling block of their iniquity."
     },
     {
       "chapter": 7,
@@ -705,12 +705,12 @@
     {
       "chapter": 7,
       "verse": 27,
-      "text": "The king will mourn, and the prince will be clothed with desolation. The hands of the people of the land will be troubled. I will do to them after their way, and according to their own judgments I will judge them. Then they will know that I am Yahweh.’ ”"
+      "text": "The king will mourn, and the prince will be clothed with desolation. The hands of the people of the land will be troubled. I will do to them after their way, and according to their own judgments I will judge them. Then they will know that I am the LORD.’ ”"
     },
     {
       "chapter": 8,
       "verse": 1,
-      "text": "In the sixth year, in the sixth month, in the fifth day of the month, as I sat in my house, and the elders of Judah sat before me, the Lord Yahweh’s hand fell on me there."
+      "text": "In the sixth year, in the sixth month, in the fifth day of the month, as I sat in my house, and the elders of Judah sat before me, the Lord the LORD’s hand fell on me there."
     },
     {
       "chapter": 8,
@@ -765,7 +765,7 @@
     {
       "chapter": 8,
       "verse": 12,
-      "text": "Then he said to me, “Son of man, have you seen what the elders of the house of Israel do in the dark, every man in his rooms of imagery? For they say, ‘Yahweh doesn’t see us. Yahweh has forsaken the land.’ ”"
+      "text": "Then he said to me, “Son of man, have you seen what the elders of the house of Israel do in the dark, every man in his rooms of imagery? For they say, ‘The LORD doesn’t see us. The LORD has forsaken the land.’ ”"
     },
     {
       "chapter": 8,
@@ -775,7 +775,7 @@
     {
       "chapter": 8,
       "verse": 14,
-      "text": "Then he brought me to the door of the gate of Yahweh’s house which was toward the north; and I saw the women sit there weeping for Tammuz."
+      "text": "Then he brought me to the door of the gate of the LORD’s house which was toward the north; and I saw the women sit there weeping for Tammuz."
     },
     {
       "chapter": 8,
@@ -785,7 +785,7 @@
     {
       "chapter": 8,
       "verse": 16,
-      "text": "He brought me into the inner court of Yahweh’s house; and I saw at the door of Yahweh’s temple, between the porch and the altar, there were about twenty-five men with their backs toward Yahweh’s temple and their faces toward the east. They were worshiping the sun toward the east."
+      "text": "He brought me into the inner court of the LORD’s house; and I saw at the door of the LORD’s temple, between the porch and the altar, there were about twenty-five men with their backs toward the LORD’s temple and their faces toward the east. They were worshiping the sun toward the east."
     },
     {
       "chapter": 8,
@@ -815,7 +815,7 @@
     {
       "chapter": 9,
       "verse": 4,
-      "text": "Yahweh said to him, “Go through the middle of the city, through the middle of Jerusalem, and set a mark on the foreheads of the men that sigh and that cry over all the abominations that are done within it.”"
+      "text": "The LORD said to him, “Go through the middle of the city, through the middle of Jerusalem, and set a mark on the foreheads of the men that sigh and that cry over all the abominations that are done within it.”"
     },
     {
       "chapter": 9,
@@ -835,12 +835,12 @@
     {
       "chapter": 9,
       "verse": 8,
-      "text": "While they were killing, and I was left, I fell on my face, and cried, and said, “Ah Lord Yahweh! Will you destroy all the residue of Israel in your pouring out of your wrath on Jerusalem?”"
+      "text": "While they were killing, and I was left, I fell on my face, and cried, and said, “Ah Lord the LORD! Will you destroy all the residue of Israel in your pouring out of your wrath on Jerusalem?”"
     },
     {
       "chapter": 9,
       "verse": 9,
-      "text": "Then he said to me, “The iniquity of the house of Israel and Judah is exceedingly great, and the land is full of blood, and the city full of perversion; for they say, ‘Yahweh has forsaken the land, and Yahweh doesn’t see.’"
+      "text": "Then he said to me, “The iniquity of the house of Israel and Judah is exceedingly great, and the land is full of blood, and the city full of perversion; for they say, ‘The LORD has forsaken the land, and the LORD doesn’t see.’"
     },
     {
       "chapter": 9,
@@ -870,7 +870,7 @@
     {
       "chapter": 10,
       "verse": 4,
-      "text": "Yahweh’s glory mounted up from the cherub, and stood over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of Yahweh’s glory."
+      "text": "The LORD’s glory mounted up from the cherub, and stood over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of the LORD’s glory."
     },
     {
       "chapter": 10,
@@ -940,12 +940,12 @@
     {
       "chapter": 10,
       "verse": 18,
-      "text": "Yahweh’s glory went out from over the threshold of the house and stood over the cherubim."
+      "text": "The LORD’s glory went out from over the threshold of the house and stood over the cherubim."
     },
     {
       "chapter": 10,
       "verse": 19,
-      "text": "The cherubim lifted up their wings and mounted up from the earth in my sight when they went out, with the wheels beside them. Then they stood at the door of the east gate of Yahweh’s house; and the glory of the God of Israel was over them above."
+      "text": "The cherubim lifted up their wings and mounted up from the earth in my sight when they went out, with the wheels beside them. Then they stood at the door of the east gate of the LORD’s house; and the glory of the God of Israel was over them above."
     },
     {
       "chapter": 10,
@@ -965,7 +965,7 @@
     {
       "chapter": 11,
       "verse": 1,
-      "text": "Moreover the Spirit lifted me up and brought me to the east gate of Yahweh’s house, which looks eastward. Behold, twenty-five men were at the door of the gate; and I saw among them Jaazaniah the son of Azzur, and Pelatiah the son of Benaiah, princes of the people."
+      "text": "Moreover the Spirit lifted me up and brought me to the east gate of the LORD’s house, which looks eastward. Behold, twenty-five men were at the door of the gate; and I saw among them Jaazaniah the son of Azzur, and Pelatiah the son of Benaiah, princes of the people."
     },
     {
       "chapter": 11,
@@ -985,7 +985,7 @@
     {
       "chapter": 11,
       "verse": 5,
-      "text": "Yahweh’s Spirit fell on me, and he said to me, “Speak, ‘Yahweh says: “Thus you have said, house of Israel; for I know the things that come into your mind."
+      "text": "The LORD’s Spirit fell on me, and he said to me, “Speak, ‘The LORD says: “Thus you have said, house of Israel; for I know the things that come into your mind."
     },
     {
       "chapter": 11,
@@ -995,12 +995,12 @@
     {
       "chapter": 11,
       "verse": 7,
-      "text": "“ ‘Therefore the Lord Yahweh says: “Your slain whom you have laid in the middle of it, they are the meat, and this is the cauldron; but you will be brought out of the middle of it."
+      "text": "“ ‘Therefore the Lord the LORD says: “Your slain whom you have laid in the middle of it, they are the meat, and this is the cauldron; but you will be brought out of the middle of it."
     },
     {
       "chapter": 11,
       "verse": 8,
-      "text": "You have feared the sword; and I will bring the sword on you,” says the Lord Yahweh."
+      "text": "You have feared the sword; and I will bring the sword on you,” says the Lord the LORD."
     },
     {
       "chapter": 11,
@@ -1010,7 +1010,7 @@
     {
       "chapter": 11,
       "verse": 10,
-      "text": "You will fall by the sword. I will judge you in the border of Israel. Then you will know that I am Yahweh."
+      "text": "You will fall by the sword. I will judge you in the border of Israel. Then you will know that I am the LORD."
     },
     {
       "chapter": 11,
@@ -1020,32 +1020,32 @@
     {
       "chapter": 11,
       "verse": 12,
-      "text": "You will know that I am Yahweh, for you have not walked in my statutes. You have not executed my ordinances, but have done after the ordinances of the nations that are around you.” ’ ”"
+      "text": "You will know that I am the LORD, for you have not walked in my statutes. You have not executed my ordinances, but have done after the ordinances of the nations that are around you.” ’ ”"
     },
     {
       "chapter": 11,
       "verse": 13,
-      "text": "When I prophesied, Pelatiah the son of Benaiah died. Then I fell down on my face, and cried with a loud voice, and said, “Ah Lord Yahweh! Will you make a full end of the remnant of Israel?”"
+      "text": "When I prophesied, Pelatiah the son of Benaiah died. Then I fell down on my face, and cried with a loud voice, and said, “Ah Lord the LORD! Will you make a full end of the remnant of Israel?”"
     },
     {
       "chapter": 11,
       "verse": 14,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 11,
       "verse": 15,
-      "text": "“Son of man, your brothers, even your brothers, the men of your relatives, and all the house of Israel, all of them, are the ones to whom the inhabitants of Jerusalem have said, ‘Go far away from Yahweh. This land has been given to us for a possession.’"
+      "text": "“Son of man, your brothers, even your brothers, the men of your relatives, and all the house of Israel, all of them, are the ones to whom the inhabitants of Jerusalem have said, ‘Go far away from the LORD. This land has been given to us for a possession.’"
     },
     {
       "chapter": 11,
       "verse": 16,
-      "text": "“Therefore say, ‘The Lord Yahweh says: “Whereas I have removed them far off among the nations, and whereas I have scattered them among the countries, yet I will be to them a sanctuary for a little while in the countries where they have come.” ’"
+      "text": "“Therefore say, ‘The Lord the LORD says: “Whereas I have removed them far off among the nations, and whereas I have scattered them among the countries, yet I will be to them a sanctuary for a little while in the countries where they have come.” ’"
     },
     {
       "chapter": 11,
       "verse": 17,
-      "text": "“Therefore say, ‘The Lord Yahweh says: “I will gather you from the peoples, and assemble you out of the countries where you have been scattered, and I will give you the land of Israel.”"
+      "text": "“Therefore say, ‘The Lord the LORD says: “I will gather you from the peoples, and assemble you out of the countries where you have been scattered, and I will give you the land of Israel.”"
     },
     {
       "chapter": 11,
@@ -1065,7 +1065,7 @@
     {
       "chapter": 11,
       "verse": 21,
-      "text": "But as for them whose heart walks after the heart of their detestable things and their abominations, I will bring their way on their own heads,’ says the Lord Yahweh.”"
+      "text": "But as for them whose heart walks after the heart of their detestable things and their abominations, I will bring their way on their own heads,’ says the Lord the LORD.”"
     },
     {
       "chapter": 11,
@@ -1075,7 +1075,7 @@
     {
       "chapter": 11,
       "verse": 23,
-      "text": "Yahweh’s glory went up from the middle of the city, and stood on the mountain which is on the east side of the city."
+      "text": "The LORD’s glory went up from the middle of the city, and stood on the mountain which is on the east side of the city."
     },
     {
       "chapter": 11,
@@ -1085,12 +1085,12 @@
     {
       "chapter": 11,
       "verse": 25,
-      "text": "Then I spoke to the captives all the things that Yahweh had shown me."
+      "text": "Then I spoke to the captives all the things that the LORD had shown me."
     },
     {
       "chapter": 12,
       "verse": 1,
-      "text": "Yahweh’s word also came to me, saying,"
+      "text": "The LORD’s word also came to me, saying,"
     },
     {
       "chapter": 12,
@@ -1125,7 +1125,7 @@
     {
       "chapter": 12,
       "verse": 8,
-      "text": "In the morning, Yahweh’s word came to me, saying,"
+      "text": "In the morning, the LORD’s word came to me, saying,"
     },
     {
       "chapter": 12,
@@ -1135,7 +1135,7 @@
     {
       "chapter": 12,
       "verse": 10,
-      "text": "“Say to them, ‘The Lord Yahweh says: “This burden concerns the prince in Jerusalem, and all the house of Israel among whom they are.” ’"
+      "text": "“Say to them, ‘The Lord the LORD says: “This burden concerns the prince in Jerusalem, and all the house of Israel among whom they are.” ’"
     },
     {
       "chapter": 12,
@@ -1160,17 +1160,17 @@
     {
       "chapter": 12,
       "verse": 15,
-      "text": "“ ‘They will know that I am Yahweh when I disperse them among the nations and scatter them through the countries."
+      "text": "“ ‘They will know that I am the LORD when I disperse them among the nations and scatter them through the countries."
     },
     {
       "chapter": 12,
       "verse": 16,
-      "text": "But I will leave a few men of them from the sword, from the famine, and from the pestilence, that they may declare all their abominations among the nations where they come. Then they will know that I am Yahweh.’ ”"
+      "text": "But I will leave a few men of them from the sword, from the famine, and from the pestilence, that they may declare all their abominations among the nations where they come. Then they will know that I am the LORD.’ ”"
     },
     {
       "chapter": 12,
       "verse": 17,
-      "text": "Moreover Yahweh’s word came to me, saying,"
+      "text": "Moreover the LORD’s word came to me, saying,"
     },
     {
       "chapter": 12,
@@ -1180,17 +1180,17 @@
     {
       "chapter": 12,
       "verse": 19,
-      "text": "Tell the people of the land, ‘The Lord Yahweh says concerning the inhabitants of Jerusalem and the land of Israel: “They will eat their bread with fearfulness and drink their water in dismay, that her land may be desolate, and all that is therein, because of the violence of all those who dwell therein."
+      "text": "Tell the people of the land, ‘The Lord the LORD says concerning the inhabitants of Jerusalem and the land of Israel: “They will eat their bread with fearfulness and drink their water in dismay, that her land may be desolate, and all that is therein, because of the violence of all those who dwell therein."
     },
     {
       "chapter": 12,
       "verse": 20,
-      "text": "The cities that are inhabited will be laid waste, and the land will be a desolation. Then you will know that I am Yahweh.” ’ ”"
+      "text": "The cities that are inhabited will be laid waste, and the land will be a desolation. Then you will know that I am the LORD.” ’ ”"
     },
     {
       "chapter": 12,
       "verse": 21,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 12,
@@ -1200,7 +1200,7 @@
     {
       "chapter": 12,
       "verse": 23,
-      "text": "Tell them therefore, ‘The Lord Yahweh says: “I will make this proverb to cease, and they will no more use it as a proverb in Israel;” ’ but tell them, ‘ “The days are at hand, and the fulfillment of every vision."
+      "text": "Tell them therefore, ‘The Lord the LORD says: “I will make this proverb to cease, and they will no more use it as a proverb in Israel;” ’ but tell them, ‘ “The days are at hand, and the fulfillment of every vision."
     },
     {
       "chapter": 12,
@@ -1210,12 +1210,12 @@
     {
       "chapter": 12,
       "verse": 25,
-      "text": "For I am Yahweh. I will speak, and the word that I speak will be performed. It will be no more deferred; for in your days, rebellious house, I will speak the word and will perform it,” says the Lord Yahweh.’ ”"
+      "text": "For I am the LORD. I will speak, and the word that I speak will be performed. It will be no more deferred; for in your days, rebellious house, I will speak the word and will perform it,” says the Lord the LORD.’ ”"
     },
     {
       "chapter": 12,
       "verse": 26,
-      "text": "Again Yahweh’s word came to me, saying,"
+      "text": "Again the LORD’s word came to me, saying,"
     },
     {
       "chapter": 12,
@@ -1225,22 +1225,22 @@
     {
       "chapter": 12,
       "verse": 28,
-      "text": "“Therefore tell them, ‘The Lord Yahweh says: “None of my words will be deferred any more, but the word which I speak will be performed,” says the Lord Yahweh.’ ”"
+      "text": "“Therefore tell them, ‘The Lord the LORD says: “None of my words will be deferred any more, but the word which I speak will be performed,” says the Lord the LORD.’ ”"
     },
     {
       "chapter": 13,
       "verse": 1,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 13,
       "verse": 2,
-      "text": "“Son of man, prophesy against the prophets of Israel who prophesy, and say to those who prophesy out of their own heart, ‘Hear Yahweh’s word:"
+      "text": "“Son of man, prophesy against the prophets of Israel who prophesy, and say to those who prophesy out of their own heart, ‘Hear the LORD’s word:"
     },
     {
       "chapter": 13,
       "verse": 3,
-      "text": "The Lord Yahweh says, “Woe to the foolish prophets, who follow their own spirit, and have seen nothing!"
+      "text": "The Lord the LORD says, “Woe to the foolish prophets, who follow their own spirit, and have seen nothing!"
     },
     {
       "chapter": 13,
@@ -1250,27 +1250,27 @@
     {
       "chapter": 13,
       "verse": 5,
-      "text": "You have not gone up into the gaps or built up the wall for the house of Israel, to stand in the battle in Yahweh’s day."
+      "text": "You have not gone up into the gaps or built up the wall for the house of Israel, to stand in the battle in the LORD’s day."
     },
     {
       "chapter": 13,
       "verse": 6,
-      "text": "They have seen falsehood and lying divination, who say, ‘Yahweh says;’ but Yahweh has not sent them. They have made men to hope that the word would be confirmed."
+      "text": "They have seen falsehood and lying divination, who say, ‘The LORD says;’ but the LORD has not sent them. They have made men to hope that the word would be confirmed."
     },
     {
       "chapter": 13,
       "verse": 7,
-      "text": "Haven’t you seen a false vision, and haven’t you spoken a lying divination, in that you say, ‘Yahweh says;’ but I have not spoken?”"
+      "text": "Haven’t you seen a false vision, and haven’t you spoken a lying divination, in that you say, ‘The LORD says;’ but I have not spoken?”"
     },
     {
       "chapter": 13,
       "verse": 8,
-      "text": "“ ‘Therefore the Lord Yahweh says: “Because you have spoken falsehood and seen lies, therefore, behold, I am against you,” says the Lord Yahweh."
+      "text": "“ ‘Therefore the Lord the LORD says: “Because you have spoken falsehood and seen lies, therefore, behold, I am against you,” says the Lord the LORD."
     },
     {
       "chapter": 13,
       "verse": 9,
-      "text": "“My hand will be against the prophets who see false visions and who utter lying divinations. They will not be in the council of my people, neither will they be written in the writing of the house of Israel, neither will they enter into the land of Israel. Then you will know that I am the Lord Yahweh.”"
+      "text": "“My hand will be against the prophets who see false visions and who utter lying divinations. They will not be in the council of my people, neither will they be written in the writing of the house of Israel, neither will they enter into the land of Israel. Then you will know that I am the Lord the LORD.”"
     },
     {
       "chapter": 13,
@@ -1290,12 +1290,12 @@
     {
       "chapter": 13,
       "verse": 13,
-      "text": "“ ‘Therefore the Lord Yahweh says: “I will even tear it with a stormy wind in my wrath. There will be an overflowing shower in my anger, and great hailstones in wrath to consume it."
+      "text": "“ ‘Therefore the Lord the LORD says: “I will even tear it with a stormy wind in my wrath. There will be an overflowing shower in my anger, and great hailstones in wrath to consume it."
     },
     {
       "chapter": 13,
       "verse": 14,
-      "text": "So I will break down the wall that you have plastered with whitewash, and bring it down to the ground, so that its foundation will be uncovered. It will fall, and you will be consumed in the middle of it. Then you will know that I am Yahweh."
+      "text": "So I will break down the wall that you have plastered with whitewash, and bring it down to the ground, so that its foundation will be uncovered. It will fall, and you will be consumed in the middle of it. Then you will know that I am the LORD."
     },
     {
       "chapter": 13,
@@ -1305,7 +1305,7 @@
     {
       "chapter": 13,
       "verse": 16,
-      "text": "to wit, the prophets of Israel who prophesy concerning Jerusalem, and who see visions of peace for her, and there is no peace,’ ” says the Lord Yahweh.’ ”"
+      "text": "to wit, the prophets of Israel who prophesy concerning Jerusalem, and who see visions of peace for her, and there is no peace,’ ” says the Lord the LORD.’ ”"
     },
     {
       "chapter": 13,
@@ -1315,7 +1315,7 @@
     {
       "chapter": 13,
       "verse": 18,
-      "text": "and say, “The Lord Yahweh says: ‘Woe to the women who sew magic bands on all elbows and make veils for the head of persons of every stature to hunt souls! Will you hunt the souls of my people and save souls alive for yourselves?"
+      "text": "and say, “The Lord the LORD says: ‘Woe to the women who sew magic bands on all elbows and make veils for the head of persons of every stature to hunt souls! Will you hunt the souls of my people and save souls alive for yourselves?"
     },
     {
       "chapter": 13,
@@ -1325,12 +1325,12 @@
     {
       "chapter": 13,
       "verse": 20,
-      "text": "“Therefore the Lord Yahweh says: ‘Behold, I am against your magic bands, with which you hunt the souls to make them fly, and I will tear them from your arms. I will let the souls fly free, even the souls whom you ensnare like birds."
+      "text": "“Therefore the Lord the LORD says: ‘Behold, I am against your magic bands, with which you hunt the souls to make them fly, and I will tear them from your arms. I will let the souls fly free, even the souls whom you ensnare like birds."
     },
     {
       "chapter": 13,
       "verse": 21,
-      "text": "I will also tear your veils and deliver my people out of your hand; and they will no longer be in your hand to be ensnared. Then you will know that I am Yahweh."
+      "text": "I will also tear your veils and deliver my people out of your hand; and they will no longer be in your hand to be ensnared. Then you will know that I am the LORD."
     },
     {
       "chapter": 13,
@@ -1340,7 +1340,7 @@
     {
       "chapter": 13,
       "verse": 23,
-      "text": "Therefore you shall no more see false visions nor practice divination. I will deliver my people out of your hand. Then you will know that I am Yahweh.’ ”"
+      "text": "Therefore you shall no more see false visions nor practice divination. I will deliver my people out of your hand. Then you will know that I am the LORD.’ ”"
     },
     {
       "chapter": 14,
@@ -1350,7 +1350,7 @@
     {
       "chapter": 14,
       "verse": 2,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 14,
@@ -1360,7 +1360,7 @@
     {
       "chapter": 14,
       "verse": 4,
-      "text": "Therefore speak to them and tell them, ‘The Lord Yahweh says: “Every man of the house of Israel who takes his idols into his heart and puts the stumbling block of his iniquity before his face then comes to the prophet, I Yahweh will answer him there according to the multitude of his idols,"
+      "text": "Therefore speak to them and tell them, ‘The Lord the LORD says: “Every man of the house of Israel who takes his idols into his heart and puts the stumbling block of his iniquity before his face then comes to the prophet, I the LORD will answer him there according to the multitude of his idols,"
     },
     {
       "chapter": 14,
@@ -1370,22 +1370,22 @@
     {
       "chapter": 14,
       "verse": 6,
-      "text": "“Therefore tell the house of Israel, ‘The Lord Yahweh says: “Return, and turn yourselves from your idols! Turn away your faces from all your abominations."
+      "text": "“Therefore tell the house of Israel, ‘The Lord the LORD says: “Return, and turn yourselves from your idols! Turn away your faces from all your abominations."
     },
     {
       "chapter": 14,
       "verse": 7,
-      "text": "“ ‘ “For everyone of the house of Israel, or of the strangers who live in Israel, who separates himself from me and takes his idols into his heart, and puts the stumbling block of his iniquity before his face, and comes to the prophet to inquire for himself of me, I Yahweh will answer him by myself."
+      "text": "“ ‘ “For everyone of the house of Israel, or of the strangers who live in Israel, who separates himself from me and takes his idols into his heart, and puts the stumbling block of his iniquity before his face, and comes to the prophet to inquire for himself of me, I the LORD will answer him by myself."
     },
     {
       "chapter": 14,
       "verse": 8,
-      "text": "I will set my face against that man and will make him an astonishment, for a sign and a proverb, and I will cut him off from among my people. Then you will know that I am Yahweh."
+      "text": "I will set my face against that man and will make him an astonishment, for a sign and a proverb, and I will cut him off from among my people. Then you will know that I am the LORD."
     },
     {
       "chapter": 14,
       "verse": 9,
-      "text": "“ ‘ “If the prophet is deceived and speaks a word, I, Yahweh, have deceived that prophet, and I will stretch out my hand on him, and will destroy him from among my people Israel."
+      "text": "“ ‘ “If the prophet is deceived and speaks a word, I, the LORD, have deceived that prophet, and I will stretch out my hand on him, and will destroy him from among my people Israel."
     },
     {
       "chapter": 14,
@@ -1395,12 +1395,12 @@
     {
       "chapter": 14,
       "verse": 11,
-      "text": "that the house of Israel may no more go astray from me, neither defile themselves any more with all their transgressions; but that they may be my people, and I may be their God,” says the Lord Yahweh.’ ”"
+      "text": "that the house of Israel may no more go astray from me, neither defile themselves any more with all their transgressions; but that they may be my people, and I may be their God,” says the Lord the LORD.’ ”"
     },
     {
       "chapter": 14,
       "verse": 12,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 14,
@@ -1410,7 +1410,7 @@
     {
       "chapter": 14,
       "verse": 14,
-      "text": "though these three men, Noah, Daniel, and Job, were in it, they would deliver only their own souls by their righteousness,” says the Lord Yahweh."
+      "text": "though these three men, Noah, Daniel, and Job, were in it, they would deliver only their own souls by their righteousness,” says the Lord the LORD."
     },
     {
       "chapter": 14,
@@ -1420,7 +1420,7 @@
     {
       "chapter": 14,
       "verse": 16,
-      "text": "though these three men were in it, as I live,” says the Lord Yahweh, “they would deliver neither sons nor daughters. They only would be delivered, but the land would be desolate."
+      "text": "though these three men were in it, as I live,” says the Lord the LORD, “they would deliver neither sons nor daughters. They only would be delivered, but the land would be desolate."
     },
     {
       "chapter": 14,
@@ -1430,7 +1430,7 @@
     {
       "chapter": 14,
       "verse": 18,
-      "text": "though these three men were in it, as I live,” says the Lord Yahweh, “they would deliver neither sons nor daughters, but they only would be delivered themselves."
+      "text": "though these three men were in it, as I live,” says the Lord the LORD, “they would deliver neither sons nor daughters, but they only would be delivered themselves."
     },
     {
       "chapter": 14,
@@ -1440,12 +1440,12 @@
     {
       "chapter": 14,
       "verse": 20,
-      "text": "though Noah, Daniel, and Job, were in it, as I live,” says the Lord Yahweh, “they would deliver neither son nor daughter; they would deliver only their own souls by their righteousness.”"
+      "text": "though Noah, Daniel, and Job, were in it, as I live,” says the Lord the LORD, “they would deliver neither son nor daughter; they would deliver only their own souls by their righteousness.”"
     },
     {
       "chapter": 14,
       "verse": 21,
-      "text": "For the Lord Yahweh says: “How much more when I send my four severe judgments on Jerusalem—the sword, the famine, the evil animals, and the pestilence—to cut off from it man and animal!"
+      "text": "For the Lord the LORD says: “How much more when I send my four severe judgments on Jerusalem—the sword, the famine, the evil animals, and the pestilence—to cut off from it man and animal!"
     },
     {
       "chapter": 14,
@@ -1455,12 +1455,12 @@
     {
       "chapter": 14,
       "verse": 23,
-      "text": "They will comfort you, when you see their way and their doings; then you will know that I have not done all that I have done in it without cause,” says the Lord Yahweh."
+      "text": "They will comfort you, when you see their way and their doings; then you will know that I have not done all that I have done in it without cause,” says the Lord the LORD."
     },
     {
       "chapter": 15,
       "verse": 1,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 15,
@@ -1485,22 +1485,22 @@
     {
       "chapter": 15,
       "verse": 6,
-      "text": "Therefore the Lord Yahweh says: “As the vine wood among the trees of the forest, which I have given to the fire for fuel, so I will give the inhabitants of Jerusalem."
+      "text": "Therefore the Lord the LORD says: “As the vine wood among the trees of the forest, which I have given to the fire for fuel, so I will give the inhabitants of Jerusalem."
     },
     {
       "chapter": 15,
       "verse": 7,
-      "text": "I will set my face against them. They will go out from the fire, but the fire will still devour them. Then you will know that I am Yahweh, when I set my face against them."
+      "text": "I will set my face against them. They will go out from the fire, but the fire will still devour them. Then you will know that I am the LORD, when I set my face against them."
     },
     {
       "chapter": 15,
       "verse": 8,
-      "text": "I will make the land desolate, because they have acted unfaithfully,” says the Lord Yahweh."
+      "text": "I will make the land desolate, because they have acted unfaithfully,” says the Lord the LORD."
     },
     {
       "chapter": 16,
       "verse": 1,
-      "text": "Again Yahweh’s word came to me, saying,"
+      "text": "Again the LORD’s word came to me, saying,"
     },
     {
       "chapter": 16,
@@ -1510,7 +1510,7 @@
     {
       "chapter": 16,
       "verse": 3,
-      "text": "and say, ‘The Lord Yahweh says to Jerusalem: “Your origin and your birth is of the land of the Canaanite. An Amorite was your father, and your mother was a Hittite."
+      "text": "and say, ‘The Lord the LORD says to Jerusalem: “Your origin and your birth is of the land of the Canaanite. An Amorite was your father, and your mother was a Hittite."
     },
     {
       "chapter": 16,
@@ -1535,7 +1535,7 @@
     {
       "chapter": 16,
       "verse": 8,
-      "text": "“ ‘ “Now when I passed by you, and looked at you, behold, your time was the time of love; and I spread my garment over you and covered your nakedness. Yes, I pledged myself to you and entered into a covenant with you,” says the Lord Yahweh, “and you became mine."
+      "text": "“ ‘ “Now when I passed by you, and looked at you, behold, your time was the time of love; and I spread my garment over you and covered your nakedness. Yes, I pledged myself to you and entered into a covenant with you,” says the Lord the LORD, “and you became mine."
     },
     {
       "chapter": 16,
@@ -1565,7 +1565,7 @@
     {
       "chapter": 16,
       "verse": 14,
-      "text": "Your renown went out among the nations for your beauty; for it was perfect, through my majesty which I had put on you,” says the Lord Yahweh."
+      "text": "Your renown went out among the nations for your beauty; for it was perfect, through my majesty which I had put on you,” says the Lord the LORD."
     },
     {
       "chapter": 16,
@@ -1590,7 +1590,7 @@
     {
       "chapter": 16,
       "verse": 19,
-      "text": "My bread also which I gave you, fine flour, oil, and honey, with which I fed you, you even set it before them for a pleasant aroma; and so it was,” says the Lord Yahweh."
+      "text": "My bread also which I gave you, fine flour, oil, and honey, with which I fed you, you even set it before them for a pleasant aroma; and so it was,” says the Lord the LORD."
     },
     {
       "chapter": 16,
@@ -1610,7 +1610,7 @@
     {
       "chapter": 16,
       "verse": 23,
-      "text": "“ ‘ “It has happened after all your wickedness—woe, woe to you!” says the Lord Yahweh—"
+      "text": "“ ‘ “It has happened after all your wickedness—woe, woe to you!” says the Lord the LORD—"
     },
     {
       "chapter": 16,
@@ -1645,7 +1645,7 @@
     {
       "chapter": 16,
       "verse": 30,
-      "text": "“ ‘ “How weak is your heart,” says the Lord Yahweh, “since you do all these things, the work of an impudent prostitute;"
+      "text": "“ ‘ “How weak is your heart,” says the Lord the LORD, “since you do all these things, the work of an impudent prostitute;"
     },
     {
       "chapter": 16,
@@ -1670,12 +1670,12 @@
     {
       "chapter": 16,
       "verse": 35,
-      "text": "“Therefore, prostitute, hear Yahweh’s word:"
+      "text": "“Therefore, prostitute, hear the LORD’s word:"
     },
     {
       "chapter": 16,
       "verse": 36,
-      "text": "‘The Lord Yahweh says, “Because your filthiness was poured out, and your nakedness uncovered through your prostitution with your lovers; and because of all the idols of your abominations, and for the blood of your children, that you gave to them;"
+      "text": "‘The Lord the LORD says, “Because your filthiness was poured out, and your nakedness uncovered through your prostitution with your lovers; and because of all the idols of your abominations, and for the blood of your children, that you gave to them;"
     },
     {
       "chapter": 16,
@@ -1710,7 +1710,7 @@
     {
       "chapter": 16,
       "verse": 43,
-      "text": "“ ‘ “Because you have not remembered the days of your youth, but have raged against me in all these things; therefore, behold, I also will bring your way on your head,” says the Lord Yahweh: “and you shall not commit this lewdness with all your abominations."
+      "text": "“ ‘ “Because you have not remembered the days of your youth, but have raged against me in all these things; therefore, behold, I also will bring your way on your head,” says the Lord the LORD: “and you shall not commit this lewdness with all your abominations."
     },
     {
       "chapter": 16,
@@ -1735,7 +1735,7 @@
     {
       "chapter": 16,
       "verse": 48,
-      "text": "As I live,” says the Lord Yahweh, “Sodom your sister has not done, she nor her daughters, as you have done, you and your daughters."
+      "text": "As I live,” says the Lord the LORD, “Sodom your sister has not done, she nor her daughters, as you have done, you and your daughters."
     },
     {
       "chapter": 16,
@@ -1785,12 +1785,12 @@
     {
       "chapter": 16,
       "verse": 58,
-      "text": "You have borne your lewdness and your abominations,” says Yahweh."
+      "text": "You have borne your lewdness and your abominations,” says the LORD."
     },
     {
       "chapter": 16,
       "verse": 59,
-      "text": "“ ‘For the Lord Yahweh says: “I will also deal with you as you have done, who have despised the oath in breaking the covenant."
+      "text": "“ ‘For the Lord the LORD says: “I will also deal with you as you have done, who have despised the oath in breaking the covenant."
     },
     {
       "chapter": 16,
@@ -1805,17 +1805,17 @@
     {
       "chapter": 16,
       "verse": 62,
-      "text": "I will establish my covenant with you. Then you will know that I am Yahweh;"
+      "text": "I will establish my covenant with you. Then you will know that I am the LORD;"
     },
     {
       "chapter": 16,
       "verse": 63,
-      "text": "that you may remember, and be confounded, and never open your mouth any more because of your shame, when I have forgiven you all that you have done,” says the Lord Yahweh.’ ”"
+      "text": "that you may remember, and be confounded, and never open your mouth any more because of your shame, when I have forgiven you all that you have done,” says the Lord the LORD.’ ”"
     },
     {
       "chapter": 17,
       "verse": 1,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 17,
@@ -1825,7 +1825,7 @@
     {
       "chapter": 17,
       "verse": 3,
-      "text": "and say, ‘The Lord Yahweh says: “A great eagle with great wings and long feathers, full of feathers which had various colors, came to Lebanon and took the top of the cedar."
+      "text": "and say, ‘The Lord the LORD says: “A great eagle with great wings and long feathers, full of feathers which had various colors, came to Lebanon and took the top of the cedar."
     },
     {
       "chapter": 17,
@@ -1855,7 +1855,7 @@
     {
       "chapter": 17,
       "verse": 9,
-      "text": "“Say, ‘The Lord Yahweh says: “Will it prosper? Won’t he pull up its roots and cut off its fruit, that it may wither, that all its fresh springing leaves may wither? It can’t be raised from its roots by a strong arm or many people."
+      "text": "“Say, ‘The Lord the LORD says: “Will it prosper? Won’t he pull up its roots and cut off its fruit, that it may wither, that all its fresh springing leaves may wither? It can’t be raised from its roots by a strong arm or many people."
     },
     {
       "chapter": 17,
@@ -1865,7 +1865,7 @@
     {
       "chapter": 17,
       "verse": 11,
-      "text": "Moreover Yahweh’s word came to me, saying,"
+      "text": "Moreover the LORD’s word came to me, saying,"
     },
     {
       "chapter": 17,
@@ -1890,7 +1890,7 @@
     {
       "chapter": 17,
       "verse": 16,
-      "text": "“ ‘As I live,’ says the Lord Yahweh, ‘surely in the place where the king dwells who made him king, whose oath he despised, and whose covenant he broke, even with him in the middle of Babylon he will die."
+      "text": "“ ‘As I live,’ says the Lord the LORD, ‘surely in the place where the king dwells who made him king, whose oath he despised, and whose covenant he broke, even with him in the middle of Babylon he will die."
     },
     {
       "chapter": 17,
@@ -1905,7 +1905,7 @@
     {
       "chapter": 17,
       "verse": 19,
-      "text": "“Therefore the Lord Yahweh says: ‘As I live, I will surely bring on his own head my oath that he has despised and my covenant that he has broken."
+      "text": "“Therefore the Lord the LORD says: ‘As I live, I will surely bring on his own head my oath that he has despised and my covenant that he has broken."
     },
     {
       "chapter": 17,
@@ -1915,12 +1915,12 @@
     {
       "chapter": 17,
       "verse": 21,
-      "text": "All his fugitives in all his bands will fall by the sword, and those who remain will be scattered toward every wind. Then you will know that I, Yahweh, have spoken it.’"
+      "text": "All his fugitives in all his bands will fall by the sword, and those who remain will be scattered toward every wind. Then you will know that I, the LORD, have spoken it.’"
     },
     {
       "chapter": 17,
       "verse": 22,
-      "text": "“The Lord Yahweh says: ‘I will also take some of the lofty top of the cedar, and will plant it. I will crop off from the topmost of its young twigs a tender one, and I will plant it on a high and lofty mountain."
+      "text": "“The Lord the LORD says: ‘I will also take some of the lofty top of the cedar, and will plant it. I will crop off from the topmost of its young twigs a tender one, and I will plant it on a high and lofty mountain."
     },
     {
       "chapter": 17,
@@ -1930,12 +1930,12 @@
     {
       "chapter": 17,
       "verse": 24,
-      "text": "All the trees of the field will know that I, Yahweh, have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree flourish. “ ‘I, Yahweh, have spoken and have done it.’ ”"
+      "text": "All the trees of the field will know that I, the LORD, have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree flourish. “ ‘I, the LORD, have spoken and have done it.’ ”"
     },
     {
       "chapter": 18,
       "verse": 1,
-      "text": "Yahweh’s word came to me again, saying,"
+      "text": "The LORD’s word came to me again, saying,"
     },
     {
       "chapter": 18,
@@ -1945,7 +1945,7 @@
     {
       "chapter": 18,
       "verse": 3,
-      "text": "“As I live,” says the Lord Yahweh, “you shall not use this proverb any more in Israel."
+      "text": "“As I live,” says the Lord the LORD, “you shall not use this proverb any more in Israel."
     },
     {
       "chapter": 18,
@@ -1975,7 +1975,7 @@
     {
       "chapter": 18,
       "verse": 9,
-      "text": "has walked in my statutes, and has kept my ordinances, to deal truly; he is just, he shall surely live,” says the Lord Yahweh."
+      "text": "has walked in my statutes, and has kept my ordinances, to deal truly; he is just, he shall surely live,” says the Lord the LORD."
     },
     {
       "chapter": 18,
@@ -2045,7 +2045,7 @@
     {
       "chapter": 18,
       "verse": 23,
-      "text": "Have I any pleasure in the death of the wicked?” says the Lord Yahweh, “and not rather that he should return from his way, and live?"
+      "text": "Have I any pleasure in the death of the wicked?” says the Lord the LORD, “and not rather that he should return from his way, and live?"
     },
     {
       "chapter": 18,
@@ -2080,7 +2080,7 @@
     {
       "chapter": 18,
       "verse": 30,
-      "text": "“Therefore I will judge you, house of Israel, everyone according to his ways,” says the Lord Yahweh. “Return, and turn yourselves from all your transgressions, so iniquity will not be your ruin."
+      "text": "“Therefore I will judge you, house of Israel, everyone according to his ways,” says the Lord the LORD. “Return, and turn yourselves from all your transgressions, so iniquity will not be your ruin."
     },
     {
       "chapter": 18,
@@ -2090,7 +2090,7 @@
     {
       "chapter": 18,
       "verse": 32,
-      "text": "For I have no pleasure in the death of him who dies,” says the Lord Yahweh. “Therefore turn yourselves, and live!"
+      "text": "For I have no pleasure in the death of him who dies,” says the Lord the LORD. “Therefore turn yourselves, and live!"
     },
     {
       "chapter": 19,
@@ -2165,17 +2165,17 @@
     {
       "chapter": 20,
       "verse": 1,
-      "text": "In the seventh year, in the fifth month, the tenth day of the month, some of the elders of Israel came to inquire of Yahweh, and sat before me."
+      "text": "In the seventh year, in the fifth month, the tenth day of the month, some of the elders of Israel came to inquire of the LORD, and sat before me."
     },
     {
       "chapter": 20,
       "verse": 2,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 20,
       "verse": 3,
-      "text": "“Son of man, speak to the elders of Israel, and tell them, ‘The Lord Yahweh says: “Is it to inquire of me that you have come? As I live,” says the Lord Yahweh, “I will not be inquired of by you.” ’"
+      "text": "“Son of man, speak to the elders of Israel, and tell them, ‘The Lord the LORD says: “Is it to inquire of me that you have come? As I live,” says the Lord the LORD, “I will not be inquired of by you.” ’"
     },
     {
       "chapter": 20,
@@ -2185,7 +2185,7 @@
     {
       "chapter": 20,
       "verse": 5,
-      "text": "Tell them, ‘The Lord Yahweh says: “In the day when I chose Israel, and swore to the offspring of the house of Jacob, and made myself known to them in the land of Egypt, when I swore to them, saying, ‘I am Yahweh your God;’"
+      "text": "Tell them, ‘The Lord the LORD says: “In the day when I chose Israel, and swore to the offspring of the house of Jacob, and made myself known to them in the land of Egypt, when I swore to them, saying, ‘I am the LORD your God;’"
     },
     {
       "chapter": 20,
@@ -2195,7 +2195,7 @@
     {
       "chapter": 20,
       "verse": 7,
-      "text": "I said to them, ‘Each of you throw away the abominations of his eyes. Don’t defile yourselves with the idols of Egypt. I am Yahweh your God.’"
+      "text": "I said to them, ‘Each of you throw away the abominations of his eyes. Don’t defile yourselves with the idols of Egypt. I am the LORD your God.’"
     },
     {
       "chapter": 20,
@@ -2220,7 +2220,7 @@
     {
       "chapter": 20,
       "verse": 12,
-      "text": "Moreover also I gave them my Sabbaths, to be a sign between me and them, that they might know that I am Yahweh who sanctifies them."
+      "text": "Moreover also I gave them my Sabbaths, to be a sign between me and them, that they might know that I am the LORD who sanctifies them."
     },
     {
       "chapter": 20,
@@ -2255,12 +2255,12 @@
     {
       "chapter": 20,
       "verse": 19,
-      "text": "I am Yahweh your God. Walk in my statutes, keep my ordinances, and do them."
+      "text": "I am the LORD your God. Walk in my statutes, keep my ordinances, and do them."
     },
     {
       "chapter": 20,
       "verse": 20,
-      "text": "Make my Sabbaths holy. They shall be a sign between me and you, that you may know that I am Yahweh your God.’"
+      "text": "Make my Sabbaths holy. They shall be a sign between me and you, that you may know that I am the LORD your God.’"
     },
     {
       "chapter": 20,
@@ -2290,12 +2290,12 @@
     {
       "chapter": 20,
       "verse": 26,
-      "text": "I polluted them in their own gifts, in that they caused all that opens the womb to pass through the fire, that I might make them desolate, to the end that they might know that I am Yahweh.” ’"
+      "text": "I polluted them in their own gifts, in that they caused all that opens the womb to pass through the fire, that I might make them desolate, to the end that they might know that I am the LORD.” ’"
     },
     {
       "chapter": 20,
       "verse": 27,
-      "text": "“Therefore, son of man, speak to the house of Israel, and tell them, ‘The Lord Yahweh says: “Moreover, in this your fathers have blasphemed me, in that they have committed a trespass against me."
+      "text": "“Therefore, son of man, speak to the house of Israel, and tell them, ‘The Lord the LORD says: “Moreover, in this your fathers have blasphemed me, in that they have committed a trespass against me."
     },
     {
       "chapter": 20,
@@ -2310,12 +2310,12 @@
     {
       "chapter": 20,
       "verse": 30,
-      "text": "“Therefore tell the house of Israel, ‘The Lord Yahweh says: “Do you pollute yourselves in the way of your fathers? Do you play the prostitute after their abominations?"
+      "text": "“Therefore tell the house of Israel, ‘The Lord the LORD says: “Do you pollute yourselves in the way of your fathers? Do you play the prostitute after their abominations?"
     },
     {
       "chapter": 20,
       "verse": 31,
-      "text": "When you offer your gifts, when you make your sons pass through the fire, do you pollute yourselves with all your idols to this day? Should I be inquired of by you, house of Israel? As I live, says the Lord Yahweh, I will not be inquired of by you!"
+      "text": "When you offer your gifts, when you make your sons pass through the fire, do you pollute yourselves with all your idols to this day? Should I be inquired of by you, house of Israel? As I live, says the Lord the LORD, I will not be inquired of by you!"
     },
     {
       "chapter": 20,
@@ -2325,7 +2325,7 @@
     {
       "chapter": 20,
       "verse": 33,
-      "text": "As I live,” says the Lord Yahweh, “surely with a mighty hand, with an outstretched arm, and with wrath poured out, I will be king over you."
+      "text": "As I live,” says the Lord the LORD, “surely with a mighty hand, with an outstretched arm, and with wrath poured out, I will be king over you."
     },
     {
       "chapter": 20,
@@ -2340,7 +2340,7 @@
     {
       "chapter": 20,
       "verse": 36,
-      "text": "Just as I entered into judgment with your fathers in the wilderness of the land of Egypt, so I will enter into judgment with you,” says the Lord Yahweh."
+      "text": "Just as I entered into judgment with your fathers in the wilderness of the land of Egypt, so I will enter into judgment with you,” says the Lord the LORD."
     },
     {
       "chapter": 20,
@@ -2350,17 +2350,17 @@
     {
       "chapter": 20,
       "verse": 38,
-      "text": "I will purge out from among you the rebels and those who disobey me. I will bring them out of the land where they live, but they shall not enter into the land of Israel. Then you will know that I am Yahweh.”"
+      "text": "I will purge out from among you the rebels and those who disobey me. I will bring them out of the land where they live, but they shall not enter into the land of Israel. Then you will know that I am the LORD.”"
     },
     {
       "chapter": 20,
       "verse": 39,
-      "text": "“ ‘As for you, house of Israel, the Lord Yahweh says: “Go, everyone serve his idols, and hereafter also, if you will not listen to me; but you shall no more profane my holy name with your gifts and with your idols."
+      "text": "“ ‘As for you, house of Israel, the Lord the LORD says: “Go, everyone serve his idols, and hereafter also, if you will not listen to me; but you shall no more profane my holy name with your gifts and with your idols."
     },
     {
       "chapter": 20,
       "verse": 40,
-      "text": "For in my holy mountain, in the mountain of the height of Israel,” says the Lord Yahweh, “there all the house of Israel, all of them, shall serve me in the land. There I will accept them, and there I will require your offerings and the first fruits of your offerings, with all your holy things."
+      "text": "For in my holy mountain, in the mountain of the height of Israel,” says the Lord the LORD, “there all the house of Israel, all of them, shall serve me in the land. There I will accept them, and there I will require your offerings and the first fruits of your offerings, with all your holy things."
     },
     {
       "chapter": 20,
@@ -2370,7 +2370,7 @@
     {
       "chapter": 20,
       "verse": 42,
-      "text": "You will know that I am Yahweh when I bring you into the land of Israel, into the country which I swore to give to your fathers."
+      "text": "You will know that I am the LORD when I bring you into the land of Israel, into the country which I swore to give to your fathers."
     },
     {
       "chapter": 20,
@@ -2380,12 +2380,12 @@
     {
       "chapter": 20,
       "verse": 44,
-      "text": "You will know that I am Yahweh, when I have dealt with you for my name’s sake, not according to your evil ways, nor according to your corrupt doings, you house of Israel,” says the Lord Yahweh.’ ”"
+      "text": "You will know that I am the LORD, when I have dealt with you for my name’s sake, not according to your evil ways, nor according to your corrupt doings, you house of Israel,” says the Lord the LORD.’ ”"
     },
     {
       "chapter": 20,
       "verse": 45,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 20,
@@ -2395,22 +2395,22 @@
     {
       "chapter": 20,
       "verse": 47,
-      "text": "Tell the forest of the south, ‘Hear Yahweh’s word: The Lord Yahweh says, “Behold, I will kindle a fire in you, and it will devour every green tree in you, and every dry tree. The burning flame will not be quenched, and all faces from the south to the north will be burned by it."
+      "text": "Tell the forest of the south, ‘Hear the LORD’s word: The Lord the LORD says, “Behold, I will kindle a fire in you, and it will devour every green tree in you, and every dry tree. The burning flame will not be quenched, and all faces from the south to the north will be burned by it."
     },
     {
       "chapter": 20,
       "verse": 48,
-      "text": "All flesh will see that I, Yahweh, have kindled it. It will not be quenched.” ’ ”"
+      "text": "All flesh will see that I, the LORD, have kindled it. It will not be quenched.” ’ ”"
     },
     {
       "chapter": 20,
       "verse": 49,
-      "text": "Then I said, “Ah Lord Yahweh! They say of me, ‘Isn’t he a speaker of parables?’ ”"
+      "text": "Then I said, “Ah Lord the LORD! They say of me, ‘Isn’t he a speaker of parables?’ ”"
     },
     {
       "chapter": 21,
       "verse": 1,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 21,
@@ -2420,7 +2420,7 @@
     {
       "chapter": 21,
       "verse": 3,
-      "text": "Tell the land of Israel, ‘Yahweh says: “Behold, I am against you, and will draw my sword out of its sheath, and will cut off from you the righteous and the wicked."
+      "text": "Tell the land of Israel, ‘The LORD says: “Behold, I am against you, and will draw my sword out of its sheath, and will cut off from you the righteous and the wicked."
     },
     {
       "chapter": 21,
@@ -2430,7 +2430,7 @@
     {
       "chapter": 21,
       "verse": 5,
-      "text": "All flesh will know that I, Yahweh, have drawn my sword out of its sheath. It will not return any more.” ’"
+      "text": "All flesh will know that I, the LORD, have drawn my sword out of its sheath. It will not return any more.” ’"
     },
     {
       "chapter": 21,
@@ -2440,17 +2440,17 @@
     {
       "chapter": 21,
       "verse": 7,
-      "text": "It shall be, when they ask you, ‘Why do you sigh?’ that you shall say, ‘Because of the news, for it comes! Every heart will melt, all hands will be feeble, every spirit will faint, and all knees will be weak as water. Behold, it comes, and it shall be done, says the Lord Yahweh.’ ”"
+      "text": "It shall be, when they ask you, ‘Why do you sigh?’ that you shall say, ‘Because of the news, for it comes! Every heart will melt, all hands will be feeble, every spirit will faint, and all knees will be weak as water. Behold, it comes, and it shall be done, says the Lord the LORD.’ ”"
     },
     {
       "chapter": 21,
       "verse": 8,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 21,
       "verse": 9,
-      "text": "“Son of man, prophesy, and say, ‘Yahweh says: “A sword! A sword! It is sharpened, and also polished."
+      "text": "“Son of man, prophesy, and say, ‘The LORD says: “A sword! A sword! It is sharpened, and also polished."
     },
     {
       "chapter": 21,
@@ -2470,7 +2470,7 @@
     {
       "chapter": 21,
       "verse": 13,
-      "text": "“For there is a trial. What if even the rod that condemns will be no more?” says the Lord Yahweh."
+      "text": "“For there is a trial. What if even the rod that condemns will be no more?” says the Lord the LORD."
     },
     {
       "chapter": 21,
@@ -2490,12 +2490,12 @@
     {
       "chapter": 21,
       "verse": 17,
-      "text": "I will also strike my hands together, and I will cause my wrath to rest. I, Yahweh, have spoken it.”"
+      "text": "I will also strike my hands together, and I will cause my wrath to rest. I, the LORD, have spoken it.”"
     },
     {
       "chapter": 21,
       "verse": 18,
-      "text": "Yahweh’s word came to me again, saying,"
+      "text": "The LORD’s word came to me again, saying,"
     },
     {
       "chapter": 21,
@@ -2525,7 +2525,7 @@
     {
       "chapter": 21,
       "verse": 24,
-      "text": "“Therefore the Lord Yahweh says: ‘Because you have caused your iniquity to be remembered, in that your transgressions are uncovered, so that in all your doings your sins appear; because you have come to memory, you will be taken with the hand."
+      "text": "“Therefore the Lord the LORD says: ‘Because you have caused your iniquity to be remembered, in that your transgressions are uncovered, so that in all your doings your sins appear; because you have come to memory, you will be taken with the hand."
     },
     {
       "chapter": 21,
@@ -2535,7 +2535,7 @@
     {
       "chapter": 21,
       "verse": 26,
-      "text": "the Lord Yahweh says: “Remove the turban, and take off the crown. This will not be as it was. Exalt that which is low, and humble that which is high."
+      "text": "the Lord the LORD says: “Remove the turban, and take off the crown. This will not be as it was. Exalt that which is low, and humble that which is high."
     },
     {
       "chapter": 21,
@@ -2545,7 +2545,7 @@
     {
       "chapter": 21,
       "verse": 28,
-      "text": "“You, son of man, prophesy and say, ‘The Lord Yahweh says this concerning the children of Ammon, and concerning their reproach: “A sword! A sword is drawn! It is polished for the slaughter, to cause it to devour, that it may be as lightning;"
+      "text": "“You, son of man, prophesy and say, ‘The Lord the LORD says this concerning the children of Ammon, and concerning their reproach: “A sword! A sword is drawn! It is polished for the slaughter, to cause it to devour, that it may be as lightning;"
     },
     {
       "chapter": 21,
@@ -2565,12 +2565,12 @@
     {
       "chapter": 21,
       "verse": 32,
-      "text": "You will be for fuel to the fire. Your blood will be in the middle of the land. You will be remembered no more; for I, Yahweh, have spoken it.” ’ ”"
+      "text": "You will be for fuel to the fire. Your blood will be in the middle of the land. You will be remembered no more; for I, the LORD, have spoken it.” ’ ”"
     },
     {
       "chapter": 22,
       "verse": 1,
-      "text": "Moreover Yahweh’s word came to me, saying,"
+      "text": "Moreover the LORD’s word came to me, saying,"
     },
     {
       "chapter": 22,
@@ -2580,7 +2580,7 @@
     {
       "chapter": 22,
       "verse": 3,
-      "text": "You shall say, ‘The Lord Yahweh says: “A city that sheds blood within herself, that her time may come, and that makes idols against herself to defile her!"
+      "text": "You shall say, ‘The Lord the LORD says: “A city that sheds blood within herself, that her time may come, and that makes idols against herself to defile her!"
     },
     {
       "chapter": 22,
@@ -2625,7 +2625,7 @@
     {
       "chapter": 22,
       "verse": 12,
-      "text": "In you have they taken bribes to shed blood. You have taken interest and increase, and you have greedily gained of your neighbors by oppression, and have forgotten me,” says the Lord Yahweh."
+      "text": "In you have they taken bribes to shed blood. You have taken interest and increase, and you have greedily gained of your neighbors by oppression, and have forgotten me,” says the Lord the LORD."
     },
     {
       "chapter": 22,
@@ -2635,7 +2635,7 @@
     {
       "chapter": 22,
       "verse": 14,
-      "text": "Can your heart endure, or can your hands be strong, in the days that I will deal with you? I, Yahweh, have spoken it, and will do it."
+      "text": "Can your heart endure, or can your hands be strong, in the days that I will deal with you? I, the LORD, have spoken it, and will do it."
     },
     {
       "chapter": 22,
@@ -2645,12 +2645,12 @@
     {
       "chapter": 22,
       "verse": 16,
-      "text": "You will be profaned in yourself in the sight of the nations. Then you will know that I am Yahweh.” ’ ”"
+      "text": "You will be profaned in yourself in the sight of the nations. Then you will know that I am the LORD.” ’ ”"
     },
     {
       "chapter": 22,
       "verse": 17,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 22,
@@ -2660,7 +2660,7 @@
     {
       "chapter": 22,
       "verse": 19,
-      "text": "Therefore the Lord Yahweh says: ‘Because you have all become dross, therefore, behold, I will gather you into the middle of Jerusalem."
+      "text": "Therefore the Lord the LORD says: ‘Because you have all become dross, therefore, behold, I will gather you into the middle of Jerusalem."
     },
     {
       "chapter": 22,
@@ -2675,12 +2675,12 @@
     {
       "chapter": 22,
       "verse": 22,
-      "text": "As silver is melted in the middle of the furnace, so you will be melted in the middle of it; and you will know that I, Yahweh, have poured out my wrath on you.’ ”"
+      "text": "As silver is melted in the middle of the furnace, so you will be melted in the middle of it; and you will know that I, the LORD, have poured out my wrath on you.’ ”"
     },
     {
       "chapter": 22,
       "verse": 23,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 22,
@@ -2705,7 +2705,7 @@
     {
       "chapter": 22,
       "verse": 28,
-      "text": "Her prophets have plastered for them with whitewash, seeing false visions, and divining lies to them, saying, ‘The Lord Yahweh says,’ when Yahweh has not spoken."
+      "text": "Her prophets have plastered for them with whitewash, seeing false visions, and divining lies to them, saying, ‘The Lord the LORD says,’ when the LORD has not spoken."
     },
     {
       "chapter": 22,
@@ -2720,12 +2720,12 @@
     {
       "chapter": 22,
       "verse": 31,
-      "text": "Therefore I have poured out my indignation on them. I have consumed them with the fire of my wrath. I have brought their own way on their heads,” says the Lord Yahweh."
+      "text": "Therefore I have poured out my indignation on them. I have consumed them with the fire of my wrath. I have brought their own way on their heads,” says the Lord the LORD."
     },
     {
       "chapter": 23,
       "verse": 1,
-      "text": "Yahweh’s word came again to me, saying,"
+      "text": "The LORD’s word came again to me, saying,"
     },
     {
       "chapter": 23,
@@ -2830,7 +2830,7 @@
     {
       "chapter": 23,
       "verse": 22,
-      "text": "“Therefore, Oholibah, the Lord Yahweh says: ‘Behold, I will raise up your lovers against you, from whom your soul is alienated, and I will bring them against you on every side:"
+      "text": "“Therefore, Oholibah, the Lord the LORD says: ‘Behold, I will raise up your lovers against you, from whom your soul is alienated, and I will bring them against you on every side:"
     },
     {
       "chapter": 23,
@@ -2860,7 +2860,7 @@
     {
       "chapter": 23,
       "verse": 28,
-      "text": "“For the Lord Yahweh says: ‘Behold, I will deliver you into the hand of them whom you hate, into the hand of them from whom your soul is alienated."
+      "text": "“For the Lord the LORD says: ‘Behold, I will deliver you into the hand of them whom you hate, into the hand of them from whom your soul is alienated."
     },
     {
       "chapter": 23,
@@ -2880,7 +2880,7 @@
     {
       "chapter": 23,
       "verse": 32,
-      "text": "“The Lord Yahweh says: ‘You will drink of your sister’s cup, which is deep and large. You will be ridiculed and held in derision. It contains much."
+      "text": "“The Lord the LORD says: ‘You will drink of your sister’s cup, which is deep and large. You will be ridiculed and held in derision. It contains much."
     },
     {
       "chapter": 23,
@@ -2890,17 +2890,17 @@
     {
       "chapter": 23,
       "verse": 34,
-      "text": "You will even drink it and drain it out. You will gnaw the broken pieces of it, and will tear your breasts; for I have spoken it,’ says the Lord Yahweh."
+      "text": "You will even drink it and drain it out. You will gnaw the broken pieces of it, and will tear your breasts; for I have spoken it,’ says the Lord the LORD."
     },
     {
       "chapter": 23,
       "verse": 35,
-      "text": "“Therefore the Lord Yahweh says: ‘Because you have forgotten me and cast me behind your back, therefore you also bear your lewdness and your prostitution.’ ”"
+      "text": "“Therefore the Lord the LORD says: ‘Because you have forgotten me and cast me behind your back, therefore you also bear your lewdness and your prostitution.’ ”"
     },
     {
       "chapter": 23,
       "verse": 36,
-      "text": "Yahweh said moreover to me: “Son of man, will you judge Oholah and Oholibah? Then declare to them their abominations."
+      "text": "The LORD said moreover to me: “Son of man, will you judge Oholah and Oholibah? Then declare to them their abominations."
     },
     {
       "chapter": 23,
@@ -2950,7 +2950,7 @@
     {
       "chapter": 23,
       "verse": 46,
-      "text": "“For the Lord Yahweh says: ‘I will bring up a mob against them, and will give them to be tossed back and forth and robbed."
+      "text": "“For the Lord the LORD says: ‘I will bring up a mob against them, and will give them to be tossed back and forth and robbed."
     },
     {
       "chapter": 23,
@@ -2965,12 +2965,12 @@
     {
       "chapter": 23,
       "verse": 49,
-      "text": "They will recompense your lewdness on you, and you will bear the sins of your idols. Then you will know that I am the Lord Yahweh.’ ”"
+      "text": "They will recompense your lewdness on you, and you will bear the sins of your idols. Then you will know that I am the Lord the LORD.’ ”"
     },
     {
       "chapter": 24,
       "verse": 1,
-      "text": "Again, in the ninth year, in the tenth month, in the tenth day of the month, Yahweh’s word came to me, saying,"
+      "text": "Again, in the ninth year, in the tenth month, in the tenth day of the month, the LORD’s word came to me, saying,"
     },
     {
       "chapter": 24,
@@ -2980,7 +2980,7 @@
     {
       "chapter": 24,
       "verse": 3,
-      "text": "Utter a parable to the rebellious house, and tell them, ‘The Lord Yahweh says, “Put the cauldron on the fire. Put it on, and also pour water into it."
+      "text": "Utter a parable to the rebellious house, and tell them, ‘The Lord the LORD says, “Put the cauldron on the fire. Put it on, and also pour water into it."
     },
     {
       "chapter": 24,
@@ -2995,7 +2995,7 @@
     {
       "chapter": 24,
       "verse": 6,
-      "text": "“ ‘Therefore the Lord Yahweh says: “Woe to the bloody city, to the cauldron whose rust is in it, and whose rust hasn’t gone out of it! Take out of it piece after piece without casting lots for it."
+      "text": "“ ‘Therefore the Lord the LORD says: “Woe to the bloody city, to the cauldron whose rust is in it, and whose rust hasn’t gone out of it! Take out of it piece after piece without casting lots for it."
     },
     {
       "chapter": 24,
@@ -3010,7 +3010,7 @@
     {
       "chapter": 24,
       "verse": 9,
-      "text": "“ ‘Therefore the Lord Yahweh says: “Woe to the bloody city! I also will make the pile great."
+      "text": "“ ‘Therefore the Lord the LORD says: “Woe to the bloody city! I also will make the pile great."
     },
     {
       "chapter": 24,
@@ -3035,12 +3035,12 @@
     {
       "chapter": 24,
       "verse": 14,
-      "text": "“ ‘ “I, Yahweh, have spoken it. It will happen, and I will do it. I won’t go back. I won’t spare. I won’t repent. According to your ways and according to your doings, they will judge you,” says the Lord Yahweh.’ ”"
+      "text": "“ ‘ “I, the LORD, have spoken it. It will happen, and I will do it. I won’t go back. I won’t spare. I won’t repent. According to your ways and according to your doings, they will judge you,” says the Lord the LORD.’ ”"
     },
     {
       "chapter": 24,
       "verse": 15,
-      "text": "Also Yahweh’s word came to me, saying,"
+      "text": "Also the LORD’s word came to me, saying,"
     },
     {
       "chapter": 24,
@@ -3065,12 +3065,12 @@
     {
       "chapter": 24,
       "verse": 20,
-      "text": "Then I said to them, “Yahweh’s word came to me, saying,"
+      "text": "Then I said to them, “The LORD’s word came to me, saying,"
     },
     {
       "chapter": 24,
       "verse": 21,
-      "text": "‘Speak to the house of Israel, “The Lord Yahweh says: ‘Behold, I will profane my sanctuary, the pride of your power, the desire of your eyes, and that which your soul pities; and your sons and your daughters whom you have left behind will fall by the sword."
+      "text": "‘Speak to the house of Israel, “The Lord the LORD says: ‘Behold, I will profane my sanctuary, the pride of your power, the desire of your eyes, and that which your soul pities; and your sons and your daughters whom you have left behind will fall by the sword."
     },
     {
       "chapter": 24,
@@ -3085,7 +3085,7 @@
     {
       "chapter": 24,
       "verse": 24,
-      "text": "Thus Ezekiel will be a sign to you; according to all that he has done, you will do. When this comes, then you will know that I am the Lord Yahweh.’ ” ’ ”"
+      "text": "Thus Ezekiel will be a sign to you; according to all that he has done, you will do. When this comes, then you will know that I am the Lord the LORD.’ ” ’ ”"
     },
     {
       "chapter": 24,
@@ -3100,12 +3100,12 @@
     {
       "chapter": 24,
       "verse": 27,
-      "text": "In that day your mouth will be opened to him who has escaped, and you will speak and be no more mute. So you will be a sign to them. Then they will know that I am Yahweh.”"
+      "text": "In that day your mouth will be opened to him who has escaped, and you will speak and be no more mute. So you will be a sign to them. Then they will know that I am the LORD.”"
     },
     {
       "chapter": 25,
       "verse": 1,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 25,
@@ -3115,7 +3115,7 @@
     {
       "chapter": 25,
       "verse": 3,
-      "text": "Tell the children of Ammon, ‘Hear the word of the Lord Yahweh! The Lord Yahweh says, “Because you said, ‘Aha!’ against my sanctuary when it was profaned, and against the land of Israel when it was made desolate, and against the house of Judah when they went into captivity,"
+      "text": "Tell the children of Ammon, ‘Hear the word of the Lord the LORD! The Lord the LORD says, “Because you said, ‘Aha!’ against my sanctuary when it was profaned, and against the land of Israel when it was made desolate, and against the house of Judah when they went into captivity,"
     },
     {
       "chapter": 25,
@@ -3125,22 +3125,22 @@
     {
       "chapter": 25,
       "verse": 5,
-      "text": "I will make Rabbah a stable for camels and the children of Ammon a resting place for flocks. Then you will know that I am Yahweh.”"
+      "text": "I will make Rabbah a stable for camels and the children of Ammon a resting place for flocks. Then you will know that I am the LORD.”"
     },
     {
       "chapter": 25,
       "verse": 6,
-      "text": "For the Lord Yahweh says: “Because you have clapped your hands, stamped with the feet, and rejoiced with all the contempt of your soul against the land of Israel,"
+      "text": "For the Lord the LORD says: “Because you have clapped your hands, stamped with the feet, and rejoiced with all the contempt of your soul against the land of Israel,"
     },
     {
       "chapter": 25,
       "verse": 7,
-      "text": "therefore, behold, I have stretched out my hand on you, and will deliver you for a plunder to the nations. I will cut you off from the peoples, and I will cause you to perish out of the countries. I will destroy you. Then you will know that I am Yahweh.”"
+      "text": "therefore, behold, I have stretched out my hand on you, and will deliver you for a plunder to the nations. I will cut you off from the peoples, and I will cause you to perish out of the countries. I will destroy you. Then you will know that I am the LORD.”"
     },
     {
       "chapter": 25,
       "verse": 8,
-      "text": "“ ‘The Lord Yahweh says: “Because Moab and Seir say, ‘Behold, the house of Judah is like all the nations,’"
+      "text": "“ ‘The Lord the LORD says: “Because Moab and Seir say, ‘Behold, the house of Judah is like all the nations,’"
     },
     {
       "chapter": 25,
@@ -3155,42 +3155,42 @@
     {
       "chapter": 25,
       "verse": 11,
-      "text": "I will execute judgments on Moab. Then they will know that I am Yahweh.”"
+      "text": "I will execute judgments on Moab. Then they will know that I am the LORD.”"
     },
     {
       "chapter": 25,
       "verse": 12,
-      "text": "“ ‘The Lord Yahweh says: “Because Edom has dealt against the house of Judah by taking vengeance, and has greatly offended, and taken revenge on them,”"
+      "text": "“ ‘The Lord the LORD says: “Because Edom has dealt against the house of Judah by taking vengeance, and has greatly offended, and taken revenge on them,”"
     },
     {
       "chapter": 25,
       "verse": 13,
-      "text": "therefore the Lord Yahweh says, “I will stretch out my hand on Edom, and will cut off man and animal from it; and I will make it desolate from Teman. They will fall by the sword even to Dedan."
+      "text": "therefore the Lord the LORD says, “I will stretch out my hand on Edom, and will cut off man and animal from it; and I will make it desolate from Teman. They will fall by the sword even to Dedan."
     },
     {
       "chapter": 25,
       "verse": 14,
-      "text": "I will lay my vengeance on Edom by the hand of my people Israel. They will do in Edom according to my anger and according to my wrath. Then they will know my vengeance,” says the Lord Yahweh."
+      "text": "I will lay my vengeance on Edom by the hand of my people Israel. They will do in Edom according to my anger and according to my wrath. Then they will know my vengeance,” says the Lord the LORD."
     },
     {
       "chapter": 25,
       "verse": 15,
-      "text": "“ ‘The Lord Yahweh says: “Because the Philistines have taken revenge, and have taken vengeance with contempt of soul to destroy with perpetual hostility,”"
+      "text": "“ ‘The Lord the LORD says: “Because the Philistines have taken revenge, and have taken vengeance with contempt of soul to destroy with perpetual hostility,”"
     },
     {
       "chapter": 25,
       "verse": 16,
-      "text": "therefore the Lord Yahweh says, “Behold, I will stretch out my hand on the Philistines, and I will cut off the Cherethites, and destroy the remnant of the sea coast."
+      "text": "therefore the Lord the LORD says, “Behold, I will stretch out my hand on the Philistines, and I will cut off the Cherethites, and destroy the remnant of the sea coast."
     },
     {
       "chapter": 25,
       "verse": 17,
-      "text": "I will execute great vengeance on them with wrathful rebukes. Then they will know that I am Yahweh, when I lay my vengeance on them.” ’ ”"
+      "text": "I will execute great vengeance on them with wrathful rebukes. Then they will know that I am the LORD, when I lay my vengeance on them.” ’ ”"
     },
     {
       "chapter": 26,
       "verse": 1,
-      "text": "In the eleventh year, in the first of the month, Yahweh’s word came to me, saying,"
+      "text": "In the eleventh year, in the first of the month, the LORD’s word came to me, saying,"
     },
     {
       "chapter": 26,
@@ -3200,7 +3200,7 @@
     {
       "chapter": 26,
       "verse": 3,
-      "text": "therefore the Lord Yahweh says, ‘Behold, I am against you, Tyre, and will cause many nations to come up against you, as the sea causes its waves to come up."
+      "text": "therefore the Lord the LORD says, ‘Behold, I am against you, Tyre, and will cause many nations to come up against you, as the sea causes its waves to come up."
     },
     {
       "chapter": 26,
@@ -3210,17 +3210,17 @@
     {
       "chapter": 26,
       "verse": 5,
-      "text": "She will be a place for the spreading of nets in the middle of the sea; for I have spoken it,’ says the Lord Yahweh. ‘She will become plunder for the nations."
+      "text": "She will be a place for the spreading of nets in the middle of the sea; for I have spoken it,’ says the Lord the LORD. ‘She will become plunder for the nations."
     },
     {
       "chapter": 26,
       "verse": 6,
-      "text": "Her daughters who are in the field will be slain with the sword. Then they will know that I am Yahweh.’"
+      "text": "Her daughters who are in the field will be slain with the sword. Then they will know that I am the LORD.’"
     },
     {
       "chapter": 26,
       "verse": 7,
-      "text": "“For the Lord Yahweh says: ‘Behold, I will bring on Tyre Nebuchadnezzar king of Babylon, king of kings, from the north, with horses, with chariots, with horsemen, and an army with many people."
+      "text": "“For the Lord the LORD says: ‘Behold, I will bring on Tyre Nebuchadnezzar king of Babylon, king of kings, from the north, with horses, with chariots, with horsemen, and an army with many people."
     },
     {
       "chapter": 26,
@@ -3255,12 +3255,12 @@
     {
       "chapter": 26,
       "verse": 14,
-      "text": "I will make you a bare rock. You will be a place for the spreading of nets. You will be built no more; for I Yahweh have spoken it,’ says the Lord Yahweh."
+      "text": "I will make you a bare rock. You will be a place for the spreading of nets. You will be built no more; for I the LORD have spoken it,’ says the Lord the LORD."
     },
     {
       "chapter": 26,
       "verse": 15,
-      "text": "“The Lord Yahweh says to Tyre: ‘Won’t the islands shake at the sound of your fall, when the wounded groan, when the slaughter is made within you?"
+      "text": "“The Lord the LORD says to Tyre: ‘Won’t the islands shake at the sound of your fall, when the wounded groan, when the slaughter is made within you?"
     },
     {
       "chapter": 26,
@@ -3280,7 +3280,7 @@
     {
       "chapter": 26,
       "verse": 19,
-      "text": "“For the Lord Yahweh says: ‘When I make you a desolate city, like the cities that are not inhabited, when I bring up the deep on you, and the great waters cover you,"
+      "text": "“For the Lord the LORD says: ‘When I make you a desolate city, like the cities that are not inhabited, when I bring up the deep on you, and the great waters cover you,"
     },
     {
       "chapter": 26,
@@ -3290,12 +3290,12 @@
     {
       "chapter": 26,
       "verse": 21,
-      "text": "I will make you a terror, and you will no more have any being. Though you are sought for, yet you will never be found again,’ says the Lord Yahweh.”"
+      "text": "I will make you a terror, and you will no more have any being. Though you are sought for, yet you will never be found again,’ says the Lord the LORD.”"
     },
     {
       "chapter": 27,
       "verse": 1,
-      "text": "Yahweh’s word came again to me, saying,"
+      "text": "The LORD’s word came again to me, saying,"
     },
     {
       "chapter": 27,
@@ -3305,7 +3305,7 @@
     {
       "chapter": 27,
       "verse": 3,
-      "text": "and tell Tyre, ‘You who dwell at the entry of the sea, who are the merchant of the peoples to many islands, the Lord Yahweh says: “You, Tyre, have said, ‘I am perfect in beauty.’"
+      "text": "and tell Tyre, ‘You who dwell at the entry of the sea, who are the merchant of the peoples to many islands, the Lord the LORD says: “You, Tyre, have said, ‘I am perfect in beauty.’"
     },
     {
       "chapter": 27,
@@ -3475,12 +3475,12 @@
     {
       "chapter": 28,
       "verse": 1,
-      "text": "Yahweh’s word came again to me, saying,"
+      "text": "The LORD’s word came again to me, saying,"
     },
     {
       "chapter": 28,
       "verse": 2,
-      "text": "“Son of man, tell the prince of Tyre, ‘The Lord Yahweh says: “Because your heart is lifted up, and you have said, ‘I am a god, I sit in the seat of God, in the middle of the seas;’ yet you are man, and no god, though you set your heart as the heart of a god—"
+      "text": "“Son of man, tell the prince of Tyre, ‘The Lord the LORD says: “Because your heart is lifted up, and you have said, ‘I am a god, I sit in the seat of God, in the middle of the seas;’ yet you are man, and no god, though you set your heart as the heart of a god—"
     },
     {
       "chapter": 28,
@@ -3500,7 +3500,7 @@
     {
       "chapter": 28,
       "verse": 6,
-      "text": "“ ‘therefore the Lord Yahweh says: “Because you have set your heart as the heart of God,"
+      "text": "“ ‘therefore the Lord the LORD says: “Because you have set your heart as the heart of God,"
     },
     {
       "chapter": 28,
@@ -3520,17 +3520,17 @@
     {
       "chapter": 28,
       "verse": 10,
-      "text": "You will die the death of the uncircumcised by the hand of strangers; for I have spoken it,” says the Lord Yahweh.’ ”"
+      "text": "You will die the death of the uncircumcised by the hand of strangers; for I have spoken it,” says the Lord the LORD.’ ”"
     },
     {
       "chapter": 28,
       "verse": 11,
-      "text": "Moreover Yahweh’s word came to me, saying,"
+      "text": "Moreover the LORD’s word came to me, saying,"
     },
     {
       "chapter": 28,
       "verse": 12,
-      "text": "“Son of man, take up a lamentation over the king of Tyre, and tell him, ‘The Lord Yahweh says: “You were the seal of full measure, full of wisdom, and perfect in beauty."
+      "text": "“Son of man, take up a lamentation over the king of Tyre, and tell him, ‘The Lord the LORD says: “You were the seal of full measure, full of wisdom, and perfect in beauty."
     },
     {
       "chapter": 28,
@@ -3570,7 +3570,7 @@
     {
       "chapter": 28,
       "verse": 20,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 28,
@@ -3580,32 +3580,32 @@
     {
       "chapter": 28,
       "verse": 22,
-      "text": "and say, ‘The Lord Yahweh says: “Behold, I am against you, Sidon. I will be glorified among you. Then they will know that I am Yahweh, when I have executed judgments in her, and am sanctified in her."
+      "text": "and say, ‘The Lord the LORD says: “Behold, I am against you, Sidon. I will be glorified among you. Then they will know that I am the LORD, when I have executed judgments in her, and am sanctified in her."
     },
     {
       "chapter": 28,
       "verse": 23,
-      "text": "For I will send pestilence into her, and blood into her streets. The wounded will fall within her, with the sword on her on every side. Then they will know that I am Yahweh."
+      "text": "For I will send pestilence into her, and blood into her streets. The wounded will fall within her, with the sword on her on every side. Then they will know that I am the LORD."
     },
     {
       "chapter": 28,
       "verse": 24,
-      "text": "“ ‘ “There will no longer be a pricking brier to the house of Israel, nor a hurting thorn of any that are around them that scorned them. Then they will know that I am the Lord Yahweh.”"
+      "text": "“ ‘ “There will no longer be a pricking brier to the house of Israel, nor a hurting thorn of any that are around them that scorned them. Then they will know that I am the Lord the LORD.”"
     },
     {
       "chapter": 28,
       "verse": 25,
-      "text": "“ ‘The Lord Yahweh says: “When I have gathered the house of Israel from the peoples among whom they are scattered, and am shown as holy among them in the sight of the nations, then they will dwell in their own land which I gave to my servant Jacob."
+      "text": "“ ‘The Lord the LORD says: “When I have gathered the house of Israel from the peoples among whom they are scattered, and am shown as holy among them in the sight of the nations, then they will dwell in their own land which I gave to my servant Jacob."
     },
     {
       "chapter": 28,
       "verse": 26,
-      "text": "They will dwell in it securely. Yes, they will build houses, plant vineyards, and will dwell securely when I have executed judgments on all those around them who have treated them with contempt. Then they will know that I am Yahweh their God.” ’ ”"
+      "text": "They will dwell in it securely. Yes, they will build houses, plant vineyards, and will dwell securely when I have executed judgments on all those around them who have treated them with contempt. Then they will know that I am the LORD their God.” ’ ”"
     },
     {
       "chapter": 29,
       "verse": 1,
-      "text": "In the tenth year, in the tenth month, on the twelfth day of the month, Yahweh’s word came to me, saying,"
+      "text": "In the tenth year, in the tenth month, on the twelfth day of the month, the LORD’s word came to me, saying,"
     },
     {
       "chapter": 29,
@@ -3615,7 +3615,7 @@
     {
       "chapter": 29,
       "verse": 3,
-      "text": "Speak and say, ‘The Lord Yahweh says: “Behold, I am against you, Pharaoh king of Egypt, the great monster that lies in the middle of his rivers, that has said, ‘My river is my own, and I have made it for myself.’"
+      "text": "Speak and say, ‘The Lord the LORD says: “Behold, I am against you, Pharaoh king of Egypt, the great monster that lies in the middle of his rivers, that has said, ‘My river is my own, and I have made it for myself.’"
     },
     {
       "chapter": 29,
@@ -3630,7 +3630,7 @@
     {
       "chapter": 29,
       "verse": 6,
-      "text": "“ ‘ “All the inhabitants of Egypt will know that I am Yahweh, because they have been a staff of reed to the house of Israel."
+      "text": "“ ‘ “All the inhabitants of Egypt will know that I am the LORD, because they have been a staff of reed to the house of Israel."
     },
     {
       "chapter": 29,
@@ -3640,12 +3640,12 @@
     {
       "chapter": 29,
       "verse": 8,
-      "text": "“ ‘Therefore the Lord Yahweh says: “Behold, I will bring a sword on you, and will cut off man and animal from you."
+      "text": "“ ‘Therefore the Lord the LORD says: “Behold, I will bring a sword on you, and will cut off man and animal from you."
     },
     {
       "chapter": 29,
       "verse": 9,
-      "text": "The land of Egypt will be a desolation and a waste. Then they will know that I am Yahweh. “ ‘ “Because he has said, ‘The river is mine, and I have made it,’"
+      "text": "The land of Egypt will be a desolation and a waste. Then they will know that I am the LORD. “ ‘ “Because he has said, ‘The river is mine, and I have made it,’"
     },
     {
       "chapter": 29,
@@ -3665,7 +3665,7 @@
     {
       "chapter": 29,
       "verse": 13,
-      "text": "“ ‘For the Lord Yahweh says: “At the end of forty years I will gather the Egyptians from the peoples where they were scattered."
+      "text": "“ ‘For the Lord the LORD says: “At the end of forty years I will gather the Egyptians from the peoples where they were scattered."
     },
     {
       "chapter": 29,
@@ -3680,12 +3680,12 @@
     {
       "chapter": 29,
       "verse": 16,
-      "text": "It will no longer be the confidence of the house of Israel, bringing iniquity to memory, when they turn to look after them. Then they will know that I am the Lord Yahweh.” ’ ”"
+      "text": "It will no longer be the confidence of the house of Israel, bringing iniquity to memory, when they turn to look after them. Then they will know that I am the Lord the LORD.” ’ ”"
     },
     {
       "chapter": 29,
       "verse": 17,
-      "text": "It came to pass in the twenty-seventh year, in the first month, in the first day of the month, Yahweh’s word came to me, saying,"
+      "text": "It came to pass in the twenty-seventh year, in the first month, in the first day of the month, the LORD’s word came to me, saying,"
     },
     {
       "chapter": 29,
@@ -3695,32 +3695,32 @@
     {
       "chapter": 29,
       "verse": 19,
-      "text": "Therefore the Lord Yahweh says: ‘Behold, I will give the land of Egypt to Nebuchadnezzar king of Babylon. He will carry off her multitude, take her plunder, and take her prey. That will be the wages for his army."
+      "text": "Therefore the Lord the LORD says: ‘Behold, I will give the land of Egypt to Nebuchadnezzar king of Babylon. He will carry off her multitude, take her plunder, and take her prey. That will be the wages for his army."
     },
     {
       "chapter": 29,
       "verse": 20,
-      "text": "I have given him the land of Egypt as his payment for which he served, because they worked for me,’ says the Lord Yahweh."
+      "text": "I have given him the land of Egypt as his payment for which he served, because they worked for me,’ says the Lord the LORD."
     },
     {
       "chapter": 29,
       "verse": 21,
-      "text": "“In that day I will cause a horn to sprout for the house of Israel, and I will open your mouth among them. Then they will know that I am Yahweh.”"
+      "text": "“In that day I will cause a horn to sprout for the house of Israel, and I will open your mouth among them. Then they will know that I am the LORD.”"
     },
     {
       "chapter": 30,
       "verse": 1,
-      "text": "Yahweh’s word came again to me, saying,"
+      "text": "The LORD’s word came again to me, saying,"
     },
     {
       "chapter": 30,
       "verse": 2,
-      "text": "“Son of man, prophesy, and say, ‘The Lord Yahweh says: “Wail, ‘Alas for the day!’"
+      "text": "“Son of man, prophesy, and say, ‘The Lord the LORD says: “Wail, ‘Alas for the day!’"
     },
     {
       "chapter": 30,
       "verse": 3,
-      "text": "For the day is near, even Yahweh’s day is near. It will be a day of clouds, a time of the nations."
+      "text": "For the day is near, even the LORD’s day is near. It will be a day of clouds, a time of the nations."
     },
     {
       "chapter": 30,
@@ -3735,7 +3735,7 @@
     {
       "chapter": 30,
       "verse": 6,
-      "text": "“ ‘Yahweh says: “They also who uphold Egypt will fall. The pride of her power will come down. They will fall by the sword in it from the tower of Seveneh,” says the Lord Yahweh."
+      "text": "“ ‘The LORD says: “They also who uphold Egypt will fall. The pride of her power will come down. They will fall by the sword in it from the tower of Seveneh,” says the Lord the LORD."
     },
     {
       "chapter": 30,
@@ -3745,7 +3745,7 @@
     {
       "chapter": 30,
       "verse": 8,
-      "text": "They will know that I am Yahweh when I have set a fire in Egypt, and all her helpers are destroyed."
+      "text": "They will know that I am the LORD when I have set a fire in Egypt, and all her helpers are destroyed."
     },
     {
       "chapter": 30,
@@ -3755,7 +3755,7 @@
     {
       "chapter": 30,
       "verse": 10,
-      "text": "“ ‘The Lord Yahweh says: “I will also make the multitude of Egypt to cease, by the hand of Nebuchadnezzar king of Babylon."
+      "text": "“ ‘The Lord the LORD says: “I will also make the multitude of Egypt to cease, by the hand of Nebuchadnezzar king of Babylon."
     },
     {
       "chapter": 30,
@@ -3765,12 +3765,12 @@
     {
       "chapter": 30,
       "verse": 12,
-      "text": "I will make the rivers dry, and will sell the land into the hand of evil men. I will make the land desolate, and all that is therein, by the hand of foreigners. I, Yahweh, have spoken it.”"
+      "text": "I will make the rivers dry, and will sell the land into the hand of evil men. I will make the land desolate, and all that is therein, by the hand of foreigners. I, the LORD, have spoken it.”"
     },
     {
       "chapter": 30,
       "verse": 13,
-      "text": "“ ‘The Lord Yahweh says: “I will also destroy the idols, and I will cause the images to cease from Memphis. There will be no more a prince from the land of Egypt. I will put a fear in the land of Egypt."
+      "text": "“ ‘The Lord the LORD says: “I will also destroy the idols, and I will cause the images to cease from Memphis. There will be no more a prince from the land of Egypt. I will put a fear in the land of Egypt."
     },
     {
       "chapter": 30,
@@ -3800,12 +3800,12 @@
     {
       "chapter": 30,
       "verse": 19,
-      "text": "Thus I will execute judgments on Egypt. Then they will know that I am Yahweh.” ’ ”"
+      "text": "Thus I will execute judgments on Egypt. Then they will know that I am the LORD.” ’ ”"
     },
     {
       "chapter": 30,
       "verse": 20,
-      "text": "In the eleventh year, in the first month, in the seventh day of the month, Yahweh’s word came to me, saying,"
+      "text": "In the eleventh year, in the first month, in the seventh day of the month, the LORD’s word came to me, saying,"
     },
     {
       "chapter": 30,
@@ -3815,7 +3815,7 @@
     {
       "chapter": 30,
       "verse": 22,
-      "text": "Therefore the Lord Yahweh says: ‘Behold, I am against Pharaoh king of Egypt, and will break his arms, the strong arm, and that which was broken. I will cause the sword to fall out of his hand."
+      "text": "Therefore the Lord the LORD says: ‘Behold, I am against Pharaoh king of Egypt, and will break his arms, the strong arm, and that which was broken. I will cause the sword to fall out of his hand."
     },
     {
       "chapter": 30,
@@ -3830,17 +3830,17 @@
     {
       "chapter": 30,
       "verse": 25,
-      "text": "I will hold up the arms of the king of Babylon, but the arms of Pharaoh will fall down. Then they will know that I am Yahweh when I put my sword into the hand of the king of Babylon, and he stretches it out on the land of Egypt."
+      "text": "I will hold up the arms of the king of Babylon, but the arms of Pharaoh will fall down. Then they will know that I am the LORD when I put my sword into the hand of the king of Babylon, and he stretches it out on the land of Egypt."
     },
     {
       "chapter": 30,
       "verse": 26,
-      "text": "I will scatter the Egyptians among the nations and disperse them through the countries. Then they will know that I am Yahweh.’ ”"
+      "text": "I will scatter the Egyptians among the nations and disperse them through the countries. Then they will know that I am the LORD.’ ”"
     },
     {
       "chapter": 31,
       "verse": 1,
-      "text": "In the eleventh year, in the third month, in the first day of the month, Yahweh’s word came to me, saying,"
+      "text": "In the eleventh year, in the third month, in the first day of the month, the LORD’s word came to me, saying,"
     },
     {
       "chapter": 31,
@@ -3885,7 +3885,7 @@
     {
       "chapter": 31,
       "verse": 10,
-      "text": "“Therefore thus said the Lord Yahweh: ‘Because he is exalted in stature, and he has set his top among the thick branches, and his heart is lifted up in his height,"
+      "text": "“Therefore thus said the Lord the LORD: ‘Because he is exalted in stature, and he has set his top among the thick branches, and his heart is lifted up in his height,"
     },
     {
       "chapter": 31,
@@ -3910,7 +3910,7 @@
     {
       "chapter": 31,
       "verse": 15,
-      "text": "“The Lord Yahweh says: ‘In the day when he went down to Sheol, I caused a mourning. I covered the deep for him, and I restrained its rivers. The great waters were stopped. I caused Lebanon to mourn for him, and all the trees of the field fainted for him."
+      "text": "“The Lord the LORD says: ‘In the day when he went down to Sheol, I caused a mourning. I covered the deep for him, and I restrained its rivers. The great waters were stopped. I caused Lebanon to mourn for him, and all the trees of the field fainted for him."
     },
     {
       "chapter": 31,
@@ -3925,12 +3925,12 @@
     {
       "chapter": 31,
       "verse": 18,
-      "text": "“ ‘To whom are you thus like in glory and in greatness among the trees of Eden? Yet you will be brought down with the trees of Eden to the lower parts of the earth. You will lie in the middle of the uncircumcised, with those who are slain by the sword. “ ‘This is Pharaoh and all his multitude,’ says the Lord Yahweh.”"
+      "text": "“ ‘To whom are you thus like in glory and in greatness among the trees of Eden? Yet you will be brought down with the trees of Eden to the lower parts of the earth. You will lie in the middle of the uncircumcised, with those who are slain by the sword. “ ‘This is Pharaoh and all his multitude,’ says the Lord the LORD.”"
     },
     {
       "chapter": 32,
       "verse": 1,
-      "text": "In the twelfth year, in the twelfth month, in the first day of the month, Yahweh’s word came to me, saying,"
+      "text": "In the twelfth year, in the twelfth month, in the first day of the month, the LORD’s word came to me, saying,"
     },
     {
       "chapter": 32,
@@ -3940,7 +3940,7 @@
     {
       "chapter": 32,
       "verse": 3,
-      "text": "The Lord Yahweh says: “I will spread out my net on you with a company of many peoples. They will bring you up in my net."
+      "text": "The Lord the LORD says: “I will spread out my net on you with a company of many peoples. They will bring you up in my net."
     },
     {
       "chapter": 32,
@@ -3965,7 +3965,7 @@
     {
       "chapter": 32,
       "verse": 8,
-      "text": "I will make all the bright lights of the sky dark over you, and set darkness on your land,” says the Lord Yahweh."
+      "text": "I will make all the bright lights of the sky dark over you, and set darkness on your land,” says the Lord the LORD."
     },
     {
       "chapter": 32,
@@ -3980,7 +3980,7 @@
     {
       "chapter": 32,
       "verse": 11,
-      "text": "For the Lord Yahweh says: “The sword of the king of Babylon will come on you."
+      "text": "For the Lord the LORD says: “The sword of the king of Babylon will come on you."
     },
     {
       "chapter": 32,
@@ -3995,22 +3995,22 @@
     {
       "chapter": 32,
       "verse": 14,
-      "text": "Then I will make their waters clear, and cause their rivers to run like oil,” says the Lord Yahweh."
+      "text": "Then I will make their waters clear, and cause their rivers to run like oil,” says the Lord the LORD."
     },
     {
       "chapter": 32,
       "verse": 15,
-      "text": "“When I make the land of Egypt desolate and waste, a land destitute of that of which it was full, when I strike all those who dwell therein, then they will know that I am Yahweh."
+      "text": "“When I make the land of Egypt desolate and waste, a land destitute of that of which it was full, when I strike all those who dwell therein, then they will know that I am the LORD."
     },
     {
       "chapter": 32,
       "verse": 16,
-      "text": "“ ‘ “This is the lamentation with which they will lament. The daughters of the nations will lament with this. They will lament with it over Egypt, and over all her multitude,” says the Lord Yahweh.’ ”"
+      "text": "“ ‘ “This is the lamentation with which they will lament. The daughters of the nations will lament with this. They will lament with it over Egypt, and over all her multitude,” says the Lord the LORD.’ ”"
     },
     {
       "chapter": 32,
       "verse": 17,
-      "text": "Also in the twelfth year, in the fifteenth day of the month, Yahweh’s word came to me, saying,"
+      "text": "Also in the twelfth year, in the fifteenth day of the month, the LORD’s word came to me, saying,"
     },
     {
       "chapter": 32,
@@ -4080,17 +4080,17 @@
     {
       "chapter": 32,
       "verse": 31,
-      "text": "“Pharaoh will see them and will be comforted over all his multitude, even Pharaoh and all his army, slain by the sword,” says the Lord Yahweh."
+      "text": "“Pharaoh will see them and will be comforted over all his multitude, even Pharaoh and all his army, slain by the sword,” says the Lord the LORD."
     },
     {
       "chapter": 32,
       "verse": 32,
-      "text": "“For I have put his terror in the land of the living. He will be laid among the uncircumcised, with those who are slain by the sword, even Pharaoh and all his multitude,” says the Lord Yahweh."
+      "text": "“For I have put his terror in the land of the living. He will be laid among the uncircumcised, with those who are slain by the sword, even Pharaoh and all his multitude,” says the Lord the LORD."
     },
     {
       "chapter": 33,
       "verse": 1,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 33,
@@ -4140,7 +4140,7 @@
     {
       "chapter": 33,
       "verse": 11,
-      "text": "Tell them, ‘ “As I live,” says the Lord Yahweh, “I have no pleasure in the death of the wicked, but that the wicked turn from his way and live. Turn, turn from your evil ways! For why will you die, house of Israel?” ’"
+      "text": "Tell them, ‘ “As I live,” says the Lord the LORD, “I have no pleasure in the death of the wicked, but that the wicked turn from his way and live. Turn, turn from your evil ways! For why will you die, house of Israel?” ’"
     },
     {
       "chapter": 33,
@@ -4195,12 +4195,12 @@
     {
       "chapter": 33,
       "verse": 22,
-      "text": "Now Yahweh’s hand had been on me in the evening, before he who had escaped came; and he had opened my mouth until he came to me in the morning; and my mouth was opened, and I was no longer mute."
+      "text": "Now the LORD’s hand had been on me in the evening, before he who had escaped came; and he had opened my mouth until he came to me in the morning; and my mouth was opened, and I was no longer mute."
     },
     {
       "chapter": 33,
       "verse": 23,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 33,
@@ -4210,7 +4210,7 @@
     {
       "chapter": 33,
       "verse": 25,
-      "text": "Therefore tell them, ‘The Lord Yahweh says: “You eat with the blood, and lift up your eyes to your idols, and shed blood. So should you possess the land?"
+      "text": "Therefore tell them, ‘The Lord the LORD says: “You eat with the blood, and lift up your eyes to your idols, and shed blood. So should you possess the land?"
     },
     {
       "chapter": 33,
@@ -4220,7 +4220,7 @@
     {
       "chapter": 33,
       "verse": 27,
-      "text": "“You shall tell them, ‘The Lord Yahweh says: “As I live, surely those who are in the waste places will fall by the sword. I will give whoever is in the open field to the animals to be devoured, and those who are in the strongholds and in the caves will die of the pestilence."
+      "text": "“You shall tell them, ‘The Lord the LORD says: “As I live, surely those who are in the waste places will fall by the sword. I will give whoever is in the open field to the animals to be devoured, and those who are in the strongholds and in the caves will die of the pestilence."
     },
     {
       "chapter": 33,
@@ -4230,12 +4230,12 @@
     {
       "chapter": 33,
       "verse": 29,
-      "text": "Then they will know that I am Yahweh, when I have made the land a desolation and an astonishment because of all their abominations which they have committed.” ’"
+      "text": "Then they will know that I am the LORD, when I have made the land a desolation and an astonishment because of all their abominations which they have committed.” ’"
     },
     {
       "chapter": 33,
       "verse": 30,
-      "text": "“As for you, son of man, the children of your people talk about you by the walls and in the doors of the houses, and speak to one another, everyone to his brother, saying, ‘Please come and hear what the word is that comes out from Yahweh.’"
+      "text": "“As for you, son of man, the children of your people talk about you by the walls and in the doors of the houses, and speak to one another, everyone to his brother, saying, ‘Please come and hear what the word is that comes out from the LORD.’"
     },
     {
       "chapter": 33,
@@ -4255,12 +4255,12 @@
     {
       "chapter": 34,
       "verse": 1,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 34,
       "verse": 2,
-      "text": "“Son of man, prophesy against the shepherds of Israel. Prophesy, and tell them, even the shepherds, ‘The Lord Yahweh says: “Woe to the shepherds of Israel who feed themselves! Shouldn’t the shepherds feed the sheep?"
+      "text": "“Son of man, prophesy against the shepherds of Israel. Prophesy, and tell them, even the shepherds, ‘The Lord the LORD says: “Woe to the shepherds of Israel who feed themselves! Shouldn’t the shepherds feed the sheep?"
     },
     {
       "chapter": 34,
@@ -4285,27 +4285,27 @@
     {
       "chapter": 34,
       "verse": 7,
-      "text": "“ ‘Therefore, you shepherds, hear Yahweh’s word:"
+      "text": "“ ‘Therefore, you shepherds, hear the LORD’s word:"
     },
     {
       "chapter": 34,
       "verse": 8,
-      "text": "“As I live,” says the Lord Yahweh, “surely because my sheep became a prey, and my sheep became food to all the animals of the field, because there was no shepherd, and my shepherds didn’t search for my sheep, but the shepherds fed themselves, and didn’t feed my sheep,"
+      "text": "“As I live,” says the Lord the LORD, “surely because my sheep became a prey, and my sheep became food to all the animals of the field, because there was no shepherd, and my shepherds didn’t search for my sheep, but the shepherds fed themselves, and didn’t feed my sheep,"
     },
     {
       "chapter": 34,
       "verse": 9,
-      "text": "therefore, you shepherds, hear Yahweh’s word!”"
+      "text": "therefore, you shepherds, hear the LORD’s word!”"
     },
     {
       "chapter": 34,
       "verse": 10,
-      "text": "The Lord Yahweh says: “Behold, I am against the shepherds. I will require my sheep at their hand, and cause them to cease from feeding the sheep. The shepherds won’t feed themselves any more. I will deliver my sheep from their mouth, that they may not be food for them.”"
+      "text": "The Lord the LORD says: “Behold, I am against the shepherds. I will require my sheep at their hand, and cause them to cease from feeding the sheep. The shepherds won’t feed themselves any more. I will deliver my sheep from their mouth, that they may not be food for them.”"
     },
     {
       "chapter": 34,
       "verse": 11,
-      "text": "“ ‘For the Lord Yahweh says: “Behold, I myself, even I, will search for my sheep, and will seek them out."
+      "text": "“ ‘For the Lord the LORD says: “Behold, I myself, even I, will search for my sheep, and will seek them out."
     },
     {
       "chapter": 34,
@@ -4325,7 +4325,7 @@
     {
       "chapter": 34,
       "verse": 15,
-      "text": "I myself will be the shepherd of my sheep, and I will cause them to lie down,” says the Lord Yahweh."
+      "text": "I myself will be the shepherd of my sheep, and I will cause them to lie down,” says the Lord the LORD."
     },
     {
       "chapter": 34,
@@ -4335,7 +4335,7 @@
     {
       "chapter": 34,
       "verse": 17,
-      "text": "“As for you, O my flock, the Lord Yahweh says: ‘Behold, I judge between sheep and sheep, the rams and the male goats."
+      "text": "“As for you, O my flock, the Lord the LORD says: ‘Behold, I judge between sheep and sheep, the rams and the male goats."
     },
     {
       "chapter": 34,
@@ -4350,7 +4350,7 @@
     {
       "chapter": 34,
       "verse": 20,
-      "text": "“Therefore the Lord Yahweh says to them: ‘Behold, I, even I, will judge between the fat sheep and the lean sheep."
+      "text": "“Therefore the Lord the LORD says to them: ‘Behold, I, even I, will judge between the fat sheep and the lean sheep."
     },
     {
       "chapter": 34,
@@ -4370,7 +4370,7 @@
     {
       "chapter": 34,
       "verse": 24,
-      "text": "I, Yahweh, will be their God, and my servant David prince among them. I, Yahweh, have spoken it."
+      "text": "I, the LORD, will be their God, and my servant David prince among them. I, the LORD, have spoken it."
     },
     {
       "chapter": 34,
@@ -4385,7 +4385,7 @@
     {
       "chapter": 34,
       "verse": 27,
-      "text": "The tree of the field will yield its fruit, and the earth will yield its increase, and they will be secure in their land. Then they will know that I am Yahweh, when I have broken the bars of their yoke, and have delivered them out of the hand of those who made slaves of them."
+      "text": "The tree of the field will yield its fruit, and the earth will yield its increase, and they will be secure in their land. Then they will know that I am the LORD, when I have broken the bars of their yoke, and have delivered them out of the hand of those who made slaves of them."
     },
     {
       "chapter": 34,
@@ -4400,17 +4400,17 @@
     {
       "chapter": 34,
       "verse": 30,
-      "text": "They will know that I, Yahweh, their God am with them, and that they, the house of Israel, are my people, says the Lord Yahweh."
+      "text": "They will know that I, the LORD, their God am with them, and that they, the house of Israel, are my people, says the Lord the LORD."
     },
     {
       "chapter": 34,
       "verse": 31,
-      "text": "You my sheep, the sheep of my pasture, are men, and I am your God,’ says the Lord Yahweh.”"
+      "text": "You my sheep, the sheep of my pasture, are men, and I am your God,’ says the Lord the LORD.”"
     },
     {
       "chapter": 35,
       "verse": 1,
-      "text": "Moreover Yahweh’s word came to me, saying,"
+      "text": "Moreover the LORD’s word came to me, saying,"
     },
     {
       "chapter": 35,
@@ -4420,12 +4420,12 @@
     {
       "chapter": 35,
       "verse": 3,
-      "text": "and tell it, ‘The Lord Yahweh says: “Behold, I am against you, Mount Seir, and I will stretch out my hand against you. I will make you a desolation and an astonishment."
+      "text": "and tell it, ‘The Lord the LORD says: “Behold, I am against you, Mount Seir, and I will stretch out my hand against you. I will make you a desolation and an astonishment."
     },
     {
       "chapter": 35,
       "verse": 4,
-      "text": "I will lay your cities waste, and you will be desolate. Then you will know that I am Yahweh."
+      "text": "I will lay your cities waste, and you will be desolate. Then you will know that I am the LORD."
     },
     {
       "chapter": 35,
@@ -4435,7 +4435,7 @@
     {
       "chapter": 35,
       "verse": 6,
-      "text": "therefore, as I live,” says the Lord Yahweh, “I will prepare you for blood, and blood will pursue you. Since you have not hated blood, therefore blood will pursue you."
+      "text": "therefore, as I live,” says the Lord the LORD, “I will prepare you for blood, and blood will pursue you. Since you have not hated blood, therefore blood will pursue you."
     },
     {
       "chapter": 35,
@@ -4450,22 +4450,22 @@
     {
       "chapter": 35,
       "verse": 9,
-      "text": "I will make you a perpetual desolation, and your cities will not be inhabited. Then you will know that I am Yahweh."
+      "text": "I will make you a perpetual desolation, and your cities will not be inhabited. Then you will know that I am the LORD."
     },
     {
       "chapter": 35,
       "verse": 10,
-      "text": "“ ‘ “Because you have said, ‘These two nations and these two countries will be mine, and we will possess it,’ although Yahweh was there,"
+      "text": "“ ‘ “Because you have said, ‘These two nations and these two countries will be mine, and we will possess it,’ although the LORD was there,"
     },
     {
       "chapter": 35,
       "verse": 11,
-      "text": "therefore, as I live,” says the Lord Yahweh, “I will do according to your anger, and according to your envy which you have shown out of your hatred against them; and I will make myself known among them when I judge you."
+      "text": "therefore, as I live,” says the Lord the LORD, “I will do according to your anger, and according to your envy which you have shown out of your hatred against them; and I will make myself known among them when I judge you."
     },
     {
       "chapter": 35,
       "verse": 12,
-      "text": "You will know that I, Yahweh, have heard all your insults which you have spoken against the mountains of Israel, saying, ‘They have been laid desolate. They have been given to us to devour.’"
+      "text": "You will know that I, the LORD, have heard all your insults which you have spoken against the mountains of Israel, saying, ‘They have been laid desolate. They have been given to us to devour.’"
     },
     {
       "chapter": 35,
@@ -4475,47 +4475,47 @@
     {
       "chapter": 35,
       "verse": 14,
-      "text": "The Lord Yahweh says: “When the whole earth rejoices, I will make you desolate."
+      "text": "The Lord the LORD says: “When the whole earth rejoices, I will make you desolate."
     },
     {
       "chapter": 35,
       "verse": 15,
-      "text": "As you rejoiced over the inheritance of the house of Israel because it was desolate, so I will do to you. You will be desolate, Mount Seir, and all Edom, even all of it. Then they will know that I am Yahweh.’ ”"
+      "text": "As you rejoiced over the inheritance of the house of Israel because it was desolate, so I will do to you. You will be desolate, Mount Seir, and all Edom, even all of it. Then they will know that I am the LORD.’ ”"
     },
     {
       "chapter": 36,
       "verse": 1,
-      "text": "You, son of man, prophesy to the mountains of Israel, and say, “You mountains of Israel, hear Yahweh’s word."
+      "text": "You, son of man, prophesy to the mountains of Israel, and say, “You mountains of Israel, hear the LORD’s word."
     },
     {
       "chapter": 36,
       "verse": 2,
-      "text": "The Lord Yahweh says: ‘Because the enemy has said against you, “Aha!” and, “The ancient high places are ours in possession!” ’"
+      "text": "The Lord the LORD says: ‘Because the enemy has said against you, “Aha!” and, “The ancient high places are ours in possession!” ’"
     },
     {
       "chapter": 36,
       "verse": 3,
-      "text": "therefore prophesy, and say, ‘The Lord Yahweh says: “Because, even because they have made you desolate, and swallowed you up on every side, that you might be a possession to the residue of the nations, and you are taken up in the lips of talkers, and the evil report of the people;”"
+      "text": "therefore prophesy, and say, ‘The Lord the LORD says: “Because, even because they have made you desolate, and swallowed you up on every side, that you might be a possession to the residue of the nations, and you are taken up in the lips of talkers, and the evil report of the people;”"
     },
     {
       "chapter": 36,
       "verse": 4,
-      "text": "therefore, you mountains of Israel, hear the word of the Lord Yahweh: The Lord Yahweh says to the mountains and to the hills, to the watercourses and to the valleys, to the desolate wastes and to the cities that are forsaken, which have become a prey and derision to the residue of the nations that are all around;"
+      "text": "therefore, you mountains of Israel, hear the word of the Lord the LORD: The Lord the LORD says to the mountains and to the hills, to the watercourses and to the valleys, to the desolate wastes and to the cities that are forsaken, which have become a prey and derision to the residue of the nations that are all around;"
     },
     {
       "chapter": 36,
       "verse": 5,
-      "text": "therefore the Lord Yahweh says: “Surely in the fire of my jealousy I have spoken against the residue of the nations, and against all Edom, that have appointed my land to themselves for a possession with the joy of all their heart, with despite of soul, to cast it out for a prey.” ’"
+      "text": "therefore the Lord the LORD says: “Surely in the fire of my jealousy I have spoken against the residue of the nations, and against all Edom, that have appointed my land to themselves for a possession with the joy of all their heart, with despite of soul, to cast it out for a prey.” ’"
     },
     {
       "chapter": 36,
       "verse": 6,
-      "text": "Therefore prophesy concerning the land of Israel, and tell the mountains, the hills, the watercourses and the valleys, ‘The Lord Yahweh says: “Behold, I have spoken in my jealousy and in my wrath, because you have borne the shame of the nations.”"
+      "text": "Therefore prophesy concerning the land of Israel, and tell the mountains, the hills, the watercourses and the valleys, ‘The Lord the LORD says: “Behold, I have spoken in my jealousy and in my wrath, because you have borne the shame of the nations.”"
     },
     {
       "chapter": 36,
       "verse": 7,
-      "text": "Therefore the Lord Yahweh says: “I have sworn, ‘Surely the nations that are around you will bear their shame.’"
+      "text": "Therefore the Lord the LORD says: “I have sworn, ‘Surely the nations that are around you will bear their shame.’"
     },
     {
       "chapter": 36,
@@ -4535,7 +4535,7 @@
     {
       "chapter": 36,
       "verse": 11,
-      "text": "I will multiply man and animal on you. They will increase and be fruitful. I will cause you to be inhabited as you were before, and you will do better than at your beginnings. Then you will know that I am Yahweh."
+      "text": "I will multiply man and animal on you. They will increase and be fruitful. I will cause you to be inhabited as you were before, and you will do better than at your beginnings. Then you will know that I am the LORD."
     },
     {
       "chapter": 36,
@@ -4545,22 +4545,22 @@
     {
       "chapter": 36,
       "verse": 13,
-      "text": "“ ‘The Lord Yahweh says: “Because they say to you, ‘You are a devourer of men, and have been a bereaver of your nation;’"
+      "text": "“ ‘The Lord the LORD says: “Because they say to you, ‘You are a devourer of men, and have been a bereaver of your nation;’"
     },
     {
       "chapter": 36,
       "verse": 14,
-      "text": "therefore you shall devour men no more, and not bereave your nation any more,” says the Lord Yahweh."
+      "text": "therefore you shall devour men no more, and not bereave your nation any more,” says the Lord the LORD."
     },
     {
       "chapter": 36,
       "verse": 15,
-      "text": "“I won’t let you hear the shame of the nations any more. You won’t bear the reproach of the peoples any more, and you won’t cause your nation to stumble any more,” says the Lord Yahweh.’ ”"
+      "text": "“I won’t let you hear the shame of the nations any more. You won’t bear the reproach of the peoples any more, and you won’t cause your nation to stumble any more,” says the Lord the LORD.’ ”"
     },
     {
       "chapter": 36,
       "verse": 16,
-      "text": "Moreover Yahweh’s word came to me, saying,"
+      "text": "Moreover the LORD’s word came to me, saying,"
     },
     {
       "chapter": 36,
@@ -4580,7 +4580,7 @@
     {
       "chapter": 36,
       "verse": 20,
-      "text": "When they came to the nations where they went, they profaned my holy name, in that men said of them, ‘These are Yahweh’s people, and have left his land.’"
+      "text": "When they came to the nations where they went, they profaned my holy name, in that men said of them, ‘These are the LORD’s people, and have left his land.’"
     },
     {
       "chapter": 36,
@@ -4590,12 +4590,12 @@
     {
       "chapter": 36,
       "verse": 22,
-      "text": "“Therefore tell the house of Israel, ‘The Lord Yahweh says: “I don’t do this for your sake, house of Israel, but for my holy name, which you have profaned among the nations where you went."
+      "text": "“Therefore tell the house of Israel, ‘The Lord the LORD says: “I don’t do this for your sake, house of Israel, but for my holy name, which you have profaned among the nations where you went."
     },
     {
       "chapter": 36,
       "verse": 23,
-      "text": "I will sanctify my great name, which has been profaned among the nations, which you have profaned among them. Then the nations will know that I am Yahweh,” says the Lord Yahweh, “when I am proven holy in you before their eyes."
+      "text": "I will sanctify my great name, which has been profaned among the nations, which you have profaned among them. Then the nations will know that I am the LORD,” says the Lord the LORD, “when I am proven holy in you before their eyes."
     },
     {
       "chapter": 36,
@@ -4640,12 +4640,12 @@
     {
       "chapter": 36,
       "verse": 32,
-      "text": "I don’t do this for your sake,” says the Lord Yahweh. “Let it be known to you. Be ashamed and confounded for your ways, house of Israel.”"
+      "text": "I don’t do this for your sake,” says the Lord the LORD. “Let it be known to you. Be ashamed and confounded for your ways, house of Israel.”"
     },
     {
       "chapter": 36,
       "verse": 33,
-      "text": "“ ‘The Lord Yahweh says: “In the day that I cleanse you from all your iniquities, I will cause the cities to be inhabited and the waste places will be built."
+      "text": "“ ‘The Lord the LORD says: “In the day that I cleanse you from all your iniquities, I will cause the cities to be inhabited and the waste places will be built."
     },
     {
       "chapter": 36,
@@ -4660,22 +4660,22 @@
     {
       "chapter": 36,
       "verse": 36,
-      "text": "Then the nations that are left around you will know that I, Yahweh, have built the ruined places and planted that which was desolate. I, Yahweh, have spoken it, and I will do it.”"
+      "text": "Then the nations that are left around you will know that I, the LORD, have built the ruined places and planted that which was desolate. I, the LORD, have spoken it, and I will do it.”"
     },
     {
       "chapter": 36,
       "verse": 37,
-      "text": "“ ‘The Lord Yahweh says: “For this, moreover, I will be inquired of by the house of Israel, to do it for them: I will increase them with men like a flock."
+      "text": "“ ‘The Lord the LORD says: “For this, moreover, I will be inquired of by the house of Israel, to do it for them: I will increase them with men like a flock."
     },
     {
       "chapter": 36,
       "verse": 38,
-      "text": "As the flock for sacrifice, as the flock of Jerusalem in her appointed feasts, so the waste cities will be filled with flocks of men. Then they will know that I am Yahweh.’ ”"
+      "text": "As the flock for sacrifice, as the flock of Jerusalem in her appointed feasts, so the waste cities will be filled with flocks of men. Then they will know that I am the LORD.’ ”"
     },
     {
       "chapter": 37,
       "verse": 1,
-      "text": "Yahweh’s hand was on me, and he brought me out in Yahweh’s Spirit, and set me down in the middle of the valley; and it was full of bones."
+      "text": "The LORD’s hand was on me, and he brought me out in the LORD’s Spirit, and set me down in the middle of the valley; and it was full of bones."
     },
     {
       "chapter": 37,
@@ -4685,22 +4685,22 @@
     {
       "chapter": 37,
       "verse": 3,
-      "text": "He said to me, “Son of man, can these bones live?” I answered, “Lord Yahweh, you know.”"
+      "text": "He said to me, “Son of man, can these bones live?” I answered, “Lord the LORD, you know.”"
     },
     {
       "chapter": 37,
       "verse": 4,
-      "text": "Again he said to me, “Prophesy over these bones, and tell them, ‘You dry bones, hear Yahweh’s word."
+      "text": "Again he said to me, “Prophesy over these bones, and tell them, ‘You dry bones, hear the LORD’s word."
     },
     {
       "chapter": 37,
       "verse": 5,
-      "text": "The Lord Yahweh says to these bones: “Behold, I will cause breath to enter into you, and you will live."
+      "text": "The Lord the LORD says to these bones: “Behold, I will cause breath to enter into you, and you will live."
     },
     {
       "chapter": 37,
       "verse": 6,
-      "text": "I will lay sinews on you, and will bring up flesh on you, and cover you with skin, and put breath in you, and you will live. Then you will know that I am Yahweh.” ’ ”"
+      "text": "I will lay sinews on you, and will bring up flesh on you, and cover you with skin, and put breath in you, and you will live. Then you will know that I am the LORD.” ’ ”"
     },
     {
       "chapter": 37,
@@ -4715,7 +4715,7 @@
     {
       "chapter": 37,
       "verse": 9,
-      "text": "Then he said to me, “Prophesy to the wind, prophesy, son of man, and tell the wind, ‘The Lord Yahweh says: “Come from the four winds, breath, and breathe on these slain, that they may live.” ’ ”"
+      "text": "Then he said to me, “Prophesy to the wind, prophesy, son of man, and tell the wind, ‘The Lord the LORD says: “Come from the four winds, breath, and breathe on these slain, that they may live.” ’ ”"
     },
     {
       "chapter": 37,
@@ -4730,22 +4730,22 @@
     {
       "chapter": 37,
       "verse": 12,
-      "text": "Therefore prophesy, and tell them, ‘The Lord Yahweh says: “Behold, I will open your graves, and cause you to come up out of your graves, my people; and I will bring you into the land of Israel."
+      "text": "Therefore prophesy, and tell them, ‘The Lord the LORD says: “Behold, I will open your graves, and cause you to come up out of your graves, my people; and I will bring you into the land of Israel."
     },
     {
       "chapter": 37,
       "verse": 13,
-      "text": "You will know that I am Yahweh, when I have opened your graves and caused you to come up out of your graves, my people."
+      "text": "You will know that I am the LORD, when I have opened your graves and caused you to come up out of your graves, my people."
     },
     {
       "chapter": 37,
       "verse": 14,
-      "text": "I will put my Spirit in you, and you will live. Then I will place you in your own land; and you will know that I, Yahweh, have spoken it and performed it,” says Yahweh.’ ”"
+      "text": "I will put my Spirit in you, and you will live. Then I will place you in your own land; and you will know that I, the LORD, have spoken it and performed it,” says the LORD.’ ”"
     },
     {
       "chapter": 37,
       "verse": 15,
-      "text": "Yahweh’s word came again to me, saying,"
+      "text": "The LORD’s word came again to me, saying,"
     },
     {
       "chapter": 37,
@@ -4765,7 +4765,7 @@
     {
       "chapter": 37,
       "verse": 19,
-      "text": "tell them, ‘The Lord Yahweh says: “Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his companions; and I will put them with it, with the stick of Judah, and make them one stick, and they will be one in my hand."
+      "text": "tell them, ‘The Lord the LORD says: “Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his companions; and I will put them with it, with the stick of Judah, and make them one stick, and they will be one in my hand."
     },
     {
       "chapter": 37,
@@ -4775,7 +4775,7 @@
     {
       "chapter": 37,
       "verse": 21,
-      "text": "Say to them, ‘The Lord Yahweh says: “Behold, I will take the children of Israel from among the nations where they have gone, and will gather them on every side, and bring them into their own land."
+      "text": "Say to them, ‘The Lord the LORD says: “Behold, I will take the children of Israel from among the nations where they have gone, and will gather them on every side, and bring them into their own land."
     },
     {
       "chapter": 37,
@@ -4810,12 +4810,12 @@
     {
       "chapter": 37,
       "verse": 28,
-      "text": "The nations will know that I am Yahweh who sanctifies Israel, when my sanctuary is among them forever more.” ’ ”"
+      "text": "The nations will know that I am the LORD who sanctifies Israel, when my sanctuary is among them forever more.” ’ ”"
     },
     {
       "chapter": 38,
       "verse": 1,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 38,
@@ -4825,7 +4825,7 @@
     {
       "chapter": 38,
       "verse": 3,
-      "text": "and say, ‘The Lord Yahweh says: “Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal."
+      "text": "and say, ‘The Lord the LORD says: “Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal."
     },
     {
       "chapter": 38,
@@ -4860,7 +4860,7 @@
     {
       "chapter": 38,
       "verse": 10,
-      "text": "“ ‘The Lord Yahweh says: “It will happen in that day that things will come into your mind, and you will devise an evil plan."
+      "text": "“ ‘The Lord the LORD says: “It will happen in that day that things will come into your mind, and you will devise an evil plan."
     },
     {
       "chapter": 38,
@@ -4880,7 +4880,7 @@
     {
       "chapter": 38,
       "verse": 14,
-      "text": "“Therefore, son of man, prophesy, and tell Gog, ‘The Lord Yahweh says: “In that day when my people Israel dwells securely, will you not know it?"
+      "text": "“Therefore, son of man, prophesy, and tell Gog, ‘The Lord the LORD says: “In that day when my people Israel dwells securely, will you not know it?"
     },
     {
       "chapter": 38,
@@ -4895,12 +4895,12 @@
     {
       "chapter": 38,
       "verse": 17,
-      "text": "“ ‘The Lord Yahweh says: “Are you he of whom I spoke in old time by my servants the prophets of Israel, who prophesied in those days for years that I would bring you against them?"
+      "text": "“ ‘The Lord the LORD says: “Are you he of whom I spoke in old time by my servants the prophets of Israel, who prophesied in those days for years that I would bring you against them?"
     },
     {
       "chapter": 38,
       "verse": 18,
-      "text": "It will happen in that day, when Gog comes against the land of Israel,” says the Lord Yahweh, “that my wrath will come up into my nostrils."
+      "text": "It will happen in that day, when Gog comes against the land of Israel,” says the Lord the LORD, “that my wrath will come up into my nostrils."
     },
     {
       "chapter": 38,
@@ -4915,7 +4915,7 @@
     {
       "chapter": 38,
       "verse": 21,
-      "text": "I will call for a sword against him to all my mountains,” says the Lord Yahweh. “Every man’s sword will be against his brother."
+      "text": "I will call for a sword against him to all my mountains,” says the Lord the LORD. “Every man’s sword will be against his brother."
     },
     {
       "chapter": 38,
@@ -4925,12 +4925,12 @@
     {
       "chapter": 38,
       "verse": 23,
-      "text": "I will magnify myself and sanctify myself, and I will make myself known in the eyes of many nations. Then they will know that I am Yahweh.” ’"
+      "text": "I will magnify myself and sanctify myself, and I will make myself known in the eyes of many nations. Then they will know that I am the LORD.” ’"
     },
     {
       "chapter": 39,
       "verse": 1,
-      "text": "“You, son of man, prophesy against Gog, and say, ‘The Lord Yahweh says: “Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal."
+      "text": "“You, son of man, prophesy against Gog, and say, ‘The Lord the LORD says: “Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal."
     },
     {
       "chapter": 39,
@@ -4950,22 +4950,22 @@
     {
       "chapter": 39,
       "verse": 5,
-      "text": "You will fall on the open field, for I have spoken it,” says the Lord Yahweh."
+      "text": "You will fall on the open field, for I have spoken it,” says the Lord the LORD."
     },
     {
       "chapter": 39,
       "verse": 6,
-      "text": "“I will send a fire on Magog and on those who dwell securely in the islands. Then they will know that I am Yahweh."
+      "text": "“I will send a fire on Magog and on those who dwell securely in the islands. Then they will know that I am the LORD."
     },
     {
       "chapter": 39,
       "verse": 7,
-      "text": "“ ‘ “I will make my holy name known among my people Israel. I won’t allow my holy name to be profaned any more. Then the nations will know that I am Yahweh, the Holy One in Israel."
+      "text": "“ ‘ “I will make my holy name known among my people Israel. I won’t allow my holy name to be profaned any more. Then the nations will know that I am the LORD, the Holy One in Israel."
     },
     {
       "chapter": 39,
       "verse": 8,
-      "text": "Behold, it comes, and it will be done,” says the Lord Yahweh. “This is the day about which I have spoken."
+      "text": "Behold, it comes, and it will be done,” says the Lord the LORD. “This is the day about which I have spoken."
     },
     {
       "chapter": 39,
@@ -4975,7 +4975,7 @@
     {
       "chapter": 39,
       "verse": 10,
-      "text": "so that they will take no wood out of the field, and not cut down any out of the forests; for they will make fires with the weapons. They will plunder those who plundered them, and rob those who robbed them,” says the Lord Yahweh."
+      "text": "so that they will take no wood out of the field, and not cut down any out of the forests; for they will make fires with the weapons. They will plunder those who plundered them, and rob those who robbed them,” says the Lord the LORD."
     },
     {
       "chapter": 39,
@@ -4990,7 +4990,7 @@
     {
       "chapter": 39,
       "verse": 13,
-      "text": "Yes, all the people of the land will bury them; and they will become famous in the day that I will be glorified,” says the Lord Yahweh."
+      "text": "Yes, all the people of the land will bury them; and they will become famous in the day that I will be glorified,” says the Lord the LORD."
     },
     {
       "chapter": 39,
@@ -5010,7 +5010,7 @@
     {
       "chapter": 39,
       "verse": 17,
-      "text": "“You, son of man, the Lord Yahweh says: ‘Speak to the birds of every sort, and to every animal of the field, “Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I sacrifice for you, even a great sacrifice on the mountains of Israel, that you may eat meat and drink blood."
+      "text": "“You, son of man, the Lord the LORD says: ‘Speak to the birds of every sort, and to every animal of the field, “Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I sacrifice for you, even a great sacrifice on the mountains of Israel, that you may eat meat and drink blood."
     },
     {
       "chapter": 39,
@@ -5025,7 +5025,7 @@
     {
       "chapter": 39,
       "verse": 20,
-      "text": "You shall be filled at my table with horses and charioteers, with mighty men, and with all men of war,” says the Lord Yahweh.’"
+      "text": "You shall be filled at my table with horses and charioteers, with mighty men, and with all men of war,” says the Lord the LORD.’"
     },
     {
       "chapter": 39,
@@ -5035,7 +5035,7 @@
     {
       "chapter": 39,
       "verse": 22,
-      "text": "So the house of Israel will know that I am Yahweh their God, from that day and forward."
+      "text": "So the house of Israel will know that I am the LORD their God, from that day and forward."
     },
     {
       "chapter": 39,
@@ -5050,7 +5050,7 @@
     {
       "chapter": 39,
       "verse": 25,
-      "text": "“Therefore the Lord Yahweh says: ‘Now I will reverse the captivity of Jacob and have mercy on the whole house of Israel. I will be jealous for my holy name."
+      "text": "“Therefore the Lord the LORD says: ‘Now I will reverse the captivity of Jacob and have mercy on the whole house of Israel. I will be jealous for my holy name."
     },
     {
       "chapter": 39,
@@ -5065,17 +5065,17 @@
     {
       "chapter": 39,
       "verse": 28,
-      "text": "They will know that I am Yahweh their God, in that I caused them to go into captivity among the nations, and have gathered them to their own land. Then I will leave none of them captive any more."
+      "text": "They will know that I am the LORD their God, in that I caused them to go into captivity among the nations, and have gathered them to their own land. Then I will leave none of them captive any more."
     },
     {
       "chapter": 39,
       "verse": 29,
-      "text": "I won’t hide my face from them any more, for I have poured out my Spirit on the house of Israel,’ says the Lord Yahweh.”"
+      "text": "I won’t hide my face from them any more, for I have poured out my Spirit on the house of Israel,’ says the Lord the LORD.”"
     },
     {
       "chapter": 40,
       "verse": 1,
-      "text": "In the twenty-fifth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after the city was struck, in the same day, Yahweh’s hand was on me, and he brought me there."
+      "text": "In the twenty-fifth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after the city was struck, in the same day, the LORD’s hand was on me, and he brought me there."
     },
     {
       "chapter": 40,
@@ -5300,7 +5300,7 @@
     {
       "chapter": 40,
       "verse": 46,
-      "text": "The room which faces toward the north is for the priests who perform the duty of the altar. These are the sons of Zadok, who from among the sons of Levi come near to Yahweh to minister to him.”"
+      "text": "The room which faces toward the north is for the priests who perform the duty of the altar. These are the sons of Zadok, who from among the sons of Levi come near to the LORD to minister to him.”"
     },
     {
       "chapter": 40,
@@ -5425,7 +5425,7 @@
     {
       "chapter": 41,
       "verse": 22,
-      "text": "The altar was of wood, three cubits high, and its length two cubits. Its corners, its base, and its walls were of wood. He said to me, “This is the table that is before Yahweh.”"
+      "text": "The altar was of wood, three cubits high, and its length two cubits. Its corners, its base, and its walls were of wood. He said to me, “This is the table that is before the LORD.”"
     },
     {
       "chapter": 41,
@@ -5510,7 +5510,7 @@
     {
       "chapter": 42,
       "verse": 13,
-      "text": "Then he said to me, “The north rooms and the south rooms, which are opposite the separate place, are the holy rooms, where the priests who are near to Yahweh shall eat the most holy things. There they shall lay the most holy things, with the meal offering, the sin offering, and the trespass offering; for the place is holy."
+      "text": "Then he said to me, “The north rooms and the south rooms, which are opposite the separate place, are the holy rooms, where the priests who are near to the LORD shall eat the most holy things. There they shall lay the most holy things, with the meal offering, the sin offering, and the trespass offering; for the place is holy."
     },
     {
       "chapter": 42,
@@ -5565,12 +5565,12 @@
     {
       "chapter": 43,
       "verse": 4,
-      "text": "Yahweh’s glory came into the house by the way of the gate which faces toward the east."
+      "text": "The LORD’s glory came into the house by the way of the gate which faces toward the east."
     },
     {
       "chapter": 43,
       "verse": 5,
-      "text": "The Spirit took me up and brought me into the inner court; and behold, Yahweh’s glory filled the house."
+      "text": "The Spirit took me up and brought me into the inner court; and behold, the LORD’s glory filled the house."
     },
     {
       "chapter": 43,
@@ -5635,12 +5635,12 @@
     {
       "chapter": 43,
       "verse": 18,
-      "text": "He said to me, “Son of man, the Lord Yahweh says: ‘These are the ordinances of the altar in the day when they make it, to offer burnt offerings on it, and to sprinkle blood on it."
+      "text": "He said to me, “Son of man, the Lord the LORD says: ‘These are the ordinances of the altar in the day when they make it, to offer burnt offerings on it, and to sprinkle blood on it."
     },
     {
       "chapter": 43,
       "verse": 19,
-      "text": "You shall give to the Levitical priests who are of the offspring of Zadok, who are near to me, to minister to me,’ says the Lord Yahweh, ‘a young bull for a sin offering."
+      "text": "You shall give to the Levitical priests who are of the offspring of Zadok, who are near to me, to minister to me,’ says the Lord the LORD, ‘a young bull for a sin offering."
     },
     {
       "chapter": 43,
@@ -5665,7 +5665,7 @@
     {
       "chapter": 43,
       "verse": 24,
-      "text": "You shall bring them near to Yahweh, and the priests shall cast salt on them, and they shall offer them up for a burnt offering to Yahweh."
+      "text": "You shall bring them near to the LORD, and the priests shall cast salt on them, and they shall offer them up for a burnt offering to the LORD."
     },
     {
       "chapter": 43,
@@ -5680,7 +5680,7 @@
     {
       "chapter": 43,
       "verse": 27,
-      "text": "When they have accomplished the days, it shall be that on the eighth day and onward, the priests shall make your burnt offerings on the altar and your peace offerings. Then I will accept you,’ says the Lord Yahweh.”"
+      "text": "When they have accomplished the days, it shall be that on the eighth day and onward, the priests shall make your burnt offerings on the altar and your peace offerings. Then I will accept you,’ says the Lord the LORD.”"
     },
     {
       "chapter": 44,
@@ -5690,27 +5690,27 @@
     {
       "chapter": 44,
       "verse": 2,
-      "text": "Yahweh said to me, “This gate shall be shut. It shall not be opened, no man shall enter in by it; for Yahweh, the God of Israel, has entered in by it. Therefore it shall be shut."
+      "text": "The LORD said to me, “This gate shall be shut. It shall not be opened, no man shall enter in by it; for the LORD, the God of Israel, has entered in by it. Therefore it shall be shut."
     },
     {
       "chapter": 44,
       "verse": 3,
-      "text": "As for the prince, he shall sit in it as prince to eat bread before Yahweh. He shall enter by the way of the porch of the gate, and shall go out the same way.”"
+      "text": "As for the prince, he shall sit in it as prince to eat bread before the LORD. He shall enter by the way of the porch of the gate, and shall go out the same way.”"
     },
     {
       "chapter": 44,
       "verse": 4,
-      "text": "Then he brought me by the way of the north gate before the house; and I looked, and behold, Yahweh’s glory filled Yahweh’s house; so I fell on my face."
+      "text": "Then he brought me by the way of the north gate before the house; and I looked, and behold, the LORD’s glory filled the LORD’s house; so I fell on my face."
     },
     {
       "chapter": 44,
       "verse": 5,
-      "text": "Yahweh said to me, “Son of man, mark well, and see with your eyes, and hear with your ears all that I tell you concerning all the ordinances of Yahweh’s house and all its laws; and mark well the entrance of the house, with every exit of the sanctuary."
+      "text": "The LORD said to me, “Son of man, mark well, and see with your eyes, and hear with your ears all that I tell you concerning all the ordinances of the LORD’s house and all its laws; and mark well the entrance of the house, with every exit of the sanctuary."
     },
     {
       "chapter": 44,
       "verse": 6,
-      "text": "You shall tell the rebellious, even the house of Israel, ‘The Lord Yahweh says: “You house of Israel, let that be enough of all your abominations,"
+      "text": "You shall tell the rebellious, even the house of Israel, ‘The Lord the LORD says: “You house of Israel, let that be enough of all your abominations,"
     },
     {
       "chapter": 44,
@@ -5725,7 +5725,7 @@
     {
       "chapter": 44,
       "verse": 9,
-      "text": "The Lord Yahweh says, “No foreigner, uncircumcised in heart and uncircumcised in flesh, shall enter into my sanctuary, of any foreigners who are among the children of Israel."
+      "text": "The Lord the LORD says, “No foreigner, uncircumcised in heart and uncircumcised in flesh, shall enter into my sanctuary, of any foreigners who are among the children of Israel."
     },
     {
       "chapter": 44,
@@ -5740,7 +5740,7 @@
     {
       "chapter": 44,
       "verse": 12,
-      "text": "Because they ministered to them before their idols, and became a stumbling block of iniquity to the house of Israel, therefore I have lifted up my hand against them,” says the Lord Yahweh, “and they will bear their iniquity."
+      "text": "Because they ministered to them before their idols, and became a stumbling block of iniquity to the house of Israel, therefore I have lifted up my hand against them,” says the Lord the LORD, “and they will bear their iniquity."
     },
     {
       "chapter": 44,
@@ -5755,7 +5755,7 @@
     {
       "chapter": 44,
       "verse": 15,
-      "text": "“ ‘ “But the Levitical priests, the sons of Zadok, who performed the duty of my sanctuary when the children of Israel went astray from me, shall come near to me to minister to me. They shall stand before me to offer to me the fat and the blood,” says the Lord Yahweh."
+      "text": "“ ‘ “But the Levitical priests, the sons of Zadok, who performed the duty of my sanctuary when the children of Israel went astray from me, shall come near to me to minister to me. They shall stand before me to offer to me the fat and the blood,” says the Lord the LORD."
     },
     {
       "chapter": 44,
@@ -5815,7 +5815,7 @@
     {
       "chapter": 44,
       "verse": 27,
-      "text": "In the day that he goes into the sanctuary, into the inner court, to minister in the sanctuary, he shall offer his sin offering,” says the Lord Yahweh."
+      "text": "In the day that he goes into the sanctuary, into the inner court, to minister in the sanctuary, he shall offer his sin offering,” says the Lord the LORD."
     },
     {
       "chapter": 44,
@@ -5840,7 +5840,7 @@
     {
       "chapter": 45,
       "verse": 1,
-      "text": "“ ‘ “Moreover, when you divide by lot the land for inheritance, you shall offer an offering to Yahweh, a holy portion of the land. The length shall be the length of twenty-five thousand reeds, and the width shall be ten thousand. It shall be holy in all its border all around."
+      "text": "“ ‘ “Moreover, when you divide by lot the land for inheritance, you shall offer an offering to the LORD, a holy portion of the land. The length shall be the length of twenty-five thousand reeds, and the width shall be ten thousand. It shall be holy in all its border all around."
     },
     {
       "chapter": 45,
@@ -5855,7 +5855,7 @@
     {
       "chapter": 45,
       "verse": 4,
-      "text": "It is a holy portion of the land; it shall be for the priests, the ministers of the sanctuary, who come near to minister to Yahweh. It shall be a place for their houses and a holy place for the sanctuary."
+      "text": "It is a holy portion of the land; it shall be for the priests, the ministers of the sanctuary, who come near to minister to the LORD. It shall be a place for their houses and a holy place for the sanctuary."
     },
     {
       "chapter": 45,
@@ -5880,7 +5880,7 @@
     {
       "chapter": 45,
       "verse": 9,
-      "text": "“ ‘The Lord Yahweh says: “Enough, you princes of Israel! Remove violence and plunder, and execute justice and righteousness! Stop dispossessing my people!” says the Lord Yahweh."
+      "text": "“ ‘The Lord the LORD says: “Enough, you princes of Israel! Remove violence and plunder, and execute justice and righteousness! Stop dispossessing my people!” says the Lord the LORD."
     },
     {
       "chapter": 45,
@@ -5910,7 +5910,7 @@
     {
       "chapter": 45,
       "verse": 15,
-      "text": "and one lamb of the flock out of two hundred, from the well-watered pastures of Israel—for a meal offering, for a burnt offering, and for peace offerings, to make atonement for them,” says the Lord Yahweh."
+      "text": "and one lamb of the flock out of two hundred, from the well-watered pastures of Israel—for a meal offering, for a burnt offering, and for peace offerings, to make atonement for them,” says the Lord the LORD."
     },
     {
       "chapter": 45,
@@ -5925,7 +5925,7 @@
     {
       "chapter": 45,
       "verse": 18,
-      "text": "“ ‘The Lord Yahweh says: “In the first month, on the first day of the month, you shall take a young bull without defect, and you shall cleanse the sanctuary."
+      "text": "“ ‘The Lord the LORD says: “In the first month, on the first day of the month, you shall take a young bull without defect, and you shall cleanse the sanctuary."
     },
     {
       "chapter": 45,
@@ -5950,7 +5950,7 @@
     {
       "chapter": 45,
       "verse": 23,
-      "text": "The seven days of the feast he shall prepare a burnt offering to Yahweh, seven bulls and seven rams without defect daily the seven days; and a male goat daily for a sin offering."
+      "text": "The seven days of the feast he shall prepare a burnt offering to the LORD, seven bulls and seven rams without defect daily the seven days; and a male goat daily for a sin offering."
     },
     {
       "chapter": 45,
@@ -5965,7 +5965,7 @@
     {
       "chapter": 46,
       "verse": 1,
-      "text": "“ ‘The Lord Yahweh says: “The gate of the inner court that looks toward the east shall be shut the six working days; but on the Sabbath day it shall be opened, and on the day of the new moon it shall be opened."
+      "text": "“ ‘The Lord the LORD says: “The gate of the inner court that looks toward the east shall be shut the six working days; but on the Sabbath day it shall be opened, and on the day of the new moon it shall be opened."
     },
     {
       "chapter": 46,
@@ -5975,12 +5975,12 @@
     {
       "chapter": 46,
       "verse": 3,
-      "text": "The people of the land shall worship at the door of that gate before Yahweh on the Sabbaths and on the new moons."
+      "text": "The people of the land shall worship at the door of that gate before the LORD on the Sabbaths and on the new moons."
     },
     {
       "chapter": 46,
       "verse": 4,
-      "text": "The burnt offering that the prince shall offer to Yahweh shall be on the Sabbath day, six lambs without defect and a ram without defect;"
+      "text": "The burnt offering that the prince shall offer to the LORD shall be on the Sabbath day, six lambs without defect and a ram without defect;"
     },
     {
       "chapter": 46,
@@ -6005,7 +6005,7 @@
     {
       "chapter": 46,
       "verse": 9,
-      "text": "“ ‘ “But when the people of the land come before Yahweh in the appointed feasts, he who enters by the way of the north gate to worship shall go out by the way of the south gate; and he who enters by the way of the south gate shall go out by the way of the north gate. He shall not return by the way of the gate by which he came in, but shall go out straight before him."
+      "text": "“ ‘ “But when the people of the land come before the LORD in the appointed feasts, he who enters by the way of the north gate to worship shall go out by the way of the south gate; and he who enters by the way of the south gate shall go out by the way of the north gate. He shall not return by the way of the gate by which he came in, but shall go out straight before him."
     },
     {
       "chapter": 46,
@@ -6020,17 +6020,17 @@
     {
       "chapter": 46,
       "verse": 12,
-      "text": "When the prince prepares a free will offering, a burnt offering or peace offerings as a free will offering to Yahweh, one shall open for him the gate that looks toward the east; and he shall prepare his burnt offering and his peace offerings, as he does on the Sabbath day. Then he shall go out; and after his going out one shall shut the gate."
+      "text": "When the prince prepares a free will offering, a burnt offering or peace offerings as a free will offering to the LORD, one shall open for him the gate that looks toward the east; and he shall prepare his burnt offering and his peace offerings, as he does on the Sabbath day. Then he shall go out; and after his going out one shall shut the gate."
     },
     {
       "chapter": 46,
       "verse": 13,
-      "text": "“ ‘ “You shall prepare a lamb a year old without defect for a burnt offering to Yahweh daily. Morning by morning you shall prepare it."
+      "text": "“ ‘ “You shall prepare a lamb a year old without defect for a burnt offering to the LORD daily. Morning by morning you shall prepare it."
     },
     {
       "chapter": 46,
       "verse": 14,
-      "text": "You shall prepare a meal offering with it morning by morning, the sixth part of an ephah, and the third part of a hin of oil to moisten the fine flour; a meal offering to Yahweh continually by a perpetual ordinance."
+      "text": "You shall prepare a meal offering with it morning by morning, the sixth part of an ephah, and the third part of a hin of oil to moisten the fine flour; a meal offering to the LORD continually by a perpetual ordinance."
     },
     {
       "chapter": 46,
@@ -6040,7 +6040,7 @@
     {
       "chapter": 46,
       "verse": 16,
-      "text": "“ ‘The Lord Yahweh says: “If the prince gives a gift to any of his sons, it is his inheritance. It shall belong to his sons. It is their possession by inheritance."
+      "text": "“ ‘The Lord the LORD says: “If the prince gives a gift to any of his sons, it is his inheritance. It shall belong to his sons. It is their possession by inheritance."
     },
     {
       "chapter": 46,
@@ -6145,7 +6145,7 @@
     {
       "chapter": 47,
       "verse": 13,
-      "text": "The Lord Yahweh says: “This shall be the border by which you shall divide the land for inheritance according to the twelve tribes of Israel. Joseph shall have two portions."
+      "text": "The Lord the LORD says: “This shall be the border by which you shall divide the land for inheritance according to the twelve tribes of Israel. Joseph shall have two portions."
     },
     {
       "chapter": 47,
@@ -6195,7 +6195,7 @@
     {
       "chapter": 47,
       "verse": 23,
-      "text": "In whatever tribe the stranger lives, there you shall give him his inheritance,” says the Lord Yahweh."
+      "text": "In whatever tribe the stranger lives, there you shall give him his inheritance,” says the Lord the LORD."
     },
     {
       "chapter": 48,
@@ -6240,12 +6240,12 @@
     {
       "chapter": 48,
       "verse": 9,
-      "text": "“The offering that you shall offer to Yahweh shall be twenty-five thousand reeds in length, and ten thousand in width."
+      "text": "“The offering that you shall offer to the LORD shall be twenty-five thousand reeds in length, and ten thousand in width."
     },
     {
       "chapter": 48,
       "verse": 10,
-      "text": "For these, even for the priests, shall be the holy offering: toward the north twenty-five thousand in length, and toward the west ten thousand in width, and toward the east ten thousand in width, and toward the south twenty-five thousand in length; and the sanctuary of Yahweh shall be in the middle of it."
+      "text": "For these, even for the priests, shall be the holy offering: toward the north twenty-five thousand in length, and toward the west ten thousand in width, and toward the east ten thousand in width, and toward the south twenty-five thousand in length; and the sanctuary of the LORD shall be in the middle of it."
     },
     {
       "chapter": 48,
@@ -6265,7 +6265,7 @@
     {
       "chapter": 48,
       "verse": 14,
-      "text": "They shall sell none of it, nor exchange it, nor shall the first fruits of the land be alienated, for it is holy to Yahweh."
+      "text": "They shall sell none of it, nor exchange it, nor shall the first fruits of the land be alienated, for it is holy to the LORD."
     },
     {
       "chapter": 48,
@@ -6340,7 +6340,7 @@
     {
       "chapter": 48,
       "verse": 29,
-      "text": "“This is the land which you shall divide by lot to the tribes of Israel for inheritance, and these are their several portions, says the Lord Yahweh."
+      "text": "“This is the land which you shall divide by lot to the tribes of Israel for inheritance, and these are their several portions, says the Lord the LORD."
     },
     {
       "chapter": 48,
@@ -6370,7 +6370,7 @@
     {
       "chapter": 48,
       "verse": 35,
-      "text": "“It shall be eighteen thousand reeds in circumference; and the name of the city from that day shall be, ‘Yahweh is there.’"
+      "text": "“It shall be eighteen thousand reeds in circumference; and the name of the city from that day shall be, ‘The LORD is there.’"
     }
   ]
 }

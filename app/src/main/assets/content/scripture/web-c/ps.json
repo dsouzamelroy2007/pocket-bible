@@ -5,7 +5,7 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
@@ -15,7 +15,7 @@
     {
       "chapter": 1,
       "verse": 2,
-      "text": "but his delight is in Yahweh’s law. On his law he meditates day and night."
+      "text": "but his delight is in the LORD’s law. On his law he meditates day and night."
     },
     {
       "chapter": 1,
@@ -35,7 +35,7 @@
     {
       "chapter": 1,
       "verse": 6,
-      "text": "For Yahweh knows the way of the righteous, but the way of the wicked shall perish."
+      "text": "For the LORD knows the way of the righteous, but the way of the wicked shall perish."
     },
     {
       "chapter": 2,
@@ -45,7 +45,7 @@
     {
       "chapter": 2,
       "verse": 2,
-      "text": "The kings of the earth take a stand, and the rulers take counsel together, against Yahweh, and against his Anointed, saying,"
+      "text": "The kings of the earth take a stand, and the rulers take counsel together, against the LORD, and against his Anointed, saying,"
     },
     {
       "chapter": 2,
@@ -70,7 +70,7 @@
     {
       "chapter": 2,
       "verse": 7,
-      "text": "I will tell of the decree: Yahweh said to me, “You are my son. Today I have become your father."
+      "text": "I will tell of the decree: the LORD said to me, “You are my son. Today I have become your father."
     },
     {
       "chapter": 2,
@@ -90,7 +90,7 @@
     {
       "chapter": 2,
       "verse": 11,
-      "text": "Serve Yahweh with fear, and rejoice with trembling."
+      "text": "Serve the LORD with fear, and rejoice with trembling."
     },
     {
       "chapter": 2,
@@ -100,7 +100,7 @@
     {
       "chapter": 3,
       "verse": 1,
-      "text": "Yahweh, how my adversaries have increased! Many are those who rise up against me."
+      "text": "The LORD, how my adversaries have increased! Many are those who rise up against me."
     },
     {
       "chapter": 3,
@@ -110,17 +110,17 @@
     {
       "chapter": 3,
       "verse": 3,
-      "text": "But you, Yahweh, are a shield around me, my glory, and the one who lifts up my head."
+      "text": "But you, the LORD, are a shield around me, my glory, and the one who lifts up my head."
     },
     {
       "chapter": 3,
       "verse": 4,
-      "text": "I cry to Yahweh with my voice, and he answers me out of his holy hill. Selah."
+      "text": "I cry to the LORD with my voice, and he answers me out of his holy hill. Selah."
     },
     {
       "chapter": 3,
       "verse": 5,
-      "text": "I laid myself down and slept. I awakened, for Yahweh sustains me."
+      "text": "I laid myself down and slept. I awakened, for the LORD sustains me."
     },
     {
       "chapter": 3,
@@ -130,12 +130,12 @@
     {
       "chapter": 3,
       "verse": 7,
-      "text": "Arise, Yahweh! Save me, my God! For you have struck all of my enemies on the cheek bone. You have broken the teeth of the wicked."
+      "text": "Arise, the LORD! Save me, my God! For you have struck all of my enemies on the cheek bone. You have broken the teeth of the wicked."
     },
     {
       "chapter": 3,
       "verse": 8,
-      "text": "Salvation belongs to Yahweh. May your blessing be on your people. Selah."
+      "text": "Salvation belongs to the LORD. May your blessing be on your people. Selah."
     },
     {
       "chapter": 4,
@@ -150,7 +150,7 @@
     {
       "chapter": 4,
       "verse": 3,
-      "text": "But know that Yahweh has set apart for himself him who is godly; Yahweh will hear when I call to him."
+      "text": "But know that the LORD has set apart for himself him who is godly; the LORD will hear when I call to him."
     },
     {
       "chapter": 4,
@@ -160,12 +160,12 @@
     {
       "chapter": 4,
       "verse": 5,
-      "text": "Offer the sacrifices of righteousness. Put your trust in Yahweh."
+      "text": "Offer the sacrifices of righteousness. Put your trust in the LORD."
     },
     {
       "chapter": 4,
       "verse": 6,
-      "text": "Many say, “Who will show us any good?” Yahweh, let the light of your face shine on us."
+      "text": "Many say, “Who will show us any good?” the LORD, let the light of your face shine on us."
     },
     {
       "chapter": 4,
@@ -175,12 +175,12 @@
     {
       "chapter": 4,
       "verse": 8,
-      "text": "In peace I will both lay myself down and sleep, for you alone, Yahweh, make me live in safety."
+      "text": "In peace I will both lay myself down and sleep, for you alone, the LORD, make me live in safety."
     },
     {
       "chapter": 5,
       "verse": 1,
-      "text": "Give ear to my words, Yahweh. Consider my meditation."
+      "text": "Give ear to my words, the LORD. Consider my meditation."
     },
     {
       "chapter": 5,
@@ -190,7 +190,7 @@
     {
       "chapter": 5,
       "verse": 3,
-      "text": "Yahweh, in the morning you will hear my voice. In the morning I will lay my requests before you, and will watch expectantly."
+      "text": "The LORD, in the morning you will hear my voice. In the morning I will lay my requests before you, and will watch expectantly."
     },
     {
       "chapter": 5,
@@ -205,7 +205,7 @@
     {
       "chapter": 5,
       "verse": 6,
-      "text": "You will destroy those who speak lies. Yahweh abhors the bloodthirsty and deceitful man."
+      "text": "You will destroy those who speak lies. The LORD abhors the bloodthirsty and deceitful man."
     },
     {
       "chapter": 5,
@@ -215,7 +215,7 @@
     {
       "chapter": 5,
       "verse": 8,
-      "text": "Lead me, Yahweh, in your righteousness because of my enemies. Make your way straight before my face."
+      "text": "Lead me, the LORD, in your righteousness because of my enemies. Make your way straight before my face."
     },
     {
       "chapter": 5,
@@ -235,27 +235,27 @@
     {
       "chapter": 5,
       "verse": 12,
-      "text": "For you will bless the righteous. Yahweh, you will surround him with favor as with a shield."
+      "text": "For you will bless the righteous. The LORD, you will surround him with favor as with a shield."
     },
     {
       "chapter": 6,
       "verse": 1,
-      "text": "Yahweh, don’t rebuke me in your anger, neither discipline me in your wrath."
+      "text": "The LORD, don’t rebuke me in your anger, neither discipline me in your wrath."
     },
     {
       "chapter": 6,
       "verse": 2,
-      "text": "Have mercy on me, Yahweh, for I am faint. Yahweh, heal me, for my bones are troubled."
+      "text": "Have mercy on me, the LORD, for I am faint. The LORD, heal me, for my bones are troubled."
     },
     {
       "chapter": 6,
       "verse": 3,
-      "text": "My soul is also in great anguish. But you, Yahweh—how long?"
+      "text": "My soul is also in great anguish. But you, the LORD—how long?"
     },
     {
       "chapter": 6,
       "verse": 4,
-      "text": "Return, Yahweh. Deliver my soul, and save me for your loving kindness’ sake."
+      "text": "Return, the LORD. Deliver my soul, and save me for your loving kindness’ sake."
     },
     {
       "chapter": 6,
@@ -275,12 +275,12 @@
     {
       "chapter": 6,
       "verse": 8,
-      "text": "Depart from me, all you workers of iniquity, for Yahweh has heard the voice of my weeping."
+      "text": "Depart from me, all you workers of iniquity, for the LORD has heard the voice of my weeping."
     },
     {
       "chapter": 6,
       "verse": 9,
-      "text": "Yahweh has heard my supplication. Yahweh accepts my prayer."
+      "text": "The LORD has heard my supplication. The LORD accepts my prayer."
     },
     {
       "chapter": 6,
@@ -290,7 +290,7 @@
     {
       "chapter": 7,
       "verse": 1,
-      "text": "Yahweh, my God, I take refuge in you. Save me from all those who pursue me, and deliver me,"
+      "text": "The LORD, my God, I take refuge in you. Save me from all those who pursue me, and deliver me,"
     },
     {
       "chapter": 7,
@@ -300,7 +300,7 @@
     {
       "chapter": 7,
       "verse": 3,
-      "text": "Yahweh, my God, if I have done this, if there is iniquity in my hands,"
+      "text": "The LORD, my God, if I have done this, if there is iniquity in my hands,"
     },
     {
       "chapter": 7,
@@ -315,7 +315,7 @@
     {
       "chapter": 7,
       "verse": 6,
-      "text": "Arise, Yahweh, in your anger. Lift up yourself against the rage of my adversaries. Awake for me. You have commanded judgment."
+      "text": "Arise, the LORD, in your anger. Lift up yourself against the rage of my adversaries. Awake for me. You have commanded judgment."
     },
     {
       "chapter": 7,
@@ -325,7 +325,7 @@
     {
       "chapter": 7,
       "verse": 8,
-      "text": "Yahweh administers judgment to the peoples. Judge me, Yahweh, according to my righteousness, and to my integrity that is in me."
+      "text": "The LORD administers judgment to the peoples. Judge me, the LORD, according to my righteousness, and to my integrity that is in me."
     },
     {
       "chapter": 7,
@@ -370,12 +370,12 @@
     {
       "chapter": 7,
       "verse": 17,
-      "text": "I will give thanks to Yahweh according to his righteousness, and will sing praise to the name of Yahweh Most High."
+      "text": "I will give thanks to the LORD according to his righteousness, and will sing praise to the name of the LORD Most High."
     },
     {
       "chapter": 8,
       "verse": 1,
-      "text": "Yahweh, our Lord, how majestic is your name in all the earth! You have set your glory above the heavens!"
+      "text": "The LORD, our Lord, how majestic is your name in all the earth! You have set your glory above the heavens!"
     },
     {
       "chapter": 8,
@@ -415,12 +415,12 @@
     {
       "chapter": 8,
       "verse": 9,
-      "text": "Yahweh, our Lord, how majestic is your name in all the earth!"
+      "text": "The LORD, our Lord, how majestic is your name in all the earth!"
     },
     {
       "chapter": 9,
       "verse": 1,
-      "text": "I will give thanks to Yahweh with my whole heart. I will tell of all your marvelous works."
+      "text": "I will give thanks to the LORD with my whole heart. I will tell of all your marvelous works."
     },
     {
       "chapter": 9,
@@ -450,7 +450,7 @@
     {
       "chapter": 9,
       "verse": 7,
-      "text": "But Yahweh reigns forever. He has prepared his throne for judgment."
+      "text": "But the LORD reigns forever. He has prepared his throne for judgment."
     },
     {
       "chapter": 9,
@@ -460,17 +460,17 @@
     {
       "chapter": 9,
       "verse": 9,
-      "text": "Yahweh will also be a high tower for the oppressed; a high tower in times of trouble."
+      "text": "The LORD will also be a high tower for the oppressed; a high tower in times of trouble."
     },
     {
       "chapter": 9,
       "verse": 10,
-      "text": "Those who know your name will put their trust in you, for you, Yahweh, have not forsaken those who seek you."
+      "text": "Those who know your name will put their trust in you, for you, the LORD, have not forsaken those who seek you."
     },
     {
       "chapter": 9,
       "verse": 11,
-      "text": "Sing praises to Yahweh, who dwells in Zion, and declare among the people what he has done."
+      "text": "Sing praises to the LORD, who dwells in Zion, and declare among the people what he has done."
     },
     {
       "chapter": 9,
@@ -480,7 +480,7 @@
     {
       "chapter": 9,
       "verse": 13,
-      "text": "Have mercy on me, Yahweh. See my affliction by those who hate me, and lift me up from the gates of death,"
+      "text": "Have mercy on me, the LORD. See my affliction by those who hate me, and lift me up from the gates of death,"
     },
     {
       "chapter": 9,
@@ -495,7 +495,7 @@
     {
       "chapter": 9,
       "verse": 16,
-      "text": "Yahweh has made himself known. He has executed judgment. The wicked is snared by the work of his own hands. Meditation. Selah."
+      "text": "The LORD has made himself known. He has executed judgment. The wicked is snared by the work of his own hands. Meditation. Selah."
     },
     {
       "chapter": 9,
@@ -510,17 +510,17 @@
     {
       "chapter": 9,
       "verse": 19,
-      "text": "Arise, Yahweh! Don’t let man prevail. Let the nations be judged in your sight."
+      "text": "Arise, the LORD! Don’t let man prevail. Let the nations be judged in your sight."
     },
     {
       "chapter": 9,
       "verse": 20,
-      "text": "Put them in fear, Yahweh. Let the nations know that they are only men. Selah."
+      "text": "Put them in fear, the LORD. Let the nations know that they are only men. Selah."
     },
     {
       "chapter": 10,
       "verse": 1,
-      "text": "Why do you stand far off, Yahweh? Why do you hide yourself in times of trouble?"
+      "text": "Why do you stand far off, the LORD? Why do you hide yourself in times of trouble?"
     },
     {
       "chapter": 10,
@@ -530,7 +530,7 @@
     {
       "chapter": 10,
       "verse": 3,
-      "text": "For the wicked boasts of his heart’s cravings. He blesses the greedy and condemns Yahweh."
+      "text": "For the wicked boasts of his heart’s cravings. He blesses the greedy and condemns the LORD."
     },
     {
       "chapter": 10,
@@ -575,7 +575,7 @@
     {
       "chapter": 10,
       "verse": 12,
-      "text": "Arise, Yahweh! God, lift up your hand! Don’t forget the helpless."
+      "text": "Arise, the LORD! God, lift up your hand! Don’t forget the helpless."
     },
     {
       "chapter": 10,
@@ -595,12 +595,12 @@
     {
       "chapter": 10,
       "verse": 16,
-      "text": "Yahweh is King forever and ever! The nations will perish out of his land."
+      "text": "The LORD is King forever and ever! The nations will perish out of his land."
     },
     {
       "chapter": 10,
       "verse": 17,
-      "text": "Yahweh, you have heard the desire of the humble. You will prepare their heart. You will cause your ear to hear,"
+      "text": "The LORD, you have heard the desire of the humble. You will prepare their heart. You will cause your ear to hear,"
     },
     {
       "chapter": 10,
@@ -610,7 +610,7 @@
     {
       "chapter": 11,
       "verse": 1,
-      "text": "In Yahweh, I take refuge. How can you say to my soul, “Flee as a bird to your mountain”?"
+      "text": "In the LORD, I take refuge. How can you say to my soul, “Flee as a bird to your mountain”?"
     },
     {
       "chapter": 11,
@@ -625,12 +625,12 @@
     {
       "chapter": 11,
       "verse": 4,
-      "text": "Yahweh is in his holy temple. Yahweh is on his throne in heaven. His eyes observe. His eyes examine the children of men."
+      "text": "The LORD is in his holy temple. The LORD is on his throne in heaven. His eyes observe. His eyes examine the children of men."
     },
     {
       "chapter": 11,
       "verse": 5,
-      "text": "Yahweh examines the righteous, but his soul hates the wicked and him who loves violence."
+      "text": "The LORD examines the righteous, but his soul hates the wicked and him who loves violence."
     },
     {
       "chapter": 11,
@@ -640,12 +640,12 @@
     {
       "chapter": 11,
       "verse": 7,
-      "text": "For Yahweh is righteous. He loves righteousness. The upright shall see his face."
+      "text": "For the LORD is righteous. He loves righteousness. The upright shall see his face."
     },
     {
       "chapter": 12,
       "verse": 1,
-      "text": "Help, Yahweh; for the godly man ceases. For the faithful fail from among the children of men."
+      "text": "Help, the LORD; for the godly man ceases. For the faithful fail from among the children of men."
     },
     {
       "chapter": 12,
@@ -655,7 +655,7 @@
     {
       "chapter": 12,
       "verse": 3,
-      "text": "May Yahweh cut off all flattering lips, and the tongue that boasts,"
+      "text": "May the LORD cut off all flattering lips, and the tongue that boasts,"
     },
     {
       "chapter": 12,
@@ -665,17 +665,17 @@
     {
       "chapter": 12,
       "verse": 5,
-      "text": "“Because of the oppression of the weak and because of the groaning of the needy, I will now arise,” says Yahweh; “I will set him in safety from those who malign him.”"
+      "text": "“Because of the oppression of the weak and because of the groaning of the needy, I will now arise,” says the LORD; “I will set him in safety from those who malign him.”"
     },
     {
       "chapter": 12,
       "verse": 6,
-      "text": "Yahweh’s words are flawless words, as silver refined in a clay furnace, purified seven times."
+      "text": "The LORD’s words are flawless words, as silver refined in a clay furnace, purified seven times."
     },
     {
       "chapter": 12,
       "verse": 7,
-      "text": "You will keep them, Yahweh. You will preserve them from this generation forever."
+      "text": "You will keep them, the LORD. You will preserve them from this generation forever."
     },
     {
       "chapter": 12,
@@ -685,7 +685,7 @@
     {
       "chapter": 13,
       "verse": 1,
-      "text": "How long, Yahweh? Will you forget me forever? How long will you hide your face from me?"
+      "text": "How long, the LORD? Will you forget me forever? How long will you hide your face from me?"
     },
     {
       "chapter": 13,
@@ -695,7 +695,7 @@
     {
       "chapter": 13,
       "verse": 3,
-      "text": "Behold, and answer me, Yahweh, my God. Give light to my eyes, lest I sleep in death;"
+      "text": "Behold, and answer me, the LORD, my God. Give light to my eyes, lest I sleep in death;"
     },
     {
       "chapter": 13,
@@ -710,7 +710,7 @@
     {
       "chapter": 13,
       "verse": 6,
-      "text": "I will sing to Yahweh, because he has been good to me."
+      "text": "I will sing to the LORD, because he has been good to me."
     },
     {
       "chapter": 14,
@@ -720,7 +720,7 @@
     {
       "chapter": 14,
       "verse": 2,
-      "text": "Yahweh looked down from heaven on the children of men, to see if there were any who understood, who sought after God."
+      "text": "The LORD looked down from heaven on the children of men, to see if there were any who understood, who sought after God."
     },
     {
       "chapter": 14,
@@ -730,7 +730,7 @@
     {
       "chapter": 14,
       "verse": 4,
-      "text": "Have all the workers of iniquity no knowledge, who eat up my people as they eat bread, and don’t call on Yahweh?"
+      "text": "Have all the workers of iniquity no knowledge, who eat up my people as they eat bread, and don’t call on the LORD?"
     },
     {
       "chapter": 14,
@@ -740,17 +740,17 @@
     {
       "chapter": 14,
       "verse": 6,
-      "text": "You frustrate the plan of the poor, because Yahweh is his refuge."
+      "text": "You frustrate the plan of the poor, because the LORD is his refuge."
     },
     {
       "chapter": 14,
       "verse": 7,
-      "text": "Oh that the salvation of Israel would come out of Zion! When Yahweh restores the fortunes of his people, then Jacob shall rejoice, and Israel shall be glad."
+      "text": "Oh that the salvation of Israel would come out of Zion! When the LORD restores the fortunes of his people, then Jacob shall rejoice, and Israel shall be glad."
     },
     {
       "chapter": 15,
       "verse": 1,
-      "text": "Yahweh, who shall dwell in your sanctuary? Who shall live on your holy hill?"
+      "text": "The LORD, who shall dwell in your sanctuary? Who shall live on your holy hill?"
     },
     {
       "chapter": 15,
@@ -765,7 +765,7 @@
     {
       "chapter": 15,
       "verse": 4,
-      "text": "in whose eyes a vile man is despised, but who honors those who fear Yahweh; he who keeps an oath even when it hurts, and doesn’t change;"
+      "text": "in whose eyes a vile man is despised, but who honors those who fear the LORD; he who keeps an oath even when it hurts, and doesn’t change;"
     },
     {
       "chapter": 15,
@@ -780,7 +780,7 @@
     {
       "chapter": 16,
       "verse": 2,
-      "text": "My soul, you have said to Yahweh, “You are my Lord. Apart from you I have no good thing.”"
+      "text": "My soul, you have said to the LORD, “You are my Lord. Apart from you I have no good thing.”"
     },
     {
       "chapter": 16,
@@ -795,7 +795,7 @@
     {
       "chapter": 16,
       "verse": 5,
-      "text": "Yahweh assigned my portion and my cup. You made my lot secure."
+      "text": "The LORD assigned my portion and my cup. You made my lot secure."
     },
     {
       "chapter": 16,
@@ -805,12 +805,12 @@
     {
       "chapter": 16,
       "verse": 7,
-      "text": "I will bless Yahweh, who has given me counsel. Yes, my heart instructs me in the night seasons."
+      "text": "I will bless the LORD, who has given me counsel. Yes, my heart instructs me in the night seasons."
     },
     {
       "chapter": 16,
       "verse": 8,
-      "text": "I have set Yahweh always before me. Because he is at my right hand, I shall not be moved."
+      "text": "I have set the LORD always before me. Because he is at my right hand, I shall not be moved."
     },
     {
       "chapter": 16,
@@ -830,7 +830,7 @@
     {
       "chapter": 17,
       "verse": 1,
-      "text": "Hear, Yahweh, my righteous plea. Give ear to my prayer that doesn’t go out of deceitful lips."
+      "text": "Hear, the LORD, my righteous plea. Give ear to my prayer that doesn’t go out of deceitful lips."
     },
     {
       "chapter": 17,
@@ -890,12 +890,12 @@
     {
       "chapter": 17,
       "verse": 13,
-      "text": "Arise, Yahweh, confront him. Cast him down. Deliver my soul from the wicked by your sword,"
+      "text": "Arise, the LORD, confront him. Cast him down. Deliver my soul from the wicked by your sword,"
     },
     {
       "chapter": 17,
       "verse": 14,
-      "text": "from men by your hand, Yahweh, from men of the world, whose portion is in this life. You fill the belly of your cherished ones. Your sons have plenty, and they store up wealth for their children."
+      "text": "from men by your hand, the LORD, from men of the world, whose portion is in this life. You fill the belly of your cherished ones. Your sons have plenty, and they store up wealth for their children."
     },
     {
       "chapter": 17,
@@ -905,17 +905,17 @@
     {
       "chapter": 18,
       "verse": 1,
-      "text": "I love you, Yahweh, my strength."
+      "text": "I love you, the LORD, my strength."
     },
     {
       "chapter": 18,
       "verse": 2,
-      "text": "Yahweh is my rock, my fortress, and my deliverer; my God, my rock, in whom I take refuge; my shield, and the horn of my salvation, my high tower."
+      "text": "The LORD is my rock, my fortress, and my deliverer; my God, my rock, in whom I take refuge; my shield, and the horn of my salvation, my high tower."
     },
     {
       "chapter": 18,
       "verse": 3,
-      "text": "I call on Yahweh, who is worthy to be praised; and I am saved from my enemies."
+      "text": "I call on the LORD, who is worthy to be praised; and I am saved from my enemies."
     },
     {
       "chapter": 18,
@@ -930,7 +930,7 @@
     {
       "chapter": 18,
       "verse": 6,
-      "text": "In my distress I called on Yahweh, and cried to my God. He heard my voice out of his temple. My cry before him came into his ears."
+      "text": "In my distress I called on the LORD, and cried to my God. He heard my voice out of his temple. My cry before him came into his ears."
     },
     {
       "chapter": 18,
@@ -965,7 +965,7 @@
     {
       "chapter": 18,
       "verse": 13,
-      "text": "Yahweh also thundered in the sky. The Most High uttered his voice: hailstones and coals of fire."
+      "text": "The LORD also thundered in the sky. The Most High uttered his voice: hailstones and coals of fire."
     },
     {
       "chapter": 18,
@@ -975,7 +975,7 @@
     {
       "chapter": 18,
       "verse": 15,
-      "text": "Then the channels of waters appeared. The foundations of the world were laid bare at your rebuke, Yahweh, at the blast of the breath of your nostrils."
+      "text": "Then the channels of waters appeared. The foundations of the world were laid bare at your rebuke, the LORD, at the blast of the breath of your nostrils."
     },
     {
       "chapter": 18,
@@ -990,7 +990,7 @@
     {
       "chapter": 18,
       "verse": 18,
-      "text": "They came on me in the day of my calamity, but Yahweh was my support."
+      "text": "They came on me in the day of my calamity, but the LORD was my support."
     },
     {
       "chapter": 18,
@@ -1000,12 +1000,12 @@
     {
       "chapter": 18,
       "verse": 20,
-      "text": "Yahweh has rewarded me according to my righteousness. According to the cleanness of my hands, he has recompensed me."
+      "text": "The LORD has rewarded me according to my righteousness. According to the cleanness of my hands, he has recompensed me."
     },
     {
       "chapter": 18,
       "verse": 21,
-      "text": "For I have kept the ways of Yahweh, and have not wickedly departed from my God."
+      "text": "For I have kept the ways of the LORD, and have not wickedly departed from my God."
     },
     {
       "chapter": 18,
@@ -1020,7 +1020,7 @@
     {
       "chapter": 18,
       "verse": 24,
-      "text": "Therefore Yahweh has rewarded me according to my righteousness, according to the cleanness of my hands in his eyesight."
+      "text": "Therefore the LORD has rewarded me according to my righteousness, according to the cleanness of my hands in his eyesight."
     },
     {
       "chapter": 18,
@@ -1040,7 +1040,7 @@
     {
       "chapter": 18,
       "verse": 28,
-      "text": "For you will light my lamp, Yahweh. My God will light up my darkness."
+      "text": "For you will light my lamp, the LORD. My God will light up my darkness."
     },
     {
       "chapter": 18,
@@ -1050,12 +1050,12 @@
     {
       "chapter": 18,
       "verse": 30,
-      "text": "As for God, his way is perfect. Yahweh’s word is tried. He is a shield to all those who take refuge in him."
+      "text": "As for God, his way is perfect. The LORD’s word is tried. He is a shield to all those who take refuge in him."
     },
     {
       "chapter": 18,
       "verse": 31,
-      "text": "For who is God, except Yahweh? Who is a rock, besides our God,"
+      "text": "For who is God, except the LORD? Who is a rock, besides our God,"
     },
     {
       "chapter": 18,
@@ -1105,7 +1105,7 @@
     {
       "chapter": 18,
       "verse": 41,
-      "text": "They cried, but there was no one to save; even to Yahweh, but he didn’t answer them."
+      "text": "They cried, but there was no one to save; even to the LORD, but he didn’t answer them."
     },
     {
       "chapter": 18,
@@ -1130,7 +1130,7 @@
     {
       "chapter": 18,
       "verse": 46,
-      "text": "Yahweh lives! Blessed be my rock. Exalted be the God of my salvation,"
+      "text": "The LORD lives! Blessed be my rock. Exalted be the God of my salvation,"
     },
     {
       "chapter": 18,
@@ -1145,7 +1145,7 @@
     {
       "chapter": 18,
       "verse": 49,
-      "text": "Therefore I will give thanks to you, Yahweh, among the nations, and will sing praises to your name."
+      "text": "Therefore I will give thanks to you, the LORD, among the nations, and will sing praises to your name."
     },
     {
       "chapter": 18,
@@ -1185,17 +1185,17 @@
     {
       "chapter": 19,
       "verse": 7,
-      "text": "Yahweh’s law is perfect, restoring the soul. Yahweh’s covenant is sure, making wise the simple."
+      "text": "The LORD’s law is perfect, restoring the soul. The LORD’s covenant is sure, making wise the simple."
     },
     {
       "chapter": 19,
       "verse": 8,
-      "text": "Yahweh’s precepts are right, rejoicing the heart. Yahweh’s commandment is pure, enlightening the eyes."
+      "text": "The LORD’s precepts are right, rejoicing the heart. The LORD’s commandment is pure, enlightening the eyes."
     },
     {
       "chapter": 19,
       "verse": 9,
-      "text": "The fear of Yahweh is clean, enduring forever. Yahweh’s ordinances are true, and righteous altogether."
+      "text": "The fear of the LORD is clean, enduring forever. The LORD’s ordinances are true, and righteous altogether."
     },
     {
       "chapter": 19,
@@ -1220,12 +1220,12 @@
     {
       "chapter": 19,
       "verse": 14,
-      "text": "Let the words of my mouth and the meditation of my heart be acceptable in your sight, Yahweh, my rock, and my redeemer."
+      "text": "Let the words of my mouth and the meditation of my heart be acceptable in your sight, the LORD, my rock, and my redeemer."
     },
     {
       "chapter": 20,
       "verse": 1,
-      "text": "May Yahweh answer you in the day of trouble. May the name of the God of Jacob set you up on high,"
+      "text": "May the LORD answer you in the day of trouble. May the name of the God of Jacob set you up on high,"
     },
     {
       "chapter": 20,
@@ -1245,17 +1245,17 @@
     {
       "chapter": 20,
       "verse": 5,
-      "text": "We will triumph in your salvation. In the name of our God, we will set up our banners. May Yahweh grant all your requests."
+      "text": "We will triumph in your salvation. In the name of our God, we will set up our banners. May the LORD grant all your requests."
     },
     {
       "chapter": 20,
       "verse": 6,
-      "text": "Now I know that Yahweh saves his anointed. He will answer him from his holy heaven, with the saving strength of his right hand."
+      "text": "Now I know that the LORD saves his anointed. He will answer him from his holy heaven, with the saving strength of his right hand."
     },
     {
       "chapter": 20,
       "verse": 7,
-      "text": "Some trust in chariots, and some in horses, but we trust in the name of Yahweh our God."
+      "text": "Some trust in chariots, and some in horses, but we trust in the name of the LORD our God."
     },
     {
       "chapter": 20,
@@ -1265,12 +1265,12 @@
     {
       "chapter": 20,
       "verse": 9,
-      "text": "Save, Yahweh! Let the King answer us when we call!"
+      "text": "Save, the LORD! Let the King answer us when we call!"
     },
     {
       "chapter": 21,
       "verse": 1,
-      "text": "The king rejoices in your strength, Yahweh! How greatly he rejoices in your salvation!"
+      "text": "The king rejoices in your strength, the LORD! How greatly he rejoices in your salvation!"
     },
     {
       "chapter": 21,
@@ -1300,7 +1300,7 @@
     {
       "chapter": 21,
       "verse": 7,
-      "text": "For the king trusts in Yahweh. Through the loving kindness of the Most High, he shall not be moved."
+      "text": "For the king trusts in the LORD. Through the loving kindness of the Most High, he shall not be moved."
     },
     {
       "chapter": 21,
@@ -1310,7 +1310,7 @@
     {
       "chapter": 21,
       "verse": 9,
-      "text": "You will make them as a fiery furnace in the time of your anger. Yahweh will swallow them up in his wrath. The fire shall devour them."
+      "text": "You will make them as a fiery furnace in the time of your anger. The LORD will swallow them up in his wrath. The fire shall devour them."
     },
     {
       "chapter": 21,
@@ -1330,7 +1330,7 @@
     {
       "chapter": 21,
       "verse": 13,
-      "text": "Be exalted, Yahweh, in your strength, so we will sing and praise your power."
+      "text": "Be exalted, the LORD, in your strength, so we will sing and praise your power."
     },
     {
       "chapter": 22,
@@ -1370,7 +1370,7 @@
     {
       "chapter": 22,
       "verse": 8,
-      "text": "“He trusts in Yahweh. Let him deliver him. Let him rescue him, since he delights in him.”"
+      "text": "“He trusts in the LORD. Let him deliver him. Let him rescue him, since he delights in him.”"
     },
     {
       "chapter": 22,
@@ -1425,7 +1425,7 @@
     {
       "chapter": 22,
       "verse": 19,
-      "text": "But don’t be far off, Yahweh. You are my help. Hurry to help me!"
+      "text": "But don’t be far off, the LORD. You are my help. Hurry to help me!"
     },
     {
       "chapter": 22,
@@ -1445,7 +1445,7 @@
     {
       "chapter": 22,
       "verse": 23,
-      "text": "You who fear Yahweh, praise him! All you descendants of Jacob, glorify him! Stand in awe of him, all you descendants of Israel!"
+      "text": "You who fear the LORD, praise him! All you descendants of Jacob, glorify him! Stand in awe of him, all you descendants of Israel!"
     },
     {
       "chapter": 22,
@@ -1460,17 +1460,17 @@
     {
       "chapter": 22,
       "verse": 26,
-      "text": "The humble shall eat and be satisfied. They shall praise Yahweh who seek after him. Let your hearts live forever."
+      "text": "The humble shall eat and be satisfied. They shall praise the LORD who seek after him. Let your hearts live forever."
     },
     {
       "chapter": 22,
       "verse": 27,
-      "text": "All the ends of the earth shall remember and turn to Yahweh. All the relatives of the nations shall worship before you."
+      "text": "All the ends of the earth shall remember and turn to the LORD. All the relatives of the nations shall worship before you."
     },
     {
       "chapter": 22,
       "verse": 28,
-      "text": "For the kingdom is Yahweh’s. He is the ruler over the nations."
+      "text": "For the kingdom is the LORD’s. He is the ruler over the nations."
     },
     {
       "chapter": 22,
@@ -1490,7 +1490,7 @@
     {
       "chapter": 23,
       "verse": 1,
-      "text": "Yahweh is my shepherd; I shall lack nothing."
+      "text": "The LORD is my shepherd; I shall lack nothing."
     },
     {
       "chapter": 23,
@@ -1515,12 +1515,12 @@
     {
       "chapter": 23,
       "verse": 6,
-      "text": "Surely goodness and loving kindness shall follow me all the days of my life, and I will dwell in Yahweh’s house forever."
+      "text": "Surely goodness and loving kindness shall follow me all the days of my life, and I will dwell in the LORD’s house forever."
     },
     {
       "chapter": 24,
       "verse": 1,
-      "text": "The earth is Yahweh’s, with its fullness; the world, and those who dwell in it."
+      "text": "The earth is the LORD’s, with its fullness; the world, and those who dwell in it."
     },
     {
       "chapter": 24,
@@ -1530,7 +1530,7 @@
     {
       "chapter": 24,
       "verse": 3,
-      "text": "Who may ascend to Yahweh’s hill? Who may stand in his holy place?"
+      "text": "Who may ascend to the LORD’s hill? Who may stand in his holy place?"
     },
     {
       "chapter": 24,
@@ -1540,7 +1540,7 @@
     {
       "chapter": 24,
       "verse": 5,
-      "text": "He shall receive a blessing from Yahweh, righteousness from the God of his salvation."
+      "text": "He shall receive a blessing from the LORD, righteousness from the God of his salvation."
     },
     {
       "chapter": 24,
@@ -1555,7 +1555,7 @@
     {
       "chapter": 24,
       "verse": 8,
-      "text": "Who is the King of glory? Yahweh strong and mighty, Yahweh mighty in battle."
+      "text": "Who is the King of glory? The LORD strong and mighty, the LORD mighty in battle."
     },
     {
       "chapter": 24,
@@ -1565,12 +1565,12 @@
     {
       "chapter": 24,
       "verse": 10,
-      "text": "Who is this King of glory? Yahweh of Armies is the King of glory! Selah."
+      "text": "Who is this King of glory? The LORD of Armies is the King of glory! Selah."
     },
     {
       "chapter": 25,
       "verse": 1,
-      "text": "To you, Yahweh, I lift up my soul."
+      "text": "To you, the LORD, I lift up my soul."
     },
     {
       "chapter": 25,
@@ -1585,7 +1585,7 @@
     {
       "chapter": 25,
       "verse": 4,
-      "text": "Show me your ways, Yahweh. Teach me your paths."
+      "text": "Show me your ways, the LORD. Teach me your paths."
     },
     {
       "chapter": 25,
@@ -1595,17 +1595,17 @@
     {
       "chapter": 25,
       "verse": 6,
-      "text": "Yahweh, remember your tender mercies and your loving kindness, for they are from old times."
+      "text": "The LORD, remember your tender mercies and your loving kindness, for they are from old times."
     },
     {
       "chapter": 25,
       "verse": 7,
-      "text": "Don’t remember the sins of my youth, nor my transgressions. Remember me according to your loving kindness, for your goodness’ sake, Yahweh."
+      "text": "Don’t remember the sins of my youth, nor my transgressions. Remember me according to your loving kindness, for your goodness’ sake, the LORD."
     },
     {
       "chapter": 25,
       "verse": 8,
-      "text": "Good and upright is Yahweh, therefore he will instruct sinners in the way."
+      "text": "Good and upright is the LORD, therefore he will instruct sinners in the way."
     },
     {
       "chapter": 25,
@@ -1615,17 +1615,17 @@
     {
       "chapter": 25,
       "verse": 10,
-      "text": "All the paths of Yahweh are loving kindness and truth to such as keep his covenant and his testimonies."
+      "text": "All the paths of the LORD are loving kindness and truth to such as keep his covenant and his testimonies."
     },
     {
       "chapter": 25,
       "verse": 11,
-      "text": "For your name’s sake, Yahweh, pardon my iniquity, for it is great."
+      "text": "For your name’s sake, the LORD, pardon my iniquity, for it is great."
     },
     {
       "chapter": 25,
       "verse": 12,
-      "text": "What man is he who fears Yahweh? He shall instruct him in the way that he shall choose."
+      "text": "What man is he who fears the LORD? He shall instruct him in the way that he shall choose."
     },
     {
       "chapter": 25,
@@ -1635,12 +1635,12 @@
     {
       "chapter": 25,
       "verse": 14,
-      "text": "The friendship of Yahweh is with those who fear him. He will show them his covenant."
+      "text": "The friendship of the LORD is with those who fear him. He will show them his covenant."
     },
     {
       "chapter": 25,
       "verse": 15,
-      "text": "My eyes are ever on Yahweh, for he will pluck my feet out of the net."
+      "text": "My eyes are ever on the LORD, for he will pluck my feet out of the net."
     },
     {
       "chapter": 25,
@@ -1680,12 +1680,12 @@
     {
       "chapter": 26,
       "verse": 1,
-      "text": "Judge me, Yahweh, for I have walked in my integrity. I have trusted also in Yahweh without wavering."
+      "text": "Judge me, the LORD, for I have walked in my integrity. I have trusted also in the LORD without wavering."
     },
     {
       "chapter": 26,
       "verse": 2,
-      "text": "Examine me, Yahweh, and prove me. Try my heart and my mind."
+      "text": "Examine me, the LORD, and prove me. Try my heart and my mind."
     },
     {
       "chapter": 26,
@@ -1705,7 +1705,7 @@
     {
       "chapter": 26,
       "verse": 6,
-      "text": "I will wash my hands in innocence, so I will go about your altar, Yahweh,"
+      "text": "I will wash my hands in innocence, so I will go about your altar, the LORD,"
     },
     {
       "chapter": 26,
@@ -1715,7 +1715,7 @@
     {
       "chapter": 26,
       "verse": 8,
-      "text": "Yahweh, I love the habitation of your house, the place where your glory dwells."
+      "text": "The LORD, I love the habitation of your house, the place where your glory dwells."
     },
     {
       "chapter": 26,
@@ -1735,12 +1735,12 @@
     {
       "chapter": 26,
       "verse": 12,
-      "text": "My foot stands in an even place. In the congregations I will bless Yahweh."
+      "text": "My foot stands in an even place. In the congregations I will bless the LORD."
     },
     {
       "chapter": 27,
       "verse": 1,
-      "text": "Yahweh is my light and my salvation. Whom shall I fear? Yahweh is the strength of my life. Of whom shall I be afraid?"
+      "text": "The LORD is my light and my salvation. Whom shall I fear? The LORD is the strength of my life. Of whom shall I be afraid?"
     },
     {
       "chapter": 27,
@@ -1755,7 +1755,7 @@
     {
       "chapter": 27,
       "verse": 4,
-      "text": "One thing I have asked of Yahweh, that I will seek after: that I may dwell in Yahweh’s house all the days of my life, to see Yahweh’s beauty, and to inquire in his temple."
+      "text": "One thing I have asked of the LORD, that I will seek after: that I may dwell in the LORD’s house all the days of my life, to see the LORD’s beauty, and to inquire in his temple."
     },
     {
       "chapter": 27,
@@ -1765,17 +1765,17 @@
     {
       "chapter": 27,
       "verse": 6,
-      "text": "Now my head will be lifted up above my enemies around me. I will offer sacrifices of joy in his tent. I will sing, yes, I will sing praises to Yahweh."
+      "text": "Now my head will be lifted up above my enemies around me. I will offer sacrifices of joy in his tent. I will sing, yes, I will sing praises to the LORD."
     },
     {
       "chapter": 27,
       "verse": 7,
-      "text": "Hear, Yahweh, when I cry with my voice. Have mercy also on me, and answer me."
+      "text": "Hear, the LORD, when I cry with my voice. Have mercy also on me, and answer me."
     },
     {
       "chapter": 27,
       "verse": 8,
-      "text": "When you said, “Seek my face,” my heart said to you, “I will seek your face, Yahweh.”"
+      "text": "When you said, “Seek my face,” my heart said to you, “I will seek your face, the LORD.”"
     },
     {
       "chapter": 27,
@@ -1785,12 +1785,12 @@
     {
       "chapter": 27,
       "verse": 10,
-      "text": "When my father and my mother forsake me, then Yahweh will take me up."
+      "text": "When my father and my mother forsake me, then the LORD will take me up."
     },
     {
       "chapter": 27,
       "verse": 11,
-      "text": "Teach me your way, Yahweh. Lead me in a straight path, because of my enemies."
+      "text": "Teach me your way, the LORD. Lead me in a straight path, because of my enemies."
     },
     {
       "chapter": 27,
@@ -1800,17 +1800,17 @@
     {
       "chapter": 27,
       "verse": 13,
-      "text": "I am still confident of this: I will see the goodness of Yahweh in the land of the living."
+      "text": "I am still confident of this: I will see the goodness of the LORD in the land of the living."
     },
     {
       "chapter": 27,
       "verse": 14,
-      "text": "Wait for Yahweh. Be strong, and let your heart take courage. Yes, wait for Yahweh."
+      "text": "Wait for the LORD. Be strong, and let your heart take courage. Yes, wait for the LORD."
     },
     {
       "chapter": 28,
       "verse": 1,
-      "text": "To you, Yahweh, I call. My rock, don’t be deaf to me, lest, if you are silent to me, I would become like those who go down into the pit."
+      "text": "To you, the LORD, I call. My rock, don’t be deaf to me, lest, if you are silent to me, I would become like those who go down into the pit."
     },
     {
       "chapter": 28,
@@ -1830,22 +1830,22 @@
     {
       "chapter": 28,
       "verse": 5,
-      "text": "Because they don’t respect the works of Yahweh, nor the operation of his hands, he will break them down and not build them up."
+      "text": "Because they don’t respect the works of the LORD, nor the operation of his hands, he will break them down and not build them up."
     },
     {
       "chapter": 28,
       "verse": 6,
-      "text": "Blessed be Yahweh, because he has heard the voice of my petitions."
+      "text": "Blessed be the LORD, because he has heard the voice of my petitions."
     },
     {
       "chapter": 28,
       "verse": 7,
-      "text": "Yahweh is my strength and my shield. My heart has trusted in him, and I am helped. Therefore my heart greatly rejoices. With my song I will thank him."
+      "text": "The LORD is my strength and my shield. My heart has trusted in him, and I am helped. Therefore my heart greatly rejoices. With my song I will thank him."
     },
     {
       "chapter": 28,
       "verse": 8,
-      "text": "Yahweh is their strength. He is a stronghold of salvation to his anointed."
+      "text": "The LORD is their strength. He is a stronghold of salvation to his anointed."
     },
     {
       "chapter": 28,
@@ -1855,27 +1855,27 @@
     {
       "chapter": 29,
       "verse": 1,
-      "text": "Ascribe to Yahweh, you sons of the mighty, ascribe to Yahweh glory and strength."
+      "text": "Ascribe to the LORD, you sons of the mighty, ascribe to the LORD glory and strength."
     },
     {
       "chapter": 29,
       "verse": 2,
-      "text": "Ascribe to Yahweh the glory due to his name. Worship Yahweh in holy array."
+      "text": "Ascribe to the LORD the glory due to his name. Worship the LORD in holy array."
     },
     {
       "chapter": 29,
       "verse": 3,
-      "text": "Yahweh’s voice is on the waters. The God of glory thunders, even Yahweh on many waters."
+      "text": "The LORD’s voice is on the waters. The God of glory thunders, even the LORD on many waters."
     },
     {
       "chapter": 29,
       "verse": 4,
-      "text": "Yahweh’s voice is powerful. Yahweh’s voice is full of majesty."
+      "text": "The LORD’s voice is powerful. The LORD’s voice is full of majesty."
     },
     {
       "chapter": 29,
       "verse": 5,
-      "text": "Yahweh’s voice breaks the cedars. Yes, Yahweh breaks in pieces the cedars of Lebanon."
+      "text": "The LORD’s voice breaks the cedars. Yes, the LORD breaks in pieces the cedars of Lebanon."
     },
     {
       "chapter": 29,
@@ -1885,47 +1885,47 @@
     {
       "chapter": 29,
       "verse": 7,
-      "text": "Yahweh’s voice strikes with flashes of lightning."
+      "text": "The LORD’s voice strikes with flashes of lightning."
     },
     {
       "chapter": 29,
       "verse": 8,
-      "text": "Yahweh’s voice shakes the wilderness. Yahweh shakes the wilderness of Kadesh."
+      "text": "The LORD’s voice shakes the wilderness. The LORD shakes the wilderness of Kadesh."
     },
     {
       "chapter": 29,
       "verse": 9,
-      "text": "Yahweh’s voice makes the deer calve, and strips the forests bare. In his temple everything says, “Glory!”"
+      "text": "The LORD’s voice makes the deer calve, and strips the forests bare. In his temple everything says, “Glory!”"
     },
     {
       "chapter": 29,
       "verse": 10,
-      "text": "Yahweh sat enthroned at the Flood. Yes, Yahweh sits as King forever."
+      "text": "The LORD sat enthroned at the Flood. Yes, the LORD sits as King forever."
     },
     {
       "chapter": 29,
       "verse": 11,
-      "text": "Yahweh will give strength to his people. Yahweh will bless his people with peace."
+      "text": "The LORD will give strength to his people. The LORD will bless his people with peace."
     },
     {
       "chapter": 30,
       "verse": 1,
-      "text": "I will extol you, Yahweh, for you have raised me up, and have not made my foes to rejoice over me."
+      "text": "I will extol you, the LORD, for you have raised me up, and have not made my foes to rejoice over me."
     },
     {
       "chapter": 30,
       "verse": 2,
-      "text": "Yahweh my God, I cried to you, and you have healed me."
+      "text": "The LORD my God, I cried to you, and you have healed me."
     },
     {
       "chapter": 30,
       "verse": 3,
-      "text": "Yahweh, you have brought up my soul from Sheol. You have kept me alive, that I should not go down to the pit."
+      "text": "The LORD, you have brought up my soul from Sheol. You have kept me alive, that I should not go down to the pit."
     },
     {
       "chapter": 30,
       "verse": 4,
-      "text": "Sing praise to Yahweh, you saints of his. Give thanks to his holy name."
+      "text": "Sing praise to the LORD, you saints of his. Give thanks to his holy name."
     },
     {
       "chapter": 30,
@@ -1940,12 +1940,12 @@
     {
       "chapter": 30,
       "verse": 7,
-      "text": "You, Yahweh, when you favored me, made my mountain stand strong; but when you hid your face, I was troubled."
+      "text": "You, the LORD, when you favored me, made my mountain stand strong; but when you hid your face, I was troubled."
     },
     {
       "chapter": 30,
       "verse": 8,
-      "text": "I cried to you, Yahweh. I made supplication to the Lord:"
+      "text": "I cried to you, the LORD. I made supplication to the Lord:"
     },
     {
       "chapter": 30,
@@ -1955,7 +1955,7 @@
     {
       "chapter": 30,
       "verse": 10,
-      "text": "Hear, Yahweh, and have mercy on me. Yahweh, be my helper.”"
+      "text": "Hear, the LORD, and have mercy on me. The LORD, be my helper.”"
     },
     {
       "chapter": 30,
@@ -1965,12 +1965,12 @@
     {
       "chapter": 30,
       "verse": 12,
-      "text": "to the end that my heart may sing praise to you, and not be silent. Yahweh my God, I will give thanks to you forever!"
+      "text": "to the end that my heart may sing praise to you, and not be silent. The LORD my God, I will give thanks to you forever!"
     },
     {
       "chapter": 31,
       "verse": 1,
-      "text": "In you, Yahweh, I take refuge. Let me never be disappointed. Deliver me in your righteousness."
+      "text": "In you, the LORD, I take refuge. Let me never be disappointed. Deliver me in your righteousness."
     },
     {
       "chapter": 31,
@@ -1990,12 +1990,12 @@
     {
       "chapter": 31,
       "verse": 5,
-      "text": "Into your hand I commend my spirit. You redeem me, Yahweh, God of truth."
+      "text": "Into your hand I commend my spirit. You redeem me, the LORD, God of truth."
     },
     {
       "chapter": 31,
       "verse": 6,
-      "text": "I hate those who regard lying vanities, but I trust in Yahweh."
+      "text": "I hate those who regard lying vanities, but I trust in the LORD."
     },
     {
       "chapter": 31,
@@ -2010,7 +2010,7 @@
     {
       "chapter": 31,
       "verse": 9,
-      "text": "Have mercy on me, Yahweh, for I am in distress. My eye, my soul, and my body waste away with grief."
+      "text": "Have mercy on me, the LORD, for I am in distress. My eye, my soul, and my body waste away with grief."
     },
     {
       "chapter": 31,
@@ -2035,7 +2035,7 @@
     {
       "chapter": 31,
       "verse": 14,
-      "text": "But I trust in you, Yahweh. I said, “You are my God.”"
+      "text": "But I trust in you, the LORD. I said, “You are my God.”"
     },
     {
       "chapter": 31,
@@ -2050,7 +2050,7 @@
     {
       "chapter": 31,
       "verse": 17,
-      "text": "Let me not be disappointed, Yahweh, for I have called on you. Let the wicked be disappointed. Let them be silent in Sheol."
+      "text": "Let me not be disappointed, the LORD, for I have called on you. Let the wicked be disappointed. Let them be silent in Sheol."
     },
     {
       "chapter": 31,
@@ -2070,7 +2070,7 @@
     {
       "chapter": 31,
       "verse": 21,
-      "text": "Praise be to Yahweh, for he has shown me his marvelous loving kindness in a strong city."
+      "text": "Praise be to the LORD, for he has shown me his marvelous loving kindness in a strong city."
     },
     {
       "chapter": 31,
@@ -2080,12 +2080,12 @@
     {
       "chapter": 31,
       "verse": 23,
-      "text": "Oh love Yahweh, all you his saints! Yahweh preserves the faithful, and fully recompenses him who behaves arrogantly."
+      "text": "Oh love the LORD, all you his saints! The LORD preserves the faithful, and fully recompenses him who behaves arrogantly."
     },
     {
       "chapter": 31,
       "verse": 24,
-      "text": "Be strong, and let your heart take courage, all you who hope in Yahweh."
+      "text": "Be strong, and let your heart take courage, all you who hope in the LORD."
     },
     {
       "chapter": 32,
@@ -2095,7 +2095,7 @@
     {
       "chapter": 32,
       "verse": 2,
-      "text": "Blessed is the man to whom Yahweh doesn’t impute iniquity, in whose spirit there is no deceit."
+      "text": "Blessed is the man to whom the LORD doesn’t impute iniquity, in whose spirit there is no deceit."
     },
     {
       "chapter": 32,
@@ -2110,7 +2110,7 @@
     {
       "chapter": 32,
       "verse": 5,
-      "text": "I acknowledged my sin to you. I didn’t hide my iniquity. I said, I will confess my transgressions to Yahweh, and you forgave the iniquity of my sin. Selah."
+      "text": "I acknowledged my sin to you. I didn’t hide my iniquity. I said, I will confess my transgressions to the LORD, and you forgave the iniquity of my sin. Selah."
     },
     {
       "chapter": 32,
@@ -2135,22 +2135,22 @@
     {
       "chapter": 32,
       "verse": 10,
-      "text": "Many sorrows come to the wicked, but loving kindness shall surround him who trusts in Yahweh."
+      "text": "Many sorrows come to the wicked, but loving kindness shall surround him who trusts in the LORD."
     },
     {
       "chapter": 32,
       "verse": 11,
-      "text": "Be glad in Yahweh, and rejoice, you righteous! Shout for joy, all you who are upright in heart!"
+      "text": "Be glad in the LORD, and rejoice, you righteous! Shout for joy, all you who are upright in heart!"
     },
     {
       "chapter": 33,
       "verse": 1,
-      "text": "Rejoice in Yahweh, you righteous! Praise is fitting for the upright."
+      "text": "Rejoice in the LORD, you righteous! Praise is fitting for the upright."
     },
     {
       "chapter": 33,
       "verse": 2,
-      "text": "Give thanks to Yahweh with the lyre. Sing praises to him with the harp of ten strings."
+      "text": "Give thanks to the LORD with the lyre. Sing praises to him with the harp of ten strings."
     },
     {
       "chapter": 33,
@@ -2160,17 +2160,17 @@
     {
       "chapter": 33,
       "verse": 4,
-      "text": "For Yahweh’s word is right. All his work is done in faithfulness."
+      "text": "For the LORD’s word is right. All his work is done in faithfulness."
     },
     {
       "chapter": 33,
       "verse": 5,
-      "text": "He loves righteousness and justice. The earth is full of the loving kindness of Yahweh."
+      "text": "He loves righteousness and justice. The earth is full of the loving kindness of the LORD."
     },
     {
       "chapter": 33,
       "verse": 6,
-      "text": "By Yahweh’s word, the heavens were made: all their army by the breath of his mouth."
+      "text": "By the LORD’s word, the heavens were made: all their army by the breath of his mouth."
     },
     {
       "chapter": 33,
@@ -2180,7 +2180,7 @@
     {
       "chapter": 33,
       "verse": 8,
-      "text": "Let all the earth fear Yahweh. Let all the inhabitants of the world stand in awe of him."
+      "text": "Let all the earth fear the LORD. Let all the inhabitants of the world stand in awe of him."
     },
     {
       "chapter": 33,
@@ -2190,22 +2190,22 @@
     {
       "chapter": 33,
       "verse": 10,
-      "text": "Yahweh brings the counsel of the nations to nothing. He makes the thoughts of the peoples to be of no effect."
+      "text": "The LORD brings the counsel of the nations to nothing. He makes the thoughts of the peoples to be of no effect."
     },
     {
       "chapter": 33,
       "verse": 11,
-      "text": "The counsel of Yahweh stands fast forever, the thoughts of his heart to all generations."
+      "text": "The counsel of the LORD stands fast forever, the thoughts of his heart to all generations."
     },
     {
       "chapter": 33,
       "verse": 12,
-      "text": "Blessed is the nation whose God is Yahweh, the people whom he has chosen for his own inheritance."
+      "text": "Blessed is the nation whose God is the LORD, the people whom he has chosen for his own inheritance."
     },
     {
       "chapter": 33,
       "verse": 13,
-      "text": "Yahweh looks from heaven. He sees all the sons of men."
+      "text": "The LORD looks from heaven. He sees all the sons of men."
     },
     {
       "chapter": 33,
@@ -2230,7 +2230,7 @@
     {
       "chapter": 33,
       "verse": 18,
-      "text": "Behold, Yahweh’s eye is on those who fear him, on those who hope in his loving kindness,"
+      "text": "Behold, the LORD’s eye is on those who fear him, on those who hope in his loving kindness,"
     },
     {
       "chapter": 33,
@@ -2240,7 +2240,7 @@
     {
       "chapter": 33,
       "verse": 20,
-      "text": "Our soul has waited for Yahweh. He is our help and our shield."
+      "text": "Our soul has waited for the LORD. He is our help and our shield."
     },
     {
       "chapter": 33,
@@ -2250,27 +2250,27 @@
     {
       "chapter": 33,
       "verse": 22,
-      "text": "Let your loving kindness be on us, Yahweh, since we have hoped in you."
+      "text": "Let your loving kindness be on us, the LORD, since we have hoped in you."
     },
     {
       "chapter": 34,
       "verse": 1,
-      "text": "I will bless Yahweh at all times. His praise will always be in my mouth."
+      "text": "I will bless the LORD at all times. His praise will always be in my mouth."
     },
     {
       "chapter": 34,
       "verse": 2,
-      "text": "My soul shall boast in Yahweh. The humble shall hear of it and be glad."
+      "text": "My soul shall boast in the LORD. The humble shall hear of it and be glad."
     },
     {
       "chapter": 34,
       "verse": 3,
-      "text": "Oh magnify Yahweh with me. Let’s exalt his name together."
+      "text": "Oh magnify the LORD with me. Let’s exalt his name together."
     },
     {
       "chapter": 34,
       "verse": 4,
-      "text": "I sought Yahweh, and he answered me, and delivered me from all my fears."
+      "text": "I sought the LORD, and he answered me, and delivered me from all my fears."
     },
     {
       "chapter": 34,
@@ -2280,32 +2280,32 @@
     {
       "chapter": 34,
       "verse": 6,
-      "text": "This poor man cried, and Yahweh heard him, and saved him out of all his troubles."
+      "text": "This poor man cried, and the LORD heard him, and saved him out of all his troubles."
     },
     {
       "chapter": 34,
       "verse": 7,
-      "text": "Yahweh’s angel encamps around those who fear him, and delivers them."
+      "text": "The LORD’s angel encamps around those who fear him, and delivers them."
     },
     {
       "chapter": 34,
       "verse": 8,
-      "text": "Oh taste and see that Yahweh is good. Blessed is the man who takes refuge in him."
+      "text": "Oh taste and see that the LORD is good. Blessed is the man who takes refuge in him."
     },
     {
       "chapter": 34,
       "verse": 9,
-      "text": "Oh fear Yahweh, you his saints, for there is no lack with those who fear him."
+      "text": "Oh fear the LORD, you his saints, for there is no lack with those who fear him."
     },
     {
       "chapter": 34,
       "verse": 10,
-      "text": "The young lions do lack, and suffer hunger, but those who seek Yahweh shall not lack any good thing."
+      "text": "The young lions do lack, and suffer hunger, but those who seek the LORD shall not lack any good thing."
     },
     {
       "chapter": 34,
       "verse": 11,
-      "text": "Come, you children, listen to me. I will teach you the fear of Yahweh."
+      "text": "Come, you children, listen to me. I will teach you the fear of the LORD."
     },
     {
       "chapter": 34,
@@ -2325,27 +2325,27 @@
     {
       "chapter": 34,
       "verse": 15,
-      "text": "Yahweh’s eyes are toward the righteous. His ears listen to their cry."
+      "text": "The LORD’s eyes are toward the righteous. His ears listen to their cry."
     },
     {
       "chapter": 34,
       "verse": 16,
-      "text": "Yahweh’s face is against those who do evil, to cut off their memory from the earth."
+      "text": "The LORD’s face is against those who do evil, to cut off their memory from the earth."
     },
     {
       "chapter": 34,
       "verse": 17,
-      "text": "The righteous cry, and Yahweh hears, and delivers them out of all their troubles."
+      "text": "The righteous cry, and the LORD hears, and delivers them out of all their troubles."
     },
     {
       "chapter": 34,
       "verse": 18,
-      "text": "Yahweh is near to those who have a broken heart, and saves those who have a crushed spirit."
+      "text": "The LORD is near to those who have a broken heart, and saves those who have a crushed spirit."
     },
     {
       "chapter": 34,
       "verse": 19,
-      "text": "Many are the afflictions of the righteous, but Yahweh delivers him out of them all."
+      "text": "Many are the afflictions of the righteous, but the LORD delivers him out of them all."
     },
     {
       "chapter": 34,
@@ -2360,12 +2360,12 @@
     {
       "chapter": 34,
       "verse": 22,
-      "text": "Yahweh redeems the soul of his servants. None of those who take refuge in him shall be condemned."
+      "text": "The LORD redeems the soul of his servants. None of those who take refuge in him shall be condemned."
     },
     {
       "chapter": 35,
       "verse": 1,
-      "text": "Contend, Yahweh, with those who contend with me. Fight against those who fight against me."
+      "text": "Contend, the LORD, with those who contend with me. Fight against those who fight against me."
     },
     {
       "chapter": 35,
@@ -2385,12 +2385,12 @@
     {
       "chapter": 35,
       "verse": 5,
-      "text": "Let them be as chaff before the wind, Yahweh’s angel driving them on."
+      "text": "Let them be as chaff before the wind, the LORD’s angel driving them on."
     },
     {
       "chapter": 35,
       "verse": 6,
-      "text": "Let their way be dark and slippery, Yahweh’s angel pursuing them."
+      "text": "Let their way be dark and slippery, the LORD’s angel pursuing them."
     },
     {
       "chapter": 35,
@@ -2405,12 +2405,12 @@
     {
       "chapter": 35,
       "verse": 9,
-      "text": "My soul shall be joyful in Yahweh. It shall rejoice in his salvation."
+      "text": "My soul shall be joyful in the LORD. It shall rejoice in his salvation."
     },
     {
       "chapter": 35,
       "verse": 10,
-      "text": "All my bones shall say, “Yahweh, who is like you, who delivers the poor from him who is too strong for him; yes, the poor and the needy from him who robs him?”"
+      "text": "All my bones shall say, “The LORD, who is like you, who delivers the poor from him who is too strong for him; yes, the poor and the needy from him who robs him?”"
     },
     {
       "chapter": 35,
@@ -2470,7 +2470,7 @@
     {
       "chapter": 35,
       "verse": 22,
-      "text": "You have seen it, Yahweh. Don’t keep silent. Lord, don’t be far from me."
+      "text": "You have seen it, the LORD. Don’t keep silent. Lord, don’t be far from me."
     },
     {
       "chapter": 35,
@@ -2480,7 +2480,7 @@
     {
       "chapter": 35,
       "verse": 24,
-      "text": "Vindicate me, Yahweh my God, according to your righteousness. Don’t let them gloat over me."
+      "text": "Vindicate me, the LORD my God, according to your righteousness. Don’t let them gloat over me."
     },
     {
       "chapter": 35,
@@ -2495,7 +2495,7 @@
     {
       "chapter": 35,
       "verse": 27,
-      "text": "Let those who favor my righteous cause shout for joy and be glad. Yes, let them say continually, “May Yahweh be magnified, who has pleasure in the prosperity of his servant!”"
+      "text": "Let those who favor my righteous cause shout for joy and be glad. Yes, let them say continually, “May the LORD be magnified, who has pleasure in the prosperity of his servant!”"
     },
     {
       "chapter": 35,
@@ -2525,12 +2525,12 @@
     {
       "chapter": 36,
       "verse": 5,
-      "text": "Your loving kindness, Yahweh, is in the heavens. Your faithfulness reaches to the skies."
+      "text": "Your loving kindness, the LORD, is in the heavens. Your faithfulness reaches to the skies."
     },
     {
       "chapter": 36,
       "verse": 6,
-      "text": "Your righteousness is like the mountains of God. Your judgments are like a great deep. Yahweh, you preserve man and animal."
+      "text": "Your righteousness is like the mountains of God. Your judgments are like a great deep. The LORD, you preserve man and animal."
     },
     {
       "chapter": 36,
@@ -2575,17 +2575,17 @@
     {
       "chapter": 37,
       "verse": 3,
-      "text": "Trust in Yahweh, and do good. Dwell in the land, and enjoy safe pasture."
+      "text": "Trust in the LORD, and do good. Dwell in the land, and enjoy safe pasture."
     },
     {
       "chapter": 37,
       "verse": 4,
-      "text": "Also delight yourself in Yahweh, and he will give you the desires of your heart."
+      "text": "Also delight yourself in the LORD, and he will give you the desires of your heart."
     },
     {
       "chapter": 37,
       "verse": 5,
-      "text": "Commit your way to Yahweh. Trust also in him, and he will do this:"
+      "text": "Commit your way to the LORD. Trust also in him, and he will do this:"
     },
     {
       "chapter": 37,
@@ -2595,7 +2595,7 @@
     {
       "chapter": 37,
       "verse": 7,
-      "text": "Rest in Yahweh, and wait patiently for him. Don’t fret because of him who prospers in his way, because of the man who makes wicked plots happen."
+      "text": "Rest in the LORD, and wait patiently for him. Don’t fret because of him who prospers in his way, because of the man who makes wicked plots happen."
     },
     {
       "chapter": 37,
@@ -2605,7 +2605,7 @@
     {
       "chapter": 37,
       "verse": 9,
-      "text": "For evildoers shall be cut off, but those who wait for Yahweh shall inherit the land."
+      "text": "For evildoers shall be cut off, but those who wait for the LORD shall inherit the land."
     },
     {
       "chapter": 37,
@@ -2645,12 +2645,12 @@
     {
       "chapter": 37,
       "verse": 17,
-      "text": "For the arms of the wicked shall be broken, but Yahweh upholds the righteous."
+      "text": "For the arms of the wicked shall be broken, but the LORD upholds the righteous."
     },
     {
       "chapter": 37,
       "verse": 18,
-      "text": "Yahweh knows the days of the perfect. Their inheritance shall be forever."
+      "text": "The LORD knows the days of the perfect. Their inheritance shall be forever."
     },
     {
       "chapter": 37,
@@ -2660,7 +2660,7 @@
     {
       "chapter": 37,
       "verse": 20,
-      "text": "But the wicked shall perish. The enemies of Yahweh shall be like the beauty of the fields. They will vanish— vanish like smoke."
+      "text": "But the wicked shall perish. The enemies of the LORD shall be like the beauty of the fields. They will vanish— vanish like smoke."
     },
     {
       "chapter": 37,
@@ -2675,12 +2675,12 @@
     {
       "chapter": 37,
       "verse": 23,
-      "text": "A man’s steps are established by Yahweh. He delights in his way."
+      "text": "A man’s steps are established by the LORD. He delights in his way."
     },
     {
       "chapter": 37,
       "verse": 24,
-      "text": "Though he stumble, he shall not fall, for Yahweh holds him up with his hand."
+      "text": "Though he stumble, he shall not fall, for the LORD holds him up with his hand."
     },
     {
       "chapter": 37,
@@ -2700,7 +2700,7 @@
     {
       "chapter": 37,
       "verse": 28,
-      "text": "For Yahweh loves justice, and doesn’t forsake his saints. They are preserved forever, but the children of the wicked shall be cut off."
+      "text": "For the LORD loves justice, and doesn’t forsake his saints. They are preserved forever, but the children of the wicked shall be cut off."
     },
     {
       "chapter": 37,
@@ -2725,12 +2725,12 @@
     {
       "chapter": 37,
       "verse": 33,
-      "text": "Yahweh will not leave him in his hand, nor condemn him when he is judged."
+      "text": "The LORD will not leave him in his hand, nor condemn him when he is judged."
     },
     {
       "chapter": 37,
       "verse": 34,
-      "text": "Wait for Yahweh, and keep his way, and he will exalt you to inherit the land. When the wicked are cut off, you shall see it."
+      "text": "Wait for the LORD, and keep his way, and he will exalt you to inherit the land. When the wicked are cut off, you shall see it."
     },
     {
       "chapter": 37,
@@ -2755,17 +2755,17 @@
     {
       "chapter": 37,
       "verse": 39,
-      "text": "But the salvation of the righteous is from Yahweh. He is their stronghold in the time of trouble."
+      "text": "But the salvation of the righteous is from the LORD. He is their stronghold in the time of trouble."
     },
     {
       "chapter": 37,
       "verse": 40,
-      "text": "Yahweh helps them and rescues them. He rescues them from the wicked and saves them, because they have taken refuge in him."
+      "text": "The LORD helps them and rescues them. He rescues them from the wicked and saves them, because they have taken refuge in him."
     },
     {
       "chapter": 38,
       "verse": 1,
-      "text": "Yahweh, don’t rebuke me in your wrath, neither chasten me in your hot displeasure."
+      "text": "The LORD, don’t rebuke me in your wrath, neither chasten me in your hot displeasure."
     },
     {
       "chapter": 38,
@@ -2835,7 +2835,7 @@
     {
       "chapter": 38,
       "verse": 15,
-      "text": "For I hope in you, Yahweh. You will answer, Lord my God."
+      "text": "For I hope in you, the LORD. You will answer, Lord my God."
     },
     {
       "chapter": 38,
@@ -2865,7 +2865,7 @@
     {
       "chapter": 38,
       "verse": 21,
-      "text": "Don’t forsake me, Yahweh. My God, don’t be far from me."
+      "text": "Don’t forsake me, the LORD. My God, don’t be far from me."
     },
     {
       "chapter": 38,
@@ -2890,7 +2890,7 @@
     {
       "chapter": 39,
       "verse": 4,
-      "text": "“Yahweh, show me my end, what is the measure of my days. Let me know how frail I am."
+      "text": "“The LORD, show me my end, what is the measure of my days. Let me know how frail I am."
     },
     {
       "chapter": 39,
@@ -2930,7 +2930,7 @@
     {
       "chapter": 39,
       "verse": 12,
-      "text": "“Hear my prayer, Yahweh, and give ear to my cry. Don’t be silent at my tears. For I am a stranger with you, a foreigner, as all my fathers were."
+      "text": "“Hear my prayer, the LORD, and give ear to my cry. Don’t be silent at my tears. For I am a stranger with you, a foreigner, as all my fathers were."
     },
     {
       "chapter": 39,
@@ -2940,7 +2940,7 @@
     {
       "chapter": 40,
       "verse": 1,
-      "text": "I waited patiently for Yahweh. He turned to me, and heard my cry."
+      "text": "I waited patiently for the LORD. He turned to me, and heard my cry."
     },
     {
       "chapter": 40,
@@ -2950,17 +2950,17 @@
     {
       "chapter": 40,
       "verse": 3,
-      "text": "He has put a new song in my mouth, even praise to our God. Many shall see it, and fear, and shall trust in Yahweh."
+      "text": "He has put a new song in my mouth, even praise to our God. Many shall see it, and fear, and shall trust in the LORD."
     },
     {
       "chapter": 40,
       "verse": 4,
-      "text": "Blessed is the man who makes Yahweh his trust, and doesn’t respect the proud, nor such as turn away to lies."
+      "text": "Blessed is the man who makes the LORD his trust, and doesn’t respect the proud, nor such as turn away to lies."
     },
     {
       "chapter": 40,
       "verse": 5,
-      "text": "Many, Yahweh, my God, are the wonderful works which you have done, and your thoughts which are toward us. They can’t be declared back to you. If I would declare and speak of them, they are more than can be counted."
+      "text": "Many, the LORD, my God, are the wonderful works which you have done, and your thoughts which are toward us. They can’t be declared back to you. If I would declare and speak of them, they are more than can be counted."
     },
     {
       "chapter": 40,
@@ -2980,7 +2980,7 @@
     {
       "chapter": 40,
       "verse": 9,
-      "text": "I have proclaimed glad news of righteousness in the great assembly. Behold, I will not seal my lips, Yahweh, you know."
+      "text": "I have proclaimed glad news of righteousness in the great assembly. Behold, I will not seal my lips, the LORD, you know."
     },
     {
       "chapter": 40,
@@ -2990,7 +2990,7 @@
     {
       "chapter": 40,
       "verse": 11,
-      "text": "Don’t withhold your tender mercies from me, Yahweh. Let your loving kindness and your truth continually preserve me."
+      "text": "Don’t withhold your tender mercies from me, the LORD. Let your loving kindness and your truth continually preserve me."
     },
     {
       "chapter": 40,
@@ -3000,7 +3000,7 @@
     {
       "chapter": 40,
       "verse": 13,
-      "text": "Be pleased, Yahweh, to deliver me. Hurry to help me, Yahweh."
+      "text": "Be pleased, the LORD, to deliver me. Hurry to help me, the LORD."
     },
     {
       "chapter": 40,
@@ -3015,7 +3015,7 @@
     {
       "chapter": 40,
       "verse": 16,
-      "text": "Let all those who seek you rejoice and be glad in you. Let such as love your salvation say continually, “Let Yahweh be exalted!”"
+      "text": "Let all those who seek you rejoice and be glad in you. Let such as love your salvation say continually, “Let the LORD be exalted!”"
     },
     {
       "chapter": 40,
@@ -3025,22 +3025,22 @@
     {
       "chapter": 41,
       "verse": 1,
-      "text": "Blessed is he who considers the poor. Yahweh will deliver him in the day of evil."
+      "text": "Blessed is he who considers the poor. The LORD will deliver him in the day of evil."
     },
     {
       "chapter": 41,
       "verse": 2,
-      "text": "Yahweh will preserve him, and keep him alive. He shall be blessed on the earth, and he will not surrender him to the will of his enemies."
+      "text": "The LORD will preserve him, and keep him alive. He shall be blessed on the earth, and he will not surrender him to the will of his enemies."
     },
     {
       "chapter": 41,
       "verse": 3,
-      "text": "Yahweh will sustain him on his sickbed, and restore him from his bed of illness."
+      "text": "The LORD will sustain him on his sickbed, and restore him from his bed of illness."
     },
     {
       "chapter": 41,
       "verse": 4,
-      "text": "I said, “Yahweh, have mercy on me! Heal me, for I have sinned against you.”"
+      "text": "I said, “The LORD, have mercy on me! Heal me, for I have sinned against you.”"
     },
     {
       "chapter": 41,
@@ -3070,7 +3070,7 @@
     {
       "chapter": 41,
       "verse": 10,
-      "text": "But you, Yahweh, have mercy on me, and raise me up, that I may repay them."
+      "text": "But you, the LORD, have mercy on me, and raise me up, that I may repay them."
     },
     {
       "chapter": 41,
@@ -3085,7 +3085,7 @@
     {
       "chapter": 41,
       "verse": 13,
-      "text": "Blessed be Yahweh, the God of Israel, from everlasting and to everlasting! Amen and amen."
+      "text": "Blessed be the LORD, the God of Israel, from everlasting and to everlasting! Amen and amen."
     },
     {
       "chapter": 42,
@@ -3125,7 +3125,7 @@
     {
       "chapter": 42,
       "verse": 8,
-      "text": "Yahweh will command his loving kindness in the daytime. In the night his song shall be with me: a prayer to the God of my life."
+      "text": "The LORD will command his loving kindness in the daytime. In the night his song shall be with me: a prayer to the God of my life."
     },
     {
       "chapter": 42,
@@ -3415,12 +3415,12 @@
     {
       "chapter": 46,
       "verse": 7,
-      "text": "Yahweh of Armies is with us. The God of Jacob is our refuge. Selah."
+      "text": "The LORD of Armies is with us. The God of Jacob is our refuge. Selah."
     },
     {
       "chapter": 46,
       "verse": 8,
-      "text": "Come, see Yahweh’s works, what desolations he has made on the earth."
+      "text": "Come, see the LORD’s works, what desolations he has made on the earth."
     },
     {
       "chapter": 46,
@@ -3435,7 +3435,7 @@
     {
       "chapter": 46,
       "verse": 11,
-      "text": "Yahweh of Armies is with us. The God of Jacob is our refuge. Selah."
+      "text": "The LORD of Armies is with us. The God of Jacob is our refuge. Selah."
     },
     {
       "chapter": 47,
@@ -3445,7 +3445,7 @@
     {
       "chapter": 47,
       "verse": 2,
-      "text": "For Yahweh Most High is awesome. He is a great King over all the earth."
+      "text": "For the LORD Most High is awesome. He is a great King over all the earth."
     },
     {
       "chapter": 47,
@@ -3460,7 +3460,7 @@
     {
       "chapter": 47,
       "verse": 5,
-      "text": "God has gone up with a shout, Yahweh with the sound of a trumpet."
+      "text": "God has gone up with a shout, the LORD with the sound of a trumpet."
     },
     {
       "chapter": 47,
@@ -3485,7 +3485,7 @@
     {
       "chapter": 48,
       "verse": 1,
-      "text": "Great is Yahweh, and greatly to be praised, in the city of our God, in his holy mountain."
+      "text": "Great is the LORD, and greatly to be praised, in the city of our God, in his holy mountain."
     },
     {
       "chapter": 48,
@@ -3520,7 +3520,7 @@
     {
       "chapter": 48,
       "verse": 8,
-      "text": "As we have heard, so we have seen, in the city of Yahweh of Armies, in the city of our God. God will establish it forever. Selah."
+      "text": "As we have heard, so we have seen, in the city of the LORD of Armies, in the city of our God. God will establish it forever. Selah."
     },
     {
       "chapter": 48,
@@ -3655,7 +3655,7 @@
     {
       "chapter": 50,
       "verse": 1,
-      "text": "The Mighty One, God, Yahweh, speaks, and calls the earth from sunrise to sunset."
+      "text": "The Mighty One, God, the LORD, speaks, and calls the earth from sunrise to sunset."
     },
     {
       "chapter": 50,
@@ -3965,7 +3965,7 @@
     {
       "chapter": 54,
       "verse": 6,
-      "text": "With a free will offering, I will sacrifice to you. I will give thanks to your name, Yahweh, for it is good."
+      "text": "With a free will offering, I will sacrifice to you. I will give thanks to your name, the LORD, for it is good."
     },
     {
       "chapter": 54,
@@ -4050,7 +4050,7 @@
     {
       "chapter": 55,
       "verse": 16,
-      "text": "As for me, I will call on God. Yahweh will save me."
+      "text": "As for me, I will call on God. The LORD will save me."
     },
     {
       "chapter": 55,
@@ -4080,7 +4080,7 @@
     {
       "chapter": 55,
       "verse": 22,
-      "text": "Cast your burden on Yahweh and he will sustain you. He will never allow the righteous to be moved."
+      "text": "Cast your burden on the LORD and he will sustain you. He will never allow the righteous to be moved."
     },
     {
       "chapter": 55,
@@ -4135,7 +4135,7 @@
     {
       "chapter": 56,
       "verse": 10,
-      "text": "In God, I will praise his word. In Yahweh, I will praise his word."
+      "text": "In God, I will praise his word. In the LORD, I will praise his word."
     },
     {
       "chapter": 56,
@@ -4235,7 +4235,7 @@
     {
       "chapter": 58,
       "verse": 6,
-      "text": "Break their teeth, God, in their mouth. Break out the great teeth of the young lions, Yahweh."
+      "text": "Break their teeth, God, in their mouth. Break out the great teeth of the young lions, the LORD."
     },
     {
       "chapter": 58,
@@ -4275,7 +4275,7 @@
     {
       "chapter": 59,
       "verse": 3,
-      "text": "For, behold, they lie in wait for my soul. The mighty gather themselves together against me, not for my disobedience, nor for my sin, Yahweh."
+      "text": "For, behold, they lie in wait for my soul. The mighty gather themselves together against me, not for my disobedience, nor for my sin, the LORD."
     },
     {
       "chapter": 59,
@@ -4285,7 +4285,7 @@
     {
       "chapter": 59,
       "verse": 5,
-      "text": "You, Yahweh God of Armies, the God of Israel, rouse yourself to punish the nations. Show no mercy to the wicked traitors. Selah."
+      "text": "You, the LORD God of Armies, the God of Israel, rouse yourself to punish the nations. Show no mercy to the wicked traitors. Selah."
     },
     {
       "chapter": 59,
@@ -4300,7 +4300,7 @@
     {
       "chapter": 59,
       "verse": 8,
-      "text": "But you, Yahweh, laugh at them. You scoff at all the nations."
+      "text": "But you, the LORD, laugh at them. You scoff at all the nations."
     },
     {
       "chapter": 59,
@@ -4610,7 +4610,7 @@
     {
       "chapter": 64,
       "verse": 10,
-      "text": "The righteous shall be glad in Yahweh, and shall take refuge in him. All the upright in heart shall praise him!"
+      "text": "The righteous shall be glad in the LORD, and shall take refuge in him. All the upright in heart shall praise him!"
     },
     {
       "chapter": 65,
@@ -4830,7 +4830,7 @@
     {
       "chapter": 68,
       "verse": 4,
-      "text": "Sing to God! Sing praises to his name! Extol him who rides on the clouds: to Yah, his name! Rejoice before him!"
+      "text": "Sing to God! Sing praises to his name! Extol him who rides on the clouds: to the LORD, his name! Rejoice before him!"
     },
     {
       "chapter": 68,
@@ -4890,7 +4890,7 @@
     {
       "chapter": 68,
       "verse": 16,
-      "text": "Why do you look in envy, you rugged mountains, at the mountain where God chooses to reign? Yes, Yahweh will dwell there forever."
+      "text": "Why do you look in envy, you rugged mountains, at the mountain where God chooses to reign? Yes, the LORD will dwell there forever."
     },
     {
       "chapter": 68,
@@ -4900,7 +4900,7 @@
     {
       "chapter": 68,
       "verse": 18,
-      "text": "You have ascended on high. You have led away captives. You have received gifts among people, yes, among the rebellious also, that Yah God might dwell there."
+      "text": "You have ascended on high. You have led away captives. You have received gifts among people, yes, among the rebellious also, that the LORD God might dwell there."
     },
     {
       "chapter": 68,
@@ -4910,7 +4910,7 @@
     {
       "chapter": 68,
       "verse": 20,
-      "text": "God is to us a God of deliverance. To Yahweh, the Lord, belongs escape from death."
+      "text": "God is to us a God of deliverance. To the LORD, the Lord, belongs escape from death."
     },
     {
       "chapter": 68,
@@ -5015,7 +5015,7 @@
     {
       "chapter": 69,
       "verse": 6,
-      "text": "Don’t let those who wait for you be shamed through me, Lord Yahweh of Armies. Don’t let those who seek you be brought to dishonor through me, God of Israel."
+      "text": "Don’t let those who wait for you be shamed through me, Lord the LORD of Armies. Don’t let those who seek you be brought to dishonor through me, God of Israel."
     },
     {
       "chapter": 69,
@@ -5050,7 +5050,7 @@
     {
       "chapter": 69,
       "verse": 13,
-      "text": "But as for me, my prayer is to you, Yahweh, in an acceptable time. God, in the abundance of your loving kindness, answer me in the truth of your salvation."
+      "text": "But as for me, my prayer is to you, the LORD, in an acceptable time. God, in the abundance of your loving kindness, answer me in the truth of your salvation."
     },
     {
       "chapter": 69,
@@ -5065,7 +5065,7 @@
     {
       "chapter": 69,
       "verse": 16,
-      "text": "Answer me, Yahweh, for your loving kindness is good. According to the multitude of your tender mercies, turn to me."
+      "text": "Answer me, the LORD, for your loving kindness is good. According to the multitude of your tender mercies, turn to me."
     },
     {
       "chapter": 69,
@@ -5140,7 +5140,7 @@
     {
       "chapter": 69,
       "verse": 31,
-      "text": "It will please Yahweh better than an ox, or a bull that has horns and hoofs."
+      "text": "It will please the LORD better than an ox, or a bull that has horns and hoofs."
     },
     {
       "chapter": 69,
@@ -5150,7 +5150,7 @@
     {
       "chapter": 69,
       "verse": 33,
-      "text": "For Yahweh hears the needy, and doesn’t despise his captive people."
+      "text": "For the LORD hears the needy, and doesn’t despise his captive people."
     },
     {
       "chapter": 69,
@@ -5170,7 +5170,7 @@
     {
       "chapter": 70,
       "verse": 1,
-      "text": "Hurry, God, to deliver me. Come quickly to help me, Yahweh."
+      "text": "Hurry, God, to deliver me. Come quickly to help me, the LORD."
     },
     {
       "chapter": 70,
@@ -5190,12 +5190,12 @@
     {
       "chapter": 70,
       "verse": 5,
-      "text": "But I am poor and needy. Come to me quickly, God. You are my help and my deliverer. Yahweh, don’t delay."
+      "text": "But I am poor and needy. Come to me quickly, God. You are my help and my deliverer. The LORD, don’t delay."
     },
     {
       "chapter": 71,
       "verse": 1,
-      "text": "In you, Yahweh, I take refuge. Never let me be disappointed."
+      "text": "In you, the LORD, I take refuge. Never let me be disappointed."
     },
     {
       "chapter": 71,
@@ -5215,7 +5215,7 @@
     {
       "chapter": 71,
       "verse": 5,
-      "text": "For you are my hope, Lord Yahweh, my confidence from my youth."
+      "text": "For you are my hope, Lord the LORD, my confidence from my youth."
     },
     {
       "chapter": 71,
@@ -5270,7 +5270,7 @@
     {
       "chapter": 71,
       "verse": 16,
-      "text": "I will come with the mighty acts of the Lord Yahweh. I will make mention of your righteousness, even of yours alone."
+      "text": "I will come with the mighty acts of the Lord the LORD. I will make mention of your righteousness, even of yours alone."
     },
     {
       "chapter": 71,
@@ -5400,7 +5400,7 @@
     {
       "chapter": 72,
       "verse": 18,
-      "text": "Praise be to Yahweh God, the God of Israel, who alone does marvelous deeds."
+      "text": "Praise be to the LORD God, the God of Israel, who alone does marvelous deeds."
     },
     {
       "chapter": 72,
@@ -5550,7 +5550,7 @@
     {
       "chapter": 73,
       "verse": 28,
-      "text": "But it is good for me to come close to God. I have made the Lord Yahweh my refuge, that I may tell of all your works."
+      "text": "But it is good for me to come close to God. I have made the Lord the LORD my refuge, that I may tell of all your works."
     },
     {
       "chapter": 74,
@@ -5640,7 +5640,7 @@
     {
       "chapter": 74,
       "verse": 18,
-      "text": "Remember this, that the enemy has mocked you, Yahweh. Foolish people have blasphemed your name."
+      "text": "Remember this, that the enemy has mocked you, the LORD. Foolish people have blasphemed your name."
     },
     {
       "chapter": 74,
@@ -5705,7 +5705,7 @@
     {
       "chapter": 75,
       "verse": 8,
-      "text": "For in Yahweh’s hand there is a cup, full of foaming wine mixed with spices. He pours it out. Indeed the wicked of the earth drink and drink it to its very dregs."
+      "text": "For in the LORD’s hand there is a cup, full of foaming wine mixed with spices. He pours it out. Indeed the wicked of the earth drink and drink it to its very dregs."
     },
     {
       "chapter": 75,
@@ -5770,7 +5770,7 @@
     {
       "chapter": 76,
       "verse": 11,
-      "text": "Make vows to Yahweh your God, and fulfill them! Let all of his neighbors bring presents to him who is to be feared."
+      "text": "Make vows to the LORD your God, and fulfill them! Let all of his neighbors bring presents to him who is to be feared."
     },
     {
       "chapter": 76,
@@ -5830,7 +5830,7 @@
     {
       "chapter": 77,
       "verse": 11,
-      "text": "I will remember Yah’s deeds; for I will remember your wonders of old."
+      "text": "I will remember the LORD’s deeds; for I will remember your wonders of old."
     },
     {
       "chapter": 77,
@@ -5895,7 +5895,7 @@
     {
       "chapter": 78,
       "verse": 4,
-      "text": "We will not hide them from their children, telling to the generation to come the praises of Yahweh, his strength, and his wondrous deeds that he has done."
+      "text": "We will not hide them from their children, telling to the generation to come the praises of the LORD, his strength, and his wondrous deeds that he has done."
     },
     {
       "chapter": 78,
@@ -5980,7 +5980,7 @@
     {
       "chapter": 78,
       "verse": 21,
-      "text": "Therefore Yahweh heard, and was angry. A fire was kindled against Jacob, anger also went up against Israel,"
+      "text": "Therefore the LORD heard, and was angry. A fire was kindled against Jacob, anger also went up against Israel,"
     },
     {
       "chapter": 78,
@@ -6260,7 +6260,7 @@
     {
       "chapter": 79,
       "verse": 5,
-      "text": "How long, Yahweh? Will you be angry forever? Will your jealousy burn like fire?"
+      "text": "How long, the LORD? Will you be angry forever? Will your jealousy burn like fire?"
     },
     {
       "chapter": 79,
@@ -6320,7 +6320,7 @@
     {
       "chapter": 80,
       "verse": 4,
-      "text": "Yahweh God of Armies, how long will you be angry against the prayer of your people?"
+      "text": "The LORD God of Armies, how long will you be angry against the prayer of your people?"
     },
     {
       "chapter": 80,
@@ -6395,7 +6395,7 @@
     {
       "chapter": 80,
       "verse": 19,
-      "text": "Turn us again, Yahweh God of Armies. Cause your face to shine, and we will be saved."
+      "text": "Turn us again, the LORD God of Armies. Cause your face to shine, and we will be saved."
     },
     {
       "chapter": 81,
@@ -6445,7 +6445,7 @@
     {
       "chapter": 81,
       "verse": 10,
-      "text": "I am Yahweh, your God, who brought you up out of the land of Egypt. Open your mouth wide, and I will fill it."
+      "text": "I am the LORD, your God, who brought you up out of the land of Egypt. Open your mouth wide, and I will fill it."
     },
     {
       "chapter": 81,
@@ -6470,7 +6470,7 @@
     {
       "chapter": 81,
       "verse": 15,
-      "text": "The haters of Yahweh would cringe before him, and their punishment would last forever."
+      "text": "The haters of the LORD would cringe before him, and their punishment would last forever."
     },
     {
       "chapter": 81,
@@ -6595,7 +6595,7 @@
     {
       "chapter": 83,
       "verse": 16,
-      "text": "Fill their faces with confusion, that they may seek your name, Yahweh."
+      "text": "Fill their faces with confusion, that they may seek your name, the LORD."
     },
     {
       "chapter": 83,
@@ -6605,22 +6605,22 @@
     {
       "chapter": 83,
       "verse": 18,
-      "text": "that they may know that you alone, whose name is Yahweh, are the Most High over all the earth."
+      "text": "that they may know that you alone, whose name is the LORD, are the Most High over all the earth."
     },
     {
       "chapter": 84,
       "verse": 1,
-      "text": "How lovely are your dwellings, Yahweh of Armies!"
+      "text": "How lovely are your dwellings, the LORD of Armies!"
     },
     {
       "chapter": 84,
       "verse": 2,
-      "text": "My soul longs, and even faints for the courts of Yahweh. My heart and my flesh cry out for the living God."
+      "text": "My soul longs, and even faints for the courts of the LORD. My heart and my flesh cry out for the living God."
     },
     {
       "chapter": 84,
       "verse": 3,
-      "text": "Yes, the sparrow has found a home, and the swallow a nest for herself, where she may have her young, near your altars, Yahweh of Armies, my King, and my God."
+      "text": "Yes, the sparrow has found a home, and the swallow a nest for herself, where she may have her young, near your altars, the LORD of Armies, my King, and my God."
     },
     {
       "chapter": 84,
@@ -6645,7 +6645,7 @@
     {
       "chapter": 84,
       "verse": 8,
-      "text": "Yahweh, God of Armies, hear my prayer. Listen, God of Jacob. Selah."
+      "text": "The LORD, God of Armies, hear my prayer. Listen, God of Jacob. Selah."
     },
     {
       "chapter": 84,
@@ -6660,17 +6660,17 @@
     {
       "chapter": 84,
       "verse": 11,
-      "text": "For Yahweh God is a sun and a shield. Yahweh will give grace and glory. He withholds no good thing from those who walk blamelessly."
+      "text": "For the LORD God is a sun and a shield. The LORD will give grace and glory. He withholds no good thing from those who walk blamelessly."
     },
     {
       "chapter": 84,
       "verse": 12,
-      "text": "Yahweh of Armies, blessed is the man who trusts in you."
+      "text": "The LORD of Armies, blessed is the man who trusts in you."
     },
     {
       "chapter": 85,
       "verse": 1,
-      "text": "Yahweh, you have been favorable to your land. You have restored the fortunes of Jacob."
+      "text": "The LORD, you have been favorable to your land. You have restored the fortunes of Jacob."
     },
     {
       "chapter": 85,
@@ -6700,12 +6700,12 @@
     {
       "chapter": 85,
       "verse": 7,
-      "text": "Show us your loving kindness, Yahweh. Grant us your salvation."
+      "text": "Show us your loving kindness, the LORD. Grant us your salvation."
     },
     {
       "chapter": 85,
       "verse": 8,
-      "text": "I will hear what God, Yahweh, will speak, for he will speak peace to his people, his saints; but let them not turn again to folly."
+      "text": "I will hear what God, the LORD, will speak, for he will speak peace to his people, his saints; but let them not turn again to folly."
     },
     {
       "chapter": 85,
@@ -6725,7 +6725,7 @@
     {
       "chapter": 85,
       "verse": 12,
-      "text": "Yes, Yahweh will give that which is good. Our land will yield its increase."
+      "text": "Yes, the LORD will give that which is good. Our land will yield its increase."
     },
     {
       "chapter": 85,
@@ -6735,7 +6735,7 @@
     {
       "chapter": 86,
       "verse": 1,
-      "text": "Hear, Yahweh, and answer me, for I am poor and needy."
+      "text": "Hear, the LORD, and answer me, for I am poor and needy."
     },
     {
       "chapter": 86,
@@ -6760,7 +6760,7 @@
     {
       "chapter": 86,
       "verse": 6,
-      "text": "Hear, Yahweh, my prayer. Listen to the voice of my petitions."
+      "text": "Hear, the LORD, my prayer. Listen to the voice of my petitions."
     },
     {
       "chapter": 86,
@@ -6785,7 +6785,7 @@
     {
       "chapter": 86,
       "verse": 11,
-      "text": "Teach me your way, Yahweh. I will walk in your truth. Make my heart undivided to fear your name."
+      "text": "Teach me your way, the LORD. I will walk in your truth. Make my heart undivided to fear your name."
     },
     {
       "chapter": 86,
@@ -6815,7 +6815,7 @@
     {
       "chapter": 86,
       "verse": 17,
-      "text": "Show me a sign of your goodness, that those who hate me may see it, and be shamed, because you, Yahweh, have helped me, and comforted me."
+      "text": "Show me a sign of your goodness, that those who hate me may see it, and be shamed, because you, the LORD, have helped me, and comforted me."
     },
     {
       "chapter": 87,
@@ -6825,7 +6825,7 @@
     {
       "chapter": 87,
       "verse": 2,
-      "text": "Yahweh loves the gates of Zion more than all the dwellings of Jacob."
+      "text": "The LORD loves the gates of Zion more than all the dwellings of Jacob."
     },
     {
       "chapter": 87,
@@ -6845,7 +6845,7 @@
     {
       "chapter": 87,
       "verse": 6,
-      "text": "Yahweh will count, when he writes up the peoples, “This one was born there.” Selah."
+      "text": "The LORD will count, when he writes up the peoples, “This one was born there.” Selah."
     },
     {
       "chapter": 87,
@@ -6855,7 +6855,7 @@
     {
       "chapter": 88,
       "verse": 1,
-      "text": "Yahweh, the God of my salvation, I have cried day and night before you."
+      "text": "The LORD, the God of my salvation, I have cried day and night before you."
     },
     {
       "chapter": 88,
@@ -6895,7 +6895,7 @@
     {
       "chapter": 88,
       "verse": 9,
-      "text": "My eyes are dim from grief. I have called on you daily, Yahweh. I have spread out my hands to you."
+      "text": "My eyes are dim from grief. I have called on you daily, the LORD. I have spread out my hands to you."
     },
     {
       "chapter": 88,
@@ -6915,12 +6915,12 @@
     {
       "chapter": 88,
       "verse": 13,
-      "text": "But to you, Yahweh, I have cried. In the morning, my prayer comes before you."
+      "text": "But to you, the LORD, I have cried. In the morning, my prayer comes before you."
     },
     {
       "chapter": 88,
       "verse": 14,
-      "text": "Yahweh, why do you reject my soul? Why do you hide your face from me?"
+      "text": "The LORD, why do you reject my soul? Why do you hide your face from me?"
     },
     {
       "chapter": 88,
@@ -6945,7 +6945,7 @@
     {
       "chapter": 89,
       "verse": 1,
-      "text": "I will sing of the loving kindness of Yahweh forever. With my mouth, I will make known your faithfulness to all generations."
+      "text": "I will sing of the loving kindness of the LORD forever. With my mouth, I will make known your faithfulness to all generations."
     },
     {
       "chapter": 89,
@@ -6965,12 +6965,12 @@
     {
       "chapter": 89,
       "verse": 5,
-      "text": "The heavens will praise your wonders, Yahweh, your faithfulness also in the assembly of the holy ones."
+      "text": "The heavens will praise your wonders, the LORD, your faithfulness also in the assembly of the holy ones."
     },
     {
       "chapter": 89,
       "verse": 6,
-      "text": "For who in the skies can be compared to Yahweh? Who among the sons of the heavenly beings is like Yahweh,"
+      "text": "For who in the skies can be compared to the LORD? Who among the sons of the heavenly beings is like the LORD,"
     },
     {
       "chapter": 89,
@@ -6980,7 +6980,7 @@
     {
       "chapter": 89,
       "verse": 8,
-      "text": "Yahweh, God of Armies, who is a mighty one, like you? Yah, your faithfulness is around you."
+      "text": "The LORD, God of Armies, who is a mighty one, like you? The LORD, your faithfulness is around you."
     },
     {
       "chapter": 89,
@@ -7015,7 +7015,7 @@
     {
       "chapter": 89,
       "verse": 15,
-      "text": "Blessed are the people who learn to acclaim you. They walk in the light of your presence, Yahweh."
+      "text": "Blessed are the people who learn to acclaim you. They walk in the light of your presence, the LORD."
     },
     {
       "chapter": 89,
@@ -7030,7 +7030,7 @@
     {
       "chapter": 89,
       "verse": 18,
-      "text": "For our shield belongs to Yahweh, our king to the Holy One of Israel."
+      "text": "For our shield belongs to the LORD, our king to the Holy One of Israel."
     },
     {
       "chapter": 89,
@@ -7170,7 +7170,7 @@
     {
       "chapter": 89,
       "verse": 46,
-      "text": "How long, Yahweh? Will you hide yourself forever? Will your wrath burn like fire?"
+      "text": "How long, the LORD? Will you hide yourself forever? Will your wrath burn like fire?"
     },
     {
       "chapter": 89,
@@ -7195,12 +7195,12 @@
     {
       "chapter": 89,
       "verse": 51,
-      "text": "With which your enemies have mocked, Yahweh, with which they have mocked the footsteps of your anointed one."
+      "text": "With which your enemies have mocked, the LORD, with which they have mocked the footsteps of your anointed one."
     },
     {
       "chapter": 89,
       "verse": 52,
-      "text": "Blessed be Yahweh forever more. Amen, and Amen."
+      "text": "Blessed be the LORD forever more. Amen, and Amen."
     },
     {
       "chapter": 90,
@@ -7265,7 +7265,7 @@
     {
       "chapter": 90,
       "verse": 13,
-      "text": "Relent, Yahweh! How long? Have compassion on your servants!"
+      "text": "Relent, the LORD! How long? Have compassion on your servants!"
     },
     {
       "chapter": 90,
@@ -7295,7 +7295,7 @@
     {
       "chapter": 91,
       "verse": 2,
-      "text": "I will say of Yahweh, “He is my refuge and my fortress; my God, in whom I trust.”"
+      "text": "I will say of the LORD, “He is my refuge and my fortress; my God, in whom I trust.”"
     },
     {
       "chapter": 91,
@@ -7330,7 +7330,7 @@
     {
       "chapter": 91,
       "verse": 9,
-      "text": "Because you have made Yahweh your refuge, and the Most High your dwelling place,"
+      "text": "Because you have made the LORD your refuge, and the Most High your dwelling place,"
     },
     {
       "chapter": 91,
@@ -7370,7 +7370,7 @@
     {
       "chapter": 92,
       "verse": 1,
-      "text": "It is a good thing to give thanks to Yahweh, to sing praises to your name, Most High,"
+      "text": "It is a good thing to give thanks to the LORD, to sing praises to your name, Most High,"
     },
     {
       "chapter": 92,
@@ -7385,12 +7385,12 @@
     {
       "chapter": 92,
       "verse": 4,
-      "text": "For you, Yahweh, have made me glad through your work. I will triumph in the works of your hands."
+      "text": "For you, the LORD, have made me glad through your work. I will triumph in the works of your hands."
     },
     {
       "chapter": 92,
       "verse": 5,
-      "text": "How great are your works, Yahweh! Your thoughts are very deep."
+      "text": "How great are your works, the LORD! Your thoughts are very deep."
     },
     {
       "chapter": 92,
@@ -7405,12 +7405,12 @@
     {
       "chapter": 92,
       "verse": 8,
-      "text": "But you, Yahweh, are on high forever more."
+      "text": "But you, the LORD, are on high forever more."
     },
     {
       "chapter": 92,
       "verse": 9,
-      "text": "For behold, your enemies, Yahweh, for behold, your enemies shall perish. All the evildoers will be scattered."
+      "text": "For behold, your enemies, the LORD, for behold, your enemies shall perish. All the evildoers will be scattered."
     },
     {
       "chapter": 92,
@@ -7430,7 +7430,7 @@
     {
       "chapter": 92,
       "verse": 13,
-      "text": "They are planted in Yahweh’s house. They will flourish in our God’s courts."
+      "text": "They are planted in the LORD’s house. They will flourish in our God’s courts."
     },
     {
       "chapter": 92,
@@ -7440,12 +7440,12 @@
     {
       "chapter": 92,
       "verse": 15,
-      "text": "to show that Yahweh is upright. He is my rock, and there is no unrighteousness in him."
+      "text": "to show that the LORD is upright. He is my rock, and there is no unrighteousness in him."
     },
     {
       "chapter": 93,
       "verse": 1,
-      "text": "Yahweh reigns! He is clothed with majesty! Yahweh is armed with strength. The world also is established. It can’t be moved."
+      "text": "The LORD reigns! He is clothed with majesty! The LORD is armed with strength. The world also is established. It can’t be moved."
     },
     {
       "chapter": 93,
@@ -7455,22 +7455,22 @@
     {
       "chapter": 93,
       "verse": 3,
-      "text": "The floods have lifted up, Yahweh, the floods have lifted up their voice. The floods lift up their waves."
+      "text": "The floods have lifted up, the LORD, the floods have lifted up their voice. The floods lift up their waves."
     },
     {
       "chapter": 93,
       "verse": 4,
-      "text": "Above the voices of many waters, the mighty breakers of the sea, Yahweh on high is mighty."
+      "text": "Above the voices of many waters, the mighty breakers of the sea, the LORD on high is mighty."
     },
     {
       "chapter": 93,
       "verse": 5,
-      "text": "Your statutes stand firm. Holiness adorns your house, Yahweh, forever more."
+      "text": "Your statutes stand firm. Holiness adorns your house, the LORD, forever more."
     },
     {
       "chapter": 94,
       "verse": 1,
-      "text": "Yahweh, you God to whom vengeance belongs, you God to whom vengeance belongs, shine out."
+      "text": "The LORD, you God to whom vengeance belongs, you God to whom vengeance belongs, shine out."
     },
     {
       "chapter": 94,
@@ -7480,7 +7480,7 @@
     {
       "chapter": 94,
       "verse": 3,
-      "text": "Yahweh, how long will the wicked, how long will the wicked triumph?"
+      "text": "The LORD, how long will the wicked, how long will the wicked triumph?"
     },
     {
       "chapter": 94,
@@ -7490,7 +7490,7 @@
     {
       "chapter": 94,
       "verse": 5,
-      "text": "They break your people in pieces, Yahweh, and afflict your heritage."
+      "text": "They break your people in pieces, the LORD, and afflict your heritage."
     },
     {
       "chapter": 94,
@@ -7500,7 +7500,7 @@
     {
       "chapter": 94,
       "verse": 7,
-      "text": "They say, “Yah will not see, neither will Jacob’s God consider.”"
+      "text": "They say, “The LORD will not see, neither will Jacob’s God consider.”"
     },
     {
       "chapter": 94,
@@ -7520,12 +7520,12 @@
     {
       "chapter": 94,
       "verse": 11,
-      "text": "Yahweh knows the thoughts of man, that they are futile."
+      "text": "The LORD knows the thoughts of man, that they are futile."
     },
     {
       "chapter": 94,
       "verse": 12,
-      "text": "Blessed is the man whom you discipline, Yah, and teach out of your law,"
+      "text": "Blessed is the man whom you discipline, the LORD, and teach out of your law,"
     },
     {
       "chapter": 94,
@@ -7535,7 +7535,7 @@
     {
       "chapter": 94,
       "verse": 14,
-      "text": "For Yahweh won’t reject his people, neither will he forsake his inheritance."
+      "text": "For the LORD won’t reject his people, neither will he forsake his inheritance."
     },
     {
       "chapter": 94,
@@ -7550,12 +7550,12 @@
     {
       "chapter": 94,
       "verse": 17,
-      "text": "Unless Yahweh had been my help, my soul would have soon lived in silence."
+      "text": "Unless the LORD had been my help, my soul would have soon lived in silence."
     },
     {
       "chapter": 94,
       "verse": 18,
-      "text": "When I said, “My foot is slipping!” Your loving kindness, Yahweh, held me up."
+      "text": "When I said, “My foot is slipping!” Your loving kindness, the LORD, held me up."
     },
     {
       "chapter": 94,
@@ -7575,17 +7575,17 @@
     {
       "chapter": 94,
       "verse": 22,
-      "text": "But Yahweh has been my high tower, my God, the rock of my refuge."
+      "text": "But the LORD has been my high tower, my God, the rock of my refuge."
     },
     {
       "chapter": 94,
       "verse": 23,
-      "text": "He has brought on them their own iniquity, and will cut them off in their own wickedness. Yahweh, our God, will cut them off."
+      "text": "He has brought on them their own iniquity, and will cut them off in their own wickedness. The LORD, our God, will cut them off."
     },
     {
       "chapter": 95,
       "verse": 1,
-      "text": "Oh come, let’s sing to Yahweh. Let’s shout aloud to the rock of our salvation!"
+      "text": "Oh come, let’s sing to the LORD. Let’s shout aloud to the rock of our salvation!"
     },
     {
       "chapter": 95,
@@ -7595,7 +7595,7 @@
     {
       "chapter": 95,
       "verse": 3,
-      "text": "For Yahweh is a great God, a great King above all gods."
+      "text": "For the LORD is a great God, a great King above all gods."
     },
     {
       "chapter": 95,
@@ -7610,7 +7610,7 @@
     {
       "chapter": 95,
       "verse": 6,
-      "text": "Oh come, let’s worship and bow down. Let’s kneel before Yahweh, our Maker,"
+      "text": "Oh come, let’s worship and bow down. Let’s kneel before the LORD, our Maker,"
     },
     {
       "chapter": 95,
@@ -7640,12 +7640,12 @@
     {
       "chapter": 96,
       "verse": 1,
-      "text": "Sing to Yahweh a new song! Sing to Yahweh, all the earth."
+      "text": "Sing to the LORD a new song! Sing to the LORD, all the earth."
     },
     {
       "chapter": 96,
       "verse": 2,
-      "text": "Sing to Yahweh! Bless his name! Proclaim his salvation from day to day!"
+      "text": "Sing to the LORD! Bless his name! Proclaim his salvation from day to day!"
     },
     {
       "chapter": 96,
@@ -7655,12 +7655,12 @@
     {
       "chapter": 96,
       "verse": 4,
-      "text": "For Yahweh is great, and greatly to be praised! He is to be feared above all gods."
+      "text": "For the LORD is great, and greatly to be praised! He is to be feared above all gods."
     },
     {
       "chapter": 96,
       "verse": 5,
-      "text": "For all the gods of the peoples are idols, but Yahweh made the heavens."
+      "text": "For all the gods of the peoples are idols, but the LORD made the heavens."
     },
     {
       "chapter": 96,
@@ -7670,22 +7670,22 @@
     {
       "chapter": 96,
       "verse": 7,
-      "text": "Ascribe to Yahweh, you families of nations, ascribe to Yahweh glory and strength."
+      "text": "Ascribe to the LORD, you families of nations, ascribe to the LORD glory and strength."
     },
     {
       "chapter": 96,
       "verse": 8,
-      "text": "Ascribe to Yahweh the glory due to his name. Bring an offering, and come into his courts."
+      "text": "Ascribe to the LORD the glory due to his name. Bring an offering, and come into his courts."
     },
     {
       "chapter": 96,
       "verse": 9,
-      "text": "Worship Yahweh in holy array. Tremble before him, all the earth."
+      "text": "Worship the LORD in holy array. Tremble before him, all the earth."
     },
     {
       "chapter": 96,
       "verse": 10,
-      "text": "Say among the nations, “Yahweh reigns.” The world is also established. It can’t be moved. He will judge the peoples with equity."
+      "text": "Say among the nations, “The LORD reigns.” The world is also established. It can’t be moved. He will judge the peoples with equity."
     },
     {
       "chapter": 96,
@@ -7700,12 +7700,12 @@
     {
       "chapter": 96,
       "verse": 13,
-      "text": "before Yahweh; for he comes, for he comes to judge the earth. He will judge the world with righteousness, the peoples with his truth."
+      "text": "before the LORD; for he comes, for he comes to judge the earth. He will judge the world with righteousness, the peoples with his truth."
     },
     {
       "chapter": 97,
       "verse": 1,
-      "text": "Yahweh reigns! Let the earth rejoice! Let the multitude of islands be glad!"
+      "text": "The LORD reigns! Let the earth rejoice! Let the multitude of islands be glad!"
     },
     {
       "chapter": 97,
@@ -7725,7 +7725,7 @@
     {
       "chapter": 97,
       "verse": 5,
-      "text": "The mountains melt like wax at the presence of Yahweh, at the presence of the Lord of the whole earth."
+      "text": "The mountains melt like wax at the presence of the LORD, at the presence of the Lord of the whole earth."
     },
     {
       "chapter": 97,
@@ -7740,17 +7740,17 @@
     {
       "chapter": 97,
       "verse": 8,
-      "text": "Zion heard and was glad. The daughters of Judah rejoiced because of your judgments, Yahweh."
+      "text": "Zion heard and was glad. The daughters of Judah rejoiced because of your judgments, the LORD."
     },
     {
       "chapter": 97,
       "verse": 9,
-      "text": "For you, Yahweh, are most high above all the earth. You are exalted far above all gods."
+      "text": "For you, the LORD, are most high above all the earth. You are exalted far above all gods."
     },
     {
       "chapter": 97,
       "verse": 10,
-      "text": "You who love Yahweh, hate evil! He preserves the souls of his saints. He delivers them out of the hand of the wicked."
+      "text": "You who love the LORD, hate evil! He preserves the souls of his saints. He delivers them out of the hand of the wicked."
     },
     {
       "chapter": 97,
@@ -7760,17 +7760,17 @@
     {
       "chapter": 97,
       "verse": 12,
-      "text": "Be glad in Yahweh, you righteous people! Give thanks to his holy Name."
+      "text": "Be glad in the LORD, you righteous people! Give thanks to his holy Name."
     },
     {
       "chapter": 98,
       "verse": 1,
-      "text": "Sing to Yahweh a new song, for he has done marvelous things! His right hand and his holy arm have worked salvation for him."
+      "text": "Sing to the LORD a new song, for he has done marvelous things! His right hand and his holy arm have worked salvation for him."
     },
     {
       "chapter": 98,
       "verse": 2,
-      "text": "Yahweh has made known his salvation. He has openly shown his righteousness in the sight of the nations."
+      "text": "The LORD has made known his salvation. He has openly shown his righteousness in the sight of the nations."
     },
     {
       "chapter": 98,
@@ -7780,17 +7780,17 @@
     {
       "chapter": 98,
       "verse": 4,
-      "text": "Make a joyful noise to Yahweh, all the earth! Burst out and sing for joy, yes, sing praises!"
+      "text": "Make a joyful noise to the LORD, all the earth! Burst out and sing for joy, yes, sing praises!"
     },
     {
       "chapter": 98,
       "verse": 5,
-      "text": "Sing praises to Yahweh with the harp, with the harp and the voice of melody."
+      "text": "Sing praises to the LORD with the harp, with the harp and the voice of melody."
     },
     {
       "chapter": 98,
       "verse": 6,
-      "text": "With trumpets and sound of the ram’s horn, make a joyful noise before the King, Yahweh."
+      "text": "With trumpets and sound of the ram’s horn, make a joyful noise before the King, the LORD."
     },
     {
       "chapter": 98,
@@ -7805,17 +7805,17 @@
     {
       "chapter": 98,
       "verse": 9,
-      "text": "Let them sing before Yahweh, for he comes to judge the earth. He will judge the world with righteousness, and the peoples with equity."
+      "text": "Let them sing before the LORD, for he comes to judge the earth. He will judge the world with righteousness, and the peoples with equity."
     },
     {
       "chapter": 99,
       "verse": 1,
-      "text": "Yahweh reigns! Let the peoples tremble. He sits enthroned among the cherubim. Let the earth be moved."
+      "text": "The LORD reigns! Let the peoples tremble. He sits enthroned among the cherubim. Let the earth be moved."
     },
     {
       "chapter": 99,
       "verse": 2,
-      "text": "Yahweh is great in Zion. He is high above all the peoples."
+      "text": "The LORD is great in Zion. He is high above all the peoples."
     },
     {
       "chapter": 99,
@@ -7830,12 +7830,12 @@
     {
       "chapter": 99,
       "verse": 5,
-      "text": "Exalt Yahweh our God. Worship at his footstool. He is Holy!"
+      "text": "Exalt the LORD our God. Worship at his footstool. He is Holy!"
     },
     {
       "chapter": 99,
       "verse": 6,
-      "text": "Moses and Aaron were among his priests, Samuel was among those who call on his name. They called on Yahweh, and he answered them."
+      "text": "Moses and Aaron were among his priests, Samuel was among those who call on his name. They called on the LORD, and he answered them."
     },
     {
       "chapter": 99,
@@ -7845,27 +7845,27 @@
     {
       "chapter": 99,
       "verse": 8,
-      "text": "You answered them, Yahweh our God. You are a God who forgave them, although you took vengeance for their doings."
+      "text": "You answered them, the LORD our God. You are a God who forgave them, although you took vengeance for their doings."
     },
     {
       "chapter": 99,
       "verse": 9,
-      "text": "Exalt Yahweh, our God. Worship at his holy hill, for Yahweh, our God, is holy!"
+      "text": "Exalt the LORD, our God. Worship at his holy hill, for the LORD, our God, is holy!"
     },
     {
       "chapter": 100,
       "verse": 1,
-      "text": "Shout for joy to Yahweh, all you lands!"
+      "text": "Shout for joy to the LORD, all you lands!"
     },
     {
       "chapter": 100,
       "verse": 2,
-      "text": "Serve Yahweh with gladness. Come before his presence with singing."
+      "text": "Serve the LORD with gladness. Come before his presence with singing."
     },
     {
       "chapter": 100,
       "verse": 3,
-      "text": "Know that Yahweh, he is God. It is he who has made us, and we are his. We are his people, and the sheep of his pasture."
+      "text": "Know that the LORD, he is God. It is he who has made us, and we are his. We are his people, and the sheep of his pasture."
     },
     {
       "chapter": 100,
@@ -7875,12 +7875,12 @@
     {
       "chapter": 100,
       "verse": 5,
-      "text": "For Yahweh is good. His loving kindness endures forever, his faithfulness to all generations."
+      "text": "For the LORD is good. His loving kindness endures forever, his faithfulness to all generations."
     },
     {
       "chapter": 101,
       "verse": 1,
-      "text": "I will sing of loving kindness and justice. To you, Yahweh, I will sing praises."
+      "text": "I will sing of loving kindness and justice. To you, the LORD, I will sing praises."
     },
     {
       "chapter": 101,
@@ -7915,12 +7915,12 @@
     {
       "chapter": 101,
       "verse": 8,
-      "text": "Morning by morning, I will destroy all the wicked of the land, to cut off all the workers of iniquity from Yahweh’s city."
+      "text": "Morning by morning, I will destroy all the wicked of the land, to cut off all the workers of iniquity from the LORD’s city."
     },
     {
       "chapter": 102,
       "verse": 1,
-      "text": "Hear my prayer, Yahweh! Let my cry come to you."
+      "text": "Hear my prayer, the LORD! Let my cry come to you."
     },
     {
       "chapter": 102,
@@ -7975,7 +7975,7 @@
     {
       "chapter": 102,
       "verse": 12,
-      "text": "But you, Yahweh, will remain forever; your renown endures to all generations."
+      "text": "But you, the LORD, will remain forever; your renown endures to all generations."
     },
     {
       "chapter": 102,
@@ -7990,12 +7990,12 @@
     {
       "chapter": 102,
       "verse": 15,
-      "text": "So the nations will fear Yahweh’s name, all the kings of the earth your glory."
+      "text": "So the nations will fear the LORD’s name, all the kings of the earth your glory."
     },
     {
       "chapter": 102,
       "verse": 16,
-      "text": "For Yahweh has built up Zion. He has appeared in his glory."
+      "text": "For the LORD has built up Zion. He has appeared in his glory."
     },
     {
       "chapter": 102,
@@ -8005,12 +8005,12 @@
     {
       "chapter": 102,
       "verse": 18,
-      "text": "This will be written for the generation to come. A people which will be created will praise Yah,"
+      "text": "This will be written for the generation to come. A people which will be created will praise the LORD,"
     },
     {
       "chapter": 102,
       "verse": 19,
-      "text": "for he has looked down from the height of his sanctuary. From heaven, Yahweh saw the earth,"
+      "text": "for he has looked down from the height of his sanctuary. From heaven, the LORD saw the earth,"
     },
     {
       "chapter": 102,
@@ -8020,12 +8020,12 @@
     {
       "chapter": 102,
       "verse": 21,
-      "text": "that men may declare Yahweh’s name in Zion, and his praise in Jerusalem,"
+      "text": "that men may declare the LORD’s name in Zion, and his praise in Jerusalem,"
     },
     {
       "chapter": 102,
       "verse": 22,
-      "text": "when the peoples are gathered together, the kingdoms, to serve Yahweh."
+      "text": "when the peoples are gathered together, the kingdoms, to serve the LORD."
     },
     {
       "chapter": 102,
@@ -8060,12 +8060,12 @@
     {
       "chapter": 103,
       "verse": 1,
-      "text": "Praise Yahweh, my soul! All that is within me, praise his holy name!"
+      "text": "Praise the LORD, my soul! All that is within me, praise his holy name!"
     },
     {
       "chapter": 103,
       "verse": 2,
-      "text": "Praise Yahweh, my soul, and don’t forget all his benefits,"
+      "text": "Praise the LORD, my soul, and don’t forget all his benefits,"
     },
     {
       "chapter": 103,
@@ -8085,7 +8085,7 @@
     {
       "chapter": 103,
       "verse": 6,
-      "text": "Yahweh executes righteous acts, and justice for all who are oppressed."
+      "text": "The LORD executes righteous acts, and justice for all who are oppressed."
     },
     {
       "chapter": 103,
@@ -8095,7 +8095,7 @@
     {
       "chapter": 103,
       "verse": 8,
-      "text": "Yahweh is merciful and gracious, slow to anger, and abundant in loving kindness."
+      "text": "The LORD is merciful and gracious, slow to anger, and abundant in loving kindness."
     },
     {
       "chapter": 103,
@@ -8120,7 +8120,7 @@
     {
       "chapter": 103,
       "verse": 13,
-      "text": "Like a father has compassion on his children, so Yahweh has compassion on those who fear him."
+      "text": "Like a father has compassion on his children, so the LORD has compassion on those who fear him."
     },
     {
       "chapter": 103,
@@ -8140,7 +8140,7 @@
     {
       "chapter": 103,
       "verse": 17,
-      "text": "But Yahweh’s loving kindness is from everlasting to everlasting with those who fear him, his righteousness to children’s children,"
+      "text": "But the LORD’s loving kindness is from everlasting to everlasting with those who fear him, his righteousness to children’s children,"
     },
     {
       "chapter": 103,
@@ -8150,27 +8150,27 @@
     {
       "chapter": 103,
       "verse": 19,
-      "text": "Yahweh has established his throne in the heavens. His kingdom rules over all."
+      "text": "The LORD has established his throne in the heavens. His kingdom rules over all."
     },
     {
       "chapter": 103,
       "verse": 20,
-      "text": "Praise Yahweh, you angels of his, who are mighty in strength, who fulfill his word, obeying the voice of his word."
+      "text": "Praise the LORD, you angels of his, who are mighty in strength, who fulfill his word, obeying the voice of his word."
     },
     {
       "chapter": 103,
       "verse": 21,
-      "text": "Praise Yahweh, all you armies of his, you servants of his, who do his pleasure."
+      "text": "Praise the LORD, all you armies of his, you servants of his, who do his pleasure."
     },
     {
       "chapter": 103,
       "verse": 22,
-      "text": "Praise Yahweh, all you works of his, in all places of his dominion. Praise Yahweh, my soul!"
+      "text": "Praise the LORD, all you works of his, in all places of his dominion. Praise the LORD, my soul!"
     },
     {
       "chapter": 104,
       "verse": 1,
-      "text": "Bless Yahweh, my soul. Yahweh, my God, you are very great. You are clothed with honor and majesty."
+      "text": "Bless the LORD, my soul. The LORD, my God, you are very great. You are clothed with honor and majesty."
     },
     {
       "chapter": 104,
@@ -8245,7 +8245,7 @@
     {
       "chapter": 104,
       "verse": 16,
-      "text": "Yahweh’s trees are well watered, the cedars of Lebanon, which he has planted,"
+      "text": "The LORD’s trees are well watered, the cedars of Lebanon, which he has planted,"
     },
     {
       "chapter": 104,
@@ -8285,7 +8285,7 @@
     {
       "chapter": 104,
       "verse": 24,
-      "text": "Yahweh, how many are your works! In wisdom, you have made them all. The earth is full of your riches."
+      "text": "The LORD, how many are your works! In wisdom, you have made them all. The earth is full of your riches."
     },
     {
       "chapter": 104,
@@ -8320,7 +8320,7 @@
     {
       "chapter": 104,
       "verse": 31,
-      "text": "Let Yahweh’s glory endure forever. Let Yahweh rejoice in his works."
+      "text": "Let the LORD’s glory endure forever. Let the LORD rejoice in his works."
     },
     {
       "chapter": 104,
@@ -8330,22 +8330,22 @@
     {
       "chapter": 104,
       "verse": 33,
-      "text": "I will sing to Yahweh as long as I live. I will sing praise to my God while I have any being."
+      "text": "I will sing to the LORD as long as I live. I will sing praise to my God while I have any being."
     },
     {
       "chapter": 104,
       "verse": 34,
-      "text": "Let my meditation be sweet to him. I will rejoice in Yahweh."
+      "text": "Let my meditation be sweet to him. I will rejoice in the LORD."
     },
     {
       "chapter": 104,
       "verse": 35,
-      "text": "Let sinners be consumed out of the earth. Let the wicked be no more. Bless Yahweh, my soul. Praise Yah!"
+      "text": "Let sinners be consumed out of the earth. Let the wicked be no more. Bless the LORD, my soul. Praise the LORD!"
     },
     {
       "chapter": 105,
       "verse": 1,
-      "text": "Give thanks to Yahweh! Call on his name! Make his doings known among the peoples."
+      "text": "Give thanks to the LORD! Call on his name! Make his doings known among the peoples."
     },
     {
       "chapter": 105,
@@ -8355,12 +8355,12 @@
     {
       "chapter": 105,
       "verse": 3,
-      "text": "Glory in his holy name. Let the heart of those who seek Yahweh rejoice."
+      "text": "Glory in his holy name. Let the heart of those who seek the LORD rejoice."
     },
     {
       "chapter": 105,
       "verse": 4,
-      "text": "Seek Yahweh and his strength. Seek his face forever more."
+      "text": "Seek the LORD and his strength. Seek his face forever more."
     },
     {
       "chapter": 105,
@@ -8375,7 +8375,7 @@
     {
       "chapter": 105,
       "verse": 7,
-      "text": "He is Yahweh, our God. His judgments are in all the earth."
+      "text": "He is the LORD, our God. His judgments are in all the earth."
     },
     {
       "chapter": 105,
@@ -8435,7 +8435,7 @@
     {
       "chapter": 105,
       "verse": 19,
-      "text": "until the time that his word happened, and Yahweh’s word proved him true."
+      "text": "until the time that his word happened, and the LORD’s word proved him true."
     },
     {
       "chapter": 105,
@@ -8565,17 +8565,17 @@
     {
       "chapter": 105,
       "verse": 45,
-      "text": "that they might keep his statutes, and observe his laws. Praise Yah!"
+      "text": "that they might keep his statutes, and observe his laws. Praise the LORD!"
     },
     {
       "chapter": 106,
       "verse": 1,
-      "text": "Praise Yahweh! Give thanks to Yahweh, for he is good, for his loving kindness endures forever."
+      "text": "Praise the LORD! Give thanks to the LORD, for he is good, for his loving kindness endures forever."
     },
     {
       "chapter": 106,
       "verse": 2,
-      "text": "Who can utter the mighty acts of Yahweh, or fully declare all his praise?"
+      "text": "Who can utter the mighty acts of the LORD, or fully declare all his praise?"
     },
     {
       "chapter": 106,
@@ -8585,7 +8585,7 @@
     {
       "chapter": 106,
       "verse": 4,
-      "text": "Remember me, Yahweh, with the favor that you show to your people. Visit me with your salvation,"
+      "text": "Remember me, the LORD, with the favor that you show to your people. Visit me with your salvation,"
     },
     {
       "chapter": 106,
@@ -8645,7 +8645,7 @@
     {
       "chapter": 106,
       "verse": 16,
-      "text": "They envied Moses also in the camp, and Aaron, Yahweh’s saint."
+      "text": "They envied Moses also in the camp, and Aaron, the LORD’s saint."
     },
     {
       "chapter": 106,
@@ -8690,7 +8690,7 @@
     {
       "chapter": 106,
       "verse": 25,
-      "text": "but murmured in their tents, and didn’t listen to Yahweh’s voice."
+      "text": "but murmured in their tents, and didn’t listen to the LORD’s voice."
     },
     {
       "chapter": 106,
@@ -8735,7 +8735,7 @@
     {
       "chapter": 106,
       "verse": 34,
-      "text": "They didn’t destroy the peoples, as Yahweh commanded them,"
+      "text": "They didn’t destroy the peoples, as the LORD commanded them,"
     },
     {
       "chapter": 106,
@@ -8765,7 +8765,7 @@
     {
       "chapter": 106,
       "verse": 40,
-      "text": "Therefore Yahweh burned with anger against his people. He abhorred his inheritance."
+      "text": "Therefore the LORD burned with anger against his people. He abhorred his inheritance."
     },
     {
       "chapter": 106,
@@ -8800,22 +8800,22 @@
     {
       "chapter": 106,
       "verse": 47,
-      "text": "Save us, Yahweh, our God, gather us from among the nations, to give thanks to your holy name, to triumph in your praise!"
+      "text": "Save us, the LORD, our God, gather us from among the nations, to give thanks to your holy name, to triumph in your praise!"
     },
     {
       "chapter": 106,
       "verse": 48,
-      "text": "Blessed be Yahweh, the God of Israel, from everlasting even to everlasting! Let all the people say, “Amen.” Praise Yah!"
+      "text": "Blessed be the LORD, the God of Israel, from everlasting even to everlasting! Let all the people say, “Amen.” Praise the LORD!"
     },
     {
       "chapter": 107,
       "verse": 1,
-      "text": "Give thanks to Yahweh, for he is good, for his loving kindness endures forever."
+      "text": "Give thanks to the LORD, for he is good, for his loving kindness endures forever."
     },
     {
       "chapter": 107,
       "verse": 2,
-      "text": "Let the redeemed by Yahweh say so, whom he has redeemed from the hand of the adversary,"
+      "text": "Let the redeemed by the LORD say so, whom he has redeemed from the hand of the adversary,"
     },
     {
       "chapter": 107,
@@ -8835,7 +8835,7 @@
     {
       "chapter": 107,
       "verse": 6,
-      "text": "Then they cried to Yahweh in their trouble, and he delivered them out of their distresses."
+      "text": "Then they cried to the LORD in their trouble, and he delivered them out of their distresses."
     },
     {
       "chapter": 107,
@@ -8845,7 +8845,7 @@
     {
       "chapter": 107,
       "verse": 8,
-      "text": "Let them praise Yahweh for his loving kindness, for his wonderful deeds to the children of men!"
+      "text": "Let them praise the LORD for his loving kindness, for his wonderful deeds to the children of men!"
     },
     {
       "chapter": 107,
@@ -8870,7 +8870,7 @@
     {
       "chapter": 107,
       "verse": 13,
-      "text": "Then they cried to Yahweh in their trouble, and he saved them out of their distresses."
+      "text": "Then they cried to the LORD in their trouble, and he saved them out of their distresses."
     },
     {
       "chapter": 107,
@@ -8880,7 +8880,7 @@
     {
       "chapter": 107,
       "verse": 15,
-      "text": "Let them praise Yahweh for his loving kindness, for his wonderful deeds to the children of men!"
+      "text": "Let them praise the LORD for his loving kindness, for his wonderful deeds to the children of men!"
     },
     {
       "chapter": 107,
@@ -8900,7 +8900,7 @@
     {
       "chapter": 107,
       "verse": 19,
-      "text": "Then they cry to Yahweh in their trouble, and he saves them out of their distresses."
+      "text": "Then they cry to the LORD in their trouble, and he saves them out of their distresses."
     },
     {
       "chapter": 107,
@@ -8910,7 +8910,7 @@
     {
       "chapter": 107,
       "verse": 21,
-      "text": "Let them praise Yahweh for his loving kindness, for his wonderful deeds to the children of men!"
+      "text": "Let them praise the LORD for his loving kindness, for his wonderful deeds to the children of men!"
     },
     {
       "chapter": 107,
@@ -8925,7 +8925,7 @@
     {
       "chapter": 107,
       "verse": 24,
-      "text": "these see Yahweh’s deeds, and his wonders in the deep."
+      "text": "these see the LORD’s deeds, and his wonders in the deep."
     },
     {
       "chapter": 107,
@@ -8945,7 +8945,7 @@
     {
       "chapter": 107,
       "verse": 28,
-      "text": "Then they cry to Yahweh in their trouble, and he brings them out of their distress."
+      "text": "Then they cry to the LORD in their trouble, and he brings them out of their distress."
     },
     {
       "chapter": 107,
@@ -8960,7 +8960,7 @@
     {
       "chapter": 107,
       "verse": 31,
-      "text": "Let them praise Yahweh for his loving kindness, for his wonderful deeds for the children of men!"
+      "text": "Let them praise the LORD for his loving kindness, for his wonderful deeds for the children of men!"
     },
     {
       "chapter": 107,
@@ -9020,7 +9020,7 @@
     {
       "chapter": 107,
       "verse": 43,
-      "text": "Whoever is wise will pay attention to these things. They will consider the loving kindnesses of Yahweh."
+      "text": "Whoever is wise will pay attention to these things. They will consider the loving kindnesses of the LORD."
     },
     {
       "chapter": 108,
@@ -9035,7 +9035,7 @@
     {
       "chapter": 108,
       "verse": 3,
-      "text": "I will give thanks to you, Yahweh, among the nations. I will sing praises to you among the peoples."
+      "text": "I will give thanks to you, the LORD, among the nations. I will sing praises to you among the peoples."
     },
     {
       "chapter": 108,
@@ -9155,12 +9155,12 @@
     {
       "chapter": 109,
       "verse": 14,
-      "text": "Let the iniquity of his fathers be remembered by Yahweh. Don’t let the sin of his mother be blotted out."
+      "text": "Let the iniquity of his fathers be remembered by the LORD. Don’t let the sin of his mother be blotted out."
     },
     {
       "chapter": 109,
       "verse": 15,
-      "text": "Let them be before Yahweh continually, that he may cut off their memory from the earth;"
+      "text": "Let them be before the LORD continually, that he may cut off their memory from the earth;"
     },
     {
       "chapter": 109,
@@ -9185,12 +9185,12 @@
     {
       "chapter": 109,
       "verse": 20,
-      "text": "This is the reward of my adversaries from Yahweh, of those who speak evil against my soul."
+      "text": "This is the reward of my adversaries from the LORD, of those who speak evil against my soul."
     },
     {
       "chapter": 109,
       "verse": 21,
-      "text": "But deal with me, Yahweh the Lord, for your name’s sake, because your loving kindness is good, deliver me;"
+      "text": "But deal with me, the LORD the Lord, for your name’s sake, because your loving kindness is good, deliver me;"
     },
     {
       "chapter": 109,
@@ -9215,12 +9215,12 @@
     {
       "chapter": 109,
       "verse": 26,
-      "text": "Help me, Yahweh, my God. Save me according to your loving kindness;"
+      "text": "Help me, the LORD, my God. Save me according to your loving kindness;"
     },
     {
       "chapter": 109,
       "verse": 27,
-      "text": "that they may know that this is your hand; that you, Yahweh, have done it."
+      "text": "that they may know that this is your hand; that you, the LORD, have done it."
     },
     {
       "chapter": 109,
@@ -9235,7 +9235,7 @@
     {
       "chapter": 109,
       "verse": 30,
-      "text": "I will give great thanks to Yahweh with my mouth. Yes, I will praise him among the multitude."
+      "text": "I will give great thanks to the LORD with my mouth. Yes, I will praise him among the multitude."
     },
     {
       "chapter": 109,
@@ -9245,12 +9245,12 @@
     {
       "chapter": 110,
       "verse": 1,
-      "text": "Yahweh says to my Lord, “Sit at my right hand, until I make your enemies your footstool for your feet.”"
+      "text": "The LORD says to my Lord, “Sit at my right hand, until I make your enemies your footstool for your feet.”"
     },
     {
       "chapter": 110,
       "verse": 2,
-      "text": "Yahweh will send out the rod of your strength out of Zion. Rule among your enemies."
+      "text": "The LORD will send out the rod of your strength out of Zion. Rule among your enemies."
     },
     {
       "chapter": 110,
@@ -9260,7 +9260,7 @@
     {
       "chapter": 110,
       "verse": 4,
-      "text": "Yahweh has sworn, and will not change his mind: “You are a priest forever in the order of Melchizedek.”"
+      "text": "The LORD has sworn, and will not change his mind: “You are a priest forever in the order of Melchizedek.”"
     },
     {
       "chapter": 110,
@@ -9280,12 +9280,12 @@
     {
       "chapter": 111,
       "verse": 1,
-      "text": "Praise Yah! I will give thanks to Yahweh with my whole heart, in the council of the upright, and in the congregation."
+      "text": "Praise the LORD! I will give thanks to the LORD with my whole heart, in the council of the upright, and in the congregation."
     },
     {
       "chapter": 111,
       "verse": 2,
-      "text": "Yahweh’s works are great, pondered by all those who delight in them."
+      "text": "The LORD’s works are great, pondered by all those who delight in them."
     },
     {
       "chapter": 111,
@@ -9295,7 +9295,7 @@
     {
       "chapter": 111,
       "verse": 4,
-      "text": "He has caused his wonderful works to be remembered. Yahweh is gracious and merciful."
+      "text": "He has caused his wonderful works to be remembered. The LORD is gracious and merciful."
     },
     {
       "chapter": 111,
@@ -9325,12 +9325,12 @@
     {
       "chapter": 111,
       "verse": 10,
-      "text": "The fear of Yahweh is the beginning of wisdom. All those who do his work have a good understanding. His praise endures forever!"
+      "text": "The fear of the LORD is the beginning of wisdom. All those who do his work have a good understanding. His praise endures forever!"
     },
     {
       "chapter": 112,
       "verse": 1,
-      "text": "Praise Yah! Blessed is the man who fears Yahweh, who delights greatly in his commandments."
+      "text": "Praise the LORD! Blessed is the man who fears the LORD, who delights greatly in his commandments."
     },
     {
       "chapter": 112,
@@ -9360,7 +9360,7 @@
     {
       "chapter": 112,
       "verse": 7,
-      "text": "He will not be afraid of evil news. His heart is steadfast, trusting in Yahweh."
+      "text": "He will not be afraid of evil news. His heart is steadfast, trusting in the LORD."
     },
     {
       "chapter": 112,
@@ -9380,27 +9380,27 @@
     {
       "chapter": 113,
       "verse": 1,
-      "text": "Praise Yah! Praise, you servants of Yahweh, praise Yahweh’s name."
+      "text": "Praise the LORD! Praise, you servants of the LORD, praise the LORD’s name."
     },
     {
       "chapter": 113,
       "verse": 2,
-      "text": "Blessed be Yahweh’s name, from this time forward and forever more."
+      "text": "Blessed be the LORD’s name, from this time forward and forever more."
     },
     {
       "chapter": 113,
       "verse": 3,
-      "text": "From the rising of the sun to its going down, Yahweh’s name is to be praised."
+      "text": "From the rising of the sun to its going down, the LORD’s name is to be praised."
     },
     {
       "chapter": 113,
       "verse": 4,
-      "text": "Yahweh is high above all nations, his glory above the heavens."
+      "text": "The LORD is high above all nations, his glory above the heavens."
     },
     {
       "chapter": 113,
       "verse": 5,
-      "text": "Who is like Yahweh, our God, who has his seat on high,"
+      "text": "Who is like the LORD, our God, who has his seat on high,"
     },
     {
       "chapter": 113,
@@ -9420,7 +9420,7 @@
     {
       "chapter": 113,
       "verse": 9,
-      "text": "He settles the barren woman in her home as a joyful mother of children. Praise Yah!"
+      "text": "He settles the barren woman in her home as a joyful mother of children. Praise the LORD!"
     },
     {
       "chapter": 114,
@@ -9465,7 +9465,7 @@
     {
       "chapter": 115,
       "verse": 1,
-      "text": "Not to us, Yahweh, not to us, but to your name give glory, for your loving kindness, and for your truth’s sake."
+      "text": "Not to us, the LORD, not to us, but to your name give glory, for your loving kindness, and for your truth’s sake."
     },
     {
       "chapter": 115,
@@ -9505,57 +9505,57 @@
     {
       "chapter": 115,
       "verse": 9,
-      "text": "Israel, trust in Yahweh! He is their help and their shield."
+      "text": "Israel, trust in the LORD! He is their help and their shield."
     },
     {
       "chapter": 115,
       "verse": 10,
-      "text": "House of Aaron, trust in Yahweh! He is their help and their shield."
+      "text": "House of Aaron, trust in the LORD! He is their help and their shield."
     },
     {
       "chapter": 115,
       "verse": 11,
-      "text": "You who fear Yahweh, trust in Yahweh! He is their help and their shield."
+      "text": "You who fear the LORD, trust in the LORD! He is their help and their shield."
     },
     {
       "chapter": 115,
       "verse": 12,
-      "text": "Yahweh remembers us. He will bless us. He will bless the house of Israel. He will bless the house of Aaron."
+      "text": "The LORD remembers us. He will bless us. He will bless the house of Israel. He will bless the house of Aaron."
     },
     {
       "chapter": 115,
       "verse": 13,
-      "text": "He will bless those who fear Yahweh, both small and great."
+      "text": "He will bless those who fear the LORD, both small and great."
     },
     {
       "chapter": 115,
       "verse": 14,
-      "text": "May Yahweh increase you more and more, you and your children."
+      "text": "May the LORD increase you more and more, you and your children."
     },
     {
       "chapter": 115,
       "verse": 15,
-      "text": "Blessed are you by Yahweh, who made heaven and earth."
+      "text": "Blessed are you by the LORD, who made heaven and earth."
     },
     {
       "chapter": 115,
       "verse": 16,
-      "text": "The heavens are Yahweh’s heavens, but he has given the earth to the children of men."
+      "text": "The heavens are the LORD’s heavens, but he has given the earth to the children of men."
     },
     {
       "chapter": 115,
       "verse": 17,
-      "text": "The dead don’t praise Yah, nor any who go down into silence,"
+      "text": "The dead don’t praise the LORD, nor any who go down into silence,"
     },
     {
       "chapter": 115,
       "verse": 18,
-      "text": "but we will bless Yah, from this time forward and forever more. Praise Yah!"
+      "text": "but we will bless the LORD, from this time forward and forever more. Praise the LORD!"
     },
     {
       "chapter": 116,
       "verse": 1,
-      "text": "I love Yahweh, because he listens to my voice, and my cries for mercy."
+      "text": "I love the LORD, because he listens to my voice, and my cries for mercy."
     },
     {
       "chapter": 116,
@@ -9570,22 +9570,22 @@
     {
       "chapter": 116,
       "verse": 4,
-      "text": "Then I called on Yahweh’s name: “Yahweh, I beg you, deliver my soul.”"
+      "text": "Then I called on the LORD’s name: “The LORD, I beg you, deliver my soul.”"
     },
     {
       "chapter": 116,
       "verse": 5,
-      "text": "Yahweh is gracious and righteous. Yes, our God is merciful."
+      "text": "The LORD is gracious and righteous. Yes, our God is merciful."
     },
     {
       "chapter": 116,
       "verse": 6,
-      "text": "Yahweh preserves the simple. I was brought low, and he saved me."
+      "text": "The LORD preserves the simple. I was brought low, and he saved me."
     },
     {
       "chapter": 116,
       "verse": 7,
-      "text": "Return to your rest, my soul, for Yahweh has dealt bountifully with you."
+      "text": "Return to your rest, my soul, for the LORD has dealt bountifully with you."
     },
     {
       "chapter": 116,
@@ -9595,7 +9595,7 @@
     {
       "chapter": 116,
       "verse": 9,
-      "text": "I will walk before Yahweh in the land of the living."
+      "text": "I will walk before the LORD in the land of the living."
     },
     {
       "chapter": 116,
@@ -9610,57 +9610,57 @@
     {
       "chapter": 116,
       "verse": 12,
-      "text": "What will I give to Yahweh for all his benefits toward me?"
+      "text": "What will I give to the LORD for all his benefits toward me?"
     },
     {
       "chapter": 116,
       "verse": 13,
-      "text": "I will take the cup of salvation, and call on Yahweh’s name."
+      "text": "I will take the cup of salvation, and call on the LORD’s name."
     },
     {
       "chapter": 116,
       "verse": 14,
-      "text": "I will pay my vows to Yahweh, yes, in the presence of all his people."
+      "text": "I will pay my vows to the LORD, yes, in the presence of all his people."
     },
     {
       "chapter": 116,
       "verse": 15,
-      "text": "Precious in Yahweh’s sight is the death of his saints."
+      "text": "Precious in the LORD’s sight is the death of his saints."
     },
     {
       "chapter": 116,
       "verse": 16,
-      "text": "Yahweh, truly I am your servant. I am your servant, the son of your servant girl. You have freed me from my chains."
+      "text": "The LORD, truly I am your servant. I am your servant, the son of your servant girl. You have freed me from my chains."
     },
     {
       "chapter": 116,
       "verse": 17,
-      "text": "I will offer to you the sacrifice of thanksgiving, and will call on Yahweh’s name."
+      "text": "I will offer to you the sacrifice of thanksgiving, and will call on the LORD’s name."
     },
     {
       "chapter": 116,
       "verse": 18,
-      "text": "I will pay my vows to Yahweh, yes, in the presence of all his people,"
+      "text": "I will pay my vows to the LORD, yes, in the presence of all his people,"
     },
     {
       "chapter": 116,
       "verse": 19,
-      "text": "in the courts of Yahweh’s house, in the middle of you, Jerusalem. Praise Yah!"
+      "text": "in the courts of the LORD’s house, in the middle of you, Jerusalem. Praise the LORD!"
     },
     {
       "chapter": 117,
       "verse": 1,
-      "text": "Praise Yahweh, all you nations! Extol him, all you peoples!"
+      "text": "Praise the LORD, all you nations! Extol him, all you peoples!"
     },
     {
       "chapter": 117,
       "verse": 2,
-      "text": "For his loving kindness is great toward us. Yahweh’s faithfulness endures forever. Praise Yah!"
+      "text": "For his loving kindness is great toward us. The LORD’s faithfulness endures forever. Praise the LORD!"
     },
     {
       "chapter": 118,
       "verse": 1,
-      "text": "Give thanks to Yahweh, for he is good, for his loving kindness endures forever."
+      "text": "Give thanks to the LORD, for he is good, for his loving kindness endures forever."
     },
     {
       "chapter": 118,
@@ -9675,87 +9675,87 @@
     {
       "chapter": 118,
       "verse": 4,
-      "text": "Now let those who fear Yahweh say that his loving kindness endures forever."
+      "text": "Now let those who fear the LORD say that his loving kindness endures forever."
     },
     {
       "chapter": 118,
       "verse": 5,
-      "text": "Out of my distress, I called on Yah. Yah answered me with freedom."
+      "text": "Out of my distress, I called on the LORD. The LORD answered me with freedom."
     },
     {
       "chapter": 118,
       "verse": 6,
-      "text": "Yahweh is on my side. I will not be afraid. What can man do to me?"
+      "text": "The LORD is on my side. I will not be afraid. What can man do to me?"
     },
     {
       "chapter": 118,
       "verse": 7,
-      "text": "Yahweh is on my side among those who help me. Therefore I will look in triumph at those who hate me."
+      "text": "The LORD is on my side among those who help me. Therefore I will look in triumph at those who hate me."
     },
     {
       "chapter": 118,
       "verse": 8,
-      "text": "It is better to take refuge in Yahweh, than to put confidence in man."
+      "text": "It is better to take refuge in the LORD, than to put confidence in man."
     },
     {
       "chapter": 118,
       "verse": 9,
-      "text": "It is better to take refuge in Yahweh, than to put confidence in princes."
+      "text": "It is better to take refuge in the LORD, than to put confidence in princes."
     },
     {
       "chapter": 118,
       "verse": 10,
-      "text": "All the nations surrounded me, but in Yahweh’s name I cut them off."
+      "text": "All the nations surrounded me, but in the LORD’s name I cut them off."
     },
     {
       "chapter": 118,
       "verse": 11,
-      "text": "They surrounded me, yes, they surrounded me. In Yahweh’s name I indeed cut them off."
+      "text": "They surrounded me, yes, they surrounded me. In the LORD’s name I indeed cut them off."
     },
     {
       "chapter": 118,
       "verse": 12,
-      "text": "They surrounded me like bees. They are quenched like the burning thorns. In Yahweh’s name I cut them off."
+      "text": "They surrounded me like bees. They are quenched like the burning thorns. In the LORD’s name I cut them off."
     },
     {
       "chapter": 118,
       "verse": 13,
-      "text": "You pushed me back hard, to make me fall, but Yahweh helped me."
+      "text": "You pushed me back hard, to make me fall, but the LORD helped me."
     },
     {
       "chapter": 118,
       "verse": 14,
-      "text": "Yah is my strength and song. He has become my salvation."
+      "text": "The LORD is my strength and song. He has become my salvation."
     },
     {
       "chapter": 118,
       "verse": 15,
-      "text": "The voice of rejoicing and salvation is in the tents of the righteous. “The right hand of Yahweh does valiantly."
+      "text": "The voice of rejoicing and salvation is in the tents of the righteous. “The right hand of the LORD does valiantly."
     },
     {
       "chapter": 118,
       "verse": 16,
-      "text": "The right hand of Yahweh is exalted! The right hand of Yahweh does valiantly!”"
+      "text": "The right hand of the LORD is exalted! The right hand of the LORD does valiantly!”"
     },
     {
       "chapter": 118,
       "verse": 17,
-      "text": "I will not die, but live, and declare Yah’s works."
+      "text": "I will not die, but live, and declare the LORD’s works."
     },
     {
       "chapter": 118,
       "verse": 18,
-      "text": "Yah has punished me severely, but he has not given me over to death."
+      "text": "The LORD has punished me severely, but he has not given me over to death."
     },
     {
       "chapter": 118,
       "verse": 19,
-      "text": "Open to me the gates of righteousness. I will enter into them. I will give thanks to Yah."
+      "text": "Open to me the gates of righteousness. I will enter into them. I will give thanks to the LORD."
     },
     {
       "chapter": 118,
       "verse": 20,
-      "text": "This is the gate of Yahweh; the righteous will enter into it."
+      "text": "This is the gate of the LORD; the righteous will enter into it."
     },
     {
       "chapter": 118,
@@ -9770,27 +9770,27 @@
     {
       "chapter": 118,
       "verse": 23,
-      "text": "This is Yahweh’s doing. It is marvelous in our eyes."
+      "text": "This is the LORD’s doing. It is marvelous in our eyes."
     },
     {
       "chapter": 118,
       "verse": 24,
-      "text": "This is the day that Yahweh has made. We will rejoice and be glad in it!"
+      "text": "This is the day that the LORD has made. We will rejoice and be glad in it!"
     },
     {
       "chapter": 118,
       "verse": 25,
-      "text": "Save us now, we beg you, Yahweh! Yahweh, we beg you, send prosperity now."
+      "text": "Save us now, we beg you, the LORD! The LORD, we beg you, send prosperity now."
     },
     {
       "chapter": 118,
       "verse": 26,
-      "text": "Blessed is he who comes in Yahweh’s name! We have blessed you out of Yahweh’s house."
+      "text": "Blessed is he who comes in the LORD’s name! We have blessed you out of the LORD’s house."
     },
     {
       "chapter": 118,
       "verse": 27,
-      "text": "Yahweh is God, and he has given us light. Bind the sacrifice with cords, even to the horns of the altar."
+      "text": "The LORD is God, and he has given us light. Bind the sacrifice with cords, even to the horns of the altar."
     },
     {
       "chapter": 118,
@@ -9800,12 +9800,12 @@
     {
       "chapter": 118,
       "verse": 29,
-      "text": "Oh give thanks to Yahweh, for he is good, for his loving kindness endures forever."
+      "text": "Oh give thanks to the LORD, for he is good, for his loving kindness endures forever."
     },
     {
       "chapter": 119,
       "verse": 1,
-      "text": "Blessed are those whose ways are blameless, who walk according to Yahweh’s law."
+      "text": "Blessed are those whose ways are blameless, who walk according to the LORD’s law."
     },
     {
       "chapter": 119,
@@ -9860,7 +9860,7 @@
     {
       "chapter": 119,
       "verse": 12,
-      "text": "Blessed are you, Yahweh. Teach me your statutes."
+      "text": "Blessed are you, the LORD. Teach me your statutes."
     },
     {
       "chapter": 119,
@@ -9955,7 +9955,7 @@
     {
       "chapter": 119,
       "verse": 31,
-      "text": "I cling to your statutes, Yahweh. Don’t let me be disappointed."
+      "text": "I cling to your statutes, the LORD. Don’t let me be disappointed."
     },
     {
       "chapter": 119,
@@ -9965,7 +9965,7 @@
     {
       "chapter": 119,
       "verse": 33,
-      "text": "Teach me, Yahweh, the way of your statutes. I will keep them to the end."
+      "text": "Teach me, the LORD, the way of your statutes. I will keep them to the end."
     },
     {
       "chapter": 119,
@@ -10005,7 +10005,7 @@
     {
       "chapter": 119,
       "verse": 41,
-      "text": "Let your loving kindness also come to me, Yahweh, your salvation, according to your word."
+      "text": "Let your loving kindness also come to me, the LORD, your salvation, according to your word."
     },
     {
       "chapter": 119,
@@ -10060,7 +10060,7 @@
     {
       "chapter": 119,
       "verse": 52,
-      "text": "I remember your ordinances of old, Yahweh, and have comforted myself."
+      "text": "I remember your ordinances of old, the LORD, and have comforted myself."
     },
     {
       "chapter": 119,
@@ -10075,7 +10075,7 @@
     {
       "chapter": 119,
       "verse": 55,
-      "text": "I have remembered your name, Yahweh, in the night, and I obey your law."
+      "text": "I have remembered your name, the LORD, in the night, and I obey your law."
     },
     {
       "chapter": 119,
@@ -10085,7 +10085,7 @@
     {
       "chapter": 119,
       "verse": 57,
-      "text": "Yahweh is my portion. I promised to obey your words."
+      "text": "The LORD is my portion. I promised to obey your words."
     },
     {
       "chapter": 119,
@@ -10120,12 +10120,12 @@
     {
       "chapter": 119,
       "verse": 64,
-      "text": "The earth is full of your loving kindness, Yahweh. Teach me your statutes."
+      "text": "The earth is full of your loving kindness, the LORD. Teach me your statutes."
     },
     {
       "chapter": 119,
       "verse": 65,
-      "text": "You have treated your servant well, according to your word, Yahweh."
+      "text": "You have treated your servant well, according to your word, the LORD."
     },
     {
       "chapter": 119,
@@ -10175,7 +10175,7 @@
     {
       "chapter": 119,
       "verse": 75,
-      "text": "Yahweh, I know that your judgments are righteous, that in faithfulness you have afflicted me."
+      "text": "The LORD, I know that your judgments are righteous, that in faithfulness you have afflicted me."
     },
     {
       "chapter": 119,
@@ -10245,7 +10245,7 @@
     {
       "chapter": 119,
       "verse": 89,
-      "text": "Yahweh, your word is settled in heaven forever."
+      "text": "The LORD, your word is settled in heaven forever."
     },
     {
       "chapter": 119,
@@ -10335,12 +10335,12 @@
     {
       "chapter": 119,
       "verse": 107,
-      "text": "I am afflicted very much. Revive me, Yahweh, according to your word."
+      "text": "I am afflicted very much. Revive me, the LORD, according to your word."
     },
     {
       "chapter": 119,
       "verse": 108,
-      "text": "Accept, I beg you, the willing offerings of my mouth. Yahweh, teach me your ordinances."
+      "text": "Accept, I beg you, the willing offerings of my mouth. The LORD, teach me your ordinances."
     },
     {
       "chapter": 119,
@@ -10430,7 +10430,7 @@
     {
       "chapter": 119,
       "verse": 126,
-      "text": "It is time to act, Yahweh, for they break your law."
+      "text": "It is time to act, the LORD, for they break your law."
     },
     {
       "chapter": 119,
@@ -10485,7 +10485,7 @@
     {
       "chapter": 119,
       "verse": 137,
-      "text": "You are righteous, Yahweh. Your judgments are upright."
+      "text": "You are righteous, the LORD. Your judgments are upright."
     },
     {
       "chapter": 119,
@@ -10525,7 +10525,7 @@
     {
       "chapter": 119,
       "verse": 145,
-      "text": "I have called with my whole heart. Answer me, Yahweh! I will keep your statutes."
+      "text": "I have called with my whole heart. Answer me, the LORD! I will keep your statutes."
     },
     {
       "chapter": 119,
@@ -10545,7 +10545,7 @@
     {
       "chapter": 119,
       "verse": 149,
-      "text": "Hear my voice according to your loving kindness. Revive me, Yahweh, according to your ordinances."
+      "text": "Hear my voice according to your loving kindness. Revive me, the LORD, according to your ordinances."
     },
     {
       "chapter": 119,
@@ -10555,7 +10555,7 @@
     {
       "chapter": 119,
       "verse": 151,
-      "text": "You are near, Yahweh. All your commandments are truth."
+      "text": "You are near, the LORD. All your commandments are truth."
     },
     {
       "chapter": 119,
@@ -10580,7 +10580,7 @@
     {
       "chapter": 119,
       "verse": 156,
-      "text": "Great are your tender mercies, Yahweh. Revive me according to your ordinances."
+      "text": "Great are your tender mercies, the LORD. Revive me according to your ordinances."
     },
     {
       "chapter": 119,
@@ -10595,7 +10595,7 @@
     {
       "chapter": 119,
       "verse": 159,
-      "text": "Consider how I love your precepts. Revive me, Yahweh, according to your loving kindness."
+      "text": "Consider how I love your precepts. Revive me, the LORD, according to your loving kindness."
     },
     {
       "chapter": 119,
@@ -10630,7 +10630,7 @@
     {
       "chapter": 119,
       "verse": 166,
-      "text": "I have hoped for your salvation, Yahweh. I have done your commandments."
+      "text": "I have hoped for your salvation, the LORD. I have done your commandments."
     },
     {
       "chapter": 119,
@@ -10645,7 +10645,7 @@
     {
       "chapter": 119,
       "verse": 169,
-      "text": "Let my cry come before you, Yahweh. Give me understanding according to your word."
+      "text": "Let my cry come before you, the LORD. Give me understanding according to your word."
     },
     {
       "chapter": 119,
@@ -10670,7 +10670,7 @@
     {
       "chapter": 119,
       "verse": 174,
-      "text": "I have longed for your salvation, Yahweh. Your law is my delight."
+      "text": "I have longed for your salvation, the LORD. Your law is my delight."
     },
     {
       "chapter": 119,
@@ -10685,12 +10685,12 @@
     {
       "chapter": 120,
       "verse": 1,
-      "text": "In my distress, I cried to Yahweh. He answered me."
+      "text": "In my distress, I cried to the LORD. He answered me."
     },
     {
       "chapter": 120,
       "verse": 2,
-      "text": "Deliver my soul, Yahweh, from lying lips, from a deceitful tongue."
+      "text": "Deliver my soul, the LORD, from lying lips, from a deceitful tongue."
     },
     {
       "chapter": 120,
@@ -10725,7 +10725,7 @@
     {
       "chapter": 121,
       "verse": 2,
-      "text": "My help comes from Yahweh, who made heaven and earth."
+      "text": "My help comes from the LORD, who made heaven and earth."
     },
     {
       "chapter": 121,
@@ -10740,7 +10740,7 @@
     {
       "chapter": 121,
       "verse": 5,
-      "text": "Yahweh is your keeper. Yahweh is your shade on your right hand."
+      "text": "The LORD is your keeper. The LORD is your shade on your right hand."
     },
     {
       "chapter": 121,
@@ -10750,17 +10750,17 @@
     {
       "chapter": 121,
       "verse": 7,
-      "text": "Yahweh will keep you from all evil. He will keep your soul."
+      "text": "The LORD will keep you from all evil. He will keep your soul."
     },
     {
       "chapter": 121,
       "verse": 8,
-      "text": "Yahweh will keep your going out and your coming in, from this time forward, and forever more."
+      "text": "The LORD will keep your going out and your coming in, from this time forward, and forever more."
     },
     {
       "chapter": 122,
       "verse": 1,
-      "text": "I was glad when they said to me, “Let’s go to Yahweh’s house!”"
+      "text": "I was glad when they said to me, “Let’s go to the LORD’s house!”"
     },
     {
       "chapter": 122,
@@ -10775,7 +10775,7 @@
     {
       "chapter": 122,
       "verse": 4,
-      "text": "where the tribes go up, even Yah’s tribes, according to an ordinance for Israel, to give thanks to Yahweh’s name."
+      "text": "where the tribes go up, even the LORD’s tribes, according to an ordinance for Israel, to give thanks to the LORD’s name."
     },
     {
       "chapter": 122,
@@ -10800,7 +10800,7 @@
     {
       "chapter": 122,
       "verse": 9,
-      "text": "For the sake of the house of Yahweh our God, I will seek your good."
+      "text": "For the sake of the house of the LORD our God, I will seek your good."
     },
     {
       "chapter": 123,
@@ -10810,12 +10810,12 @@
     {
       "chapter": 123,
       "verse": 2,
-      "text": "Behold, as the eyes of servants look to the hand of their master, as the eyes of a maid to the hand of her mistress, so our eyes look to Yahweh, our God, until he has mercy on us."
+      "text": "Behold, as the eyes of servants look to the hand of their master, as the eyes of a maid to the hand of her mistress, so our eyes look to the LORD, our God, until he has mercy on us."
     },
     {
       "chapter": 123,
       "verse": 3,
-      "text": "Have mercy on us, Yahweh, have mercy on us, for we have endured much contempt."
+      "text": "Have mercy on us, the LORD, have mercy on us, for we have endured much contempt."
     },
     {
       "chapter": 123,
@@ -10825,12 +10825,12 @@
     {
       "chapter": 124,
       "verse": 1,
-      "text": "If it had not been Yahweh who was on our side, let Israel now say,"
+      "text": "If it had not been the LORD who was on our side, let Israel now say,"
     },
     {
       "chapter": 124,
       "verse": 2,
-      "text": "if it had not been Yahweh who was on our side, when men rose up against us,"
+      "text": "if it had not been the LORD who was on our side, when men rose up against us,"
     },
     {
       "chapter": 124,
@@ -10850,7 +10850,7 @@
     {
       "chapter": 124,
       "verse": 6,
-      "text": "Blessed be Yahweh, who has not given us as a prey to their teeth."
+      "text": "Blessed be the LORD, who has not given us as a prey to their teeth."
     },
     {
       "chapter": 124,
@@ -10860,17 +10860,17 @@
     {
       "chapter": 124,
       "verse": 8,
-      "text": "Our help is in Yahweh’s name, who made heaven and earth."
+      "text": "Our help is in the LORD’s name, who made heaven and earth."
     },
     {
       "chapter": 125,
       "verse": 1,
-      "text": "Those who trust in Yahweh are as Mount Zion, which can’t be moved, but remains forever."
+      "text": "Those who trust in the LORD are as Mount Zion, which can’t be moved, but remains forever."
     },
     {
       "chapter": 125,
       "verse": 2,
-      "text": "As the mountains surround Jerusalem, so Yahweh surrounds his people from this time forward and forever more."
+      "text": "As the mountains surround Jerusalem, so the LORD surrounds his people from this time forward and forever more."
     },
     {
       "chapter": 125,
@@ -10880,32 +10880,32 @@
     {
       "chapter": 125,
       "verse": 4,
-      "text": "Do good, Yahweh, to those who are good, to those who are upright in their hearts."
+      "text": "Do good, the LORD, to those who are good, to those who are upright in their hearts."
     },
     {
       "chapter": 125,
       "verse": 5,
-      "text": "But as for those who turn away to their crooked ways, Yahweh will lead them away with the workers of iniquity. Peace be on Israel."
+      "text": "But as for those who turn away to their crooked ways, the LORD will lead them away with the workers of iniquity. Peace be on Israel."
     },
     {
       "chapter": 126,
       "verse": 1,
-      "text": "When Yahweh brought back those who returned to Zion, we were like those who dream."
+      "text": "When the LORD brought back those who returned to Zion, we were like those who dream."
     },
     {
       "chapter": 126,
       "verse": 2,
-      "text": "Then our mouth was filled with laughter, and our tongue with singing. Then they said among the nations, “Yahweh has done great things for them.”"
+      "text": "Then our mouth was filled with laughter, and our tongue with singing. Then they said among the nations, “The LORD has done great things for them.”"
     },
     {
       "chapter": 126,
       "verse": 3,
-      "text": "Yahweh has done great things for us, and we are glad."
+      "text": "The LORD has done great things for us, and we are glad."
     },
     {
       "chapter": 126,
       "verse": 4,
-      "text": "Restore our fortunes again, Yahweh, like the streams in the Negev."
+      "text": "Restore our fortunes again, the LORD, like the streams in the Negev."
     },
     {
       "chapter": 126,
@@ -10920,7 +10920,7 @@
     {
       "chapter": 127,
       "verse": 1,
-      "text": "Unless Yahweh builds the house, they who build it labor in vain. Unless Yahweh watches over the city, the watchman guards it in vain."
+      "text": "Unless the LORD builds the house, they who build it labor in vain. Unless the LORD watches over the city, the watchman guards it in vain."
     },
     {
       "chapter": 127,
@@ -10930,7 +10930,7 @@
     {
       "chapter": 127,
       "verse": 3,
-      "text": "Behold, children are a heritage of Yahweh. The fruit of the womb is his reward."
+      "text": "Behold, children are a heritage of the LORD. The fruit of the womb is his reward."
     },
     {
       "chapter": 127,
@@ -10945,7 +10945,7 @@
     {
       "chapter": 128,
       "verse": 1,
-      "text": "Blessed is everyone who fears Yahweh, who walks in his ways."
+      "text": "Blessed is everyone who fears the LORD, who walks in his ways."
     },
     {
       "chapter": 128,
@@ -10960,12 +10960,12 @@
     {
       "chapter": 128,
       "verse": 4,
-      "text": "Behold, this is how the man who fears Yahweh is blessed."
+      "text": "Behold, this is how the man who fears the LORD is blessed."
     },
     {
       "chapter": 128,
       "verse": 5,
-      "text": "May Yahweh bless you out of Zion, and may you see the good of Jerusalem all the days of your life."
+      "text": "May the LORD bless you out of Zion, and may you see the good of Jerusalem all the days of your life."
     },
     {
       "chapter": 128,
@@ -10990,7 +10990,7 @@
     {
       "chapter": 129,
       "verse": 4,
-      "text": "Yahweh is righteous. He has cut apart the cords of the wicked."
+      "text": "The LORD is righteous. He has cut apart the cords of the wicked."
     },
     {
       "chapter": 129,
@@ -11010,12 +11010,12 @@
     {
       "chapter": 129,
       "verse": 8,
-      "text": "Neither do those who go by say, “The blessing of Yahweh be on you. We bless you in Yahweh’s name.”"
+      "text": "Neither do those who go by say, “The blessing of the LORD be on you. We bless you in the LORD’s name.”"
     },
     {
       "chapter": 130,
       "verse": 1,
-      "text": "Out of the depths I have cried to you, Yahweh."
+      "text": "Out of the depths I have cried to you, the LORD."
     },
     {
       "chapter": 130,
@@ -11025,7 +11025,7 @@
     {
       "chapter": 130,
       "verse": 3,
-      "text": "If you, Yah, kept a record of sins, Lord, who could stand?"
+      "text": "If you, the LORD, kept a record of sins, Lord, who could stand?"
     },
     {
       "chapter": 130,
@@ -11035,7 +11035,7 @@
     {
       "chapter": 130,
       "verse": 5,
-      "text": "I wait for Yahweh. My soul waits. I hope in his word."
+      "text": "I wait for the LORD. My soul waits. I hope in his word."
     },
     {
       "chapter": 130,
@@ -11045,7 +11045,7 @@
     {
       "chapter": 130,
       "verse": 7,
-      "text": "Israel, hope in Yahweh, for there is loving kindness with Yahweh. Abundant redemption is with him."
+      "text": "Israel, hope in the LORD, for there is loving kindness with the LORD. Abundant redemption is with him."
     },
     {
       "chapter": 130,
@@ -11055,7 +11055,7 @@
     {
       "chapter": 131,
       "verse": 1,
-      "text": "Yahweh, my heart isn’t arrogant, nor my eyes lofty; nor do I concern myself with great matters, or things too wonderful for me."
+      "text": "The LORD, my heart isn’t arrogant, nor my eyes lofty; nor do I concern myself with great matters, or things too wonderful for me."
     },
     {
       "chapter": 131,
@@ -11065,17 +11065,17 @@
     {
       "chapter": 131,
       "verse": 3,
-      "text": "Israel, hope in Yahweh, from this time forward and forever more."
+      "text": "Israel, hope in the LORD, from this time forward and forever more."
     },
     {
       "chapter": 132,
       "verse": 1,
-      "text": "Yahweh, remember David and all his affliction,"
+      "text": "The LORD, remember David and all his affliction,"
     },
     {
       "chapter": 132,
       "verse": 2,
-      "text": "how he swore to Yahweh, and vowed to the Mighty One of Jacob:"
+      "text": "how he swore to the LORD, and vowed to the Mighty One of Jacob:"
     },
     {
       "chapter": 132,
@@ -11090,7 +11090,7 @@
     {
       "chapter": 132,
       "verse": 5,
-      "text": "until I find out a place for Yahweh, a dwelling for the Mighty One of Jacob.”"
+      "text": "until I find out a place for the LORD, a dwelling for the Mighty One of Jacob.”"
     },
     {
       "chapter": 132,
@@ -11105,7 +11105,7 @@
     {
       "chapter": 132,
       "verse": 8,
-      "text": "Arise, Yahweh, into your resting place, you, and the ark of your strength."
+      "text": "Arise, the LORD, into your resting place, you, and the ark of your strength."
     },
     {
       "chapter": 132,
@@ -11120,7 +11120,7 @@
     {
       "chapter": 132,
       "verse": 11,
-      "text": "Yahweh has sworn to David in truth. He will not turn from it: “I will set the fruit of your body on your throne."
+      "text": "The LORD has sworn to David in truth. He will not turn from it: “I will set the fruit of your body on your throne."
     },
     {
       "chapter": 132,
@@ -11130,7 +11130,7 @@
     {
       "chapter": 132,
       "verse": 13,
-      "text": "For Yahweh has chosen Zion. He has desired it for his habitation."
+      "text": "For the LORD has chosen Zion. He has desired it for his habitation."
     },
     {
       "chapter": 132,
@@ -11170,52 +11170,52 @@
     {
       "chapter": 133,
       "verse": 3,
-      "text": "like the dew of Hermon, that comes down on the hills of Zion; for there Yahweh gives the blessing, even life forever more."
+      "text": "like the dew of Hermon, that comes down on the hills of Zion; for there the LORD gives the blessing, even life forever more."
     },
     {
       "chapter": 134,
       "verse": 1,
-      "text": "Look! Praise Yahweh, all you servants of Yahweh, who stand by night in Yahweh’s house!"
+      "text": "Look! Praise the LORD, all you servants of the LORD, who stand by night in the LORD’s house!"
     },
     {
       "chapter": 134,
       "verse": 2,
-      "text": "Lift up your hands in the sanctuary. Praise Yahweh!"
+      "text": "Lift up your hands in the sanctuary. Praise the LORD!"
     },
     {
       "chapter": 134,
       "verse": 3,
-      "text": "May Yahweh bless you from Zion, even he who made heaven and earth."
+      "text": "May the LORD bless you from Zion, even he who made heaven and earth."
     },
     {
       "chapter": 135,
       "verse": 1,
-      "text": "Praise Yah! Praise Yahweh’s name! Praise him, you servants of Yahweh,"
+      "text": "Praise the LORD! Praise the LORD’s name! Praise him, you servants of the LORD,"
     },
     {
       "chapter": 135,
       "verse": 2,
-      "text": "you who stand in Yahweh’s house, in the courts of our God’s house."
+      "text": "you who stand in the LORD’s house, in the courts of our God’s house."
     },
     {
       "chapter": 135,
       "verse": 3,
-      "text": "Praise Yah, for Yahweh is good. Sing praises to his name, for that is pleasant."
+      "text": "Praise the LORD, for the LORD is good. Sing praises to his name, for that is pleasant."
     },
     {
       "chapter": 135,
       "verse": 4,
-      "text": "For Yah has chosen Jacob for himself, Israel for his own possession."
+      "text": "For the LORD has chosen Jacob for himself, Israel for his own possession."
     },
     {
       "chapter": 135,
       "verse": 5,
-      "text": "For I know that Yahweh is great, that our Lord is above all gods."
+      "text": "For I know that the LORD is great, that our Lord is above all gods."
     },
     {
       "chapter": 135,
       "verse": 6,
-      "text": "Whatever Yahweh pleased, that he has done, in heaven and in earth, in the seas and in all deeps."
+      "text": "Whatever the LORD pleased, that he has done, in heaven and in earth, in the seas and in all deeps."
     },
     {
       "chapter": 135,
@@ -11250,12 +11250,12 @@
     {
       "chapter": 135,
       "verse": 13,
-      "text": "Your name, Yahweh, endures forever; your renown, Yahweh, throughout all generations."
+      "text": "Your name, the LORD, endures forever; your renown, the LORD, throughout all generations."
     },
     {
       "chapter": 135,
       "verse": 14,
-      "text": "For Yahweh will judge his people and have compassion on his servants."
+      "text": "For the LORD will judge his people and have compassion on his servants."
     },
     {
       "chapter": 135,
@@ -11280,22 +11280,22 @@
     {
       "chapter": 135,
       "verse": 19,
-      "text": "House of Israel, praise Yahweh! House of Aaron, praise Yahweh!"
+      "text": "House of Israel, praise the LORD! House of Aaron, praise the LORD!"
     },
     {
       "chapter": 135,
       "verse": 20,
-      "text": "House of Levi, praise Yahweh! You who fear Yahweh, praise Yahweh!"
+      "text": "House of Levi, praise the LORD! You who fear the LORD, praise the LORD!"
     },
     {
       "chapter": 135,
       "verse": 21,
-      "text": "Blessed be Yahweh from Zion, who dwells in Jerusalem. Praise Yah!"
+      "text": "Blessed be the LORD from Zion, who dwells in Jerusalem. Praise the LORD!"
     },
     {
       "chapter": 136,
       "verse": 1,
-      "text": "Give thanks to Yahweh, for he is good, for his loving kindness endures forever."
+      "text": "Give thanks to the LORD, for he is good, for his loving kindness endures forever."
     },
     {
       "chapter": 136,
@@ -11440,7 +11440,7 @@
     {
       "chapter": 137,
       "verse": 4,
-      "text": "How can we sing Yahweh’s song in a foreign land?"
+      "text": "How can we sing the LORD’s song in a foreign land?"
     },
     {
       "chapter": 137,
@@ -11455,7 +11455,7 @@
     {
       "chapter": 137,
       "verse": 7,
-      "text": "Remember, Yahweh, against the children of Edom in the day of Jerusalem, who said, “Raze it! Raze it even to its foundation!”"
+      "text": "Remember, the LORD, against the children of Edom in the day of Jerusalem, who said, “Raze it! Raze it even to its foundation!”"
     },
     {
       "chapter": 137,
@@ -11485,17 +11485,17 @@
     {
       "chapter": 138,
       "verse": 4,
-      "text": "All the kings of the earth will give you thanks, Yahweh, for they have heard the words of your mouth."
+      "text": "All the kings of the earth will give you thanks, the LORD, for they have heard the words of your mouth."
     },
     {
       "chapter": 138,
       "verse": 5,
-      "text": "Yes, they will sing of the ways of Yahweh, for Yahweh’s glory is great!"
+      "text": "Yes, they will sing of the ways of the LORD, for the LORD’s glory is great!"
     },
     {
       "chapter": 138,
       "verse": 6,
-      "text": "For though Yahweh is high, yet he looks after the lowly; but he knows the proud from afar."
+      "text": "For though the LORD is high, yet he looks after the lowly; but he knows the proud from afar."
     },
     {
       "chapter": 138,
@@ -11505,12 +11505,12 @@
     {
       "chapter": 138,
       "verse": 8,
-      "text": "Yahweh will fulfill that which concerns me. Your loving kindness, Yahweh, endures forever. Don’t forsake the works of your own hands."
+      "text": "The LORD will fulfill that which concerns me. Your loving kindness, the LORD, endures forever. Don’t forsake the works of your own hands."
     },
     {
       "chapter": 139,
       "verse": 1,
-      "text": "Yahweh, you have searched me, and you know me."
+      "text": "The LORD, you have searched me, and you know me."
     },
     {
       "chapter": 139,
@@ -11525,7 +11525,7 @@
     {
       "chapter": 139,
       "verse": 4,
-      "text": "For there is not a word on my tongue, but behold, Yahweh, you know it altogether."
+      "text": "For there is not a word on my tongue, but behold, the LORD, you know it altogether."
     },
     {
       "chapter": 139,
@@ -11610,7 +11610,7 @@
     {
       "chapter": 139,
       "verse": 21,
-      "text": "Yahweh, don’t I hate those who hate you? Am I not grieved with those who rise up against you?"
+      "text": "The LORD, don’t I hate those who hate you? Am I not grieved with those who rise up against you?"
     },
     {
       "chapter": 139,
@@ -11630,7 +11630,7 @@
     {
       "chapter": 140,
       "verse": 1,
-      "text": "Deliver me, Yahweh, from evil men. Preserve me from violent men:"
+      "text": "Deliver me, the LORD, from evil men. Preserve me from violent men:"
     },
     {
       "chapter": 140,
@@ -11645,7 +11645,7 @@
     {
       "chapter": 140,
       "verse": 4,
-      "text": "Yahweh, keep me from the hands of the wicked. Preserve me from the violent men who have determined to trip my feet."
+      "text": "The LORD, keep me from the hands of the wicked. Preserve me from the violent men who have determined to trip my feet."
     },
     {
       "chapter": 140,
@@ -11655,17 +11655,17 @@
     {
       "chapter": 140,
       "verse": 6,
-      "text": "I said to Yahweh, “You are my God.” Listen to the cry of my petitions, Yahweh."
+      "text": "I said to the LORD, “You are my God.” Listen to the cry of my petitions, the LORD."
     },
     {
       "chapter": 140,
       "verse": 7,
-      "text": "Yahweh, the Lord, the strength of my salvation, you have covered my head in the day of battle."
+      "text": "The LORD, the Lord, the strength of my salvation, you have covered my head in the day of battle."
     },
     {
       "chapter": 140,
       "verse": 8,
-      "text": "Yahweh, don’t grant the desires of the wicked. Don’t let their evil plans succeed, or they will become proud. Selah."
+      "text": "The LORD, don’t grant the desires of the wicked. Don’t let their evil plans succeed, or they will become proud. Selah."
     },
     {
       "chapter": 140,
@@ -11685,7 +11685,7 @@
     {
       "chapter": 140,
       "verse": 12,
-      "text": "I know that Yahweh will maintain the cause of the afflicted, and justice for the needy."
+      "text": "I know that the LORD will maintain the cause of the afflicted, and justice for the needy."
     },
     {
       "chapter": 140,
@@ -11695,7 +11695,7 @@
     {
       "chapter": 141,
       "verse": 1,
-      "text": "Yahweh, I have called on you. Come to me quickly! Listen to my voice when I call to you."
+      "text": "The LORD, I have called on you. Come to me quickly! Listen to my voice when I call to you."
     },
     {
       "chapter": 141,
@@ -11705,7 +11705,7 @@
     {
       "chapter": 141,
       "verse": 3,
-      "text": "Set a watch, Yahweh, before my mouth. Keep the door of my lips."
+      "text": "Set a watch, the LORD, before my mouth. Keep the door of my lips."
     },
     {
       "chapter": 141,
@@ -11730,7 +11730,7 @@
     {
       "chapter": 141,
       "verse": 8,
-      "text": "For my eyes are on you, Yahweh, the Lord. I take refuge in you. Don’t leave my soul destitute."
+      "text": "For my eyes are on you, the LORD, the Lord. I take refuge in you. Don’t leave my soul destitute."
     },
     {
       "chapter": 141,
@@ -11745,7 +11745,7 @@
     {
       "chapter": 142,
       "verse": 1,
-      "text": "I cry with my voice to Yahweh. With my voice, I ask Yahweh for mercy."
+      "text": "I cry with my voice to the LORD. With my voice, I ask the LORD for mercy."
     },
     {
       "chapter": 142,
@@ -11765,7 +11765,7 @@
     {
       "chapter": 142,
       "verse": 5,
-      "text": "I cried to you, Yahweh. I said, “You are my refuge, my portion in the land of the living.”"
+      "text": "I cried to you, the LORD. I said, “You are my refuge, my portion in the land of the living.”"
     },
     {
       "chapter": 142,
@@ -11780,7 +11780,7 @@
     {
       "chapter": 143,
       "verse": 1,
-      "text": "Hear my prayer, Yahweh. Listen to my petitions. In your faithfulness and righteousness, relieve me."
+      "text": "Hear my prayer, the LORD. Listen to my petitions. In your faithfulness and righteousness, relieve me."
     },
     {
       "chapter": 143,
@@ -11810,7 +11810,7 @@
     {
       "chapter": 143,
       "verse": 7,
-      "text": "Hurry to answer me, Yahweh. My spirit fails. Don’t hide your face from me, so that I don’t become like those who go down into the pit."
+      "text": "Hurry to answer me, the LORD. My spirit fails. Don’t hide your face from me, so that I don’t become like those who go down into the pit."
     },
     {
       "chapter": 143,
@@ -11820,7 +11820,7 @@
     {
       "chapter": 143,
       "verse": 9,
-      "text": "Deliver me, Yahweh, from my enemies. I flee to you to hide me."
+      "text": "Deliver me, the LORD, from my enemies. I flee to you to hide me."
     },
     {
       "chapter": 143,
@@ -11830,7 +11830,7 @@
     {
       "chapter": 143,
       "verse": 11,
-      "text": "Revive me, Yahweh, for your name’s sake. In your righteousness, bring my soul out of trouble."
+      "text": "Revive me, the LORD, for your name’s sake. In your righteousness, bring my soul out of trouble."
     },
     {
       "chapter": 143,
@@ -11840,7 +11840,7 @@
     {
       "chapter": 144,
       "verse": 1,
-      "text": "Blessed be Yahweh, my rock, who trains my hands to war, and my fingers to battle—"
+      "text": "Blessed be the LORD, my rock, who trains my hands to war, and my fingers to battle—"
     },
     {
       "chapter": 144,
@@ -11850,7 +11850,7 @@
     {
       "chapter": 144,
       "verse": 3,
-      "text": "Yahweh, what is man, that you care for him? Or the son of man, that you think of him?"
+      "text": "The LORD, what is man, that you care for him? Or the son of man, that you think of him?"
     },
     {
       "chapter": 144,
@@ -11860,7 +11860,7 @@
     {
       "chapter": 144,
       "verse": 5,
-      "text": "Part your heavens, Yahweh, and come down. Touch the mountains, and they will smoke."
+      "text": "Part your heavens, the LORD, and come down. Touch the mountains, and they will smoke."
     },
     {
       "chapter": 144,
@@ -11910,7 +11910,7 @@
     {
       "chapter": 144,
       "verse": 15,
-      "text": "Happy are the people who are in such a situation. Happy are the people whose God is Yahweh."
+      "text": "Happy are the people who are in such a situation. Happy are the people whose God is the LORD."
     },
     {
       "chapter": 145,
@@ -11925,7 +11925,7 @@
     {
       "chapter": 145,
       "verse": 3,
-      "text": "Great is Yahweh, and greatly to be praised! His greatness is unsearchable."
+      "text": "Great is the LORD, and greatly to be praised! His greatness is unsearchable."
     },
     {
       "chapter": 145,
@@ -11950,17 +11950,17 @@
     {
       "chapter": 145,
       "verse": 8,
-      "text": "Yahweh is gracious, merciful, slow to anger, and of great loving kindness."
+      "text": "The LORD is gracious, merciful, slow to anger, and of great loving kindness."
     },
     {
       "chapter": 145,
       "verse": 9,
-      "text": "Yahweh is good to all. His tender mercies are over all his works."
+      "text": "The LORD is good to all. His tender mercies are over all his works."
     },
     {
       "chapter": 145,
       "verse": 10,
-      "text": "All your works will give thanks to you, Yahweh. Your saints will extol you."
+      "text": "All your works will give thanks to you, the LORD. Your saints will extol you."
     },
     {
       "chapter": 145,
@@ -11975,12 +11975,12 @@
     {
       "chapter": 145,
       "verse": 13,
-      "text": "Your kingdom is an everlasting kingdom. Your dominion endures throughout all generations. Yahweh is faithful in all his words, and loving in all his deeds."
+      "text": "Your kingdom is an everlasting kingdom. Your dominion endures throughout all generations. The LORD is faithful in all his words, and loving in all his deeds."
     },
     {
       "chapter": 145,
       "verse": 14,
-      "text": "Yahweh upholds all who fall, and raises up all those who are bowed down."
+      "text": "The LORD upholds all who fall, and raises up all those who are bowed down."
     },
     {
       "chapter": 145,
@@ -11995,12 +11995,12 @@
     {
       "chapter": 145,
       "verse": 17,
-      "text": "Yahweh is righteous in all his ways, and gracious in all his works."
+      "text": "The LORD is righteous in all his ways, and gracious in all his works."
     },
     {
       "chapter": 145,
       "verse": 18,
-      "text": "Yahweh is near to all those who call on him, to all who call on him in truth."
+      "text": "The LORD is near to all those who call on him, to all who call on him in truth."
     },
     {
       "chapter": 145,
@@ -12010,22 +12010,22 @@
     {
       "chapter": 145,
       "verse": 20,
-      "text": "Yahweh preserves all those who love him, but he will destroy all the wicked."
+      "text": "The LORD preserves all those who love him, but he will destroy all the wicked."
     },
     {
       "chapter": 145,
       "verse": 21,
-      "text": "My mouth will speak the praise of Yahweh. Let all flesh bless his holy name forever and ever."
+      "text": "My mouth will speak the praise of the LORD. Let all flesh bless his holy name forever and ever."
     },
     {
       "chapter": 146,
       "verse": 1,
-      "text": "Praise Yah! Praise Yahweh, my soul."
+      "text": "Praise the LORD! Praise the LORD, my soul."
     },
     {
       "chapter": 146,
       "verse": 2,
-      "text": "While I live, I will praise Yahweh. I will sing praises to my God as long as I exist."
+      "text": "While I live, I will praise the LORD. I will sing praises to my God as long as I exist."
     },
     {
       "chapter": 146,
@@ -12040,7 +12040,7 @@
     {
       "chapter": 146,
       "verse": 5,
-      "text": "Happy is he who has the God of Jacob for his help, whose hope is in Yahweh, his God,"
+      "text": "Happy is he who has the God of Jacob for his help, whose hope is in the LORD, his God,"
     },
     {
       "chapter": 146,
@@ -12050,32 +12050,32 @@
     {
       "chapter": 146,
       "verse": 7,
-      "text": "who executes justice for the oppressed; who gives food to the hungry. Yahweh frees the prisoners."
+      "text": "who executes justice for the oppressed; who gives food to the hungry. The LORD frees the prisoners."
     },
     {
       "chapter": 146,
       "verse": 8,
-      "text": "Yahweh opens the eyes of the blind. Yahweh raises up those who are bowed down. Yahweh loves the righteous."
+      "text": "The LORD opens the eyes of the blind. The LORD raises up those who are bowed down. The LORD loves the righteous."
     },
     {
       "chapter": 146,
       "verse": 9,
-      "text": "Yahweh preserves the foreigners. He upholds the fatherless and widow, but he turns the way of the wicked upside down."
+      "text": "The LORD preserves the foreigners. He upholds the fatherless and widow, but he turns the way of the wicked upside down."
     },
     {
       "chapter": 146,
       "verse": 10,
-      "text": "Yahweh will reign forever; your God, O Zion, to all generations. Praise Yah!"
+      "text": "The LORD will reign forever; your God, O Zion, to all generations. Praise the LORD!"
     },
     {
       "chapter": 147,
       "verse": 1,
-      "text": "Praise Yah, for it is good to sing praises to our God; for it is pleasant and fitting to praise him."
+      "text": "Praise the LORD, for it is good to sing praises to our God; for it is pleasant and fitting to praise him."
     },
     {
       "chapter": 147,
       "verse": 2,
-      "text": "Yahweh builds up Jerusalem. He gathers together the outcasts of Israel."
+      "text": "The LORD builds up Jerusalem. He gathers together the outcasts of Israel."
     },
     {
       "chapter": 147,
@@ -12095,12 +12095,12 @@
     {
       "chapter": 147,
       "verse": 6,
-      "text": "Yahweh upholds the humble. He brings the wicked down to the ground."
+      "text": "The LORD upholds the humble. He brings the wicked down to the ground."
     },
     {
       "chapter": 147,
       "verse": 7,
-      "text": "Sing to Yahweh with thanksgiving. Sing praises on the harp to our God,"
+      "text": "Sing to the LORD with thanksgiving. Sing praises on the harp to our God,"
     },
     {
       "chapter": 147,
@@ -12120,12 +12120,12 @@
     {
       "chapter": 147,
       "verse": 11,
-      "text": "Yahweh takes pleasure in those who fear him, in those who hope in his loving kindness."
+      "text": "The LORD takes pleasure in those who fear him, in those who hope in his loving kindness."
     },
     {
       "chapter": 147,
       "verse": 12,
-      "text": "Praise Yahweh, Jerusalem! Praise your God, Zion!"
+      "text": "Praise the LORD, Jerusalem! Praise your God, Zion!"
     },
     {
       "chapter": 147,
@@ -12165,12 +12165,12 @@
     {
       "chapter": 147,
       "verse": 20,
-      "text": "He has not done this for just any nation. They don’t know his ordinances. Praise Yah!"
+      "text": "He has not done this for just any nation. They don’t know his ordinances. Praise the LORD!"
     },
     {
       "chapter": 148,
       "verse": 1,
-      "text": "Praise Yah! Praise Yahweh from the heavens! Praise him in the heights!"
+      "text": "Praise the LORD! Praise the LORD from the heavens! Praise him in the heights!"
     },
     {
       "chapter": 148,
@@ -12190,7 +12190,7 @@
     {
       "chapter": 148,
       "verse": 5,
-      "text": "Let them praise Yahweh’s name, for he commanded, and they were created."
+      "text": "Let them praise the LORD’s name, for he commanded, and they were created."
     },
     {
       "chapter": 148,
@@ -12200,7 +12200,7 @@
     {
       "chapter": 148,
       "verse": 7,
-      "text": "Praise Yahweh from the earth, you great sea creatures, and all depths,"
+      "text": "Praise the LORD from the earth, you great sea creatures, and all depths,"
     },
     {
       "chapter": 148,
@@ -12230,17 +12230,17 @@
     {
       "chapter": 148,
       "verse": 13,
-      "text": "Let them praise Yahweh’s name, for his name alone is exalted. His glory is above the earth and the heavens."
+      "text": "Let them praise the LORD’s name, for his name alone is exalted. His glory is above the earth and the heavens."
     },
     {
       "chapter": 148,
       "verse": 14,
-      "text": "He has lifted up the horn of his people, the praise of all his saints, even of the children of Israel, a people near to him. Praise Yah!"
+      "text": "He has lifted up the horn of his people, the praise of all his saints, even of the children of Israel, a people near to him. Praise the LORD!"
     },
     {
       "chapter": 149,
       "verse": 1,
-      "text": "Praise Yahweh! Sing to Yahweh a new song, his praise in the assembly of the saints."
+      "text": "Praise the LORD! Sing to the LORD a new song, his praise in the assembly of the saints."
     },
     {
       "chapter": 149,
@@ -12255,7 +12255,7 @@
     {
       "chapter": 149,
       "verse": 4,
-      "text": "For Yahweh takes pleasure in his people. He crowns the humble with salvation."
+      "text": "For the LORD takes pleasure in his people. He crowns the humble with salvation."
     },
     {
       "chapter": 149,
@@ -12280,12 +12280,12 @@
     {
       "chapter": 149,
       "verse": 9,
-      "text": "to execute on them the written judgment. All his saints have this honor. Praise Yah!"
+      "text": "to execute on them the written judgment. All his saints have this honor. Praise the LORD!"
     },
     {
       "chapter": 150,
       "verse": 1,
-      "text": "Praise Yah! Praise God in his sanctuary! Praise him in his heavens for his acts of power!"
+      "text": "Praise the LORD! Praise God in his sanctuary! Praise him in his heavens for his acts of power!"
     },
     {
       "chapter": 150,
@@ -12310,7 +12310,7 @@
     {
       "chapter": 150,
       "verse": 6,
-      "text": "Let everything that has breath praise Yah! Praise Yah!"
+      "text": "Let everything that has breath praise the LORD! Praise the LORD!"
     }
   ]
 }

@@ -5,7 +5,7 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
@@ -30,7 +30,7 @@
     {
       "chapter": 1,
       "verse": 5,
-      "text": "Her adversaries have become the head. Her enemies prosper; for Yahweh has afflicted her for the multitude of her transgressions. Her young children have gone into captivity before the adversary."
+      "text": "Her adversaries have become the head. Her enemies prosper; for the LORD has afflicted her for the multitude of her transgressions. Her young children have gone into captivity before the adversary."
     },
     {
       "chapter": 1,
@@ -50,7 +50,7 @@
     {
       "chapter": 1,
       "verse": 9,
-      "text": "Her filthiness was in her skirts. She didn’t remember her latter end. Therefore she has come down astoundingly. She has no comforter. “See, Yahweh, my affliction; for the enemy has magnified himself.”"
+      "text": "Her filthiness was in her skirts. She didn’t remember her latter end. Therefore she has come down astoundingly. She has no comforter. “See, the LORD, my affliction; for the enemy has magnified himself.”"
     },
     {
       "chapter": 1,
@@ -60,12 +60,12 @@
     {
       "chapter": 1,
       "verse": 11,
-      "text": "All her people sigh. They seek bread. They have given their pleasant things for food to refresh their soul. “Look, Yahweh, and see, for I have become despised.”"
+      "text": "All her people sigh. They seek bread. They have given their pleasant things for food to refresh their soul. “Look, the LORD, and see, for I have become despised.”"
     },
     {
       "chapter": 1,
       "verse": 12,
-      "text": "“Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow, which is brought on me, with which Yahweh has afflicted me in the day of his fierce anger."
+      "text": "“Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow, which is brought on me, with which the LORD has afflicted me in the day of his fierce anger."
     },
     {
       "chapter": 1,
@@ -90,12 +90,12 @@
     {
       "chapter": 1,
       "verse": 17,
-      "text": "Zion spreads out her hands. There is no one to comfort her. Yahweh has commanded concerning Jacob, that those who are around him should be his adversaries. Jerusalem is among them as an unclean thing."
+      "text": "Zion spreads out her hands. There is no one to comfort her. The LORD has commanded concerning Jacob, that those who are around him should be his adversaries. Jerusalem is among them as an unclean thing."
     },
     {
       "chapter": 1,
       "verse": 18,
-      "text": "“Yahweh is righteous, for I have rebelled against his commandment. Please hear all you peoples, and see my sorrow. My virgins and my young men have gone into captivity."
+      "text": "“The LORD is righteous, for I have rebelled against his commandment. Please hear all you peoples, and see my sorrow. My virgins and my young men have gone into captivity."
     },
     {
       "chapter": 1,
@@ -105,7 +105,7 @@
     {
       "chapter": 1,
       "verse": 20,
-      "text": "“Look, Yahweh; for I am in distress. My heart is troubled. My heart turns over within me, for I have grievously rebelled. Abroad, the sword bereaves. At home, it is like death."
+      "text": "“Look, the LORD; for I am in distress. My heart is troubled. My heart turns over within me, for I have grievously rebelled. Abroad, the sword bereaves. At home, it is like death."
     },
     {
       "chapter": 1,
@@ -145,22 +145,22 @@
     {
       "chapter": 2,
       "verse": 6,
-      "text": "He has violently taken away his tabernacle, as if it were a garden. He has destroyed his place of assembly. Yahweh has caused solemn assembly and Sabbath to be forgotten in Zion. In the indignation of his anger, he has despised the king and the priest."
+      "text": "He has violently taken away his tabernacle, as if it were a garden. He has destroyed his place of assembly. The LORD has caused solemn assembly and Sabbath to be forgotten in Zion. In the indignation of his anger, he has despised the king and the priest."
     },
     {
       "chapter": 2,
       "verse": 7,
-      "text": "The Lord has cast off his altar. He has abhorred his sanctuary. He has given the walls of her palaces into the hand of the enemy. They have made a noise in Yahweh’s house, as in the day of a solemn assembly."
+      "text": "The Lord has cast off his altar. He has abhorred his sanctuary. He has given the walls of her palaces into the hand of the enemy. They have made a noise in the LORD’s house, as in the day of a solemn assembly."
     },
     {
       "chapter": 2,
       "verse": 8,
-      "text": "Yahweh has purposed to destroy the wall of the daughter of Zion. He has stretched out the line. He has not withdrawn his hand from destroying; He has made the rampart and wall lament. They languish together."
+      "text": "The LORD has purposed to destroy the wall of the daughter of Zion. He has stretched out the line. He has not withdrawn his hand from destroying; He has made the rampart and wall lament. They languish together."
     },
     {
       "chapter": 2,
       "verse": 9,
-      "text": "Her gates have sunk into the ground. He has destroyed and broken her bars. Her king and her princes are among the nations where the law is not. Yes, her prophets find no vision from Yahweh."
+      "text": "Her gates have sunk into the ground. He has destroyed and broken her bars. Her king and her princes are among the nations where the law is not. Yes, her prophets find no vision from the LORD."
     },
     {
       "chapter": 2,
@@ -200,7 +200,7 @@
     {
       "chapter": 2,
       "verse": 17,
-      "text": "Yahweh has done that which he planned. He has fulfilled his word that he commanded in the days of old. He has thrown down, and has not pitied. He has caused the enemy to rejoice over you. He has exalted the horn of your adversaries."
+      "text": "The LORD has done that which he planned. He has fulfilled his word that he commanded in the days of old. He has thrown down, and has not pitied. He has caused the enemy to rejoice over you. He has exalted the horn of your adversaries."
     },
     {
       "chapter": 2,
@@ -215,7 +215,7 @@
     {
       "chapter": 2,
       "verse": 20,
-      "text": "“Look, Yahweh, and see to whom you have done thus! Should the women eat their offspring, the children that they held and bounced on their knees? Should the priest and the prophet be killed in the sanctuary of the Lord?"
+      "text": "“Look, the LORD, and see to whom you have done thus! Should the women eat their offspring, the children that they held and bounced on their knees? Should the priest and the prophet be killed in the sanctuary of the Lord?"
     },
     {
       "chapter": 2,
@@ -225,7 +225,7 @@
     {
       "chapter": 2,
       "verse": 22,
-      "text": "“You have called, as in the day of a solemn assembly, my terrors on every side. There was no one that escaped or remained in the day of Yahweh’s anger. My enemy has consumed those whom I have cared for and brought up."
+      "text": "“You have called, as in the day of a solemn assembly, my terrors on every side. There was no one that escaped or remained in the day of the LORD’s anger. My enemy has consumed those whom I have cared for and brought up."
     },
     {
       "chapter": 3,
@@ -315,7 +315,7 @@
     {
       "chapter": 3,
       "verse": 18,
-      "text": "I said, “My strength has perished, along with my expectation from Yahweh.”"
+      "text": "I said, “My strength has perished, along with my expectation from the LORD.”"
     },
     {
       "chapter": 3,
@@ -335,7 +335,7 @@
     {
       "chapter": 3,
       "verse": 22,
-      "text": "It is because of Yahweh’s loving kindnesses that we are not consumed, because his mercies don’t fail."
+      "text": "It is because of the LORD’s loving kindnesses that we are not consumed, because his mercies don’t fail."
     },
     {
       "chapter": 3,
@@ -345,17 +345,17 @@
     {
       "chapter": 3,
       "verse": 24,
-      "text": "“Yahweh is my portion,” says my soul. “Therefore I will hope in him.”"
+      "text": "“The LORD is my portion,” says my soul. “Therefore I will hope in him.”"
     },
     {
       "chapter": 3,
       "verse": 25,
-      "text": "Yahweh is good to those who wait for him, to the soul who seeks him."
+      "text": "The LORD is good to those who wait for him, to the soul who seeks him."
     },
     {
       "chapter": 3,
       "verse": 26,
-      "text": "It is good that a man should hope and quietly wait for the salvation of Yahweh."
+      "text": "It is good that a man should hope and quietly wait for the salvation of the LORD."
     },
     {
       "chapter": 3,
@@ -425,7 +425,7 @@
     {
       "chapter": 3,
       "verse": 40,
-      "text": "Let us search and try our ways, and turn again to Yahweh."
+      "text": "Let us search and try our ways, and turn again to the LORD."
     },
     {
       "chapter": 3,
@@ -475,7 +475,7 @@
     {
       "chapter": 3,
       "verse": 50,
-      "text": "until Yahweh looks down, and sees from heaven."
+      "text": "until the LORD looks down, and sees from heaven."
     },
     {
       "chapter": 3,
@@ -500,7 +500,7 @@
     {
       "chapter": 3,
       "verse": 55,
-      "text": "I called on your name, Yahweh, out of the lowest dungeon."
+      "text": "I called on your name, the LORD, out of the lowest dungeon."
     },
     {
       "chapter": 3,
@@ -520,7 +520,7 @@
     {
       "chapter": 3,
       "verse": 59,
-      "text": "Yahweh, you have seen my wrong. Judge my cause."
+      "text": "The LORD, you have seen my wrong. Judge my cause."
     },
     {
       "chapter": 3,
@@ -530,7 +530,7 @@
     {
       "chapter": 3,
       "verse": 61,
-      "text": "You have heard their reproach, Yahweh, and all their plans against me,"
+      "text": "You have heard their reproach, the LORD, and all their plans against me,"
     },
     {
       "chapter": 3,
@@ -545,7 +545,7 @@
     {
       "chapter": 3,
       "verse": 64,
-      "text": "You will pay them back, Yahweh, according to the work of their hands."
+      "text": "You will pay them back, the LORD, according to the work of their hands."
     },
     {
       "chapter": 3,
@@ -555,7 +555,7 @@
     {
       "chapter": 3,
       "verse": 66,
-      "text": "You will pursue them in anger, and destroy them from under the heavens of Yahweh."
+      "text": "You will pursue them in anger, and destroy them from under the heavens of the LORD."
     },
     {
       "chapter": 4,
@@ -610,7 +610,7 @@
     {
       "chapter": 4,
       "verse": 11,
-      "text": "Yahweh has accomplished his wrath. He has poured out his fierce anger. He has kindled a fire in Zion, which has devoured its foundations."
+      "text": "The LORD has accomplished his wrath. He has poured out his fierce anger. He has kindled a fire in Zion, which has devoured its foundations."
     },
     {
       "chapter": 4,
@@ -635,7 +635,7 @@
     {
       "chapter": 4,
       "verse": 16,
-      "text": "Yahweh’s anger has scattered them. He will not pay attention to them any more. They didn’t respect the persons of the priests. They didn’t favor the elders."
+      "text": "The LORD’s anger has scattered them. He will not pay attention to them any more. They didn’t respect the persons of the priests. They didn’t favor the elders."
     },
     {
       "chapter": 4,
@@ -655,7 +655,7 @@
     {
       "chapter": 4,
       "verse": 20,
-      "text": "The breath of our nostrils, the anointed of Yahweh, was taken in their pits; of whom we said, under his shadow we will live among the nations."
+      "text": "The breath of our nostrils, the anointed of the LORD, was taken in their pits; of whom we said, under his shadow we will live among the nations."
     },
     {
       "chapter": 4,
@@ -670,7 +670,7 @@
     {
       "chapter": 5,
       "verse": 1,
-      "text": "Remember, Yahweh, what has come on us. Look, and see our reproach."
+      "text": "Remember, the LORD, what has come on us. Look, and see our reproach."
     },
     {
       "chapter": 5,
@@ -760,7 +760,7 @@
     {
       "chapter": 5,
       "verse": 19,
-      "text": "You, Yahweh, remain forever. Your throne is from generation to generation."
+      "text": "You, the LORD, remain forever. Your throne is from generation to generation."
     },
     {
       "chapter": 5,
@@ -770,7 +770,7 @@
     {
       "chapter": 5,
       "verse": 21,
-      "text": "Turn us to yourself, Yahweh, and we will be turned. Renew our days as of old."
+      "text": "Turn us to yourself, the LORD, and we will be turned. Renew our days as of old."
     },
     {
       "chapter": 5,

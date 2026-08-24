@@ -5,17 +5,17 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
       "verse": 1,
-      "text": "Yahweh’s word that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel."
+      "text": "The LORD’s word that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel."
     },
     {
       "chapter": 1,
       "verse": 2,
-      "text": "When Yahweh spoke at first by Hosea, Yahweh said to Hosea, “Go, take for yourself a wife of prostitution and children of unfaithfulness; for the land commits great adultery, forsaking Yahweh.”"
+      "text": "When the LORD spoke at first by Hosea, the LORD said to Hosea, “Go, take for yourself a wife of prostitution and children of unfaithfulness; for the land commits great adultery, forsaking the LORD.”"
     },
     {
       "chapter": 1,
@@ -25,7 +25,7 @@
     {
       "chapter": 1,
       "verse": 4,
-      "text": "Yahweh said to him, “Call his name Jezreel, for yet a little while, and I will avenge the blood of Jezreel on the house of Jehu, and will cause the kingdom of the house of Israel to cease."
+      "text": "The LORD said to him, “Call his name Jezreel, for yet a little while, and I will avenge the blood of Jezreel on the house of Jehu, and will cause the kingdom of the house of Israel to cease."
     },
     {
       "chapter": 1,
@@ -40,7 +40,7 @@
     {
       "chapter": 1,
       "verse": 7,
-      "text": "But I will have mercy on the house of Judah, and will save them by Yahweh their God, and will not save them by bow, sword, battle, horses, or horsemen.”"
+      "text": "But I will have mercy on the house of Judah, and will save them by the LORD their God, and will not save them by bow, sword, battle, horses, or horsemen.”"
     },
     {
       "chapter": 1,
@@ -125,7 +125,7 @@
     {
       "chapter": 2,
       "verse": 13,
-      "text": "I will visit on her the days of the Baals, to which she burned incense when she decked herself with her earrings and her jewels, and went after her lovers and forgot me,” says Yahweh."
+      "text": "I will visit on her the days of the Baals, to which she burned incense when she decked herself with her earrings and her jewels, and went after her lovers and forgot me,” says the LORD."
     },
     {
       "chapter": 2,
@@ -140,7 +140,7 @@
     {
       "chapter": 2,
       "verse": 16,
-      "text": "It will be in that day,” says Yahweh, “that you will call me ‘my husband,’ and no longer call me ‘my master.’"
+      "text": "It will be in that day,” says the LORD, “that you will call me ‘my husband,’ and no longer call me ‘my master.’"
     },
     {
       "chapter": 2,
@@ -160,12 +160,12 @@
     {
       "chapter": 2,
       "verse": 20,
-      "text": "I will even betroth you to me in faithfulness; and you shall know Yahweh."
+      "text": "I will even betroth you to me in faithfulness; and you shall know the LORD."
     },
     {
       "chapter": 2,
       "verse": 21,
-      "text": "It will happen in that day, that I will respond,” says Yahweh. “I will respond to the heavens, and they will respond to the earth;"
+      "text": "It will happen in that day, that I will respond,” says the LORD. “I will respond to the heavens, and they will respond to the earth;"
     },
     {
       "chapter": 2,
@@ -180,7 +180,7 @@
     {
       "chapter": 3,
       "verse": 1,
-      "text": "Yahweh said to me, “Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods, and love cakes of raisins.”"
+      "text": "The LORD said to me, “Go again, love a woman loved by another, and an adulteress, even as the LORD loves the children of Israel, though they turn to other gods, and love cakes of raisins.”"
     },
     {
       "chapter": 3,
@@ -200,12 +200,12 @@
     {
       "chapter": 3,
       "verse": 5,
-      "text": "Afterward the children of Israel shall return and seek Yahweh their God, and David their king, and shall come with trembling to Yahweh and to his blessings in the last days."
+      "text": "Afterward the children of Israel shall return and seek the LORD their God, and David their king, and shall come with trembling to the LORD and to his blessings in the last days."
     },
     {
       "chapter": 4,
       "verse": 1,
-      "text": "Hear Yahweh’s word, you children of Israel, for Yahweh has a charge against the inhabitants of the land: “Indeed there is no truth, nor goodness, nor knowledge of God in the land."
+      "text": "Hear the LORD’s word, you children of Israel, for the LORD has a charge against the inhabitants of the land: “Indeed there is no truth, nor goodness, nor knowledge of God in the land."
     },
     {
       "chapter": 4,
@@ -250,7 +250,7 @@
     {
       "chapter": 4,
       "verse": 10,
-      "text": "They will eat, and not have enough. They will play the prostitute, and will not increase; because they have abandoned listening to Yahweh."
+      "text": "They will eat, and not have enough. They will play the prostitute, and will not increase; because they have abandoned listening to the LORD."
     },
     {
       "chapter": 4,
@@ -275,12 +275,12 @@
     {
       "chapter": 4,
       "verse": 15,
-      "text": "“Though you, Israel, play the prostitute, yet don’t let Judah offend; and don’t come to Gilgal, neither go up to Beth Aven, nor swear, ‘As Yahweh lives.’"
+      "text": "“Though you, Israel, play the prostitute, yet don’t let Judah offend; and don’t come to Gilgal, neither go up to Beth Aven, nor swear, ‘As the LORD lives.’"
     },
     {
       "chapter": 4,
       "verse": 16,
-      "text": "For Israel has behaved extremely stubbornly, like a stubborn heifer. Then how will Yahweh feed them like a lamb in a meadow?"
+      "text": "For Israel has behaved extremely stubbornly, like a stubborn heifer. Then how will the LORD feed them like a lamb in a meadow?"
     },
     {
       "chapter": 4,
@@ -315,7 +315,7 @@
     {
       "chapter": 5,
       "verse": 4,
-      "text": "Their deeds won’t allow them to turn to their God, for the spirit of prostitution is within them, and they don’t know Yahweh."
+      "text": "Their deeds won’t allow them to turn to their God, for the spirit of prostitution is within them, and they don’t know the LORD."
     },
     {
       "chapter": 5,
@@ -325,12 +325,12 @@
     {
       "chapter": 5,
       "verse": 6,
-      "text": "They will go with their flocks and with their herds to seek Yahweh, but they won’t find him. He has withdrawn himself from them."
+      "text": "They will go with their flocks and with their herds to seek the LORD, but they won’t find him. He has withdrawn himself from them."
     },
     {
       "chapter": 5,
       "verse": 7,
-      "text": "They are unfaithful to Yahweh; for they have borne illegitimate children. Now the new moon will devour them with their fields."
+      "text": "They are unfaithful to the LORD; for they have borne illegitimate children. Now the new moon will devour them with their fields."
     },
     {
       "chapter": 5,
@@ -375,7 +375,7 @@
     {
       "chapter": 6,
       "verse": 1,
-      "text": "“Come! Let’s return to Yahweh; for he has torn us to pieces, and he will heal us; he has injured us, and he will bind up our wounds."
+      "text": "“Come! Let’s return to the LORD; for he has torn us to pieces, and he will heal us; he has injured us, and he will bind up our wounds."
     },
     {
       "chapter": 6,
@@ -385,7 +385,7 @@
     {
       "chapter": 6,
       "verse": 3,
-      "text": "Let’s acknowledge Yahweh. Let’s press on to know Yahweh. As surely as the sun rises, Yahweh will appear. He will come to us like the rain, like the spring rain that waters the earth.”"
+      "text": "Let’s acknowledge the LORD. Let’s press on to know the LORD. As surely as the sun rises, the LORD will appear. He will come to us like the rain, like the spring rain that waters the earth.”"
     },
     {
       "chapter": 6,
@@ -475,7 +475,7 @@
     {
       "chapter": 7,
       "verse": 10,
-      "text": "The pride of Israel testifies to his face; yet they haven’t returned to Yahweh their God, nor sought him, for all this."
+      "text": "The pride of Israel testifies to his face; yet they haven’t returned to the LORD their God, nor sought him, for all this."
     },
     {
       "chapter": 7,
@@ -510,7 +510,7 @@
     {
       "chapter": 8,
       "verse": 1,
-      "text": "“Put the trumpet to your lips! Something like an eagle is over Yahweh’s house, because they have broken my covenant and rebelled against my law."
+      "text": "“Put the trumpet to your lips! Something like an eagle is over the LORD’s house, because they have broken my covenant and rebelled against my law."
     },
     {
       "chapter": 8,
@@ -570,7 +570,7 @@
     {
       "chapter": 8,
       "verse": 13,
-      "text": "As for the sacrifices of my offerings, they sacrifice meat and eat it, but Yahweh doesn’t accept them. Now he will remember their iniquity, and punish their sins. They will return to Egypt."
+      "text": "As for the sacrifices of my offerings, they sacrifice meat and eat it, but the LORD doesn’t accept them. Now he will remember their iniquity, and punish their sins. They will return to Egypt."
     },
     {
       "chapter": 8,
@@ -590,17 +590,17 @@
     {
       "chapter": 9,
       "verse": 3,
-      "text": "They won’t dwell in Yahweh’s land; but Ephraim will return to Egypt, and they will eat unclean food in Assyria."
+      "text": "They won’t dwell in the LORD’s land; but Ephraim will return to Egypt, and they will eat unclean food in Assyria."
     },
     {
       "chapter": 9,
       "verse": 4,
-      "text": "They won’t pour out wine offerings to Yahweh, neither will they be pleasing to him. Their sacrifices will be to them like the bread of mourners; all who eat of it will be polluted; for their bread will be for their appetite. It will not come into Yahweh’s house."
+      "text": "They won’t pour out wine offerings to the LORD, neither will they be pleasing to him. Their sacrifices will be to them like the bread of mourners; all who eat of it will be polluted; for their bread will be for their appetite. It will not come into the LORD’s house."
     },
     {
       "chapter": 9,
       "verse": 5,
-      "text": "What will you do in the day of solemn assembly, and in the day of the feast of Yahweh?"
+      "text": "What will you do in the day of solemn assembly, and in the day of the feast of the LORD?"
     },
     {
       "chapter": 9,
@@ -645,7 +645,7 @@
     {
       "chapter": 9,
       "verse": 14,
-      "text": "Give them—Yahweh what will you give? Give them a miscarrying womb and dry breasts."
+      "text": "Give them—the LORD what will you give? Give them a miscarrying womb and dry breasts."
     },
     {
       "chapter": 9,
@@ -675,7 +675,7 @@
     {
       "chapter": 10,
       "verse": 3,
-      "text": "Surely now they will say, “We have no king; for we don’t fear Yahweh; and the king, what can he do for us?”"
+      "text": "Surely now they will say, “We have no king; for we don’t fear the LORD; and the king, what can he do for us?”"
     },
     {
       "chapter": 10,
@@ -720,7 +720,7 @@
     {
       "chapter": 10,
       "verse": 12,
-      "text": "Sow to yourselves in righteousness, reap according to kindness. Break up your fallow ground, for it is time to seek Yahweh, until he comes and rains righteousness on you."
+      "text": "Sow to yourselves in righteousness, reap according to kindness. Break up your fallow ground, for it is time to seek the LORD, until he comes and rains righteousness on you."
     },
     {
       "chapter": 10,
@@ -785,12 +785,12 @@
     {
       "chapter": 11,
       "verse": 10,
-      "text": "They will walk after Yahweh, who will roar like a lion; for he will roar, and the children will come trembling from the west."
+      "text": "They will walk after the LORD, who will roar like a lion; for he will roar, and the children will come trembling from the west."
     },
     {
       "chapter": 11,
       "verse": 11,
-      "text": "They will come trembling like a bird out of Egypt, and like a dove out of the land of Assyria; and I will settle them in their houses,” says Yahweh."
+      "text": "They will come trembling like a bird out of Egypt, and like a dove out of the land of Assyria; and I will settle them in their houses,” says the LORD."
     },
     {
       "chapter": 11,
@@ -805,7 +805,7 @@
     {
       "chapter": 12,
       "verse": 2,
-      "text": "Yahweh also has a controversy with Judah, and will punish Jacob according to his ways; according to his deeds he will repay him."
+      "text": "The LORD also has a controversy with Judah, and will punish Jacob according to his ways; according to his deeds he will repay him."
     },
     {
       "chapter": 12,
@@ -820,7 +820,7 @@
     {
       "chapter": 12,
       "verse": 5,
-      "text": "even Yahweh, the God of Armies. Yahweh is his name of renown!"
+      "text": "even the LORD, the God of Armies. The LORD is his name of renown!"
     },
     {
       "chapter": 12,
@@ -840,7 +840,7 @@
     {
       "chapter": 12,
       "verse": 9,
-      "text": "“But I am Yahweh your God from the land of Egypt. I will yet again make you dwell in tents, as in the days of the solemn feast."
+      "text": "“But I am the LORD your God from the land of Egypt. I will yet again make you dwell in tents, as in the days of the solemn feast."
     },
     {
       "chapter": 12,
@@ -860,7 +860,7 @@
     {
       "chapter": 12,
       "verse": 13,
-      "text": "By a prophet Yahweh brought Israel up out of Egypt, and by a prophet he was preserved."
+      "text": "By a prophet the LORD brought Israel up out of Egypt, and by a prophet he was preserved."
     },
     {
       "chapter": 12,
@@ -885,7 +885,7 @@
     {
       "chapter": 13,
       "verse": 4,
-      "text": "“Yet I am Yahweh your God from the land of Egypt; and you shall acknowledge no god but me, and besides me there is no savior."
+      "text": "“Yet I am the LORD your God from the land of Egypt; and you shall acknowledge no god but me, and besides me there is no savior."
     },
     {
       "chapter": 13,
@@ -940,7 +940,7 @@
     {
       "chapter": 13,
       "verse": 15,
-      "text": "Though he is fruitful among his brothers, an east wind will come, the breath of Yahweh coming up from the wilderness; and his spring will become dry, and his fountain will be dried up. He will plunder the storehouse of treasure."
+      "text": "Though he is fruitful among his brothers, an east wind will come, the breath of the LORD coming up from the wilderness; and his spring will become dry, and his fountain will be dried up. He will plunder the storehouse of treasure."
     },
     {
       "chapter": 13,
@@ -950,12 +950,12 @@
     {
       "chapter": 14,
       "verse": 1,
-      "text": "Israel, return to Yahweh your God; for you have fallen because of your sin."
+      "text": "Israel, return to the LORD your God; for you have fallen because of your sin."
     },
     {
       "chapter": 14,
       "verse": 2,
-      "text": "Take words with you, and return to Yahweh. Tell him, “Forgive all our sins, and accept that which is good; so we offer bulls as we vowed of our lips."
+      "text": "Take words with you, and return to the LORD. Tell him, “Forgive all our sins, and accept that which is good; so we offer bulls as we vowed of our lips."
     },
     {
       "chapter": 14,
@@ -990,7 +990,7 @@
     {
       "chapter": 14,
       "verse": 9,
-      "text": "Who is wise, that he may understand these things? Who is prudent, that he may know them? For the ways of Yahweh are right, and the righteous walk in them, but the rebellious stumble in them."
+      "text": "Who is wise, that he may understand these things? Who is prudent, that he may know them? For the ways of the LORD are right, and the righteous walk in them, but the rebellious stumble in them."
     }
   ]
 }

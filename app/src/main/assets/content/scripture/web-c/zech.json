@@ -5,27 +5,27 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
       "verse": 1,
-      "text": "In the eighth month, in the second year of Darius, Yahweh’s word came to the prophet Zechariah the son of Berechiah, the son of Iddo, saying,"
+      "text": "In the eighth month, in the second year of Darius, the LORD’s word came to the prophet Zechariah the son of Berechiah, the son of Iddo, saying,"
     },
     {
       "chapter": 1,
       "verse": 2,
-      "text": "“Yahweh was very displeased with your fathers."
+      "text": "“The LORD was very displeased with your fathers."
     },
     {
       "chapter": 1,
       "verse": 3,
-      "text": "Therefore tell them, Yahweh of Armies says: ‘Return to me,’ says Yahweh of Armies, ‘and I will return to you,’ says Yahweh of Armies."
+      "text": "Therefore tell them, the LORD of Armies says: ‘Return to me,’ says the LORD of Armies, ‘and I will return to you,’ says the LORD of Armies."
     },
     {
       "chapter": 1,
       "verse": 4,
-      "text": "Don’t you be like your fathers, to whom the former prophets proclaimed, saying: Yahweh of Armies says, ‘Return now from your evil ways and from your evil doings;’ but they didn’t hear nor listen to me, says Yahweh."
+      "text": "Don’t you be like your fathers, to whom the former prophets proclaimed, saying: the LORD of Armies says, ‘Return now from your evil ways and from your evil doings;’ but they didn’t hear nor listen to me, says the LORD."
     },
     {
       "chapter": 1,
@@ -35,12 +35,12 @@
     {
       "chapter": 1,
       "verse": 6,
-      "text": "But my words and my decrees, which I commanded my servants the prophets, didn’t they overtake your fathers? “Then they repented and said, ‘Just as Yahweh of Armies determined to do to us, according to our ways and according to our practices, so he has dealt with us.’ ”"
+      "text": "But my words and my decrees, which I commanded my servants the prophets, didn’t they overtake your fathers? “Then they repented and said, ‘Just as the LORD of Armies determined to do to us, according to our ways and according to our practices, so he has dealt with us.’ ”"
     },
     {
       "chapter": 1,
       "verse": 7,
-      "text": "On the twenty-fourth day of the eleventh month, which is the month Shebat, in the second year of Darius, Yahweh’s word came to the prophet Zechariah the son of Berechiah, the son of Iddo, saying,"
+      "text": "On the twenty-fourth day of the eleventh month, which is the month Shebat, in the second year of Darius, the LORD’s word came to the prophet Zechariah the son of Berechiah, the son of Iddo, saying,"
     },
     {
       "chapter": 1,
@@ -55,27 +55,27 @@
     {
       "chapter": 1,
       "verse": 10,
-      "text": "The man who stood among the myrtle trees answered, “They are the ones Yahweh has sent to go back and forth through the earth.”"
+      "text": "The man who stood among the myrtle trees answered, “They are the ones the LORD has sent to go back and forth through the earth.”"
     },
     {
       "chapter": 1,
       "verse": 11,
-      "text": "They reported to Yahweh’s angel who stood among the myrtle trees, and said, “We have walked back and forth through the earth, and behold, all the earth is at rest and in peace.”"
+      "text": "They reported to the LORD’s angel who stood among the myrtle trees, and said, “We have walked back and forth through the earth, and behold, all the earth is at rest and in peace.”"
     },
     {
       "chapter": 1,
       "verse": 12,
-      "text": "Then Yahweh’s angel replied, “O Yahweh of Armies, how long will you not have mercy on Jerusalem and on the cities of Judah, against which you have had indignation these seventy years?”"
+      "text": "Then the LORD’s angel replied, “O LORD of Armies, how long will you not have mercy on Jerusalem and on the cities of Judah, against which you have had indignation these seventy years?”"
     },
     {
       "chapter": 1,
       "verse": 13,
-      "text": "Yahweh answered the angel who talked with me with kind and comforting words."
+      "text": "The LORD answered the angel who talked with me with kind and comforting words."
     },
     {
       "chapter": 1,
       "verse": 14,
-      "text": "So the angel who talked with me said to me, “Proclaim, saying, ‘Yahweh of Armies says: “I am jealous for Jerusalem and for Zion with a great jealousy."
+      "text": "So the angel who talked with me said to me, “Proclaim, saying, ‘The LORD of Armies says: “I am jealous for Jerusalem and for Zion with a great jealousy."
     },
     {
       "chapter": 1,
@@ -85,12 +85,12 @@
     {
       "chapter": 1,
       "verse": 16,
-      "text": "Therefore Yahweh says: “I have returned to Jerusalem with mercy. My house shall be built in it,” says Yahweh of Armies, “and a line shall be stretched out over Jerusalem.” ’"
+      "text": "Therefore the LORD says: “I have returned to Jerusalem with mercy. My house shall be built in it,” says the LORD of Armies, “and a line shall be stretched out over Jerusalem.” ’"
     },
     {
       "chapter": 1,
       "verse": 17,
-      "text": "“Proclaim further, saying, ‘Yahweh of Armies says: “My cities will again overflow with prosperity, and Yahweh will again comfort Zion, and will again choose Jerusalem.” ’ ”"
+      "text": "“Proclaim further, saying, ‘The LORD of Armies says: “My cities will again overflow with prosperity, and the LORD will again comfort Zion, and will again choose Jerusalem.” ’ ”"
     },
     {
       "chapter": 1,
@@ -105,7 +105,7 @@
     {
       "chapter": 1,
       "verse": 20,
-      "text": "Yahweh showed me four craftsmen."
+      "text": "The LORD showed me four craftsmen."
     },
     {
       "chapter": 1,
@@ -135,12 +135,12 @@
     {
       "chapter": 2,
       "verse": 5,
-      "text": "For I,’ says Yahweh, ‘will be to her a wall of fire around it, and I will be the glory in the middle of her."
+      "text": "For I,’ says the LORD, ‘will be to her a wall of fire around it, and I will be the glory in the middle of her."
     },
     {
       "chapter": 2,
       "verse": 6,
-      "text": "Come! Come! Flee from the land of the north,’ says Yahweh; ‘for I have spread you abroad as the four winds of the sky,’ says Yahweh."
+      "text": "Come! Come! Flee from the land of the north,’ says the LORD; ‘for I have spread you abroad as the four winds of the sky,’ says the LORD."
     },
     {
       "chapter": 2,
@@ -150,42 +150,42 @@
     {
       "chapter": 2,
       "verse": 8,
-      "text": "For Yahweh of Armies says: ‘For honor he has sent me to the nations which plundered you; for he who touches you touches the apple of his eye."
+      "text": "For the LORD of Armies says: ‘For honor he has sent me to the nations which plundered you; for he who touches you touches the apple of his eye."
     },
     {
       "chapter": 2,
       "verse": 9,
-      "text": "For, behold, I will shake my hand over them, and they will be a plunder to those who served them; and you will know that Yahweh of Armies has sent me."
+      "text": "For, behold, I will shake my hand over them, and they will be a plunder to those who served them; and you will know that the LORD of Armies has sent me."
     },
     {
       "chapter": 2,
       "verse": 10,
-      "text": "Sing and rejoice, daughter of Zion! For behold, I come and I will dwell within you,’ says Yahweh."
+      "text": "Sing and rejoice, daughter of Zion! For behold, I come and I will dwell within you,’ says the LORD."
     },
     {
       "chapter": 2,
       "verse": 11,
-      "text": "Many nations shall join themselves to Yahweh in that day, and shall be my people; and I will dwell among you, and you shall know that Yahweh of Armies has sent me to you."
+      "text": "Many nations shall join themselves to the LORD in that day, and shall be my people; and I will dwell among you, and you shall know that the LORD of Armies has sent me to you."
     },
     {
       "chapter": 2,
       "verse": 12,
-      "text": "Yahweh will inherit Judah as his portion in the holy land, and will again choose Jerusalem."
+      "text": "The LORD will inherit Judah as his portion in the holy land, and will again choose Jerusalem."
     },
     {
       "chapter": 2,
       "verse": 13,
-      "text": "Be silent, all flesh, before Yahweh; for he has roused himself from his holy habitation!”"
+      "text": "Be silent, all flesh, before the LORD; for he has roused himself from his holy habitation!”"
     },
     {
       "chapter": 3,
       "verse": 1,
-      "text": "He showed me Joshua the high priest standing before Yahweh’s angel, and Satan standing at his right hand to be his adversary."
+      "text": "He showed me Joshua the high priest standing before the LORD’s angel, and Satan standing at his right hand to be his adversary."
     },
     {
       "chapter": 3,
       "verse": 2,
-      "text": "Yahweh said to Satan, “Yahweh rebuke you, Satan! Yes, Yahweh who has chosen Jerusalem rebuke you! Isn’t this a burning stick plucked out of the fire?”"
+      "text": "The LORD said to Satan, “The LORD rebuke you, Satan! Yes, the LORD who has chosen Jerusalem rebuke you! Isn’t this a burning stick plucked out of the fire?”"
     },
     {
       "chapter": 3,
@@ -200,17 +200,17 @@
     {
       "chapter": 3,
       "verse": 5,
-      "text": "I said, “Let them set a clean turban on his head.” So they set a clean turban on his head, and clothed him; and Yahweh’s angel was standing by."
+      "text": "I said, “Let them set a clean turban on his head.” So they set a clean turban on his head, and clothed him; and the LORD’s angel was standing by."
     },
     {
       "chapter": 3,
       "verse": 6,
-      "text": "Yahweh’s angel solemnly assured Joshua, saying,"
+      "text": "The LORD’s angel solemnly assured Joshua, saying,"
     },
     {
       "chapter": 3,
       "verse": 7,
-      "text": "“Yahweh of Armies says: ‘If you will walk in my ways, and if you will follow my instructions, then you also shall judge my house, and shall also keep my courts, and I will give you a place of access among these who stand by."
+      "text": "“The LORD of Armies says: ‘If you will walk in my ways, and if you will follow my instructions, then you also shall judge my house, and shall also keep my courts, and I will give you a place of access among these who stand by."
     },
     {
       "chapter": 3,
@@ -220,12 +220,12 @@
     {
       "chapter": 3,
       "verse": 9,
-      "text": "For, behold, the stone that I have set before Joshua: on one stone are seven eyes; behold, I will engrave its inscription,’ says Yahweh of Armies, ‘and I will remove the iniquity of that land in one day."
+      "text": "For, behold, the stone that I have set before Joshua: on one stone are seven eyes; behold, I will engrave its inscription,’ says the LORD of Armies, ‘and I will remove the iniquity of that land in one day."
     },
     {
       "chapter": 3,
       "verse": 10,
-      "text": "In that day,’ says Yahweh of Armies, ‘you will invite every man his neighbor under the vine and under the fig tree.’ ”"
+      "text": "In that day,’ says the LORD of Armies, ‘you will invite every man his neighbor under the vine and under the fig tree.’ ”"
     },
     {
       "chapter": 4,
@@ -255,7 +255,7 @@
     {
       "chapter": 4,
       "verse": 6,
-      "text": "Then he answered and spoke to me, saying, “This is Yahweh’s word to Zerubbabel, saying, ‘Not by might, nor by power, but by my Spirit,’ says Yahweh of Armies."
+      "text": "Then he answered and spoke to me, saying, “This is the LORD’s word to Zerubbabel, saying, ‘Not by might, nor by power, but by my Spirit,’ says the LORD of Armies."
     },
     {
       "chapter": 4,
@@ -265,17 +265,17 @@
     {
       "chapter": 4,
       "verse": 8,
-      "text": "Moreover Yahweh’s word came to me, saying,"
+      "text": "Moreover the LORD’s word came to me, saying,"
     },
     {
       "chapter": 4,
       "verse": 9,
-      "text": "“The hands of Zerubbabel have laid the foundation of this house. His hands shall also finish it; and you will know that Yahweh of Armies has sent me to you."
+      "text": "“The hands of Zerubbabel have laid the foundation of this house. His hands shall also finish it; and you will know that the LORD of Armies has sent me to you."
     },
     {
       "chapter": 4,
       "verse": 10,
-      "text": "Indeed, who despises the day of small things? For these seven shall rejoice, and shall see the plumb line in the hand of Zerubbabel. These are Yahweh’s eyes, which run back and forth through the whole earth.”"
+      "text": "Indeed, who despises the day of small things? For these seven shall rejoice, and shall see the plumb line in the hand of Zerubbabel. These are the LORD’s eyes, which run back and forth through the whole earth.”"
     },
     {
       "chapter": 4,
@@ -315,7 +315,7 @@
     {
       "chapter": 5,
       "verse": 4,
-      "text": "I will cause it to go out,” says Yahweh of Armies, “and it will enter into the house of the thief, and into the house of him who swears falsely by my name; and it will remain in the middle of his house, and will destroy it with its timber and its stones.”"
+      "text": "I will cause it to go out,” says the LORD of Armies, “and it will enter into the house of the thief, and into the house of him who swears falsely by my name; and it will remain in the middle of his house, and will destroy it with its timber and its stones.”"
     },
     {
       "chapter": 5,
@@ -395,7 +395,7 @@
     {
       "chapter": 6,
       "verse": 9,
-      "text": "Yahweh’s word came to me, saying,"
+      "text": "The LORD’s word came to me, saying,"
     },
     {
       "chapter": 6,
@@ -410,42 +410,42 @@
     {
       "chapter": 6,
       "verse": 12,
-      "text": "and speak to him, saying, ‘Yahweh of Armies says, “Behold, the man whose name is the Branch! He will grow up out of his place; and he will build Yahweh’s temple."
+      "text": "and speak to him, saying, ‘The LORD of Armies says, “Behold, the man whose name is the Branch! He will grow up out of his place; and he will build the LORD’s temple."
     },
     {
       "chapter": 6,
       "verse": 13,
-      "text": "He will build Yahweh’s temple. He will bear the glory, and will sit and rule on his throne. He will be a priest on his throne. The counsel of peace will be between them both."
+      "text": "He will build the LORD’s temple. He will bear the glory, and will sit and rule on his throne. He will be a priest on his throne. The counsel of peace will be between them both."
     },
     {
       "chapter": 6,
       "verse": 14,
-      "text": "The crowns shall be to Helem, to Tobijah, to Jedaiah, and to Hen the son of Zephaniah, for a memorial in Yahweh’s temple."
+      "text": "The crowns shall be to Helem, to Tobijah, to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the LORD’s temple."
     },
     {
       "chapter": 6,
       "verse": 15,
-      "text": "Those who are far off shall come and build in Yahweh’s temple; and you shall know that Yahweh of Armies has sent me to you. This will happen, if you will diligently obey Yahweh your God’s voice.” ’ ”"
+      "text": "Those who are far off shall come and build in the LORD’s temple; and you shall know that the LORD of Armies has sent me to you. This will happen, if you will diligently obey the LORD your God’s voice.” ’ ”"
     },
     {
       "chapter": 7,
       "verse": 1,
-      "text": "In the fourth year of King Darius, Yahweh’s word came to Zechariah in the fourth day of the ninth month, the month of Chislev."
+      "text": "In the fourth year of King Darius, the LORD’s word came to Zechariah in the fourth day of the ninth month, the month of Chislev."
     },
     {
       "chapter": 7,
       "verse": 2,
-      "text": "The people of Bethel sent Sharezer and Regem Melech and their men to entreat Yahweh’s favor,"
+      "text": "The people of Bethel sent Sharezer and Regem Melech and their men to entreat the LORD’s favor,"
     },
     {
       "chapter": 7,
       "verse": 3,
-      "text": "and to speak to the priests of the house of Yahweh of Armies and to the prophets, saying, “Should I weep in the fifth month, separating myself, as I have done these so many years?”"
+      "text": "and to speak to the priests of the house of the LORD of Armies and to the prophets, saying, “Should I weep in the fifth month, separating myself, as I have done these so many years?”"
     },
     {
       "chapter": 7,
       "verse": 4,
-      "text": "Then the word of Yahweh of Armies came to me, saying,"
+      "text": "Then the word of the LORD of Armies came to me, saying,"
     },
     {
       "chapter": 7,
@@ -460,17 +460,17 @@
     {
       "chapter": 7,
       "verse": 7,
-      "text": "Aren’t these the words which Yahweh proclaimed by the former prophets when Jerusalem was inhabited and in prosperity, and its cities around her, and the South and the lowland were inhabited?’ ”"
+      "text": "Aren’t these the words which the LORD proclaimed by the former prophets when Jerusalem was inhabited and in prosperity, and its cities around her, and the South and the lowland were inhabited?’ ”"
     },
     {
       "chapter": 7,
       "verse": 8,
-      "text": "Yahweh’s word came to Zechariah, saying,"
+      "text": "The LORD’s word came to Zechariah, saying,"
     },
     {
       "chapter": 7,
       "verse": 9,
-      "text": "“Thus has Yahweh of Armies spoken, saying, ‘Execute true judgment, and show kindness and compassion every man to his brother."
+      "text": "“Thus has the LORD of Armies spoken, saying, ‘Execute true judgment, and show kindness and compassion every man to his brother."
     },
     {
       "chapter": 7,
@@ -485,12 +485,12 @@
     {
       "chapter": 7,
       "verse": 12,
-      "text": "Yes, they made their hearts as hard as flint, lest they might hear the law and the words which Yahweh of Armies had sent by his Spirit by the former prophets. Therefore great wrath came from Yahweh of Armies."
+      "text": "Yes, they made their hearts as hard as flint, lest they might hear the law and the words which the LORD of Armies had sent by his Spirit by the former prophets. Therefore great wrath came from the LORD of Armies."
     },
     {
       "chapter": 7,
       "verse": 13,
-      "text": "It has come to pass that, as he called and they refused to listen, so they will call and I will not listen,” said Yahweh of Armies;"
+      "text": "It has come to pass that, as he called and they refused to listen, so they will call and I will not listen,” said the LORD of Armies;"
     },
     {
       "chapter": 7,
@@ -500,22 +500,22 @@
     {
       "chapter": 8,
       "verse": 1,
-      "text": "The word of Yahweh of Armies came to me."
+      "text": "The word of the LORD of Armies came to me."
     },
     {
       "chapter": 8,
       "verse": 2,
-      "text": "Yahweh of Armies says: “I am jealous for Zion with great jealousy, and I am jealous for her with great wrath.”"
+      "text": "The LORD of Armies says: “I am jealous for Zion with great jealousy, and I am jealous for her with great wrath.”"
     },
     {
       "chapter": 8,
       "verse": 3,
-      "text": "Yahweh says: “I have returned to Zion, and will dwell in the middle of Jerusalem. Jerusalem shall be called ‘The City of Truth;’ and the mountain of Yahweh of Armies, ‘The Holy Mountain.’ ”"
+      "text": "The LORD says: “I have returned to Zion, and will dwell in the middle of Jerusalem. Jerusalem shall be called ‘The City of Truth;’ and the mountain of the LORD of Armies, ‘The Holy Mountain.’ ”"
     },
     {
       "chapter": 8,
       "verse": 4,
-      "text": "Yahweh of Armies says: “Old men and old women will again dwell in the streets of Jerusalem, every man with his staff in his hand because of their old age."
+      "text": "The LORD of Armies says: “Old men and old women will again dwell in the streets of Jerusalem, every man with his staff in his hand because of their old age."
     },
     {
       "chapter": 8,
@@ -525,12 +525,12 @@
     {
       "chapter": 8,
       "verse": 6,
-      "text": "Yahweh of Armies says: “If it is marvelous in the eyes of the remnant of this people in those days, should it also be marvelous in my eyes?” says Yahweh of Armies."
+      "text": "The LORD of Armies says: “If it is marvelous in the eyes of the remnant of this people in those days, should it also be marvelous in my eyes?” says the LORD of Armies."
     },
     {
       "chapter": 8,
       "verse": 7,
-      "text": "Yahweh of Armies says: “Behold, I will save my people from the east country and from the west country."
+      "text": "The LORD of Armies says: “Behold, I will save my people from the east country and from the west country."
     },
     {
       "chapter": 8,
@@ -540,7 +540,7 @@
     {
       "chapter": 8,
       "verse": 9,
-      "text": "Yahweh of Armies says: “Let your hands be strong, you who hear in these days these words from the mouth of the prophets who were in the day that the foundation of the house of Yahweh of Armies was laid, even the temple, that it might be built."
+      "text": "The LORD of Armies says: “Let your hands be strong, you who hear in these days these words from the mouth of the prophets who were in the day that the foundation of the house of the LORD of Armies was laid, even the temple, that it might be built."
     },
     {
       "chapter": 8,
@@ -550,7 +550,7 @@
     {
       "chapter": 8,
       "verse": 11,
-      "text": "But now I will not be to the remnant of this people as in the former days,” says Yahweh of Armies."
+      "text": "But now I will not be to the remnant of this people as in the former days,” says the LORD of Armies."
     },
     {
       "chapter": 8,
@@ -565,7 +565,7 @@
     {
       "chapter": 8,
       "verse": 14,
-      "text": "For Yahweh of Armies says: “As I thought to do evil to you when your fathers provoked me to wrath,” says Yahweh of Armies, “and I didn’t repent,"
+      "text": "For the LORD of Armies says: “As I thought to do evil to you when your fathers provoked me to wrath,” says the LORD of Armies, “and I didn’t repent,"
     },
     {
       "chapter": 8,
@@ -580,42 +580,42 @@
     {
       "chapter": 8,
       "verse": 17,
-      "text": "and let none of you devise evil in your hearts against his neighbor, and love no false oath; for all these are things that I hate,” says Yahweh."
+      "text": "and let none of you devise evil in your hearts against his neighbor, and love no false oath; for all these are things that I hate,” says the LORD."
     },
     {
       "chapter": 8,
       "verse": 18,
-      "text": "The word of Yahweh of Armies came to me."
+      "text": "The word of the LORD of Armies came to me."
     },
     {
       "chapter": 8,
       "verse": 19,
-      "text": "Yahweh of Armies says: “The fasts of the fourth, fifth, seventh, and tenth months shall be for the house of Judah joy, gladness, and cheerful feasts. Therefore love truth and peace.”"
+      "text": "The LORD of Armies says: “The fasts of the fourth, fifth, seventh, and tenth months shall be for the house of Judah joy, gladness, and cheerful feasts. Therefore love truth and peace.”"
     },
     {
       "chapter": 8,
       "verse": 20,
-      "text": "Yahweh of Armies says: “Many peoples and the inhabitants of many cities will yet come."
+      "text": "The LORD of Armies says: “Many peoples and the inhabitants of many cities will yet come."
     },
     {
       "chapter": 8,
       "verse": 21,
-      "text": "The inhabitants of one will go to another, saying, ‘Let’s go speedily to entreat the favor of Yahweh, and to seek Yahweh of Armies. I will go also.’"
+      "text": "The inhabitants of one will go to another, saying, ‘Let’s go speedily to entreat the favor of the LORD, and to seek the LORD of Armies. I will go also.’"
     },
     {
       "chapter": 8,
       "verse": 22,
-      "text": "Yes, many peoples and strong nations will come to seek Yahweh of Armies in Jerusalem and to entreat the favor of Yahweh.”"
+      "text": "Yes, many peoples and strong nations will come to seek the LORD of Armies in Jerusalem and to entreat the favor of the LORD.”"
     },
     {
       "chapter": 8,
       "verse": 23,
-      "text": "Yahweh of Armies says: “In those days, ten men out of all the languages of the nations will take hold of the skirt of him who is a Jew, saying, ‘We will go with you, for we have heard that God is with you.’ ”"
+      "text": "The LORD of Armies says: “In those days, ten men out of all the languages of the nations will take hold of the skirt of him who is a Jew, saying, ‘We will go with you, for we have heard that God is with you.’ ”"
     },
     {
       "chapter": 9,
       "verse": 1,
-      "text": "A revelation. Yahweh’s word is against the land of Hadrach, and will rest upon Damascus— for the eye of man and of all the tribes of Israel is toward Yahweh—"
+      "text": "A revelation. The LORD’s word is against the land of Hadrach, and will rest upon Damascus— for the eye of man and of all the tribes of Israel is toward the LORD—"
     },
     {
       "chapter": 9,
@@ -680,17 +680,17 @@
     {
       "chapter": 9,
       "verse": 14,
-      "text": "Yahweh will be seen over them. His arrow will flash like lightning. The Lord Yahweh will blow the trumpet, and will go with whirlwinds of the south."
+      "text": "The LORD will be seen over them. His arrow will flash like lightning. The Lord the LORD will blow the trumpet, and will go with whirlwinds of the south."
     },
     {
       "chapter": 9,
       "verse": 15,
-      "text": "Yahweh of Armies will defend them. They will destroy and overcome with sling stones. They will drink, and roar as through wine. They will be filled like bowls, like the corners of the altar."
+      "text": "The LORD of Armies will defend them. They will destroy and overcome with sling stones. They will drink, and roar as through wine. They will be filled like bowls, like the corners of the altar."
     },
     {
       "chapter": 9,
       "verse": 16,
-      "text": "Yahweh their God will save them in that day as the flock of his people; for they are like the jewels of a crown, lifted on high over his land."
+      "text": "The LORD their God will save them in that day as the flock of his people; for they are like the jewels of a crown, lifted on high over his land."
     },
     {
       "chapter": 9,
@@ -700,7 +700,7 @@
     {
       "chapter": 10,
       "verse": 1,
-      "text": "Ask of Yahweh rain in the spring time, Yahweh who makes storm clouds, and he gives rain showers to everyone for the plants in the field."
+      "text": "Ask of the LORD rain in the spring time, the LORD who makes storm clouds, and he gives rain showers to everyone for the plants in the field."
     },
     {
       "chapter": 10,
@@ -710,7 +710,7 @@
     {
       "chapter": 10,
       "verse": 3,
-      "text": "My anger is kindled against the shepherds, and I will punish the male goats, for Yahweh of Armies has visited his flock, the house of Judah, and will make them as his majestic horse in the battle."
+      "text": "My anger is kindled against the shepherds, and I will punish the male goats, for the LORD of Armies has visited his flock, the house of Judah, and will make them as his majestic horse in the battle."
     },
     {
       "chapter": 10,
@@ -720,17 +720,17 @@
     {
       "chapter": 10,
       "verse": 5,
-      "text": "They will be as mighty men, treading down muddy streets in the battle. They will fight, because Yahweh is with them. The riders on horses will be confounded."
+      "text": "They will be as mighty men, treading down muddy streets in the battle. They will fight, because the LORD is with them. The riders on horses will be confounded."
     },
     {
       "chapter": 10,
       "verse": 6,
-      "text": "“I will strengthen the house of Judah, and I will save the house of Joseph. I will bring them back, for I have mercy on them. They will be as though I had not cast them off, for I am Yahweh their God, and I will hear them."
+      "text": "“I will strengthen the house of Judah, and I will save the house of Joseph. I will bring them back, for I have mercy on them. They will be as though I had not cast them off, for I am the LORD their God, and I will hear them."
     },
     {
       "chapter": 10,
       "verse": 7,
-      "text": "Ephraim will be like a mighty man, and their heart will rejoice as through wine. Yes, their children will see it and rejoice. Their heart will be glad in Yahweh."
+      "text": "Ephraim will be like a mighty man, and their heart will rejoice as through wine. Yes, their children will see it and rejoice. Their heart will be glad in the LORD."
     },
     {
       "chapter": 10,
@@ -755,7 +755,7 @@
     {
       "chapter": 10,
       "verse": 12,
-      "text": "I will strengthen them in Yahweh. They will walk up and down in his name,” says Yahweh."
+      "text": "I will strengthen them in the LORD. They will walk up and down in his name,” says the LORD."
     },
     {
       "chapter": 11,
@@ -775,17 +775,17 @@
     {
       "chapter": 11,
       "verse": 4,
-      "text": "Yahweh my God says: “Feed the flock of slaughter."
+      "text": "The LORD my God says: “Feed the flock of slaughter."
     },
     {
       "chapter": 11,
       "verse": 5,
-      "text": "Their buyers slaughter them and go unpunished. Those who sell them say, ‘Blessed be Yahweh, for I am rich;’ and their own shepherds don’t pity them."
+      "text": "Their buyers slaughter them and go unpunished. Those who sell them say, ‘Blessed be the LORD, for I am rich;’ and their own shepherds don’t pity them."
     },
     {
       "chapter": 11,
       "verse": 6,
-      "text": "For I will no more pity the inhabitants of the land,” says Yahweh; “but, behold, I will deliver every one of the men into his neighbor’s hand and into the hand of his king. They will strike the land, and out of their hand I will not deliver them.”"
+      "text": "For I will no more pity the inhabitants of the land,” says the LORD; “but, behold, I will deliver every one of the men into his neighbor’s hand and into the hand of his king. They will strike the land, and out of their hand I will not deliver them.”"
     },
     {
       "chapter": 11,
@@ -810,7 +810,7 @@
     {
       "chapter": 11,
       "verse": 11,
-      "text": "It was broken in that day; and thus the poor of the flock that listened to me knew that it was Yahweh’s word."
+      "text": "It was broken in that day; and thus the poor of the flock that listened to me knew that it was the LORD’s word."
     },
     {
       "chapter": 11,
@@ -820,7 +820,7 @@
     {
       "chapter": 11,
       "verse": 13,
-      "text": "Yahweh said to me, “Throw it to the potter—the handsome price that I was valued at by them!” I took the thirty pieces of silver and threw them to the potter in Yahweh’s house."
+      "text": "The LORD said to me, “Throw it to the potter—the handsome price that I was valued at by them!” I took the thirty pieces of silver and threw them to the potter in the LORD’s house."
     },
     {
       "chapter": 11,
@@ -830,7 +830,7 @@
     {
       "chapter": 11,
       "verse": 15,
-      "text": "Yahweh said to me, “Take for yourself yet again the equipment of a foolish shepherd."
+      "text": "The LORD said to me, “Take for yourself yet again the equipment of a foolish shepherd."
     },
     {
       "chapter": 11,
@@ -845,7 +845,7 @@
     {
       "chapter": 12,
       "verse": 1,
-      "text": "A revelation of Yahweh’s word concerning Israel: Yahweh, who stretches out the heavens and lays the foundation of the earth, and forms the spirit of man within him says:"
+      "text": "A revelation of the LORD’s word concerning Israel: the LORD, who stretches out the heavens and lays the foundation of the earth, and forms the spirit of man within him says:"
     },
     {
       "chapter": 12,
@@ -860,12 +860,12 @@
     {
       "chapter": 12,
       "verse": 4,
-      "text": "In that day,” says Yahweh, “I will strike every horse with terror and his rider with madness. I will open my eyes on the house of Judah, and will strike every horse of the peoples with blindness."
+      "text": "In that day,” says the LORD, “I will strike every horse with terror and his rider with madness. I will open my eyes on the house of Judah, and will strike every horse of the peoples with blindness."
     },
     {
       "chapter": 12,
       "verse": 5,
-      "text": "The chieftains of Judah will say in their heart, ‘The inhabitants of Jerusalem are my strength in Yahweh of Armies their God.’"
+      "text": "The chieftains of Judah will say in their heart, ‘The inhabitants of Jerusalem are my strength in the LORD of Armies their God.’"
     },
     {
       "chapter": 12,
@@ -875,12 +875,12 @@
     {
       "chapter": 12,
       "verse": 7,
-      "text": "Yahweh also will save the tents of Judah first, that the glory of David’s house and the glory of the inhabitants of Jerusalem not be magnified above Judah."
+      "text": "The LORD also will save the tents of Judah first, that the glory of David’s house and the glory of the inhabitants of Jerusalem not be magnified above Judah."
     },
     {
       "chapter": 12,
       "verse": 8,
-      "text": "In that day Yahweh will defend the inhabitants of Jerusalem. He who is feeble among them at that day will be like David, and David’s house will be like God, like Yahweh’s angel before them."
+      "text": "In that day the LORD will defend the inhabitants of Jerusalem. He who is feeble among them at that day will be like David, and David’s house will be like God, like the LORD’s angel before them."
     },
     {
       "chapter": 12,
@@ -920,12 +920,12 @@
     {
       "chapter": 13,
       "verse": 2,
-      "text": "It will come to pass in that day, says Yahweh of Armies, that I will cut off the names of the idols out of the land, and they will be remembered no more. I will also cause the prophets and the spirit of impurity to pass out of the land."
+      "text": "It will come to pass in that day, says the LORD of Armies, that I will cut off the names of the idols out of the land, and they will be remembered no more. I will also cause the prophets and the spirit of impurity to pass out of the land."
     },
     {
       "chapter": 13,
       "verse": 3,
-      "text": "It will happen that when anyone still prophesies, then his father and his mother who bore him will tell him, ‘You must die, because you speak lies in Yahweh’s name;’ and his father and his mother who bore him will stab him when he prophesies."
+      "text": "It will happen that when anyone still prophesies, then his father and his mother who bore him will tell him, ‘You must die, because you speak lies in the LORD’s name;’ and his father and his mother who bore him will stab him when he prophesies."
     },
     {
       "chapter": 13,
@@ -945,22 +945,22 @@
     {
       "chapter": 13,
       "verse": 7,
-      "text": "“Awake, sword, against my shepherd, and against the man who is close to me,” says Yahweh of Armies. “Strike the shepherd, and the sheep will be scattered; and I will turn my hand against the little ones."
+      "text": "“Awake, sword, against my shepherd, and against the man who is close to me,” says the LORD of Armies. “Strike the shepherd, and the sheep will be scattered; and I will turn my hand against the little ones."
     },
     {
       "chapter": 13,
       "verse": 8,
-      "text": "It shall happen that in all the land,” says Yahweh, “two parts in it will be cut off and die; but the third will be left in it."
+      "text": "It shall happen that in all the land,” says the LORD, “two parts in it will be cut off and die; but the third will be left in it."
     },
     {
       "chapter": 13,
       "verse": 9,
-      "text": "I will bring the third part into the fire, and will refine them as silver is refined, and will test them like gold is tested. They will call on my name, and I will hear them. I will say, ‘It is my people;’ and they will say, ‘Yahweh is my God.’ ”"
+      "text": "I will bring the third part into the fire, and will refine them as silver is refined, and will test them like gold is tested. They will call on my name, and I will hear them. I will say, ‘It is my people;’ and they will say, ‘The LORD is my God.’ ”"
     },
     {
       "chapter": 14,
       "verse": 1,
-      "text": "Behold, a day of Yahweh comes, when your plunder will be divided within you."
+      "text": "Behold, a day of the LORD comes, when your plunder will be divided within you."
     },
     {
       "chapter": 14,
@@ -970,7 +970,7 @@
     {
       "chapter": 14,
       "verse": 3,
-      "text": "Then Yahweh will go out and fight against those nations, as when he fought in the day of battle."
+      "text": "Then the LORD will go out and fight against those nations, as when he fought in the day of battle."
     },
     {
       "chapter": 14,
@@ -980,7 +980,7 @@
     {
       "chapter": 14,
       "verse": 5,
-      "text": "You shall flee by the valley of my mountains, for the valley of the mountains shall reach to Azel. Yes, you shall flee, just like you fled from before the earthquake in the days of Uzziah king of Judah. Yahweh my God will come, and all the holy ones with you."
+      "text": "You shall flee by the valley of my mountains, for the valley of the mountains shall reach to Azel. Yes, you shall flee, just like you fled from before the earthquake in the days of Uzziah king of Judah. The LORD my God will come, and all the holy ones with you."
     },
     {
       "chapter": 14,
@@ -990,7 +990,7 @@
     {
       "chapter": 14,
       "verse": 7,
-      "text": "It will be a unique day which is known to Yahweh—not day, and not night; but it will come to pass that at evening time there will be light."
+      "text": "It will be a unique day which is known to the LORD—not day, and not night; but it will come to pass that at evening time there will be light."
     },
     {
       "chapter": 14,
@@ -1000,7 +1000,7 @@
     {
       "chapter": 14,
       "verse": 9,
-      "text": "Yahweh will be King over all the earth. In that day Yahweh will be one, and his name one."
+      "text": "The LORD will be King over all the earth. In that day the LORD will be one, and his name one."
     },
     {
       "chapter": 14,
@@ -1015,12 +1015,12 @@
     {
       "chapter": 14,
       "verse": 12,
-      "text": "This will be the plague with which Yahweh will strike all the peoples who have fought against Jerusalem: their flesh will consume away while they stand on their feet, and their eyes will consume away in their sockets, and their tongue will consume away in their mouth."
+      "text": "This will be the plague with which the LORD will strike all the peoples who have fought against Jerusalem: their flesh will consume away while they stand on their feet, and their eyes will consume away in their sockets, and their tongue will consume away in their mouth."
     },
     {
       "chapter": 14,
       "verse": 13,
-      "text": "It will happen in that day that a great panic from Yahweh will be among them; and they will each seize the hand of his neighbor, and his hand will rise up against the hand of his neighbor."
+      "text": "It will happen in that day that a great panic from the LORD will be among them; and they will each seize the hand of his neighbor, and his hand will rise up against the hand of his neighbor."
     },
     {
       "chapter": 14,
@@ -1035,17 +1035,17 @@
     {
       "chapter": 14,
       "verse": 16,
-      "text": "It will happen that everyone who is left of all the nations that came against Jerusalem will go up from year to year to worship the King, Yahweh of Armies, and to keep the feast of booths."
+      "text": "It will happen that everyone who is left of all the nations that came against Jerusalem will go up from year to year to worship the King, the LORD of Armies, and to keep the feast of booths."
     },
     {
       "chapter": 14,
       "verse": 17,
-      "text": "It will be that whoever of all the families of the earth doesn’t go up to Jerusalem to worship the King, Yahweh of Armies, on them there will be no rain."
+      "text": "It will be that whoever of all the families of the earth doesn’t go up to Jerusalem to worship the King, the LORD of Armies, on them there will be no rain."
     },
     {
       "chapter": 14,
       "verse": 18,
-      "text": "If the family of Egypt doesn’t go up and doesn’t come, neither will it rain on them. This will be the plague with which Yahweh will strike the nations that don’t go up to keep the feast of booths."
+      "text": "If the family of Egypt doesn’t go up and doesn’t come, neither will it rain on them. This will be the plague with which the LORD will strike the nations that don’t go up to keep the feast of booths."
     },
     {
       "chapter": 14,
@@ -1055,12 +1055,12 @@
     {
       "chapter": 14,
       "verse": 20,
-      "text": "In that day there will be inscribed on the bells of the horses, “HOLY TO YAHWEH”; and the pots in Yahweh’s house will be like the bowls before the altar."
+      "text": "In that day there will be inscribed on the bells of the horses, “HOLY TO YAHWEH”; and the pots in the LORD’s house will be like the bowls before the altar."
     },
     {
       "chapter": 14,
       "verse": 21,
-      "text": "Yes, every pot in Jerusalem and in Judah will be holy to Yahweh of Armies; and all those who sacrifice will come and take of them, and cook in them. In that day there will no longer be a Canaanite in the house of Yahweh of Armies."
+      "text": "Yes, every pot in Jerusalem and in Judah will be holy to the LORD of Armies; and all those who sacrifice will come and take of them, and cook in them. In that day there will no longer be a Canaanite in the house of the LORD of Armies."
     }
   ]
 }

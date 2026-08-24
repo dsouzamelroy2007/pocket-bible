@@ -5,22 +5,22 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
       "verse": 1,
-      "text": "Yahweh’s word that came to Micah of Morasheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem."
+      "text": "The LORD’s word that came to Micah of Morasheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem."
     },
     {
       "chapter": 1,
       "verse": 2,
-      "text": "Hear, you peoples, all of you! Listen, O earth, and all that is therein. Let the Lord Yahweh be witness against you, the Lord from his holy temple."
+      "text": "Hear, you peoples, all of you! Listen, O earth, and all that is therein. Let the Lord the LORD be witness against you, the Lord from his holy temple."
     },
     {
       "chapter": 1,
       "verse": 3,
-      "text": "For behold, Yahweh comes out of his place, and will come down and tread on the high places of the earth."
+      "text": "For behold, the LORD comes out of his place, and will come down and tread on the high places of the earth."
     },
     {
       "chapter": 1,
@@ -65,7 +65,7 @@
     {
       "chapter": 1,
       "verse": 12,
-      "text": "For the inhabitant of Maroth waits anxiously for good, because evil has come down from Yahweh to the gate of Jerusalem."
+      "text": "For the inhabitant of Maroth waits anxiously for good, because evil has come down from the LORD to the gate of Jerusalem."
     },
     {
       "chapter": 1,
@@ -100,7 +100,7 @@
     {
       "chapter": 2,
       "verse": 3,
-      "text": "Therefore Yahweh says: “Behold, I am planning against these people a disaster, from which you will not remove your necks, neither will you walk haughtily, for it is an evil time."
+      "text": "Therefore the LORD says: “Behold, I am planning against these people a disaster, from which you will not remove your necks, neither will you walk haughtily, for it is an evil time."
     },
     {
       "chapter": 2,
@@ -110,7 +110,7 @@
     {
       "chapter": 2,
       "verse": 5,
-      "text": "Therefore you will have no one who divides the land by lot in Yahweh’s assembly."
+      "text": "Therefore you will have no one who divides the land by lot in the LORD’s assembly."
     },
     {
       "chapter": 2,
@@ -120,7 +120,7 @@
     {
       "chapter": 2,
       "verse": 7,
-      "text": "Shall it be said, O house of Jacob, “Is Yahweh’s Spirit angry? Are these his doings? Don’t my words do good to him who walks blamelessly?”"
+      "text": "Shall it be said, O house of Jacob, “Is the LORD’s Spirit angry? Are these his doings? Don’t my words do good to him who walks blamelessly?”"
     },
     {
       "chapter": 2,
@@ -150,7 +150,7 @@
     {
       "chapter": 2,
       "verse": 13,
-      "text": "He who breaks open the way goes up before them. They break through the gate, and go out. Their king passes on before them, with Yahweh at their head."
+      "text": "He who breaks open the way goes up before them. They break through the gate, and go out. Their king passes on before them, with the LORD at their head."
     },
     {
       "chapter": 3,
@@ -170,12 +170,12 @@
     {
       "chapter": 3,
       "verse": 4,
-      "text": "Then they will cry to Yahweh, but he will not answer them. Yes, he will hide his face from them at that time, because they made their deeds evil.”"
+      "text": "Then they will cry to the LORD, but he will not answer them. Yes, he will hide his face from them at that time, because they made their deeds evil.”"
     },
     {
       "chapter": 3,
       "verse": 5,
-      "text": "Yahweh says concerning the prophets who lead my people astray—for those who feed their teeth, they proclaim, “Peace!” and whoever doesn’t provide for their mouths, they prepare war against him:"
+      "text": "The LORD says concerning the prophets who lead my people astray—for those who feed their teeth, they proclaim, “Peace!” and whoever doesn’t provide for their mouths, they prepare war against him:"
     },
     {
       "chapter": 3,
@@ -190,7 +190,7 @@
     {
       "chapter": 3,
       "verse": 8,
-      "text": "But as for me, I am full of power by Yahweh’s Spirit, and of judgment, and of might, to declare to Jacob his disobedience, and to Israel his sin."
+      "text": "But as for me, I am full of power by the LORD’s Spirit, and of judgment, and of might, to declare to Jacob his disobedience, and to Israel his sin."
     },
     {
       "chapter": 3,
@@ -205,7 +205,7 @@
     {
       "chapter": 3,
       "verse": 11,
-      "text": "Her leaders judge for bribes, and her priests teach for a price, and her prophets tell fortunes for money; yet they lean on Yahweh, and say, “Isn’t Yahweh among us? No disaster will come on us.”"
+      "text": "Her leaders judge for bribes, and her priests teach for a price, and her prophets tell fortunes for money; yet they lean on the LORD, and say, “Isn’t the LORD among us? No disaster will come on us.”"
     },
     {
       "chapter": 3,
@@ -215,12 +215,12 @@
     {
       "chapter": 4,
       "verse": 1,
-      "text": "But in the latter days, it will happen that the mountain of Yahweh’s temple will be established on the top of the mountains, and it will be exalted above the hills; and peoples will stream to it."
+      "text": "But in the latter days, it will happen that the mountain of the LORD’s temple will be established on the top of the mountains, and it will be exalted above the hills; and peoples will stream to it."
     },
     {
       "chapter": 4,
       "verse": 2,
-      "text": "Many nations will go and say, “Come! Let’s go up to the mountain of Yahweh, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths.” For the law will go out of Zion, and Yahweh’s word from Jerusalem;"
+      "text": "Many nations will go and say, “Come! Let’s go up to the mountain of the LORD, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths.” For the law will go out of Zion, and the LORD’s word from Jerusalem;"
     },
     {
       "chapter": 4,
@@ -230,22 +230,22 @@
     {
       "chapter": 4,
       "verse": 4,
-      "text": "But every man will sit under his vine and under his fig tree. No one will make them afraid, for the mouth of Yahweh of Armies has spoken."
+      "text": "But every man will sit under his vine and under his fig tree. No one will make them afraid, for the mouth of the LORD of Armies has spoken."
     },
     {
       "chapter": 4,
       "verse": 5,
-      "text": "Indeed all the nations may walk in the name of their gods, but we will walk in the name of Yahweh our God forever and ever."
+      "text": "Indeed all the nations may walk in the name of their gods, but we will walk in the name of the LORD our God forever and ever."
     },
     {
       "chapter": 4,
       "verse": 6,
-      "text": "“In that day,” says Yahweh, “I will assemble that which is lame, and I will gather that which is driven away, and that which I have afflicted;"
+      "text": "“In that day,” says the LORD, “I will assemble that which is lame, and I will gather that which is driven away, and that which I have afflicted;"
     },
     {
       "chapter": 4,
       "verse": 7,
-      "text": "and I will make that which was lame a remnant, and that which was cast far off a strong nation: and Yahweh will reign over them on Mount Zion from then on, even forever.”"
+      "text": "and I will make that which was lame a remnant, and that which was cast far off a strong nation: and the LORD will reign over them on Mount Zion from then on, even forever.”"
     },
     {
       "chapter": 4,
@@ -260,7 +260,7 @@
     {
       "chapter": 4,
       "verse": 10,
-      "text": "Be in pain, and labor to give birth, daughter of Zion, like a woman in travail; for now you will go out of the city, and will dwell in the field, and will come even to Babylon. There you will be rescued. There Yahweh will redeem you from the hand of your enemies."
+      "text": "Be in pain, and labor to give birth, daughter of Zion, like a woman in travail; for now you will go out of the city, and will dwell in the field, and will come even to Babylon. There you will be rescued. There the LORD will redeem you from the hand of your enemies."
     },
     {
       "chapter": 4,
@@ -270,12 +270,12 @@
     {
       "chapter": 4,
       "verse": 12,
-      "text": "But they don’t know the thoughts of Yahweh, neither do they understand his counsel; for he has gathered them like the sheaves to the threshing floor."
+      "text": "But they don’t know the thoughts of the LORD, neither do they understand his counsel; for he has gathered them like the sheaves to the threshing floor."
     },
     {
       "chapter": 4,
       "verse": 13,
-      "text": "Arise and thresh, daughter of Zion, for I will make your horn iron, and I will make your hoofs bronze. You will beat in pieces many peoples. I will devote their gain to Yahweh, and their substance to the Lord of the whole earth."
+      "text": "Arise and thresh, daughter of Zion, for I will make your horn iron, and I will make your hoofs bronze. You will beat in pieces many peoples. I will devote their gain to the LORD, and their substance to the Lord of the whole earth."
     },
     {
       "chapter": 5,
@@ -295,7 +295,7 @@
     {
       "chapter": 5,
       "verse": 4,
-      "text": "He shall stand, and shall shepherd in the strength of Yahweh, in the majesty of the name of Yahweh his God. They will live, for then he will be great to the ends of the earth."
+      "text": "He shall stand, and shall shepherd in the strength of the LORD, in the majesty of the name of the LORD his God. They will live, for then he will be great to the ends of the earth."
     },
     {
       "chapter": 5,
@@ -310,7 +310,7 @@
     {
       "chapter": 5,
       "verse": 7,
-      "text": "The remnant of Jacob will be among many peoples like dew from Yahweh, like showers on the grass, that don’t wait for man nor wait for the sons of men."
+      "text": "The remnant of Jacob will be among many peoples like dew from the LORD, like showers on the grass, that don’t wait for man nor wait for the sons of men."
     },
     {
       "chapter": 5,
@@ -325,7 +325,7 @@
     {
       "chapter": 5,
       "verse": 10,
-      "text": "“It will happen in that day”, says Yahweh, “that I will cut off your horses from among you and will destroy your chariots."
+      "text": "“It will happen in that day”, says the LORD, “that I will cut off your horses from among you and will destroy your chariots."
     },
     {
       "chapter": 5,
@@ -355,12 +355,12 @@
     {
       "chapter": 6,
       "verse": 1,
-      "text": "Listen now to what Yahweh says: “Arise, plead your case before the mountains, and let the hills hear what you have to say."
+      "text": "Listen now to what the LORD says: “Arise, plead your case before the mountains, and let the hills hear what you have to say."
     },
     {
       "chapter": 6,
       "verse": 2,
-      "text": "Hear, you mountains, Yahweh’s indictment, and you enduring foundations of the earth; for Yahweh has a case against his people, and he will contend with Israel."
+      "text": "Hear, you mountains, the LORD’s indictment, and you enduring foundations of the earth; for the LORD has a case against his people, and he will contend with Israel."
     },
     {
       "chapter": 6,
@@ -375,27 +375,27 @@
     {
       "chapter": 6,
       "verse": 5,
-      "text": "My people, remember now what Balak king of Moab devised, and what Balaam the son of Beor answered him from Shittim to Gilgal, that you may know the righteous acts of Yahweh.”"
+      "text": "My people, remember now what Balak king of Moab devised, and what Balaam the son of Beor answered him from Shittim to Gilgal, that you may know the righteous acts of the LORD.”"
     },
     {
       "chapter": 6,
       "verse": 6,
-      "text": "How shall I come before Yahweh, and bow myself before the exalted God? Shall I come before him with burnt offerings, with calves a year old?"
+      "text": "How shall I come before the LORD, and bow myself before the exalted God? Shall I come before him with burnt offerings, with calves a year old?"
     },
     {
       "chapter": 6,
       "verse": 7,
-      "text": "Will Yahweh be pleased with thousands of rams? With tens of thousands of rivers of oil? Shall I give my firstborn for my disobedience? The fruit of my body for the sin of my soul?"
+      "text": "Will the LORD be pleased with thousands of rams? With tens of thousands of rivers of oil? Shall I give my firstborn for my disobedience? The fruit of my body for the sin of my soul?"
     },
     {
       "chapter": 6,
       "verse": 8,
-      "text": "He has shown you, O man, what is good. What does Yahweh require of you, but to act justly, to love mercy, and to walk humbly with your God?"
+      "text": "He has shown you, O man, what is good. What does the LORD require of you, but to act justly, to love mercy, and to walk humbly with your God?"
     },
     {
       "chapter": 6,
       "verse": 9,
-      "text": "Yahweh’s voice calls to the city— and wisdom fears your name— “Listen to the rod, and he who appointed it."
+      "text": "The LORD’s voice calls to the city— and wisdom fears your name— “Listen to the rod, and he who appointed it."
     },
     {
       "chapter": 6,
@@ -465,22 +465,22 @@
     {
       "chapter": 7,
       "verse": 7,
-      "text": "But as for me, I will look to Yahweh. I will wait for the God of my salvation. My God will hear me."
+      "text": "But as for me, I will look to the LORD. I will wait for the God of my salvation. My God will hear me."
     },
     {
       "chapter": 7,
       "verse": 8,
-      "text": "Don’t rejoice against me, my enemy. When I fall, I will arise. When I sit in darkness, Yahweh will be a light to me."
+      "text": "Don’t rejoice against me, my enemy. When I fall, I will arise. When I sit in darkness, the LORD will be a light to me."
     },
     {
       "chapter": 7,
       "verse": 9,
-      "text": "I will bear the indignation of Yahweh, because I have sinned against him, until he pleads my case and executes judgment for me. He will bring me out to the light. I will see his righteousness."
+      "text": "I will bear the indignation of the LORD, because I have sinned against him, until he pleads my case and executes judgment for me. He will bring me out to the light. I will see his righteousness."
     },
     {
       "chapter": 7,
       "verse": 10,
-      "text": "Then my enemy will see it, and shame will cover her who said to me, “Where is Yahweh your God?” My eyes will see her. Now she will be trodden down like the mire of the streets."
+      "text": "Then my enemy will see it, and shame will cover her who said to me, “Where is the LORD your God?” My eyes will see her. Now she will be trodden down like the mire of the streets."
     },
     {
       "chapter": 7,
@@ -515,7 +515,7 @@
     {
       "chapter": 7,
       "verse": 17,
-      "text": "They will lick the dust like a serpent. Like crawling things of the earth, they will come trembling out of their dens. They will come with fear to Yahweh our God, and will be afraid because of you."
+      "text": "They will lick the dust like a serpent. Like crawling things of the earth, they will come trembling out of their dens. They will come with fear to the LORD our God, and will be afraid because of you."
     },
     {
       "chapter": 7,

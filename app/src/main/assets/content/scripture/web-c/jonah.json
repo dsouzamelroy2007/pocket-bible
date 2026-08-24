@@ -5,12 +5,12 @@
   "license": "public-domain",
   "source": "eBible.org World English Bible Classic epub (public domain)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. WEB Classic uses the divine name 'Yahweh' (e.g. Psalm 1:2) rather than the 'the LORD' rendering more typical of Catholic liturgical style; flagged here for anyone comparing against a lectionary.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
   "verses": [
     {
       "chapter": 1,
       "verse": 1,
-      "text": "Now Yahweh’s word came to Jonah the son of Amittai, saying,"
+      "text": "Now the LORD’s word came to Jonah the son of Amittai, saying,"
     },
     {
       "chapter": 1,
@@ -20,12 +20,12 @@
     {
       "chapter": 1,
       "verse": 3,
-      "text": "But Jonah rose up to flee to Tarshish from the presence of Yahweh. He went down to Joppa, and found a ship going to Tarshish; so he paid its fare, and went down into it, to go with them to Tarshish from the presence of Yahweh."
+      "text": "But Jonah rose up to flee to Tarshish from the presence of the LORD. He went down to Joppa, and found a ship going to Tarshish; so he paid its fare, and went down into it, to go with them to Tarshish from the presence of the LORD."
     },
     {
       "chapter": 1,
       "verse": 4,
-      "text": "But Yahweh sent out a great wind on the sea, and there was a mighty storm on the sea, so that the ship was likely to break up."
+      "text": "But the LORD sent out a great wind on the sea, and there was a mighty storm on the sea, so that the ship was likely to break up."
     },
     {
       "chapter": 1,
@@ -50,12 +50,12 @@
     {
       "chapter": 1,
       "verse": 9,
-      "text": "He said to them, “I am a Hebrew, and I fear Yahweh, the God of heaven, who has made the sea and the dry land.”"
+      "text": "He said to them, “I am a Hebrew, and I fear the LORD, the God of heaven, who has made the sea and the dry land.”"
     },
     {
       "chapter": 1,
       "verse": 10,
-      "text": "Then the men were exceedingly afraid, and said to him, “What have you done?” For the men knew that he was fleeing from the presence of Yahweh, because he had told them."
+      "text": "Then the men were exceedingly afraid, and said to him, “What have you done?” For the men knew that he was fleeing from the presence of the LORD, because he had told them."
     },
     {
       "chapter": 1,
@@ -75,7 +75,7 @@
     {
       "chapter": 1,
       "verse": 14,
-      "text": "Therefore they cried to Yahweh, and said, “We beg you, Yahweh, we beg you, don’t let us die for this man’s life, and don’t lay on us innocent blood; for you, Yahweh, have done as it pleased you.”"
+      "text": "Therefore they cried to the LORD, and said, “We beg you, the LORD, we beg you, don’t let us die for this man’s life, and don’t lay on us innocent blood; for you, the LORD, have done as it pleased you.”"
     },
     {
       "chapter": 1,
@@ -85,22 +85,22 @@
     {
       "chapter": 1,
       "verse": 16,
-      "text": "Then the men feared Yahweh exceedingly; and they offered a sacrifice to Yahweh and made vows."
+      "text": "Then the men feared the LORD exceedingly; and they offered a sacrifice to the LORD and made vows."
     },
     {
       "chapter": 1,
       "verse": 17,
-      "text": "Yahweh prepared a huge fish to swallow up Jonah, and Jonah was in the belly of the fish three days and three nights."
+      "text": "The LORD prepared a huge fish to swallow up Jonah, and Jonah was in the belly of the fish three days and three nights."
     },
     {
       "chapter": 2,
       "verse": 1,
-      "text": "Then Jonah prayed to Yahweh, his God, out of the fish’s belly."
+      "text": "Then Jonah prayed to the LORD, his God, out of the fish’s belly."
     },
     {
       "chapter": 2,
       "verse": 2,
-      "text": "He said, “I called because of my affliction to Yahweh. He answered me. Out of the belly of Sheol I cried. You heard my voice."
+      "text": "He said, “I called because of my affliction to the LORD. He answered me. Out of the belly of Sheol I cried. You heard my voice."
     },
     {
       "chapter": 2,
@@ -120,12 +120,12 @@
     {
       "chapter": 2,
       "verse": 6,
-      "text": "I went down to the bottoms of the mountains. The earth barred me in forever; yet you have brought my life up from the pit, Yahweh my God."
+      "text": "I went down to the bottoms of the mountains. The earth barred me in forever; yet you have brought my life up from the pit, the LORD my God."
     },
     {
       "chapter": 2,
       "verse": 7,
-      "text": "“When my soul fainted within me, I remembered Yahweh. My prayer came in to you, into your holy temple."
+      "text": "“When my soul fainted within me, I remembered the LORD. My prayer came in to you, into your holy temple."
     },
     {
       "chapter": 2,
@@ -135,17 +135,17 @@
     {
       "chapter": 2,
       "verse": 9,
-      "text": "But I will sacrifice to you with the voice of thanksgiving. I will pay that which I have vowed. Salvation belongs to Yahweh.”"
+      "text": "But I will sacrifice to you with the voice of thanksgiving. I will pay that which I have vowed. Salvation belongs to the LORD.”"
     },
     {
       "chapter": 2,
       "verse": 10,
-      "text": "Then Yahweh spoke to the fish, and it vomited out Jonah on the dry land."
+      "text": "Then the LORD spoke to the fish, and it vomited out Jonah on the dry land."
     },
     {
       "chapter": 3,
       "verse": 1,
-      "text": "Yahweh’s word came to Jonah the second time, saying,"
+      "text": "The LORD’s word came to Jonah the second time, saying,"
     },
     {
       "chapter": 3,
@@ -155,7 +155,7 @@
     {
       "chapter": 3,
       "verse": 3,
-      "text": "So Jonah arose, and went to Nineveh, according to Yahweh’s word. Now Nineveh was an exceedingly great city, three days’ journey across."
+      "text": "So Jonah arose, and went to Nineveh, according to the LORD’s word. Now Nineveh was an exceedingly great city, three days’ journey across."
     },
     {
       "chapter": 3,
@@ -200,17 +200,17 @@
     {
       "chapter": 4,
       "verse": 2,
-      "text": "He prayed to Yahweh, and said, “Please, Yahweh, wasn’t this what I said when I was still in my own country? Therefore I hurried to flee to Tarshish, for I knew that you are a gracious God and merciful, slow to anger, and abundant in loving kindness, and you relent of doing harm."
+      "text": "He prayed to the LORD, and said, “Please, the LORD, wasn’t this what I said when I was still in my own country? Therefore I hurried to flee to Tarshish, for I knew that you are a gracious God and merciful, slow to anger, and abundant in loving kindness, and you relent of doing harm."
     },
     {
       "chapter": 4,
       "verse": 3,
-      "text": "Therefore now, Yahweh, take, I beg you, my life from me, for it is better for me to die than to live.”"
+      "text": "Therefore now, the LORD, take, I beg you, my life from me, for it is better for me to die than to live.”"
     },
     {
       "chapter": 4,
       "verse": 4,
-      "text": "Yahweh said, “Is it right for you to be angry?”"
+      "text": "The LORD said, “Is it right for you to be angry?”"
     },
     {
       "chapter": 4,
@@ -220,7 +220,7 @@
     {
       "chapter": 4,
       "verse": 6,
-      "text": "Yahweh God prepared a vine and made it to come up over Jonah, that it might be a shade over his head to deliver him from his discomfort. So Jonah was exceedingly glad because of the vine."
+      "text": "The LORD God prepared a vine and made it to come up over Jonah, that it might be a shade over his head to deliver him from his discomfort. So Jonah was exceedingly glad because of the vine."
     },
     {
       "chapter": 4,
@@ -240,7 +240,7 @@
     {
       "chapter": 4,
       "verse": 10,
-      "text": "Yahweh said, “You have been concerned for the vine, for which you have not labored, neither made it grow; which came up in a night and perished in a night."
+      "text": "The LORD said, “You have been concerned for the vine, for which you have not labored, neither made it grow; which came up in a night and perished in a night."
     },
     {
       "chapter": 4,
