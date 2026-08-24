@@ -30,7 +30,7 @@
     <string name="read_pick_book_chapter">Wähle ein Buch und ein Kapitel.</string>
     <string name="read_book_not_loaded">%1$s ist hier noch nicht verfügbar.</string>
     <string name="read_back">Zurück</string>
-    <string name="read_back_to_chapters">Zurück zu den Kapiteln</string>
+    <string name="read_jump_to_chapter">Zu Kapitel springen</string>
     <string name="read_previous">Vorheriges</string>
     <string name="read_next">Weiter</string>
 

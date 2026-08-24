@@ -34,7 +34,7 @@
     <string name="read_pick_book_chapter">Pick a book and a chapter.</string>
     <string name="read_book_not_loaded">%1$s isn\'t loaded here yet.</string>
     <string name="read_back">Back</string>
-    <string name="read_back_to_chapters">Back to chapters</string>
+    <string name="read_jump_to_chapter">Jump to chapter</string>
     <string name="read_previous">Previous</string>
     <string name="read_next">Next</string>
 

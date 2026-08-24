@@ -21,6 +21,7 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import app.pocketbible.R
@@ -32,13 +33,13 @@ import androidx.navigation.compose.rememberNavController
 import androidx.compose.runtime.collectAsState
 import app.pocketbible.ui.MainViewModel
 import app.pocketbible.ui.bible.BibleBookListScreen
-import app.pocketbible.ui.bible.BibleChapterListScreen
 import app.pocketbible.ui.bible.BibleReaderScreen
 import app.pocketbible.ui.bible.localizedBookName
 import app.pocketbible.ui.home.HomeScreen
 import app.pocketbible.ui.saved.SavedScreen
 import app.pocketbible.ui.theme.PocketBibleTheme
 import app.pocketbible.ui.verse.VerseScreen
+import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -82,7 +83,7 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
     val navController = rememberNavController()
     val backStack by navController.currentBackStackEntryAsState()
     val currentRoute = backStack?.destination?.route
-    val bibleRoutes = setOf("bible", "bible_chapters", "bible_reader")
+    val bibleRoutes = setOf("bible", "bible_reader")
 
     Scaffold(
         bottomBar = {
@@ -166,30 +167,20 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
             composable("bible") {
                 val books by viewModel.readableBooks.collectAsState()
                 val allBooks by viewModel.allBooks.collectAsState()
+                val scope = rememberCoroutineScope()
                 BibleBookListScreen(
                     books = books,
                     allBooks = allBooks,
-                    onBookSelected = {
-                        viewModel.selectBook(it)
-                        navController.navigate("bible_chapters")
+                    onBookSelected = { book ->
+                        scope.launch {
+                            viewModel.openBook(book)
+                            navController.navigate("bible_reader")
+                        }
                     },
                     onLoadChapters = { book -> viewModel.chaptersAvailable(book) },
                     onLoadVerses = { book, chapter -> viewModel.versesAvailable(book, chapter) },
                     onGoToReference = { book, chapter, verse -> viewModel.goToReference(book, chapter, verse) },
                     onReferenceFound = { navController.navigate("bible_reader") }
-                )
-            }
-            composable("bible_chapters") {
-                val book by viewModel.selectedBook.collectAsState()
-                val chapters by viewModel.chapters.collectAsState()
-                BibleChapterListScreen(
-                    bookName = book?.let { localizedBookName(it) } ?: "",
-                    chapters = chapters,
-                    onBack = { navController.popBackStack() },
-                    onChapterSelected = {
-                        viewModel.openChapter(it)
-                        navController.navigate("bible_reader")
-                    }
                 )
             }
             composable("bible_reader") {
@@ -202,11 +193,13 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                 BibleReaderScreen(
                     bookName = book?.let { localizedBookName(it) } ?: "",
                     chapter = chapter,
+                    chapters = chapters,
                     verses = verses,
                     highlightVerse = highlightVerse,
                     hasPrevious = index > 0,
                     hasNext = index in 0 until chapters.lastIndex,
                     onBack = { navController.popBackStack() },
+                    onChapterSelected = { viewModel.openChapter(it) },
                     onPrevious = { viewModel.previousChapter() },
                     onNext = { viewModel.nextChapter() }
                 )

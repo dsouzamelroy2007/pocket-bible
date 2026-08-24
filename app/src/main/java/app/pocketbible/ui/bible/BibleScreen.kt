@@ -11,17 +11,17 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.grid.GridCells
-import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
-import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
+import androidx.compose.material.icons.filled.ArrowDropDown
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
+import androidx.compose.material3.DropdownMenu
 import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.ExposedDropdownMenuBox
@@ -31,7 +31,6 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
-import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextField
 import androidx.compose.runtime.Composable
@@ -46,7 +45,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import kotlinx.coroutines.launch
 import app.pocketbible.R
@@ -66,48 +64,57 @@ fun BibleBookListScreen(
 ) {
     val readableBookIds = remember(books) { books.map { it.id }.toSet() }
 
-    Column(modifier.padding(horizontal = 20.dp)) {
-        Spacer(Modifier.height(16.dp))
-        Text(stringResource(R.string.read_title), style = MaterialTheme.typography.headlineSmall, fontWeight = FontWeight.Medium)
-        Spacer(Modifier.height(4.dp))
-        Text(
-            stringResource(R.string.read_subtitle),
-            style = MaterialTheme.typography.bodyMedium,
-            color = MaterialTheme.colorScheme.secondary
-        )
-        Spacer(Modifier.height(14.dp))
-
-        GoToReferenceCard(
-            allBooks = allBooks,
-            readableBookIds = readableBookIds,
-            onLoadChapters = onLoadChapters,
-            onLoadVerses = onLoadVerses,
-            onSubmit = onGoToReference,
-            onFound = onReferenceFound
-        )
-
-        Spacer(Modifier.height(20.dp))
-
-        if (books.isEmpty()) {
+    LazyColumn(modifier.padding(horizontal = 20.dp)) {
+        item {
+            Spacer(Modifier.height(16.dp))
+            Text(stringResource(R.string.read_title), style = MaterialTheme.typography.headlineSmall, fontWeight = FontWeight.Medium)
+            Spacer(Modifier.height(4.dp))
             Text(
-                stringResource(R.string.read_empty_browse),
-                style = MaterialTheme.typography.bodySmall,
+                stringResource(R.string.read_subtitle),
+                style = MaterialTheme.typography.bodyMedium,
                 color = MaterialTheme.colorScheme.secondary
             )
-        } else {
-            Text(stringResource(R.string.read_browse), style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Medium)
-            Spacer(Modifier.height(8.dp))
-            books.forEach { book ->
-                Row(
-                    Modifier
-                        .fillMaxWidth()
-                        .clickable { onBookSelected(book) }
-                        .padding(vertical = 12.dp)
-                ) {
-                    Text(localizedBookName(book), style = MaterialTheme.typography.bodyLarge)
-                }
-                HorizontalDivider()
+            Spacer(Modifier.height(14.dp))
+
+            GoToReferenceCard(
+                allBooks = allBooks,
+                readableBookIds = readableBookIds,
+                onLoadChapters = onLoadChapters,
+                onLoadVerses = onLoadVerses,
+                onSubmit = onGoToReference,
+                onFound = onReferenceFound
+            )
+
+            Spacer(Modifier.height(20.dp))
+        }
+
+        if (books.isEmpty()) {
+            item {
+                Text(
+                    stringResource(R.string.read_empty_browse),
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.secondary
+                )
             }
+        } else {
+            item {
+                Text(stringResource(R.string.read_browse), style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Medium)
+                Spacer(Modifier.height(8.dp))
+            }
+            items(books, key = { it.id }) { book ->
+                Column {
+                    Row(
+                        Modifier
+                            .fillMaxWidth()
+                            .clickable { onBookSelected(book) }
+                            .padding(vertical = 12.dp)
+                    ) {
+                        Text(localizedBookName(book), style = MaterialTheme.typography.bodyLarge)
+                    }
+                    HorizontalDivider()
+                }
+            }
+            item { Spacer(Modifier.height(20.dp)) }
         }
     }
 }
@@ -299,53 +306,24 @@ private fun GoToReferenceCard(
     }
 }
 
-@Composable
-fun BibleChapterListScreen(
-    bookName: String,
-    chapters: List<Int>,
-    onBack: () -> Unit,
-    onChapterSelected: (Int) -> Unit,
-    modifier: Modifier = Modifier
-) {
-    Column(modifier.padding(horizontal = 20.dp)) {
-        Spacer(Modifier.height(16.dp))
-        Row(verticalAlignment = Alignment.CenterVertically) {
-            IconButton(onClick = onBack) {
-                Icon(Icons.Filled.ArrowBack, contentDescription = stringResource(R.string.read_back))
-            }
-            Text(bookName, style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Medium)
-        }
-        Spacer(Modifier.height(12.dp))
-        LazyVerticalGrid(
-            columns = GridCells.Fixed(5),
-            horizontalArrangement = Arrangement.spacedBy(8.dp),
-            verticalArrangement = Arrangement.spacedBy(8.dp)
-        ) {
-            items(chapters) { chapter ->
-                Card(onClick = { onChapterSelected(chapter) }) {
-                    Box(Modifier.fillMaxWidth().padding(vertical = 14.dp), contentAlignment = Alignment.Center) {
-                        Text(chapter.toString(), style = MaterialTheme.typography.titleMedium)
-                    }
-                }
-            }
-        }
-    }
-}
-
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun BibleReaderScreen(
     bookName: String,
     chapter: Int?,
+    chapters: List<Int>,
     verses: List<ScriptureVerse>,
     highlightVerse: Int?,
     hasPrevious: Boolean,
     hasNext: Boolean,
     onBack: () -> Unit,
+    onChapterSelected: (Int) -> Unit,
     onPrevious: () -> Unit,
     onNext: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     val listState = rememberLazyListState()
+    var chapterMenuExpanded by remember { mutableStateOf(false) }
 
     LaunchedEffect(highlightVerse, verses) {
         if (highlightVerse != null) {
@@ -360,13 +338,42 @@ fun BibleReaderScreen(
             verticalAlignment = Alignment.CenterVertically
         ) {
             IconButton(onClick = onBack) {
-                Icon(Icons.Filled.ArrowBack, contentDescription = stringResource(R.string.read_back_to_chapters))
+                Icon(Icons.Filled.ArrowBack, contentDescription = stringResource(R.string.read_back))
             }
-            Text(
-                "$bookName ${chapter ?: ""}",
-                style = MaterialTheme.typography.titleLarge,
-                fontWeight = FontWeight.Medium
-            )
+            Text(bookName, style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Medium)
+            Spacer(Modifier.width(6.dp))
+            Box {
+                Row(
+                    Modifier
+                        .clickable(enabled = chapters.isNotEmpty()) { chapterMenuExpanded = true }
+                        .padding(vertical = 4.dp, horizontal = 6.dp),
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Text(
+                        "${chapter ?: ""}",
+                        style = MaterialTheme.typography.titleLarge,
+                        color = MaterialTheme.colorScheme.primary
+                    )
+                    if (chapters.isNotEmpty()) {
+                        Icon(
+                            Icons.Filled.ArrowDropDown,
+                            contentDescription = stringResource(R.string.read_jump_to_chapter),
+                            tint = MaterialTheme.colorScheme.primary
+                        )
+                    }
+                }
+                DropdownMenu(expanded = chapterMenuExpanded, onDismissRequest = { chapterMenuExpanded = false }) {
+                    chapters.forEach { c ->
+                        DropdownMenuItem(
+                            text = { Text(c.toString()) },
+                            onClick = {
+                                chapterMenuExpanded = false
+                                onChapterSelected(c)
+                            }
+                        )
+                    }
+                }
+            }
         }
         LazyColumn(
             state = listState,

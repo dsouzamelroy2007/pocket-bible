@@ -30,7 +30,7 @@
     <string name="read_pick_book_chapter">एक पुस्तक और अध्याय चुनें।</string>
     <string name="read_book_not_loaded">%1$s अभी यहां उपलब्ध नहीं है।</string>
     <string name="read_back">वापस</string>
-    <string name="read_back_to_chapters">अध्यायों पर वापस जाएं</string>
+    <string name="read_jump_to_chapter">किसी अध्याय पर जाएं</string>
     <string name="read_previous">पिछला</string>
     <string name="read_next">अगला</string>
 

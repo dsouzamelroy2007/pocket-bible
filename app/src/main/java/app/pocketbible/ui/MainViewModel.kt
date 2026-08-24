@@ -132,6 +132,18 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         viewModelScope.launch { _chapters.value = repo.chaptersForBook(book.id, currentTranslationId()) }
     }
 
+    /** Selects [book] and opens its first available chapter in one step, for tapping a book in the browse list. */
+    suspend fun openBook(book: Book) {
+        val translationId = currentTranslationId()
+        val chapters = repo.chaptersForBook(book.id, translationId)
+        _selectedBook.value = book
+        _chapters.value = chapters
+        val chapter = chapters.firstOrNull() ?: return
+        _currentChapter.value = chapter
+        _scrollToVerse.value = null
+        _chapterVerses.value = repo.versesForChapter(book.id, chapter, translationId)
+    }
+
     /** Chapters actually loaded for [book] in the current reading language — drives the "go to reference" picker's chapter list. */
     suspend fun chaptersAvailable(book: Book): List<Int> = repo.chaptersForBook(book.id, currentTranslationId())
 
