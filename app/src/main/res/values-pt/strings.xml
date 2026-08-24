@@ -31,6 +31,7 @@
     <string name="read_book_not_loaded">%1$s ainda não está disponível aqui.</string>
     <string name="read_back">Voltar</string>
     <string name="read_jump_to_chapter">Ir para um capítulo</string>
+    <string name="read_chapter_out_of_range">Informe um capítulo entre 1 e %1$d.</string>
     <string name="read_previous">Anterior</string>
     <string name="read_next">Próximo</string>
 

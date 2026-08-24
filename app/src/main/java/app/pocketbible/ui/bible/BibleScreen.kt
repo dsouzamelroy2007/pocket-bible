@@ -3,7 +3,6 @@ package app.pocketbible.ui.bible
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
-import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -16,12 +15,13 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.text.KeyboardActions
+import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
-import androidx.compose.material.icons.filled.ArrowDropDown
+import androidx.compose.material.icons.filled.ArrowForward
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
-import androidx.compose.material3.DropdownMenu
 import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.ExposedDropdownMenuBox
@@ -31,6 +31,7 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
+import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextField
 import androidx.compose.runtime.Composable
@@ -43,8 +44,11 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.LocalSoftwareKeyboardController
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.input.ImeAction
+import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 import kotlinx.coroutines.launch
 import app.pocketbible.R
@@ -323,7 +327,7 @@ fun BibleReaderScreen(
     modifier: Modifier = Modifier
 ) {
     val listState = rememberLazyListState()
-    var chapterMenuExpanded by remember { mutableStateOf(false) }
+    val keyboardController = LocalSoftwareKeyboardController.current
 
     LaunchedEffect(highlightVerse, verses) {
         if (highlightVerse != null) {
@@ -340,38 +344,58 @@ fun BibleReaderScreen(
             IconButton(onClick = onBack) {
                 Icon(Icons.Filled.ArrowBack, contentDescription = stringResource(R.string.read_back))
             }
-            Text(bookName, style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Medium)
-            Spacer(Modifier.width(6.dp))
-            Box {
-                Row(
-                    Modifier
-                        .clickable(enabled = chapters.isNotEmpty()) { chapterMenuExpanded = true }
-                        .padding(vertical = 4.dp, horizontal = 6.dp),
-                    verticalAlignment = Alignment.CenterVertically
-                ) {
-                    Text(
-                        "${chapter ?: ""}",
-                        style = MaterialTheme.typography.titleLarge,
-                        color = MaterialTheme.colorScheme.primary
-                    )
-                    if (chapters.isNotEmpty()) {
-                        Icon(
-                            Icons.Filled.ArrowDropDown,
-                            contentDescription = stringResource(R.string.read_jump_to_chapter),
-                            tint = MaterialTheme.colorScheme.primary
-                        )
-                    }
+            Text(
+                "$bookName ${chapter ?: ""}",
+                style = MaterialTheme.typography.titleLarge,
+                fontWeight = FontWeight.Medium
+            )
+        }
+
+        if (chapters.isNotEmpty()) {
+            val maxChapter = remember(chapters) { chapters.max() }
+            var chapterInput by remember(chapter) { mutableStateOf("") }
+            var chapterError by remember(chapter) { mutableStateOf(false) }
+
+            fun submitChapter() {
+                val requested = chapterInput.toIntOrNull()
+                if (requested != null && requested in chapters) {
+                    chapterError = false
+                    keyboardController?.hide()
+                    onChapterSelected(requested)
+                } else {
+                    chapterError = true
                 }
-                DropdownMenu(expanded = chapterMenuExpanded, onDismissRequest = { chapterMenuExpanded = false }) {
-                    chapters.forEach { c ->
-                        DropdownMenuItem(
-                            text = { Text(c.toString()) },
-                            onClick = {
-                                chapterMenuExpanded = false
-                                onChapterSelected(c)
-                            }
-                        )
-                    }
+            }
+
+            Row(
+                Modifier.padding(horizontal = 20.dp).padding(top = 8.dp),
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                OutlinedTextField(
+                    value = chapterInput,
+                    onValueChange = {
+                        chapterInput = it.filter(Char::isDigit)
+                        chapterError = false
+                    },
+                    label = { Text(stringResource(R.string.read_jump_to_chapter)) },
+                    placeholder = { Text("1-$maxChapter") },
+                    singleLine = true,
+                    isError = chapterError,
+                    keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Number, imeAction = ImeAction.Go),
+                    keyboardActions = KeyboardActions(onGo = { submitChapter() }),
+                    modifier = Modifier.width(140.dp)
+                )
+                Spacer(Modifier.width(8.dp))
+                IconButton(onClick = { submitChapter() }) {
+                    Icon(Icons.Filled.ArrowForward, contentDescription = stringResource(R.string.read_go))
+                }
+                if (chapterError) {
+                    Spacer(Modifier.width(8.dp))
+                    Text(
+                        stringResource(R.string.read_chapter_out_of_range, maxChapter),
+                        style = MaterialTheme.typography.bodySmall,
+                        color = MaterialTheme.colorScheme.error
+                    )
                 }
             }
         }

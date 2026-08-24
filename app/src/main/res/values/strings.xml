@@ -35,6 +35,7 @@
     <string name="read_book_not_loaded">%1$s isn\'t loaded here yet.</string>
     <string name="read_back">Back</string>
     <string name="read_jump_to_chapter">Jump to chapter</string>
+    <string name="read_chapter_out_of_range">Enter a chapter between 1 and %1$d.</string>
     <string name="read_previous">Previous</string>
     <string name="read_next">Next</string>
 

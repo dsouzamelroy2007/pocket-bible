@@ -31,6 +31,7 @@
     <string name="read_book_not_loaded">%1$s अभी यहां उपलब्ध नहीं है।</string>
     <string name="read_back">वापस</string>
     <string name="read_jump_to_chapter">किसी अध्याय पर जाएं</string>
+    <string name="read_chapter_out_of_range">1 और %1$d के बीच का अध्याय दर्ज करें।</string>
     <string name="read_previous">पिछला</string>
     <string name="read_next">अगला</string>
 
