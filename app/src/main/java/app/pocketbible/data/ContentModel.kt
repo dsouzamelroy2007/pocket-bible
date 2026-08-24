@@ -165,6 +165,58 @@ data class ScriptureVerse(
     val text: String
 )
 
+/**
+ * A notable figure from the 73-book canon, browsable in the Characters tab.
+ * `intro` is original devotional-style prose (like `Entry.reflection`), not
+ * scripture text. `requiresDeuterocanon` marks a character whose entire
+ * story lives in a deuterocanonical book (e.g. Tobit, Judith) -- hidden
+ * automatically for a translation that doesn't include those books, rather
+ * than showing a character with no available verses.
+ */
+@Entity(tableName = "character")
+data class BibleCharacter(
+    @PrimaryKey val id: String,
+    val name: String,
+    val intro: String,
+    val category: String,
+    @ColumnInfo(name = "sort_order") val sortOrder: Int,
+    @ColumnInfo(name = "requires_deuterocanon") val requiresDeuterocanon: Boolean
+)
+
+/** Translated name/intro for one character, in one UI language. Same fallback-to-English pattern as [FeelingTranslation]. */
+@Entity(
+    tableName = "character_translation",
+    primaryKeys = ["character_id", "language"]
+)
+data class CharacterTranslation(
+    @ColumnInfo(name = "character_id") val characterId: String,
+    val language: String,
+    val name: String,
+    val intro: String
+)
+
+/**
+ * A citation of real, already-imported scripture text about a character --
+ * book/chapter/verse range plus a short caption, not the verse text itself.
+ * The verse text is looked up live from `scripture_verse` for whichever
+ * translation is current, the same way the Read tab does, so it's always
+ * real text (or gracefully missing) rather than something typed here.
+ */
+@Entity(
+    tableName = "character_verse_ref",
+    indices = [Index("character_id")]
+)
+data class CharacterVerseRef(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    @ColumnInfo(name = "character_id") val characterId: String,
+    @ColumnInfo(name = "book_id") val bookId: String,
+    val chapter: Int,
+    @ColumnInfo(name = "verse_start") val verseStart: Int,
+    @ColumnInfo(name = "verse_end") val verseEnd: Int,
+    val caption: String,
+    val position: Int
+)
+
 // ---------- Local user state (not shipped, created empty) ----------
 
 @Entity(tableName = "saved_entry")
@@ -199,6 +251,14 @@ data class PassageWithRole(
     @Embedded val passage: Passage,
     val role: String,
     val position: Int
+)
+
+data class CharacterSummary(
+    val id: String,
+    val name: String,
+    val intro: String,
+    val category: String,
+    @ColumnInfo(name = "sort_order") val sortOrder: Int
 )
 
 // ---------- DAOs ----------
@@ -334,6 +394,9 @@ interface ContentDao {
     @Query("SELECT id FROM translation WHERE language = :language LIMIT 1")
     suspend fun translationForLanguage(language: String): String?
 
+    @Query("SELECT includes_deuterocanon FROM translation WHERE id = :translationId")
+    suspend fun translationIncludesDeuterocanon(translationId: String): Boolean
+
     /** Only books with text loaded *for this translation* show up in the reading tab. */
     @Query(
         """
@@ -353,6 +416,28 @@ interface ContentDao {
         "SELECT * FROM scripture_verse WHERE book_id = :bookId AND chapter = :chapter AND translation_id = :translationId ORDER BY verse"
     )
     suspend fun versesForChapter(bookId: String, chapter: Int, translationId: String): List<ScriptureVerse>
+
+    // ---------- Characters ----------
+
+    /**
+     * [language] selects translated name/intro the same way [feelings] does.
+     * [includeDeuterocanon] hides any character whose story lives only in a
+     * deuterocanonical book, for a translation that doesn't have those books.
+     */
+    @Query(
+        """
+        SELECT c.id, COALESCE(t.name, c.name) AS name, COALESCE(t.intro, c.intro) AS intro,
+               c.category, c.sort_order
+        FROM character c
+        LEFT JOIN character_translation t ON t.character_id = c.id AND t.language = :language
+        WHERE (:includeDeuterocanon OR c.requires_deuterocanon = 0)
+        ORDER BY c.sort_order
+        """
+    )
+    fun characters(language: String, includeDeuterocanon: Boolean): Flow<List<CharacterSummary>>
+
+    @Query("SELECT * FROM character_verse_ref WHERE character_id = :characterId ORDER BY position")
+    suspend fun verseRefsForCharacter(characterId: String): List<CharacterVerseRef>
 }
 
 /** Bulk inserts used once, on first launch, to hydrate the bundled content. */
@@ -390,6 +475,15 @@ interface SeedDao {
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertScriptureVerses(items: List<ScriptureVerse>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertCharacters(items: List<BibleCharacter>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertCharacterTranslations(items: List<CharacterTranslation>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertCharacterVerseRefs(items: List<CharacterVerseRef>)
 }
 
 @Database(
@@ -397,9 +491,10 @@ interface SeedDao {
         Translation::class, Book::class, Passage::class, Feeling::class,
         FeelingAlias::class, FeelingTranslation::class, Entry::class, EntryTranslation::class,
         EntryPassage::class, DailyPassage::class,
-        SavedEntry::class, ViewHistory::class, ScriptureVerse::class
+        SavedEntry::class, ViewHistory::class, ScriptureVerse::class,
+        BibleCharacter::class, CharacterTranslation::class, CharacterVerseRef::class
     ],
-    version = 3,
+    version = 4,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {

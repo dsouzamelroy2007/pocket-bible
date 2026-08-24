@@ -8,12 +8,12 @@ import androidx.appcompat.app.AppCompatDelegate
 import androidx.compose.foundation.layout.padding
 import androidx.core.os.LocaleListCompat
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.MenuBook
-import androidx.compose.material.icons.outlined.BookmarkBorder
+import androidx.compose.material.icons.filled.People
 import androidx.compose.material.icons.outlined.FavoriteBorder
 import androidx.compose.material.icons.outlined.MenuBook
+import androidx.compose.material.icons.outlined.People
 import androidx.compose.material3.Icon
 import androidx.compose.material3.NavigationBar
 import androidx.compose.material3.NavigationBarItem
@@ -35,6 +35,8 @@ import app.pocketbible.ui.MainViewModel
 import app.pocketbible.ui.bible.BibleBookListScreen
 import app.pocketbible.ui.bible.BibleReaderScreen
 import app.pocketbible.ui.bible.localizedBookName
+import app.pocketbible.ui.characters.CharacterDetailScreen
+import app.pocketbible.ui.characters.CharactersScreen
 import app.pocketbible.ui.home.HomeScreen
 import app.pocketbible.ui.saved.SavedScreen
 import app.pocketbible.ui.theme.PocketBibleTheme
@@ -84,6 +86,7 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
     val backStack by navController.currentBackStackEntryAsState()
     val currentRoute = backStack?.destination?.route
     val bibleRoutes = setOf("bible", "bible_reader")
+    val characterRoutes = setOf("characters", "character_detail")
 
     Scaffold(
         bottomBar = {
@@ -111,15 +114,15 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     label = { Text(stringResource(R.string.nav_read)) }
                 )
                 NavigationBarItem(
-                    selected = currentRoute == "saved",
-                    onClick = { navController.navigate("saved") { launchSingleTop = true } },
+                    selected = currentRoute in characterRoutes,
+                    onClick = { navController.navigate("characters") { launchSingleTop = true } },
                     icon = {
                         Icon(
-                            if (currentRoute == "saved") Icons.Filled.Bookmark else Icons.Outlined.BookmarkBorder,
+                            if (currentRoute in characterRoutes) Icons.Filled.People else Icons.Outlined.People,
                             contentDescription = null
                         )
                     },
-                    label = { Text(stringResource(R.string.nav_saved)) }
+                    label = { Text(stringResource(R.string.nav_characters)) }
                 )
             }
         }
@@ -144,7 +147,8 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                         viewModel.selectFeeling(it)
                         navController.navigate("verse")
                     },
-                    onLanguageSelected = onLanguageSelected
+                    onLanguageSelected = onLanguageSelected,
+                    onSavedClicked = { navController.navigate("saved") }
                 )
             }
             composable("verse") {
@@ -163,6 +167,25 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
             composable("saved") {
                 val saved by viewModel.saved.collectAsState()
                 SavedScreen(saved = saved)
+            }
+            composable("characters") {
+                val characters by viewModel.characters.collectAsState()
+                CharactersScreen(
+                    characters = characters,
+                    onCharacterSelected = {
+                        viewModel.selectCharacter(it)
+                        navController.navigate("character_detail")
+                    }
+                )
+            }
+            composable("character_detail") {
+                val character by viewModel.selectedCharacter.collectAsState()
+                val verses by viewModel.characterVerses.collectAsState()
+                CharacterDetailScreen(
+                    character = character,
+                    verses = verses,
+                    onBack = { navController.popBackStack() }
+                )
             }
             composable("bible") {
                 val books by viewModel.readableBooks.collectAsState()

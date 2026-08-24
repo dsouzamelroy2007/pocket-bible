@@ -95,3 +95,10 @@ fun localizedBookName(book: Book): String {
     val resId = BOOK_NAME_RES[book.id]
     return if (resId != null) stringResource(resId) else book.displayName
 }
+
+/** Same lookup as [localizedBookName], for callers that only have a book id (e.g. a verse citation), not a loaded [Book]. */
+@Composable
+fun localizedBookNameById(bookId: String): String {
+    val resId = BOOK_NAME_RES[bookId]
+    return if (resId != null) stringResource(resId) else bookId
+}

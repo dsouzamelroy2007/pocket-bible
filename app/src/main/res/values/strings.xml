@@ -5,6 +5,7 @@
     <string name="nav_topics">Topics</string>
     <string name="nav_read">Read</string>
     <string name="nav_saved">Saved</string>
+    <string name="nav_characters">Characters</string>
 
     <!-- Language switcher -->
     <string name="language_button">Language</string>
@@ -41,6 +42,25 @@
     <!-- Saved tab -->
     <string name="saved_title">Saved</string>
     <string name="saved_empty">Verses you save appear here, and stay available offline.</string>
+
+    <!-- Characters tab -->
+    <string name="character_title">Characters</string>
+    <string name="character_subtitle">Get to know the people of the Bible, and the verses that tell their story.</string>
+    <string name="character_search_placeholder">Search by name</string>
+    <string name="character_no_matches">No characters match that search.</string>
+    <string name="character_famous_verses">Verses about them</string>
+    <string name="character_verse_unavailable">Not available in this language yet.</string>
+    <string name="character_category_central">The Central Figure</string>
+    <string name="character_category_holy_family">Holy Family &amp; Forerunners</string>
+    <string name="character_category_apostles">The Twelve Apostles</string>
+    <string name="character_category_early_church">Early Church</string>
+    <string name="character_category_women_and_others">Women &amp; Others Around Jesus</string>
+    <string name="character_category_opposed_jesus">Those Who Opposed Jesus</string>
+    <string name="character_category_patriarchs">Patriarchs &amp; Early Genesis</string>
+    <string name="character_category_exodus_judges">Exodus Through Judges</string>
+    <string name="character_category_kingdom">Kingdom Era</string>
+    <string name="character_category_prophets">Prophets</string>
+    <string name="character_category_post_exile">Post-Exile &amp; Deuterocanon</string>
 
     <!-- Verse / topic detail -->
     <string name="verse_no_entries">No entries yet for %1$s.</string>

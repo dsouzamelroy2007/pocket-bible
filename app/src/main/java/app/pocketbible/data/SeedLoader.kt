@@ -19,6 +19,11 @@ import org.json.JSONObject
  *                         just falls back to English, so a language can ship
  *                         partial and grow over time
  *   - scripture/<translation_id>/<book_id>.json   one file per book per translation
+ *   - characters.json     Characters tab: name/intro/category per figure, plus verse_refs
+ *                         (book/chapter/verse citations only -- the verse text itself is
+ *                         looked up live from scripture_verse at render time, same as the
+ *                         Read tab, never duplicated here)
+ *   - character_translation entries, same fallback-to-English pattern as topics
  *
  * Adding a book or a new translation/language is meant to be a matter of
  * dropping a new scripture/<translation_id>/<book_id>.json file (see
@@ -190,6 +195,58 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
             }
         }
         seedDao.insertScriptureVerses(scriptureVerses)
+
+        manifest.optString("characters", "").takeIf { it.isNotEmpty() }?.let { path ->
+            val characters = readJson(path)
+            seedDao.insertCharacters(characters.getJSONArray("characters").mapObjects { o ->
+                BibleCharacter(
+                    id = o.getString("id"),
+                    name = o.getString("name"),
+                    intro = o.getString("intro"),
+                    category = o.getString("category"),
+                    sortOrder = o.optInt("sort_order", 0),
+                    requiresDeuterocanon = o.optBoolean("requires_deuterocanon", false)
+                )
+            })
+
+            val verseRefs = mutableListOf<CharacterVerseRef>()
+            val characterArray = characters.getJSONArray("characters")
+            for (i in 0 until characterArray.length()) {
+                val o = characterArray.getJSONObject(i)
+                val characterId = o.getString("id")
+                val refs = o.optJSONArray("verse_refs") ?: JSONArray()
+                for (j in 0 until refs.length()) {
+                    val r = refs.getJSONObject(j)
+                    verseRefs += CharacterVerseRef(
+                        characterId = characterId,
+                        bookId = r.getString("book_id"),
+                        chapter = r.getInt("chapter"),
+                        verseStart = r.getInt("verse_start"),
+                        verseEnd = r.optInt("verse_end", r.getInt("verse_start")),
+                        caption = r.getString("caption"),
+                        position = j
+                    )
+                }
+            }
+            seedDao.insertCharacterVerseRefs(verseRefs)
+
+            val characterTranslations = mutableListOf<CharacterTranslation>()
+            val translationFiles = manifest.optJSONArray("character_translations") ?: JSONArray()
+            for (i in 0 until translationFiles.length()) {
+                val ref = translationFiles.getJSONObject(i)
+                val file = readJson(ref.getString("path"))
+                val language = file.getString("language")
+                file.optJSONArray("character_translations")?.mapObjects { o ->
+                    CharacterTranslation(
+                        characterId = o.getString("character_id"),
+                        language = language,
+                        name = o.getString("name"),
+                        intro = o.getString("intro")
+                    )
+                }?.let { characterTranslations += it }
+            }
+            seedDao.insertCharacterTranslations(characterTranslations)
+        }
 
         prefs.edit().putInt("content_version", version).apply()
     }

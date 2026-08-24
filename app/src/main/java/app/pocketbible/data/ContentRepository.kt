@@ -43,4 +43,16 @@ class ContentRepository(private val dao: ContentDao) {
 
     suspend fun verseOfDay(monthDay: String): Passage? =
         dao.passageOfDay(monthDay)?.let { dao.passage(it) }
+
+    // ---------- Characters ----------
+
+    fun characters(language: String, includeDeuterocanon: Boolean): Flow<List<CharacterSummary>> =
+        dao.characters(language, includeDeuterocanon)
+
+    suspend fun verseRefsForCharacter(characterId: String): List<CharacterVerseRef> =
+        dao.verseRefsForCharacter(characterId)
+
+    /** Whether the translation currently shown for [language] includes the deuterocanonical books. */
+    suspend fun translationIncludesDeuterocanon(language: String): Boolean =
+        dao.translationIncludesDeuterocanon(translationForLanguage(language))
 }

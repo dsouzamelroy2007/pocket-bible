@@ -5,6 +5,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
 import app.pocketbible.data.Book
+import app.pocketbible.data.CharacterSummary
 import app.pocketbible.data.ContentRepository
 import app.pocketbible.data.EntrySummary
 import app.pocketbible.data.Feeling
@@ -18,6 +19,22 @@ import kotlinx.coroutines.launch
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
 import java.util.Locale
+
+/**
+ * A character's citation paired with the real verse text, resolved for the
+ * current translation. [verses] is empty if that translation doesn't have
+ * this chapter loaded yet -- the book id/chapter/verse range are kept
+ * (rather than a pre-formatted reference string) so the UI can render the
+ * book name localized, the same way the Read tab does.
+ */
+data class CharacterVerseDisplay(
+    val caption: String,
+    val bookId: String,
+    val chapter: Int,
+    val verseStart: Int,
+    val verseEnd: Int,
+    val verses: List<ScriptureVerse>
+)
 
 class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
@@ -67,6 +84,17 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     private val _searchResults = MutableStateFlow<List<Feeling>>(emptyList())
     val searchResults: StateFlow<List<Feeling>> = _searchResults.asStateFlow()
 
+    // ---------- Characters ----------
+
+    private val _characters = MutableStateFlow<List<CharacterSummary>>(emptyList())
+    val characters: StateFlow<List<CharacterSummary>> = _characters.asStateFlow()
+
+    private val _selectedCharacter = MutableStateFlow<CharacterSummary?>(null)
+    val selectedCharacter: StateFlow<CharacterSummary?> = _selectedCharacter.asStateFlow()
+
+    private val _characterVerses = MutableStateFlow<List<CharacterVerseDisplay>>(emptyList())
+    val characterVerses: StateFlow<List<CharacterVerseDisplay>> = _characterVerses.asStateFlow()
+
     // ---------- Verse of the day ----------
 
     private val _verseOfDay = MutableStateFlow<Passage?>(null)
@@ -101,6 +129,10 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         viewModelScope.launch { repo.savedEntries(language).collect { _saved.value = it } }
         viewModelScope.launch {
             repo.readableBooks(currentTranslationId()).collect { _readableBooks.value = it }
+        }
+        viewModelScope.launch {
+            val includeDeuterocanon = repo.translationIncludesDeuterocanon(language)
+            repo.characters(language, includeDeuterocanon).collect { _characters.value = it }
         }
         _selectedFeeling.value?.let { feeling ->
             viewModelScope.launch { _feelingEntries.value = repo.entriesForFeeling(feeling.id, language) }
@@ -220,6 +252,28 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         viewModelScope.launch {
             repo.toggleSave(entry.entry.id, entry.isSaved)
             _feelingEntries.value = repo.entriesForFeeling(entry.entry.feelingId, currentLanguage())
+        }
+    }
+
+    /** Loads [character]'s verse citations and resolves the real text for each from the current translation. */
+    fun selectCharacter(character: CharacterSummary) {
+        _selectedCharacter.value = character
+        _characterVerses.value = emptyList()
+        viewModelScope.launch {
+            val translationId = currentTranslationId()
+            val refs = repo.verseRefsForCharacter(character.id)
+            _characterVerses.value = refs.map { ref ->
+                val chapterVerses = repo.versesForChapter(ref.bookId, ref.chapter, translationId)
+                val verses = chapterVerses.filter { it.verse in ref.verseStart..ref.verseEnd }
+                CharacterVerseDisplay(
+                    caption = ref.caption,
+                    bookId = ref.bookId,
+                    chapter = ref.chapter,
+                    verseStart = ref.verseStart,
+                    verseEnd = ref.verseEnd,
+                    verses = verses
+                )
+            }
         }
     }
 

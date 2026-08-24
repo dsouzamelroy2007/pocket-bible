@@ -12,6 +12,7 @@ import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
 import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.foundation.layout.Box
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Language
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.Card
@@ -64,6 +65,7 @@ fun HomeScreen(
     onSearchQueryChange: (String) -> Unit,
     onFeelingSelected: (Feeling) -> Unit,
     onLanguageSelected: (String?) -> Unit,
+    onSavedClicked: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     Column(
@@ -82,6 +84,9 @@ fun HomeScreen(
                 style = MaterialTheme.typography.headlineSmall,
                 fontWeight = FontWeight.Medium
             )
+            IconButton(onClick = onSavedClicked) {
+                Icon(Icons.Filled.Bookmark, contentDescription = stringResource(R.string.nav_saved))
+            }
             LanguageMenuButton(onLanguageSelected = onLanguageSelected)
         }
         Spacer(Modifier.height(4.dp))

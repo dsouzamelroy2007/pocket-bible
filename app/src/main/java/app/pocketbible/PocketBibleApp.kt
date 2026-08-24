@@ -63,13 +63,61 @@ private val MIGRATION_2_3 = object : Migration(2, 3) {
     }
 }
 
+/** Adds the character/character_translation/character_verse_ref tables for the Characters tab. */
+private val MIGRATION_3_4 = object : Migration(3, 4) {
+    override fun migrate(db: SupportSQLiteDatabase) {
+        db.execSQL(
+            """
+            CREATE TABLE IF NOT EXISTS `character` (
+                `id` TEXT NOT NULL,
+                `name` TEXT NOT NULL,
+                `intro` TEXT NOT NULL,
+                `category` TEXT NOT NULL,
+                `sort_order` INTEGER NOT NULL,
+                `requires_deuterocanon` INTEGER NOT NULL,
+                PRIMARY KEY(`id`)
+            )
+            """.trimIndent()
+        )
+        db.execSQL(
+            """
+            CREATE TABLE IF NOT EXISTS `character_translation` (
+                `character_id` TEXT NOT NULL,
+                `language` TEXT NOT NULL,
+                `name` TEXT NOT NULL,
+                `intro` TEXT NOT NULL,
+                PRIMARY KEY(`character_id`, `language`)
+            )
+            """.trimIndent()
+        )
+        db.execSQL(
+            """
+            CREATE TABLE IF NOT EXISTS `character_verse_ref` (
+                `id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+                `character_id` TEXT NOT NULL,
+                `book_id` TEXT NOT NULL,
+                `chapter` INTEGER NOT NULL,
+                `verse_start` INTEGER NOT NULL,
+                `verse_end` INTEGER NOT NULL,
+                `caption` TEXT NOT NULL,
+                `position` INTEGER NOT NULL
+            )
+            """.trimIndent()
+        )
+        db.execSQL(
+            "CREATE INDEX IF NOT EXISTS `index_character_verse_ref_character_id` " +
+                "ON `character_verse_ref` (`character_id`)"
+        )
+    }
+}
+
 class PocketBibleApp : Application() {
 
     private val appScope = CoroutineScope(SupervisorJob() + Dispatchers.IO)
 
     val database: ContentDatabase by lazy {
         Room.databaseBuilder(this, ContentDatabase::class.java, "pocketbible.db")
-            .addMigrations(MIGRATION_1_2, MIGRATION_2_3)
+            .addMigrations(MIGRATION_1_2, MIGRATION_2_3, MIGRATION_3_4)
             // Covers any *future* schema change that doesn't get a real
             // Migration written for it — still prototype-stage safety net,
             // not a substitute for writing migrations as the schema grows.
