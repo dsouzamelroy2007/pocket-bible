@@ -1,5 +1,5 @@
 {
-  "content_version": 12,
+  "content_version": 13,
   "_note": "Index of every content module this app ships. To add a book or a new scripture translation/language: drop a new file under content/scripture/<translation_id>/<book_id>.json (see tools/import_scripture.py) and add one entry to \"scripture\" here. To add or extend a UI-language translation of the topics content (feeling label/description, entry reflection/prayer -- NOT scripture text): drop a content/topics/<language>.json file and add one entry to \"topic_translations\" here; any topic or entry missing from that file just falls back to English. Either way, no need to touch core.json, topics.json, or any other module. Bump content_version whenever any module changes so SeedLoader re-seeds on next launch.",
   "core": "content/core.json",
   "topics": "content/topics.json",
@@ -368,6 +368,336 @@
       "translation_id": "web-c",
       "book_id": "zeph",
       "path": "content/scripture/web-c/zeph.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "1chr",
+      "path": "content/scripture/schlachter-1951/1chr.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "1cor",
+      "path": "content/scripture/schlachter-1951/1cor.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "1jo",
+      "path": "content/scripture/schlachter-1951/1jo.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "1kgs",
+      "path": "content/scripture/schlachter-1951/1kgs.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "1pet",
+      "path": "content/scripture/schlachter-1951/1pet.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "1sam",
+      "path": "content/scripture/schlachter-1951/1sam.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "1the",
+      "path": "content/scripture/schlachter-1951/1the.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "1tim",
+      "path": "content/scripture/schlachter-1951/1tim.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "2chr",
+      "path": "content/scripture/schlachter-1951/2chr.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "2cor",
+      "path": "content/scripture/schlachter-1951/2cor.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "2jo",
+      "path": "content/scripture/schlachter-1951/2jo.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "2kgs",
+      "path": "content/scripture/schlachter-1951/2kgs.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "2pet",
+      "path": "content/scripture/schlachter-1951/2pet.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "2sam",
+      "path": "content/scripture/schlachter-1951/2sam.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "2the",
+      "path": "content/scripture/schlachter-1951/2the.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "2tim",
+      "path": "content/scripture/schlachter-1951/2tim.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "3jo",
+      "path": "content/scripture/schlachter-1951/3jo.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "acts",
+      "path": "content/scripture/schlachter-1951/acts.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "amos",
+      "path": "content/scripture/schlachter-1951/amos.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "col",
+      "path": "content/scripture/schlachter-1951/col.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "dan",
+      "path": "content/scripture/schlachter-1951/dan.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "deut",
+      "path": "content/scripture/schlachter-1951/deut.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "eccl",
+      "path": "content/scripture/schlachter-1951/eccl.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "eph",
+      "path": "content/scripture/schlachter-1951/eph.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "esth",
+      "path": "content/scripture/schlachter-1951/esth.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "ex",
+      "path": "content/scripture/schlachter-1951/ex.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "ezek",
+      "path": "content/scripture/schlachter-1951/ezek.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "ezra",
+      "path": "content/scripture/schlachter-1951/ezra.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "gal",
+      "path": "content/scripture/schlachter-1951/gal.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "gen",
+      "path": "content/scripture/schlachter-1951/gen.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "hab",
+      "path": "content/scripture/schlachter-1951/hab.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "hag",
+      "path": "content/scripture/schlachter-1951/hag.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "heb",
+      "path": "content/scripture/schlachter-1951/heb.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "hos",
+      "path": "content/scripture/schlachter-1951/hos.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "isa",
+      "path": "content/scripture/schlachter-1951/isa.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "jas",
+      "path": "content/scripture/schlachter-1951/jas.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "jer",
+      "path": "content/scripture/schlachter-1951/jer.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "jn",
+      "path": "content/scripture/schlachter-1951/jn.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "job",
+      "path": "content/scripture/schlachter-1951/job.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "joel",
+      "path": "content/scripture/schlachter-1951/joel.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "jonah",
+      "path": "content/scripture/schlachter-1951/jonah.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "josh",
+      "path": "content/scripture/schlachter-1951/josh.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "jude",
+      "path": "content/scripture/schlachter-1951/jude.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "judg",
+      "path": "content/scripture/schlachter-1951/judg.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "lam",
+      "path": "content/scripture/schlachter-1951/lam.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "lev",
+      "path": "content/scripture/schlachter-1951/lev.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "lk",
+      "path": "content/scripture/schlachter-1951/lk.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "mal",
+      "path": "content/scripture/schlachter-1951/mal.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "mic",
+      "path": "content/scripture/schlachter-1951/mic.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "mk",
+      "path": "content/scripture/schlachter-1951/mk.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "mt",
+      "path": "content/scripture/schlachter-1951/mt.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "nah",
+      "path": "content/scripture/schlachter-1951/nah.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "neh",
+      "path": "content/scripture/schlachter-1951/neh.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "num",
+      "path": "content/scripture/schlachter-1951/num.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "obad",
+      "path": "content/scripture/schlachter-1951/obad.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "phil",
+      "path": "content/scripture/schlachter-1951/phil.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "phlm",
+      "path": "content/scripture/schlachter-1951/phlm.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "pr",
+      "path": "content/scripture/schlachter-1951/pr.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "ps",
+      "path": "content/scripture/schlachter-1951/ps.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "rev",
+      "path": "content/scripture/schlachter-1951/rev.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "ro",
+      "path": "content/scripture/schlachter-1951/ro.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "ruth",
+      "path": "content/scripture/schlachter-1951/ruth.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "song",
+      "path": "content/scripture/schlachter-1951/song.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "titus",
+      "path": "content/scripture/schlachter-1951/titus.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "zech",
+      "path": "content/scripture/schlachter-1951/zech.json"
+    },
+    {
+      "translation_id": "schlachter-1951",
+      "book_id": "zeph",
+      "path": "content/scripture/schlachter-1951/zeph.json"
     }
   ],
   "topic_translations": [

@@ -10,6 +10,16 @@
       "includes_deuterocanon": true,
       "has_imprimatur": false,
       "language": "en"
+    },
+    {
+      "id": "schlachter-1951",
+      "name": "Schlachter 1951",
+      "abbreviation": "SCH1951",
+      "license": "CC-BY-4.0",
+      "versification": "masoretic",
+      "includes_deuterocanon": false,
+      "has_imprimatur": false,
+      "language": "de"
     }
   ],
   "books": [

@@ -95,6 +95,10 @@ content/
     web-c/
       gen.json, ex.json, ...      One file per book -- all 73 Catholic-canon books,
       ps.json, mt.json, etc.      full text, English (World English Bible Classic)
+    schlachter-1951/
+      gen.json, ex.json, ...      66 books, full text, German (Schlachter 1951,
+      ...                         CC BY 4.0) -- Protestant canon only; the 7
+                                   deuterocanonical books aren't in this source
     <other-translation-id>/       A future scripture translation/language gets its own folder
 ```
 
@@ -181,10 +185,12 @@ resources in the new locale, not just persists the choice):
    `readableBooks`/`chaptersForBook`/`versesForChapter` all filter by that
    translation_id — this matters once more than one translation's verses
    share the `scripture_verse` table, so a chapter view never mixes verses
-   from two languages together. Importing a translation via
-   `tools/import_scripture.py` (see above) is what actually makes a
-   language's Read tab show real text; the fallback just keeps it from
-   going blank in the meantime.
+   from two languages together. Importing a translation via the scripts
+   above is what actually makes a language's Read tab show real text; the
+   fallback just keeps it from going blank in the meantime. German now has
+   real text this way (Schlachter 1951, `schlachter-1951`) — but only the
+   66-book Protestant canon; the 7 deuterocanonical books fall back to
+   English until a German source for them is found.
 
 Layers 1 and 2 are safe to translate freely — UI vocabulary and proper
 nouns, not scripture. Layer 3 is *my own* devotional prose (not scripture),
