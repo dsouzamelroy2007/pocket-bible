@@ -43,7 +43,6 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalSoftwareKeyboardController
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
@@ -58,7 +57,6 @@ import app.pocketbible.data.ScriptureVerse
 @Composable
 fun BibleBookListScreen(
     books: List<Book>,
-    allBooks: List<Book>,
     onBookSelected: (Book) -> Unit,
     onLoadChapters: suspend (Book) -> List<Int>,
     onLoadVerses: suspend (Book, Int) -> List<Int>,
@@ -66,8 +64,6 @@ fun BibleBookListScreen(
     onReferenceFound: () -> Unit,
     modifier: Modifier = Modifier
 ) {
-    val readableBookIds = remember(books) { books.map { it.id }.toSet() }
-
     LazyColumn(modifier.padding(horizontal = 20.dp)) {
         item {
             Spacer(Modifier.height(16.dp))
@@ -81,8 +77,7 @@ fun BibleBookListScreen(
             Spacer(Modifier.height(14.dp))
 
             GoToReferenceCard(
-                allBooks = allBooks,
-                readableBookIds = readableBookIds,
+                books = books,
                 onLoadChapters = onLoadChapters,
                 onLoadVerses = onLoadVerses,
                 onSubmit = onGoToReference,
@@ -126,20 +121,14 @@ fun BibleBookListScreen(
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 private fun GoToReferenceCard(
-    allBooks: List<Book>,
-    readableBookIds: Set<String>,
+    books: List<Book>,
     onLoadChapters: suspend (Book) -> List<Int>,
     onLoadVerses: suspend (Book, Int) -> List<Int>,
     onSubmit: suspend (Book, Int, Int?) -> String?,
     onFound: () -> Unit
 ) {
-    // Loaded books float to the top so it's obvious, before you even pick one,
-    // which of the 73 actually have text behind them yet.
-    val orderedBooks = remember(allBooks, readableBookIds) {
-        allBooks.sortedBy { if (it.id in readableBookIds) 0 else 1 }
-    }
     var expandedBook by remember { mutableStateOf(false) }
-    var selectedBook by remember(orderedBooks) { mutableStateOf(orderedBooks.firstOrNull()) }
+    var selectedBook by remember(books) { mutableStateOf(books.firstOrNull()) }
 
     var expandedChapter by remember { mutableStateOf(false) }
     var availableChapters by remember { mutableStateOf<List<Int>>(emptyList()) }
@@ -182,15 +171,9 @@ private fun GoToReferenceCard(
                     expanded = expandedBook,
                     onDismissRequest = { expandedBook = false }
                 ) {
-                    orderedBooks.forEach { book ->
-                        val loaded = book.id in readableBookIds
+                    books.forEach { book ->
                         DropdownMenuItem(
-                            text = {
-                                Text(
-                                    localizedBookName(book),
-                                    color = if (loaded) Color.Unspecified else MaterialTheme.colorScheme.secondary
-                                )
-                            },
+                            text = { Text(localizedBookName(book)) },
                             onClick = {
                                 selectedBook = book
                                 expandedBook = false
@@ -269,15 +252,6 @@ private fun GoToReferenceCard(
                         }
                     }
                 }
-            }
-
-            if (selectedBook != null && availableChapters.isEmpty()) {
-                Spacer(Modifier.height(8.dp))
-                Text(
-                    stringResource(R.string.read_book_not_loaded, selectedBook?.let { localizedBookName(it) } ?: ""),
-                    style = MaterialTheme.typography.bodySmall,
-                    color = MaterialTheme.colorScheme.secondary
-                )
             }
 
             val pickBookChapterError = stringResource(R.string.read_pick_book_chapter)

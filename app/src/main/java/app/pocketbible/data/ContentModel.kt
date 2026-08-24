@@ -344,10 +344,6 @@ interface ContentDao {
     )
     fun readableBooks(translationId: String): Flow<List<Book>>
 
-    /** Every known book, for the "go to reference" picker — independent of what's loaded. */
-    @Query("SELECT * FROM book ORDER BY sort_order")
-    fun allBooks(): Flow<List<Book>>
-
     @Query(
         "SELECT DISTINCT chapter FROM scripture_verse WHERE book_id = :bookId AND translation_id = :translationId ORDER BY chapter"
     )

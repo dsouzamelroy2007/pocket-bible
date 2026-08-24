@@ -166,11 +166,9 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
             }
             composable("bible") {
                 val books by viewModel.readableBooks.collectAsState()
-                val allBooks by viewModel.allBooks.collectAsState()
                 val scope = rememberCoroutineScope()
                 BibleBookListScreen(
                     books = books,
-                    allBooks = allBooks,
                     onBookSelected = { book ->
                         scope.launch {
                             viewModel.openBook(book)

@@ -35,8 +35,6 @@ class ContentRepository(private val dao: ContentDao) {
 
     fun readableBooks(translationId: String): Flow<List<Book>> = dao.readableBooks(translationId)
 
-    fun allBooks(): Flow<List<Book>> = dao.allBooks()
-
     suspend fun chaptersForBook(bookId: String, translationId: String): List<Int> =
         dao.chaptersForBook(bookId, translationId)
 

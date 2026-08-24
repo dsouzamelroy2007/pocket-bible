@@ -56,9 +56,6 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     private val _chapterVerses = MutableStateFlow<List<ScriptureVerse>>(emptyList())
     val chapterVerses: StateFlow<List<ScriptureVerse>> = _chapterVerses.asStateFlow()
 
-    private val _allBooks = MutableStateFlow<List<Book>>(emptyList())
-    val allBooks: StateFlow<List<Book>> = _allBooks.asStateFlow()
-
     private val _scrollToVerse = MutableStateFlow<Int?>(null)
     val scrollToVerse: StateFlow<Int?> = _scrollToVerse.asStateFlow()
 
@@ -112,7 +109,6 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
     init {
         ensureFreshForCurrentLanguage()
-        viewModelScope.launch { repo.allBooks().collect { _allBooks.value = it } }
         viewModelScope.launch {
             val monthDay = LocalDate.now().format(DateTimeFormatter.ofPattern("MM-dd"))
             _verseOfDay.value = repo.verseOfDay(monthDay)
