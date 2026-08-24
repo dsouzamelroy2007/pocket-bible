@@ -5,7 +5,7 @@
     <string name="nav_topics">Topics</string>
     <string name="nav_read">Bible</string>
     <string name="nav_saved">Saved</string>
-    <string name="nav_characters">Characters</string>
+    <string name="nav_characters">Personalities</string>
 
     <!-- Language switcher -->
     <string name="language_button">Language</string>
@@ -44,7 +44,7 @@
     <string name="saved_empty">Verses you save appear here, and stay available offline.</string>
 
     <!-- Characters tab -->
-    <string name="character_title">Characters</string>
+    <string name="character_title">Personalities</string>
     <string name="character_subtitle">Get to know the people of the Bible, and the verses that tell their story.</string>
     <string name="character_search_placeholder">Search by name</string>
     <string name="character_no_matches">No characters match that search.</string>
