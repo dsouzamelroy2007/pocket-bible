@@ -3,7 +3,7 @@
 
     <!-- Bottom navigation -->
     <string name="nav_topics">Topics</string>
-    <string name="nav_read">Read</string>
+    <string name="nav_read">Bible</string>
     <string name="nav_saved">Saved</string>
     <string name="nav_characters">Characters</string>
 
@@ -22,7 +22,7 @@
     <string name="home_verse_of_day">Verse of the day</string>
 
     <!-- Read tab -->
-    <string name="read_title">Read</string>
+    <string name="read_title">Bible</string>
     <string name="read_subtitle">Jump straight to a reference, or browse what\'s loaded below.</string>
     <string name="read_empty_browse">No chapters browsable yet below — this is still an early build. Full text comes from a bulk import, not from this screen.</string>
     <string name="read_browse">Browse</string>

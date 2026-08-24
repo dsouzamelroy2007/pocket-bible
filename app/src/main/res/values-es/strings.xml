@@ -2,7 +2,7 @@
     <string name="app_name">Pocket Bible</string>
 
     <string name="nav_topics">Temas</string>
-    <string name="nav_read">Leer</string>
+    <string name="nav_read">Biblia</string>
     <string name="nav_saved">Guardados</string>
 
     <string name="language_button">Idioma</string>
@@ -17,7 +17,7 @@
     <string name="home_i_am_feeling">Me siento…</string>
     <string name="home_verse_of_day">Versículo del día</string>
 
-    <string name="read_title">Leer</string>
+    <string name="read_title">Biblia</string>
     <string name="read_subtitle">Ve directamente a una referencia, o explora lo que está disponible abajo.</string>
     <string name="read_empty_browse">Todavía no hay capítulos disponibles abajo — esta sigue siendo una versión temprana. El texto completo proviene de una importación masiva, no de esta pantalla.</string>
     <string name="read_browse">Explorar</string>

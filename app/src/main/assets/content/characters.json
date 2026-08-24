@@ -1,5 +1,5 @@
 {
-  "_note": "Characters tab content, English base. 'intro' is original devotional-style prose written for this app, not scripture text. 'verse_refs' are citations (book_id/chapter/verse_start/verse_end + a short caption) -- no verse text is stored here; the app looks up the real text live from scripture_verse for whichever translation is current, same as the Read tab. References were compiled from general knowledge of well-known passages, not copied from a concordance -- worth a spot-check pass before wide release, same caveat as the rest of this prototype's authored content. 'requires_deuterocanon' hides a character automatically for a translation whose books don't include their source book (currently just Tobit and Judith).",
+  "_note": "Characters tab content, English base. 'intro' is original devotional-style prose written for this app, not scripture text. 'verse_refs' are citations (book_id/chapter/verse_start/verse_end + a short caption) -- no verse text is stored here; the app looks up the real text live from scripture_verse for whichever translation is current, same as the Read tab. Aimed for at least 4 citations per character; a handful of minor figures whose entire footprint in scripture is only 2-3 verses have fewer, since padding would mean citing verses that aren't really about them. References were compiled from general knowledge of well-known passages, not copied from a concordance -- worth a spot-check pass before wide release, same caveat as the rest of this prototype's authored content. 'requires_deuterocanon' hides a character automatically for a translation whose books don't include their source book (currently just Tobit and Judith).",
   "characters": [
     {
       "id": "jesus",
@@ -8,9 +8,41 @@
       "sort_order": 1,
       "intro": "The Son of God, whose birth, teaching, death, and resurrection are the center of the New Testament and of the Christian faith.",
       "verse_refs": [
-        {"book_id": "jn", "chapter": 1, "verse_start": 1, "verse_end": 1, "caption": "\"In the beginning was the Word\""},
-        {"book_id": "mt", "chapter": 16, "verse_start": 16, "verse_end": 16, "caption": "Peter's confession: \"You are the Christ\""},
-        {"book_id": "jn", "chapter": 11, "verse_start": 25, "verse_end": 25, "caption": "\"I am the resurrection and the life\""}
+        {
+          "book_id": "jn",
+          "chapter": 1,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "\"In the beginning was the Word\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 2,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "The angel's announcement of his birth"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 16,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Peter's confession: \"You are the Christ\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 11,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "\"I am the resurrection and the life\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 20,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "Thomas: \"My Lord and my God\""
+        }
       ]
     },
     {
@@ -20,9 +52,41 @@
       "sort_order": 2,
       "intro": "The young woman of Nazareth who said yes to becoming the mother of the Messiah, and stayed with him to the cross.",
       "verse_refs": [
-        {"book_id": "lk", "chapter": 1, "verse_start": 38, "verse_end": 38, "caption": "\"Let it be done to me according to your word\""},
-        {"book_id": "lk", "chapter": 1, "verse_start": 46, "verse_end": 47, "caption": "The Magnificat: \"My soul magnifies the Lord\""},
-        {"book_id": "jn", "chapter": 19, "verse_start": 26, "verse_end": 27, "caption": "At the foot of the cross"}
+        {
+          "book_id": "lk",
+          "chapter": 1,
+          "verse_start": 30,
+          "verse_end": 31,
+          "caption": "The angel Gabriel's announcement"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 1,
+          "verse_start": 38,
+          "verse_end": 38,
+          "caption": "\"Let it be done to me according to your word\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 1,
+          "verse_start": 46,
+          "verse_end": 47,
+          "caption": "The Magnificat: \"My soul magnifies the Lord\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 2,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "At the wedding at Cana: \"Do whatever he tells you\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 19,
+          "verse_start": 26,
+          "verse_end": 27,
+          "caption": "At the foot of the cross"
+        }
       ]
     },
     {
@@ -32,8 +96,34 @@
       "sort_order": 3,
       "intro": "A carpenter of Nazareth, husband of Mary and foster father of Jesus, who protected his family through dreams and hardship.",
       "verse_refs": [
-        {"book_id": "mt", "chapter": 1, "verse_start": 20, "verse_end": 21, "caption": "The angel's message in a dream"},
-        {"book_id": "mt", "chapter": 2, "verse_start": 13, "verse_end": 14, "caption": "The flight into Egypt"}
+        {
+          "book_id": "mt",
+          "chapter": 1,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "A just man, minded to divorce her quietly"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 1,
+          "verse_start": 20,
+          "verse_end": 21,
+          "caption": "The angel's message in a dream"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 2,
+          "verse_start": 13,
+          "verse_end": 14,
+          "caption": "The flight into Egypt"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 2,
+          "verse_start": 4,
+          "verse_end": 5,
+          "caption": "Travels to Bethlehem for the census"
+        }
       ]
     },
     {
@@ -43,8 +133,34 @@
       "sort_order": 4,
       "intro": "The prophet who called Israel to repentance and baptized Jesus in the Jordan, preparing the way for him.",
       "verse_refs": [
-        {"book_id": "mt", "chapter": 3, "verse_start": 16, "verse_end": 17, "caption": "The baptism of Jesus"},
-        {"book_id": "jn", "chapter": 1, "verse_start": 29, "verse_end": 29, "caption": "\"Behold, the Lamb of God\""}
+        {
+          "book_id": "mt",
+          "chapter": 3,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "His clothing of camel's hair and diet of locusts"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 3,
+          "verse_start": 16,
+          "verse_end": 17,
+          "caption": "The baptism of Jesus"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 1,
+          "verse_start": 29,
+          "verse_end": 29,
+          "caption": "\"Behold, the Lamb of God\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 6,
+          "verse_start": 27,
+          "verse_end": 28,
+          "caption": "His execution by Herod"
+        }
       ]
     },
     {
@@ -54,7 +170,34 @@
       "sort_order": 5,
       "intro": "Mary's kinswoman, who conceived John the Baptist in her old age and greeted Mary as the mother of her Lord.",
       "verse_refs": [
-        {"book_id": "lk", "chapter": 1, "verse_start": 42, "verse_end": 43, "caption": "\"Blessed are you among women\""}
+        {
+          "book_id": "lk",
+          "chapter": 1,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "Barren, and both she and Zechariah advanced in years"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 1,
+          "verse_start": 41,
+          "verse_end": 41,
+          "caption": "The baby leaps in her womb at Mary's greeting"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 1,
+          "verse_start": 42,
+          "verse_end": 43,
+          "caption": "\"Blessed are you among women\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 1,
+          "verse_start": 24,
+          "verse_end": 25,
+          "caption": "\"Thus the Lord has done for me\""
+        }
       ]
     },
     {
@@ -64,8 +207,34 @@
       "sort_order": 6,
       "intro": "A priest struck mute for doubting the angel's promise of a son, whose voice returned in a song of prophecy at John's birth.",
       "verse_refs": [
-        {"book_id": "lk", "chapter": 1, "verse_start": 13, "verse_end": 13, "caption": "The angel's promise in the Temple"},
-        {"book_id": "lk", "chapter": 1, "verse_start": 68, "verse_end": 68, "caption": "The Benedictus"}
+        {
+          "book_id": "lk",
+          "chapter": 1,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "The angel's promise in the Temple"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 1,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Struck mute for his doubt"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 1,
+          "verse_start": 64,
+          "verse_end": 64,
+          "caption": "His speech returns at John's naming"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 1,
+          "verse_start": 68,
+          "verse_end": 68,
+          "caption": "The Benedictus"
+        }
       ]
     },
     {
@@ -75,7 +244,27 @@
       "sort_order": 7,
       "intro": "A devout old man promised he would see the Messiah before he died, who took the infant Jesus in his arms in the Temple.",
       "verse_refs": [
-        {"book_id": "lk", "chapter": 2, "verse_start": 29, "verse_end": 32, "caption": "The Nunc Dimittis"}
+        {
+          "book_id": "lk",
+          "chapter": 2,
+          "verse_start": 26,
+          "verse_end": 26,
+          "caption": "Promised he would not die before seeing the Messiah"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 2,
+          "verse_start": 29,
+          "verse_end": 32,
+          "caption": "The Nunc Dimittis"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 2,
+          "verse_start": 34,
+          "verse_end": 35,
+          "caption": "His warning to Mary: \"a sword will pierce\""
+        }
       ]
     },
     {
@@ -85,7 +274,27 @@
       "sort_order": 8,
       "intro": "An elderly prophetess who worshiped in the Temple night and day and recognized the infant Jesus as the redemption of Jerusalem.",
       "verse_refs": [
-        {"book_id": "lk", "chapter": 2, "verse_start": 36, "verse_end": 38, "caption": "Anna's witness in the Temple"}
+        {
+          "book_id": "lk",
+          "chapter": 2,
+          "verse_start": 37,
+          "verse_end": 37,
+          "caption": "Never left the Temple, worshiping night and day"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 2,
+          "verse_start": 38,
+          "verse_end": 38,
+          "caption": "Speaks of the child to all awaiting redemption"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 2,
+          "verse_start": 36,
+          "verse_end": 36,
+          "caption": "A prophetess of great age, of the tribe of Asher"
+        }
       ]
     },
     {
@@ -95,10 +304,41 @@
       "sort_order": 9,
       "intro": "A fisherman called \"the rock,\" whose bold faith and painful failures make him the most human of the apostles, and the first leader of the Church.",
       "verse_refs": [
-        {"book_id": "mt", "chapter": 16, "verse_start": 18, "verse_end": 18, "caption": "\"You are Peter, and on this rock\""},
-        {"book_id": "mt", "chapter": 14, "verse_start": 29, "verse_end": 31, "caption": "Walking on water, then sinking"},
-        {"book_id": "lk", "chapter": 22, "verse_start": 61, "verse_end": 62, "caption": "Peter's denial and bitter weeping"},
-        {"book_id": "jn", "chapter": 21, "verse_start": 17, "verse_end": 17, "caption": "\"Feed my sheep\""}
+        {
+          "book_id": "mt",
+          "chapter": 16,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "\"You are Peter, and on this rock\""
+        },
+        {
+          "book_id": "mt",
+          "chapter": 14,
+          "verse_start": 29,
+          "verse_end": 31,
+          "caption": "Walking on water, then sinking"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 22,
+          "verse_start": 61,
+          "verse_end": 62,
+          "caption": "Peter's denial and bitter weeping"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 21,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "\"Feed my sheep\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 2,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Preaches to the crowd at Pentecost"
+        }
       ]
     },
     {
@@ -108,8 +348,34 @@
       "sort_order": 10,
       "intro": "Peter's brother and the first apostle Jesus called, who first brought Peter and a boy's loaves and fishes to Jesus.",
       "verse_refs": [
-        {"book_id": "jn", "chapter": 1, "verse_start": 40, "verse_end": 42, "caption": "Andrew brings Peter to Jesus"},
-        {"book_id": "jn", "chapter": 6, "verse_start": 8, "verse_end": 9, "caption": "The boy with five loaves and two fish"}
+        {
+          "book_id": "jn",
+          "chapter": 1,
+          "verse_start": 40,
+          "verse_end": 42,
+          "caption": "Andrew brings Peter to Jesus"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 4,
+          "verse_start": 18,
+          "verse_end": 19,
+          "caption": "Called from his fishing nets"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 6,
+          "verse_start": 8,
+          "verse_end": 9,
+          "caption": "Points out the boy with five loaves and two fish"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 12,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "Brings Greek visitors to Jesus"
+        }
       ]
     },
     {
@@ -119,8 +385,34 @@
       "sort_order": 11,
       "intro": "\"The disciple whom Jesus loved,\" who leaned on him at the Last Supper and later wrote a Gospel, three letters, and Revelation.",
       "verse_refs": [
-        {"book_id": "jn", "chapter": 13, "verse_start": 23, "verse_end": 23, "caption": "Reclining next to Jesus at supper"},
-        {"book_id": "jn", "chapter": 19, "verse_start": 26, "verse_end": 27, "caption": "Entrusted with the care of Mary"}
+        {
+          "book_id": "jn",
+          "chapter": 13,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "Reclining next to Jesus at supper"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 17,
+          "verse_start": 1,
+          "verse_end": 2,
+          "caption": "Witness to the Transfiguration"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 19,
+          "verse_start": 26,
+          "verse_end": 27,
+          "caption": "Entrusted with the care of Mary"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 20,
+          "verse_start": 4,
+          "verse_end": 8,
+          "caption": "Outruns Peter to the empty tomb"
+        }
       ]
     },
     {
@@ -130,8 +422,34 @@
       "sort_order": 12,
       "intro": "John's brother, one of the inner circle at the Transfiguration, and the first apostle to be martyred.",
       "verse_refs": [
-        {"book_id": "mt", "chapter": 17, "verse_start": 1, "verse_end": 2, "caption": "Witness to the Transfiguration"},
-        {"book_id": "acts", "chapter": 12, "verse_start": 2, "verse_end": 2, "caption": "His martyrdom under Herod"}
+        {
+          "book_id": "mt",
+          "chapter": 4,
+          "verse_start": 21,
+          "verse_end": 22,
+          "caption": "Called from his father's boat"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 17,
+          "verse_start": 1,
+          "verse_end": 2,
+          "caption": "Witness to the Transfiguration"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 10,
+          "verse_start": 37,
+          "verse_end": 37,
+          "caption": "Asks to sit at Jesus' right hand"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 12,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "His martyrdom under Herod"
+        }
       ]
     },
     {
@@ -141,8 +459,34 @@
       "sort_order": 13,
       "intro": "An apostle from Bethsaida who brought Nathanael to Jesus and later asked to see the Father.",
       "verse_refs": [
-        {"book_id": "jn", "chapter": 1, "verse_start": 45, "verse_end": 46, "caption": "\"Come and see\""},
-        {"book_id": "jn", "chapter": 14, "verse_start": 8, "verse_end": 9, "caption": "\"Show us the Father\""}
+        {
+          "book_id": "jn",
+          "chapter": 1,
+          "verse_start": 43,
+          "verse_end": 43,
+          "caption": "\"Follow me\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 1,
+          "verse_start": 45,
+          "verse_end": 46,
+          "caption": "\"Come and see\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 6,
+          "verse_start": 5,
+          "verse_end": 7,
+          "caption": "Jesus tests him before feeding the five thousand"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 14,
+          "verse_start": 8,
+          "verse_end": 9,
+          "caption": "\"Show us the Father\""
+        }
       ]
     },
     {
@@ -152,7 +496,27 @@
       "sort_order": 14,
       "intro": "An apostle Jesus called \"an Israelite in whom there is no deceit,\" won over by being seen under a fig tree.",
       "verse_refs": [
-        {"book_id": "jn", "chapter": 1, "verse_start": 47, "verse_end": 49, "caption": "\"Behold, an Israelite indeed\""}
+        {
+          "book_id": "jn",
+          "chapter": 1,
+          "verse_start": 46,
+          "verse_end": 46,
+          "caption": "\"Can anything good come out of Nazareth?\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 1,
+          "verse_start": 47,
+          "verse_end": 49,
+          "caption": "\"Behold, an Israelite indeed\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 21,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Present at the miraculous catch of fish"
+        }
       ]
     },
     {
@@ -162,8 +526,34 @@
       "sort_order": 15,
       "intro": "The apostle remembered for doubting the Resurrection until he touched Jesus' wounds himself, then confessing him as Lord and God.",
       "verse_refs": [
-        {"book_id": "jn", "chapter": 20, "verse_start": 25, "verse_end": 25, "caption": "\"Unless I see... I will not believe\""},
-        {"book_id": "jn", "chapter": 20, "verse_start": 28, "verse_end": 28, "caption": "\"My Lord and my God\""}
+        {
+          "book_id": "jn",
+          "chapter": 11,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "\"Let us also go, that we may die with him\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 14,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "\"We do not know where you are going\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 20,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "\"Unless I see... I will not believe\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 20,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "\"My Lord and my God\""
+        }
       ]
     },
     {
@@ -173,7 +563,34 @@
       "sort_order": 16,
       "intro": "A despised tax collector who left his booth to follow Jesus, and later wrote a Gospel presenting him as the promised Messiah.",
       "verse_refs": [
-        {"book_id": "mt", "chapter": 9, "verse_start": 9, "verse_end": 9, "caption": "\"Follow me,\" and he rose and followed"}
+        {
+          "book_id": "mt",
+          "chapter": 9,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "\"Follow me,\" and he rose and followed"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 9,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Hosts Jesus for dinner with tax collectors and sinners"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 10,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Named among the Twelve"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 5,
+          "verse_start": 29,
+          "verse_end": 29,
+          "caption": "Levi (Matthew) hosts a great feast for Jesus"
+        }
       ]
     },
     {
@@ -183,7 +600,20 @@
       "sort_order": 17,
       "intro": "One of the Twelve, sometimes called \"James the Less\" to distinguish him from James the son of Zebedee.",
       "verse_refs": [
-        {"book_id": "mk", "chapter": 3, "verse_start": 18, "verse_end": 18, "caption": "Named among the Twelve"}
+        {
+          "book_id": "mk",
+          "chapter": 3,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "Named among the Twelve"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 10,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Listed among the apostles sent out"
+        }
       ]
     },
     {
@@ -193,7 +623,20 @@
       "sort_order": 18,
       "intro": "An apostle also called Jude, who asked Jesus at the Last Supper why he would reveal himself only to his followers.",
       "verse_refs": [
-        {"book_id": "jn", "chapter": 14, "verse_start": 22, "verse_end": 22, "caption": "\"Lord, how is it...?\""}
+        {
+          "book_id": "lk",
+          "chapter": 6,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Named among the Twelve"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 14,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "\"Lord, how is it...?\""
+        }
       ]
     },
     {
@@ -203,7 +646,20 @@
       "sort_order": 19,
       "intro": "One of the Twelve, identified as a Zealot -- likely tied to the movement resisting Roman rule.",
       "verse_refs": [
-        {"book_id": "lk", "chapter": 6, "verse_start": 15, "verse_end": 15, "caption": "Named among the Twelve"}
+        {
+          "book_id": "lk",
+          "chapter": 6,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "Named among the Twelve"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 1,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Listed among the apostles after the Ascension"
+        }
       ]
     },
     {
@@ -213,8 +669,34 @@
       "sort_order": 20,
       "intro": "The apostle who betrayed Jesus for thirty pieces of silver, and whose remorse ended in despair rather than repentance.",
       "verse_refs": [
-        {"book_id": "mt", "chapter": 26, "verse_start": 14, "verse_end": 15, "caption": "The bargain for thirty pieces of silver"},
-        {"book_id": "mt", "chapter": 27, "verse_start": 3, "verse_end": 5, "caption": "His remorse and death"}
+        {
+          "book_id": "mt",
+          "chapter": 26,
+          "verse_start": 14,
+          "verse_end": 15,
+          "caption": "The bargain for thirty pieces of silver"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 26,
+          "verse_start": 49,
+          "verse_end": 49,
+          "caption": "Betrays Jesus with a kiss"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 27,
+          "verse_start": 3,
+          "verse_end": 5,
+          "caption": "His remorse and death"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 12,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "Kept the moneybag and helped himself to it"
+        }
       ]
     },
     {
@@ -224,9 +706,41 @@
       "sort_order": 21,
       "intro": "A zealous persecutor of Christians transformed on the road to Damascus into the Church's most tireless missionary and writer.",
       "verse_refs": [
-        {"book_id": "acts", "chapter": 9, "verse_start": 3, "verse_end": 5, "caption": "Struck down on the road to Damascus"},
-        {"book_id": "1cor", "chapter": 13, "verse_start": 4, "verse_end": 7, "caption": "His hymn to love"},
-        {"book_id": "2tim", "chapter": 4, "verse_start": 7, "verse_end": 7, "caption": "\"I have fought the good fight\""}
+        {
+          "book_id": "acts",
+          "chapter": 9,
+          "verse_start": 3,
+          "verse_end": 5,
+          "caption": "Struck down on the road to Damascus"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 17,
+          "verse_start": 22,
+          "verse_end": 23,
+          "caption": "Preaches to the Areopagus in Athens"
+        },
+        {
+          "book_id": "1cor",
+          "chapter": 13,
+          "verse_start": 4,
+          "verse_end": 7,
+          "caption": "His hymn to love"
+        },
+        {
+          "book_id": "phil",
+          "chapter": 4,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "\"I can do all things through him\""
+        },
+        {
+          "book_id": "2tim",
+          "chapter": 4,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "\"I have fought the good fight\""
+        }
       ]
     },
     {
@@ -236,8 +750,34 @@
       "sort_order": 22,
       "intro": "\"Son of encouragement,\" who vouched for the converted Paul and became his first missionary companion.",
       "verse_refs": [
-        {"book_id": "acts", "chapter": 4, "verse_start": 36, "verse_end": 37, "caption": "Introduced as \"son of encouragement\""},
-        {"book_id": "acts", "chapter": 9, "verse_start": 27, "verse_end": 27, "caption": "Vouches for Paul before the apostles"}
+        {
+          "book_id": "acts",
+          "chapter": 4,
+          "verse_start": 36,
+          "verse_end": 37,
+          "caption": "Introduced as \"son of encouragement\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 9,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Vouches for Paul before the apostles"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 11,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "\"A good man, full of the Holy Spirit and of faith\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 15,
+          "verse_start": 39,
+          "verse_end": 39,
+          "caption": "His sharp dispute with Paul over John Mark"
+        }
       ]
     },
     {
@@ -247,7 +787,34 @@
       "sort_order": 23,
       "intro": "Paul's companion who was imprisoned and beaten with him in Philippi, and sang hymns with him in a midnight jail cell.",
       "verse_refs": [
-        {"book_id": "acts", "chapter": 16, "verse_start": 25, "verse_end": 26, "caption": "Singing hymns in prison at midnight"}
+        {
+          "book_id": "acts",
+          "chapter": 15,
+          "verse_start": 40,
+          "verse_end": 40,
+          "caption": "Chosen by Paul as his companion"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 16,
+          "verse_start": 25,
+          "verse_end": 26,
+          "caption": "Singing hymns in prison at midnight"
+        },
+        {
+          "book_id": "1the",
+          "chapter": 1,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Named as co-sender of a letter to Thessalonica"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 15,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "Chosen with Judas Barsabbas to accompany Paul and Barnabas"
+        }
       ]
     },
     {
@@ -257,8 +824,34 @@
       "sort_order": 24,
       "intro": "A young disciple Paul treated as a son in the faith, entrusted with leading the church at Ephesus.",
       "verse_refs": [
-        {"book_id": "1tim", "chapter": 4, "verse_start": 12, "verse_end": 12, "caption": "\"Let no one despise your youth\""},
-        {"book_id": "2tim", "chapter": 1, "verse_start": 5, "verse_end": 5, "caption": "His faith inherited from his mother and grandmother"}
+        {
+          "book_id": "acts",
+          "chapter": 16,
+          "verse_start": 1,
+          "verse_end": 2,
+          "caption": "Introduced as a well-regarded young disciple"
+        },
+        {
+          "book_id": "1tim",
+          "chapter": 4,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "\"Let no one despise your youth\""
+        },
+        {
+          "book_id": "2tim",
+          "chapter": 1,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "His faith inherited from his mother and grandmother"
+        },
+        {
+          "book_id": "phil",
+          "chapter": 2,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "Paul: \"as a son with a father\""
+        }
       ]
     },
     {
@@ -268,7 +861,34 @@
       "sort_order": 25,
       "intro": "A Gentile convert and trusted delegate Paul left in Crete to organize the churches there.",
       "verse_refs": [
-        {"book_id": "titus", "chapter": 1, "verse_start": 5, "verse_end": 5, "caption": "Left in Crete to set things in order"}
+        {
+          "book_id": "titus",
+          "chapter": 1,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "Left in Crete to set things in order"
+        },
+        {
+          "book_id": "2cor",
+          "chapter": 7,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "His arrival comforts Paul"
+        },
+        {
+          "book_id": "gal",
+          "chapter": 2,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "A Greek, not compelled to be circumcised"
+        },
+        {
+          "book_id": "2cor",
+          "chapter": 8,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "Paul: \"my partner and fellow worker for your benefit\""
+        }
       ]
     },
     {
@@ -278,7 +898,34 @@
       "sort_order": 26,
       "intro": "A physician and Gentile convert who carefully researched and wrote a Gospel and the Acts of the Apostles.",
       "verse_refs": [
-        {"book_id": "lk", "chapter": 1, "verse_start": 3, "verse_end": 4, "caption": "His preface, explaining his careful research"}
+        {
+          "book_id": "lk",
+          "chapter": 1,
+          "verse_start": 3,
+          "verse_end": 4,
+          "caption": "His preface, explaining his careful research"
+        },
+        {
+          "book_id": "col",
+          "chapter": 4,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Paul calls him \"the beloved physician\""
+        },
+        {
+          "book_id": "2tim",
+          "chapter": 4,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "\"Luke alone is with me\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 16,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "The first \"we\" passage, marking him joining Paul's travels"
+        }
       ]
     },
     {
@@ -288,7 +935,34 @@
       "sort_order": 27,
       "intro": "A young companion of Paul and Barnabas whose early failure caused a rift, and who later wrote the earliest Gospel.",
       "verse_refs": [
-        {"book_id": "acts", "chapter": 15, "verse_start": 37, "verse_end": 39, "caption": "The dispute over Mark that split Paul and Barnabas"}
+        {
+          "book_id": "acts",
+          "chapter": 12,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Believers gather praying at his mother's house"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Leaves Paul and Barnabas partway through their journey"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 15,
+          "verse_start": 37,
+          "verse_end": 39,
+          "caption": "The dispute over Mark that split Paul and Barnabas"
+        },
+        {
+          "book_id": "2tim",
+          "chapter": 4,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Later called \"very useful to me\" by Paul"
+        }
       ]
     },
     {
@@ -298,7 +972,34 @@
       "sort_order": 28,
       "intro": "A deacon full of grace and power, whose bold preaching led to his stoning as the Church's first martyr.",
       "verse_refs": [
-        {"book_id": "acts", "chapter": 7, "verse_start": 59, "verse_end": 60, "caption": "His dying prayer for his killers"}
+        {
+          "book_id": "acts",
+          "chapter": 6,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Full of grace and power, doing signs among the people"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 7,
+          "verse_start": 56,
+          "verse_end": 56,
+          "caption": "Sees the heavens opened before he dies"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 7,
+          "verse_start": 59,
+          "verse_end": 60,
+          "caption": "His dying prayer for his killers"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 6,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "His face was like the face of an angel"
+        }
       ]
     },
     {
@@ -308,7 +1009,34 @@
       "sort_order": 29,
       "intro": "One of the seven chosen to serve the early church, who explained the Scriptures to an Ethiopian official and baptized him.",
       "verse_refs": [
-        {"book_id": "acts", "chapter": 8, "verse_start": 35, "verse_end": 36, "caption": "Explains the Scriptures to the Ethiopian eunuch"}
+        {
+          "book_id": "acts",
+          "chapter": 6,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "Chosen as one of the seven"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 8,
+          "verse_start": 35,
+          "verse_end": 36,
+          "caption": "Explains the Scriptures to the Ethiopian eunuch"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 8,
+          "verse_start": 38,
+          "verse_end": 38,
+          "caption": "Baptizes the eunuch"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 21,
+          "verse_start": 8,
+          "verse_end": 9,
+          "caption": "Host to Paul, with four daughters who prophesied"
+        }
       ]
     },
     {
@@ -318,7 +1046,34 @@
       "sort_order": 30,
       "intro": "A devout Roman centurion whose vision, and Peter's, opened the Church's mission to the Gentiles.",
       "verse_refs": [
-        {"book_id": "acts", "chapter": 10, "verse_start": 34, "verse_end": 35, "caption": "\"God shows no partiality\""}
+        {
+          "book_id": "acts",
+          "chapter": 10,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Described as devout and generous to the poor"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 10,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "His vision of an angel"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 10,
+          "verse_start": 34,
+          "verse_end": 35,
+          "caption": "\"God shows no partiality\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 10,
+          "verse_start": 44,
+          "verse_end": 44,
+          "caption": "The Holy Spirit falls on his household as Peter speaks"
+        }
       ]
     },
     {
@@ -328,7 +1083,34 @@
       "sort_order": 31,
       "intro": "A missionary couple, tentmakers by trade, who hosted a house church and taught Apollos more accurately.",
       "verse_refs": [
-        {"book_id": "acts", "chapter": 18, "verse_start": 26, "verse_end": 26, "caption": "They explain the Way to Apollos more accurately"}
+        {
+          "book_id": "acts",
+          "chapter": 18,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "Meet Paul in Corinth as fellow tentmakers"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 18,
+          "verse_start": 26,
+          "verse_end": 26,
+          "caption": "They explain the Way to Apollos more accurately"
+        },
+        {
+          "book_id": "ro",
+          "chapter": 16,
+          "verse_start": 3,
+          "verse_end": 4,
+          "caption": "Paul calls them \"fellow workers\" who risked their necks for him"
+        },
+        {
+          "book_id": "1cor",
+          "chapter": 16,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Greet the church, with the church that meets in their house"
+        }
       ]
     },
     {
@@ -338,7 +1120,34 @@
       "sort_order": 32,
       "intro": "An eloquent, Scripture-versed preacher whose ministry watered what Paul had planted in Corinth.",
       "verse_refs": [
-        {"book_id": "1cor", "chapter": 3, "verse_start": 6, "verse_end": 6, "caption": "\"I planted, Apollos watered\""}
+        {
+          "book_id": "acts",
+          "chapter": 18,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "An eloquent man, competent in the Scriptures"
+        },
+        {
+          "book_id": "1cor",
+          "chapter": 3,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "\"I planted, Apollos watered\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 18,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "Powerfully refutes the Jews, showing Jesus is the Christ"
+        },
+        {
+          "book_id": "1cor",
+          "chapter": 16,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Paul: \"concerning our brother Apollos\""
+        }
       ]
     },
     {
@@ -348,7 +1157,20 @@
       "sort_order": 33,
       "intro": "A seller of purple cloth in Philippi and the first recorded convert in Europe, who opened her home to Paul's mission.",
       "verse_refs": [
-        {"book_id": "acts", "chapter": 16, "verse_start": 14, "verse_end": 15, "caption": "Her heart opened to Paul's message"}
+        {
+          "book_id": "acts",
+          "chapter": 16,
+          "verse_start": 14,
+          "verse_end": 15,
+          "caption": "Her heart opened to Paul's message"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 16,
+          "verse_start": 40,
+          "verse_end": 40,
+          "caption": "Paul and Silas return to her house after prison"
+        }
       ]
     },
     {
@@ -358,8 +1180,34 @@
       "sort_order": 34,
       "intro": "A leader of the Jerusalem church who once doubted Jesus, later encountered the risen Christ, and wrote a New Testament letter.",
       "verse_refs": [
-        {"book_id": "1cor", "chapter": 15, "verse_start": 7, "verse_end": 7, "caption": "The risen Christ appears to James"},
-        {"book_id": "jas", "chapter": 1, "verse_start": 2, "verse_end": 3, "caption": "\"Count it all joy... trials produce steadfastness\""}
+        {
+          "book_id": "mk",
+          "chapter": 6,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Named as one of Jesus' brothers"
+        },
+        {
+          "book_id": "1cor",
+          "chapter": 15,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "The risen Christ appears to James"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 15,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Presides at the Jerusalem council"
+        },
+        {
+          "book_id": "jas",
+          "chapter": 1,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "\"Count it all joy... trials produce steadfastness\""
+        }
       ]
     },
     {
@@ -369,7 +1217,27 @@
       "sort_order": 35,
       "intro": "A brother of Jesus and James who wrote a short, urgent letter warning against false teachers.",
       "verse_refs": [
-        {"book_id": "jude", "chapter": 1, "verse_start": 3, "verse_end": 3, "caption": "\"Contend for the faith\""}
+        {
+          "book_id": "jude",
+          "chapter": 1,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Identifies himself as \"a servant of Jesus Christ, and brother of James\""
+        },
+        {
+          "book_id": "jude",
+          "chapter": 1,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "\"Contend for the faith\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 6,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Named among the brothers of Jesus: \"and Judas\""
+        }
       ]
     },
     {
@@ -379,7 +1247,27 @@
       "sort_order": 36,
       "intro": "A Christian slaveholder Paul wrote to directly, urging him to welcome back his runaway slave Onesimus as a brother.",
       "verse_refs": [
-        {"book_id": "phlm", "chapter": 1, "verse_start": 16, "verse_end": 16, "caption": "\"No longer as a slave, but... a beloved brother\""}
+        {
+          "book_id": "phlm",
+          "chapter": 1,
+          "verse_start": 4,
+          "verse_end": 5,
+          "caption": "Paul thanks God for his love and faith"
+        },
+        {
+          "book_id": "phlm",
+          "chapter": 1,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "\"No longer as a slave, but... a beloved brother\""
+        },
+        {
+          "book_id": "phlm",
+          "chapter": 1,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "Paul: \"your love has given me much joy and comfort\""
+        }
       ]
     },
     {
@@ -389,7 +1277,27 @@
       "sort_order": 37,
       "intro": "A runaway slave who became a Christian under Paul's care, and was sent back to his master with a plea for mercy.",
       "verse_refs": [
-        {"book_id": "phlm", "chapter": 1, "verse_start": 10, "verse_end": 11, "caption": "Paul's appeal on his behalf"}
+        {
+          "book_id": "phlm",
+          "chapter": 1,
+          "verse_start": 10,
+          "verse_end": 11,
+          "caption": "Paul's appeal on his behalf"
+        },
+        {
+          "book_id": "col",
+          "chapter": 4,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "Sent along as \"a faithful and beloved brother\""
+        },
+        {
+          "book_id": "phlm",
+          "chapter": 1,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "\"If he has wronged you at all... charge that to my account\""
+        }
       ]
     },
     {
@@ -399,8 +1307,34 @@
       "sort_order": 38,
       "intro": "A woman Jesus freed from great affliction, who stayed at the cross and was the first to see him risen from the dead.",
       "verse_refs": [
-        {"book_id": "jn", "chapter": 20, "verse_start": 16, "verse_end": 16, "caption": "Jesus calls her by name at the tomb"},
-        {"book_id": "jn", "chapter": 20, "verse_start": 18, "verse_end": 18, "caption": "\"I have seen the Lord\""}
+        {
+          "book_id": "lk",
+          "chapter": 8,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Freed from seven demons, follows Jesus"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 19,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "Stands near the cross"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 20,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Jesus calls her by name at the tomb"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 20,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "\"I have seen the Lord\""
+        }
       ]
     },
     {
@@ -410,8 +1344,34 @@
       "sort_order": 39,
       "intro": "Sister of Mary and Lazarus, distracted by hosting Jesus, and later the one who confessed him as the Christ before Lazarus rose.",
       "verse_refs": [
-        {"book_id": "lk", "chapter": 10, "verse_start": 40, "verse_end": 41, "caption": "\"Martha, Martha, you are anxious...\""},
-        {"book_id": "jn", "chapter": 11, "verse_start": 27, "verse_end": 27, "caption": "\"You are the Christ, the Son of God\""}
+        {
+          "book_id": "lk",
+          "chapter": 10,
+          "verse_start": 40,
+          "verse_end": 41,
+          "caption": "\"Martha, Martha, you are anxious...\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 11,
+          "verse_start": 21,
+          "verse_end": 22,
+          "caption": "\"If you had been here, my brother would not have died\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 11,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "\"You are the Christ, the Son of God\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 10,
+          "verse_start": 38,
+          "verse_end": 38,
+          "caption": "Welcomes Jesus into her house"
+        }
       ]
     },
     {
@@ -421,8 +1381,34 @@
       "sort_order": 40,
       "intro": "Sister of Martha and Lazarus, remembered for sitting at Jesus' feet and anointing him with costly perfume.",
       "verse_refs": [
-        {"book_id": "lk", "chapter": 10, "verse_start": 39, "verse_end": 39, "caption": "Sitting at the Lord's feet, listening"},
-        {"book_id": "jn", "chapter": 12, "verse_start": 3, "verse_end": 3, "caption": "Anoints Jesus' feet with costly perfume"}
+        {
+          "book_id": "lk",
+          "chapter": 10,
+          "verse_start": 39,
+          "verse_end": 39,
+          "caption": "Sitting at the Lord's feet, listening"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 11,
+          "verse_start": 32,
+          "verse_end": 32,
+          "caption": "Falls at Jesus' feet, weeping for Lazarus"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 12,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Anoints Jesus' feet with costly perfume"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 12,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "Jesus: \"Leave her alone, she has kept it for the day of my burial\""
+        }
       ]
     },
     {
@@ -432,7 +1418,34 @@
       "sort_order": 41,
       "intro": "A friend of Jesus who died and lay four days in the tomb before Jesus called him back to life.",
       "verse_refs": [
-        {"book_id": "jn", "chapter": 11, "verse_start": 43, "verse_end": 44, "caption": "\"Lazarus, come out\""}
+        {
+          "book_id": "jn",
+          "chapter": 11,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "His sisters send word: \"he whom you love is ill\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 11,
+          "verse_start": 35,
+          "verse_end": 35,
+          "caption": "\"Jesus wept\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 11,
+          "verse_start": 43,
+          "verse_end": 44,
+          "caption": "\"Lazarus, come out\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 12,
+          "verse_start": 1,
+          "verse_end": 2,
+          "caption": "Reclines at table with Jesus after being raised"
+        }
       ]
     },
     {
@@ -442,8 +1455,34 @@
       "sort_order": 42,
       "intro": "A Pharisee who came to Jesus by night with questions, and later helped bury him with dignity.",
       "verse_refs": [
-        {"book_id": "jn", "chapter": 3, "verse_start": 2, "verse_end": 2, "caption": "\"Rabbi, we know you are a teacher come from God\""},
-        {"book_id": "jn", "chapter": 19, "verse_start": 39, "verse_end": 39, "caption": "Brings myrrh and aloes for Jesus' burial"}
+        {
+          "book_id": "jn",
+          "chapter": 3,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "\"Rabbi, we know you are a teacher come from God\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 3,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "\"How can a man be born when he is old?\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 7,
+          "verse_start": 50,
+          "verse_end": 51,
+          "caption": "Defends Jesus before the Sanhedrin"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 19,
+          "verse_start": 39,
+          "verse_end": 39,
+          "caption": "Brings myrrh and aloes for Jesus' burial"
+        }
       ]
     },
     {
@@ -453,7 +1492,34 @@
       "sort_order": 43,
       "intro": "A woman Jesus met at a well, whose honest conversation about her life led her to become an evangelist to her whole town.",
       "verse_refs": [
-        {"book_id": "jn", "chapter": 4, "verse_start": 29, "verse_end": 29, "caption": "\"Come, see a man who told me all that I ever did\""}
+        {
+          "book_id": "jn",
+          "chapter": 4,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "Surprised a Jew would speak to her"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 4,
+          "verse_start": 25,
+          "verse_end": 26,
+          "caption": "Jesus reveals himself as the Messiah to her"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 4,
+          "verse_start": 29,
+          "verse_end": 29,
+          "caption": "\"Come, see a man who told me all that I ever did\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 4,
+          "verse_start": 39,
+          "verse_end": 39,
+          "caption": "Many Samaritans believe because of her testimony"
+        }
       ]
     },
     {
@@ -463,7 +1529,27 @@
       "sort_order": 44,
       "intro": "A wealthy, short tax collector who climbed a tree to see Jesus, and gave away half his goods after Jesus dined at his house.",
       "verse_refs": [
-        {"book_id": "lk", "chapter": 19, "verse_start": 8, "verse_end": 9, "caption": "\"Today salvation has come to this house\""}
+        {
+          "book_id": "lk",
+          "chapter": 19,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Climbs a sycamore tree to see Jesus"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 19,
+          "verse_start": 8,
+          "verse_end": 9,
+          "caption": "\"Today salvation has come to this house\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 19,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "A chief tax collector, and rich"
+        }
       ]
     },
     {
@@ -473,7 +1559,27 @@
       "sort_order": 45,
       "intro": "A blind beggar of Jericho whose persistent cry for mercy Jesus answered, restoring his sight.",
       "verse_refs": [
-        {"book_id": "mk", "chapter": 10, "verse_start": 51, "verse_end": 52, "caption": "\"Your faith has made you well\""}
+        {
+          "book_id": "mk",
+          "chapter": 10,
+          "verse_start": 47,
+          "verse_end": 47,
+          "caption": "Cries out, \"Jesus, Son of David, have mercy on me\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 10,
+          "verse_start": 51,
+          "verse_end": 52,
+          "caption": "\"Your faith has made you well\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 10,
+          "verse_start": 46,
+          "verse_end": 46,
+          "caption": "A blind beggar sitting by the roadside in Jericho"
+        }
       ]
     },
     {
@@ -483,7 +1589,27 @@
       "sort_order": 46,
       "intro": "A wealthy, secret disciple who asked Pilate for Jesus' body and laid him in his own new tomb.",
       "verse_refs": [
-        {"book_id": "mt", "chapter": 27, "verse_start": 59, "verse_end": 60, "caption": "Wraps Jesus' body and lays it in his tomb"}
+        {
+          "book_id": "mt",
+          "chapter": 27,
+          "verse_start": 57,
+          "verse_end": 58,
+          "caption": "Asks Pilate for the body of Jesus"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 27,
+          "verse_start": 59,
+          "verse_end": 60,
+          "caption": "Wraps Jesus' body and lays it in his tomb"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 19,
+          "verse_start": 38,
+          "verse_end": 38,
+          "caption": "A disciple of Jesus, though secretly, for fear of the Jews"
+        }
       ]
     },
     {
@@ -493,7 +1619,20 @@
       "sort_order": 47,
       "intro": "A passerby forced to carry Jesus' cross, unwittingly sharing in the road to Calvary.",
       "verse_refs": [
-        {"book_id": "mk", "chapter": 15, "verse_start": 21, "verse_end": 21, "caption": "Compelled to carry the cross"}
+        {
+          "book_id": "mk",
+          "chapter": 15,
+          "verse_start": 21,
+          "verse_end": 21,
+          "caption": "Compelled to carry the cross"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 23,
+          "verse_start": 26,
+          "verse_end": 26,
+          "caption": "Laid with the cross, to carry it behind Jesus"
+        }
       ]
     },
     {
@@ -503,7 +1642,27 @@
       "sort_order": 48,
       "intro": "A disciple in Joppa known for charity to widows, whom Peter raised from the dead.",
       "verse_refs": [
-        {"book_id": "acts", "chapter": 9, "verse_start": 40, "verse_end": 40, "caption": "\"Tabitha, rise\""}
+        {
+          "book_id": "acts",
+          "chapter": 9,
+          "verse_start": 36,
+          "verse_end": 36,
+          "caption": "Known for good works and acts of charity"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 9,
+          "verse_start": 40,
+          "verse_end": 40,
+          "caption": "\"Tabitha, rise\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 9,
+          "verse_start": 39,
+          "verse_end": 39,
+          "caption": "Widows weep, showing the garments she made"
+        }
       ]
     },
     {
@@ -513,7 +1672,27 @@
       "sort_order": 49,
       "intro": "The paranoid king of Judea at Jesus' birth, who ordered the massacre of infant boys in Bethlehem.",
       "verse_refs": [
-        {"book_id": "mt", "chapter": 2, "verse_start": 16, "verse_end": 16, "caption": "Orders the massacre of the innocents"}
+        {
+          "book_id": "mt",
+          "chapter": 2,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Troubled at news of a newborn king"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 2,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Orders the massacre of the innocents"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 2,
+          "verse_start": 7,
+          "verse_end": 8,
+          "caption": "Secretly asks the wise men to \"search diligently for the child\""
+        }
       ]
     },
     {
@@ -523,7 +1702,34 @@
       "sort_order": 50,
       "intro": "Herod the Great's son, who beheaded John the Baptist and later mocked Jesus at his trial.",
       "verse_refs": [
-        {"book_id": "mk", "chapter": 6, "verse_start": 27, "verse_end": 27, "caption": "Orders John the Baptist's beheading"}
+        {
+          "book_id": "mk",
+          "chapter": 6,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Feared John, knowing he was righteous"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 6,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Orders John the Baptist's beheading"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 23,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Mocks Jesus and sends him back to Pilate"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 13,
+          "verse_start": 32,
+          "verse_end": 32,
+          "caption": "Jesus calls him \"that fox\""
+        }
       ]
     },
     {
@@ -533,7 +1739,27 @@
       "sort_order": 51,
       "intro": "Herod Antipas's wife, whose grudge against John the Baptist led to his execution.",
       "verse_refs": [
-        {"book_id": "mk", "chapter": 6, "verse_start": 19, "verse_end": 19, "caption": "Her grudge against John the Baptist"}
+        {
+          "book_id": "mk",
+          "chapter": 6,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Her grudge against John the Baptist"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 6,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "Instructs her daughter to ask for John's head"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 6,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "Her daughter's dance pleases Herod and his guests"
+        }
       ]
     },
     {
@@ -543,8 +1769,34 @@
       "sort_order": 52,
       "intro": "The Roman governor who found no guilt in Jesus, yet handed him over to be crucified.",
       "verse_refs": [
-        {"book_id": "jn", "chapter": 19, "verse_start": 4, "verse_end": 4, "caption": "\"I find no guilt in him\""},
-        {"book_id": "mt", "chapter": 27, "verse_start": 24, "verse_end": 24, "caption": "Washes his hands of the matter"}
+        {
+          "book_id": "jn",
+          "chapter": 18,
+          "verse_start": 38,
+          "verse_end": 38,
+          "caption": "\"What is truth?\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 19,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "\"I find no guilt in him\""
+        },
+        {
+          "book_id": "mt",
+          "chapter": 27,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "Washes his hands of the matter"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 19,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Orders the sign: \"Jesus of Nazareth, the King of the Jews\""
+        }
       ]
     },
     {
@@ -554,7 +1806,27 @@
       "sort_order": 53,
       "intro": "The high priest who presided over Jesus' trial and pressed for his death.",
       "verse_refs": [
-        {"book_id": "jn", "chapter": 11, "verse_start": 49, "verse_end": 50, "caption": "\"It is better... one man should die\""}
+        {
+          "book_id": "jn",
+          "chapter": 11,
+          "verse_start": 49,
+          "verse_end": 50,
+          "caption": "\"It is better... one man should die\""
+        },
+        {
+          "book_id": "mt",
+          "chapter": 26,
+          "verse_start": 65,
+          "verse_end": 65,
+          "caption": "Tears his robes at Jesus' answer"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 18,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "Annas sends Jesus to him, bound"
+        }
       ]
     },
     {
@@ -564,8 +1836,34 @@
       "sort_order": 54,
       "intro": "The first man, formed from the dust and given the breath of life, whose disobedience in Eden brought sin into the world.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 2, "verse_start": 7, "verse_end": 7, "caption": "Formed from dust and given breath"},
-        {"book_id": "gen", "chapter": 3, "verse_start": 6, "verse_end": 6, "caption": "Eats the forbidden fruit"}
+        {
+          "book_id": "gen",
+          "chapter": 2,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "Formed from dust and given breath"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 2,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "\"Bone of my bones\" at the creation of Eve"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 3,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "Eats the forbidden fruit"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 3,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "\"Dust you are, and to dust you shall return\""
+        }
       ]
     },
     {
@@ -575,7 +1873,34 @@
       "sort_order": 55,
       "intro": "The first woman, \"the mother of all living,\" deceived by the serpent before Adam in the garden.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 3, "verse_start": 20, "verse_end": 20, "caption": "Named \"the mother of all living\""}
+        {
+          "book_id": "gen",
+          "chapter": 3,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "The serpent deceives her"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 3,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "Eats the fruit and gives it to Adam"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 3,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Named \"the mother of all living\""
+        },
+        {
+          "book_id": "1tim",
+          "chapter": 2,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Formed after Adam, in Paul's account of creation"
+        }
       ]
     },
     {
@@ -585,7 +1910,34 @@
       "sort_order": 56,
       "intro": "Adam and Eve's firstborn, whose jealousy of his brother Abel led to history's first murder.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 4, "verse_start": 8, "verse_end": 8, "caption": "Rises up and kills his brother Abel"}
+        {
+          "book_id": "gen",
+          "chapter": 4,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "His anger when his offering is not accepted"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 4,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Rises up and kills his brother Abel"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 4,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "\"Am I my brother's keeper?\""
+        },
+        {
+          "book_id": "1jo",
+          "chapter": 3,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "\"Not be like Cain, who... murdered his brother\""
+        }
       ]
     },
     {
@@ -595,7 +1947,27 @@
       "sort_order": 57,
       "intro": "Adam and Eve's second son, a shepherd whose offering pleased God, and the first person to be murdered.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 4, "verse_start": 4, "verse_end": 4, "caption": "His offering that pleased God"}
+        {
+          "book_id": "gen",
+          "chapter": 4,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "A keeper of sheep"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 4,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "His offering that pleased God"
+        },
+        {
+          "book_id": "heb",
+          "chapter": 11,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "By faith he offered a more acceptable sacrifice; he still speaks"
+        }
       ]
     },
     {
@@ -605,7 +1977,27 @@
       "sort_order": 58,
       "intro": "A man remembered for walking so closely with God that he did not experience death.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 5, "verse_start": 24, "verse_end": 24, "caption": "\"Enoch walked with God, and he was not\""}
+        {
+          "book_id": "gen",
+          "chapter": 5,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "Walked with God after his son's birth"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 5,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "\"Enoch walked with God, and he was not\""
+        },
+        {
+          "book_id": "heb",
+          "chapter": 11,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "By faith Enoch was taken up, so that he did not see death"
+        }
       ]
     },
     {
@@ -615,8 +2007,34 @@
       "sort_order": 59,
       "intro": "The one righteous man of his generation, who built the Ark and preserved his family and the animals through the flood.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 6, "verse_start": 14, "verse_end": 14, "caption": "God's command to build the Ark"},
-        {"book_id": "gen", "chapter": 9, "verse_start": 13, "verse_end": 13, "caption": "The rainbow, sign of the covenant"}
+        {
+          "book_id": "gen",
+          "chapter": 6,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "\"A righteous man, blameless in his generation\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 6,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "God's command to build the Ark"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 7,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "The flood waters rise"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 9,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "The rainbow, sign of the covenant"
+        }
       ]
     },
     {
@@ -626,8 +2044,34 @@
       "sort_order": 60,
       "intro": "The mysterious priest-king of Salem who blessed Abraham, later seen as a foreshadowing of Christ's eternal priesthood.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 14, "verse_start": 18, "verse_end": 20, "caption": "Blesses Abraham with bread and wine"},
-        {"book_id": "heb", "chapter": 7, "verse_start": 3, "verse_end": 3, "caption": "A type of Christ's eternal priesthood"}
+        {
+          "book_id": "gen",
+          "chapter": 14,
+          "verse_start": 18,
+          "verse_end": 20,
+          "caption": "Blesses Abraham with bread and wine"
+        },
+        {
+          "book_id": "ps",
+          "chapter": 110,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "\"A priest forever after the order of Melchizedek\""
+        },
+        {
+          "book_id": "heb",
+          "chapter": 7,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "A type of Christ's eternal priesthood"
+        },
+        {
+          "book_id": "heb",
+          "chapter": 7,
+          "verse_start": 1,
+          "verse_end": 2,
+          "caption": "Without father, mother, or genealogy; king of righteousness"
+        }
       ]
     },
     {
@@ -637,8 +2081,34 @@
       "sort_order": 61,
       "intro": "Called by God to leave his homeland for the promise of a new nation, the father of many nations by faith.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 12, "verse_start": 1, "verse_end": 2, "caption": "God's call to leave his country"},
-        {"book_id": "gen", "chapter": 22, "verse_start": 10, "verse_end": 12, "caption": "The binding of Isaac"}
+        {
+          "book_id": "gen",
+          "chapter": 12,
+          "verse_start": 1,
+          "verse_end": 2,
+          "caption": "God's call to leave his country"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 15,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "\"He believed the Lord, and it was counted to him as righteousness\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 17,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "Renamed Abraham, \"father of a multitude\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 22,
+          "verse_start": 10,
+          "verse_end": 12,
+          "caption": "The binding of Isaac"
+        }
       ]
     },
     {
@@ -648,8 +2118,34 @@
       "sort_order": 62,
       "intro": "Abraham's wife, who laughed at God's promise of a son in her old age, then bore Isaac as promised.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 18, "verse_start": 12, "verse_end": 12, "caption": "Laughs at the promise of a son"},
-        {"book_id": "gen", "chapter": 21, "verse_start": 6, "verse_end": 6, "caption": "\"God has made laughter for me\""}
+        {
+          "book_id": "gen",
+          "chapter": 18,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Laughs at the promise of a son"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 21,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Bears Isaac in her old age, as promised"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 21,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "\"God has made laughter for me\""
+        },
+        {
+          "book_id": "heb",
+          "chapter": 11,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "By faith she received power to conceive, past the age"
+        }
       ]
     },
     {
@@ -659,7 +2155,34 @@
       "sort_order": 63,
       "intro": "Sarah's servant, mother of Ishmael, twice driven into the wilderness and met there by God.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 16, "verse_start": 13, "verse_end": 13, "caption": "Names God \"the God who sees me\""}
+        {
+          "book_id": "gen",
+          "chapter": 16,
+          "verse_start": 7,
+          "verse_end": 8,
+          "caption": "Found by an angel of the Lord in the wilderness"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 16,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Names God \"the God who sees me\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 21,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "God hears her son crying in the wilderness"
+        },
+        {
+          "book_id": "gal",
+          "chapter": 4,
+          "verse_start": 24,
+          "verse_end": 25,
+          "caption": "Paul's allegory: Hagar represents the covenant of slavery"
+        }
       ]
     },
     {
@@ -669,8 +2192,34 @@
       "sort_order": 64,
       "intro": "The long-promised son of Abraham and Sarah, bound as a sacrifice on Moriah and later father of Jacob and Esau.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 22, "verse_start": 7, "verse_end": 8, "caption": "\"Where is the lamb for the offering?\""},
-        {"book_id": "gen", "chapter": 24, "verse_start": 67, "verse_end": 67, "caption": "Marries Rebekah and is comforted"}
+        {
+          "book_id": "gen",
+          "chapter": 21,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Born to Abraham and Sarah in their old age"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 22,
+          "verse_start": 7,
+          "verse_end": 8,
+          "caption": "\"Where is the lamb for the offering?\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 24,
+          "verse_start": 67,
+          "verse_end": 67,
+          "caption": "Marries Rebekah and is comforted"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 27,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Blesses Jacob, believing him to be Esau"
+        }
       ]
     },
     {
@@ -680,7 +2229,34 @@
       "sort_order": 65,
       "intro": "Isaac's wife, chosen at a well for her kindness, who later favored Jacob and helped him secure the birthright blessing.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 24, "verse_start": 19, "verse_end": 19, "caption": "Offers to water Abraham's servant's camels"}
+        {
+          "book_id": "gen",
+          "chapter": 24,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Offers to water Abraham's servant's camels"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 25,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "Told two nations are in her womb"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 27,
+          "verse_start": 6,
+          "verse_end": 8,
+          "caption": "Instructs Jacob to deceive his father"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 24,
+          "verse_start": 58,
+          "verse_end": 58,
+          "caption": "Asked if she will go with Abraham's servant: \"I will go\""
+        }
       ]
     },
     {
@@ -690,8 +2266,34 @@
       "sort_order": 66,
       "intro": "Isaac's son, who wrestled with God at Peniel and was renamed Israel, father of the twelve tribes.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 32, "verse_start": 28, "verse_end": 28, "caption": "Renamed Israel after wrestling with God"},
-        {"book_id": "gen", "chapter": 28, "verse_start": 12, "verse_end": 12, "caption": "Dreams of a ladder to heaven"}
+        {
+          "book_id": "gen",
+          "chapter": 25,
+          "verse_start": 33,
+          "verse_end": 33,
+          "caption": "Buys Esau's birthright for bread and stew"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 28,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Dreams of a ladder to heaven"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 32,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "Renamed Israel after wrestling with God"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 33,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Reconciled with Esau"
+        }
       ]
     },
     {
@@ -701,7 +2303,34 @@
       "sort_order": 67,
       "intro": "Jacob's twin brother, who sold his birthright for a bowl of stew and was later reconciled with him.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 25, "verse_start": 33, "verse_end": 34, "caption": "Sells his birthright for bread and stew"}
+        {
+          "book_id": "gen",
+          "chapter": 25,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "A skillful hunter, a man of the field"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 25,
+          "verse_start": 33,
+          "verse_end": 34,
+          "caption": "Sells his birthright for bread and stew"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 33,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Runs to embrace Jacob after years apart"
+        },
+        {
+          "book_id": "heb",
+          "chapter": 12,
+          "verse_start": 16,
+          "verse_end": 17,
+          "caption": "Sold his birthright; found no chance to repent, though he sought it with tears"
+        }
       ]
     },
     {
@@ -711,7 +2340,34 @@
       "sort_order": 68,
       "intro": "Jacob's beloved wife, for whom he worked fourteen years, and mother of Joseph and Benjamin.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 29, "verse_start": 20, "verse_end": 20, "caption": "Jacob's seven years of labor for her love"}
+        {
+          "book_id": "gen",
+          "chapter": 29,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "Jacob loves her and works seven years for her"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 29,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Jacob's seven years of labor for her love"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 30,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "God remembers her and opens her womb"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 2,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "\"Rachel weeping for her children,\" quoted at the massacre of the innocents"
+        }
       ]
     },
     {
@@ -721,7 +2377,34 @@
       "sort_order": 69,
       "intro": "Jacob's first wife, less loved than her sister Rachel, yet mother of six of the twelve tribes including Judah.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 29, "verse_start": 31, "verse_end": 32, "caption": "God sees she is unloved, and opens her womb"}
+        {
+          "book_id": "gen",
+          "chapter": 29,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "Given to Jacob in place of Rachel"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 29,
+          "verse_start": 31,
+          "verse_end": 32,
+          "caption": "God sees she is unloved, and opens her womb"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 29,
+          "verse_start": 35,
+          "verse_end": 35,
+          "caption": "Names her son Judah, praising the Lord"
+        },
+        {
+          "book_id": "ruth",
+          "chapter": 4,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "The elders bless Ruth: \"like Rachel and Leah, who built up the house of Israel\""
+        }
       ]
     },
     {
@@ -731,9 +2414,34 @@
       "sort_order": 70,
       "intro": "Jacob's favored son, sold into slavery by his brothers, who rose to power in Egypt and forgave them.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 37, "verse_start": 28, "verse_end": 28, "caption": "Sold into slavery by his brothers"},
-        {"book_id": "gen", "chapter": 45, "verse_start": 4, "verse_end": 5, "caption": "\"I am Joseph your brother\""},
-        {"book_id": "gen", "chapter": 50, "verse_start": 20, "verse_end": 20, "caption": "\"You meant evil... God meant it for good\""}
+        {
+          "book_id": "gen",
+          "chapter": 37,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "Sold into slavery by his brothers"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 39,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "Refuses Potiphar's wife: \"How can I sin against God?\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 45,
+          "verse_start": 4,
+          "verse_end": 5,
+          "caption": "\"I am Joseph your brother\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 50,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "\"You meant evil... God meant it for good\""
+        }
       ]
     },
     {
@@ -743,7 +2451,34 @@
       "sort_order": 71,
       "intro": "Jacob's fourth son, whose tribe would give rise to David and, through him, to Jesus.",
       "verse_refs": [
-        {"book_id": "gen", "chapter": 49, "verse_start": 10, "verse_end": 10, "caption": "\"The scepter shall not depart from Judah\""}
+        {
+          "book_id": "gen",
+          "chapter": 37,
+          "verse_start": 26,
+          "verse_end": 27,
+          "caption": "Proposes selling Joseph rather than killing him"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 44,
+          "verse_start": 33,
+          "verse_end": 33,
+          "caption": "Offers himself as a slave in place of Benjamin"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 49,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "\"The scepter shall not depart from Judah\""
+        },
+        {
+          "book_id": "mt",
+          "chapter": 1,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "Named in the genealogy of Jesus"
+        }
       ]
     },
     {
@@ -753,9 +2488,34 @@
       "sort_order": 72,
       "intro": "Rescued from the Nile as an infant, called from a burning bush to free Israel from Egypt and receive the Law at Sinai.",
       "verse_refs": [
-        {"book_id": "ex", "chapter": 3, "verse_start": 14, "verse_end": 14, "caption": "\"I AM WHO I AM\" at the burning bush"},
-        {"book_id": "ex", "chapter": 14, "verse_start": 21, "verse_end": 22, "caption": "Parts the Red Sea"},
-        {"book_id": "ex", "chapter": 20, "verse_start": 1, "verse_end": 3, "caption": "Receives the Ten Commandments"}
+        {
+          "book_id": "ex",
+          "chapter": 2,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Drawn out of the Nile and named by Pharaoh's daughter"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 3,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "\"I AM WHO I AM\" at the burning bush"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 14,
+          "verse_start": 21,
+          "verse_end": 22,
+          "caption": "Parts the Red Sea"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 20,
+          "verse_start": 1,
+          "verse_end": 3,
+          "caption": "Receives the Ten Commandments"
+        }
       ]
     },
     {
@@ -765,7 +2525,34 @@
       "sort_order": 73,
       "intro": "Moses' brother and spokesman, who became Israel's first high priest.",
       "verse_refs": [
-        {"book_id": "ex", "chapter": 4, "verse_start": 16, "verse_end": 16, "caption": "Appointed as Moses' spokesman"}
+        {
+          "book_id": "ex",
+          "chapter": 4,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Appointed as Moses' spokesman"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 28,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Set apart as Israel's first high priest"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 32,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Fashions the golden calf"
+        },
+        {
+          "book_id": "heb",
+          "chapter": 5,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "\"No one takes this honor... only when called by God, as Aaron was\""
+        }
       ]
     },
     {
@@ -775,7 +2562,34 @@
       "sort_order": 74,
       "intro": "Moses' sister, a prophetess who watched over him as a baby and led Israel's women in song after the Red Sea crossing.",
       "verse_refs": [
-        {"book_id": "ex", "chapter": 15, "verse_start": 20, "verse_end": 21, "caption": "Leads the women in song and dance"}
+        {
+          "book_id": "ex",
+          "chapter": 2,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Watches over baby Moses in the reeds"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 15,
+          "verse_start": 20,
+          "verse_end": 21,
+          "caption": "Leads the women in song and dance"
+        },
+        {
+          "book_id": "num",
+          "chapter": 12,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Struck with leprosy for speaking against Moses"
+        },
+        {
+          "book_id": "mic",
+          "chapter": 6,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Named alongside Moses and Aaron as sent to lead Israel"
+        }
       ]
     },
     {
@@ -785,8 +2599,34 @@
       "sort_order": 75,
       "intro": "Moses' successor, who led Israel across the Jordan into the Promised Land and captured Jericho.",
       "verse_refs": [
-        {"book_id": "josh", "chapter": 1, "verse_start": 9, "verse_end": 9, "caption": "\"Be strong and courageous\""},
-        {"book_id": "josh", "chapter": 6, "verse_start": 20, "verse_end": 20, "caption": "The walls of Jericho fall"}
+        {
+          "book_id": "num",
+          "chapter": 27,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "Chosen by God as Moses' successor"
+        },
+        {
+          "book_id": "josh",
+          "chapter": 1,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "\"Be strong and courageous\""
+        },
+        {
+          "book_id": "josh",
+          "chapter": 3,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Israel crosses the Jordan on dry ground"
+        },
+        {
+          "book_id": "josh",
+          "chapter": 6,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "The walls of Jericho fall"
+        }
       ]
     },
     {
@@ -796,7 +2636,34 @@
       "sort_order": 76,
       "intro": "One of twelve spies sent into Canaan, whose faithful report and lifelong trust in God earned him entry into the Promised Land.",
       "verse_refs": [
-        {"book_id": "num", "chapter": 13, "verse_start": 30, "verse_end": 30, "caption": "\"We are well able to overcome it\""}
+        {
+          "book_id": "num",
+          "chapter": 13,
+          "verse_start": 30,
+          "verse_end": 30,
+          "caption": "\"We are well able to overcome it\""
+        },
+        {
+          "book_id": "num",
+          "chapter": 14,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "Promised entry to the land for his faithfulness"
+        },
+        {
+          "book_id": "josh",
+          "chapter": 14,
+          "verse_start": 10,
+          "verse_end": 11,
+          "caption": "Still strong at eighty-five, ready for battle"
+        },
+        {
+          "book_id": "josh",
+          "chapter": 14,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Hebron becomes his inheritance for wholly following the Lord"
+        }
       ]
     },
     {
@@ -806,7 +2673,34 @@
       "sort_order": 77,
       "intro": "A woman of Jericho who hid Israel's spies and was spared when the city fell, later an ancestor of David.",
       "verse_refs": [
-        {"book_id": "josh", "chapter": 2, "verse_start": 4, "verse_end": 4, "caption": "Hides the Israelite spies"}
+        {
+          "book_id": "josh",
+          "chapter": 2,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Hides the Israelite spies"
+        },
+        {
+          "book_id": "josh",
+          "chapter": 2,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "\"The Lord your God, he is God\""
+        },
+        {
+          "book_id": "josh",
+          "chapter": 6,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "Spared with her family when Jericho falls"
+        },
+        {
+          "book_id": "heb",
+          "chapter": 11,
+          "verse_start": 31,
+          "verse_end": 31,
+          "caption": "By faith she did not perish, having welcomed the spies"
+        }
       ]
     },
     {
@@ -816,7 +2710,34 @@
       "sort_order": 78,
       "intro": "A prophetess and judge of Israel who led the nation to victory over its oppressors.",
       "verse_refs": [
-        {"book_id": "judg", "chapter": 4, "verse_start": 4, "verse_end": 5, "caption": "Judging Israel under the palm of Deborah"}
+        {
+          "book_id": "judg",
+          "chapter": 4,
+          "verse_start": 4,
+          "verse_end": 5,
+          "caption": "Judging Israel under the palm of Deborah"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 4,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Sends Barak into battle"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 5,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Her victory song"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 4,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "Tells Barak the Lord will sell Sisera into the hand of a woman"
+        }
       ]
     },
     {
@@ -826,7 +2747,34 @@
       "sort_order": 79,
       "intro": "A hesitant farmer called to lead Israel, who defeated a vast Midianite army with just three hundred men.",
       "verse_refs": [
-        {"book_id": "judg", "chapter": 7, "verse_start": 7, "verse_end": 7, "caption": "God whittles his army down to 300"}
+        {
+          "book_id": "judg",
+          "chapter": 6,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "The angel greets him: \"mighty man of valor\""
+        },
+        {
+          "book_id": "judg",
+          "chapter": 6,
+          "verse_start": 37,
+          "verse_end": 37,
+          "caption": "Tests God with the fleece"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 7,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "God whittles his army down to 300"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 7,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "\"A sword for the Lord and for Gideon!\""
+        }
       ]
     },
     {
@@ -836,8 +2784,34 @@
       "sort_order": 80,
       "intro": "A judge of Israel gifted with supernatural strength through his Nazirite vow, undone by his love for Delilah.",
       "verse_refs": [
-        {"book_id": "judg", "chapter": 16, "verse_start": 17, "verse_end": 17, "caption": "Reveals the secret of his strength"},
-        {"book_id": "judg", "chapter": 16, "verse_start": 30, "verse_end": 30, "caption": "His final act, pulling down the temple"}
+        {
+          "book_id": "judg",
+          "chapter": 13,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "Set apart as a Nazirite from birth"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 14,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "Tears a lion apart with his bare hands"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 16,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Reveals the secret of his strength"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 16,
+          "verse_start": 30,
+          "verse_end": 30,
+          "caption": "His final act, pulling down the temple"
+        }
       ]
     },
     {
@@ -847,7 +2821,34 @@
       "sort_order": 81,
       "intro": "The woman who wheedled the secret of Samson's strength out of him and betrayed him to the Philistines.",
       "verse_refs": [
-        {"book_id": "judg", "chapter": 16, "verse_start": 19, "verse_end": 19, "caption": "Has Samson's hair cut while he sleeps"}
+        {
+          "book_id": "judg",
+          "chapter": 16,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "Bribed by the Philistine lords"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 16,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "\"How can you say, 'I love you'?\""
+        },
+        {
+          "book_id": "judg",
+          "chapter": 16,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Has Samson's hair cut while he sleeps"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 16,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Loved by Samson, in the Valley of Sorek"
+        }
       ]
     },
     {
@@ -857,7 +2858,34 @@
       "sort_order": 82,
       "intro": "A Moabite widow whose loyalty to her mother-in-law Naomi led her to become an ancestor of David.",
       "verse_refs": [
-        {"book_id": "ruth", "chapter": 1, "verse_start": 16, "verse_end": 16, "caption": "\"Where you go, I will go\""}
+        {
+          "book_id": "ruth",
+          "chapter": 1,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "\"Where you go, I will go\""
+        },
+        {
+          "book_id": "ruth",
+          "chapter": 2,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Gleans in the fields of Boaz"
+        },
+        {
+          "book_id": "ruth",
+          "chapter": 4,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Marries Boaz"
+        },
+        {
+          "book_id": "ruth",
+          "chapter": 4,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Becomes the great-grandmother of David"
+        }
       ]
     },
     {
@@ -867,7 +2895,34 @@
       "sort_order": 83,
       "intro": "Ruth's mother-in-law, who lost her husband and sons in Moab and returned to Bethlehem bereaved, then blessed.",
       "verse_refs": [
-        {"book_id": "ruth", "chapter": 1, "verse_start": 20, "verse_end": 20, "caption": "\"Call me Mara, for the Almighty has dealt bitterly\""}
+        {
+          "book_id": "ruth",
+          "chapter": 1,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "\"Call me Mara, for the Almighty has dealt bitterly\""
+        },
+        {
+          "book_id": "ruth",
+          "chapter": 2,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Recognizes God's kindness through Boaz"
+        },
+        {
+          "book_id": "ruth",
+          "chapter": 4,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Takes Ruth's newborn son to her arms"
+        },
+        {
+          "book_id": "ruth",
+          "chapter": 1,
+          "verse_start": 8,
+          "verse_end": 9,
+          "caption": "Blesses her daughters-in-law and urges them to return home"
+        }
       ]
     },
     {
@@ -877,7 +2932,34 @@
       "sort_order": 84,
       "intro": "A kind and wealthy landowner who married Ruth as her kinsman-redeemer, becoming an ancestor of David.",
       "verse_refs": [
-        {"book_id": "ruth", "chapter": 4, "verse_start": 13, "verse_end": 13, "caption": "Marries Ruth"}
+        {
+          "book_id": "ruth",
+          "chapter": 2,
+          "verse_start": 8,
+          "verse_end": 9,
+          "caption": "Instructs his workers to let Ruth glean freely"
+        },
+        {
+          "book_id": "ruth",
+          "chapter": 3,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "\"You are a worthy woman\""
+        },
+        {
+          "book_id": "ruth",
+          "chapter": 4,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Marries Ruth"
+        },
+        {
+          "book_id": "ruth",
+          "chapter": 4,
+          "verse_start": 9,
+          "verse_end": 10,
+          "caption": "Publicly declares he has bought Naomi's land and taken Ruth as wife"
+        }
       ]
     },
     {
@@ -887,8 +2969,34 @@
       "sort_order": 85,
       "intro": "Given to the Lord's service as a boy, Israel's last judge and a prophet who anointed both Saul and David as king.",
       "verse_refs": [
-        {"book_id": "1sam", "chapter": 3, "verse_start": 10, "verse_end": 10, "caption": "\"Speak, for your servant hears\""},
-        {"book_id": "1sam", "chapter": 16, "verse_start": 13, "verse_end": 13, "caption": "Anoints David king"}
+        {
+          "book_id": "1sam",
+          "chapter": 3,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "\"Speak, for your servant hears\""
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 8,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "God tells him Israel has rejected him as king"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 10,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Anoints Saul as the first king"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 16,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Anoints David king"
+        }
       ]
     },
     {
@@ -898,7 +3006,34 @@
       "sort_order": 86,
       "intro": "Samuel's mother, who prayed years for a child and dedicated him to the Lord's service once he was born.",
       "verse_refs": [
-        {"book_id": "1sam", "chapter": 1, "verse_start": 27, "verse_end": 27, "caption": "\"For this child I prayed\""}
+        {
+          "book_id": "1sam",
+          "chapter": 1,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Prays in bitterness of soul for a son"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 1,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "\"For this child I prayed\""
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 2,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Her song of praise"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 1,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Bears a son and names him Samuel"
+        }
       ]
     },
     {
@@ -908,8 +3043,34 @@
       "sort_order": 87,
       "intro": "Israel's first king, tall and promising, whose disobedience and jealousy of David led to his downfall.",
       "verse_refs": [
-        {"book_id": "1sam", "chapter": 10, "verse_start": 1, "verse_end": 1, "caption": "Anointed as Israel's first king"},
-        {"book_id": "1sam", "chapter": 15, "verse_start": 23, "verse_end": 23, "caption": "\"Rebellion is as the sin of divination\""}
+        {
+          "book_id": "1sam",
+          "chapter": 9,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Described as tall and handsome"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 10,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Anointed as Israel's first king"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 15,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "\"Rebellion is as the sin of divination\""
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 18,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Grows jealous of David's fame"
+        }
       ]
     },
     {
@@ -919,8 +3080,34 @@
       "sort_order": 88,
       "intro": "Saul's son, whose deep friendship with David survived his father's jealous rage.",
       "verse_refs": [
-        {"book_id": "1sam", "chapter": 18, "verse_start": 1, "verse_end": 1, "caption": "His soul knit to David's"},
-        {"book_id": "2sam", "chapter": 1, "verse_start": 26, "verse_end": 26, "caption": "David's lament for Jonathan"}
+        {
+          "book_id": "1sam",
+          "chapter": 18,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "His soul knit to David's"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 18,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Makes a covenant with David"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 20,
+          "verse_start": 42,
+          "verse_end": 42,
+          "caption": "Bids David farewell in friendship"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 1,
+          "verse_start": 26,
+          "verse_end": 26,
+          "caption": "David's lament for Jonathan"
+        }
       ]
     },
     {
@@ -930,9 +3117,34 @@
       "sort_order": 89,
       "intro": "A shepherd boy who slew Goliath and became Israel's greatest king, a man after God's own heart despite his sins.",
       "verse_refs": [
-        {"book_id": "1sam", "chapter": 17, "verse_start": 45, "verse_end": 45, "caption": "Faces Goliath in the name of the Lord"},
-        {"book_id": "ps", "chapter": 23, "verse_start": 1, "verse_end": 1, "caption": "\"The Lord is my shepherd\""},
-        {"book_id": "2sam", "chapter": 12, "verse_start": 13, "verse_end": 13, "caption": "\"I have sinned against the Lord\""}
+        {
+          "book_id": "1sam",
+          "chapter": 16,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Chosen and anointed as a young shepherd"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 17,
+          "verse_start": 45,
+          "verse_end": 45,
+          "caption": "Faces Goliath in the name of the Lord"
+        },
+        {
+          "book_id": "ps",
+          "chapter": 23,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "\"The Lord is my shepherd\""
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 12,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "\"I have sinned against the Lord\""
+        }
       ]
     },
     {
@@ -942,8 +3154,34 @@
       "sort_order": 90,
       "intro": "The woman David took as his wife after a great sin against her family, and mother of Solomon.",
       "verse_refs": [
-        {"book_id": "2sam", "chapter": 11, "verse_start": 27, "verse_end": 27, "caption": "Becomes David's wife"},
-        {"book_id": "1kgs", "chapter": 1, "verse_start": 17, "verse_end": 17, "caption": "Secures the throne for her son Solomon"}
+        {
+          "book_id": "2sam",
+          "chapter": 11,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Seen bathing by David from his rooftop"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 11,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Becomes David's wife"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 1,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Secures the throne for her son Solomon"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 12,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "Bears Solomon, and David comforts her"
+        }
       ]
     },
     {
@@ -953,7 +3191,27 @@
       "sort_order": 91,
       "intro": "A court prophet who confronted King David over his sin with Bathsheba with a piercing parable.",
       "verse_refs": [
-        {"book_id": "2sam", "chapter": 12, "verse_start": 7, "verse_end": 7, "caption": "\"You are the man!\""}
+        {
+          "book_id": "2sam",
+          "chapter": 12,
+          "verse_start": 1,
+          "verse_end": 4,
+          "caption": "Tells David the parable of the poor man's lamb"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 12,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "\"You are the man!\""
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 7,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "Brings David God's word about building a house for the Lord"
+        }
       ]
     },
     {
@@ -963,7 +3221,34 @@
       "sort_order": 92,
       "intro": "David's handsome, rebellious son, whose revolt against his father ended in his own death.",
       "verse_refs": [
-        {"book_id": "2sam", "chapter": 18, "verse_start": 33, "verse_end": 33, "caption": "David's grief: \"O Absalom, my son\""}
+        {
+          "book_id": "2sam",
+          "chapter": 14,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "Praised for his handsome appearance"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 15,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Conspires to take the throne"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 18,
+          "verse_start": 33,
+          "verse_end": 33,
+          "caption": "David's grief: \"O Absalom, my son\""
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 15,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "Steals the hearts of the men of Israel"
+        }
       ]
     },
     {
@@ -973,8 +3258,34 @@
       "sort_order": 93,
       "intro": "David's son, who asked God for wisdom above riches, built the Temple in Jerusalem, and wrote much of the Wisdom literature.",
       "verse_refs": [
-        {"book_id": "1kgs", "chapter": 3, "verse_start": 9, "verse_end": 9, "caption": "Asks for a discerning heart"},
-        {"book_id": "1kgs", "chapter": 8, "verse_start": 10, "verse_end": 11, "caption": "The Temple filled with the glory of the Lord"}
+        {
+          "book_id": "1kgs",
+          "chapter": 3,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "Asks for a discerning heart"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 3,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "His wise judgment between two mothers"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 8,
+          "verse_start": 10,
+          "verse_end": 11,
+          "caption": "The Temple filled with the glory of the Lord"
+        },
+        {
+          "book_id": "pr",
+          "chapter": 1,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "\"The fear of the Lord is the beginning of knowledge\""
+        }
       ]
     },
     {
@@ -984,9 +3295,34 @@
       "sort_order": 94,
       "intro": "A fierce prophet who confronted the prophets of Baal on Mount Carmel and was taken up to heaven in a whirlwind.",
       "verse_refs": [
-        {"book_id": "1kgs", "chapter": 18, "verse_start": 38, "verse_end": 38, "caption": "Fire falls from heaven on Mount Carmel"},
-        {"book_id": "1kgs", "chapter": 19, "verse_start": 12, "verse_end": 12, "caption": "God speaks in a still, small voice"},
-        {"book_id": "2kgs", "chapter": 2, "verse_start": 11, "verse_end": 11, "caption": "Taken up to heaven in a whirlwind"}
+        {
+          "book_id": "1kgs",
+          "chapter": 17,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Declares a drought on Israel"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 18,
+          "verse_start": 38,
+          "verse_end": 38,
+          "caption": "Fire falls from heaven on Mount Carmel"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 19,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "God speaks in a still, small voice"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 2,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Taken up to heaven in a whirlwind"
+        }
       ]
     },
     {
@@ -996,7 +3332,34 @@
       "sort_order": 95,
       "intro": "Elijah's successor, who asked for a double portion of his spirit and performed many miracles for Israel.",
       "verse_refs": [
-        {"book_id": "2kgs", "chapter": 2, "verse_start": 9, "verse_end": 9, "caption": "Asks for a double portion of Elijah's spirit"}
+        {
+          "book_id": "1kgs",
+          "chapter": 19,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Called by Elijah while plowing"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 2,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "Asks for a double portion of Elijah's spirit"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 4,
+          "verse_start": 35,
+          "verse_end": 35,
+          "caption": "Restores a woman's dead son to life"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 5,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Heals Naaman of leprosy"
+        }
       ]
     },
     {
@@ -1006,7 +3369,34 @@
       "sort_order": 96,
       "intro": "A king of Israel who married the pagan Jezebel and led the nation into idolatry, opposed by Elijah.",
       "verse_refs": [
-        {"book_id": "1kgs", "chapter": 16, "verse_start": 33, "verse_end": 33, "caption": "Provokes the Lord more than any king before him"}
+        {
+          "book_id": "1kgs",
+          "chapter": 16,
+          "verse_start": 30,
+          "verse_end": 31,
+          "caption": "Marries Jezebel and serves Baal"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 16,
+          "verse_start": 33,
+          "verse_end": 33,
+          "caption": "Provokes the Lord more than any king before him"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 21,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Judged for seizing Naboth's vineyard"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 22,
+          "verse_start": 34,
+          "verse_end": 35,
+          "caption": "Struck by a random arrow and dies in his chariot"
+        }
       ]
     },
     {
@@ -1016,7 +3406,34 @@
       "sort_order": 97,
       "intro": "Ahab's foreign queen, who promoted Baal worship and hunted the prophets of the Lord.",
       "verse_refs": [
-        {"book_id": "1kgs", "chapter": 19, "verse_start": 2, "verse_end": 2, "caption": "Threatens Elijah's life"}
+        {
+          "book_id": "1kgs",
+          "chapter": 18,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Kills off the Lord's prophets"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 19,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Threatens Elijah's life"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 21,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "Arranges Naboth's death for his vineyard"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 9,
+          "verse_start": 33,
+          "verse_end": 33,
+          "caption": "\"Throw her down\" — her death at Jehu's order"
+        }
       ]
     },
     {
@@ -1026,9 +3443,34 @@
       "sort_order": 98,
       "intro": "A major prophet whose vision of God's glory sent him into ministry, and whose writings foretell the coming Messiah.",
       "verse_refs": [
-        {"book_id": "isa", "chapter": 6, "verse_start": 8, "verse_end": 8, "caption": "\"Here am I! Send me\""},
-        {"book_id": "isa", "chapter": 9, "verse_start": 6, "verse_end": 6, "caption": "\"Unto us a child is born\""},
-        {"book_id": "isa", "chapter": 53, "verse_start": 5, "verse_end": 5, "caption": "\"He was wounded for our transgressions\""}
+        {
+          "book_id": "isa",
+          "chapter": 6,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "\"Holy, holy, holy is the Lord of hosts\""
+        },
+        {
+          "book_id": "isa",
+          "chapter": 6,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "\"Here am I! Send me\""
+        },
+        {
+          "book_id": "isa",
+          "chapter": 9,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "\"Unto us a child is born\""
+        },
+        {
+          "book_id": "isa",
+          "chapter": 53,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "\"He was wounded for our transgressions\""
+        }
       ]
     },
     {
@@ -1038,8 +3480,34 @@
       "sort_order": 99,
       "intro": "\"The weeping prophet,\" called from youth to warn Judah of coming judgment while mourning for his people.",
       "verse_refs": [
-        {"book_id": "jer", "chapter": 1, "verse_start": 5, "verse_end": 5, "caption": "\"Before I formed you... I knew you\""},
-        {"book_id": "jer", "chapter": 29, "verse_start": 11, "verse_end": 11, "caption": "\"Plans for welfare and not for evil\""}
+        {
+          "book_id": "jer",
+          "chapter": 1,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "\"Before I formed you... I knew you\""
+        },
+        {
+          "book_id": "jer",
+          "chapter": 20,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "God's word like a fire shut up in his bones"
+        },
+        {
+          "book_id": "jer",
+          "chapter": 29,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "\"Plans for welfare and not for evil\""
+        },
+        {
+          "book_id": "jer",
+          "chapter": 38,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "Thrown into a muddy cistern for his message"
+        }
       ]
     },
     {
@@ -1049,7 +3517,34 @@
       "sort_order": 100,
       "intro": "A priest-prophet among the exiles in Babylon, known for vivid visions, including a valley of dry bones brought to life.",
       "verse_refs": [
-        {"book_id": "ezek", "chapter": 37, "verse_start": 5, "verse_end": 5, "caption": "\"I will cause breath to enter you\""}
+        {
+          "book_id": "ezek",
+          "chapter": 1,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "The heavens open and he sees visions of God"
+        },
+        {
+          "book_id": "ezek",
+          "chapter": 3,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Appointed as a watchman for Israel"
+        },
+        {
+          "book_id": "ezek",
+          "chapter": 37,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "\"I will cause breath to enter you\""
+        },
+        {
+          "book_id": "ezek",
+          "chapter": 24,
+          "verse_start": 16,
+          "verse_end": 18,
+          "caption": "Told his wife will die suddenly, and he must not mourn"
+        }
       ]
     },
     {
@@ -1059,8 +3554,34 @@
       "sort_order": 101,
       "intro": "A young exile in Babylon who kept faith with God through dream interpretations, court intrigue, and a night in the lions' den.",
       "verse_refs": [
-        {"book_id": "dan", "chapter": 6, "verse_start": 22, "verse_end": 22, "caption": "\"My God sent his angel and shut the lions' mouths\""},
-        {"book_id": "dan", "chapter": 3, "verse_start": 17, "verse_end": 18, "caption": "\"Our God... is able to deliver us\""}
+        {
+          "book_id": "dan",
+          "chapter": 1,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Resolves not to defile himself with the king's food"
+        },
+        {
+          "book_id": "dan",
+          "chapter": 2,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "Interprets Nebuchadnezzar's dream"
+        },
+        {
+          "book_id": "dan",
+          "chapter": 3,
+          "verse_start": 17,
+          "verse_end": 18,
+          "caption": "\"Our God... is able to deliver us\""
+        },
+        {
+          "book_id": "dan",
+          "chapter": 6,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "\"My God sent his angel and shut the lions' mouths\""
+        }
       ]
     },
     {
@@ -1070,7 +3591,34 @@
       "sort_order": 102,
       "intro": "Daniel's three companions in Babylon, thrown into a fiery furnace for refusing to worship an idol, and preserved unharmed.",
       "verse_refs": [
-        {"book_id": "dan", "chapter": 3, "verse_start": 25, "verse_end": 25, "caption": "A fourth figure walks with them in the fire"}
+        {
+          "book_id": "dan",
+          "chapter": 3,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Refuse to worship the golden image"
+        },
+        {
+          "book_id": "dan",
+          "chapter": 3,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "\"We will not serve your gods\""
+        },
+        {
+          "book_id": "dan",
+          "chapter": 3,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "A fourth figure walks with them in the fire"
+        },
+        {
+          "book_id": "dan",
+          "chapter": 3,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Come out of the fire without even the smell of smoke"
+        }
       ]
     },
     {
@@ -1080,7 +3628,34 @@
       "sort_order": 103,
       "intro": "A prophet whose troubled marriage became a living picture of God's faithful love for an unfaithful Israel.",
       "verse_refs": [
-        {"book_id": "hos", "chapter": 11, "verse_start": 1, "verse_end": 1, "caption": "\"When Israel was a child, I loved him\""}
+        {
+          "book_id": "hos",
+          "chapter": 1,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Told to marry an unfaithful woman as a sign"
+        },
+        {
+          "book_id": "hos",
+          "chapter": 6,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "\"I desire steadfast love and not sacrifice\""
+        },
+        {
+          "book_id": "hos",
+          "chapter": 11,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "\"When Israel was a child, I loved him\""
+        },
+        {
+          "book_id": "hos",
+          "chapter": 3,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Told again to love an unfaithful woman, as a sign"
+        }
       ]
     },
     {
@@ -1090,7 +3665,34 @@
       "sort_order": 104,
       "intro": "A prophet who called Judah to repentance after a locust plague, and foretold the outpouring of God's Spirit.",
       "verse_refs": [
-        {"book_id": "joel", "chapter": 2, "verse_start": 28, "verse_end": 28, "caption": "\"I will pour out my Spirit on all flesh\""}
+        {
+          "book_id": "joel",
+          "chapter": 2,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "\"Rend your hearts and not your garments\""
+        },
+        {
+          "book_id": "joel",
+          "chapter": 2,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "\"I will restore the years the locust has eaten\""
+        },
+        {
+          "book_id": "joel",
+          "chapter": 2,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "\"I will pour out my Spirit on all flesh\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 2,
+          "verse_start": 16,
+          "verse_end": 17,
+          "caption": "Peter, at Pentecost: \"this is what was spoken through the prophet Joel\""
+        }
       ]
     },
     {
@@ -1100,7 +3702,34 @@
       "sort_order": 105,
       "intro": "A shepherd called from Judah to prophesy against Israel's injustice toward the poor.",
       "verse_refs": [
-        {"book_id": "amos", "chapter": 5, "verse_start": 24, "verse_end": 24, "caption": "\"Let justice roll down like waters\""}
+        {
+          "book_id": "amos",
+          "chapter": 1,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Introduced as a shepherd of Tekoa"
+        },
+        {
+          "book_id": "amos",
+          "chapter": 5,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "\"Let justice roll down like waters\""
+        },
+        {
+          "book_id": "amos",
+          "chapter": 7,
+          "verse_start": 14,
+          "verse_end": 15,
+          "caption": "\"I was... a herdsman... the Lord took me\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 15,
+          "verse_start": 16,
+          "verse_end": 17,
+          "caption": "Quoted by James at the Jerusalem council"
+        }
       ]
     },
     {
@@ -1110,8 +3739,34 @@
       "sort_order": 106,
       "intro": "A reluctant prophet who fled God's call to preach to Nineveh, was swallowed by a great fish, and finally obeyed.",
       "verse_refs": [
-        {"book_id": "jonah", "chapter": 1, "verse_start": 17, "verse_end": 17, "caption": "Swallowed by a great fish"},
-        {"book_id": "jonah", "chapter": 3, "verse_start": 10, "verse_end": 10, "caption": "Nineveh repents and is spared"}
+        {
+          "book_id": "jonah",
+          "chapter": 1,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Flees from the Lord toward Tarshish"
+        },
+        {
+          "book_id": "jonah",
+          "chapter": 1,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Swallowed by a great fish"
+        },
+        {
+          "book_id": "jonah",
+          "chapter": 3,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Preaches judgment to Nineveh"
+        },
+        {
+          "book_id": "jonah",
+          "chapter": 3,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Nineveh repents and is spared"
+        }
       ]
     },
     {
@@ -1121,8 +3776,34 @@
       "sort_order": 107,
       "intro": "A prophet of Judah who denounced corrupt leaders and foretold the Messiah's birth in Bethlehem.",
       "verse_refs": [
-        {"book_id": "mic", "chapter": 5, "verse_start": 2, "verse_end": 2, "caption": "Foretells Bethlehem as the Messiah's birthplace"},
-        {"book_id": "mic", "chapter": 6, "verse_start": 8, "verse_end": 8, "caption": "\"Do justice, love kindness, walk humbly\""}
+        {
+          "book_id": "mic",
+          "chapter": 3,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Filled with power to declare Israel's sin"
+        },
+        {
+          "book_id": "mic",
+          "chapter": 5,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Foretells Bethlehem as the Messiah's birthplace"
+        },
+        {
+          "book_id": "mic",
+          "chapter": 6,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "\"Do justice, love kindness, walk humbly\""
+        },
+        {
+          "book_id": "mt",
+          "chapter": 2,
+          "verse_start": 5,
+          "verse_end": 6,
+          "caption": "His Bethlehem prophecy quoted to Herod's chief priests"
+        }
       ]
     },
     {
@@ -1132,8 +3813,34 @@
       "sort_order": 108,
       "intro": "A blameless and upright man who lost everything, questioned God in his suffering, and remained faithful.",
       "verse_refs": [
-        {"book_id": "job", "chapter": 1, "verse_start": 21, "verse_end": 21, "caption": "\"The Lord gave, and the Lord has taken away\""},
-        {"book_id": "job", "chapter": 42, "verse_start": 5, "verse_end": 5, "caption": "\"Now my eye sees you\""}
+        {
+          "book_id": "job",
+          "chapter": 1,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Introduced as blameless and upright"
+        },
+        {
+          "book_id": "job",
+          "chapter": 1,
+          "verse_start": 21,
+          "verse_end": 21,
+          "caption": "\"The Lord gave, and the Lord has taken away\""
+        },
+        {
+          "book_id": "job",
+          "chapter": 19,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "\"I know that my Redeemer lives\""
+        },
+        {
+          "book_id": "job",
+          "chapter": 42,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "\"Now my eye sees you\""
+        }
       ]
     },
     {
@@ -1143,7 +3850,34 @@
       "sort_order": 109,
       "intro": "A priest and scribe who led exiles back to Jerusalem and renewed the people's commitment to God's Law.",
       "verse_refs": [
-        {"book_id": "ezra", "chapter": 7, "verse_start": 10, "verse_end": 10, "caption": "Set his heart to study and teach the Law"}
+        {
+          "book_id": "ezra",
+          "chapter": 7,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "A skilled scribe in the Law of Moses"
+        },
+        {
+          "book_id": "ezra",
+          "chapter": 7,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Set his heart to study and teach the Law"
+        },
+        {
+          "book_id": "ezra",
+          "chapter": 9,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "His prayer of shame over the people's unfaithfulness"
+        },
+        {
+          "book_id": "neh",
+          "chapter": 8,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "Reads the Law before the assembled people"
+        }
       ]
     },
     {
@@ -1153,7 +3887,34 @@
       "sort_order": 110,
       "intro": "Cupbearer to a Persian king who returned to Jerusalem and rebuilt its walls despite fierce opposition.",
       "verse_refs": [
-        {"book_id": "neh", "chapter": 6, "verse_start": 15, "verse_end": 15, "caption": "The wall completed in fifty-two days"}
+        {
+          "book_id": "neh",
+          "chapter": 1,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Weeps and fasts on hearing of Jerusalem's ruin"
+        },
+        {
+          "book_id": "neh",
+          "chapter": 2,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "Asks the king's permission to rebuild"
+        },
+        {
+          "book_id": "neh",
+          "chapter": 4,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "The builders work with a weapon in one hand"
+        },
+        {
+          "book_id": "neh",
+          "chapter": 6,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "The wall completed in fifty-two days"
+        }
       ]
     },
     {
@@ -1163,8 +3924,34 @@
       "sort_order": 111,
       "intro": "A Jewish queen of Persia who risked her life to save her people from destruction.",
       "verse_refs": [
-        {"book_id": "esth", "chapter": 4, "verse_start": 14, "verse_end": 14, "caption": "\"For such a time as this\""},
-        {"book_id": "esth", "chapter": 4, "verse_start": 16, "verse_end": 16, "caption": "\"If I perish, I perish\""}
+        {
+          "book_id": "esth",
+          "chapter": 2,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Chosen queen by the king"
+        },
+        {
+          "book_id": "esth",
+          "chapter": 4,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "\"For such a time as this\""
+        },
+        {
+          "book_id": "esth",
+          "chapter": 4,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "\"If I perish, I perish\""
+        },
+        {
+          "book_id": "esth",
+          "chapter": 7,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Pleads before the king for her people's lives"
+        }
       ]
     },
     {
@@ -1174,7 +3961,34 @@
       "sort_order": 112,
       "intro": "Esther's cousin and guardian, who raised the alarm over a plot against the Jews and was ultimately honored by the king.",
       "verse_refs": [
-        {"book_id": "esth", "chapter": 4, "verse_start": 13, "verse_end": 14, "caption": "Urges Esther to act for her people"}
+        {
+          "book_id": "esth",
+          "chapter": 2,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "Raises his cousin Esther as his own daughter"
+        },
+        {
+          "book_id": "esth",
+          "chapter": 4,
+          "verse_start": 13,
+          "verse_end": 14,
+          "caption": "Urges Esther to act for her people"
+        },
+        {
+          "book_id": "esth",
+          "chapter": 6,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Honored publicly by the king"
+        },
+        {
+          "book_id": "esth",
+          "chapter": 10,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Second in rank to the king, seeking the welfare of his people"
+        }
       ]
     },
     {
@@ -1185,7 +3999,34 @@
       "intro": "A righteous exile in Nineveh who, despite blindness and hardship, remained devoted to charity and prayer.",
       "requires_deuterocanon": true,
       "verse_refs": [
-        {"book_id": "tob", "chapter": 1, "verse_start": 3, "verse_end": 3, "caption": "His lifelong practice of charity"}
+        {
+          "book_id": "tob",
+          "chapter": 1,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "His lifelong practice of charity"
+        },
+        {
+          "book_id": "tob",
+          "chapter": 2,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Loses his sight"
+        },
+        {
+          "book_id": "tob",
+          "chapter": 11,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "His sight is restored"
+        },
+        {
+          "book_id": "tob",
+          "chapter": 4,
+          "verse_start": 3,
+          "verse_end": 5,
+          "caption": "His instructions to his son Tobias before the journey"
+        }
       ]
     },
     {
@@ -1196,7 +4037,34 @@
       "intro": "A brave and pious widow who saved her city by outwitting and defeating the enemy general Holofernes.",
       "requires_deuterocanon": true,
       "verse_refs": [
-        {"book_id": "jdt", "chapter": 13, "verse_start": 15, "verse_end": 15, "caption": "Delivers her city from Holofernes"}
+        {
+          "book_id": "jdt",
+          "chapter": 8,
+          "verse_start": 32,
+          "verse_end": 32,
+          "caption": "Resolves to act to save her city"
+        },
+        {
+          "book_id": "jdt",
+          "chapter": 13,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Strikes down Holofernes"
+        },
+        {
+          "book_id": "jdt",
+          "chapter": 13,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "Delivers her city from Holofernes"
+        },
+        {
+          "book_id": "jdt",
+          "chapter": 8,
+          "verse_start": 4,
+          "verse_end": 8,
+          "caption": "Introduced as a devout widow of great reputation"
+        }
       ]
     }
   ]

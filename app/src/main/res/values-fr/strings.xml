@@ -2,7 +2,7 @@
     <string name="app_name">Pocket Bible</string>
 
     <string name="nav_topics">Sujets</string>
-    <string name="nav_read">Lire</string>
+    <string name="nav_read">Bible</string>
     <string name="nav_saved">Enregistrés</string>
 
     <string name="language_button">Langue</string>
@@ -17,7 +17,7 @@
     <string name="home_i_am_feeling">Je me sens…</string>
     <string name="home_verse_of_day">Verset du jour</string>
 
-    <string name="read_title">Lire</string>
+    <string name="read_title">Bible</string>
     <string name="read_subtitle">Accède directement à une référence, ou parcours ce qui est disponible ci-dessous.</string>
     <string name="read_empty_browse">Aucun chapitre n\'est encore disponible ci-dessous — il s\'agit encore d\'une version préliminaire. Le texte complet provient d\'une importation groupée, pas de cet écran.</string>
     <string name="read_browse">Parcourir</string>
