@@ -50,16 +50,20 @@ class MainActivity : AppCompatActivity() {
                 AppScaffold(
                     viewModel = viewModel,
                     onLanguageSelected = { tag ->
-                        // Shown in the language that's about to be replaced, since the
-                        // switch (and recreate()) hasn't happened yet at this point.
-                        Toast.makeText(this, getString(R.string.language_restarting), Toast.LENGTH_SHORT).show()
-                        val locales = if (tag == null) {
-                            LocaleListCompat.getEmptyLocaleList()
-                        } else {
-                            LocaleListCompat.forLanguageTags(tag)
+                        val current = AppCompatDelegate.getApplicationLocales()
+                        val alreadySelected = if (tag == null) current.isEmpty else current[0]?.language == tag
+                        if (!alreadySelected) {
+                            // Shown in the language that's about to be replaced, since the
+                            // switch (and recreate()) hasn't happened yet at this point.
+                            Toast.makeText(this, getString(R.string.language_restarting), Toast.LENGTH_SHORT).show()
+                            val locales = if (tag == null) {
+                                LocaleListCompat.getEmptyLocaleList()
+                            } else {
+                                LocaleListCompat.forLanguageTags(tag)
+                            }
+                            AppCompatDelegate.setApplicationLocales(locales)
+                            recreate()
                         }
-                        AppCompatDelegate.setApplicationLocales(locales)
-                        recreate()
                     }
                 )
             }
