@@ -4,6 +4,7 @@
     <string name="nav_topics">Themen</string>
     <string name="nav_read">Bibel</string>
     <string name="nav_saved">Gespeichert</string>
+    <string name="nav_characters">Persönlichkeiten</string>
 
     <string name="language_button">Sprache</string>
     <string name="language_system_default">Systemstandard</string>
@@ -36,6 +37,25 @@
 
     <string name="saved_title">Gespeichert</string>
     <string name="saved_empty">Verse, die du speicherst, erscheinen hier und bleiben offline verfügbar.</string>
+
+    <!-- Personalities tab -->
+    <string name="character_title">Persönlichkeiten</string>
+    <string name="character_subtitle">Lerne die Menschen der Bibel kennen und die Verse, die ihre Geschichte erzählen.</string>
+    <string name="character_search_placeholder">Nach Namen suchen</string>
+    <string name="character_no_matches">Keine Personen entsprechen dieser Suche.</string>
+    <string name="character_famous_verses">Verse über sie</string>
+    <string name="character_verse_unavailable">In dieser Sprache noch nicht verfügbar.</string>
+    <string name="character_category_central">Die zentrale Gestalt</string>
+    <string name="character_category_holy_family">Heilige Familie und Wegbereiter</string>
+    <string name="character_category_apostles">Die zwölf Apostel</string>
+    <string name="character_category_early_church">Frühe Kirche</string>
+    <string name="character_category_women_and_others">Frauen und andere um Jesus</string>
+    <string name="character_category_opposed_jesus">Gegner Jesu</string>
+    <string name="character_category_patriarchs">Patriarchen und frühe Genesis</string>
+    <string name="character_category_exodus_judges">Von Exodus bis zu den Richtern</string>
+    <string name="character_category_kingdom">Königszeit</string>
+    <string name="character_category_prophets">Propheten</string>
+    <string name="character_category_post_exile">Nachexilische Zeit und Deuterokanon</string>
 
     <string name="verse_no_entries">Noch keine Einträge für %1$s.</string>
     <string name="verse_what_it_means">Was das für dich bedeutet</string>

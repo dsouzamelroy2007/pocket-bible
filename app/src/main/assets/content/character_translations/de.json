@@ -1,0 +1,576 @@
+{
+  "language": "de",
+  "_note": "German name/intro translations for the Personalities tab, original devotional prose (not scripture) -- same translation approach already used for content/topics/de.json. Worth a native-speaker spot-check before wide release, same caveat as the rest of this prototype's authored/translated content.",
+  "character_translations": [
+    {
+      "character_id": "jesus",
+      "name": "Jesus Christus",
+      "intro": "Der Sohn Gottes, dessen Geburt, Lehre, Tod und Auferstehung im Mittelpunkt des Neuen Testaments und des christlichen Glaubens stehen."
+    },
+    {
+      "character_id": "mary-mother-of-jesus",
+      "name": "Maria, Mutter Jesu",
+      "intro": "Die junge Frau aus Nazaret, die Ja sagte zur Mutterschaft des Messias und bis zum Kreuz bei ihm blieb."
+    },
+    {
+      "character_id": "joseph-husband-of-mary",
+      "name": "Josef",
+      "intro": "Ein Zimmermann aus Nazaret, Ehemann Marias und Pflegevater Jesu, der seine Familie durch Träume und Widrigkeiten beschützte."
+    },
+    {
+      "character_id": "john-the-baptist",
+      "name": "Johannes der Täufer",
+      "intro": "Der Prophet, der Israel zur Umkehr rief und Jesus im Jordan taufte, um ihm den Weg zu bereiten."
+    },
+    {
+      "character_id": "elizabeth",
+      "name": "Elisabeth",
+      "intro": "Marias Verwandte, die Johannes den Täufer in ihrem hohen Alter empfing und Maria als Mutter ihres Herrn begrüßte."
+    },
+    {
+      "character_id": "zechariah-father-of-john",
+      "name": "Zacharias",
+      "intro": "Ein Priester, der wegen seines Zweifels an der Verheißung des Engels verstummte und dessen Stimme bei Johannes' Geburt in einem prophetischen Lobgesang zurückkehrte."
+    },
+    {
+      "character_id": "simeon",
+      "name": "Simeon",
+      "intro": "Ein frommer alter Mann, dem verheißen war, den Messias vor seinem Tod zu sehen, und der das Jesuskind im Tempel in seine Arme nahm."
+    },
+    {
+      "character_id": "anna-prophetess",
+      "name": "Hanna",
+      "intro": "Eine betagte Prophetin, die Tag und Nacht im Tempel Gott diente und im Jesuskind die Erlösung Jerusalems erkannte."
+    },
+    {
+      "character_id": "peter",
+      "name": "Petrus",
+      "intro": "Ein Fischer, „der Fels\" genannt, dessen mutiger Glaube und schmerzhaftes Versagen ihn zum menschlichsten der Apostel machen -- und zum ersten Leiter der Kirche."
+    },
+    {
+      "character_id": "andrew",
+      "name": "Andreas",
+      "intro": "Petrus' Bruder und der erste Apostel, den Jesus berief; er brachte zuerst Petrus und später den Jungen mit den Broten und Fischen zu Jesus."
+    },
+    {
+      "character_id": "john-apostle",
+      "name": "Johannes",
+      "intro": "„Der Jünger, den Jesus liebte\", der sich beim letzten Abendmahl an ihn lehnte und später ein Evangelium, drei Briefe und die Offenbarung schrieb."
+    },
+    {
+      "character_id": "james-son-of-zebedee",
+      "name": "Jakobus (Sohn des Zebedäus)",
+      "intro": "Johannes' Bruder, einer der engsten Vertrauten bei der Verklärung Jesu und der erste Apostel, der als Märtyrer starb."
+    },
+    {
+      "character_id": "philip-apostle",
+      "name": "Philippus",
+      "intro": "Ein Apostel aus Betsaida, der Natanael zu Jesus brachte und später bat: „Zeig uns den Vater\"."
+    },
+    {
+      "character_id": "bartholomew",
+      "name": "Bartholomäus (Nathanael)",
+      "intro": "Ein Apostel, den Jesus einen „Israeliten, in dem kein Falsch ist\" nannte, und der überzeugt wurde, weil Jesus ihn unter dem Feigenbaum gesehen hatte."
+    },
+    {
+      "character_id": "thomas",
+      "name": "Thomas",
+      "intro": "Der Apostel, der die Auferstehung bezweifelte, bis er Jesu Wunden selbst berührte -- und ihn dann als Herrn und Gott bekannte."
+    },
+    {
+      "character_id": "matthew",
+      "name": "Matthäus",
+      "intro": "Ein verachteter Zöllner, der seinen Zollstand verließ, um Jesus zu folgen, und später ein Evangelium schrieb, das ihn als den verheißenen Messias darstellt."
+    },
+    {
+      "character_id": "james-son-of-alphaeus",
+      "name": "Jakobus (Sohn des Alphäus)",
+      "intro": "Einer der Zwölf, manchmal „Jakobus der Jüngere\" genannt, um ihn von Jakobus, dem Sohn des Zebedäus, zu unterscheiden."
+    },
+    {
+      "character_id": "thaddaeus",
+      "name": "Thaddäus (Judas)",
+      "intro": "Ein Apostel, auch Judas genannt, der Jesus beim letzten Abendmahl fragte, warum er sich nur seinen Jüngern offenbaren wolle."
+    },
+    {
+      "character_id": "simon-the-zealot",
+      "name": "Simon der Zelot",
+      "intro": "Einer der Zwölf, als Zelot bezeichnet -- vermutlich verbunden mit der Bewegung, die sich der römischen Herrschaft widersetzte."
+    },
+    {
+      "character_id": "judas-iscariot",
+      "name": "Judas Iskariot",
+      "intro": "Der Apostel, der Jesus für dreißig Silberstücke verriet und dessen Reue in Verzweiflung statt in Umkehr endete."
+    },
+    {
+      "character_id": "paul",
+      "name": "Paulus",
+      "intro": "Ein eifriger Christenverfolger, der auf dem Weg nach Damaskus verwandelt wurde -- zum unermüdlichsten Missionar und Schriftsteller der Kirche."
+    },
+    {
+      "character_id": "barnabas",
+      "name": "Barnabas",
+      "intro": "„Sohn des Trostes\", der sich für den bekehrten Paulus verbürgte und dessen erster Missionsbegleiter wurde."
+    },
+    {
+      "character_id": "silas",
+      "name": "Silas",
+      "intro": "Paulus' Begleiter, der mit ihm in Philippi gefangen genommen und ausgepeitscht wurde und mit ihm um Mitternacht im Gefängnis Loblieder sang."
+    },
+    {
+      "character_id": "timothy",
+      "name": "Timotheus",
+      "intro": "Ein junger Jünger, den Paulus wie einen Sohn im Glauben behandelte und dem er die Leitung der Gemeinde in Ephesus anvertraute."
+    },
+    {
+      "character_id": "titus",
+      "name": "Titus",
+      "intro": "Ein Heidenchrist und vertrauter Abgesandter, den Paulus auf Kreta zurückließ, um dort die Gemeinden zu ordnen."
+    },
+    {
+      "character_id": "luke",
+      "name": "Lukas",
+      "intro": "Ein Arzt und Heidenchrist, der sorgfältig recherchierte und ein Evangelium sowie die Apostelgeschichte schrieb."
+    },
+    {
+      "character_id": "mark",
+      "name": "Markus (Johannes Markus)",
+      "intro": "Ein junger Begleiter von Paulus und Barnabas, dessen frühes Versagen zu einem Zerwürfnis führte und der später das älteste Evangelium schrieb."
+    },
+    {
+      "character_id": "stephen",
+      "name": "Stephanus",
+      "intro": "Ein Diakon voller Gnade und Kraft, dessen mutige Predigt zu seiner Steinigung als erster Märtyrer der Kirche führte."
+    },
+    {
+      "character_id": "philip-the-evangelist",
+      "name": "Philippus der Evangelist",
+      "intro": "Einer der Sieben, die zum Dienst in der frühen Kirche berufen wurden; er erklärte einem äthiopischen Beamten die Schrift und taufte ihn."
+    },
+    {
+      "character_id": "cornelius",
+      "name": "Kornelius",
+      "intro": "Ein frommer römischer Hauptmann, dessen Vision -- und die des Petrus -- der Kirche die Mission unter den Heiden eröffnete."
+    },
+    {
+      "character_id": "priscilla-and-aquila",
+      "name": "Priszilla und Aquila",
+      "intro": "Ein Missionarsehepaar, von Beruf Zeltmacher, das eine Hausgemeinde beherbergte und Apollos genauer unterwies."
+    },
+    {
+      "character_id": "apollos",
+      "name": "Apollos",
+      "intro": "Ein wortgewaltiger, schriftkundiger Prediger, dessen Dienst begoss, was Paulus in Korinth gepflanzt hatte."
+    },
+    {
+      "character_id": "lydia",
+      "name": "Lydia",
+      "intro": "Eine Purpurhändlerin aus Philippi und die erste bezeugte Bekehrte in Europa, die ihr Haus für Paulus' Mission öffnete."
+    },
+    {
+      "character_id": "james-brother-of-jesus",
+      "name": "Jakobus, Bruder Jesu",
+      "intro": "Ein Leiter der Jerusalemer Gemeinde, der einst an Jesus zweifelte, später dem Auferstandenen begegnete und einen Brief des Neuen Testaments schrieb."
+    },
+    {
+      "character_id": "jude-brother-of-jesus",
+      "name": "Judas, Bruder Jesu",
+      "intro": "Ein Bruder Jesu und des Jakobus, der einen kurzen, eindringlichen Brief gegen falsche Lehrer schrieb."
+    },
+    {
+      "character_id": "philemon",
+      "name": "Philemon",
+      "intro": "Ein christlicher Sklavenhalter, an den Paulus persönlich schrieb, um ihn zu bitten, seinen entlaufenen Sklaven Onesimus als Bruder aufzunehmen."
+    },
+    {
+      "character_id": "onesimus",
+      "name": "Onesimus",
+      "intro": "Ein entlaufener Sklave, der unter Paulus' Fürsorge Christ wurde und mit einer Bitte um Gnade zu seinem Herrn zurückgeschickt wurde."
+    },
+    {
+      "character_id": "mary-magdalene",
+      "name": "Maria Magdalena",
+      "intro": "Eine Frau, die Jesus von schwerer Bedrängnis befreite; sie blieb am Kreuz und sah ihn als Erste auferstanden."
+    },
+    {
+      "character_id": "martha",
+      "name": "Marta",
+      "intro": "Schwester von Maria und Lazarus, abgelenkt von der Bewirtung Jesu, und später diejenige, die ihn vor der Auferweckung des Lazarus als den Christus bekannte."
+    },
+    {
+      "character_id": "mary-of-bethany",
+      "name": "Maria von Betanien",
+      "intro": "Schwester von Marta und Lazarus, bekannt dafür, zu Jesu Füßen zu sitzen und ihn mit kostbarem Öl zu salben."
+    },
+    {
+      "character_id": "lazarus",
+      "name": "Lazarus",
+      "intro": "Ein Freund Jesu, der starb und vier Tage im Grab lag, bevor Jesus ihn ins Leben zurückrief."
+    },
+    {
+      "character_id": "nicodemus",
+      "name": "Nikodemus",
+      "intro": "Ein Pharisäer, der nachts mit Fragen zu Jesus kam und später half, ihn würdevoll zu bestatten."
+    },
+    {
+      "character_id": "samaritan-woman",
+      "name": "Die Samariterin",
+      "intro": "Eine Frau, die Jesus an einem Brunnen traf; ihr ehrliches Gespräch über ihr Leben machte sie zur Verkünderin für ihre ganze Stadt."
+    },
+    {
+      "character_id": "zacchaeus",
+      "name": "Zachäus",
+      "intro": "Ein reicher, kleinwüchsiger Zöllner, der auf einen Baum kletterte, um Jesus zu sehen, und die Hälfte seines Besitzes weggab, nachdem Jesus bei ihm zu Gast war."
+    },
+    {
+      "character_id": "bartimaeus",
+      "name": "Bartimäus",
+      "intro": "Ein blinder Bettler aus Jericho, dessen beharrlichen Ruf um Erbarmen Jesus erhörte und ihm das Augenlicht schenkte."
+    },
+    {
+      "character_id": "joseph-of-arimathea",
+      "name": "Josef von Arimathäa",
+      "intro": "Ein wohlhabender, heimlicher Jünger, der Pilatus um Jesu Leichnam bat und ihn in sein eigenes, neues Grab legte."
+    },
+    {
+      "character_id": "simon-of-cyrene",
+      "name": "Simon von Zyrene",
+      "intro": "Ein Vorübergehender, der gezwungen wurde, Jesu Kreuz zu tragen, und so unwissentlich am Weg nach Golgota teilhatte."
+    },
+    {
+      "character_id": "dorcas",
+      "name": "Dorkas (Tabita)",
+      "intro": "Eine Jüngerin in Joppe, bekannt für ihre Wohltätigkeit an Witwen, die Petrus von den Toten auferweckte."
+    },
+    {
+      "character_id": "herod-the-great",
+      "name": "Herodes der Große",
+      "intro": "Der misstrauische König von Judäa bei Jesu Geburt, der den Kindermord in Betlehem befahl."
+    },
+    {
+      "character_id": "herod-antipas",
+      "name": "Herodes Antipas",
+      "intro": "Herodes des Großen Sohn, der Johannes den Täufer enthaupten ließ und Jesus später bei seinem Prozess verspottete."
+    },
+    {
+      "character_id": "herodias",
+      "name": "Herodias",
+      "intro": "Herodes Antipas' Frau, deren Groll gegen Johannes den Täufer zu dessen Hinrichtung führte."
+    },
+    {
+      "character_id": "pontius-pilate",
+      "name": "Pontius Pilatus",
+      "intro": "Der römische Statthalter, der keine Schuld an Jesus fand und ihn dennoch zur Kreuzigung übergab."
+    },
+    {
+      "character_id": "caiaphas",
+      "name": "Kaiphas",
+      "intro": "Der Hohepriester, der den Prozess gegen Jesus leitete und auf seinen Tod drängte."
+    },
+    {
+      "character_id": "adam",
+      "name": "Adam",
+      "intro": "Der erste Mensch, aus Staub geformt und mit dem Lebensatem beschenkt, dessen Ungehorsam im Garten Eden die Sünde in die Welt brachte."
+    },
+    {
+      "character_id": "eve",
+      "name": "Eva",
+      "intro": "Die erste Frau, „die Mutter alles Lebendigen\", vor Adam von der Schlange im Garten verführt."
+    },
+    {
+      "character_id": "cain",
+      "name": "Kain",
+      "intro": "Adams und Evas Erstgeborener, dessen Eifersucht auf seinen Bruder Abel zum ersten Mord der Geschichte führte."
+    },
+    {
+      "character_id": "abel",
+      "name": "Abel",
+      "intro": "Adams und Evas zweiter Sohn, ein Hirte, dessen Opfer Gott gefiel, und das erste Mordopfer der Menschheit."
+    },
+    {
+      "character_id": "enoch",
+      "name": "Henoch",
+      "intro": "Ein Mann, der so eng mit Gott lebte, dass er den Tod nicht erfuhr."
+    },
+    {
+      "character_id": "noah",
+      "name": "Noah",
+      "intro": "Der einzige gerechte Mann seiner Generation, der die Arche baute und seine Familie sowie die Tiere durch die Flut bewahrte."
+    },
+    {
+      "character_id": "melchizedek",
+      "name": "Melchisedek",
+      "intro": "Der geheimnisvolle Priesterkönig von Salem, der Abraham segnete und später als Vorausbild von Christi ewigem Priestertum gesehen wurde."
+    },
+    {
+      "character_id": "abraham",
+      "name": "Abraham",
+      "intro": "Von Gott berufen, seine Heimat für die Verheißung eines neuen Volkes zu verlassen -- der Vater vieler Völker durch den Glauben."
+    },
+    {
+      "character_id": "sarah",
+      "name": "Sara",
+      "intro": "Abrahams Frau, die über Gottes Verheißung eines Sohnes in ihrem hohen Alter lachte und dann Isaak wie versprochen gebar."
+    },
+    {
+      "character_id": "hagar",
+      "name": "Hagar",
+      "intro": "Saras Magd, Mutter Ismaels, zweimal in die Wüste getrieben und dort von Gott aufgesucht."
+    },
+    {
+      "character_id": "isaac",
+      "name": "Isaak",
+      "intro": "Der lang verheißene Sohn Abrahams und Saras, auf dem Berg Morija als Opfer gebunden, später Vater Jakobs und Esaus."
+    },
+    {
+      "character_id": "rebekah",
+      "name": "Rebekka",
+      "intro": "Isaaks Frau, an einem Brunnen wegen ihrer Freundlichkeit erwählt, die später Jakob bevorzugte und ihm half, den Erstgeburtssegen zu sichern."
+    },
+    {
+      "character_id": "jacob",
+      "name": "Jakob (Israel)",
+      "intro": "Isaaks Sohn, der am Jabbok mit Gott rang und in Israel umbenannt wurde -- Vater der zwölf Stämme."
+    },
+    {
+      "character_id": "esau",
+      "name": "Esau",
+      "intro": "Jakobs Zwillingsbruder, der sein Erstgeburtsrecht für eine Schüssel Linsengericht verkaufte und sich später mit ihm versöhnte."
+    },
+    {
+      "character_id": "rachel",
+      "name": "Rahel",
+      "intro": "Jakobs geliebte Frau, für die er vierzehn Jahre arbeitete, Mutter von Josef und Benjamin."
+    },
+    {
+      "character_id": "leah",
+      "name": "Lea",
+      "intro": "Jakobs erste Frau, weniger geliebt als ihre Schwester Rahel, dennoch Mutter von sechs der zwölf Stämme, darunter Juda."
+    },
+    {
+      "character_id": "joseph-son-of-jacob",
+      "name": "Josef",
+      "intro": "Jakobs bevorzugter Sohn, von seinen Brüdern in die Sklaverei verkauft, der in Ägypten zu Macht gelangte und ihnen vergab."
+    },
+    {
+      "character_id": "judah-son-of-jacob",
+      "name": "Juda",
+      "intro": "Jakobs vierter Sohn, dessen Stamm David hervorbringen sollte und durch ihn schließlich Jesus."
+    },
+    {
+      "character_id": "moses",
+      "name": "Mose",
+      "intro": "Als Säugling aus dem Nil gerettet, vom brennenden Dornbusch berufen, Israel aus Ägypten zu befreien und am Sinai das Gesetz zu empfangen."
+    },
+    {
+      "character_id": "aaron",
+      "name": "Aaron",
+      "intro": "Moses' Bruder und Sprecher, der Israels erster Hohepriester wurde."
+    },
+    {
+      "character_id": "miriam",
+      "name": "Mirjam",
+      "intro": "Moses' Schwester, eine Prophetin, die als Baby über ihn wachte und nach der Durchquerung des Schilfmeers die Frauen Israels im Gesang anführte."
+    },
+    {
+      "character_id": "joshua",
+      "name": "Josua",
+      "intro": "Moses' Nachfolger, der Israel über den Jordan ins verheißene Land führte und Jericho eroberte."
+    },
+    {
+      "character_id": "caleb",
+      "name": "Kaleb",
+      "intro": "Einer von zwölf Kundschaftern, die nach Kanaan gesandt wurden; sein treuer Bericht und lebenslanges Gottvertrauen brachten ihm den Einzug ins verheißene Land ein."
+    },
+    {
+      "character_id": "rahab",
+      "name": "Rahab",
+      "intro": "Eine Frau aus Jericho, die Israels Kundschafter versteckte und beim Fall der Stadt verschont wurde -- später eine Vorfahrin Davids."
+    },
+    {
+      "character_id": "deborah",
+      "name": "Debora",
+      "intro": "Eine Prophetin und Richterin Israels, die das Volk zum Sieg über seine Unterdrücker führte."
+    },
+    {
+      "character_id": "gideon",
+      "name": "Gideon",
+      "intro": "Ein zögerlicher Bauer, berufen, Israel zu führen, der mit nur dreihundert Männern ein riesiges Heer der Midianiter besiegte."
+    },
+    {
+      "character_id": "samson",
+      "name": "Simson",
+      "intro": "Ein Richter Israels, durch sein Nasiräer-Gelübde mit übernatürlicher Kraft begabt, zu Fall gebracht durch seine Liebe zu Delila."
+    },
+    {
+      "character_id": "delilah",
+      "name": "Delila",
+      "intro": "Die Frau, die Simson das Geheimnis seiner Kraft entlockte und ihn an die Philister verriet."
+    },
+    {
+      "character_id": "ruth",
+      "name": "Rut",
+      "intro": "Eine moabitische Witwe, deren Treue zu ihrer Schwiegermutter Noomi sie zu einer Vorfahrin Davids machte."
+    },
+    {
+      "character_id": "naomi",
+      "name": "Noomi",
+      "intro": "Ruts Schwiegermutter, die in Moab Mann und Söhne verlor und trauernd, dann gesegnet nach Betlehem zurückkehrte."
+    },
+    {
+      "character_id": "boaz",
+      "name": "Boas",
+      "intro": "Ein gütiger, wohlhabender Gutsbesitzer, der Rut als ihr Löser-Verwandter heiratete und so zu einem Vorfahren Davids wurde."
+    },
+    {
+      "character_id": "samuel",
+      "name": "Samuel",
+      "intro": "Schon als Junge in den Dienst des Herrn gegeben, Israels letzter Richter und ein Prophet, der sowohl Saul als auch David zum König salbte."
+    },
+    {
+      "character_id": "hannah",
+      "name": "Hanna",
+      "intro": "Samuels Mutter, die jahrelang um ein Kind betete und es nach seiner Geburt in den Dienst des Herrn gab."
+    },
+    {
+      "character_id": "saul",
+      "name": "Saul",
+      "intro": "Israels erster König, groß und vielversprechend, dessen Ungehorsam und Eifersucht auf David zu seinem Untergang führten."
+    },
+    {
+      "character_id": "jonathan",
+      "name": "Jonatan",
+      "intro": "Sauls Sohn, dessen tiefe Freundschaft zu David den eifersüchtigen Zorn seines Vaters überdauerte."
+    },
+    {
+      "character_id": "david",
+      "name": "David",
+      "intro": "Ein Hirtenjunge, der Goliat erschlug und Israels größter König wurde -- ein Mann nach Gottes Herzen trotz seiner Sünden."
+    },
+    {
+      "character_id": "bathsheba",
+      "name": "Batseba",
+      "intro": "Die Frau, die David nach einer schweren Sünde an ihrer Familie zur Frau nahm, Mutter Salomos."
+    },
+    {
+      "character_id": "nathan-prophet",
+      "name": "Nathan",
+      "intro": "Ein Hofprophet, der König David wegen seiner Sünde mit Batseba mit einem eindringlichen Gleichnis konfrontierte."
+    },
+    {
+      "character_id": "absalom",
+      "name": "Absalom",
+      "intro": "Davids gutaussehender, aufständischer Sohn, dessen Rebellion gegen seinen Vater mit seinem eigenen Tod endete."
+    },
+    {
+      "character_id": "solomon",
+      "name": "Salomo",
+      "intro": "Davids Sohn, der Gott um Weisheit statt Reichtum bat, den Tempel in Jerusalem baute und einen Großteil der Weisheitsliteratur schrieb."
+    },
+    {
+      "character_id": "elijah",
+      "name": "Elija",
+      "intro": "Ein feuriger Prophet, der die Baalspropheten auf dem Berg Karmel herausforderte und im Sturmwind gen Himmel entrückt wurde."
+    },
+    {
+      "character_id": "elisha",
+      "name": "Elischa",
+      "intro": "Elijas Nachfolger, der um ein doppeltes Maß seines Geistes bat und viele Wunder für Israel wirkte."
+    },
+    {
+      "character_id": "ahab",
+      "name": "Ahab",
+      "intro": "Ein König Israels, der die heidnische Isebel heiratete und das Volk in den Götzendienst führte -- von Elija bekämpft."
+    },
+    {
+      "character_id": "jezebel",
+      "name": "Isebel",
+      "intro": "Ahabs fremdländische Königin, die den Baalskult förderte und die Propheten des Herrn verfolgte."
+    },
+    {
+      "character_id": "isaiah",
+      "name": "Jesaja",
+      "intro": "Ein bedeutender Prophet, dessen Vision von Gottes Herrlichkeit ihn in den Dienst rief und dessen Schriften das Kommen des Messias vorhersagen."
+    },
+    {
+      "character_id": "jeremiah",
+      "name": "Jeremia",
+      "intro": "„Der weinende Prophet\", von Jugend an berufen, Juda vor dem kommenden Gericht zu warnen, während er um sein Volk trauerte."
+    },
+    {
+      "character_id": "ezekiel",
+      "name": "Ezechiel",
+      "intro": "Ein Priester-Prophet unter den Exilierten in Babylon, bekannt für eindrucksvolle Visionen, darunter ein Tal voller Totengebeine, das zum Leben erweckt wird."
+    },
+    {
+      "character_id": "daniel",
+      "name": "Daniel",
+      "intro": "Ein junger Exilant in Babylon, der durch Traumdeutungen, Hofintrigen und eine Nacht in der Löwengrube am Glauben festhielt."
+    },
+    {
+      "character_id": "shadrach-meshach-abednego",
+      "name": "Schadrach, Meschach und Abed-Nego",
+      "intro": "Daniels drei Gefährten in Babylon, die in einen Feuerofen geworfen wurden, weil sie sich weigerten, ein Standbild anzubeten -- und unversehrt bewahrt blieben."
+    },
+    {
+      "character_id": "hosea",
+      "name": "Hosea",
+      "intro": "Ein Prophet, dessen zerrüttete Ehe zu einem lebendigen Bild von Gottes treuer Liebe zu einem untreuen Israel wurde."
+    },
+    {
+      "character_id": "joel",
+      "name": "Joel",
+      "intro": "Ein Prophet, der Juda nach einer Heuschreckenplage zur Umkehr rief und die Ausgießung von Gottes Geist ankündigte."
+    },
+    {
+      "character_id": "amos",
+      "name": "Amos",
+      "intro": "Ein Hirte, aus Juda berufen, um gegen die Ungerechtigkeit Israels gegenüber den Armen zu prophezeien."
+    },
+    {
+      "character_id": "jonah",
+      "name": "Jona",
+      "intro": "Ein widerwilliger Prophet, der Gottes Ruf, Ninive zu predigen, floh, von einem großen Fisch verschlungen wurde und schließlich gehorchte."
+    },
+    {
+      "character_id": "micah",
+      "name": "Micha",
+      "intro": "Ein Prophet Judas, der korrupte Führer anprangerte und die Geburt des Messias in Betlehem vorhersagte."
+    },
+    {
+      "character_id": "job",
+      "name": "Ijob",
+      "intro": "Ein untadeliger und rechtschaffener Mann, der alles verlor, Gott in seinem Leiden befragte und dennoch treu blieb."
+    },
+    {
+      "character_id": "ezra",
+      "name": "Esra",
+      "intro": "Ein Priester und Schriftgelehrter, der Exilierte nach Jerusalem zurückführte und die Verpflichtung des Volkes auf Gottes Gesetz erneuerte."
+    },
+    {
+      "character_id": "nehemiah",
+      "name": "Nehemia",
+      "intro": "Mundschenk eines persischen Königs, der nach Jerusalem zurückkehrte und trotz heftigen Widerstands die Stadtmauern wieder aufbaute."
+    },
+    {
+      "character_id": "esther",
+      "name": "Ester",
+      "intro": "Eine jüdische Königin von Persien, die ihr Leben riskierte, um ihr Volk vor der Vernichtung zu retten."
+    },
+    {
+      "character_id": "mordecai",
+      "name": "Mordechai",
+      "intro": "Esters Cousin und Vormund, der vor einem Komplott gegen die Juden warnte und schließlich vom König geehrt wurde."
+    },
+    {
+      "character_id": "tobit",
+      "name": "Tobit",
+      "intro": "Ein rechtschaffener Exilant in Ninive, der trotz Blindheit und Not der Nächstenliebe und dem Gebet treu blieb."
+    },
+    {
+      "character_id": "judith",
+      "name": "Judit",
+      "intro": "Eine mutige und fromme Witwe, die ihre Stadt rettete, indem sie den feindlichen General Holofernes überlistete und besiegte."
+    }
+  ]
+}
