@@ -1,0 +1,13 @@
+# Store assets
+
+Assets for the Google Play listing itself — not part of the installed app, so they
+live here rather than under `app/src/main/res/`.
+
+- `play_store_icon_512.png` — the 512×512 app icon for Play Console's Store Listing
+  page (Store presence → Main store listing → App icon). Same open-book-and-cross
+  design as the in-app launcher icon (`app/src/main/res/mipmap-*/ic_launcher*.png`),
+  rendered full-bleed with no adaptive-icon safe-zone padding, since Play applies
+  its own icon shape at listing time.
+
+Still needed before submission: a 1024×500 feature graphic and phone/tablet
+screenshots — none of that exists yet.
