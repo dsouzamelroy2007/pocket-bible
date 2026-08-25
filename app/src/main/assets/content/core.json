@@ -60,6 +60,16 @@
       "includes_deuterocanon": false,
       "has_imprimatur": false,
       "language": "mr"
+    },
+    {
+      "id": "aa-pt",
+      "name": "Almeida Atualizada",
+      "abbreviation": "AA",
+      "license": "public-domain",
+      "versification": "masoretic",
+      "includes_deuterocanon": false,
+      "has_imprimatur": false,
+      "language": "pt"
     }
   ],
   "books": [

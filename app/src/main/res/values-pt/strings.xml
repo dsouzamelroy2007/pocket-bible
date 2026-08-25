@@ -4,6 +4,7 @@
     <string name="nav_topics">Temas</string>
     <string name="nav_read">Bíblia</string>
     <string name="nav_saved">Salvos</string>
+    <string name="nav_characters">Personalidades</string>
 
     <string name="language_button">Idioma</string>
     <string name="language_system_default">Padrão do sistema</string>
@@ -33,6 +34,10 @@
     <string name="read_chapter_out_of_range">Informe um capítulo entre 1 e %1$d.</string>
     <string name="read_previous">Anterior</string>
     <string name="read_next">Próximo</string>
+    <string name="read_bookmarks">Marcadores</string>
+    <string name="read_add_bookmark">Marcar este capítulo</string>
+    <string name="read_bookmarked">Marcado</string>
+    <string name="read_remove_bookmark">Remover marcador</string>
 
     <string name="saved_title">Salvos</string>
     <string name="saved_empty">Os versículos que você salva aparecem aqui e continuam disponíveis offline.</string>
@@ -44,6 +49,24 @@
     <string name="verse_saved">Salvo</string>
     <string name="verse_save">Salvar</string>
     <string name="verse_another">Outro</string>
+
+    <string name="character_title">Personalidades</string>
+    <string name="character_subtitle">Conheça as pessoas da Bíblia e os versículos que contam sua história.</string>
+    <string name="character_search_placeholder">Buscar por nome</string>
+    <string name="character_no_matches">Nenhuma personalidade corresponde a essa busca.</string>
+    <string name="character_famous_verses">Versículos sobre eles</string>
+    <string name="character_verse_unavailable">Ainda não disponível neste idioma.</string>
+    <string name="character_category_central">A figura central</string>
+    <string name="character_category_holy_family">Sagrada Família e precursores</string>
+    <string name="character_category_apostles">Os doze apóstolos</string>
+    <string name="character_category_early_church">Igreja primitiva</string>
+    <string name="character_category_women_and_others">Mulheres e outros ao redor de Jesus</string>
+    <string name="character_category_opposed_jesus">Aqueles que se opuseram a Jesus</string>
+    <string name="character_category_patriarchs">Patriarcas e o início do Gênesis</string>
+    <string name="character_category_exodus_judges">Do Êxodo aos Juízes</string>
+    <string name="character_category_kingdom">Era do Reino</string>
+    <string name="character_category_prophets">Profetas</string>
+    <string name="character_category_post_exile">Pós-exílio e Deuterocanônicos</string>
 
     <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">Gênesis</string>

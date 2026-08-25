@@ -1,0 +1,2176 @@
+{
+  "language": "pt",
+  "_note": "Portuguese translations of the Personalities tab's verse-citation captions (short original commentary, not scripture). Worth a native-speaker spot-check before wide release.",
+  "character_verse_ref_translations": [
+    {
+      "character_id": "jesus",
+      "position": 0,
+      "caption": "\"No princípio era o Verbo\""
+    },
+    {
+      "character_id": "jesus",
+      "position": 1,
+      "caption": "O anúncio do anjo sobre seu nascimento"
+    },
+    {
+      "character_id": "jesus",
+      "position": 2,
+      "caption": "A confissão de Pedro: \"Tu és o Cristo\""
+    },
+    {
+      "character_id": "jesus",
+      "position": 3,
+      "caption": "\"Eu sou a ressurreição e a vida\""
+    },
+    {
+      "character_id": "jesus",
+      "position": 4,
+      "caption": "Tomé: \"Meu Senhor e meu Deus\""
+    },
+    {
+      "character_id": "mary-mother-of-jesus",
+      "position": 0,
+      "caption": "O anúncio do anjo Gabriel"
+    },
+    {
+      "character_id": "mary-mother-of-jesus",
+      "position": 1,
+      "caption": "\"Faça-se em mim segundo a tua palavra\""
+    },
+    {
+      "character_id": "mary-mother-of-jesus",
+      "position": 2,
+      "caption": "O Magnificat: \"A minha alma engrandece o Senhor\""
+    },
+    {
+      "character_id": "mary-mother-of-jesus",
+      "position": 3,
+      "caption": "Nas bodas de Caná: \"Fazei tudo o que ele vos disser\""
+    },
+    {
+      "character_id": "mary-mother-of-jesus",
+      "position": 4,
+      "caption": "Aos pés da cruz"
+    },
+    {
+      "character_id": "joseph-husband-of-mary",
+      "position": 0,
+      "caption": "Um homem justo, disposto a repudiá-la em segredo"
+    },
+    {
+      "character_id": "joseph-husband-of-mary",
+      "position": 1,
+      "caption": "A mensagem do anjo num sonho"
+    },
+    {
+      "character_id": "joseph-husband-of-mary",
+      "position": 2,
+      "caption": "A fuga para o Egito"
+    },
+    {
+      "character_id": "joseph-husband-of-mary",
+      "position": 3,
+      "caption": "Viaja a Belém para o recenseamento"
+    },
+    {
+      "character_id": "john-the-baptist",
+      "position": 0,
+      "caption": "Sua veste de pelos de camelo e sua dieta de gafanhotos"
+    },
+    {
+      "character_id": "john-the-baptist",
+      "position": 1,
+      "caption": "O batismo de Jesus"
+    },
+    {
+      "character_id": "john-the-baptist",
+      "position": 2,
+      "caption": "\"Eis o Cordeiro de Deus\""
+    },
+    {
+      "character_id": "john-the-baptist",
+      "position": 3,
+      "caption": "Sua execução por Herodes"
+    },
+    {
+      "character_id": "elizabeth",
+      "position": 0,
+      "caption": "Estéril, e tanto ela quanto Zacarias avançados em idade"
+    },
+    {
+      "character_id": "elizabeth",
+      "position": 1,
+      "caption": "O bebê salta em seu ventre à saudação de Maria"
+    },
+    {
+      "character_id": "elizabeth",
+      "position": 2,
+      "caption": "\"Bendita és tu entre as mulheres\""
+    },
+    {
+      "character_id": "elizabeth",
+      "position": 3,
+      "caption": "\"Assim me fez o Senhor\""
+    },
+    {
+      "character_id": "zechariah-father-of-john",
+      "position": 0,
+      "caption": "A promessa do anjo no Templo"
+    },
+    {
+      "character_id": "zechariah-father-of-john",
+      "position": 1,
+      "caption": "Ficou mudo por sua dúvida"
+    },
+    {
+      "character_id": "zechariah-father-of-john",
+      "position": 2,
+      "caption": "Sua fala retorna ao dar o nome a João"
+    },
+    {
+      "character_id": "zechariah-father-of-john",
+      "position": 3,
+      "caption": "O Benedictus"
+    },
+    {
+      "character_id": "simeon",
+      "position": 0,
+      "caption": "Foi-lhe prometido que não morreria antes de ver o Messias"
+    },
+    {
+      "character_id": "simeon",
+      "position": 1,
+      "caption": "O Nunc Dimittis"
+    },
+    {
+      "character_id": "simeon",
+      "position": 2,
+      "caption": "Seu aviso a Maria: \"uma espada traspassará\""
+    },
+    {
+      "character_id": "anna-prophetess",
+      "position": 0,
+      "caption": "Nunca deixava o Templo, servindo a Deus noite e dia"
+    },
+    {
+      "character_id": "anna-prophetess",
+      "position": 1,
+      "caption": "Fala do menino a todos que aguardavam a redenção"
+    },
+    {
+      "character_id": "anna-prophetess",
+      "position": 2,
+      "caption": "Uma profetisa de idade avançada, da tribo de Aser"
+    },
+    {
+      "character_id": "peter",
+      "position": 0,
+      "caption": "\"Tu és Pedro, e sobre esta rocha\""
+    },
+    {
+      "character_id": "peter",
+      "position": 1,
+      "caption": "Caminha sobre a água, depois começa a afundar"
+    },
+    {
+      "character_id": "peter",
+      "position": 2,
+      "caption": "A negação de Pedro e seu choro amargo"
+    },
+    {
+      "character_id": "peter",
+      "position": 3,
+      "caption": "\"Apascenta as minhas ovelhas\""
+    },
+    {
+      "character_id": "peter",
+      "position": 4,
+      "caption": "Prega à multidão em Pentecostes"
+    },
+    {
+      "character_id": "andrew",
+      "position": 0,
+      "caption": "André leva Pedro a Jesus"
+    },
+    {
+      "character_id": "andrew",
+      "position": 1,
+      "caption": "Chamado de suas redes de pesca"
+    },
+    {
+      "character_id": "andrew",
+      "position": 2,
+      "caption": "Aponta o menino com cinco pães e dois peixes"
+    },
+    {
+      "character_id": "andrew",
+      "position": 3,
+      "caption": "Leva visitantes gregos a Jesus"
+    },
+    {
+      "character_id": "john-apostle",
+      "position": 0,
+      "caption": "Reclinado ao lado de Jesus na ceia"
+    },
+    {
+      "character_id": "john-apostle",
+      "position": 1,
+      "caption": "Testemunha da Transfiguração"
+    },
+    {
+      "character_id": "john-apostle",
+      "position": 2,
+      "caption": "Encarregado do cuidado de Maria"
+    },
+    {
+      "character_id": "john-apostle",
+      "position": 3,
+      "caption": "Corre mais rápido que Pedro até o sepulcro vazio"
+    },
+    {
+      "character_id": "james-son-of-zebedee",
+      "position": 0,
+      "caption": "Chamado do barco de seu pai"
+    },
+    {
+      "character_id": "james-son-of-zebedee",
+      "position": 1,
+      "caption": "Testemunha da Transfiguração"
+    },
+    {
+      "character_id": "james-son-of-zebedee",
+      "position": 2,
+      "caption": "Pede para sentar-se à direita de Jesus"
+    },
+    {
+      "character_id": "james-son-of-zebedee",
+      "position": 3,
+      "caption": "Seu martírio sob Herodes"
+    },
+    {
+      "character_id": "philip-apostle",
+      "position": 0,
+      "caption": "\"Segue-me\""
+    },
+    {
+      "character_id": "philip-apostle",
+      "position": 1,
+      "caption": "\"Vem e vê\""
+    },
+    {
+      "character_id": "philip-apostle",
+      "position": 2,
+      "caption": "Jesus o coloca à prova antes de alimentar os cinco mil"
+    },
+    {
+      "character_id": "philip-apostle",
+      "position": 3,
+      "caption": "\"Mostra-nos o Pai\""
+    },
+    {
+      "character_id": "bartholomew",
+      "position": 0,
+      "caption": "\"Pode vir alguma coisa boa de Nazaré?\""
+    },
+    {
+      "character_id": "bartholomew",
+      "position": 1,
+      "caption": "\"Eis um verdadeiro israelita\""
+    },
+    {
+      "character_id": "bartholomew",
+      "position": 2,
+      "caption": "Presente na pesca milagrosa"
+    },
+    {
+      "character_id": "thomas",
+      "position": 0,
+      "caption": "\"Vamos também nós, para morrermos com ele\""
+    },
+    {
+      "character_id": "thomas",
+      "position": 1,
+      "caption": "\"Não sabemos para onde vais\""
+    },
+    {
+      "character_id": "thomas",
+      "position": 2,
+      "caption": "\"Se eu não vir... não crerei\""
+    },
+    {
+      "character_id": "thomas",
+      "position": 3,
+      "caption": "\"Meu Senhor e meu Deus\""
+    },
+    {
+      "character_id": "matthew",
+      "position": 0,
+      "caption": "\"Segue-me\", e ele se levantou e o seguiu"
+    },
+    {
+      "character_id": "matthew",
+      "position": 1,
+      "caption": "Recebe Jesus para jantar com publicanos e pecadores"
+    },
+    {
+      "character_id": "matthew",
+      "position": 2,
+      "caption": "Nomeado entre os Doze"
+    },
+    {
+      "character_id": "matthew",
+      "position": 3,
+      "caption": "Levi (Mateus) oferece um grande banquete a Jesus"
+    },
+    {
+      "character_id": "james-son-of-alphaeus",
+      "position": 0,
+      "caption": "Nomeado entre os Doze"
+    },
+    {
+      "character_id": "james-son-of-alphaeus",
+      "position": 1,
+      "caption": "Listado entre os apóstolos enviados"
+    },
+    {
+      "character_id": "thaddaeus",
+      "position": 0,
+      "caption": "Nomeado entre os Doze"
+    },
+    {
+      "character_id": "thaddaeus",
+      "position": 1,
+      "caption": "\"Senhor, como se faz que...?\""
+    },
+    {
+      "character_id": "simon-the-zealot",
+      "position": 0,
+      "caption": "Nomeado entre os Doze"
+    },
+    {
+      "character_id": "simon-the-zealot",
+      "position": 1,
+      "caption": "Listado entre os apóstolos após a Ascensão"
+    },
+    {
+      "character_id": "judas-iscariot",
+      "position": 0,
+      "caption": "O acordo pelas trinta moedas de prata"
+    },
+    {
+      "character_id": "judas-iscariot",
+      "position": 1,
+      "caption": "Trai Jesus com um beijo"
+    },
+    {
+      "character_id": "judas-iscariot",
+      "position": 2,
+      "caption": "Seu remorso e sua morte"
+    },
+    {
+      "character_id": "judas-iscariot",
+      "position": 3,
+      "caption": "Guardava a bolsa do dinheiro e se servia dela"
+    },
+    {
+      "character_id": "paul",
+      "position": 0,
+      "caption": "Derrubado no caminho de Damasco"
+    },
+    {
+      "character_id": "paul",
+      "position": 1,
+      "caption": "Prega no Areópago em Atenas"
+    },
+    {
+      "character_id": "paul",
+      "position": 2,
+      "caption": "Seu hino ao amor"
+    },
+    {
+      "character_id": "paul",
+      "position": 3,
+      "caption": "\"Posso todas as coisas naquele que me fortalece\""
+    },
+    {
+      "character_id": "paul",
+      "position": 4,
+      "caption": "\"Combati o bom combate\""
+    },
+    {
+      "character_id": "barnabas",
+      "position": 0,
+      "caption": "Apresentado como \"filho da consolação\""
+    },
+    {
+      "character_id": "barnabas",
+      "position": 1,
+      "caption": "Responde por Paulo diante dos apóstolos"
+    },
+    {
+      "character_id": "barnabas",
+      "position": 2,
+      "caption": "\"Um homem bom, cheio do Espírito Santo e de fé\""
+    },
+    {
+      "character_id": "barnabas",
+      "position": 3,
+      "caption": "Sua disputa acirrada com Paulo por causa de João Marcos"
+    },
+    {
+      "character_id": "silas",
+      "position": 0,
+      "caption": "Escolhido por Paulo como seu companheiro"
+    },
+    {
+      "character_id": "silas",
+      "position": 1,
+      "caption": "Cantando hinos na prisão à meia-noite"
+    },
+    {
+      "character_id": "silas",
+      "position": 2,
+      "caption": "Nomeado como coautor de uma carta aos tessalonicenses"
+    },
+    {
+      "character_id": "silas",
+      "position": 3,
+      "caption": "Escolhido com Judas Barsabás para acompanhar Paulo e Barnabé"
+    },
+    {
+      "character_id": "timothy",
+      "position": 0,
+      "caption": "Apresentado como um jovem discípulo muito estimado"
+    },
+    {
+      "character_id": "timothy",
+      "position": 1,
+      "caption": "\"Ninguém despreze a tua mocidade\""
+    },
+    {
+      "character_id": "timothy",
+      "position": 2,
+      "caption": "Sua fé herdada de sua mãe e de sua avó"
+    },
+    {
+      "character_id": "timothy",
+      "position": 3,
+      "caption": "Paulo: \"como um filho ao pai\""
+    },
+    {
+      "character_id": "titus",
+      "position": 0,
+      "caption": "Deixado em Creta para pôr as coisas em ordem"
+    },
+    {
+      "character_id": "titus",
+      "position": 1,
+      "caption": "Sua chegada conforta Paulo"
+    },
+    {
+      "character_id": "titus",
+      "position": 2,
+      "caption": "Um grego, não obrigado a se circuncidar"
+    },
+    {
+      "character_id": "titus",
+      "position": 3,
+      "caption": "Paulo: \"meu companheiro e cooperador em vosso benefício\""
+    },
+    {
+      "character_id": "luke",
+      "position": 0,
+      "caption": "Seu prefácio, explicando sua pesquisa cuidadosa"
+    },
+    {
+      "character_id": "luke",
+      "position": 1,
+      "caption": "Paulo o chama de \"o médico amado\""
+    },
+    {
+      "character_id": "luke",
+      "position": 2,
+      "caption": "\"Só Lucas está comigo\""
+    },
+    {
+      "character_id": "luke",
+      "position": 3,
+      "caption": "A primeira passagem em \"nós\", marcando sua junção às viagens de Paulo"
+    },
+    {
+      "character_id": "mark",
+      "position": 0,
+      "caption": "Os crentes se reúnem orando na casa de sua mãe"
+    },
+    {
+      "character_id": "mark",
+      "position": 1,
+      "caption": "Deixa Paulo e Barnabé no meio da viagem"
+    },
+    {
+      "character_id": "mark",
+      "position": 2,
+      "caption": "A disputa sobre Marcos que separou Paulo e Barnabé"
+    },
+    {
+      "character_id": "mark",
+      "position": 3,
+      "caption": "Mais tarde chamado por Paulo de \"muito útil para mim\""
+    },
+    {
+      "character_id": "stephen",
+      "position": 0,
+      "caption": "Cheio de graça e poder, fazendo sinais entre o povo"
+    },
+    {
+      "character_id": "stephen",
+      "position": 1,
+      "caption": "Vê os céus abertos antes de morrer"
+    },
+    {
+      "character_id": "stephen",
+      "position": 2,
+      "caption": "Sua oração moribunda por seus algozes"
+    },
+    {
+      "character_id": "stephen",
+      "position": 3,
+      "caption": "Seu rosto era como o rosto de um anjo"
+    },
+    {
+      "character_id": "philip-the-evangelist",
+      "position": 0,
+      "caption": "Escolhido como um dos sete"
+    },
+    {
+      "character_id": "philip-the-evangelist",
+      "position": 1,
+      "caption": "Explica as Escrituras ao eunuco etíope"
+    },
+    {
+      "character_id": "philip-the-evangelist",
+      "position": 2,
+      "caption": "Batiza o eunuco"
+    },
+    {
+      "character_id": "philip-the-evangelist",
+      "position": 3,
+      "caption": "Anfitrião de Paulo, com quatro filhas que profetizavam"
+    },
+    {
+      "character_id": "cornelius",
+      "position": 0,
+      "caption": "Descrito como devoto e generoso com os pobres"
+    },
+    {
+      "character_id": "cornelius",
+      "position": 1,
+      "caption": "Sua visão de um anjo"
+    },
+    {
+      "character_id": "cornelius",
+      "position": 2,
+      "caption": "\"Deus não faz acepção de pessoas\""
+    },
+    {
+      "character_id": "cornelius",
+      "position": 3,
+      "caption": "O Espírito Santo desce sobre sua casa enquanto Pedro fala"
+    },
+    {
+      "character_id": "priscilla-and-aquila",
+      "position": 0,
+      "caption": "Encontram Paulo em Corinto como colegas fabricantes de tendas"
+    },
+    {
+      "character_id": "priscilla-and-aquila",
+      "position": 1,
+      "caption": "Explicam o Caminho a Apolo com mais precisão"
+    },
+    {
+      "character_id": "priscilla-and-aquila",
+      "position": 2,
+      "caption": "Paulo os chama de \"cooperadores\" que arriscaram o pescoço por ele"
+    },
+    {
+      "character_id": "priscilla-and-aquila",
+      "position": 3,
+      "caption": "Saúdam a igreja, com a igreja que se reúne em sua casa"
+    },
+    {
+      "character_id": "apollos",
+      "position": 0,
+      "caption": "Um homem eloquente, versado nas Escrituras"
+    },
+    {
+      "character_id": "apollos",
+      "position": 1,
+      "caption": "\"Eu plantei, Apolo regou\""
+    },
+    {
+      "character_id": "apollos",
+      "position": 2,
+      "caption": "Refuta poderosamente os judeus, mostrando que Jesus é o Cristo"
+    },
+    {
+      "character_id": "apollos",
+      "position": 3,
+      "caption": "Paulo: \"a respeito do irmão Apolo\""
+    },
+    {
+      "character_id": "lydia",
+      "position": 0,
+      "caption": "Seu coração se abre à mensagem de Paulo"
+    },
+    {
+      "character_id": "lydia",
+      "position": 1,
+      "caption": "Paulo e Silas voltam à sua casa depois da prisão"
+    },
+    {
+      "character_id": "james-brother-of-jesus",
+      "position": 0,
+      "caption": "Nomeado como um dos irmãos de Jesus"
+    },
+    {
+      "character_id": "james-brother-of-jesus",
+      "position": 1,
+      "caption": "O Cristo ressuscitado aparece a Tiago"
+    },
+    {
+      "character_id": "james-brother-of-jesus",
+      "position": 2,
+      "caption": "Preside o concílio de Jerusalém"
+    },
+    {
+      "character_id": "james-brother-of-jesus",
+      "position": 3,
+      "caption": "\"Tende por motivo de grande gozo... as provações produzem perseverança\""
+    },
+    {
+      "character_id": "jude-brother-of-jesus",
+      "position": 0,
+      "caption": "Identifica-se como \"servo de Jesus Cristo, e irmão de Tiago\""
+    },
+    {
+      "character_id": "jude-brother-of-jesus",
+      "position": 1,
+      "caption": "\"Batalhai pela fé\""
+    },
+    {
+      "character_id": "jude-brother-of-jesus",
+      "position": 2,
+      "caption": "Nomeado entre os irmãos de Jesus: \"e Judas\""
+    },
+    {
+      "character_id": "philemon",
+      "position": 0,
+      "caption": "Paulo agradece a Deus por seu amor e sua fé"
+    },
+    {
+      "character_id": "philemon",
+      "position": 1,
+      "caption": "\"Não mais como escravo, mas... como irmão amado\""
+    },
+    {
+      "character_id": "philemon",
+      "position": 2,
+      "caption": "Paulo: \"o teu amor me trouxe grande alegria e consolo\""
+    },
+    {
+      "character_id": "onesimus",
+      "position": 0,
+      "caption": "O apelo de Paulo em seu favor"
+    },
+    {
+      "character_id": "onesimus",
+      "position": 1,
+      "caption": "Enviado como \"um irmão fiel e amado\""
+    },
+    {
+      "character_id": "onesimus",
+      "position": 2,
+      "caption": "\"Se ele te fez algum dano... põe isso na minha conta\""
+    },
+    {
+      "character_id": "mary-magdalene",
+      "position": 0,
+      "caption": "Liberta de sete demônios, segue Jesus"
+    },
+    {
+      "character_id": "mary-magdalene",
+      "position": 1,
+      "caption": "Permanece junto à cruz"
+    },
+    {
+      "character_id": "mary-magdalene",
+      "position": 2,
+      "caption": "Jesus a chama pelo nome junto ao sepulcro"
+    },
+    {
+      "character_id": "mary-magdalene",
+      "position": 3,
+      "caption": "\"Eu vi o Senhor\""
+    },
+    {
+      "character_id": "martha",
+      "position": 0,
+      "caption": "\"Marta, Marta, estás ansiosa...\""
+    },
+    {
+      "character_id": "martha",
+      "position": 1,
+      "caption": "\"Se tu estivesses aqui, meu irmão não teria morrido\""
+    },
+    {
+      "character_id": "martha",
+      "position": 2,
+      "caption": "\"Tu és o Cristo, o Filho de Deus\""
+    },
+    {
+      "character_id": "martha",
+      "position": 3,
+      "caption": "Recebe Jesus em sua casa"
+    },
+    {
+      "character_id": "mary-of-bethany",
+      "position": 0,
+      "caption": "Sentada aos pés do Senhor, ouvindo"
+    },
+    {
+      "character_id": "mary-of-bethany",
+      "position": 1,
+      "caption": "Cai aos pés de Jesus, chorando por Lázaro"
+    },
+    {
+      "character_id": "mary-of-bethany",
+      "position": 2,
+      "caption": "Unge os pés de Jesus com perfume caro"
+    },
+    {
+      "character_id": "mary-of-bethany",
+      "position": 3,
+      "caption": "Jesus: \"Deixa-a, ela guardou isto para o dia da minha sepultura\""
+    },
+    {
+      "character_id": "lazarus",
+      "position": 0,
+      "caption": "Suas irmãs enviam recado: \"aquele que amas está doente\""
+    },
+    {
+      "character_id": "lazarus",
+      "position": 1,
+      "caption": "\"Jesus chorou\""
+    },
+    {
+      "character_id": "lazarus",
+      "position": 2,
+      "caption": "\"Lázaro, sai para fora\""
+    },
+    {
+      "character_id": "lazarus",
+      "position": 3,
+      "caption": "Reclina-se à mesa com Jesus depois de ser ressuscitado"
+    },
+    {
+      "character_id": "nicodemus",
+      "position": 0,
+      "caption": "\"Rabi, sabemos que és mestre vindo de Deus\""
+    },
+    {
+      "character_id": "nicodemus",
+      "position": 1,
+      "caption": "\"Como pode um homem nascer, sendo velho?\""
+    },
+    {
+      "character_id": "nicodemus",
+      "position": 2,
+      "caption": "Defende Jesus perante o Sinédrio"
+    },
+    {
+      "character_id": "nicodemus",
+      "position": 3,
+      "caption": "Traz mirra e aloés para a sepultura de Jesus"
+    },
+    {
+      "character_id": "samaritan-woman",
+      "position": 0,
+      "caption": "Surpresa por um judeu falar com ela"
+    },
+    {
+      "character_id": "samaritan-woman",
+      "position": 1,
+      "caption": "Jesus se revela a ela como o Messias"
+    },
+    {
+      "character_id": "samaritan-woman",
+      "position": 2,
+      "caption": "\"Vinde, vede um homem que me disse tudo quanto tenho feito\""
+    },
+    {
+      "character_id": "samaritan-woman",
+      "position": 3,
+      "caption": "Muitos samaritanos creem por causa do seu testemunho"
+    },
+    {
+      "character_id": "zacchaeus",
+      "position": 0,
+      "caption": "Sobe numa figueira brava para ver Jesus"
+    },
+    {
+      "character_id": "zacchaeus",
+      "position": 1,
+      "caption": "\"Hoje veio a salvação a esta casa\""
+    },
+    {
+      "character_id": "zacchaeus",
+      "position": 2,
+      "caption": "Um chefe dos publicanos, e rico"
+    },
+    {
+      "character_id": "bartimaeus",
+      "position": 0,
+      "caption": "Clama: \"Jesus, Filho de Davi, tem misericórdia de mim\""
+    },
+    {
+      "character_id": "bartimaeus",
+      "position": 1,
+      "caption": "\"A tua fé te salvou\""
+    },
+    {
+      "character_id": "bartimaeus",
+      "position": 2,
+      "caption": "Um mendigo cego sentado à beira do caminho em Jericó"
+    },
+    {
+      "character_id": "joseph-of-arimathea",
+      "position": 0,
+      "caption": "Pede a Pilatos o corpo de Jesus"
+    },
+    {
+      "character_id": "joseph-of-arimathea",
+      "position": 1,
+      "caption": "Envolve o corpo de Jesus e o deposita em seu sepulcro"
+    },
+    {
+      "character_id": "joseph-of-arimathea",
+      "position": 2,
+      "caption": "Um discípulo de Jesus, ainda que secretamente, por medo dos judeus"
+    },
+    {
+      "character_id": "simon-of-cyrene",
+      "position": 0,
+      "caption": "Obrigado a carregar a cruz"
+    },
+    {
+      "character_id": "simon-of-cyrene",
+      "position": 1,
+      "caption": "Puseram sobre ele a cruz, para levá-la atrás de Jesus"
+    },
+    {
+      "character_id": "dorcas",
+      "position": 0,
+      "caption": "Conhecida por boas obras e atos de caridade"
+    },
+    {
+      "character_id": "dorcas",
+      "position": 1,
+      "caption": "\"Tabita, levanta-te\""
+    },
+    {
+      "character_id": "dorcas",
+      "position": 2,
+      "caption": "Viúvas choram, mostrando as roupas que ela fez"
+    },
+    {
+      "character_id": "herod-the-great",
+      "position": 0,
+      "caption": "Perturbado com a notícia de um rei recém-nascido"
+    },
+    {
+      "character_id": "herod-the-great",
+      "position": 1,
+      "caption": "Ordena o massacre dos inocentes"
+    },
+    {
+      "character_id": "herod-the-great",
+      "position": 2,
+      "caption": "Pede secretamente aos magos que \"busquem diligentemente o menino\""
+    },
+    {
+      "character_id": "herod-antipas",
+      "position": 0,
+      "caption": "Temia João, sabendo que ele era justo"
+    },
+    {
+      "character_id": "herod-antipas",
+      "position": 1,
+      "caption": "Ordena a decapitação de João Batista"
+    },
+    {
+      "character_id": "herod-antipas",
+      "position": 2,
+      "caption": "Zomba de Jesus e o manda de volta a Pilatos"
+    },
+    {
+      "character_id": "herod-antipas",
+      "position": 3,
+      "caption": "Jesus o chama de \"aquela raposa\""
+    },
+    {
+      "character_id": "herodias",
+      "position": 0,
+      "caption": "Seu rancor contra João Batista"
+    },
+    {
+      "character_id": "herodias",
+      "position": 1,
+      "caption": "Instrui sua filha a pedir a cabeça de João"
+    },
+    {
+      "character_id": "herodias",
+      "position": 2,
+      "caption": "A dança de sua filha agrada a Herodes e seus convidados"
+    },
+    {
+      "character_id": "pontius-pilate",
+      "position": 0,
+      "caption": "\"Que é a verdade?\""
+    },
+    {
+      "character_id": "pontius-pilate",
+      "position": 1,
+      "caption": "\"Não acho nele culpa alguma\""
+    },
+    {
+      "character_id": "pontius-pilate",
+      "position": 2,
+      "caption": "Lava as mãos do assunto"
+    },
+    {
+      "character_id": "pontius-pilate",
+      "position": 3,
+      "caption": "Ordena o letreiro: \"Jesus, o Nazareno, o Rei dos Judeus\""
+    },
+    {
+      "character_id": "caiaphas",
+      "position": 0,
+      "caption": "\"É melhor... que um só homem morra\""
+    },
+    {
+      "character_id": "caiaphas",
+      "position": 1,
+      "caption": "Rasga suas vestes diante da resposta de Jesus"
+    },
+    {
+      "character_id": "caiaphas",
+      "position": 2,
+      "caption": "Anás lhe envia Jesus, amarrado"
+    },
+    {
+      "character_id": "adam",
+      "position": 0,
+      "caption": "Formado do pó e recebeu o fôlego de vida"
+    },
+    {
+      "character_id": "adam",
+      "position": 1,
+      "caption": "\"Osso dos meus ossos\" na criação de Eva"
+    },
+    {
+      "character_id": "adam",
+      "position": 2,
+      "caption": "Come o fruto proibido"
+    },
+    {
+      "character_id": "adam",
+      "position": 3,
+      "caption": "\"Pó és, e ao pó tornarás\""
+    },
+    {
+      "character_id": "eve",
+      "position": 0,
+      "caption": "A serpente a engana"
+    },
+    {
+      "character_id": "eve",
+      "position": 1,
+      "caption": "Come o fruto e o dá a Adão"
+    },
+    {
+      "character_id": "eve",
+      "position": 2,
+      "caption": "Chamada \"a mãe de todos os viventes\""
+    },
+    {
+      "character_id": "eve",
+      "position": 3,
+      "caption": "Formada depois de Adão, no relato de Paulo sobre a criação"
+    },
+    {
+      "character_id": "cain",
+      "position": 0,
+      "caption": "Sua ira quando sua oferta não é aceita"
+    },
+    {
+      "character_id": "cain",
+      "position": 1,
+      "caption": "Levanta-se e mata seu irmão Abel"
+    },
+    {
+      "character_id": "cain",
+      "position": 2,
+      "caption": "\"Sou eu guarda do meu irmão?\""
+    },
+    {
+      "character_id": "cain",
+      "position": 3,
+      "caption": "\"Não como Caim, que... matou seu irmão\""
+    },
+    {
+      "character_id": "abel",
+      "position": 0,
+      "caption": "Um pastor de ovelhas"
+    },
+    {
+      "character_id": "abel",
+      "position": 1,
+      "caption": "Sua oferta que agradou a Deus"
+    },
+    {
+      "character_id": "abel",
+      "position": 2,
+      "caption": "Pela fé ofereceu um sacrifício mais excelente; ainda fala"
+    },
+    {
+      "character_id": "enoch",
+      "position": 0,
+      "caption": "Andou com Deus depois do nascimento de seu filho"
+    },
+    {
+      "character_id": "enoch",
+      "position": 1,
+      "caption": "\"Enoque andou com Deus, e já não era, porque Deus o tomou\""
+    },
+    {
+      "character_id": "enoch",
+      "position": 2,
+      "caption": "Pela fé Enoque foi arrebatado, de modo que não viu a morte"
+    },
+    {
+      "character_id": "noah",
+      "position": 0,
+      "caption": "\"Um homem justo, íntegro em sua geração\""
+    },
+    {
+      "character_id": "noah",
+      "position": 1,
+      "caption": "A ordem de Deus para construir a Arca"
+    },
+    {
+      "character_id": "noah",
+      "position": 2,
+      "caption": "As águas do dilúvio sobem"
+    },
+    {
+      "character_id": "noah",
+      "position": 3,
+      "caption": "O arco-íris, sinal da aliança"
+    },
+    {
+      "character_id": "melchizedek",
+      "position": 0,
+      "caption": "Abençoa Abraão com pão e vinho"
+    },
+    {
+      "character_id": "melchizedek",
+      "position": 1,
+      "caption": "\"Sacerdote para sempre, segundo a ordem de Melquisedeque\""
+    },
+    {
+      "character_id": "melchizedek",
+      "position": 2,
+      "caption": "Uma prefiguração do sacerdócio eterno de Cristo"
+    },
+    {
+      "character_id": "melchizedek",
+      "position": 3,
+      "caption": "Sem pai, sem mãe, sem genealogia; rei de justiça"
+    },
+    {
+      "character_id": "abraham",
+      "position": 0,
+      "caption": "O chamado de Deus para deixar sua terra"
+    },
+    {
+      "character_id": "abraham",
+      "position": 1,
+      "caption": "\"Creu no Senhor, e isso lhe foi imputado como justiça\""
+    },
+    {
+      "character_id": "abraham",
+      "position": 2,
+      "caption": "Renomeado Abraão, \"pai de uma multidão\""
+    },
+    {
+      "character_id": "abraham",
+      "position": 3,
+      "caption": "A ligação de Isaque"
+    },
+    {
+      "character_id": "sarah",
+      "position": 0,
+      "caption": "Ri da promessa de um filho"
+    },
+    {
+      "character_id": "sarah",
+      "position": 1,
+      "caption": "Dá à luz Isaque em sua velhice, como prometido"
+    },
+    {
+      "character_id": "sarah",
+      "position": 2,
+      "caption": "\"Deus me deu motivo de riso\""
+    },
+    {
+      "character_id": "sarah",
+      "position": 3,
+      "caption": "Pela fé recebeu força para conceber, já fora da idade"
+    },
+    {
+      "character_id": "hagar",
+      "position": 0,
+      "caption": "Encontrada por um anjo do Senhor no deserto"
+    },
+    {
+      "character_id": "hagar",
+      "position": 1,
+      "caption": "Dá a Deus o nome de \"o Deus que me vê\""
+    },
+    {
+      "character_id": "hagar",
+      "position": 2,
+      "caption": "Deus ouve seu filho chorar no deserto"
+    },
+    {
+      "character_id": "hagar",
+      "position": 3,
+      "caption": "A alegoria de Paulo: Agar representa a aliança da escravidão"
+    },
+    {
+      "character_id": "isaac",
+      "position": 0,
+      "caption": "Nascido de Abraão e Sara em sua velhice"
+    },
+    {
+      "character_id": "isaac",
+      "position": 1,
+      "caption": "\"Onde está o cordeiro para o holocausto?\""
+    },
+    {
+      "character_id": "isaac",
+      "position": 2,
+      "caption": "Casa-se com Rebeca e é consolado"
+    },
+    {
+      "character_id": "isaac",
+      "position": 3,
+      "caption": "Abençoa Jacó, pensando ser Esaú"
+    },
+    {
+      "character_id": "rebekah",
+      "position": 0,
+      "caption": "Oferece-se para dar de beber aos camelos do servo de Abraão"
+    },
+    {
+      "character_id": "rebekah",
+      "position": 1,
+      "caption": "É-lhe dito que há duas nações em seu ventre"
+    },
+    {
+      "character_id": "rebekah",
+      "position": 2,
+      "caption": "Instrui Jacó a enganar seu pai"
+    },
+    {
+      "character_id": "rebekah",
+      "position": 3,
+      "caption": "Perguntada se irá com o servo de Abraão: \"Irei\""
+    },
+    {
+      "character_id": "jacob",
+      "position": 0,
+      "caption": "Compra a primogenitura de Esaú por pão e guisado"
+    },
+    {
+      "character_id": "jacob",
+      "position": 1,
+      "caption": "Sonha com uma escada até o céu"
+    },
+    {
+      "character_id": "jacob",
+      "position": 2,
+      "caption": "Renomeado Israel depois de lutar com Deus"
+    },
+    {
+      "character_id": "jacob",
+      "position": 3,
+      "caption": "Reconciliado com Esaú"
+    },
+    {
+      "character_id": "esau",
+      "position": 0,
+      "caption": "Um caçador habilidoso, homem do campo"
+    },
+    {
+      "character_id": "esau",
+      "position": 1,
+      "caption": "Vende sua primogenitura por pão e guisado"
+    },
+    {
+      "character_id": "esau",
+      "position": 2,
+      "caption": "Corre para abraçar Jacó depois de anos separados"
+    },
+    {
+      "character_id": "esau",
+      "position": 3,
+      "caption": "Vendeu sua primogenitura; não encontrou lugar para arrependimento, ainda que o buscasse com lágrimas"
+    },
+    {
+      "character_id": "rachel",
+      "position": 0,
+      "caption": "Jacó a ama e trabalha sete anos por ela"
+    },
+    {
+      "character_id": "rachel",
+      "position": 1,
+      "caption": "Os sete anos de trabalho de Jacó por seu amor"
+    },
+    {
+      "character_id": "rachel",
+      "position": 2,
+      "caption": "Deus se lembra dela e abre seu ventre"
+    },
+    {
+      "character_id": "rachel",
+      "position": 3,
+      "caption": "\"Raquel chorando por seus filhos\", citado no massacre dos inocentes"
+    },
+    {
+      "character_id": "leah",
+      "position": 0,
+      "caption": "Dada a Jacó no lugar de Raquel"
+    },
+    {
+      "character_id": "leah",
+      "position": 1,
+      "caption": "Deus vê que ela é desprezada, e abre seu ventre"
+    },
+    {
+      "character_id": "leah",
+      "position": 2,
+      "caption": "Dá a seu filho o nome de Judá, louvando o Senhor"
+    },
+    {
+      "character_id": "leah",
+      "position": 3,
+      "caption": "Os anciãos abençoam Rute: \"como Raquel e Lia, que edificaram a casa de Israel\""
+    },
+    {
+      "character_id": "joseph-son-of-jacob",
+      "position": 0,
+      "caption": "Vendido como escravo por seus irmãos"
+    },
+    {
+      "character_id": "joseph-son-of-jacob",
+      "position": 1,
+      "caption": "Recusa a mulher de Potifar: \"Como posso pecar contra Deus?\""
+    },
+    {
+      "character_id": "joseph-son-of-jacob",
+      "position": 2,
+      "caption": "\"Eu sou José, vosso irmão\""
+    },
+    {
+      "character_id": "joseph-son-of-jacob",
+      "position": 3,
+      "caption": "\"Vós intentastes o mal... Deus o tornou em bem\""
+    },
+    {
+      "character_id": "judah-son-of-jacob",
+      "position": 0,
+      "caption": "Propõe vender José em vez de matá-lo"
+    },
+    {
+      "character_id": "judah-son-of-jacob",
+      "position": 1,
+      "caption": "Oferece-se como escravo no lugar de Benjamim"
+    },
+    {
+      "character_id": "judah-son-of-jacob",
+      "position": 2,
+      "caption": "\"O cetro não se apartará de Judá\""
+    },
+    {
+      "character_id": "judah-son-of-jacob",
+      "position": 3,
+      "caption": "Nomeado na genealogia de Jesus"
+    },
+    {
+      "character_id": "moses",
+      "position": 0,
+      "caption": "Retirado do Nilo e nomeado pela filha de Faraó"
+    },
+    {
+      "character_id": "moses",
+      "position": 1,
+      "caption": "\"Eu Sou o que Sou\" na sarça ardente"
+    },
+    {
+      "character_id": "moses",
+      "position": 2,
+      "caption": "Divide o Mar Vermelho"
+    },
+    {
+      "character_id": "moses",
+      "position": 3,
+      "caption": "Recebe os Dez Mandamentos"
+    },
+    {
+      "character_id": "aaron",
+      "position": 0,
+      "caption": "Designado porta-voz de Moisés"
+    },
+    {
+      "character_id": "aaron",
+      "position": 1,
+      "caption": "Separado como o primeiro sumo sacerdote de Israel"
+    },
+    {
+      "character_id": "aaron",
+      "position": 2,
+      "caption": "Fabrica o bezerro de ouro"
+    },
+    {
+      "character_id": "aaron",
+      "position": 3,
+      "caption": "\"Ninguém toma para si esta honra... só quando chamado por Deus, como o foi Arão\""
+    },
+    {
+      "character_id": "miriam",
+      "position": 0,
+      "caption": "Vigia o bebê Moisés entre os juncos"
+    },
+    {
+      "character_id": "miriam",
+      "position": 1,
+      "caption": "Lidera as mulheres em cânticos e danças"
+    },
+    {
+      "character_id": "miriam",
+      "position": 2,
+      "caption": "Ferida com lepra por falar contra Moisés"
+    },
+    {
+      "character_id": "miriam",
+      "position": 3,
+      "caption": "Nomeada junto com Moisés e Arão como enviada para liderar Israel"
+    },
+    {
+      "character_id": "joshua",
+      "position": 0,
+      "caption": "Escolhido por Deus como sucessor de Moisés"
+    },
+    {
+      "character_id": "joshua",
+      "position": 1,
+      "caption": "\"Sê forte e corajoso\""
+    },
+    {
+      "character_id": "joshua",
+      "position": 2,
+      "caption": "Israel atravessa o Jordão em terra seca"
+    },
+    {
+      "character_id": "joshua",
+      "position": 3,
+      "caption": "Os muros de Jericó caem"
+    },
+    {
+      "character_id": "caleb",
+      "position": 0,
+      "caption": "\"Bem poderemos conquistá-la\""
+    },
+    {
+      "character_id": "caleb",
+      "position": 1,
+      "caption": "Prometida a entrada na terra por sua fidelidade"
+    },
+    {
+      "character_id": "caleb",
+      "position": 2,
+      "caption": "Ainda forte aos oitenta e cinco anos, pronto para a batalha"
+    },
+    {
+      "character_id": "caleb",
+      "position": 3,
+      "caption": "Hebrom se torna sua herança por seguir plenamente o Senhor"
+    },
+    {
+      "character_id": "rahab",
+      "position": 0,
+      "caption": "Esconde os espias israelitas"
+    },
+    {
+      "character_id": "rahab",
+      "position": 1,
+      "caption": "\"O Senhor, vosso Deus, é Deus\""
+    },
+    {
+      "character_id": "rahab",
+      "position": 2,
+      "caption": "Poupada com sua família quando Jericó cai"
+    },
+    {
+      "character_id": "rahab",
+      "position": 3,
+      "caption": "Pela fé não pereceu, tendo acolhido os espias"
+    },
+    {
+      "character_id": "deborah",
+      "position": 0,
+      "caption": "Julgando Israel sob a palmeira de Débora"
+    },
+    {
+      "character_id": "deborah",
+      "position": 1,
+      "caption": "Envia Baraque à batalha"
+    },
+    {
+      "character_id": "deborah",
+      "position": 2,
+      "caption": "Seu cântico de vitória"
+    },
+    {
+      "character_id": "deborah",
+      "position": 3,
+      "caption": "Diz a Baraque que o Senhor entregará Sísera nas mãos de uma mulher"
+    },
+    {
+      "character_id": "gideon",
+      "position": 0,
+      "caption": "O anjo o saúda: \"varão valoroso\""
+    },
+    {
+      "character_id": "gideon",
+      "position": 1,
+      "caption": "Põe Deus à prova com o velo de lã"
+    },
+    {
+      "character_id": "gideon",
+      "position": 2,
+      "caption": "Deus reduz seu exército a 300"
+    },
+    {
+      "character_id": "gideon",
+      "position": 3,
+      "caption": "\"Espada do Senhor e de Gideão!\""
+    },
+    {
+      "character_id": "samson",
+      "position": 0,
+      "caption": "Separado como nazireu desde o nascimento"
+    },
+    {
+      "character_id": "samson",
+      "position": 1,
+      "caption": "Despedaça um leão com as próprias mãos"
+    },
+    {
+      "character_id": "samson",
+      "position": 2,
+      "caption": "Revela o segredo de sua força"
+    },
+    {
+      "character_id": "samson",
+      "position": 3,
+      "caption": "Seu último ato, derrubando o templo"
+    },
+    {
+      "character_id": "delilah",
+      "position": 0,
+      "caption": "Subornada pelos chefes filisteus"
+    },
+    {
+      "character_id": "delilah",
+      "position": 1,
+      "caption": "\"Como podes dizer: 'Eu te amo'?\""
+    },
+    {
+      "character_id": "delilah",
+      "position": 2,
+      "caption": "Manda cortar o cabelo de Sansão enquanto ele dorme"
+    },
+    {
+      "character_id": "delilah",
+      "position": 3,
+      "caption": "Amada por Sansão, no vale de Soreque"
+    },
+    {
+      "character_id": "ruth",
+      "position": 0,
+      "caption": "\"Aonde quer que fores, irei\""
+    },
+    {
+      "character_id": "ruth",
+      "position": 1,
+      "caption": "Colhe espigas nos campos de Boaz"
+    },
+    {
+      "character_id": "ruth",
+      "position": 2,
+      "caption": "Casa-se com Boaz"
+    },
+    {
+      "character_id": "ruth",
+      "position": 3,
+      "caption": "Torna-se bisavó de Davi"
+    },
+    {
+      "character_id": "naomi",
+      "position": 0,
+      "caption": "\"Chamai-me Mara, porque o Todo-Poderoso me encheu de amargura\""
+    },
+    {
+      "character_id": "naomi",
+      "position": 1,
+      "caption": "Reconhece a bondade de Deus através de Boaz"
+    },
+    {
+      "character_id": "naomi",
+      "position": 2,
+      "caption": "Toma nos braços o filho recém-nascido de Rute"
+    },
+    {
+      "character_id": "naomi",
+      "position": 3,
+      "caption": "Abençoa suas noras e as exorta a voltarem para casa"
+    },
+    {
+      "character_id": "boaz",
+      "position": 0,
+      "caption": "Instrui seus trabalhadores a deixarem Rute colher livremente"
+    },
+    {
+      "character_id": "boaz",
+      "position": 1,
+      "caption": "\"Tu és uma mulher virtuosa\""
+    },
+    {
+      "character_id": "boaz",
+      "position": 2,
+      "caption": "Casa-se com Rute"
+    },
+    {
+      "character_id": "boaz",
+      "position": 3,
+      "caption": "Declara publicamente que comprou a terra de Noemi e tomou Rute por esposa"
+    },
+    {
+      "character_id": "samuel",
+      "position": 0,
+      "caption": "\"Fala, porque o teu servo ouve\""
+    },
+    {
+      "character_id": "samuel",
+      "position": 1,
+      "caption": "Deus lhe diz que Israel o rejeitou como rei"
+    },
+    {
+      "character_id": "samuel",
+      "position": 2,
+      "caption": "Unge Saul como o primeiro rei"
+    },
+    {
+      "character_id": "samuel",
+      "position": 3,
+      "caption": "Unge Davi como rei"
+    },
+    {
+      "character_id": "hannah",
+      "position": 0,
+      "caption": "Ora com amargura de alma por um filho"
+    },
+    {
+      "character_id": "hannah",
+      "position": 1,
+      "caption": "\"Por este menino orei\""
+    },
+    {
+      "character_id": "hannah",
+      "position": 2,
+      "caption": "Seu cântico de louvor"
+    },
+    {
+      "character_id": "hannah",
+      "position": 3,
+      "caption": "Dá à luz um filho e o chama de Samuel"
+    },
+    {
+      "character_id": "saul",
+      "position": 0,
+      "caption": "Descrito como alto e de boa aparência"
+    },
+    {
+      "character_id": "saul",
+      "position": 1,
+      "caption": "Ungido como o primeiro rei de Israel"
+    },
+    {
+      "character_id": "saul",
+      "position": 2,
+      "caption": "\"A rebeldia é como o pecado de feitiçaria\""
+    },
+    {
+      "character_id": "saul",
+      "position": 3,
+      "caption": "Torna-se ciumento da fama de Davi"
+    },
+    {
+      "character_id": "jonathan",
+      "position": 0,
+      "caption": "Sua alma ligada à de Davi"
+    },
+    {
+      "character_id": "jonathan",
+      "position": 1,
+      "caption": "Faz um pacto com Davi"
+    },
+    {
+      "character_id": "jonathan",
+      "position": 2,
+      "caption": "Despede-se de Davi em amizade"
+    },
+    {
+      "character_id": "jonathan",
+      "position": 3,
+      "caption": "O lamento de Davi por Jônatas"
+    },
+    {
+      "character_id": "david",
+      "position": 0,
+      "caption": "Escolhido e ungido quando jovem pastor"
+    },
+    {
+      "character_id": "david",
+      "position": 1,
+      "caption": "Enfrenta Golias em nome do Senhor"
+    },
+    {
+      "character_id": "david",
+      "position": 2,
+      "caption": "\"O Senhor é o meu pastor\""
+    },
+    {
+      "character_id": "david",
+      "position": 3,
+      "caption": "\"Pequei contra o Senhor\""
+    },
+    {
+      "character_id": "bathsheba",
+      "position": 0,
+      "caption": "Vista tomando banho por Davi de seu terraço"
+    },
+    {
+      "character_id": "bathsheba",
+      "position": 1,
+      "caption": "Torna-se esposa de Davi"
+    },
+    {
+      "character_id": "bathsheba",
+      "position": 2,
+      "caption": "Assegura o trono para seu filho Salomão"
+    },
+    {
+      "character_id": "bathsheba",
+      "position": 3,
+      "caption": "Dá à luz Salomão, e Davi a consola"
+    },
+    {
+      "character_id": "nathan-prophet",
+      "position": 0,
+      "caption": "Conta a Davi a parábola da cordeirinha do pobre"
+    },
+    {
+      "character_id": "nathan-prophet",
+      "position": 1,
+      "caption": "\"Tu és aquele homem!\""
+    },
+    {
+      "character_id": "nathan-prophet",
+      "position": 2,
+      "caption": "Traz a Davi a palavra de Deus sobre construir uma casa para o Senhor"
+    },
+    {
+      "character_id": "absalom",
+      "position": 0,
+      "caption": "Elogiado por sua bela aparência"
+    },
+    {
+      "character_id": "absalom",
+      "position": 1,
+      "caption": "Conspira para tomar o trono"
+    },
+    {
+      "character_id": "absalom",
+      "position": 2,
+      "caption": "O pranto de Davi: \"Ó Absalão, meu filho\""
+    },
+    {
+      "character_id": "absalom",
+      "position": 3,
+      "caption": "Rouba o coração dos homens de Israel"
+    },
+    {
+      "character_id": "solomon",
+      "position": 0,
+      "caption": "Pede um coração entendido"
+    },
+    {
+      "character_id": "solomon",
+      "position": 1,
+      "caption": "Seu sábio julgamento entre duas mães"
+    },
+    {
+      "character_id": "solomon",
+      "position": 2,
+      "caption": "O Templo se enche da glória do Senhor"
+    },
+    {
+      "character_id": "solomon",
+      "position": 3,
+      "caption": "\"O temor do Senhor é o princípio do conhecimento\""
+    },
+    {
+      "character_id": "elijah",
+      "position": 0,
+      "caption": "Declara uma seca sobre Israel"
+    },
+    {
+      "character_id": "elijah",
+      "position": 1,
+      "caption": "Fogo desce do céu no Monte Carmelo"
+    },
+    {
+      "character_id": "elijah",
+      "position": 2,
+      "caption": "Deus fala numa voz mansa e delicada"
+    },
+    {
+      "character_id": "elijah",
+      "position": 3,
+      "caption": "Levado ao céu num redemoinho"
+    },
+    {
+      "character_id": "elisha",
+      "position": 0,
+      "caption": "Chamado por Elias enquanto arava"
+    },
+    {
+      "character_id": "elisha",
+      "position": 1,
+      "caption": "Pede uma porção dobrada do espírito de Elias"
+    },
+    {
+      "character_id": "elisha",
+      "position": 2,
+      "caption": "Restaura à vida o filho morto de uma mulher"
+    },
+    {
+      "character_id": "elisha",
+      "position": 3,
+      "caption": "Cura Naamã da lepra"
+    },
+    {
+      "character_id": "ahab",
+      "position": 0,
+      "caption": "Casa-se com Jezabel e serve a Baal"
+    },
+    {
+      "character_id": "ahab",
+      "position": 1,
+      "caption": "Provoca o Senhor mais que qualquer rei antes dele"
+    },
+    {
+      "character_id": "ahab",
+      "position": 2,
+      "caption": "Julgado por se apoderar da vinha de Nabote"
+    },
+    {
+      "character_id": "ahab",
+      "position": 3,
+      "caption": "Atingido por uma flecha ao acaso e morre em seu carro"
+    },
+    {
+      "character_id": "jezebel",
+      "position": 0,
+      "caption": "Extermina os profetas do Senhor"
+    },
+    {
+      "character_id": "jezebel",
+      "position": 1,
+      "caption": "Ameaça a vida de Elias"
+    },
+    {
+      "character_id": "jezebel",
+      "position": 2,
+      "caption": "Arma a morte de Nabote por causa de sua vinha"
+    },
+    {
+      "character_id": "jezebel",
+      "position": 3,
+      "caption": "\"Lançai-a abaixo\" — sua morte por ordem de Jeú"
+    },
+    {
+      "character_id": "isaiah",
+      "position": 0,
+      "caption": "\"Santo, santo, santo é o Senhor dos Exércitos\""
+    },
+    {
+      "character_id": "isaiah",
+      "position": 1,
+      "caption": "\"Eis-me aqui, envia-me a mim\""
+    },
+    {
+      "character_id": "isaiah",
+      "position": 2,
+      "caption": "\"Um menino nos nasceu\""
+    },
+    {
+      "character_id": "isaiah",
+      "position": 3,
+      "caption": "\"Ele foi ferido pelas nossas transgressões\""
+    },
+    {
+      "character_id": "jeremiah",
+      "position": 0,
+      "caption": "\"Antes que te formasse... te conheci\""
+    },
+    {
+      "character_id": "jeremiah",
+      "position": 1,
+      "caption": "A palavra de Deus como um fogo encerrado em seus ossos"
+    },
+    {
+      "character_id": "jeremiah",
+      "position": 2,
+      "caption": "\"Planos de paz, e não de mal\""
+    },
+    {
+      "character_id": "jeremiah",
+      "position": 3,
+      "caption": "Lançado numa cisterna lamacenta por causa de sua mensagem"
+    },
+    {
+      "character_id": "ezekiel",
+      "position": 0,
+      "caption": "Os céus se abrem e ele vê visões de Deus"
+    },
+    {
+      "character_id": "ezekiel",
+      "position": 1,
+      "caption": "Designado sentinela de Israel"
+    },
+    {
+      "character_id": "ezekiel",
+      "position": 2,
+      "caption": "\"Farei entrar em vós o fôlego de vida\""
+    },
+    {
+      "character_id": "ezekiel",
+      "position": 3,
+      "caption": "É-lhe dito que sua esposa morrerá subitamente, e que ele não deve chorar"
+    },
+    {
+      "character_id": "daniel",
+      "position": 0,
+      "caption": "Resolve não se contaminar com a comida do rei"
+    },
+    {
+      "character_id": "daniel",
+      "position": 1,
+      "caption": "Interpreta o sonho de Nabucodonosor"
+    },
+    {
+      "character_id": "daniel",
+      "position": 2,
+      "caption": "\"O nosso Deus... é capaz de nos livrar\""
+    },
+    {
+      "character_id": "daniel",
+      "position": 3,
+      "caption": "\"O meu Deus enviou o seu anjo e fechou a boca dos leões\""
+    },
+    {
+      "character_id": "shadrach-meshach-abednego",
+      "position": 0,
+      "caption": "Recusam-se a adorar a imagem de ouro"
+    },
+    {
+      "character_id": "shadrach-meshach-abednego",
+      "position": 1,
+      "caption": "\"Não serviremos aos teus deuses\""
+    },
+    {
+      "character_id": "shadrach-meshach-abednego",
+      "position": 2,
+      "caption": "Uma quarta figura anda com eles no fogo"
+    },
+    {
+      "character_id": "shadrach-meshach-abednego",
+      "position": 3,
+      "caption": "Saem do fogo sem sequer cheiro de fumaça"
+    },
+    {
+      "character_id": "hosea",
+      "position": 0,
+      "caption": "Ordenado a casar-se com uma mulher infiel como sinal"
+    },
+    {
+      "character_id": "hosea",
+      "position": 1,
+      "caption": "\"Desejo misericórdia, e não sacrifício\""
+    },
+    {
+      "character_id": "hosea",
+      "position": 2,
+      "caption": "\"Quando Israel era menino, eu o amei\""
+    },
+    {
+      "character_id": "hosea",
+      "position": 3,
+      "caption": "Ordenado novamente a amar uma mulher infiel, como sinal"
+    },
+    {
+      "character_id": "joel",
+      "position": 0,
+      "caption": "\"Rasgai o vosso coração, e não as vossas vestes\""
+    },
+    {
+      "character_id": "joel",
+      "position": 1,
+      "caption": "\"Restituirei os anos que o gafanhoto comeu\""
+    },
+    {
+      "character_id": "joel",
+      "position": 2,
+      "caption": "\"Derramarei o meu Espírito sobre toda a carne\""
+    },
+    {
+      "character_id": "joel",
+      "position": 3,
+      "caption": "Pedro, em Pentecostes: \"isto é o que foi dito pelo profeta Joel\""
+    },
+    {
+      "character_id": "amos",
+      "position": 0,
+      "caption": "Apresentado como pastor de Tecoa"
+    },
+    {
+      "character_id": "amos",
+      "position": 1,
+      "caption": "\"Corra a justiça como as águas\""
+    },
+    {
+      "character_id": "amos",
+      "position": 2,
+      "caption": "\"Eu era... pastor... e o Senhor me tomou\""
+    },
+    {
+      "character_id": "amos",
+      "position": 3,
+      "caption": "Citado por Tiago no concílio de Jerusalém"
+    },
+    {
+      "character_id": "jonah",
+      "position": 0,
+      "caption": "Foge do Senhor rumo a Társis"
+    },
+    {
+      "character_id": "jonah",
+      "position": 1,
+      "caption": "Engolido por um grande peixe"
+    },
+    {
+      "character_id": "jonah",
+      "position": 2,
+      "caption": "Prega o juízo a Nínive"
+    },
+    {
+      "character_id": "jonah",
+      "position": 3,
+      "caption": "Nínive se arrepende e é poupada"
+    },
+    {
+      "character_id": "micah",
+      "position": 0,
+      "caption": "Cheio de poder para declarar o pecado de Israel"
+    },
+    {
+      "character_id": "micah",
+      "position": 1,
+      "caption": "Prediz Belém como o local de nascimento do Messias"
+    },
+    {
+      "character_id": "micah",
+      "position": 2,
+      "caption": "\"Praticar a justiça, amar a misericórdia, andar humildemente\""
+    },
+    {
+      "character_id": "micah",
+      "position": 3,
+      "caption": "Sua profecia sobre Belém citada aos principais sacerdotes de Herodes"
+    },
+    {
+      "character_id": "job",
+      "position": 0,
+      "caption": "Apresentado como íntegro e reto"
+    },
+    {
+      "character_id": "job",
+      "position": 1,
+      "caption": "\"O Senhor deu, e o Senhor tomou\""
+    },
+    {
+      "character_id": "job",
+      "position": 2,
+      "caption": "\"Eu sei que o meu Redentor vive\""
+    },
+    {
+      "character_id": "job",
+      "position": 3,
+      "caption": "\"Agora os meus olhos te veem\""
+    },
+    {
+      "character_id": "ezra",
+      "position": 0,
+      "caption": "Um escriba versado na Lei de Moisés"
+    },
+    {
+      "character_id": "ezra",
+      "position": 1,
+      "caption": "Dispôs seu coração para estudar e ensinar a Lei"
+    },
+    {
+      "character_id": "ezra",
+      "position": 2,
+      "caption": "Sua oração de vergonha pela infidelidade do povo"
+    },
+    {
+      "character_id": "ezra",
+      "position": 3,
+      "caption": "Lê a Lei diante do povo reunido"
+    },
+    {
+      "character_id": "nehemiah",
+      "position": 0,
+      "caption": "Chora e jejua ao ouvir da ruína de Jerusalém"
+    },
+    {
+      "character_id": "nehemiah",
+      "position": 1,
+      "caption": "Pede ao rei permissão para reconstruir"
+    },
+    {
+      "character_id": "nehemiah",
+      "position": 2,
+      "caption": "Os construtores trabalham com uma arma numa das mãos"
+    },
+    {
+      "character_id": "nehemiah",
+      "position": 3,
+      "caption": "O muro concluído em cinquenta e dois dias"
+    },
+    {
+      "character_id": "esther",
+      "position": 0,
+      "caption": "Escolhida rainha pelo rei"
+    },
+    {
+      "character_id": "esther",
+      "position": 1,
+      "caption": "\"Para um tempo como este\""
+    },
+    {
+      "character_id": "esther",
+      "position": 2,
+      "caption": "\"Se eu perecer, pereça\""
+    },
+    {
+      "character_id": "esther",
+      "position": 3,
+      "caption": "Suplica ao rei pela vida de seu povo"
+    },
+    {
+      "character_id": "mordecai",
+      "position": 0,
+      "caption": "Cria sua prima Ester como se fosse sua própria filha"
+    },
+    {
+      "character_id": "mordecai",
+      "position": 1,
+      "caption": "Insta Ester a agir por seu povo"
+    },
+    {
+      "character_id": "mordecai",
+      "position": 2,
+      "caption": "Honrado publicamente pelo rei"
+    },
+    {
+      "character_id": "mordecai",
+      "position": 3,
+      "caption": "Segundo em posição depois do rei, buscando o bem-estar de seu povo"
+    },
+    {
+      "character_id": "tobit",
+      "position": 0,
+      "caption": "Sua prática de caridade ao longo de toda a vida"
+    },
+    {
+      "character_id": "tobit",
+      "position": 1,
+      "caption": "Perde a visão"
+    },
+    {
+      "character_id": "tobit",
+      "position": 2,
+      "caption": "Sua visão é restaurada"
+    },
+    {
+      "character_id": "tobit",
+      "position": 3,
+      "caption": "Suas instruções a seu filho Tobias antes da viagem"
+    },
+    {
+      "character_id": "judith",
+      "position": 0,
+      "caption": "Decide agir para salvar sua cidade"
+    },
+    {
+      "character_id": "judith",
+      "position": 1,
+      "caption": "Derruba Holofernes"
+    },
+    {
+      "character_id": "judith",
+      "position": 2,
+      "caption": "Livra sua cidade de Holofernes"
+    },
+    {
+      "character_id": "judith",
+      "position": 3,
+      "caption": "Apresentada como uma viúva devota de grande reputação"
+    }
+  ]
+}

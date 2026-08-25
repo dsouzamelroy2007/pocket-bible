@@ -1,5 +1,5 @@
 {
-  "content_version": 22,
+  "content_version": 24,
   "_note": "Index of every content module this app ships. To add a book or a new scripture translation/language: drop a new file under content/scripture/<translation_id>/<book_id>.json (see tools/import_scripture.py) and add one entry to \"scripture\" here. To add or extend a UI-language translation of the topics content (feeling label/description, entry reflection/prayer -- NOT scripture text): drop a content/topics/<language>.json file and add one entry to \"topic_translations\" here; any topic or entry missing from that file just falls back to English. Either way, no need to touch core.json, topics.json, or any other module. Bump content_version whenever any module changes so SeedLoader re-seeds on next launch.",
   "core": "content/core.json",
   "topics": "content/topics.json",
@@ -2053,6 +2053,336 @@
       "translation_id": "irv-mr",
       "book_id": "zeph",
       "path": "content/scripture/irv-mr/zeph.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "1chr",
+      "path": "content/scripture/aa-pt/1chr.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "1cor",
+      "path": "content/scripture/aa-pt/1cor.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "1jo",
+      "path": "content/scripture/aa-pt/1jo.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "1kgs",
+      "path": "content/scripture/aa-pt/1kgs.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "1pet",
+      "path": "content/scripture/aa-pt/1pet.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "1sam",
+      "path": "content/scripture/aa-pt/1sam.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "1the",
+      "path": "content/scripture/aa-pt/1the.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "1tim",
+      "path": "content/scripture/aa-pt/1tim.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "2chr",
+      "path": "content/scripture/aa-pt/2chr.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "2cor",
+      "path": "content/scripture/aa-pt/2cor.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "2jo",
+      "path": "content/scripture/aa-pt/2jo.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "2kgs",
+      "path": "content/scripture/aa-pt/2kgs.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "2pet",
+      "path": "content/scripture/aa-pt/2pet.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "2sam",
+      "path": "content/scripture/aa-pt/2sam.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "2the",
+      "path": "content/scripture/aa-pt/2the.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "2tim",
+      "path": "content/scripture/aa-pt/2tim.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "3jo",
+      "path": "content/scripture/aa-pt/3jo.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "acts",
+      "path": "content/scripture/aa-pt/acts.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "amos",
+      "path": "content/scripture/aa-pt/amos.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "col",
+      "path": "content/scripture/aa-pt/col.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "dan",
+      "path": "content/scripture/aa-pt/dan.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "deut",
+      "path": "content/scripture/aa-pt/deut.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "eccl",
+      "path": "content/scripture/aa-pt/eccl.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "eph",
+      "path": "content/scripture/aa-pt/eph.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "esth",
+      "path": "content/scripture/aa-pt/esth.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "ex",
+      "path": "content/scripture/aa-pt/ex.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "ezek",
+      "path": "content/scripture/aa-pt/ezek.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "ezra",
+      "path": "content/scripture/aa-pt/ezra.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "gal",
+      "path": "content/scripture/aa-pt/gal.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "gen",
+      "path": "content/scripture/aa-pt/gen.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "hab",
+      "path": "content/scripture/aa-pt/hab.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "hag",
+      "path": "content/scripture/aa-pt/hag.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "heb",
+      "path": "content/scripture/aa-pt/heb.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "hos",
+      "path": "content/scripture/aa-pt/hos.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "isa",
+      "path": "content/scripture/aa-pt/isa.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "jas",
+      "path": "content/scripture/aa-pt/jas.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "jer",
+      "path": "content/scripture/aa-pt/jer.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "jn",
+      "path": "content/scripture/aa-pt/jn.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "job",
+      "path": "content/scripture/aa-pt/job.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "joel",
+      "path": "content/scripture/aa-pt/joel.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "jonah",
+      "path": "content/scripture/aa-pt/jonah.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "josh",
+      "path": "content/scripture/aa-pt/josh.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "jude",
+      "path": "content/scripture/aa-pt/jude.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "judg",
+      "path": "content/scripture/aa-pt/judg.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "lam",
+      "path": "content/scripture/aa-pt/lam.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "lev",
+      "path": "content/scripture/aa-pt/lev.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "lk",
+      "path": "content/scripture/aa-pt/lk.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "mal",
+      "path": "content/scripture/aa-pt/mal.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "mic",
+      "path": "content/scripture/aa-pt/mic.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "mk",
+      "path": "content/scripture/aa-pt/mk.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "mt",
+      "path": "content/scripture/aa-pt/mt.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "nah",
+      "path": "content/scripture/aa-pt/nah.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "neh",
+      "path": "content/scripture/aa-pt/neh.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "num",
+      "path": "content/scripture/aa-pt/num.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "obad",
+      "path": "content/scripture/aa-pt/obad.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "phil",
+      "path": "content/scripture/aa-pt/phil.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "phlm",
+      "path": "content/scripture/aa-pt/phlm.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "pr",
+      "path": "content/scripture/aa-pt/pr.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "ps",
+      "path": "content/scripture/aa-pt/ps.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "rev",
+      "path": "content/scripture/aa-pt/rev.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "ro",
+      "path": "content/scripture/aa-pt/ro.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "ruth",
+      "path": "content/scripture/aa-pt/ruth.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "song",
+      "path": "content/scripture/aa-pt/song.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "titus",
+      "path": "content/scripture/aa-pt/titus.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "zech",
+      "path": "content/scripture/aa-pt/zech.json"
+    },
+    {
+      "translation_id": "aa-pt",
+      "book_id": "zeph",
+      "path": "content/scripture/aa-pt/zeph.json"
     }
   ],
   "topic_translations": [
@@ -2075,6 +2405,10 @@
     {
       "language": "mr",
       "path": "content/topics/mr.json"
+    },
+    {
+      "language": "pt",
+      "path": "content/topics/pt.json"
     }
   ],
   "characters": "content/characters.json",
@@ -2098,6 +2432,10 @@
     {
       "language": "mr",
       "path": "content/character_translations/mr.json"
+    },
+    {
+      "language": "pt",
+      "path": "content/character_translations/pt.json"
     }
   ],
   "character_verse_ref_translations": [
@@ -2120,6 +2458,10 @@
     {
       "language": "mr",
       "path": "content/character_verse_ref_translations/mr.json"
+    },
+    {
+      "language": "pt",
+      "path": "content/character_verse_ref_translations/pt.json"
     }
   ]
 }
