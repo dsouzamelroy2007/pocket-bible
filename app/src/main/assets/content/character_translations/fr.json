@@ -1,0 +1,576 @@
+{
+  "language": "fr",
+  "_note": "French name/intro translations for the Personalities tab, original devotional prose (not scripture) -- same translation approach used for content/topics/fr.json. Worth a native-speaker spot-check before wide release.",
+  "character_translations": [
+    {
+      "character_id": "jesus",
+      "name": "Jésus-Christ",
+      "intro": "Le Fils de Dieu, dont la naissance, l'enseignement, la mort et la résurrection sont au cœur du Nouveau Testament et de la foi chrétienne."
+    },
+    {
+      "character_id": "mary-mother-of-jesus",
+      "name": "Marie, mère de Jésus",
+      "intro": "La jeune femme de Nazareth qui a dit oui pour devenir la mère du Messie, et qui est restée avec lui jusqu'à la croix."
+    },
+    {
+      "character_id": "joseph-husband-of-mary",
+      "name": "Joseph",
+      "intro": "Un charpentier de Nazareth, époux de Marie et père adoptif de Jésus, qui a protégé sa famille à travers des rêves et des épreuves."
+    },
+    {
+      "character_id": "john-the-baptist",
+      "name": "Jean-Baptiste",
+      "intro": "Le prophète qui a appelé Israël à la conversion et a baptisé Jésus dans le Jourdain, préparant ainsi son chemin."
+    },
+    {
+      "character_id": "elizabeth",
+      "name": "Élisabeth",
+      "intro": "Parente de Marie, qui a conçu Jean-Baptiste dans sa vieillesse et a salué Marie comme la mère de son Seigneur."
+    },
+    {
+      "character_id": "zechariah-father-of-john",
+      "name": "Zacharie",
+      "intro": "Un prêtre rendu muet pour avoir douté de la promesse de l'ange, dont la voix est revenue en un chant prophétique à la naissance de Jean."
+    },
+    {
+      "character_id": "simeon",
+      "name": "Syméon",
+      "intro": "Un vieil homme pieux à qui il avait été promis qu'il verrait le Messie avant sa mort, et qui a pris l'enfant Jésus dans ses bras au Temple."
+    },
+    {
+      "character_id": "anna-prophetess",
+      "name": "Anne",
+      "intro": "Une prophétesse âgée qui adorait au Temple nuit et jour et a reconnu dans l'enfant Jésus la rédemption de Jérusalem."
+    },
+    {
+      "character_id": "peter",
+      "name": "Pierre",
+      "intro": "Un pêcheur surnommé « le rocher », dont la foi audacieuse et les échecs douloureux en font le plus humain des apôtres, et le premier chef de l'Église."
+    },
+    {
+      "character_id": "andrew",
+      "name": "André",
+      "intro": "Le frère de Pierre et le premier apôtre que Jésus a appelé, qui a amené à Jésus Pierre puis un jeune garçon avec des pains et des poissons."
+    },
+    {
+      "character_id": "john-apostle",
+      "name": "Jean",
+      "intro": "« Le disciple que Jésus aimait », qui s'est appuyé sur lui lors de la Dernière Cène et a plus tard écrit un Évangile, trois lettres et l'Apocalypse."
+    },
+    {
+      "character_id": "james-son-of-zebedee",
+      "name": "Jacques (fils de Zébédée)",
+      "intro": "Frère de Jean, l'un du cercle restreint à la Transfiguration, et le premier apôtre martyrisé."
+    },
+    {
+      "character_id": "philip-apostle",
+      "name": "Philippe",
+      "intro": "Un apôtre de Bethsaïde qui a amené Nathanaël à Jésus et lui a plus tard demandé de voir le Père."
+    },
+    {
+      "character_id": "bartholomew",
+      "name": "Barthélemy (Nathanaël)",
+      "intro": "Un apôtre que Jésus a appelé « un Israélite en qui il n'y a pas de fraude », convaincu après avoir été vu sous le figuier."
+    },
+    {
+      "character_id": "thomas",
+      "name": "Thomas",
+      "intro": "L'apôtre resté célèbre pour avoir douté de la Résurrection jusqu'à toucher lui-même les plaies de Jésus, avant de le confesser comme Seigneur et Dieu."
+    },
+    {
+      "character_id": "matthew",
+      "name": "Matthieu",
+      "intro": "Un collecteur d'impôts méprisé qui a quitté son bureau pour suivre Jésus, et qui a plus tard écrit un Évangile le présentant comme le Messie promis."
+    },
+    {
+      "character_id": "james-son-of-alphaeus",
+      "name": "Jacques (fils d'Alphée)",
+      "intro": "L'un des Douze, parfois appelé « Jacques le Mineur » pour le distinguer de Jacques, fils de Zébédée."
+    },
+    {
+      "character_id": "thaddaeus",
+      "name": "Thaddée (Jude)",
+      "intro": "Un apôtre aussi appelé Jude, qui a demandé à Jésus lors de la Dernière Cène pourquoi il ne se révélerait qu'à ses disciples."
+    },
+    {
+      "character_id": "simon-the-zealot",
+      "name": "Simon le Zélote",
+      "intro": "L'un des Douze, identifié comme zélote — probablement lié au mouvement résistant à la domination romaine."
+    },
+    {
+      "character_id": "judas-iscariot",
+      "name": "Judas Iscariote",
+      "intro": "L'apôtre qui a trahi Jésus pour trente pièces d'argent, et dont le remords a fini en désespoir plutôt qu'en repentance."
+    },
+    {
+      "character_id": "paul",
+      "name": "Paul",
+      "intro": "Un persécuteur zélé des chrétiens transformé sur le chemin de Damas en missionnaire et écrivain infatigable de l'Église."
+    },
+    {
+      "character_id": "barnabas",
+      "name": "Barnabé",
+      "intro": "« Fils d'encouragement », qui s'est porté garant de Paul converti et est devenu son premier compagnon de mission."
+    },
+    {
+      "character_id": "silas",
+      "name": "Silas",
+      "intro": "Le compagnon de Paul emprisonné et battu avec lui à Philippes, et qui a chanté des cantiques avec lui à minuit dans la prison."
+    },
+    {
+      "character_id": "timothy",
+      "name": "Timothée",
+      "intro": "Un jeune disciple que Paul traitait comme un fils dans la foi, à qui il a confié la direction de l'église d'Éphèse."
+    },
+    {
+      "character_id": "titus",
+      "name": "Tite",
+      "intro": "Un converti païen et délégué de confiance que Paul a laissé en Crète pour y organiser les églises."
+    },
+    {
+      "character_id": "luke",
+      "name": "Luc",
+      "intro": "Un médecin et converti païen qui a soigneusement mené ses recherches et écrit un Évangile ainsi que les Actes des Apôtres."
+    },
+    {
+      "character_id": "mark",
+      "name": "Marc (Jean-Marc)",
+      "intro": "Un jeune compagnon de Paul et Barnabé dont l'abandon précoce a causé une brouille, et qui a plus tard écrit le plus ancien des Évangiles."
+    },
+    {
+      "character_id": "stephen",
+      "name": "Étienne",
+      "intro": "Un diacre plein de grâce et de puissance, dont la prédication audacieuse a conduit à sa lapidation en tant que premier martyr de l'Église."
+    },
+    {
+      "character_id": "philip-the-evangelist",
+      "name": "Philippe l'évangéliste",
+      "intro": "L'un des sept choisis pour servir l'Église naissante, qui a expliqué les Écritures à un fonctionnaire éthiopien et l'a baptisé."
+    },
+    {
+      "character_id": "cornelius",
+      "name": "Corneille",
+      "intro": "Un centurion romain pieux dont la vision — et celle de Pierre — a ouvert à l'Église la mission auprès des païens."
+    },
+    {
+      "character_id": "priscilla-and-aquila",
+      "name": "Priscille et Aquilas",
+      "intro": "Un couple de missionnaires, fabricants de tentes, qui accueillait une église domestique et a instruit Apollos plus précisément."
+    },
+    {
+      "character_id": "apollos",
+      "name": "Apollos",
+      "intro": "Un prédicateur éloquent et versé dans les Écritures, dont le ministère a arrosé ce que Paul avait planté à Corinthe."
+    },
+    {
+      "character_id": "lydia",
+      "name": "Lydie",
+      "intro": "Une marchande de pourpre de Philippes et la première convertie recensée en Europe, qui a ouvert sa maison à la mission de Paul."
+    },
+    {
+      "character_id": "james-brother-of-jesus",
+      "name": "Jacques, frère de Jésus",
+      "intro": "Un dirigeant de l'église de Jérusalem qui a autrefois douté de Jésus, a ensuite rencontré le Christ ressuscité, et a écrit une lettre du Nouveau Testament."
+    },
+    {
+      "character_id": "jude-brother-of-jesus",
+      "name": "Jude, frère de Jésus",
+      "intro": "Un frère de Jésus et de Jacques qui a écrit une lettre courte et pressante mettant en garde contre les faux docteurs."
+    },
+    {
+      "character_id": "philemon",
+      "name": "Philémon",
+      "intro": "Un chrétien propriétaire d'esclaves à qui Paul a écrit personnellement, le priant d'accueillir son esclave fugitif Onésime comme un frère."
+    },
+    {
+      "character_id": "onesimus",
+      "name": "Onésime",
+      "intro": "Un esclave fugitif devenu chrétien sous la garde de Paul, et renvoyé à son maître avec une demande de clémence."
+    },
+    {
+      "character_id": "mary-magdalene",
+      "name": "Marie-Madeleine",
+      "intro": "Une femme que Jésus a délivrée d'une grande affliction, restée au pied de la croix et la première à le voir ressuscité."
+    },
+    {
+      "character_id": "martha",
+      "name": "Marthe",
+      "intro": "Sœur de Marie et de Lazare, préoccupée par l'accueil de Jésus, et plus tard celle qui l'a confessé comme le Christ avant la résurrection de Lazare."
+    },
+    {
+      "character_id": "mary-of-bethany",
+      "name": "Marie de Béthanie",
+      "intro": "Sœur de Marthe et de Lazare, connue pour s'être assise aux pieds de Jésus et l'avoir oint d'un parfum précieux."
+    },
+    {
+      "character_id": "lazarus",
+      "name": "Lazare",
+      "intro": "Un ami de Jésus mort et resté quatre jours au tombeau avant que Jésus ne le rappelle à la vie."
+    },
+    {
+      "character_id": "nicodemus",
+      "name": "Nicodème",
+      "intro": "Un pharisien venu voir Jésus de nuit avec des questions, qui a plus tard aidé à l'ensevelir dignement."
+    },
+    {
+      "character_id": "samaritan-woman",
+      "name": "La Samaritaine",
+      "intro": "Une femme que Jésus a rencontrée près d'un puits, dont la conversation sincère sur sa vie l'a menée à évangéliser toute sa ville."
+    },
+    {
+      "character_id": "zacchaeus",
+      "name": "Zachée",
+      "intro": "Un collecteur d'impôts riche et de petite taille qui a grimpé à un arbre pour voir Jésus, et a donné la moitié de ses biens après que Jésus eut dîné chez lui."
+    },
+    {
+      "character_id": "bartimaeus",
+      "name": "Bartimée",
+      "intro": "Un mendiant aveugle de Jéricho dont le cri persistant pour la miséricorde Jésus a exaucé, lui rendant la vue."
+    },
+    {
+      "character_id": "joseph-of-arimathea",
+      "name": "Joseph d'Arimathie",
+      "intro": "Un disciple riche et secret qui a demandé à Pilate le corps de Jésus et l'a déposé dans son propre tombeau neuf."
+    },
+    {
+      "character_id": "simon-of-cyrene",
+      "name": "Simon de Cyrène",
+      "intro": "Un passant contraint de porter la croix de Jésus, partageant ainsi sans le vouloir le chemin du Calvaire."
+    },
+    {
+      "character_id": "dorcas",
+      "name": "Dorcas (Tabitha)",
+      "intro": "Une disciple de Jaffa connue pour sa charité envers les veuves, que Pierre a ressuscitée d'entre les morts."
+    },
+    {
+      "character_id": "herod-the-great",
+      "name": "Hérode le Grand",
+      "intro": "Le roi paranoïaque de Judée à la naissance de Jésus, qui a ordonné le massacre des enfants à Bethléem."
+    },
+    {
+      "character_id": "herod-antipas",
+      "name": "Hérode Antipas",
+      "intro": "Fils d'Hérode le Grand, qui a fait décapiter Jean-Baptiste et s'est plus tard moqué de Jésus lors de son procès."
+    },
+    {
+      "character_id": "herodias",
+      "name": "Hérodiade",
+      "intro": "L'épouse d'Hérode Antipas, dont la rancune envers Jean-Baptiste a conduit à son exécution."
+    },
+    {
+      "character_id": "pontius-pilate",
+      "name": "Ponce Pilate",
+      "intro": "Le gouverneur romain qui n'a trouvé aucune culpabilité en Jésus, mais l'a néanmoins livré pour être crucifié."
+    },
+    {
+      "character_id": "caiaphas",
+      "name": "Caïphe",
+      "intro": "Le grand prêtre qui a présidé le procès de Jésus et a insisté pour sa mort."
+    },
+    {
+      "character_id": "adam",
+      "name": "Adam",
+      "intro": "Le premier homme, formé de poussière et animé du souffle de vie, dont la désobéissance en Éden a introduit le péché dans le monde."
+    },
+    {
+      "character_id": "eve",
+      "name": "Ève",
+      "intro": "La première femme, « mère de tous les vivants », trompée par le serpent avant Adam dans le jardin."
+    },
+    {
+      "character_id": "cain",
+      "name": "Caïn",
+      "intro": "Le premier-né d'Adam et Ève, dont la jalousie envers son frère Abel a conduit au premier meurtre de l'histoire."
+    },
+    {
+      "character_id": "abel",
+      "name": "Abel",
+      "intro": "Le second fils d'Adam et Ève, un berger dont l'offrande a plu à Dieu, et la première personne assassinée."
+    },
+    {
+      "character_id": "enoch",
+      "name": "Hénoc",
+      "intro": "Un homme resté célèbre pour avoir marché si étroitement avec Dieu qu'il n'a pas connu la mort."
+    },
+    {
+      "character_id": "noah",
+      "name": "Noé",
+      "intro": "Le seul homme juste de sa génération, qui a construit l'arche et préservé sa famille et les animaux à travers le déluge."
+    },
+    {
+      "character_id": "melchizedek",
+      "name": "Melchisédek",
+      "intro": "Le mystérieux roi-prêtre de Salem qui a béni Abraham, plus tard vu comme préfiguration du sacerdoce éternel du Christ."
+    },
+    {
+      "character_id": "abraham",
+      "name": "Abraham",
+      "intro": "Appelé par Dieu à quitter son pays pour la promesse d'une nouvelle nation, père d'une multitude de nations par la foi."
+    },
+    {
+      "character_id": "sarah",
+      "name": "Sara",
+      "intro": "L'épouse d'Abraham, qui a ri de la promesse d'un fils dans sa vieillesse, puis a porté Isaac comme promis."
+    },
+    {
+      "character_id": "hagar",
+      "name": "Agar",
+      "intro": "La servante de Sara, mère d'Ismaël, chassée deux fois au désert et rencontrée là par Dieu."
+    },
+    {
+      "character_id": "isaac",
+      "name": "Isaac",
+      "intro": "Le fils longuement promis à Abraham et Sara, lié comme sacrifice sur le mont Moriah et plus tard père de Jacob et d'Ésaü."
+    },
+    {
+      "character_id": "rebekah",
+      "name": "Rébecca",
+      "intro": "L'épouse d'Isaac, choisie à un puits pour sa bonté, qui a plus tard favorisé Jacob et l'a aidé à obtenir la bénédiction du droit d'aînesse."
+    },
+    {
+      "character_id": "jacob",
+      "name": "Jacob (Israël)",
+      "intro": "Le fils d'Isaac, qui a lutté avec Dieu à Peniel et a été renommé Israël, père des douze tribus."
+    },
+    {
+      "character_id": "esau",
+      "name": "Ésaü",
+      "intro": "Le frère jumeau de Jacob, qui a vendu son droit d'aînesse pour un plat de lentilles et s'est plus tard réconcilié avec lui."
+    },
+    {
+      "character_id": "rachel",
+      "name": "Rachel",
+      "intro": "L'épouse bien-aimée de Jacob, pour qui il a travaillé quatorze ans, mère de Joseph et de Benjamin."
+    },
+    {
+      "character_id": "leah",
+      "name": "Léa",
+      "intro": "La première épouse de Jacob, moins aimée que sa sœur Rachel, mais mère de six des douze tribus, dont Juda."
+    },
+    {
+      "character_id": "joseph-son-of-jacob",
+      "name": "Joseph",
+      "intro": "Le fils préféré de Jacob, vendu comme esclave par ses frères, qui s'est élevé au pouvoir en Égypte et leur a pardonné."
+    },
+    {
+      "character_id": "judah-son-of-jacob",
+      "name": "Juda",
+      "intro": "Le quatrième fils de Jacob, dont la tribu donnerait naissance à David et, par lui, à Jésus."
+    },
+    {
+      "character_id": "moses",
+      "name": "Moïse",
+      "intro": "Sauvé du Nil enfant, appelé depuis un buisson ardent à délivrer Israël d'Égypte et à recevoir la Loi au Sinaï."
+    },
+    {
+      "character_id": "aaron",
+      "name": "Aaron",
+      "intro": "Le frère et porte-parole de Moïse, devenu le premier grand prêtre d'Israël."
+    },
+    {
+      "character_id": "miriam",
+      "name": "Miriam",
+      "intro": "La sœur de Moïse, une prophétesse qui a veillé sur lui enfant et a conduit le chant des femmes d'Israël après la traversée de la mer Rouge."
+    },
+    {
+      "character_id": "joshua",
+      "name": "Josué",
+      "intro": "Le successeur de Moïse, qui a conduit Israël à travers le Jourdain vers la Terre promise et a pris Jéricho."
+    },
+    {
+      "character_id": "caleb",
+      "name": "Caleb",
+      "intro": "L'un des douze espions envoyés en Canaan, dont le rapport fidèle et la confiance en Dieu toute sa vie lui ont valu d'entrer dans la Terre promise."
+    },
+    {
+      "character_id": "rahab",
+      "name": "Rahab",
+      "intro": "Une femme de Jéricho qui a caché les espions israélites et a été épargnée avec sa famille lors de la chute de la ville, plus tard ancêtre de David."
+    },
+    {
+      "character_id": "deborah",
+      "name": "Débora",
+      "intro": "Une prophétesse et juge d'Israël qui a conduit la nation à la victoire sur ses oppresseurs."
+    },
+    {
+      "character_id": "gideon",
+      "name": "Gédéon",
+      "intro": "Un fermier hésitant appelé à diriger Israël, qui a vaincu une immense armée madianite avec seulement trois cents hommes."
+    },
+    {
+      "character_id": "samson",
+      "name": "Samson",
+      "intro": "Un juge d'Israël doté d'une force surnaturelle par son vœu de nazir, perdu par son amour pour Dalila."
+    },
+    {
+      "character_id": "delilah",
+      "name": "Dalila",
+      "intro": "La femme qui a soutiré à Samson le secret de sa force et l'a livré aux Philistins."
+    },
+    {
+      "character_id": "ruth",
+      "name": "Ruth",
+      "intro": "Une veuve moabite dont la fidélité envers sa belle-mère Noémi l'a menée à devenir une ancêtre de David."
+    },
+    {
+      "character_id": "naomi",
+      "name": "Noémi",
+      "intro": "La belle-mère de Ruth, qui a perdu son mari et ses fils à Moab et est revenue à Bethléem endeuillée, puis bénie."
+    },
+    {
+      "character_id": "boaz",
+      "name": "Boaz",
+      "intro": "Un propriétaire terrien bienveillant et riche qui a épousé Ruth comme son proche parent rédempteur, devenant ancêtre de David."
+    },
+    {
+      "character_id": "samuel",
+      "name": "Samuel",
+      "intro": "Donné au service du Seigneur enfant, dernier juge d'Israël et prophète qui a oint Saül puis David comme roi."
+    },
+    {
+      "character_id": "hannah",
+      "name": "Anne",
+      "intro": "La mère de Samuel, qui a prié des années pour un enfant et l'a consacré au service du Seigneur une fois né."
+    },
+    {
+      "character_id": "saul",
+      "name": "Saül",
+      "intro": "Le premier roi d'Israël, grand et prometteur, dont la désobéissance et la jalousie envers David ont causé sa chute."
+    },
+    {
+      "character_id": "jonathan",
+      "name": "Jonathan",
+      "intro": "Le fils de Saül, dont la profonde amitié avec David a survécu à la rage jalouse de son père."
+    },
+    {
+      "character_id": "david",
+      "name": "David",
+      "intro": "Un jeune berger qui a terrassé Goliath et est devenu le plus grand roi d'Israël, un homme selon le cœur de Dieu malgré ses péchés."
+    },
+    {
+      "character_id": "bathsheba",
+      "name": "Bethsabée",
+      "intro": "La femme que David a prise pour épouse après un grave péché contre sa famille, mère de Salomon."
+    },
+    {
+      "character_id": "nathan-prophet",
+      "name": "Nathan",
+      "intro": "Un prophète de cour qui a confronté le roi David sur son péché avec Bethsabée par une parabole percutante."
+    },
+    {
+      "character_id": "absalom",
+      "name": "Absalom",
+      "intro": "Le fils beau et rebelle de David, dont la révolte contre son père s'est terminée par sa propre mort."
+    },
+    {
+      "character_id": "solomon",
+      "name": "Salomon",
+      "intro": "Le fils de David, qui a demandé à Dieu la sagesse plutôt que la richesse, a bâti le Temple de Jérusalem et écrit une grande partie de la littérature sapientiale."
+    },
+    {
+      "character_id": "elijah",
+      "name": "Élie",
+      "intro": "Un prophète ardent qui a confronté les prophètes de Baal sur le mont Carmel et a été enlevé au ciel dans un tourbillon."
+    },
+    {
+      "character_id": "elisha",
+      "name": "Élisée",
+      "intro": "Le successeur d'Élie, qui a demandé une double part de son esprit et a accompli de nombreux miracles pour Israël."
+    },
+    {
+      "character_id": "ahab",
+      "name": "Achab",
+      "intro": "Un roi d'Israël qui a épousé la païenne Jézabel et a conduit la nation à l'idolâtrie, combattu par Élie."
+    },
+    {
+      "character_id": "jezebel",
+      "name": "Jézabel",
+      "intro": "La reine étrangère d'Achab, qui a promu le culte de Baal et a pourchassé les prophètes du Seigneur."
+    },
+    {
+      "character_id": "isaiah",
+      "name": "Ésaïe",
+      "intro": "Un grand prophète dont la vision de la gloire de Dieu l'a lancé dans le ministère, et dont les écrits annoncent la venue du Messie."
+    },
+    {
+      "character_id": "jeremiah",
+      "name": "Jérémie",
+      "intro": "« Le prophète des larmes », appelé dès sa jeunesse à avertir Juda du jugement à venir tout en pleurant sur son peuple."
+    },
+    {
+      "character_id": "ezekiel",
+      "name": "Ézéchiel",
+      "intro": "Un prêtre-prophète parmi les exilés de Babylone, connu pour ses visions saisissantes, dont une vallée d'ossements desséchés ramenée à la vie."
+    },
+    {
+      "character_id": "daniel",
+      "name": "Daniel",
+      "intro": "Un jeune exilé à Babylone qui a gardé la foi à travers l'interprétation de rêves, les intrigues de cour et une nuit dans la fosse aux lions."
+    },
+    {
+      "character_id": "shadrach-meshach-abednego",
+      "name": "Chadrac, Méchac et Abed-Nego",
+      "intro": "Les trois compagnons de Daniel à Babylone, jetés dans une fournaise ardente pour avoir refusé d'adorer une idole, et préservés indemnes."
+    },
+    {
+      "character_id": "hosea",
+      "name": "Osée",
+      "intro": "Un prophète dont le mariage troublé est devenu une image vivante de l'amour fidèle de Dieu pour un Israël infidèle."
+    },
+    {
+      "character_id": "joel",
+      "name": "Joël",
+      "intro": "Un prophète qui a appelé Juda à la conversion après un fléau de sauterelles, et a annoncé l'effusion de l'Esprit de Dieu."
+    },
+    {
+      "character_id": "amos",
+      "name": "Amos",
+      "intro": "Un berger appelé de Juda pour prophétiser contre l'injustice d'Israël envers les pauvres."
+    },
+    {
+      "character_id": "jonah",
+      "name": "Jonas",
+      "intro": "Un prophète réticent qui a fui l'appel de Dieu à prêcher à Ninive, a été englouti par un grand poisson, et a finalement obéi."
+    },
+    {
+      "character_id": "micah",
+      "name": "Michée",
+      "intro": "Un prophète de Juda qui a dénoncé les dirigeants corrompus et annoncé la naissance du Messie à Bethléem."
+    },
+    {
+      "character_id": "job",
+      "name": "Job",
+      "intro": "Un homme intègre et droit qui a tout perdu, a questionné Dieu dans sa souffrance, et est resté fidèle."
+    },
+    {
+      "character_id": "ezra",
+      "name": "Esdras",
+      "intro": "Un prêtre et scribe qui a ramené des exilés à Jérusalem et a renouvelé l'engagement du peuple envers la Loi de Dieu."
+    },
+    {
+      "character_id": "nehemiah",
+      "name": "Néhémie",
+      "intro": "Échanson d'un roi perse revenu à Jérusalem pour en reconstruire les murailles malgré une forte opposition."
+    },
+    {
+      "character_id": "esther",
+      "name": "Esther",
+      "intro": "Une reine juive de Perse qui a risqué sa vie pour sauver son peuple de l'extermination."
+    },
+    {
+      "character_id": "mordecai",
+      "name": "Mardochée",
+      "intro": "Le cousin et tuteur d'Esther, qui a donné l'alerte sur un complot contre les Juifs et a finalement été honoré publiquement par le roi."
+    },
+    {
+      "character_id": "tobit",
+      "name": "Tobit",
+      "intro": "Un exilé juste à Ninive qui, malgré la cécité et l'épreuve, est resté dévoué à la charité et à la prière."
+    },
+    {
+      "character_id": "judith",
+      "name": "Judith",
+      "intro": "Une veuve courageuse et pieuse qui a sauvé sa ville en déjouant et en abattant le général ennemi Holopherne."
+    }
+  ]
+}

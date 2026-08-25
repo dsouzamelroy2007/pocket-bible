@@ -1,5 +1,5 @@
 {
-  "content_version": 18,
+  "content_version": 19,
   "_note": "Index of every content module this app ships. To add a book or a new scripture translation/language: drop a new file under content/scripture/<translation_id>/<book_id>.json (see tools/import_scripture.py) and add one entry to \"scripture\" here. To add or extend a UI-language translation of the topics content (feeling label/description, entry reflection/prayer -- NOT scripture text): drop a content/topics/<language>.json file and add one entry to \"topic_translations\" here; any topic or entry missing from that file just falls back to English. Either way, no need to touch core.json, topics.json, or any other module. Bump content_version whenever any module changes so SeedLoader re-seeds on next launch.",
   "core": "content/core.json",
   "topics": "content/topics.json",
@@ -2059,6 +2059,10 @@
     {
       "language": "de",
       "path": "content/topics/de.json"
+    },
+    {
+      "language": "fr",
+      "path": "content/topics/fr.json"
     }
   ],
   "characters": "content/characters.json",
@@ -2066,12 +2070,20 @@
     {
       "language": "de",
       "path": "content/character_translations/de.json"
+    },
+    {
+      "language": "fr",
+      "path": "content/character_translations/fr.json"
     }
   ],
   "character_verse_ref_translations": [
     {
       "language": "de",
       "path": "content/character_verse_ref_translations/de.json"
+    },
+    {
+      "language": "fr",
+      "path": "content/character_verse_ref_translations/fr.json"
     }
   ]
 }
