@@ -217,6 +217,26 @@ data class CharacterVerseRef(
     val position: Int
 )
 
+/**
+ * Translated caption for one character's verse citation (identified by
+ * character_id + position, the same ordering key used to seed
+ * character_verse_ref), in one UI language. Same fallback-to-English
+ * pattern as [CharacterTranslation] -- added separately from name/intro
+ * because captions were originally missed when the Personalities tab's
+ * translation support was built, leaving them stuck in English under
+ * every UI language.
+ */
+@Entity(
+    tableName = "character_verse_ref_translation",
+    primaryKeys = ["character_id", "position", "language"]
+)
+data class CharacterVerseRefTranslation(
+    @ColumnInfo(name = "character_id") val characterId: String,
+    val position: Int,
+    val language: String,
+    val caption: String
+)
+
 // ---------- Local user state (not shipped, created empty) ----------
 
 @Entity(tableName = "saved_entry")
@@ -471,8 +491,19 @@ interface ContentDao {
     )
     fun characters(language: String, includeDeuterocanon: Boolean): Flow<List<CharacterSummary>>
 
-    @Query("SELECT * FROM character_verse_ref WHERE character_id = :characterId ORDER BY position")
-    suspend fun verseRefsForCharacter(characterId: String): List<CharacterVerseRef>
+    /** [language] selects a translated caption the same way [characters] selects name/intro, falling back to the ref's own English caption. */
+    @Query(
+        """
+        SELECT r.id, r.character_id, r.book_id, r.chapter, r.verse_start, r.verse_end,
+               COALESCE(t.caption, r.caption) AS caption, r.position
+        FROM character_verse_ref r
+        LEFT JOIN character_verse_ref_translation t
+            ON t.character_id = r.character_id AND t.position = r.position AND t.language = :language
+        WHERE r.character_id = :characterId
+        ORDER BY r.position
+        """
+    )
+    suspend fun verseRefsForCharacter(characterId: String, language: String): List<CharacterVerseRef>
 
     // ---------- Bible bookmarks ----------
 
@@ -530,6 +561,9 @@ interface SeedDao {
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertCharacterVerseRefs(items: List<CharacterVerseRef>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertCharacterVerseRefTranslations(items: List<CharacterVerseRefTranslation>)
 }
 
 @Database(
@@ -539,9 +573,9 @@ interface SeedDao {
         EntryPassage::class, DailyPassage::class,
         SavedEntry::class, ViewHistory::class, ScriptureVerse::class,
         BibleCharacter::class, CharacterTranslation::class, CharacterVerseRef::class,
-        BibleBookmark::class
+        BibleBookmark::class, CharacterVerseRefTranslation::class
     ],
-    version = 5,
+    version = 6,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {

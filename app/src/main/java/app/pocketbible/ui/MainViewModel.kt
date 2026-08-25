@@ -340,7 +340,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         _characterVerses.value = emptyList()
         viewModelScope.launch {
             val translationId = currentTranslationId()
-            val refs = repo.verseRefsForCharacter(character.id)
+            val refs = repo.verseRefsForCharacter(character.id, currentLanguage())
             _characterVerses.value = refs.map { ref ->
                 val chapterVerses = repo.versesForChapter(ref.bookId, ref.chapter, translationId)
                 val verses = chapterVerses.filter { it.verse in ref.verseStart..ref.verseEnd }

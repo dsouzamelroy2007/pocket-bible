@@ -49,8 +49,8 @@ class ContentRepository(private val dao: ContentDao) {
     fun characters(language: String, includeDeuterocanon: Boolean): Flow<List<CharacterSummary>> =
         dao.characters(language, includeDeuterocanon)
 
-    suspend fun verseRefsForCharacter(characterId: String): List<CharacterVerseRef> =
-        dao.verseRefsForCharacter(characterId)
+    suspend fun verseRefsForCharacter(characterId: String, language: String): List<CharacterVerseRef> =
+        dao.verseRefsForCharacter(characterId, language)
 
     /** Whether the translation currently shown for [language] includes the deuterocanonical books. */
     suspend fun translationIncludesDeuterocanon(language: String): Boolean =

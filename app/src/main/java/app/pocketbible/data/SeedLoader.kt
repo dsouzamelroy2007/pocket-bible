@@ -246,6 +246,23 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                 }?.let { characterTranslations += it }
             }
             seedDao.insertCharacterTranslations(characterTranslations)
+
+            val captionTranslations = mutableListOf<CharacterVerseRefTranslation>()
+            val captionFiles = manifest.optJSONArray("character_verse_ref_translations") ?: JSONArray()
+            for (i in 0 until captionFiles.length()) {
+                val ref = captionFiles.getJSONObject(i)
+                val file = readJson(ref.getString("path"))
+                val language = file.getString("language")
+                file.optJSONArray("character_verse_ref_translations")?.mapObjects { o ->
+                    CharacterVerseRefTranslation(
+                        characterId = o.getString("character_id"),
+                        position = o.getInt("position"),
+                        language = language,
+                        caption = o.getString("caption")
+                    )
+                }?.let { captionTranslations += it }
+            }
+            seedDao.insertCharacterVerseRefTranslations(captionTranslations)
         }
 
         prefs.edit().putInt("content_version", version).apply()
