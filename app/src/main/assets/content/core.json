@@ -9,7 +9,10 @@
       "versification": "masoretic",
       "includes_deuterocanon": true,
       "has_imprimatur": false,
-      "language": "en"
+      "language": "en",
+      "source_name": "eBible.org — World English Bible (Catholic)",
+      "source_url": "https://ebible.org/details.php?id=eng-web-c",
+      "license_url": null
     },
     {
       "id": "schlachter-1951",
@@ -19,7 +22,10 @@
       "versification": "masoretic",
       "includes_deuterocanon": false,
       "has_imprimatur": false,
-      "language": "de"
+      "language": "de",
+      "source_name": "eBible.org — Die Schlachter-Bibel 1951 (© Genfer Bibelgesellschaft)",
+      "source_url": "https://ebible.org/find/details.php?id=deu1951",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "id": "sblm-fr",
@@ -29,7 +35,10 @@
       "versification": "masoretic",
       "includes_deuterocanon": true,
       "has_imprimatur": false,
-      "language": "fr"
+      "language": "fr",
+      "source_name": "eBible.org — Sainte Bible libre pour le monde (trans. David Williams)",
+      "source_url": "https://ebible.org/find/details.php?id=frasbl",
+      "license_url": null
     },
     {
       "id": "irv-hi-2019",
@@ -39,7 +48,10 @@
       "versification": "masoretic",
       "includes_deuterocanon": false,
       "has_imprimatur": false,
-      "language": "hi"
+      "language": "hi",
+      "source_name": "eBible.org — Indian Revised Version, Hindi 2019 (© Bridge Connectivity Solutions)",
+      "source_url": "https://ebible.org/details.php?id=hin2017",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
       "id": "riveduta-1927",
@@ -49,7 +61,10 @@
       "versification": "masoretic",
       "includes_deuterocanon": false,
       "has_imprimatur": false,
-      "language": "it"
+      "language": "it",
+      "source_name": "eBible.org — Riveduta Bibbia 1927 (rev. Giovanni Luzzi)",
+      "source_url": "https://ebible.org/details.php?id=ita1927",
+      "license_url": null
     },
     {
       "id": "irv-mr",
@@ -59,7 +74,10 @@
       "versification": "masoretic",
       "includes_deuterocanon": false,
       "has_imprimatur": false,
-      "language": "mr"
+      "language": "mr",
+      "source_name": "eBible.org — Indian Revised Version, Marathi (© Bridge Connectivity Solutions)",
+      "source_url": "https://ebible.org/bible/details.php?id=mar",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
       "id": "aa-pt",
@@ -69,7 +87,10 @@
       "versification": "masoretic",
       "includes_deuterocanon": false,
       "has_imprimatur": false,
-      "language": "pt"
+      "language": "pt",
+      "source_name": "Almeida Atualizada (João Ferreira de Almeida, public-domain revision)",
+      "source_url": null,
+      "license_url": null
     }
   ],
   "books": [

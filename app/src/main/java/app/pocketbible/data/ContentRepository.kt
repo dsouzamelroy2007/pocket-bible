@@ -60,6 +60,8 @@ class ContentRepository(private val dao: ContentDao) {
 
     fun bookmarks(): Flow<List<BibleBookmark>> = dao.bookmarks()
 
+    fun translations(): Flow<List<Translation>> = dao.allTranslations()
+
     suspend fun addBookmark(translationId: String, bookId: String, chapter: Int, verse: Int?) {
         dao.insertBookmark(
             BibleBookmark(

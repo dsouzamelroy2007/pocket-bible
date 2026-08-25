@@ -61,6 +61,13 @@
     <string name="character_category_prophets">भविष्यद्वक्ता</string>
     <string name="character_category_post_exile">बंधुआई के बाद का काल और द्वितीय-प्रामाणिक पुस्तकें</string>
 
+    <!-- About & Sources -->
+    <string name="about_title">ऐप के बारे में और स्रोत</string>
+    <string name="about_intro">पॉकेट बाइबल में नीचे दिए गए स्रोतों से वास्तविक बाइबल पाठ और मौलिक भक्ति सामग्री शामिल है। किसी भी लाइसेंस प्राप्त अनुवाद के मूल पाठ में कोई बदलाव नहीं किया गया है — केवल प्रदर्शन के लिए इसे पुनः स्वरूपित किया गया है।</string>
+    <string name="about_translations_heading">बाइबल अनुवाद</string>
+    <string name="about_view_source">स्रोत देखें</string>
+    <string name="about_view_license">लाइसेंस देखें</string>
+
     <string name="verse_no_entries">%1$s के लिए अभी तक कोई प्रविष्टि नहीं है।</string>
     <string name="verse_what_it_means">आपके लिए इसका क्या अर्थ है</string>
     <string name="verse_a_saint">एक संत</string>

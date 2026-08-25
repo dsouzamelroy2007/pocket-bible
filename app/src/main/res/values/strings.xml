@@ -66,6 +66,13 @@
     <string name="character_category_prophets">Prophets</string>
     <string name="character_category_post_exile">Post-Exile &amp; Deuterocanon</string>
 
+    <!-- About & Sources -->
+    <string name="about_title">About &amp; Sources</string>
+    <string name="about_intro">Pocket Bible bundles real Bible text and original devotional content from the sources below. No changes were made to any licensed translation\'s verse text itself — only reformatting for display.</string>
+    <string name="about_translations_heading">Bible Translations</string>
+    <string name="about_view_source">View source</string>
+    <string name="about_view_license">View license</string>
+
     <!-- Verse / topic detail -->
     <string name="verse_no_entries">No entries yet for %1$s.</string>
     <string name="verse_what_it_means">What it means for you</string>

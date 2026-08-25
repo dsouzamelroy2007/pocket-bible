@@ -13,6 +13,7 @@ import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.foundation.layout.Box
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Bookmark
+import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.Language
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.Card
@@ -68,6 +69,7 @@ fun HomeScreen(
     onFeelingSelected: (Feeling) -> Unit,
     onLanguageSelected: (String?) -> Unit,
     onSavedClicked: () -> Unit,
+    onAboutClicked: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     Column(
@@ -88,6 +90,9 @@ fun HomeScreen(
             )
             IconButton(onClick = onSavedClicked) {
                 Icon(Icons.Filled.Bookmark, contentDescription = stringResource(R.string.nav_saved))
+            }
+            IconButton(onClick = onAboutClicked) {
+                Icon(Icons.Filled.Info, contentDescription = stringResource(R.string.about_title))
             }
             LanguageMenuButton(onLanguageSelected = onLanguageSelected)
         }

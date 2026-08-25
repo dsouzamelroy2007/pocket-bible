@@ -32,6 +32,7 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import androidx.compose.runtime.collectAsState
 import app.pocketbible.ui.MainViewModel
+import app.pocketbible.ui.about.AboutScreen
 import app.pocketbible.ui.bible.BibleBookListScreen
 import app.pocketbible.ui.bible.BibleReaderScreen
 import app.pocketbible.ui.bible.localizedBookName
@@ -148,8 +149,13 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                         navController.navigate("verse")
                     },
                     onLanguageSelected = onLanguageSelected,
-                    onSavedClicked = { navController.navigate("saved") }
+                    onSavedClicked = { navController.navigate("saved") },
+                    onAboutClicked = { navController.navigate("about") }
                 )
+            }
+            composable("about") {
+                val translations by viewModel.translations.collectAsState()
+                AboutScreen(translations = translations)
             }
             composable("verse") {
                 val entries by viewModel.feelingEntries.collectAsState()

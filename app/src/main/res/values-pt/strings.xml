@@ -68,6 +68,13 @@
     <string name="character_category_prophets">Profetas</string>
     <string name="character_category_post_exile">Pós-exílio e Deuterocanônicos</string>
 
+    <!-- About & Sources -->
+    <string name="about_title">Sobre e Fontes</string>
+    <string name="about_intro">O Pocket Bible reúne texto bíblico real e conteúdo devocional original das fontes abaixo. Nenhuma alteração foi feita ao texto de nenhuma tradução licenciada — apenas a formatação foi adaptada para exibição.</string>
+    <string name="about_translations_heading">Traduções da Bíblia</string>
+    <string name="about_view_source">Ver fonte</string>
+    <string name="about_view_license">Ver licença</string>
+
     <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">Gênesis</string>
     <string name="book_ex">Êxodo</string>

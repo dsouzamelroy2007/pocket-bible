@@ -61,6 +61,13 @@
     <string name="character_category_prophets">Prophètes</string>
     <string name="character_category_post_exile">Période post-exilique et deutérocanoniques</string>
 
+    <!-- About & Sources -->
+    <string name="about_title">À propos et sources</string>
+    <string name="about_intro">Pocket Bible regroupe de vrais textes bibliques et un contenu dévotionnel original provenant des sources ci-dessous. Le texte des traductions sous licence n\'a subi aucune modification, seule sa mise en forme a été adaptée pour l\'affichage.</string>
+    <string name="about_translations_heading">Traductions de la Bible</string>
+    <string name="about_view_source">Voir la source</string>
+    <string name="about_view_license">Voir la licence</string>
+
     <string name="verse_no_entries">Pas encore d\'entrées pour %1$s.</string>
     <string name="verse_what_it_means">Ce que cela signifie pour toi</string>
     <string name="verse_a_saint">Un saint</string>

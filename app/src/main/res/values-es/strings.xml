@@ -45,6 +45,13 @@
     <string name="verse_save">Guardar</string>
     <string name="verse_another">Otro</string>
 
+    <!-- About & Sources -->
+    <string name="about_title">Acerca de y fuentes</string>
+    <string name="about_intro">Pocket Bible reúne texto bíblico real y contenido devocional original de las fuentes indicadas a continuación. No se ha modificado el texto de ninguna traducción con licencia — solo se ha adaptado el formato para su visualización.</string>
+    <string name="about_translations_heading">Traducciones de la Biblia</string>
+    <string name="about_view_source">Ver fuente</string>
+    <string name="about_view_license">Ver licencia</string>
+
     <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">Génesis</string>
     <string name="book_ex">Éxodo</string>

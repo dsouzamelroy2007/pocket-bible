@@ -53,7 +53,10 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                 versification = o.getString("versification"),
                 includesDeuterocanon = o.getBoolean("includes_deuterocanon"),
                 hasImprimatur = o.optBoolean("has_imprimatur", false),
-                language = o.getString("language")
+                language = o.getString("language"),
+                sourceName = o.optStringOrNull("source_name"),
+                sourceUrl = o.optStringOrNull("source_url"),
+                licenseUrl = o.optStringOrNull("license_url")
             )
         })
         seedDao.insertBooks(

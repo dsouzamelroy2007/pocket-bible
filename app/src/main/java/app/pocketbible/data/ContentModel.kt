@@ -24,7 +24,10 @@ data class Translation(
     val versification: String,
     @ColumnInfo(name = "includes_deuterocanon") val includesDeuterocanon: Boolean,
     @ColumnInfo(name = "has_imprimatur") val hasImprimatur: Boolean,
-    val language: String
+    val language: String,
+    @ColumnInfo(name = "source_name") val sourceName: String? = null,
+    @ColumnInfo(name = "source_url") val sourceUrl: String? = null,
+    @ColumnInfo(name = "license_url") val licenseUrl: String? = null
 )
 
 @Entity(tableName = "book")
@@ -449,6 +452,10 @@ interface ContentDao {
     @Query("SELECT id FROM translation WHERE language = :language LIMIT 1")
     suspend fun translationForLanguage(language: String): String?
 
+    /** All shipped translations, for the About & Sources screen's attribution list. */
+    @Query("SELECT * FROM translation ORDER BY name")
+    fun allTranslations(): Flow<List<Translation>>
+
     @Query("SELECT includes_deuterocanon FROM translation WHERE id = :translationId")
     suspend fun translationIncludesDeuterocanon(translationId: String): Boolean
 
@@ -575,7 +582,7 @@ interface SeedDao {
         BibleCharacter::class, CharacterTranslation::class, CharacterVerseRef::class,
         BibleBookmark::class, CharacterVerseRefTranslation::class
     ],
-    version = 6,
+    version = 7,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {

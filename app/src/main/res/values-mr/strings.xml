@@ -61,6 +61,13 @@
     <string name="character_category_prophets">संदेष्टे</string>
     <string name="character_category_post_exile">वनवासोत्तर काळ आणि द्वितीयसिद्धांतिक पुस्तके</string>
 
+    <!-- About & Sources -->
+    <string name="about_title">अ‍ॅपबद्दल आणि स्रोत</string>
+    <string name="about_intro">पॉकेट बायबलमध्ये खालील स्रोतांमधून खरा बायबल मजकूर आणि मूळ भक्तिपर सामग्री समाविष्ट आहे. परवानाकृत भाषांतरांच्या मूळ मजकुरात कोणताही बदल केलेला नाही — फक्त प्रदर्शनासाठी त्याचे स्वरूप बदलण्यात आले आहे.</string>
+    <string name="about_translations_heading">बायबल भाषांतरे</string>
+    <string name="about_view_source">स्रोत पाहा</string>
+    <string name="about_view_license">परवाना पाहा</string>
+
     <string name="verse_no_entries">%1$s साठी अजून कोणत्याही नोंदी नाहीत.</string>
     <string name="verse_what_it_means">याचा तुझ्यासाठी अर्थ काय</string>
     <string name="verse_a_saint">एक संत</string>

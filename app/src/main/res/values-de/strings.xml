@@ -61,6 +61,13 @@
     <string name="character_category_prophets">Propheten</string>
     <string name="character_category_post_exile">Nachexilische Zeit und Deuterokanon</string>
 
+    <!-- About & Sources -->
+    <string name="about_title">Über die App &amp; Quellen</string>
+    <string name="about_intro">Pocket Bible enthält echten Bibeltext und eigene andächtige Inhalte aus den unten genannten Quellen. Am Bibeltext lizenzierter Übersetzungen wurde nichts geändert – nur die Darstellung wurde angepasst.</string>
+    <string name="about_translations_heading">Bibelübersetzungen</string>
+    <string name="about_view_source">Quelle ansehen</string>
+    <string name="about_view_license">Lizenz ansehen</string>
+
     <string name="verse_no_entries">Noch keine Einträge für %1$s.</string>
     <string name="verse_what_it_means">Was das für dich bedeutet</string>
     <string name="verse_a_saint">Ein Heiliger</string>

@@ -146,13 +146,21 @@ private val MIGRATION_5_6 = object : Migration(5, 6) {
     }
 }
 
+private val MIGRATION_6_7 = object : Migration(6, 7) {
+    override fun migrate(db: SupportSQLiteDatabase) {
+        db.execSQL("ALTER TABLE translation ADD COLUMN source_name TEXT")
+        db.execSQL("ALTER TABLE translation ADD COLUMN source_url TEXT")
+        db.execSQL("ALTER TABLE translation ADD COLUMN license_url TEXT")
+    }
+}
+
 class PocketBibleApp : Application() {
 
     private val appScope = CoroutineScope(SupervisorJob() + Dispatchers.IO)
 
     val database: ContentDatabase by lazy {
         Room.databaseBuilder(this, ContentDatabase::class.java, "pocketbible.db")
-            .addMigrations(MIGRATION_1_2, MIGRATION_2_3, MIGRATION_3_4, MIGRATION_4_5, MIGRATION_5_6)
+            .addMigrations(MIGRATION_1_2, MIGRATION_2_3, MIGRATION_3_4, MIGRATION_4_5, MIGRATION_5_6, MIGRATION_6_7)
             // Covers any *future* schema change that doesn't get a real
             // Migration written for it — still prototype-stage safety net,
             // not a substitute for writing migrations as the schema grows.

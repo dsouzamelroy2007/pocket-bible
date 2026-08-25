@@ -13,6 +13,7 @@ import app.pocketbible.data.Feeling
 import app.pocketbible.data.Passage
 import app.pocketbible.data.PassageWithRole
 import app.pocketbible.data.ScriptureVerse
+import app.pocketbible.data.Translation
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -79,6 +80,9 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
     private val _bookmarks = MutableStateFlow<List<BibleBookmark>>(emptyList())
     val bookmarks: StateFlow<List<BibleBookmark>> = _bookmarks.asStateFlow()
+
+    private val _translations = MutableStateFlow<List<Translation>>(emptyList())
+    val translations: StateFlow<List<Translation>> = _translations.asStateFlow()
 
     // ---------- Search ----------
 
@@ -183,6 +187,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     init {
         ensureFreshForCurrentLanguage()
         viewModelScope.launch { repo.bookmarks().collect { _bookmarks.value = it } }
+        viewModelScope.launch { repo.translations().collect { _translations.value = it } }
     }
 
     fun onSearchQueryChange(query: String) {
