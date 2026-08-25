@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "app.pocketbible"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "app.pocketbible"
         minSdk = 26
-        targetSdk = 34
+        targetSdk = 36
         versionCode = 1
         versionName = "0.1.0-prototype"
     }
