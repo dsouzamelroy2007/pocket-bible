@@ -1,0 +1,5361 @@
+{
+  "translation_id": "sblm-fr",
+  "book_id": "job",
+  "language": "fr",
+  "license": "public-domain",
+  "source": "eBible.org Sainte Bible libre pour le monde",
+  "verified": true,
+  "note": "Imported via tools/import_epub.py from the eBible.org 'Sainte Bible libre pour le monde' epub the user supplied. eBible.org flags this as a draft translation, still being proofread/edited as of 2026-08-21.",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Il y avait dans le pays d'Ouz un homme qui s'appelait Job. Cet homme était intègre et droit ; il craignait Dieu et se détournait du mal."
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Il lui naquit sept fils et trois filles."
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Il possédait sept mille brebis, trois mille chameaux, cinq cents paires de bœufs, cinq cents ânesses, et un très grand nombre de serviteurs ; de sorte que cet homme était le plus grand de tous les fils de l'Orient."
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Ses fils avaient coutume d'organiser un festin, chacun dans sa maison à tour de rôle, le jour de son anniversaire. Ils faisaient inviter leurs trois sœurs à manger et à boire avec eux."
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Or, quand les jours de festin étaient achevés, Job les faisait appeler pour les purifier. Il se levait de bon matin et offrait un holocauste pour chacun d'eux ; car Job disait : « Peut-être que mes fils ont péché et ont renié Dieu dans leur cœur. » C'est ainsi que Job agissait toujours."
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Or, le jour où les fils de Dieu vinrent se présenter devant le SEIGNEUR, Satan vint aussi au milieu d'eux."
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Le SEIGNEUR dit à Satan : « D'où viens-tu ? » Satan répondit au SEIGNEUR : « De parcourir la terre et de m'y promener. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Le SEIGNEUR dit à Satan : « As-tu remarqué mon serviteur Job ? Il n'y a personne comme lui sur la terre. C'est un homme intègre et droit, qui craint Dieu et se détourne du mal. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Satan répondit au SEIGNEUR : « Est-ce pour rien que Job craint Dieu ?"
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "N'as-tu pas dressé un rempart de protection autour de lui, de sa maison et de tout ce qui lui appartient, de toutes parts ? Tu as béni l'œuvre de ses mains, et ses biens se sont multipliés dans le pays."
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Mais étends ta main maintenant, touche à tout ce qu'il possède, et il te reniera en face. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Le SEIGNEUR dit à Satan : « Voici, tout ce qu'il possède est entre tes mains. Seulement, ne porte pas la main sur lui. » Ainsi, Satan se retira de la présence du SEIGNEUR."
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Un jour que ses fils et ses filles mangeaient et buvaient du vin dans la maison de leur frère aîné,"
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "un messager vint trouver Job et lui dit : « Les bœufs labouraient et les ânesses paissaient à côté d'eux ;"
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "et les Sabéens ont attaqué et les ont enlevés. Ils ont passé les serviteurs au fil de l'épée, et j'ai pu m'échapper, moi seul, pour te l'annoncer. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Il parlait encore, lorsqu'un autre arriva et dit : « Le feu de Dieu est tombé du ciel, il a embrasé les brebis et les serviteurs, et les a consumés ; et j'ai pu m'échapper, moi seul, pour te l'annoncer. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Il parlait encore, lorsqu'un autre arriva et dit : « Les Chaldéens ont formé trois bandes, se sont jetés sur les chameaux et les ont enlevés. Ils ont passé les serviteurs au fil de l'épée, et j'ai pu m'échapper, moi seul, pour te l'annoncer. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Il parlait encore, lorsqu'un autre arriva et dit : « Tes fils et tes filles mangeaient et buvaient du vin dans la maison de leur frère aîné,"
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "et voici, un grand vent est venu du désert et a frappé les quatre coins de la maison. Elle s'est effondrée sur les jeunes gens, et ils sont morts. Et j'ai pu m'échapper, moi seul, pour te l'annoncer. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Alors Job se leva, déchira son manteau et se rasa la tête ; puis il se jeta par terre et se prosterna."
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Il dit : « Je suis sorti nu du ventre de ma mère, et nu je m'en irai. Le SEIGNEUR a donné, et le SEIGNEUR a repris. Que le nom du SEIGNEUR soit béni. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Dans tout cela, Job ne pécha pas et n'attribua aucune injustice à Dieu."
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Un jour, les fils de Dieu vinrent de nouveau se présenter devant le SEIGNEUR, et Satan vint aussi au milieu d'eux pour se présenter devant le SEIGNEUR."
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Le SEIGNEUR dit à Satan : « D'où viens-tu ? » Satan répondit au SEIGNEUR : « De parcourir la terre et de m'y promener. »"
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Le SEIGNEUR dit à Satan : « As-tu remarqué mon serviteur Job ? Il n'y a personne comme lui sur la terre ; c'est un homme intègre et droit, qui craint Dieu et se détourne du mal. Il demeure ferme dans son intégrité, bien que tu m'aies incité à le perdre sans raison. »"
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Satan répondit au SEIGNEUR : « Peau pour peau ! Oui, tout ce qu'un homme possède, il le donnera pour sa vie."
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Mais étends ta main maintenant, touche à ses os et à sa chair, et il te reniera en face. »"
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Le SEIGNEUR dit à Satan : « Voici, il est entre tes mains. Seulement, épargne sa vie. »"
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Satan se retira donc de la présence du SEIGNEUR, et il frappa Job d'ulcères douloureux, depuis la plante du pied jusqu'au sommet de la tête."
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Job prit un tesson de poterie pour se gratter, et il s'assit dans la cendre."
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Sa femme lui dit alors : « Demeures-tu toujours ferme dans ton intégrité ? Renie Dieu, et meurs ! »"
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Mais il lui répondit : « Tu parles comme une femme insensée. Quoi ! Nous recevons le bien de la main de Dieu, et nous n'en recevrions pas aussi le mal ? » En tout cela, Job ne pécha pas par ses lèvres."
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Or, les trois amis de Job apprirent tous les malheurs qui l'avaient frappé. Ils vinrent chacun de son pays : Éliphaz le Témanite, Bildad le Shuhite, et Tsophar le Naamathite ; et ils se concertèrent pour aller le plaindre et le consoler."
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Ayant levé les yeux de loin, ils ne le reconnurent pas. Ils élevèrent la voix et pleurèrent ; ils déchirèrent chacun leur manteau, et jetèrent de la poussière vers le ciel, sur leurs têtes."
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Ils s'assirent avec lui par terre pendant sept jours et sept nuits, et aucun ne lui dit un mot, car ils voyaient que sa douleur était très grande."
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Après cela, Job ouvrit la bouche et maudit le jour de sa naissance."
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Job prit la parole :"
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "« Périsse le jour où je suis né, et la nuit qui a dit : ‹ Un garçon est conçu. ›"
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Que ce jour soit ténèbres ! Que Dieu, d'en haut, ne s'en soucie pas, et que la lumière ne brille pas sur lui."
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Que les ténèbres et l'ombre de la mort s'en emparent. Qu'une nuée s'établisse sur lui. Que tout ce qui assombrit le jour l'épouvante !"
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Quant à cette nuit, que l'obscurité profonde s'en empare ! Qu'elle ne soit pas comptée parmi les jours de l'année. Qu'elle n'entre pas dans le compte des mois."
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Oui, que cette nuit soit stérile. Qu'aucun cri de joie n'y retentisse."
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Qu'elle soit maudite par ceux qui maudissent le jour, par ceux qui sont prêts à réveiller le Léviathan."
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Que les étoiles de son crépuscule s'obscurcissent. Qu'elle attende la lumière, sans qu'elle paraisse, et qu'elle ne voie pas les paupières de l'aurore,"
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "parce qu'elle n'a pas fermé les portes du ventre de ma mère, ni caché la peine à mes yeux."
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "« Pourquoi ne suis-je pas mort dès le sein maternel ? Pourquoi n'ai-je pas expiré au sortir du ventre ?"
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Pourquoi des genoux m'ont-ils accueilli ? Et pourquoi des seins m'ont-ils allaité ?"
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Car maintenant je serais couché et tranquille. Je dormirais, et je serais en repos,"
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "avec les rois et les conseillers de la terre, qui se bâtissaient des demeures aujourd'hui en ruines ;"
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "ou avec les princes qui possédaient de l'or, qui remplissaient leurs maisons d'argent."
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Ou bien, comme l'avorton caché, je n'existerais pas, comme les enfants qui n'ont jamais vu la lumière."
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Là, les méchants cessent de s'agiter. Là, ceux qui sont épuisés trouvent le repos."
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Là, les prisonniers sont en paix tous ensemble. Ils n'entendent plus la voix de l'oppresseur."
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Le petit et le grand sont là, et l'esclave est affranchi de son maître."
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "« Pourquoi la lumière est-elle donnée au malheureux, et la vie à ceux dont l'âme est pleine d'amertume,"
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "qui espèrent la mort, sans qu'elle vienne, et qui la cherchent plus avidement que des trésors cachés,"
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "text": "qui se réjouissent avec allégresse, et sont ravis quand ils trouvent le tombeau ?"
+    },
+    {
+      "chapter": 3,
+      "verse": 23,
+      "text": "Pourquoi la donner à l'homme dont la voie est cachée, et que Dieu a cerné de toutes parts ?"
+    },
+    {
+      "chapter": 3,
+      "verse": 24,
+      "text": "Car je soupire avant même de manger. Mes gémissements se répandent comme de l'eau."
+    },
+    {
+      "chapter": 3,
+      "verse": 25,
+      "text": "Car ce que je crains, c'est ce qui m'arrive ; ce que je redoute vient fondre sur moi."
+    },
+    {
+      "chapter": 3,
+      "verse": 26,
+      "text": "Je n'ai ni tranquillité, ni paix, ni repos ; mais le tourment survient. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Alors Éliphaz le Témanite répondit :"
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "« Si quelqu'un ose t'adresser la parole, en seras-tu peiné ? Mais qui pourrait s'empêcher de parler ?"
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Voici, tu en as instruit beaucoup, tu as fortifié les mains défaillantes."
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Tes paroles ont soutenu celui qui tombait, tu as affermi les genoux qui pliaient."
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Mais maintenant que cela t'arrive, tu perds courage. Le malheur te frappe, et tu es bouleversé."
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Ta piété n'est-elle pas ta confiance, et l'intégrité de tes voies, ton espérance ?"
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Souviens-toi : quel innocent a jamais péri ? Ou bien où les hommes droits ont-ils été anéantis ?"
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "D'après ce que j'ai vu, ceux qui labourent l'iniquité et qui sèment le malheur en récoltent les fruits."
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Sous le souffle de Dieu, ils périssent ; par le vent de sa colère, ils sont consumés."
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Le rugissement du lion s'éteint, ainsi que la voix du fauve ; les dents des lionceaux sont brisées."
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Le vieux lion périt faute de proie, et les petits de la lionne sont dispersés."
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Une parole m'a été apportée en secret, mon oreille en a perçu le murmure."
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Dans les pensées agitées par les visions de la nuit, quand un sommeil profond tombe sur les hommes,"
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "la peur et le tremblement m'ont saisi, et ont fait frissonner tous mes os."
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Puis un esprit a passé devant mon visage, les poils de ma chair se sont hérissés."
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Il s'est arrêté, mais je n'ai pu discerner son apparence. Une forme était devant mes yeux. Dans le silence, j'ai entendu une voix :"
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "‹ L'homme mortel serait-il plus juste que Dieu ? L'homme serait-il plus pur que son Créateur ?"
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "Voici, il n'accorde aucune confiance à ses serviteurs, il accuse ses anges d'égarement."
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Combien plus ceux qui habitent des maisons d'argile, dont les fondations sont dans la poussière, et qu'une teigne suffit à écraser !"
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "Entre le matin et le soir, ils sont détruits ; ils périssent pour toujours sans que personne n'y prenne garde."
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "La corde de leur tente n'est-elle pas arrachée, faisant s'écrouler leur demeure ? Ils meurent sans avoir acquis la sagesse. › »"
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "« Appelle donc ! Y a-t-il quelqu'un pour te répondre ? Vers lequel des saints te tourneras-tu ?"
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Car le dépit tue l'insensé, et la jalousie fait mourir l'homme naïf."
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "J'ai vu l'insensé prendre racine, mais soudain, j'ai maudit sa demeure."
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Ses enfants sont loin de la sécurité. Ils sont écrasés à la porte de la ville, sans personne pour les délivrer."
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "L'affamé dévore sa moisson, il vient la prendre jusque dans les ronces, et le piège engloutit ses biens."
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Car le malheur ne sort pas de la poussière, et la peine ne germe pas du sol ;"
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "mais l'homme naît pour la peine, comme les étincelles s'élèvent dans les airs."
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "« Pour ma part, c'est Dieu que je chercherais, c'est à Dieu que je confierais ma cause."
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Il fait des choses grandes et insondables, des merveilles sans nombre."
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Il répand la pluie sur la terre, et envoie l'eau sur les campagnes ;"
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "il élève ceux qui sont abaissés, et ceux qui pleurent trouvent refuge."
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Il déjoue les plans des hommes rusés, pour que leurs mains ne puissent accomplir leurs projets."
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Il prend les sages dans leur propre ruse, et les desseins des perfides sont renversés."
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "En plein jour, ils se heurtent aux ténèbres, et ils tâtonnent à midi comme en pleine nuit."
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "Mais il sauve l'indigent du glaive qu'est leur bouche, et le pauvre de la main de l'homme puissant."
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Ainsi, le misérable a de l'espérance, et l'injustice ferme sa bouche."
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "« Heureux l'homme que Dieu corrige. Ne méprise donc pas la discipline du Tout-Puissant."
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "text": "Car il fait la blessure, mais il la bande ; il frappe, mais ses mains guérissent."
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "text": "Dans six détresses, il te délivrera ; oui, dans sept, aucun mal ne t'atteindra."
+    },
+    {
+      "chapter": 5,
+      "verse": 20,
+      "text": "Pendant la famine, il te rachètera de la mort ; et pendant la guerre, du pouvoir de l'épée."
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "text": "Tu seras à l'abri du fléau de la langue, et tu ne craindras pas la destruction quand elle viendra."
+    },
+    {
+      "chapter": 5,
+      "verse": 22,
+      "text": "Tu te riras de la destruction et de la famine, et tu ne redouteras pas les bêtes sauvages de la terre."
+    },
+    {
+      "chapter": 5,
+      "verse": 23,
+      "text": "Car tu feras alliance avec les pierres des champs, et les bêtes des champs seront en paix avec toi."
+    },
+    {
+      "chapter": 5,
+      "verse": 24,
+      "text": "Tu sauras que ta tente est en paix ; tu visiteras ton enclos, et il ne te manquera rien."
+    },
+    {
+      "chapter": 5,
+      "verse": 25,
+      "text": "Tu sauras aussi que ta postérité sera nombreuse, et tes rejetons comme l'herbe de la terre."
+    },
+    {
+      "chapter": 5,
+      "verse": 26,
+      "text": "Tu descendras au tombeau dans une heureuse vieillesse, comme on engrange une gerbe de blé en sa saison."
+    },
+    {
+      "chapter": 5,
+      "verse": 27,
+      "text": "Voici ce que nous avons sondé, et il en est ainsi. Écoute-le, et reconnais-le pour ton propre bien. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Alors Job répondit :"
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "« Oh ! si l'on pesait mon angoisse, et si l'on plaçait tout mon malheur sur la balance !"
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "Car le tout pèserait plus lourd que le sable des mers ; c'est pourquoi mes paroles ont été précipitées."
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "Car les flèches du Tout-Puissant sont en moi. Mon esprit en boit le venin. Les terreurs de Dieu se rangent en bataille contre moi."
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "L'âne sauvage brait-il quand il a de l'herbe ? Ou le bœuf mugit-il devant son fourrage ?"
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "Ce qui est fade se mange-t-il sans sel ? Ou y a-t-il de la saveur dans le blanc d'un œuf ?"
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Mon âme refuse d'y toucher ; ce sont pour moi des aliments répugnants."
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "« Oh ! si seulement ma requête était exaucée, et si Dieu m'accordait ce que je désire ardemment !"
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "Qu'il plaise à Dieu de m'écraser ; qu'il lâche sa main et me retranche !"
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "Ce serait encore ma consolation, oui, je tressaillirais de joie dans une douleur sans pitié, car je n'ai pas renié les paroles du Saint."
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Quelle est ma force, pour que j'espère ? Quelle est ma fin, pour que je sois patient ?"
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "Ma force est-elle la force des pierres ? Ou ma chair est-elle de bronze ?"
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "N'est-il pas vrai que je suis sans recours, et que la sagesse a été chassée loin de moi ?"
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "« Celui qui est près de défaillir a droit à la bonté de son ami, même s'il abandonne la crainte du Tout-Puissant."
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "text": "Mes frères se sont montrés trompeurs comme un torrent, comme le lit des torrents qui disparaissent :"
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "text": "ils sont assombris par la glace, la neige s'y dissimule."
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "text": "À la saison sèche, ils s'évanouissent ; à la chaleur, ils tarissent sur place."
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "text": "Les caravanes se détournent de leur chemin, elles s'avancent dans le désert et périssent."
+    },
+    {
+      "chapter": 6,
+      "verse": 19,
+      "text": "Les caravanes de Téma regardaient, les convois de Saba comptaient sur eux."
+    },
+    {
+      "chapter": 6,
+      "verse": 20,
+      "text": "Leur confiance les a couverts de honte ; arrivés sur les lieux, ils ont été déçus."
+    },
+    {
+      "chapter": 6,
+      "verse": 21,
+      "text": "Car maintenant, vous n'êtes rien. Vous voyez une chose terrible, et vous prenez peur."
+    },
+    {
+      "chapter": 6,
+      "verse": 22,
+      "text": "Ai-je jamais dit : ‹ Donnez-moi › ? ou : ‹ Faites-moi un présent de vos biens › ?"
+    },
+    {
+      "chapter": 6,
+      "verse": 23,
+      "text": "ou : ‹ Délivrez-moi de la main de l'adversaire › ? ou : ‹ Rachetez-moi de la main des oppresseurs › ?"
+    },
+    {
+      "chapter": 6,
+      "verse": 24,
+      "text": "« Instruisez-moi, et je me tairai. Faites-moi comprendre en quoi j'ai erré."
+    },
+    {
+      "chapter": 6,
+      "verse": 25,
+      "text": "Comme des paroles justes savent convaincre ! Mais que prouvent vos réprimandes ?"
+    },
+    {
+      "chapter": 6,
+      "verse": 26,
+      "text": "Voulez-vous reprendre de simples paroles, alors que les discours d'un désespéré sont comme du vent ?"
+    },
+    {
+      "chapter": 6,
+      "verse": 27,
+      "text": "Oui, vous tireriez au sort l'orphelin, et vous marchanderiez votre ami."
+    },
+    {
+      "chapter": 6,
+      "verse": 28,
+      "text": "Maintenant donc, daignez me regarder, car, assurément, je ne vous mentirai pas en face."
+    },
+    {
+      "chapter": 6,
+      "verse": 29,
+      "text": "Reconsidérez la question, je vous prie. Qu'il n'y ait pas d'injustice. Oui, examinez-la de nouveau : ma cause est juste."
+    },
+    {
+      "chapter": 6,
+      "verse": 30,
+      "text": "Y a-t-il de l'injustice sur ma langue ? Mon palais ne sait-il pas reconnaître ce qui est mauvais ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "« L'homme n'est-il pas soumis à de durs labeurs sur la terre ? Ses jours ne sont-ils pas comme ceux d'un journalier ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "Tel un esclave qui soupire après l'ombre, tel un journalier qui attend son salaire,"
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "ainsi j'ai pour partage des mois de misère, et des nuits de souffrance me sont assignées."
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "Quand je me couche, je dis : ‹ Quand me lèverai-je, et quand la nuit finira-t-elle ? › Je me tourne et me retourne jusqu'à l'aube."
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "Ma chair est couverte de vers et de croûtes de poussière. Ma peau se crevasse et suppure à nouveau."
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "Mes jours sont plus rapides que la navette du tisserand, ils s'évanouissent sans espérance."
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "Oh, souviens-toi que ma vie n'est qu'un souffle. Mon œil ne verra plus le bonheur."
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "L'œil de celui qui me regarde ne m'apercevra plus ; tes yeux se poseront sur moi, mais je ne serai plus."
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "Comme la nuée se dissipe et disparaît, ainsi celui qui descend au Shéol ne remontera plus."
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "Il ne retournera plus dans sa maison, et sa demeure ne le reconnaîtra plus."
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "text": "« C'est pourquoi je ne garderai pas le silence. Je parlerai dans l'angoisse de mon esprit. Je me plaindrai dans l'amertume de mon âme."
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "text": "Suis-je une mer, ou un monstre marin, pour que tu établisses une garde autour de moi ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "text": "Quand je dis : ‹ Mon lit me consolera. Ma couche apaisera ma plainte, ›"
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "text": "alors tu m'effraies par des songes et tu me terrifies par des visions,"
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "text": "au point que je préférerais être étranglé, et mourir plutôt que de rester dans ce corps réduit aux os."
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "text": "Je suis dégoûté de la vie. Je ne veux pas vivre toujours. Laisse-moi tranquille, car mes jours ne sont qu'un souffle."
+    },
+    {
+      "chapter": 7,
+      "verse": 17,
+      "text": "Qu'est-ce que l'homme, pour que tu fasses tant de cas de lui, pour que tu fixes ton attention sur lui,"
+    },
+    {
+      "chapter": 7,
+      "verse": 18,
+      "text": "pour que tu le visites chaque matin, et que tu l'éprouves à chaque instant ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 19,
+      "text": "Jusqu'à quand refuseras-tu de détourner de moi ton regard ? Ne me laisseras-tu pas même le temps d'avaler ma salive ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 20,
+      "text": "Si j'ai péché, que te fais-je, ô toi qui observes les hommes ? Pourquoi as-tu fait de moi ta cible, au point que je sois un fardeau pour moi-même ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 21,
+      "text": "Pourquoi ne pardonnes-tu pas ma désobéissance, et n'enlèves-tu pas mon iniquité ? Car bientôt je me coucherai dans la poussière. Tu me chercheras avec soin, mais je ne serai plus. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "text": "Alors Bildad le Shuhite répondit :"
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "text": "« Jusqu'à quand tiendras-tu de tels discours ? Les paroles de ta bouche seront-elles un vent impétueux ?"
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "text": "Dieu fausse-t-il le droit ? Ou le Tout-Puissant pervertit-il la justice ?"
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "text": "Si tes enfants ont péché contre lui, il les a livrés aux conséquences de leur rébellion."
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "text": "Si tu veux chercher Dieu avec zèle, adresse tes supplications au Tout-Puissant."
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "text": "Si tu es pur et droit, certainement alors il se lèvera pour toi, et rétablira la demeure où règne ta justice."
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "text": "Même si tes débuts furent modestes, ton avenir s'accroîtra grandement."
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "text": "« Interroge, je te prie, les générations passées. Attache-toi à l'enseignement de leurs pères."
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "text": "(Car nous sommes d'hier, et nous ne savons rien, parce que nos jours sur la terre ne sont qu'une ombre.)"
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "text": "Ne t'instruiront-ils pas, ne te parleront-ils pas, et ne puiseront-ils pas leurs paroles dans leur cœur ?"
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "text": "« Le papyrus pousse-t-il sans marais ? Les roseaux croissent-ils sans eau ?"
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "text": "Encore verts et sans être coupés, ils se dessèchent avant toute autre herbe."
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "text": "Telles sont les voies de tous ceux qui oublient Dieu. L'espérance de l'impie périra,"
+    },
+    {
+      "chapter": 8,
+      "verse": 14,
+      "text": "sa confiance sera brisée, et son assurance n'est qu'une toile d'araignée."
+    },
+    {
+      "chapter": 8,
+      "verse": 15,
+      "text": "Il s'appuie sur sa maison, mais elle ne tient pas. Il s'y cramponne, mais elle ne résiste pas."
+    },
+    {
+      "chapter": 8,
+      "verse": 16,
+      "text": "Il est plein de sève face au soleil. Ses rameaux s'étendent sur son jardin."
+    },
+    {
+      "chapter": 8,
+      "verse": 17,
+      "text": "Ses racines s'entrelacent autour d'un tas de pierres. Il se fraye un chemin parmi les pierres."
+    },
+    {
+      "chapter": 8,
+      "verse": 18,
+      "text": "Si on l'arrache de sa place, alors elle le renie, en disant : ‹ Je ne t'ai jamais vu. ›"
+    },
+    {
+      "chapter": 8,
+      "verse": 19,
+      "text": "Voici, telle est la joie de sa destinée. Et de la terre, d'autres germeront."
+    },
+    {
+      "chapter": 8,
+      "verse": 20,
+      "text": "« Voici, Dieu ne rejette pas l'homme intègre, ni ne prête main-forte aux malfaiteurs."
+    },
+    {
+      "chapter": 8,
+      "verse": 21,
+      "text": "Il remplira encore ta bouche de rires, et tes lèvres de cris de joie."
+    },
+    {
+      "chapter": 8,
+      "verse": 22,
+      "text": "Ceux qui te haïssent seront couverts de honte. La tente des méchants ne sera plus. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "text": "Alors Job répondit :"
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "text": "« Je sais bien qu'il en est ainsi, mais comment l'homme serait-il juste devant Dieu ?"
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "text": "S'il lui plaît de contester avec lui, l'homme ne pourrait lui répondre une fois sur mille."
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "text": "Dieu est sage de cœur, et puissant en force. Qui s'est endurci contre lui et a prospéré ?"
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "text": "Il déplace les montagnes à leur insu, quand il les renverse dans sa colère."
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "text": "Il secoue la terre hors de sa place, et ses colonnes tremblent."
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "text": "Il commande au soleil, et il ne se lève pas ; il met un sceau sur les étoiles."
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "text": "Seul, il déploie les cieux, et il marche sur les vagues de la mer."
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "text": "Il a créé la Grande Ourse, Orion et les Pléiades, ainsi que les chambres du sud."
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "text": "Il fait des choses grandes et insondables, oui, des merveilles sans nombre."
+    },
+    {
+      "chapter": 9,
+      "verse": 11,
+      "text": "Voici, il passe près de moi, et je ne le vois pas ; il glisse plus loin, et je ne l'aperçois pas."
+    },
+    {
+      "chapter": 9,
+      "verse": 12,
+      "text": "S'il s'empare de quelque chose, qui pourra l'en empêcher ? Qui lui dira : ‹ Que fais-tu ? ›"
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "text": "« Dieu ne retire pas sa colère ; sous lui s'inclinent les alliés de Rahab."
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "text": "Combien moins pourrais-je lui répondre, et choisir mes mots pour débattre avec lui !"
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "text": "Même si j'étais juste, je ne lui répondrais pas ; je demanderais grâce à mon juge."
+    },
+    {
+      "chapter": 9,
+      "verse": 16,
+      "text": "Si je l'appelais, et qu'il me réponde, je ne croirais pas qu'il ait écouté ma voix."
+    },
+    {
+      "chapter": 9,
+      "verse": 17,
+      "text": "Car il m'écrase par la tempête, et il multiplie mes blessures sans raison."
+    },
+    {
+      "chapter": 9,
+      "verse": 18,
+      "text": "Il ne me laisse pas reprendre haleine, mais il me rassasie d'amertume."
+    },
+    {
+      "chapter": 9,
+      "verse": 19,
+      "text": "S'agit-il de force ? Voici, il est puissant ! S'agit-il de justice ? ‹ Qui me citera devant le tribunal ? ›"
+    },
+    {
+      "chapter": 9,
+      "verse": 20,
+      "text": "Même si je suis juste, ma propre bouche me condamnera. Même si je suis intègre, elle me déclarera pervers."
+    },
+    {
+      "chapter": 9,
+      "verse": 21,
+      "text": "Je suis intègre. Je ne fais aucun cas de moi-même. Je méprise ma vie."
+    },
+    {
+      "chapter": 9,
+      "verse": 22,
+      "text": "« Tout cela revient au même. C'est pourquoi je dis : il détruit l'intègre comme le méchant."
+    },
+    {
+      "chapter": 9,
+      "verse": 23,
+      "text": "Si le fléau tue soudainement, il se moque de l'épreuve des innocents."
+    },
+    {
+      "chapter": 9,
+      "verse": 24,
+      "text": "La terre est livrée entre les mains des méchants ; il voile le visage de ses juges. Si ce n'est pas lui, alors qui est-ce ?"
+    },
+    {
+      "chapter": 9,
+      "verse": 25,
+      "text": "« Mes jours sont plus rapides qu'un coureur ; ils s'enfuient, ils ne voient pas le bonheur."
+    },
+    {
+      "chapter": 9,
+      "verse": 26,
+      "text": "Ils passent comme des navires rapides, comme l'aigle qui fond sur sa proie."
+    },
+    {
+      "chapter": 9,
+      "verse": 27,
+      "text": "Si je dis : ‹ Je veux oublier ma plainte, je veux abandonner mon air triste et reprendre courage ›,"
+    },
+    {
+      "chapter": 9,
+      "verse": 28,
+      "text": "je suis effrayé par toutes mes douleurs, sachant que tu ne me tiendras pas pour innocent."
+    },
+    {
+      "chapter": 9,
+      "verse": 29,
+      "text": "Je serai condamné. Pourquoi alors me fatiguer en vain ?"
+    },
+    {
+      "chapter": 9,
+      "verse": 30,
+      "text": "Même si je me lavais avec de la neige, et que je purifiais mes mains avec de la lessive,"
+    },
+    {
+      "chapter": 9,
+      "verse": 31,
+      "text": "tu me plongerais dans le fossé, et mes propres vêtements me prendraient en horreur."
+    },
+    {
+      "chapter": 9,
+      "verse": 32,
+      "text": "Car il n'est pas un homme comme moi, pour que je lui réponde, pour que nous allions ensemble en justice."
+    },
+    {
+      "chapter": 9,
+      "verse": 33,
+      "text": "Il n'y a pas d'arbitre entre nous, qui puisse poser sa main sur nous deux."
+    },
+    {
+      "chapter": 9,
+      "verse": 34,
+      "text": "Qu'il retire son bâton de dessus moi. Que sa terreur ne m'effraie plus ;"
+    },
+    {
+      "chapter": 9,
+      "verse": 35,
+      "text": "alors je parlerais sans le craindre, car, livré à moi-même, je ne suis pas ainsi."
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "text": "« Mon âme est lasse de la vie. Je donnerai libre cours à ma plainte. Je parlerai dans l'amertume de mon âme."
+    },
+    {
+      "chapter": 10,
+      "verse": 2,
+      "text": "Je dirai à Dieu : Ne me condamne pas ! Fais-moi savoir pourquoi tu me prends à partie."
+    },
+    {
+      "chapter": 10,
+      "verse": 3,
+      "text": "Te paraît-il bon d'opprimer, de mépriser l'œuvre de tes mains, et d'approuver les desseins des méchants ?"
+    },
+    {
+      "chapter": 10,
+      "verse": 4,
+      "text": "As-tu des yeux de chair ? Ou vois-tu comme voient les hommes ?"
+    },
+    {
+      "chapter": 10,
+      "verse": 5,
+      "text": "Tes jours sont-ils comme les jours des mortels, ou tes années comme les années d'un homme,"
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "text": "pour que tu recherches mon iniquité, et que tu t'enquières de mon péché ?"
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "text": "Bien que tu saches que je ne suis pas coupable, personne ne peut me délivrer de ta main."
+    },
+    {
+      "chapter": 10,
+      "verse": 8,
+      "text": "Tes mains m'ont formé, elles m'ont façonné tout entier, et maintenant tu me détruis !"
+    },
+    {
+      "chapter": 10,
+      "verse": 9,
+      "text": "Souviens-toi, je t'en prie, que tu m'as façonné comme de l'argile. Me feras-tu retourner à la poussière ?"
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "text": "Ne m'as-tu pas coulé comme du lait, et fait cailler comme du fromage ?"
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "text": "Tu m'as revêtu de peau et de chair, tu m'as tissé d'os et de nerfs."
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "text": "Tu m'as accordé la vie et ta bonté fidèle. Tes soins ont préservé mon esprit."
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "text": "Pourtant, voici ce que tu cachais dans ton cœur, je sais que tel était ton dessein :"
+    },
+    {
+      "chapter": 10,
+      "verse": 14,
+      "text": "si je pèche, tu m'observes, et tu ne m'acquittes pas de mon iniquité."
+    },
+    {
+      "chapter": 10,
+      "verse": 15,
+      "text": "Si je suis méchant, malheur à moi ! Si je suis juste, je n'ose lever la tête, rassasié de honte et accablé par mon affliction."
+    },
+    {
+      "chapter": 10,
+      "verse": 16,
+      "text": "Si je la redresse, tu me traques comme un lion, tu déploies encore ta puissance contre moi."
+    },
+    {
+      "chapter": 10,
+      "verse": 17,
+      "text": "Tu renouvelles tes témoins contre moi, tu accrois ton indignation à mon égard, les assauts se succèdent contre moi."
+    },
+    {
+      "chapter": 10,
+      "verse": 18,
+      "text": "Pourquoi donc m'as-tu fait sortir du ventre maternel ? J'aurais expiré, et aucun œil ne m'aurait vu."
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "text": "J'aurais été comme si je n'avais jamais existé, on m'aurait porté du ventre maternel à la tombe."
+    },
+    {
+      "chapter": 10,
+      "verse": 20,
+      "text": "Mes jours ne sont-ils pas peu nombreux ? Cesse donc ! Laisse-moi tranquille, pour que je trouve un peu de répit,"
+    },
+    {
+      "chapter": 10,
+      "verse": 21,
+      "text": "avant que je m'en aille, pour ne plus revenir, dans le pays des ténèbres et de l'ombre de la mort ;"
+    },
+    {
+      "chapter": 10,
+      "verse": 22,
+      "text": "pays d'une obscurité profonde, de l'ombre de la mort, sans aucun ordre, où la lumière même est comme la nuit noire. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "text": "Tsophar le Naamathite répondit :"
+    },
+    {
+      "chapter": 11,
+      "verse": 2,
+      "text": "« La multitude des paroles ne devrait-elle pas recevoir de réponse ? Un beau parleur sera-t-il justifié ?"
+    },
+    {
+      "chapter": 11,
+      "verse": 3,
+      "text": "Tes vantardises feront-elles taire les hommes ? Quand tu te moques, personne ne te fera-t-il honte ?"
+    },
+    {
+      "chapter": 11,
+      "verse": 4,
+      "text": "Car tu dis : ‹ Ma doctrine est pure. Je suis pur à tes yeux. ›"
+    },
+    {
+      "chapter": 11,
+      "verse": 5,
+      "text": "Mais si seulement Dieu voulait parler, s'il ouvrait les lèvres contre toi,"
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "text": "pour te révéler les secrets de la sagesse ! Car la vraie sagesse a des aspects multiples. Sache donc que Dieu te demande moins que ne le mérite ton iniquité."
+    },
+    {
+      "chapter": 11,
+      "verse": 7,
+      "text": "« Peux-tu sonder le mystère de Dieu ? Ou peux-tu scruter les limites du Tout-Puissant ?"
+    },
+    {
+      "chapter": 11,
+      "verse": 8,
+      "text": "Elles sont aussi hautes que les cieux. Que peux-tu faire ? Elles sont plus profondes que le Shéol. Que peux-tu savoir ?"
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "text": "Sa mesure est plus longue que la terre, et plus large que la mer."
+    },
+    {
+      "chapter": 11,
+      "verse": 10,
+      "text": "S'il passe, s'il emprisonne, ou s'il convoque un tribunal, qui peut s'opposer à lui ?"
+    },
+    {
+      "chapter": 11,
+      "verse": 11,
+      "text": "Car il connaît les hommes trompeurs. Il voit aussi l'iniquité, sans même avoir besoin de l'examiner."
+    },
+    {
+      "chapter": 11,
+      "verse": 12,
+      "text": "Un homme dépourvu de sens deviendra sage quand le poulain d'un âne sauvage naîtra homme."
+    },
+    {
+      "chapter": 11,
+      "verse": 13,
+      "text": "« Si tu disposes bien ton cœur, et si tu tends les mains vers lui,"
+    },
+    {
+      "chapter": 11,
+      "verse": 14,
+      "text": "si tu éloignes l'iniquité qui est dans ta main, et si tu ne laisses pas l'injustice demeurer dans tes tentes,"
+    },
+    {
+      "chapter": 11,
+      "verse": 15,
+      "text": "alors tu pourras lever ton visage sans tache ; oui, tu seras inébranlable et tu n'auras rien à craindre,"
+    },
+    {
+      "chapter": 11,
+      "verse": 16,
+      "text": "car tu oublieras ta misère. Tu t'en souviendras comme des eaux qui se sont écoulées."
+    },
+    {
+      "chapter": 11,
+      "verse": 17,
+      "text": "Ta vie sera plus éclatante que le plein midi. Même s'il y a des ténèbres, elles seront comme le matin."
+    },
+    {
+      "chapter": 11,
+      "verse": 18,
+      "text": "Tu seras en sécurité, car il y a de l'espérance. Oui, tu examineras les lieux, puis tu te reposeras en sécurité."
+    },
+    {
+      "chapter": 11,
+      "verse": 19,
+      "text": "Tu te coucheras, et personne ne t'effraiera. Oui, beaucoup rechercheront ta faveur."
+    },
+    {
+      "chapter": 11,
+      "verse": 20,
+      "text": "Mais les yeux des méchants se consumeront. Ils n'auront aucun moyen de fuir. Leur espérance, ce sera de rendre l'âme. »"
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "text": "Alors Job répondit :"
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "text": "« À vous entendre, vous êtes à vous seuls tout un peuple, et la sagesse mourra avec vous."
+    },
+    {
+      "chapter": 12,
+      "verse": 3,
+      "text": "Mais j'ai de l'intelligence tout comme vous ; je ne vous suis pas inférieur. D'ailleurs, qui ignore de telles choses ?"
+    },
+    {
+      "chapter": 12,
+      "verse": 4,
+      "text": "Je suis comme celui qui est la risée de son prochain, moi qui invoquais Dieu, et qui recevais sa réponse. Le juste, l'homme intègre, est devenu une risée."
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "text": "Dans l'esprit de celui qui est à l'aise, il y a du mépris pour le malheur ; ce mépris attend ceux dont le pied chancelle."
+    },
+    {
+      "chapter": 12,
+      "verse": 6,
+      "text": "Les tentes des pillards prospèrent. Ceux qui provoquent Dieu sont en sécurité, eux qui portent leur dieu dans leurs mains."
+    },
+    {
+      "chapter": 12,
+      "verse": 7,
+      "text": "« Mais interroge donc les animaux, et ils t'instruiront ; les oiseaux du ciel, et ils te l'apprendront."
+    },
+    {
+      "chapter": 12,
+      "verse": 8,
+      "text": "Ou parle à la terre, et elle t'instruira. Les poissons de la mer te le raconteront."
+    },
+    {
+      "chapter": 12,
+      "verse": 9,
+      "text": "Qui ne sait, parmi toutes ces créatures, que la main du SEIGNEUR a fait cela,"
+    },
+    {
+      "chapter": 12,
+      "verse": 10,
+      "text": "lui qui tient dans sa main la vie de tout être vivant, et le souffle de toute l'humanité ?"
+    },
+    {
+      "chapter": 12,
+      "verse": 11,
+      "text": "L'oreille ne discerne-t-elle pas les mots, tout comme le palais goûte la nourriture ?"
+    },
+    {
+      "chapter": 12,
+      "verse": 12,
+      "text": "La sagesse se trouve chez les vieillards, et l'intelligence dans une longue vie."
+    },
+    {
+      "chapter": 12,
+      "verse": 13,
+      "text": "« C'est en Dieu que résident la sagesse et la puissance. À lui appartiennent le conseil et l'intelligence."
+    },
+    {
+      "chapter": 12,
+      "verse": 14,
+      "text": "Voici, s'il démolit, on ne peut rebâtir ; s'il emprisonne un homme, il n'y a aucune délivrance."
+    },
+    {
+      "chapter": 12,
+      "verse": 15,
+      "text": "Voici, s'il retient les eaux, elles se dessèchent ; s'il les relâche, elles ravagent la terre."
+    },
+    {
+      "chapter": 12,
+      "verse": 16,
+      "text": "Avec lui sont la force et la sagesse. Celui qui s'égare et celui qui trompe lui appartiennent."
+    },
+    {
+      "chapter": 12,
+      "verse": 17,
+      "text": "Il emmène les conseillers dépouillés, et il frappe les juges de folie."
+    },
+    {
+      "chapter": 12,
+      "verse": 18,
+      "text": "Il défait l'autorité des rois, puis il leur ceint les reins d'une corde."
+    },
+    {
+      "chapter": 12,
+      "verse": 19,
+      "text": "Il emmène les prêtres privés de leur dignité, et il renverse les puissants."
+    },
+    {
+      "chapter": 12,
+      "verse": 20,
+      "text": "Il ôte la parole à ceux qui inspirent confiance, et il enlève le discernement aux anciens."
+    },
+    {
+      "chapter": 12,
+      "verse": 21,
+      "text": "Il répand le mépris sur les princes, et il détache la ceinture des forts."
+    },
+    {
+      "chapter": 12,
+      "verse": 22,
+      "text": "Il révèle les profondeurs cachées dans les ténèbres, et il expose à la lumière l'ombre de la mort."
+    },
+    {
+      "chapter": 12,
+      "verse": 23,
+      "text": "Il fait grandir les nations, puis il les détruit. Il étend les nations, puis il les emmène en captivité."
+    },
+    {
+      "chapter": 12,
+      "verse": 24,
+      "text": "Il ôte l'intelligence aux chefs des peuples de la terre, et il les fait errer dans un désert sans chemin."
+    },
+    {
+      "chapter": 12,
+      "verse": 25,
+      "text": "Ils tâtonnent dans les ténèbres sans lumière. Il les fait tituber comme des hommes ivres."
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "text": "« Voici, mon œil a vu tout cela. Mon oreille l'a entendu et l'a compris."
+    },
+    {
+      "chapter": 13,
+      "verse": 2,
+      "text": "Ce que vous savez, je le sais aussi. Je ne vous suis pas inférieur."
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "text": "« Certes, je voudrais parler au Tout-Puissant. Je désire m'expliquer avec Dieu."
+    },
+    {
+      "chapter": 13,
+      "verse": 4,
+      "text": "Mais vous, vous forgez des mensonges. Vous êtes tous des médecins incapables de guérir."
+    },
+    {
+      "chapter": 13,
+      "verse": 5,
+      "text": "Si seulement vous pouviez garder le silence ! Ce serait là votre sagesse."
+    },
+    {
+      "chapter": 13,
+      "verse": 6,
+      "text": "Écoutez donc mes arguments. Prêtez l'oreille aux suppliques de mes lèvres."
+    },
+    {
+      "chapter": 13,
+      "verse": 7,
+      "text": "Est-ce pour Dieu que vous proférez des paroles injustes, et est-ce pour lui que vous parlez avec tromperie ?"
+    },
+    {
+      "chapter": 13,
+      "verse": 8,
+      "text": "Voulez-vous faire preuve de partialité en sa faveur ? Voulez-vous plaider pour Dieu ?"
+    },
+    {
+      "chapter": 13,
+      "verse": 9,
+      "text": "Serait-il bon qu'il vous sonde ? Ou bien, comme on trompe un homme, le tromperez-vous ?"
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "text": "Il ne manquera pas de vous réprimander, si vous faites secrètement preuve de partialité."
+    },
+    {
+      "chapter": 13,
+      "verse": 11,
+      "text": "Sa majesté ne vous terrifiera-t-elle pas, et sa terreur ne tombera-t-elle pas sur vous ?"
+    },
+    {
+      "chapter": 13,
+      "verse": 12,
+      "text": "Vos sentences mémorables sont des proverbes de cendre. Vos défenses sont des défenses d'argile."
+    },
+    {
+      "chapter": 13,
+      "verse": 13,
+      "text": "« Taisez-vous ! Laissez-moi tranquille, pour que je puisse parler. Et qu'il m'arrive ce qu'il voudra !"
+    },
+    {
+      "chapter": 13,
+      "verse": 14,
+      "text": "Pourquoi exposerais-je ma chair au danger, et mettrais-je ma vie en péril ?"
+    },
+    {
+      "chapter": 13,
+      "verse": 15,
+      "text": "Voici, il me tuera. Je n'ai plus d'espoir. Néanmoins, je défendrai ma conduite devant lui."
+    },
+    {
+      "chapter": 13,
+      "verse": 16,
+      "text": "Cela même sera mon salut, car un impie n'oserait pas se présenter devant lui."
+    },
+    {
+      "chapter": 13,
+      "verse": 17,
+      "text": "Écoutez attentivement mes paroles. Que ma déclaration parvienne à vos oreilles."
+    },
+    {
+      "chapter": 13,
+      "verse": 18,
+      "text": "Voici maintenant, j'ai préparé ma cause. Je sais que je suis juste."
+    },
+    {
+      "chapter": 13,
+      "verse": 19,
+      "text": "Qui est celui qui veut plaider contre moi ? Car alors je garderais le silence et je rendrais l'esprit."
+    },
+    {
+      "chapter": 13,
+      "verse": 20,
+      "text": "« Ne m'impose seulement pas ces deux choses, et alors je ne me cacherai pas loin de ton visage :"
+    },
+    {
+      "chapter": 13,
+      "verse": 21,
+      "text": "éloigne ta main de moi, et que ta terreur ne m'épouvante plus."
+    },
+    {
+      "chapter": 13,
+      "verse": 22,
+      "text": "Ensuite appelle, et je répondrai, ou bien laisse-moi parler, et réponds-moi."
+    },
+    {
+      "chapter": 13,
+      "verse": 23,
+      "text": "Quel est le nombre de mes iniquités et de mes péchés ? Fais-moi connaître ma désobéissance et mon péché."
+    },
+    {
+      "chapter": 13,
+      "verse": 24,
+      "text": "Pourquoi caches-tu ton visage, et me considères-tu comme ton ennemi ?"
+    },
+    {
+      "chapter": 13,
+      "verse": 25,
+      "text": "Veux-tu harceler une feuille chassée par le vent ? Veux-tu poursuivre une paille desséchée ?"
+    },
+    {
+      "chapter": 13,
+      "verse": 26,
+      "text": "Car tu écris contre moi des choses amères, et tu me fais hériter des iniquités de ma jeunesse."
+    },
+    {
+      "chapter": 13,
+      "verse": 27,
+      "text": "Tu mets aussi mes pieds dans les ceps, et tu surveilles tous mes sentiers. tu traces une limite autour de la plante de mes pieds,"
+    },
+    {
+      "chapter": 13,
+      "verse": 28,
+      "text": "alors que je me consume comme une chose pourrie, comme un vêtement rongé par les mites."
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "text": "« L'homme, né de la femme, vit peu de jours, et il est plein de tourments."
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "text": "Il éclôt comme une fleur, puis il est fauché. Il s'enfuit comme une ombre, et ne subsiste pas."
+    },
+    {
+      "chapter": 14,
+      "verse": 3,
+      "text": "Est-ce sur un tel être que tu ouvres les yeux, et que tu me fais comparaître en jugement avec toi ?"
+    },
+    {
+      "chapter": 14,
+      "verse": 4,
+      "text": "Qui peut tirer le pur de l'impur ? Pas un seul."
+    },
+    {
+      "chapter": 14,
+      "verse": 5,
+      "text": "Puisque ses jours sont fixés, que le nombre de ses mois dépend de toi, et que tu as marqué une limite qu'il ne peut franchir,"
+    },
+    {
+      "chapter": 14,
+      "verse": 6,
+      "text": "détourne de lui ton regard, pour qu'il ait du repos, jusqu'à ce qu'il achève sa journée, comme un mercenaire."
+    },
+    {
+      "chapter": 14,
+      "verse": 7,
+      "text": "« Car il y a de l'espoir pour un arbre s'il est coupé : il repoussera, et ses jeunes pousses ne manqueront pas."
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "text": "Quand bien même sa racine vieillirait dans la terre, et que sa souche mourrait dans la poussière,"
+    },
+    {
+      "chapter": 14,
+      "verse": 9,
+      "text": "dès qu'il sent l'eau, il bourgeonne, et il produit des branches comme une jeune plante."
+    },
+    {
+      "chapter": 14,
+      "verse": 10,
+      "text": "Mais l'homme meurt, et il perd sa force ; oui, l'homme rend l'âme, et où est-il ?"
+    },
+    {
+      "chapter": 14,
+      "verse": 11,
+      "text": "Les eaux se retirent de la mer, et le fleuve s'épuise et se dessèche ;"
+    },
+    {
+      "chapter": 14,
+      "verse": 12,
+      "text": "ainsi l'homme se couche et ne se relève pas. Tant que les cieux subsisteront, ils ne s'éveilleront pas, ils ne seront pas tirés de leur sommeil."
+    },
+    {
+      "chapter": 14,
+      "verse": 13,
+      "text": "« Ah ! Si tu voulais me cacher dans le Shéol, m'y tenir à l'abri jusqu'à ce que ta colère soit passée, me fixer un terme, puis te souvenir de moi !"
+    },
+    {
+      "chapter": 14,
+      "verse": 14,
+      "text": "Si un homme meurt, revivra-t-il ? J'attendrais tous les jours de mon combat, jusqu'à ce que vienne ma relève."
+    },
+    {
+      "chapter": 14,
+      "verse": 15,
+      "text": "Tu appellerais, et je te répondrais ; tu désirerais revoir l'œuvre de tes mains."
+    },
+    {
+      "chapter": 14,
+      "verse": 16,
+      "text": "Mais aujourd'hui, tu comptes mes pas, ne surveilles-tu pas mon péché ?"
+    },
+    {
+      "chapter": 14,
+      "verse": 17,
+      "text": "Ma transgression est scellée dans un sac, et tu enfermes mon iniquité."
+    },
+    {
+      "chapter": 14,
+      "verse": 18,
+      "text": "« Mais la montagne qui s'écroule finit par disparaître, et le rocher est déplacé de son lieu."
+    },
+    {
+      "chapter": 14,
+      "verse": 19,
+      "text": "L'eau use les pierres, ses torrents emportent la poussière de la terre ; ainsi tu détruis l'espoir de l'homme."
+    },
+    {
+      "chapter": 14,
+      "verse": 20,
+      "text": "Tu le terrasses pour toujours, et il s'en va ; tu défigures son visage, et tu le renvoies."
+    },
+    {
+      "chapter": 14,
+      "verse": 21,
+      "text": "Que ses fils soient honorés, il n'en sait rien ; qu'ils soient abaissés, il ne s'en aperçoit pas."
+    },
+    {
+      "chapter": 14,
+      "verse": 22,
+      "text": "Mais tant qu'il vit, sa chair souffre, et son âme, au-dedans de lui, porte le deuil. »"
+    },
+    {
+      "chapter": 15,
+      "verse": 1,
+      "text": "Alors Éliphaz le Témanite répondit :"
+    },
+    {
+      "chapter": 15,
+      "verse": 2,
+      "text": "« Un sage répond-il par un savoir creux, et se remplit-il du vent d'orient ?"
+    },
+    {
+      "chapter": 15,
+      "verse": 3,
+      "text": "Se défend-il par des discours inutiles, ou par des paroles qui ne servent à rien ?"
+    },
+    {
+      "chapter": 15,
+      "verse": 4,
+      "text": "Toi, tu détruis même la crainte, et tu affaiblis la piété devant Dieu."
+    },
+    {
+      "chapter": 15,
+      "verse": 5,
+      "text": "Car ton iniquité inspire ta bouche, et tu choisis le langage des hommes rusés."
+    },
+    {
+      "chapter": 15,
+      "verse": 6,
+      "text": "C'est ta propre bouche qui te condamne, et non pas moi. Oui, tes propres lèvres témoignent contre toi."
+    },
+    {
+      "chapter": 15,
+      "verse": 7,
+      "text": "« Es-tu le premier homme à être né ? Ou as-tu été enfanté avant les collines ?"
+    },
+    {
+      "chapter": 15,
+      "verse": 8,
+      "text": "As-tu écouté le conseil secret de Dieu ? As-tu accaparé la sagesse pour toi seul ?"
+    },
+    {
+      "chapter": 15,
+      "verse": 9,
+      "text": "Que sais-tu que nous ne sachions pas ? Que comprends-tu qui ne soit pas en nous ?"
+    },
+    {
+      "chapter": 15,
+      "verse": 10,
+      "text": "Il y a parmi nous des cheveux blancs et des vieillards, bien plus âgés que ton père."
+    },
+    {
+      "chapter": 15,
+      "verse": 11,
+      "text": "Les consolations de Dieu sont-elles trop peu de chose pour toi, et la parole qui t'est adressée avec douceur ?"
+    },
+    {
+      "chapter": 15,
+      "verse": 12,
+      "text": "Pourquoi ton cœur t'emporte-t-il ? Pourquoi tes yeux lancent-ils des éclairs,"
+    },
+    {
+      "chapter": 15,
+      "verse": 13,
+      "text": "pour que tu tournes ton esprit contre Dieu, et que tu laisses de telles paroles sortir de ta bouche ?"
+    },
+    {
+      "chapter": 15,
+      "verse": 14,
+      "text": "Qu'est-ce que l'homme, pour qu'il soit pur ? Celui qui est né d'une femme, comment serait-il juste ?"
+    },
+    {
+      "chapter": 15,
+      "verse": 15,
+      "text": "Voici, il ne se fie pas à ses saints. Oui, les cieux ne sont pas purs à ses yeux ;"
+    },
+    {
+      "chapter": 15,
+      "verse": 16,
+      "text": "combien moins l'être abominable et corrompu, l'homme qui boit l'iniquité comme l'eau !"
+    },
+    {
+      "chapter": 15,
+      "verse": 17,
+      "text": "« Je vais te le montrer, écoute-moi ; ce que j'ai vu, je le déclarerai"
+    },
+    {
+      "chapter": 15,
+      "verse": 18,
+      "text": "(ce que les sages ont transmis de leurs pères, et qu'ils n'ont pas caché ;"
+    },
+    {
+      "chapter": 15,
+      "verse": 19,
+      "text": "à eux seuls le pays avait été donné, et aucun étranger ne passait parmi eux) :"
+    },
+    {
+      "chapter": 15,
+      "verse": 20,
+      "text": "le méchant se tord de douleur tous les jours de sa vie, pendant toutes les années réservées à l'oppresseur."
+    },
+    {
+      "chapter": 15,
+      "verse": 21,
+      "text": "Un bruit de terreurs résonne à ses oreilles. En pleine prospérité, le destructeur fondra sur lui."
+    },
+    {
+      "chapter": 15,
+      "verse": 22,
+      "text": "Il ne croit pas pouvoir échapper aux ténèbres. L'épée le guette."
+    },
+    {
+      "chapter": 15,
+      "verse": 23,
+      "text": "Il erre à la recherche de pain : ‹ Où est-il ? › Il sait que le jour des ténèbres est tout proche."
+    },
+    {
+      "chapter": 15,
+      "verse": 24,
+      "text": "La détresse et l'angoisse l'épouvantent. Elles triomphent de lui, comme un roi prêt pour la bataille."
+    },
+    {
+      "chapter": 15,
+      "verse": 25,
+      "text": "Car il a tendu la main contre Dieu, et il s'est élevé avec arrogance contre le Tout-Puissant,"
+    },
+    {
+      "chapter": 15,
+      "verse": 26,
+      "text": "il s'est rué sur lui, le cou raide, abrité derrière ses épais boucliers,"
+    },
+    {
+      "chapter": 15,
+      "verse": 27,
+      "text": "parce qu'il a couvert son visage de graisse, et accumulé de la graisse sur ses flancs."
+    },
+    {
+      "chapter": 15,
+      "verse": 28,
+      "text": "Il a habité dans des villes désolées, dans des maisons que personne n'habitait, qui étaient destinées à devenir des monceaux de ruines."
+    },
+    {
+      "chapter": 15,
+      "verse": 29,
+      "text": "Il ne s'enrichira pas, et sa fortune ne durera pas, et ses possessions ne s'étendront pas sur la terre."
+    },
+    {
+      "chapter": 15,
+      "verse": 30,
+      "text": "Il ne sortira pas des ténèbres. La flamme desséchera ses rameaux. Il disparaîtra par le souffle de la bouche de Dieu."
+    },
+    {
+      "chapter": 15,
+      "verse": 31,
+      "text": "Qu'il ne se fie pas au néant et ne se trompe pas lui-même, car le néant sera sa récompense."
+    },
+    {
+      "chapter": 15,
+      "verse": 32,
+      "text": "Cela s'accomplira avant son heure. Son rameau ne verdira plus."
+    },
+    {
+      "chapter": 15,
+      "verse": 33,
+      "text": "Comme la vigne, il perdra ses raisins encore verts, et, comme l'olivier, il laissera tomber ses fleurs."
+    },
+    {
+      "chapter": 15,
+      "verse": 34,
+      "text": "Car la compagnie des impies sera stérile, et le feu consumera les tentes de la corruption."
+    },
+    {
+      "chapter": 15,
+      "verse": 35,
+      "text": "Ils conçoivent le malheur et produisent l'iniquité. Leur cœur prépare la tromperie. »"
+    },
+    {
+      "chapter": 16,
+      "verse": 1,
+      "text": "Alors Job répondit :"
+    },
+    {
+      "chapter": 16,
+      "verse": 2,
+      "text": "« J'ai déjà entendu bien des choses pareilles. Vous êtes tous des consolateurs pitoyables !"
+    },
+    {
+      "chapter": 16,
+      "verse": 3,
+      "text": "Ces mots vides de sens prendront-ils fin ? Ou qu'est-ce qui te pousse à répondre ainsi ?"
+    },
+    {
+      "chapter": 16,
+      "verse": 4,
+      "text": "Moi aussi, je pourrais parler comme vous. Si vous étiez à ma place, je pourrais aligner des mots contre vous, et hocher la tête contre vous."
+    },
+    {
+      "chapter": 16,
+      "verse": 5,
+      "text": "Mais je vous fortifierais de ma bouche, et les paroles consolantes de mes lèvres vous soulageraient."
+    },
+    {
+      "chapter": 16,
+      "verse": 6,
+      "text": "« Si je parle, ma douleur ne s'apaise pas ; et si je me tais, quel soulagement en ai-je ?"
+    },
+    {
+      "chapter": 16,
+      "verse": 7,
+      "text": "Mais maintenant, ô Dieu, tu m'as épuisé. Tu as ravagé tout mon entourage."
+    },
+    {
+      "chapter": 16,
+      "verse": 8,
+      "text": "Tu m'as desséché, et cela témoigne contre moi ; ma maigreur se dresse contre moi, elle m'accuse en face."
+    },
+    {
+      "chapter": 16,
+      "verse": 9,
+      "text": "Il m'a déchiré dans sa colère et m'a persécuté ; il a grincé des dents contre moi. Mon adversaire aiguise son regard contre moi."
+    },
+    {
+      "chapter": 16,
+      "verse": 10,
+      "text": "Ils ont ouvert grand la bouche contre moi, ils m'ont frappé sur la joue avec mépris, ils se liguent tous ensemble contre moi."
+    },
+    {
+      "chapter": 16,
+      "verse": 11,
+      "text": "Dieu me livre aux impies, et me jette entre les mains des méchants."
+    },
+    {
+      "chapter": 16,
+      "verse": 12,
+      "text": "J'étais en paix, et il m'a brisé ; oui, il m'a saisi par la nuque et m'a fracassé. Il a fait de moi sa cible."
+    },
+    {
+      "chapter": 16,
+      "verse": 13,
+      "text": "Ses archers m'encerclent. Il me transperce les reins sans pitié, il répand mon fiel sur le sol."
+    },
+    {
+      "chapter": 16,
+      "verse": 14,
+      "text": "Il me fait brèche sur brèche, il fond sur moi comme un guerrier."
+    },
+    {
+      "chapter": 16,
+      "verse": 15,
+      "text": "J'ai cousu un sac sur ma peau, et j'ai traîné ma fierté dans la poussière."
+    },
+    {
+      "chapter": 16,
+      "verse": 16,
+      "text": "Mon visage est rougi par les pleurs. Des ténèbres épaisses couvrent mes paupières,"
+    },
+    {
+      "chapter": 16,
+      "verse": 17,
+      "text": "bien qu'il n'y ait aucune violence dans mes mains, et que ma prière soit pure."
+    },
+    {
+      "chapter": 16,
+      "verse": 18,
+      "text": "« Ô terre, ne couvre pas mon sang ! Que mon cri ne trouve aucun lieu de repos !"
+    },
+    {
+      "chapter": 16,
+      "verse": 19,
+      "text": "Dès à présent, voici, mon témoin est dans le ciel, celui qui répond de moi est dans les lieux très hauts."
+    },
+    {
+      "chapter": 16,
+      "verse": 20,
+      "text": "Mes amis se moquent de moi, et mes yeux versent des larmes devant Dieu,"
+    },
+    {
+      "chapter": 16,
+      "verse": 21,
+      "text": "afin qu'il défende la cause d'un homme auprès de Dieu, comme on défend celle d'un homme auprès de son prochain !"
+    },
+    {
+      "chapter": 16,
+      "verse": 22,
+      "text": "Car d'ici quelques années, je m'en irai par le chemin sans retour."
+    },
+    {
+      "chapter": 17,
+      "verse": 1,
+      "text": "« Mon esprit est brisé. Mes jours s'éteignent, et la tombe m'attend."
+    },
+    {
+      "chapter": 17,
+      "verse": 2,
+      "text": "Certes, des moqueurs m'entourent. Mon œil s'attarde sur leurs provocations."
+    },
+    {
+      "chapter": 17,
+      "verse": 3,
+      "text": "« Dépose donc un gage ; porte-toi toi-même garant pour moi. Qui d'autre frappera dans ma main pour s'engager ?"
+    },
+    {
+      "chapter": 17,
+      "verse": 4,
+      "text": "Car tu as fermé leur cœur à l'intelligence ; c'est pourquoi tu ne les élèveras pas."
+    },
+    {
+      "chapter": 17,
+      "verse": 5,
+      "text": "Celui qui dénonce ses amis pour le butin, les yeux de ses enfants languiront."
+    },
+    {
+      "chapter": 17,
+      "verse": 6,
+      "text": "« Mais il a fait de moi la fable des peuples, et l'on me crache au visage."
+    },
+    {
+      "chapter": 17,
+      "verse": 7,
+      "text": "Mon œil s'obscurcit à cause du chagrin, et tous mes membres ne sont plus qu'une ombre."
+    },
+    {
+      "chapter": 17,
+      "verse": 8,
+      "text": "Les hommes droits en sont stupéfaits, et l'innocent s'indigne contre l'impie."
+    },
+    {
+      "chapter": 17,
+      "verse": 9,
+      "text": "Pourtant, le juste s'attache à sa voie, et celui qui a les mains pures redouble de force."
+    },
+    {
+      "chapter": 17,
+      "verse": 10,
+      "text": "Mais vous tous, revenez, venez donc ! Je ne trouverai pas un seul sage parmi vous."
+    },
+    {
+      "chapter": 17,
+      "verse": 11,
+      "text": "Mes jours sont passés, mes projets sont anéantis, tout comme les pensées de mon cœur."
+    },
+    {
+      "chapter": 17,
+      "verse": 12,
+      "text": "Ils changent la nuit en jour, ils disent : ‹ La lumière est proche › face aux ténèbres."
+    },
+    {
+      "chapter": 17,
+      "verse": 13,
+      "text": "Si je considère le Shéol comme ma demeure, si j'étends ma couche dans les ténèbres,"
+    },
+    {
+      "chapter": 17,
+      "verse": 14,
+      "text": "si je dis à la fosse : ‹ Tu es mon père ›, et aux vers : ‹ Ma mère › et ‹ Ma sœur ›,"
+    },
+    {
+      "chapter": 17,
+      "verse": 15,
+      "text": "où donc est mon espérance ? Et mon espérance, qui la verra ?"
+    },
+    {
+      "chapter": 17,
+      "verse": 16,
+      "text": "Descendra-t-elle avec moi aux portes du Shéol, ou descendrons-nous ensemble dans la poussière ? »"
+    },
+    {
+      "chapter": 18,
+      "verse": 1,
+      "text": "Alors Bildad le Shuhite répondit :"
+    },
+    {
+      "chapter": 18,
+      "verse": 2,
+      "text": "« Jusqu'à quand traquerez-vous les mots ? Réfléchissez, et ensuite nous parlerons."
+    },
+    {
+      "chapter": 18,
+      "verse": 3,
+      "text": "Pourquoi sommes-nous comptés comme des bêtes, et pourquoi nous jugez-vous dépourvus d'intelligence ?"
+    },
+    {
+      "chapter": 18,
+      "verse": 4,
+      "text": "Toi qui te déchires dans ta colère, la terre sera-t-elle abandonnée à cause de toi ? Ou le rocher sera-t-il arraché de sa place ?"
+    },
+    {
+      "chapter": 18,
+      "verse": 5,
+      "text": "« Oui, la lumière du méchant s'éteindra. L'étincelle de son feu ne brillera plus."
+    },
+    {
+      "chapter": 18,
+      "verse": 6,
+      "text": "La lumière s'obscurcira dans sa tente. Sa lampe au-dessus de lui s'éteindra."
+    },
+    {
+      "chapter": 18,
+      "verse": 7,
+      "text": "Ses pas vigoureux seront entravés. Ses propres desseins le feront tomber."
+    },
+    {
+      "chapter": 18,
+      "verse": 8,
+      "text": "Car ses propres pieds le jettent dans un filet, et il marche dans ses mailles."
+    },
+    {
+      "chapter": 18,
+      "verse": 9,
+      "text": "Un piège le saisira par le talon. Un lacet s'emparera de lui."
+    },
+    {
+      "chapter": 18,
+      "verse": 10,
+      "text": "Une corde est cachée pour lui dans le sol, un traquenard l'attend sur le sentier."
+    },
+    {
+      "chapter": 18,
+      "verse": 11,
+      "text": "Des terreurs l'effraieront de tous côtés, et s'attacheront à ses pas."
+    },
+    {
+      "chapter": 18,
+      "verse": 12,
+      "text": "Sa force sera épuisée par la faim. La calamité se tiendra prête à le frapper."
+    },
+    {
+      "chapter": 18,
+      "verse": 13,
+      "text": "Les membres de son corps seront dévorés. Le premier-né de la mort dévorera ses membres."
+    },
+    {
+      "chapter": 18,
+      "verse": 14,
+      "text": "Il sera arraché de la sécurité de sa tente. On le conduira vers le roi des terreurs."
+    },
+    {
+      "chapter": 18,
+      "verse": 15,
+      "text": "Ce qui ne lui appartient pas demeurera dans sa tente. Du soufre sera répandu sur sa demeure."
+    },
+    {
+      "chapter": 18,
+      "verse": 16,
+      "text": "Ses racines se dessécheront par en bas. Ses branches seront coupées par en haut."
+    },
+    {
+      "chapter": 18,
+      "verse": 17,
+      "text": "Son souvenir périra de la terre. Il n'aura plus de nom dans les rues."
+    },
+    {
+      "chapter": 18,
+      "verse": 18,
+      "text": "Il sera chassé de la lumière vers les ténèbres, et banni du monde."
+    },
+    {
+      "chapter": 18,
+      "verse": 19,
+      "text": "Il n'aura ni fils ni petit-fils parmi son peuple, ni aucun survivant là où il vivait."
+    },
+    {
+      "chapter": 18,
+      "verse": 20,
+      "text": "Ceux qui viendront après lui seront stupéfaits de son sort, tout comme ceux qui l'ont précédé en furent effrayés."
+    },
+    {
+      "chapter": 18,
+      "verse": 21,
+      "text": "Telles sont assurément les demeures de l'injuste. Telle est la place de celui qui ne connaît pas Dieu. »"
+    },
+    {
+      "chapter": 19,
+      "verse": 1,
+      "text": "Alors Job répondit :"
+    },
+    {
+      "chapter": 19,
+      "verse": 2,
+      "text": "« Jusqu'à quand me tourmenterez-vous, et m'écraserez-vous de vos paroles ?"
+    },
+    {
+      "chapter": 19,
+      "verse": 3,
+      "text": "Voilà dix fois que vous m'insultez ; vous n'avez aucune honte à me maltraiter."
+    },
+    {
+      "chapter": 19,
+      "verse": 4,
+      "text": "Si vraiment je me suis égaré, mon erreur demeure avec moi."
+    },
+    {
+      "chapter": 19,
+      "verse": 5,
+      "text": "Si vraiment vous voulez vous élever contre moi, et vous servir de ma honte pour m'accuser,"
+    },
+    {
+      "chapter": 19,
+      "verse": 6,
+      "text": "sachez alors que c'est Dieu qui m'a fait du tort, et qui m'a enveloppé de son filet."
+    },
+    {
+      "chapter": 19,
+      "verse": 7,
+      "text": "Voici, je crie à l'injustice, mais je ne suis pas entendu ; j'appelle au secours, mais il n'y a pas de justice."
+    },
+    {
+      "chapter": 19,
+      "verse": 8,
+      "text": "Il a barré ma route pour que je ne puisse passer, et il a couvert mes sentiers de ténèbres."
+    },
+    {
+      "chapter": 19,
+      "verse": 9,
+      "text": "Il m'a dépouillé de ma gloire, et il a ôté la couronne de ma tête."
+    },
+    {
+      "chapter": 19,
+      "verse": 10,
+      "text": "Il m'a brisé de toutes parts, et je m'en vais ; il a déraciné mon espérance comme un arbre."
+    },
+    {
+      "chapter": 19,
+      "verse": 11,
+      "text": "Il a enflammé sa colère contre moi, il me considère comme l'un de ses adversaires."
+    },
+    {
+      "chapter": 19,
+      "verse": 12,
+      "text": "Ses troupes s'avancent ensemble, elles élèvent une rampe de siège contre moi, et elles campent autour de ma tente."
+    },
+    {
+      "chapter": 19,
+      "verse": 13,
+      "text": "Il a éloigné de moi mes frères, et mes connaissances se sont totalement détournées de moi."
+    },
+    {
+      "chapter": 19,
+      "verse": 14,
+      "text": "Mes proches m'ont abandonné, mes intimes m'ont oublié."
+    },
+    {
+      "chapter": 19,
+      "verse": 15,
+      "text": "Les hôtes de ma maison et mes servantes me traitent en étranger ; je suis un inconnu à leurs yeux."
+    },
+    {
+      "chapter": 19,
+      "verse": 16,
+      "text": "J'appelle mon serviteur, et il ne répond pas ; je dois le supplier de ma propre bouche."
+    },
+    {
+      "chapter": 19,
+      "verse": 17,
+      "text": "Mon haleine répugne à ma femme, et je suis repoussant pour les enfants de ma propre mère."
+    },
+    {
+      "chapter": 19,
+      "verse": 18,
+      "text": "Même les jeunes enfants me méprisent ; si je me lève, ils parlent contre moi."
+    },
+    {
+      "chapter": 19,
+      "verse": 19,
+      "text": "Tous mes amis intimes m'ont en horreur, ceux que j'aimais se sont tournés contre moi."
+    },
+    {
+      "chapter": 19,
+      "verse": 20,
+      "text": "Mes os collent à ma peau et à ma chair, et je n'ai échappé que de justesse."
+    },
+    {
+      "chapter": 19,
+      "verse": 21,
+      "text": "Ayez pitié de moi, ayez pitié de moi, vous, mes amis, car la main de Dieu m'a frappé !"
+    },
+    {
+      "chapter": 19,
+      "verse": 22,
+      "text": "Pourquoi me persécutez-vous comme Dieu le fait, et n'êtes-vous pas rassasiés de ma chair ?"
+    },
+    {
+      "chapter": 19,
+      "verse": 23,
+      "text": "Oh ! si seulement mes paroles étaient écrites ! Si seulement elles étaient inscrites dans un livre !"
+    },
+    {
+      "chapter": 19,
+      "verse": 24,
+      "text": "Qu'avec un stylet de fer et du plomb, elles soient gravées dans le roc pour toujours !"
+    },
+    {
+      "chapter": 19,
+      "verse": 25,
+      "text": "Mais quant à moi, je sais que mon Rédempteur est vivant, et qu'à la fin, il se tiendra sur la terre."
+    },
+    {
+      "chapter": 19,
+      "verse": 26,
+      "text": "Après que ma peau aura été détruite, pourtant, dans ma chair, je verrai Dieu."
+    },
+    {
+      "chapter": 19,
+      "verse": 27,
+      "text": "Je le verrai moi-même, de mon côté ; mes propres yeux le verront, et non ceux d'un étranger. Mon cœur se consume au-dedans de moi."
+    },
+    {
+      "chapter": 19,
+      "verse": 28,
+      "text": "Si vous dites : « Comment le persécuterons-nous ? » sous prétexte que la racine du problème se trouve en moi,"
+    },
+    {
+      "chapter": 19,
+      "verse": 29,
+      "text": "redoutez pour vous-mêmes l'épée, car la colère attire les châtiments de l'épée, afin que vous sachiez qu'il y a un jugement. »"
+    },
+    {
+      "chapter": 20,
+      "verse": 1,
+      "text": "Alors Tsophar le Naamathite répondit :"
+    },
+    {
+      "chapter": 20,
+      "verse": 2,
+      "text": "« C'est pourquoi mes pensées me poussent à répondre, à cause de l'agitation qui bouillonne en moi."
+    },
+    {
+      "chapter": 20,
+      "verse": 3,
+      "text": "J'ai entendu des reproches qui me couvrent de honte, et mon intelligence m'inspire une réponse."
+    },
+    {
+      "chapter": 20,
+      "verse": 4,
+      "text": "Ne sais-tu pas que de tout temps, depuis que l'homme a été placé sur la terre,"
+    },
+    {
+      "chapter": 20,
+      "verse": 5,
+      "text": "le triomphe des méchants est de courte durée, et la joie de l'impie ne dure qu'un instant ?"
+    },
+    {
+      "chapter": 20,
+      "verse": 6,
+      "text": "Même si sa grandeur s'élevait jusqu'aux cieux, et que sa tête touchait les nuages,"
+    },
+    {
+      "chapter": 20,
+      "verse": 7,
+      "text": "il périra pour toujours comme ses propres excréments. Ceux qui le voyaient diront : ‹ Où est-il ? ›"
+    },
+    {
+      "chapter": 20,
+      "verse": 8,
+      "text": "Il s'envolera comme un rêve, et on ne le trouvera plus ; oui, il sera chassé comme une vision nocturne."
+    },
+    {
+      "chapter": 20,
+      "verse": 9,
+      "text": "L'œil qui le regardait ne le reverra plus, et sa demeure ne l'apercevra plus."
+    },
+    {
+      "chapter": 20,
+      "verse": 10,
+      "text": "Ses enfants devront rechercher la faveur des pauvres, et ses propres mains restitueront ses richesses."
+    },
+    {
+      "chapter": 20,
+      "verse": 11,
+      "text": "Ses os étaient pleins de la vigueur de sa jeunesse, mais elle se couchera avec lui dans la poussière."
+    },
+    {
+      "chapter": 20,
+      "verse": 12,
+      "text": "Même si le mal est doux à sa bouche, s'il le cache sous sa langue,"
+    },
+    {
+      "chapter": 20,
+      "verse": 13,
+      "text": "s'il le savoure sans vouloir le lâcher, et le retient au milieu de son palais,"
+    },
+    {
+      "chapter": 20,
+      "verse": 14,
+      "text": "sa nourriture se transformera dans ses entrailles, elle deviendra en lui du venin de cobra."
+    },
+    {
+      "chapter": 20,
+      "verse": 15,
+      "text": "Il a englouti des richesses, mais il les vomira ; Dieu les chassera de son ventre."
+    },
+    {
+      "chapter": 20,
+      "verse": 16,
+      "text": "Il sucera du venin de cobra, la langue de la vipère le tuera."
+    },
+    {
+      "chapter": 20,
+      "verse": 17,
+      "text": "Il ne contemplera pas les fleuves, les torrents ruisselants de miel et de crème."
+    },
+    {
+      "chapter": 20,
+      "verse": 18,
+      "text": "Il rendra le fruit de son travail sans pouvoir l'engloutir, il ne profitera pas des richesses qu'il a acquises."
+    },
+    {
+      "chapter": 20,
+      "verse": 19,
+      "text": "Car il a opprimé et délaissé les pauvres, il a pillé des maisons qu'il n'avait pas bâties."
+    },
+    {
+      "chapter": 20,
+      "verse": 20,
+      "text": "Parce qu'il ne trouvait aucun repos au-dedans de lui, il ne préservera rien de ce qu'il désire."
+    },
+    {
+      "chapter": 20,
+      "verse": 21,
+      "text": "Rien n'échappait à sa voracité, c'est pourquoi sa prospérité ne durera pas."
+    },
+    {
+      "chapter": 20,
+      "verse": 22,
+      "text": "Au comble de l'abondance, la détresse le saisira ; la main de tous les misérables s'abattra sur lui."
+    },
+    {
+      "chapter": 20,
+      "verse": 23,
+      "text": "Au moment de remplir son ventre, Dieu enverra sur lui l'ardeur de sa colère, et la fera pleuvoir sur lui pendant qu'il mange."
+    },
+    {
+      "chapter": 20,
+      "verse": 24,
+      "text": "S'il fuit devant l'arme de fer, la flèche de bronze le transpercera."
+    },
+    {
+      "chapter": 20,
+      "verse": 25,
+      "text": "Il l'arrache, et elle sort de son corps ; oui, la pointe étincelante sort de son foie. Les terreurs fondent sur lui."
+    },
+    {
+      "chapter": 20,
+      "verse": 26,
+      "text": "Des ténèbres totales sont réservées pour ses trésors ; un feu que nul n'a attisé le dévorera, il consumera ce qui reste dans sa tente."
+    },
+    {
+      "chapter": 20,
+      "verse": 27,
+      "text": "Les cieux révéleront son iniquité, et la terre se dressera contre lui."
+    },
+    {
+      "chapter": 20,
+      "verse": 28,
+      "text": "Les revenus de sa maison disparaîtront, ils s'écouleront au jour de sa colère."
+    },
+    {
+      "chapter": 20,
+      "verse": 29,
+      "text": "Telle est la part que Dieu réserve au méchant, l'héritage que Dieu lui a assigné. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 1,
+      "text": "Alors Job répondit :"
+    },
+    {
+      "chapter": 21,
+      "verse": 2,
+      "text": "« Écoutez attentivement mes paroles. Que ce soit là votre consolation."
+    },
+    {
+      "chapter": 21,
+      "verse": 3,
+      "text": "Accordez-moi encore un moment, et je parlerai à mon tour. Et quand j'aurai parlé, moquez-vous."
+    },
+    {
+      "chapter": 21,
+      "verse": 4,
+      "text": "Quant à moi, est-ce contre un homme que je me plains ? Pourquoi ne perdrais-je pas patience ?"
+    },
+    {
+      "chapter": 21,
+      "verse": 5,
+      "text": "Regardez-moi, et soyez stupéfaits. Mettez la main sur votre bouche."
+    },
+    {
+      "chapter": 21,
+      "verse": 6,
+      "text": "Quand j'y repense, je suis troublé. L'horreur s'empare de ma chair."
+    },
+    {
+      "chapter": 21,
+      "verse": 7,
+      "text": "« Pourquoi les méchants vivent-ils, vieillissent-ils, et même s'accroissent-ils en puissance ?"
+    },
+    {
+      "chapter": 21,
+      "verse": 8,
+      "text": "Leur postérité s'affermit avec eux sous leurs regards, et leurs descendants sont là, sous leurs yeux."
+    },
+    {
+      "chapter": 21,
+      "verse": 9,
+      "text": "Leurs maisons sont à l'abri de la peur, et le bâton de Dieu ne les frappe pas."
+    },
+    {
+      "chapter": 21,
+      "verse": 10,
+      "text": "Leurs taureaux s'accouplent sans faillir. Leurs vaches vêlent et n'avortent pas."
+    },
+    {
+      "chapter": 21,
+      "verse": 11,
+      "text": "Ils laissent courir leurs petits comme un troupeau. Leurs enfants bondissent de joie."
+    },
+    {
+      "chapter": 21,
+      "verse": 12,
+      "text": "Ils chantent au son du tambourin et de la harpe, et se réjouissent au son de la flûte."
+    },
+    {
+      "chapter": 21,
+      "verse": 13,
+      "text": "Ils passent leurs jours dans la prospérité. En un instant, ils descendent au Shéol."
+    },
+    {
+      "chapter": 21,
+      "verse": 14,
+      "text": "Ils disent à Dieu : ‹ Éloigne-toi de nous, car nous ne voulons pas connaître tes voies."
+    },
+    {
+      "chapter": 21,
+      "verse": 15,
+      "text": "Qu'est-ce que le Tout-Puissant, pour que nous le servions ? Quel profit aurions-nous à le prier ? ›"
+    },
+    {
+      "chapter": 21,
+      "verse": 16,
+      "text": "Voici, leur prospérité n'est pas entre leurs mains. Loin de moi le conseil des méchants !"
+    },
+    {
+      "chapter": 21,
+      "verse": 17,
+      "text": "« Combien de fois arrive-t-il que la lampe des méchants s'éteigne, que la calamité s'abatte sur eux, et que Dieu leur assigne des souffrances dans sa colère ?"
+    },
+    {
+      "chapter": 21,
+      "verse": 18,
+      "text": "Combien de fois sont-ils comme la paille face au vent, comme la balle que la tempête emporte ?"
+    },
+    {
+      "chapter": 21,
+      "verse": 19,
+      "text": "Vous dites : ‹ Dieu réserve le châtiment de son iniquité à ses enfants. › Qu'il le lui rende à lui-même, pour qu'il le comprenne !"
+    },
+    {
+      "chapter": 21,
+      "verse": 20,
+      "text": "Que ses propres yeux voient sa ruine. Qu'il boive de la colère du Tout-Puissant !"
+    },
+    {
+      "chapter": 21,
+      "verse": 21,
+      "text": "Car que lui importe sa maison après lui, quand le nombre de ses mois est arrivé à son terme ?"
+    },
+    {
+      "chapter": 21,
+      "verse": 22,
+      "text": "« Est-ce à Dieu que l'on enseignera la connaissance, lui qui juge ceux qui sont en haut ?"
+    },
+    {
+      "chapter": 21,
+      "verse": 23,
+      "text": "L'un meurt dans toute sa vigueur, entièrement à l'aise et tranquille."
+    },
+    {
+      "chapter": 21,
+      "verse": 24,
+      "text": "Son corps est rempli de vigueur. La mœlle de ses os est pleine de sève."
+    },
+    {
+      "chapter": 21,
+      "verse": 25,
+      "text": "Un autre meurt dans l'amertume de l'âme, sans avoir jamais goûté au bonheur."
+    },
+    {
+      "chapter": 21,
+      "verse": 26,
+      "text": "Ils se couchent ensemble dans la poussière. Les vers les recouvrent."
+    },
+    {
+      "chapter": 21,
+      "verse": 27,
+      "text": "« Voici, je connais vos pensées, les projets par lesquels vous voudriez me faire du tort."
+    },
+    {
+      "chapter": 21,
+      "verse": 28,
+      "text": "Car vous dites : ‹ Où est la maison du prince ? Où est la tente dans laquelle vivaient les méchants ? ›"
+    },
+    {
+      "chapter": 21,
+      "verse": 29,
+      "text": "N'avez-vous pas interrogé les voyageurs ? Ne connaissez-vous pas leurs témoignages,"
+    },
+    {
+      "chapter": 21,
+      "verse": 30,
+      "text": "qui affirment que l'homme mauvais est réservé pour le jour de la calamité, et conduit au jour de la colère ?"
+    },
+    {
+      "chapter": 21,
+      "verse": 31,
+      "text": "Qui lui dénoncera sa conduite en face ? Qui lui rendra ce qu'il a fait ?"
+    },
+    {
+      "chapter": 21,
+      "verse": 32,
+      "text": "Il est porté au tombeau, et l'on veille sur sa sépulture."
+    },
+    {
+      "chapter": 21,
+      "verse": 33,
+      "text": "Les mottes de la vallée lui paraissent douces. Tous les hommes marchent à sa suite, comme une foule innombrable l'a précédé."
+    },
+    {
+      "chapter": 21,
+      "verse": 34,
+      "text": "Comment donc pouvez-vous me consoler avec des absurdités, puisqu'il ne reste que fausseté dans vos réponses ? »"
+    },
+    {
+      "chapter": 22,
+      "verse": 1,
+      "text": "Alors Éliphaz le Témanite répondit :"
+    },
+    {
+      "chapter": 22,
+      "verse": 2,
+      "text": "« Un homme peut-il être utile à Dieu ? Certes, l'homme sage n'est utile qu'à lui-même."
+    },
+    {
+      "chapter": 22,
+      "verse": 3,
+      "text": "Le Tout-Puissant tire-t-il quelque plaisir de ta justice ? Ou tire-t-il un avantage à ce que tes voies soient parfaites ?"
+    },
+    {
+      "chapter": 22,
+      "verse": 4,
+      "text": "Est-ce pour ta piété qu'il te corrige, pour entrer en jugement avec toi ?"
+    },
+    {
+      "chapter": 22,
+      "verse": 5,
+      "text": "Ta méchanceté n'est-elle pas grande ? Et tes iniquités ne sont-elles pas sans fin ?"
+    },
+    {
+      "chapter": 22,
+      "verse": 6,
+      "text": "Car tu as pris sans raison des gages à tes frères, et tu as dépouillé ceux qui n'avaient déjà presque rien."
+    },
+    {
+      "chapter": 22,
+      "verse": 7,
+      "text": "Tu n'as pas donné d'eau à boire à l'homme épuisé, et tu as refusé du pain à celui qui avait faim."
+    },
+    {
+      "chapter": 22,
+      "verse": 8,
+      "text": "Mais la terre appartenait à l'homme fort, et l'homme honoré s'y installait."
+    },
+    {
+      "chapter": 22,
+      "verse": 9,
+      "text": "Tu as renvoyé les veuves les mains vides, et les bras des orphelins ont été brisés."
+    },
+    {
+      "chapter": 22,
+      "verse": 10,
+      "text": "C'est pourquoi des pièges t'entourent, et une terreur soudaine t'épouvante,"
+    },
+    {
+      "chapter": 22,
+      "verse": 11,
+      "text": "ou bien des ténèbres t'empêchent de voir, et un débordement d'eaux te submerge."
+    },
+    {
+      "chapter": 22,
+      "verse": 12,
+      "text": "« Dieu n'est-il pas dans les hauteurs des cieux ? Regarde les étoiles : comme elles sont hautes !"
+    },
+    {
+      "chapter": 22,
+      "verse": 13,
+      "text": "Et tu dis : ‹ Que sait Dieu ? Peut-il juger à travers d'épaisses ténèbres ?"
+    },
+    {
+      "chapter": 22,
+      "verse": 14,
+      "text": "D'épais nuages l'enveloppent, de sorte qu'il ne voit rien ; il se promène sur la voûte des cieux. ›"
+    },
+    {
+      "chapter": 22,
+      "verse": 15,
+      "text": "Veux-tu donc suivre l'ancienne voie, celle qu'ont foulée les hommes iniques,"
+    },
+    {
+      "chapter": 22,
+      "verse": 16,
+      "text": "qui ont été emportés avant le temps, et dont les fondations ont été emportées comme par un fleuve ?"
+    },
+    {
+      "chapter": 22,
+      "verse": 17,
+      "text": "Ils disaient à Dieu : ‹ Éloigne-toi de nous ! › et : ‹ Que peut faire pour nous le Tout-Puissant ? ›"
+    },
+    {
+      "chapter": 22,
+      "verse": 18,
+      "text": "Pourtant, il avait rempli leurs maisons de biens. Mais les conseils des méchants sont loin de moi !"
+    },
+    {
+      "chapter": 22,
+      "verse": 19,
+      "text": "Les justes le voient et se réjouissent, et l'innocent se moque d'eux,"
+    },
+    {
+      "chapter": 22,
+      "verse": 20,
+      "text": "en disant : ‹ Certes, nos adversaires sont anéantis, et le feu a dévoré ce qu'il restait d'eux. ›"
+    },
+    {
+      "chapter": 22,
+      "verse": 21,
+      "text": "« Réconcilie-toi donc avec lui, et sois en paix ; c'est ainsi que le bien t'arrivera."
+    },
+    {
+      "chapter": 22,
+      "verse": 22,
+      "text": "Reçois, je te prie, l'instruction de sa bouche, et serre ses paroles dans ton cœur."
+    },
+    {
+      "chapter": 22,
+      "verse": 23,
+      "text": "Si tu reviens au Tout-Puissant, tu seras rétabli, si tu éloignes l'iniquité de tes tentes."
+    },
+    {
+      "chapter": 22,
+      "verse": 24,
+      "text": "Jette ton trésor dans la poussière, l'or d'Ophir parmi les cailloux des torrents,"
+    },
+    {
+      "chapter": 22,
+      "verse": 25,
+      "text": "et le Tout-Puissant sera ton trésor, il sera ton argent le plus précieux."
+    },
+    {
+      "chapter": 22,
+      "verse": 26,
+      "text": "Car alors, tu feras du Tout-Puissant tes délices, et tu lèveras ton visage vers Dieu."
+    },
+    {
+      "chapter": 22,
+      "verse": 27,
+      "text": "Tu le prieras, et il t'exaucera, et tu accompliras tes vœux."
+    },
+    {
+      "chapter": 22,
+      "verse": 28,
+      "text": "Tu prendras une décision, et elle s'accomplira pour toi ; sur tes sentiers brillera la lumière."
+    },
+    {
+      "chapter": 22,
+      "verse": 29,
+      "text": "Quand on t'abaissera, tu diras : ‹ Relève-toi ! › Car il sauvera la personne humble."
+    },
+    {
+      "chapter": 22,
+      "verse": 30,
+      "text": "Il délivrera même celui qui n'est pas innocent ; oui, il sera délivré par la pureté de tes mains. »"
+    },
+    {
+      "chapter": 23,
+      "verse": 1,
+      "text": "Alors Job répondit :"
+    },
+    {
+      "chapter": 23,
+      "verse": 2,
+      "text": "« Aujourd'hui encore, ma plainte est rebelle. Sa main s'appesantit malgré mes gémissements."
+    },
+    {
+      "chapter": 23,
+      "verse": 3,
+      "text": "Oh ! Si je savais où le trouver ! Si je pouvais arriver jusqu'à son trône !"
+    },
+    {
+      "chapter": 23,
+      "verse": 4,
+      "text": "J'exposerais ma cause devant lui, et je remplirais ma bouche d'arguments."
+    },
+    {
+      "chapter": 23,
+      "verse": 5,
+      "text": "Je connaîtrais les mots qu'il me répondrait, et je comprendrais ce qu'il aurait à me dire."
+    },
+    {
+      "chapter": 23,
+      "verse": 6,
+      "text": "Plaiderait-il contre moi par sa grande puissance ? Non, mais il m'écouterait."
+    },
+    {
+      "chapter": 23,
+      "verse": 7,
+      "text": "Là, un homme droit pourrait discuter avec lui, et je serais délivré pour toujours de mon juge."
+    },
+    {
+      "chapter": 23,
+      "verse": 8,
+      "text": "Si je vais à l'est, il n'y est pas ; si je vais à l'ouest, je ne le trouve pas."
+    },
+    {
+      "chapter": 23,
+      "verse": 9,
+      "text": "S'il agit au nord, je ne peux le voir ; s'il se tourne vers le sud, je ne peux l'apercevoir."
+    },
+    {
+      "chapter": 23,
+      "verse": 10,
+      "text": "Mais il connaît le chemin que je prends ; quand il m'aura mis à l'épreuve, j'en sortirai comme l'or."
+    },
+    {
+      "chapter": 23,
+      "verse": 11,
+      "text": "Mon pied s'est fermement attaché à ses pas ; j'ai gardé sa voie, et je ne m'en suis pas détourné."
+    },
+    {
+      "chapter": 23,
+      "verse": 12,
+      "text": "Je ne me suis pas éloigné du commandement de ses lèvres ; j'ai gardé précieusement les paroles de sa bouche plus que ma ration quotidienne."
+    },
+    {
+      "chapter": 23,
+      "verse": 13,
+      "text": "Mais il demeure le même, et qui peut s'opposer à lui ? Ce que son âme désire, il l'accomplit."
+    },
+    {
+      "chapter": 23,
+      "verse": 14,
+      "text": "Car il accomplit ce qui m'est destiné, et il a en réserve bien des choses semblables."
+    },
+    {
+      "chapter": 23,
+      "verse": 15,
+      "text": "C'est pourquoi je suis terrifié en sa présence ; quand j'y réfléchis, j'ai peur de lui."
+    },
+    {
+      "chapter": 23,
+      "verse": 16,
+      "text": "Car Dieu a fait faiblir mon cœur, le Tout-Puissant m'a terrifié."
+    },
+    {
+      "chapter": 23,
+      "verse": 17,
+      "text": "Car je n'ai pas été réduit au silence avant que viennent les ténèbres, et l'épaisse obscurité n'a pas été cachée à mes yeux."
+    },
+    {
+      "chapter": 24,
+      "verse": 1,
+      "text": "« Pourquoi le Tout-Puissant ne fixe-t-il pas des temps de jugement ? Pourquoi ceux qui le connaissent ne voient-ils pas ses jours ?"
+    },
+    {
+      "chapter": 24,
+      "verse": 2,
+      "text": "Il y a des gens qui déplacent les bornes. Ils s'emparent violemment des troupeaux et les font paître."
+    },
+    {
+      "chapter": 24,
+      "verse": 3,
+      "text": "Ils emmènent l'âne de l'orphelin, et ils prennent en gage le bœuf de la veuve."
+    },
+    {
+      "chapter": 24,
+      "verse": 4,
+      "text": "Ils écartent les nécessiteux du chemin. Les pauvres de la terre sont tous forcés de se cacher."
+    },
+    {
+      "chapter": 24,
+      "verse": 5,
+      "text": "Voici, comme des ânes sauvages dans le désert, ils sortent pour leur labeur, cherchant assidûment de la nourriture. La steppe leur fournit du pain pour leurs enfants."
+    },
+    {
+      "chapter": 24,
+      "verse": 6,
+      "text": "Ils récoltent leur nourriture dans les champs. Ils grappillent la vigne du méchant."
+    },
+    {
+      "chapter": 24,
+      "verse": 7,
+      "text": "Ils passent la nuit tout nus, sans vêtements, et n'ont aucune couverture contre le froid."
+    },
+    {
+      "chapter": 24,
+      "verse": 8,
+      "text": "Ils sont trempés par les averses des montagnes, et ils embrassent le rocher, faute d'abri."
+    },
+    {
+      "chapter": 24,
+      "verse": 9,
+      "text": "Certains arrachent l'orphelin de la mamelle, et prennent des gages sur le pauvre,"
+    },
+    {
+      "chapter": 24,
+      "verse": 10,
+      "text": "de sorte qu'ils errent tout nus, sans vêtements. Affamés, ils portent les gerbes."
+    },
+    {
+      "chapter": 24,
+      "verse": 11,
+      "text": "Ils pressent l'huile dans les enclos de leurs oppresseurs. Ils foulent au pressoir, et souffrent de la soif."
+    },
+    {
+      "chapter": 24,
+      "verse": 12,
+      "text": "Du fond de la ville peuplée, les hommes gémissent. L'âme des blessés crie au secours, pourtant Dieu ne prête pas attention à cette infamie."
+    },
+    {
+      "chapter": 24,
+      "verse": 13,
+      "text": "« D'autres sont de ceux qui se rebellent contre la lumière. Ils n'en connaissent pas les voies, ni ne demeurent dans ses sentiers."
+    },
+    {
+      "chapter": 24,
+      "verse": 14,
+      "text": "Le meurtrier se lève avec la lumière. Il tue le pauvre et le nécessiteux. Pendant la nuit, il agit comme un voleur."
+    },
+    {
+      "chapter": 24,
+      "verse": 15,
+      "text": "L'œil de l'homme adultère guette le crépuscule, en se disant : ‹ Aucun œil ne me verra. › Et il masque son visage."
+    },
+    {
+      "chapter": 24,
+      "verse": 16,
+      "text": "Dans les ténèbres, ils percent les murs des maisons. Le jour, ils s'enferment. Ils ne connaissent pas la lumière."
+    },
+    {
+      "chapter": 24,
+      "verse": 17,
+      "text": "Car le matin est pour eux comme la nuit profonde, eux qui connaissent les terreurs de cette nuit."
+    },
+    {
+      "chapter": 24,
+      "verse": 18,
+      "text": "« Ils sont de l'écume à la surface des eaux. Leur part est maudite sur la terre. Ils ne prennent plus le chemin des vignes."
+    },
+    {
+      "chapter": 24,
+      "verse": 19,
+      "text": "La sécheresse et la chaleur consument les eaux de la neige ; ainsi le Shéol engloutit pour ceux qui ont péché."
+    },
+    {
+      "chapter": 24,
+      "verse": 20,
+      "text": "Le sein maternel l'oubliera. Les vers se repaîtront de lui. On ne se souviendra plus de lui. L'injustice sera brisée comme un arbre."
+    },
+    {
+      "chapter": 24,
+      "verse": 21,
+      "text": "Il maltraite la femme stérile qui n'enfante pas. Il n'agit pas avec bonté envers la veuve."
+    },
+    {
+      "chapter": 24,
+      "verse": 22,
+      "text": "Pourtant, Dieu maintient les puissants par sa force. Il relève ceux qui n'avaient aucune assurance de vivre."
+    },
+    {
+      "chapter": 24,
+      "verse": 23,
+      "text": "Dieu leur donne la sécurité, et ils s'y appuient. Ses yeux veillent sur leurs voies."
+    },
+    {
+      "chapter": 24,
+      "verse": 24,
+      "text": "Ils sont élevés ; encore un peu de temps, et ils ne sont plus. Oui, ils sont abaissés, ils sont enlevés du chemin comme tous les autres, et ils sont coupés comme les pointes des épis."
+    },
+    {
+      "chapter": 24,
+      "verse": 25,
+      "text": "S'il n'en est pas ainsi maintenant, qui me démentira, et réduira mes paroles à néant ? »"
+    },
+    {
+      "chapter": 25,
+      "verse": 1,
+      "text": "Alors Bildad le Shuhite répondit :"
+    },
+    {
+      "chapter": 25,
+      "verse": 2,
+      "text": "« À lui appartiennent la domination et la crainte. Il établit la paix dans ses hauteurs."
+    },
+    {
+      "chapter": 25,
+      "verse": 3,
+      "text": "Peut-on dénombrer ses armées ? Sur qui sa lumière ne se lève-t-elle pas ?"
+    },
+    {
+      "chapter": 25,
+      "verse": 4,
+      "text": "Comment donc l'homme serait-il juste devant Dieu ? Comment celui qui est né d'une femme serait-il pur ?"
+    },
+    {
+      "chapter": 25,
+      "verse": 5,
+      "text": "Voici, même la lune n'a pas d'éclat, et les étoiles ne sont pas pures à ses yeux ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 6,
+      "text": "combien moins l'homme, qui n'est qu'un ver, et le fils de l'homme, qui n'est qu'un vermisseau ! »"
+    },
+    {
+      "chapter": 26,
+      "verse": 1,
+      "text": "Alors Job répondit :"
+    },
+    {
+      "chapter": 26,
+      "verse": 2,
+      "text": "« Comme tu as bien aidé celui qui est sans force ! Comme tu as secouru le bras qui n'a plus de vigueur !"
+    },
+    {
+      "chapter": 26,
+      "verse": 3,
+      "text": "Comme tu as conseillé celui qui manque de sagesse, et abondamment manifesté un vrai savoir !"
+    },
+    {
+      "chapter": 26,
+      "verse": 4,
+      "text": "À qui as-tu adressé ces paroles ? De qui est l'esprit qui s'exprime par toi ?"
+    },
+    {
+      "chapter": 26,
+      "verse": 5,
+      "text": "Les ombres des morts tremblent, celles qui sont sous les eaux et tous ceux qui y vivent."
+    },
+    {
+      "chapter": 26,
+      "verse": 6,
+      "text": "Le Shéol est à nu devant Dieu, et Abaddon n'a pas de voile."
+    },
+    {
+      "chapter": 26,
+      "verse": 7,
+      "text": "Il étend le septentrion sur le vide, et suspend la terre sur le néant."
+    },
+    {
+      "chapter": 26,
+      "verse": 8,
+      "text": "Il enferme les eaux dans ses nuages épais, et la nuée ne se déchire pas sous leur poids."
+    },
+    {
+      "chapter": 26,
+      "verse": 9,
+      "text": "Il couvre la face de son trône, et y déploie sa nuée."
+    },
+    {
+      "chapter": 26,
+      "verse": 10,
+      "text": "Il a tracé une limite à la surface des eaux, jusqu'aux confins de la lumière et des ténèbres."
+    },
+    {
+      "chapter": 26,
+      "verse": 11,
+      "text": "Les colonnes du ciel tremblent, et sont frappées de stupeur à sa menace."
+    },
+    {
+      "chapter": 26,
+      "verse": 12,
+      "text": "Par sa puissance il soulève la mer, et par son intelligence il abat Rahab."
+    },
+    {
+      "chapter": 26,
+      "verse": 13,
+      "text": "Par son Esprit les cieux sont ornés. Sa main a transpercé le serpent fuyard."
+    },
+    {
+      "chapter": 26,
+      "verse": 14,
+      "text": "Voici, ce ne sont là que les contours de ses voies. Quel faible murmure en entendons-nous ! Mais le tonnerre de sa puissance, qui peut le comprendre ? »"
+    },
+    {
+      "chapter": 27,
+      "verse": 1,
+      "text": "Job reprit son discours et dit :"
+    },
+    {
+      "chapter": 27,
+      "verse": 2,
+      "text": "« Aussi vrai que Dieu est vivant, lui qui m'a refusé justice, le Tout-Puissant, qui a rempli mon âme d'amertume,"
+    },
+    {
+      "chapter": 27,
+      "verse": 3,
+      "text": "(car mon souffle est encore tout entier en moi, et le souffle de Dieu est dans mes narines),"
+    },
+    {
+      "chapter": 27,
+      "verse": 4,
+      "text": "mes lèvres ne prononceront aucune injustice, et ma langue ne proférera aucune tromperie."
+    },
+    {
+      "chapter": 27,
+      "verse": 5,
+      "text": "Loin de moi la pensée de vous donner raison ! Jusqu'à ma mort, je ne renoncerai pas à mon intégrité."
+    },
+    {
+      "chapter": 27,
+      "verse": 6,
+      "text": "Je maintiens ma justice et je ne la lâcherai pas ; mon cœur ne me fera aucun reproche tant que je vivrai."
+    },
+    {
+      "chapter": 27,
+      "verse": 7,
+      "text": "« Que mon ennemi subisse le sort du méchant, et que mon adversaire soit traité comme l'injuste !"
+    },
+    {
+      "chapter": 27,
+      "verse": 8,
+      "text": "Car quelle espérance reste-t-elle à l'impie, lorsqu'il est retranché, quand Dieu lui arrache la vie ?"
+    },
+    {
+      "chapter": 27,
+      "verse": 9,
+      "text": "Dieu écoutera-t-il son cri quand la détresse s'abattra sur lui ?"
+    },
+    {
+      "chapter": 27,
+      "verse": 10,
+      "text": "Fera-t-il du Tout-Puissant ses délices, et invoquera-t-il Dieu en tout temps ?"
+    },
+    {
+      "chapter": 27,
+      "verse": 11,
+      "text": "Je vous instruirai sur la main de Dieu, je ne vous cacherai pas les desseins du Tout-Puissant."
+    },
+    {
+      "chapter": 27,
+      "verse": 12,
+      "text": "Voici, vous l'avez tous vu de vos propres yeux ; pourquoi donc vous abandonnez-vous à de vains discours ?"
+    },
+    {
+      "chapter": 27,
+      "verse": 13,
+      "text": "« Voici la part que Dieu réserve au méchant, l'héritage que les oppresseurs reçoivent du Tout-Puissant."
+    },
+    {
+      "chapter": 27,
+      "verse": 14,
+      "text": "Si ses fils se multiplient, c'est pour l'épée, et sa descendance ne sera pas rassasiée de pain."
+    },
+    {
+      "chapter": 27,
+      "verse": 15,
+      "text": "Ceux qui lui survivent seront ensevelis par la mort, et ses veuves ne les pleureront pas."
+    },
+    {
+      "chapter": 27,
+      "verse": 16,
+      "text": "S'il amasse de l'argent comme de la poussière, et s'il entasse des vêtements comme de la boue,"
+    },
+    {
+      "chapter": 27,
+      "verse": 17,
+      "text": "c'est lui qui les entasse, mais c'est le juste qui s'en vêtira, et c'est l'innocent qui se partagera l'argent."
+    },
+    {
+      "chapter": 27,
+      "verse": 18,
+      "text": "Il bâtit sa maison comme la teigne, comme la cabane que fait un gardien."
+    },
+    {
+      "chapter": 27,
+      "verse": 19,
+      "text": "Il se couche riche, mais ce sera pour la dernière fois ; il ouvre les yeux, et il n'est plus."
+    },
+    {
+      "chapter": 27,
+      "verse": 20,
+      "text": "Les terreurs le surprennent comme une inondation, la tempête l'emporte au milieu de la nuit."
+    },
+    {
+      "chapter": 27,
+      "verse": 21,
+      "text": "Le vent d'est l'enlève, et il s'en va ; il l'arrache violemment de sa demeure."
+    },
+    {
+      "chapter": 27,
+      "verse": 22,
+      "text": "Il s'abat sur lui sans l'épargner, alors qu'il tente désespérément de fuir son pouvoir."
+    },
+    {
+      "chapter": 27,
+      "verse": 23,
+      "text": "On battra des mains sur son passage, et on le chassera de sa demeure sous les huées. »"
+    },
+    {
+      "chapter": 28,
+      "verse": 1,
+      "text": "« Il y a certes une mine pour l'argent, et un lieu pour l'or que l'on affine."
+    },
+    {
+      "chapter": 28,
+      "verse": 2,
+      "text": "Le fer est tiré de la terre, et le cuivre est fondu à partir du minerai."
+    },
+    {
+      "chapter": 28,
+      "verse": 3,
+      "text": "L'homme met fin aux ténèbres, il explore jusqu'aux limites extrêmes, les pierres cachées dans l'obscurité et la nuit profonde."
+    },
+    {
+      "chapter": 28,
+      "verse": 4,
+      "text": "Il creuse un puits loin des lieux habités. Loin des pas des passants, les mineurs sont oubliés. Suspendus loin des hommes, ils se balancent."
+    },
+    {
+      "chapter": 28,
+      "verse": 5,
+      "text": "La terre, d'où provient le pain, est bouleversée dans ses entrailles comme par le feu."
+    },
+    {
+      "chapter": 28,
+      "verse": 6,
+      "text": "Ses rochers sont la source du saphir, et l'on y trouve de la poussière d'or."
+    },
+    {
+      "chapter": 28,
+      "verse": 7,
+      "text": "L'oiseau de proie n'en connaît pas le sentier, et l'œil du faucon ne l'a jamais aperçu."
+    },
+    {
+      "chapter": 28,
+      "verse": 8,
+      "text": "Les bêtes fières ne l'ont pas foulé, et le lion féroce n'y a jamais passé."
+    },
+    {
+      "chapter": 28,
+      "verse": 9,
+      "text": "L'homme porte sa main sur le roc de silex, il bouleverse les montagnes depuis leurs racines."
+    },
+    {
+      "chapter": 28,
+      "verse": 10,
+      "text": "Il taille des galeries dans les rochers. Son œil contemple tout ce qu'il y a de précieux."
+    },
+    {
+      "chapter": 28,
+      "verse": 11,
+      "text": "Il endigue les cours d'eau pour qu'ils ne s'infiltrent plus. Ce qui était caché, il le met en lumière."
+    },
+    {
+      "chapter": 28,
+      "verse": 12,
+      "text": "« Mais la sagesse, où la trouvera-t-on ? Où est le lieu de l'intelligence ?"
+    },
+    {
+      "chapter": 28,
+      "verse": 13,
+      "text": "L'homme n'en connaît pas la valeur, et elle ne se trouve pas dans la terre des vivants."
+    },
+    {
+      "chapter": 28,
+      "verse": 14,
+      "text": "L'abîme dit : ‹ Elle n'est pas en moi. › La mer dit : ‹ Elle n'est pas avec moi. ›"
+    },
+    {
+      "chapter": 28,
+      "verse": 15,
+      "text": "Elle ne peut être obtenue contre de l'or fin, et l'on ne pèsera pas d'argent pour l'acheter."
+    },
+    {
+      "chapter": 28,
+      "verse": 16,
+      "text": "Elle ne s'évalue pas avec l'or d'Ophir, ni avec le précieux onyx, ou le saphir."
+    },
+    {
+      "chapter": 28,
+      "verse": 17,
+      "text": "L'or et le verre ne sauraient l'égaler, et on ne l'échangera pas contre des bijoux d'or pur."
+    },
+    {
+      "chapter": 28,
+      "verse": 18,
+      "text": "Il ne sera fait aucune mention du corail ou du cristal. Oui, la sagesse vaut plus que les rubis."
+    },
+    {
+      "chapter": 28,
+      "verse": 19,
+      "text": "La topaze d'Éthiopie ne l'égalera pas. Elle ne peut être estimée au prix de l'or pur."
+    },
+    {
+      "chapter": 28,
+      "verse": 20,
+      "text": "D'où vient donc la sagesse ? Où est le lieu de l'intelligence ?"
+    },
+    {
+      "chapter": 28,
+      "verse": 21,
+      "text": "Puisqu'elle est cachée aux yeux de tout être vivant, et dissimulée aux oiseaux du ciel."
+    },
+    {
+      "chapter": 28,
+      "verse": 22,
+      "text": "La Destruction et la Mort disent : ‹ Nous en avons entendu la rumeur de nos oreilles. ›"
+    },
+    {
+      "chapter": 28,
+      "verse": 23,
+      "text": "« Dieu en comprend le chemin, et il en connaît la demeure."
+    },
+    {
+      "chapter": 28,
+      "verse": 24,
+      "text": "Car il regarde jusqu'aux extrémités de la terre, et il voit tout ce qui est sous le ciel entier."
+    },
+    {
+      "chapter": 28,
+      "verse": 25,
+      "text": "Il règle la force du vent. Oui, il fixe la mesure des eaux."
+    },
+    {
+      "chapter": 28,
+      "verse": 26,
+      "text": "Quand il fit un décret pour la pluie, et un chemin pour l'éclair du tonnerre,"
+    },
+    {
+      "chapter": 28,
+      "verse": 27,
+      "text": "alors il la vit, et la déclara. Il l'établit, oui, et il la sonda."
+    },
+    {
+      "chapter": 28,
+      "verse": 28,
+      "text": "Puis il dit à l'homme : ‹ Voici, la crainte du Seigneur, c'est la sagesse. S'éloigner du mal, c'est l'intelligence. › »"
+    },
+    {
+      "chapter": 29,
+      "verse": 1,
+      "text": "Job reprit son discours :"
+    },
+    {
+      "chapter": 29,
+      "verse": 2,
+      "text": "« Oh ! si je pouvais être comme aux mois d'autrefois, comme aux jours où Dieu veillait sur moi ;"
+    },
+    {
+      "chapter": 29,
+      "verse": 3,
+      "text": "quand sa lampe brillait sur ma tête, et qu'à sa lumière je marchais dans les ténèbres ;"
+    },
+    {
+      "chapter": 29,
+      "verse": 4,
+      "text": "comme j'étais aux jours de ma vigueur, quand l'amitié de Dieu veillait sur ma tente ;"
+    },
+    {
+      "chapter": 29,
+      "verse": 5,
+      "text": "quand le Tout-Puissant était encore avec moi, et que mes enfants m'entouraient ;"
+    },
+    {
+      "chapter": 29,
+      "verse": 6,
+      "text": "quand mes pas baignaient dans la crème, et que le rocher déversait pour moi des ruisseaux d'huile !"
+    },
+    {
+      "chapter": 29,
+      "verse": 7,
+      "text": "Quand je sortais vers la porte de la ville, quand je préparais mon siège sur la place,"
+    },
+    {
+      "chapter": 29,
+      "verse": 8,
+      "text": "les jeunes gens me voyaient et se retiraient, les vieillards se levaient et restaient debout."
+    },
+    {
+      "chapter": 29,
+      "verse": 9,
+      "text": "Les princes cessaient de parler, et mettaient la main sur leur bouche."
+    },
+    {
+      "chapter": 29,
+      "verse": 10,
+      "text": "La voix des nobles s'éteignait, et leur langue s'attachait à leur palais."
+    },
+    {
+      "chapter": 29,
+      "verse": 11,
+      "text": "Car l'oreille qui m'entendait me bénissait, et l'œil qui me voyait me rendait témoignage,"
+    },
+    {
+      "chapter": 29,
+      "verse": 12,
+      "text": "parce que je délivrais le pauvre qui criait, et l'orphelin qui n'avait personne pour l'aider."
+    },
+    {
+      "chapter": 29,
+      "verse": 13,
+      "text": "La bénédiction de celui qui allait périr venait sur moi, et je faisais chanter de joie le cœur de la veuve."
+    },
+    {
+      "chapter": 29,
+      "verse": 14,
+      "text": "Je revêtais la justice, et elle devenait mon vêtement. Mon équité était comme un manteau et un diadème."
+    },
+    {
+      "chapter": 29,
+      "verse": 15,
+      "text": "J'étais des yeux pour l'aveugle, et des pieds pour le boiteux."
+    },
+    {
+      "chapter": 29,
+      "verse": 16,
+      "text": "J'étais un père pour les indigents. J'examinais la cause de celui que je ne connaissais pas."
+    },
+    {
+      "chapter": 29,
+      "verse": 17,
+      "text": "Je brisais les mâchoires de l'injuste, et j'arrachais la proie de ses dents."
+    },
+    {
+      "chapter": 29,
+      "verse": 18,
+      "text": "Alors je disais : ‹ Je mourrai dans ma maison, je multiplierai mes jours comme le sable."
+    },
+    {
+      "chapter": 29,
+      "verse": 19,
+      "text": "Ma racine s'étend vers les eaux, la rosée repose toute la nuit sur mes branches."
+    },
+    {
+      "chapter": 29,
+      "verse": 20,
+      "text": "Ma gloire est toujours nouvelle en moi, et mon arc se renouvelle dans ma main. ›"
+    },
+    {
+      "chapter": 29,
+      "verse": 21,
+      "text": "« On m'écoutait, on patientait, on gardait le silence pour entendre mon conseil."
+    },
+    {
+      "chapter": 29,
+      "verse": 22,
+      "text": "Après mes paroles, personne ne répliquait. Mes paroles se déposaient sur eux."
+    },
+    {
+      "chapter": 29,
+      "verse": 23,
+      "text": "Ils m'attendaient comme on attend la pluie, ils buvaient mes paroles comme la pluie du printemps."
+    },
+    {
+      "chapter": 29,
+      "verse": 24,
+      "text": "Je leur souriais quand ils perdaient courage, et la lumière de mon visage les rassurait."
+    },
+    {
+      "chapter": 29,
+      "verse": 25,
+      "text": "Je leur traçais la voie et je siégeais en chef, je vivais comme un roi au milieu de son armée, comme celui qui console les affligés. »"
+    },
+    {
+      "chapter": 30,
+      "verse": 1,
+      "text": "« Mais maintenant, ceux qui sont plus jeunes que moi se moquent de moi, eux dont je jugeais les pères indignes d'être placés avec les chiens de mon troupeau."
+    },
+    {
+      "chapter": 30,
+      "verse": 2,
+      "text": "À quoi me servirait la force de leurs mains, à ces hommes dont la vigueur a disparu ?"
+    },
+    {
+      "chapter": 30,
+      "verse": 3,
+      "text": "Dénués de tout et affamés, ils rongent la terre aride, dans les ténèbres de la ruine et de la désolation."
+    },
+    {
+      "chapter": 30,
+      "verse": 4,
+      "text": "Ils arrachent des herbes salées près des buissons, et les racines de genêt sont leur nourriture."
+    },
+    {
+      "chapter": 30,
+      "verse": 5,
+      "text": "On les chasse du milieu des hommes, on crie après eux comme après un voleur,"
+    },
+    {
+      "chapter": 30,
+      "verse": 6,
+      "text": "de sorte qu'ils habitent dans des ravins effrayants, dans les cavernes de la terre et dans les rochers."
+    },
+    {
+      "chapter": 30,
+      "verse": 7,
+      "text": "Ils braient parmi les buissons, ils se rassemblent sous les ronces."
+    },
+    {
+      "chapter": 30,
+      "verse": 8,
+      "text": "Enfants d'insensés, oui, enfants d'hommes sans nom, ils ont été chassés du pays à coups de fouet."
+    },
+    {
+      "chapter": 30,
+      "verse": 9,
+      "text": "« Et maintenant, je suis l'objet de leurs chansons, oui, je suis devenu leur fable."
+    },
+    {
+      "chapter": 30,
+      "verse": 10,
+      "text": "Ils m'ont en horreur, ils se tiennent à distance de moi, et n'hésitent pas à me cracher au visage."
+    },
+    {
+      "chapter": 30,
+      "verse": 11,
+      "text": "Car il a délié sa corde et m'a affligé ; et devant moi, ils ont rejeté tout frein."
+    },
+    {
+      "chapter": 30,
+      "verse": 12,
+      "text": "À ma droite se dresse la racaille. Ils repoussent mes pieds, ils ouvrent contre moi des chemins de destruction."
+    },
+    {
+      "chapter": 30,
+      "verse": 13,
+      "text": "Ils détruisent mon sentier, ils hâtent ma perte, sans l'aide de personne."
+    },
+    {
+      "chapter": 30,
+      "verse": 14,
+      "text": "Ils s'avancent comme par une large brèche, ils se précipitent au milieu des ruines."
+    },
+    {
+      "chapter": 30,
+      "verse": 15,
+      "text": "Les terreurs se sont tournées contre moi. Elles pourchassent mon honneur comme le vent, et mon bonheur s'est dissipé comme un nuage."
+    },
+    {
+      "chapter": 30,
+      "verse": 16,
+      "text": "« Maintenant, mon âme se répand au-dedans de moi, les jours d'affliction m'ont saisi."
+    },
+    {
+      "chapter": 30,
+      "verse": 17,
+      "text": "La nuit transperce mes os, et les douleurs qui me rongent ne prennent aucun repos."
+    },
+    {
+      "chapter": 30,
+      "verse": 18,
+      "text": "Par une grande violence, mon vêtement est déformé ; il m'enserre comme le col de ma tunique."
+    },
+    {
+      "chapter": 30,
+      "verse": 19,
+      "text": "Il m'a jeté dans la boue, et je suis devenu semblable à la poussière et à la cendre."
+    },
+    {
+      "chapter": 30,
+      "verse": 20,
+      "text": "Je crie vers toi, et tu ne me réponds pas ; je me tiens debout, et tu me regardes fixement."
+    },
+    {
+      "chapter": 30,
+      "verse": 21,
+      "text": "Tu es devenu cruel envers moi, par la force de ta main, tu me persécutes."
+    },
+    {
+      "chapter": 30,
+      "verse": 22,
+      "text": "Tu me soulèves et me fais chevaucher le vent, et tu me fais fondre dans la tempête."
+    },
+    {
+      "chapter": 30,
+      "verse": 23,
+      "text": "Car je sais que tu me conduiras à la mort, vers la maison assignée à tous les vivants."
+    },
+    {
+      "chapter": 30,
+      "verse": 24,
+      "text": "« Pourtant, ne tend-on pas la main dans sa chute ? Dans la calamité, ne crie-t-on pas à l'aide ?"
+    },
+    {
+      "chapter": 30,
+      "verse": 25,
+      "text": "N'ai-je pas pleuré sur celui qui était dans la détresse ? Mon âme ne s'est-elle pas affligée pour le pauvre ?"
+    },
+    {
+      "chapter": 30,
+      "verse": 26,
+      "text": "J'attendais le bien, et le mal est venu ; j'espérais la lumière, et les ténèbres sont arrivées."
+    },
+    {
+      "chapter": 30,
+      "verse": 27,
+      "text": "Mon cœur est troublé et ne trouve aucun repos ; les jours d'affliction m'ont surpris."
+    },
+    {
+      "chapter": 30,
+      "verse": 28,
+      "text": "Je marche en deuil, sans voir le soleil ; je me lève dans l'assemblée, et j'appelle à l'aide."
+    },
+    {
+      "chapter": 30,
+      "verse": 29,
+      "text": "Je suis devenu le frère des chacals, et le compagnon des autruches."
+    },
+    {
+      "chapter": 30,
+      "verse": 30,
+      "text": "Ma peau noircit et se détache de moi. Mes os sont consumés par la chaleur."
+    },
+    {
+      "chapter": 30,
+      "verse": 31,
+      "text": "Ainsi ma harpe a été changée en deuil, et ma flûte s'accorde à la voix de ceux qui pleurent."
+    },
+    {
+      "chapter": 31,
+      "verse": 1,
+      "text": "« J'ai conclu une alliance avec mes yeux ; comment alors aurais-je pu regarder avec convoitise une jeune fille ?"
+    },
+    {
+      "chapter": 31,
+      "verse": 2,
+      "text": "Car quelle est la part venant de Dieu d'en haut, et l'héritage du Tout-Puissant dans les lieux élevés ?"
+    },
+    {
+      "chapter": 31,
+      "verse": 3,
+      "text": "N'est-ce pas la ruine pour l'injuste, et le désastre pour les ouvriers d'iniquité ?"
+    },
+    {
+      "chapter": 31,
+      "verse": 4,
+      "text": "Ne voit-il pas mes voies, et ne compte-t-il pas tous mes pas ?"
+    },
+    {
+      "chapter": 31,
+      "verse": 5,
+      "text": "« Si j'ai marché dans la fausseté, et si mon pied s'est hâté vers la tromperie"
+    },
+    {
+      "chapter": 31,
+      "verse": 6,
+      "text": "(que je sois pesé dans une balance juste, et que Dieu connaisse mon intégrité) ;"
+    },
+    {
+      "chapter": 31,
+      "verse": 7,
+      "text": "si mon pas s'est détourné du chemin, si mon cœur a suivi mes yeux, si une souillure s'est attachée à mes mains,"
+    },
+    {
+      "chapter": 31,
+      "verse": 8,
+      "text": "alors que je sème, et qu'un autre mange. Oui, que les produits de mon champ soient déracinés."
+    },
+    {
+      "chapter": 31,
+      "verse": 9,
+      "text": "« Si mon cœur a été séduit par une femme, et si j'ai fait le guet à la porte de mon prochain,"
+    },
+    {
+      "chapter": 31,
+      "verse": 10,
+      "text": "alors que ma femme tourne la meule pour un autre, et que d'autres couchent avec elle."
+    },
+    {
+      "chapter": 31,
+      "verse": 11,
+      "text": "Car ce serait un crime odieux. Oui, ce serait une iniquité digne d'être punie par les juges,"
+    },
+    {
+      "chapter": 31,
+      "verse": 12,
+      "text": "car c'est un feu qui dévore jusqu'à la destruction, et qui déracinerait tous mes revenus."
+    },
+    {
+      "chapter": 31,
+      "verse": 13,
+      "text": "« Si j'ai méprisé le droit de mon serviteur ou de ma servante, lorsqu'ils étaient en litige avec moi,"
+    },
+    {
+      "chapter": 31,
+      "verse": 14,
+      "text": "que ferai-je donc quand Dieu se lèvera ? Quand il interviendra, que lui répondrai-je ?"
+    },
+    {
+      "chapter": 31,
+      "verse": 15,
+      "text": "Celui qui m'a fait dans le ventre maternel ne l'a-t-il pas fait lui aussi ? Un seul et même Dieu ne nous a-t-il pas façonnés dans le sein maternel ?"
+    },
+    {
+      "chapter": 31,
+      "verse": 16,
+      "text": "« Si j'ai refusé aux pauvres ce qu'ils désiraient, ou si j'ai laissé languir les yeux de la veuve ;"
+    },
+    {
+      "chapter": 31,
+      "verse": 17,
+      "text": "ou si j'ai mangé mon morceau tout seul, et que l'orphelin n'en ait pas mangé"
+    },
+    {
+      "chapter": 31,
+      "verse": 18,
+      "text": "(non, dès ma jeunesse, l'orphelin a grandi auprès de moi comme auprès d'un père, et, depuis le ventre de ma mère, j'ai pris soin de la veuve) ;"
+    },
+    {
+      "chapter": 31,
+      "verse": 19,
+      "text": "si j'ai vu quelqu'un périr par manque de vêtements, ou le nécessiteux n'avoir aucune couverture ;"
+    },
+    {
+      "chapter": 31,
+      "verse": 20,
+      "text": "si son cœur ne m'a pas béni, s'il n'a pas été réchauffé par la toison de mes moutons ;"
+    },
+    {
+      "chapter": 31,
+      "verse": 21,
+      "text": "si j'ai levé la main contre l'orphelin, parce que je voyais mon appui à la porte de la ville ;"
+    },
+    {
+      "chapter": 31,
+      "verse": 22,
+      "text": "alors que mon épaule se détache de l'omoplate, et que mon bras se brise à l'articulation."
+    },
+    {
+      "chapter": 31,
+      "verse": 23,
+      "text": "Car la calamité venant de Dieu est une terreur pour moi. À cause de sa majesté, je ne peux rien faire."
+    },
+    {
+      "chapter": 31,
+      "verse": 24,
+      "text": "« Si j'ai fait de l'or mon espoir, et si j'ai dit à l'or fin : ‹ Tu es ma confiance › ;"
+    },
+    {
+      "chapter": 31,
+      "verse": 25,
+      "text": "si je me suis réjoui de ce que ma richesse était grande, et de ce que ma main avait beaucoup acquis ;"
+    },
+    {
+      "chapter": 31,
+      "verse": 26,
+      "text": "si j'ai regardé le soleil quand il brillait, ou la lune s'avançant dans sa splendeur,"
+    },
+    {
+      "chapter": 31,
+      "verse": 27,
+      "text": "et si mon cœur a été secrètement séduit, et si ma main s'est portée à ma bouche pour leur envoyer un baiser ;"
+    },
+    {
+      "chapter": 31,
+      "verse": 28,
+      "text": "cela aussi serait une iniquité digne d'être punie par les juges, car j'aurais renié le Dieu qui est en haut."
+    },
+    {
+      "chapter": 31,
+      "verse": 29,
+      "text": "« Si je me suis réjoui de la ruine de celui qui me haïssait, ou si je me suis exalté quand le malheur l'a atteint"
+    },
+    {
+      "chapter": 31,
+      "verse": 30,
+      "text": "(je n'ai certainement pas permis à ma bouche de pécher en appelant la malédiction sur sa vie) ;"
+    },
+    {
+      "chapter": 31,
+      "verse": 31,
+      "text": "si les hommes de ma tente n'ont pas dit : ‹ Qui peut trouver quelqu'un qui n'ait pas été rassasié de sa viande ? ›"
+    },
+    {
+      "chapter": 31,
+      "verse": 32,
+      "text": "(l'étranger n'a pas campé dans la rue, mais j'ai ouvert mes portes au voyageur) ;"
+    },
+    {
+      "chapter": 31,
+      "verse": 33,
+      "text": "si, comme Adam, j'ai couvert mes transgressions, en cachant mon iniquité dans mon cœur,"
+    },
+    {
+      "chapter": 31,
+      "verse": 34,
+      "text": "parce que je craignais la grande multitude, et que le mépris des familles me terrifiait, de sorte que je gardais le silence, et n'osais pas franchir la porte —"
+    },
+    {
+      "chapter": 31,
+      "verse": 35,
+      "text": "Oh ! si j'avais quelqu'un pour m'entendre ! Voici ma signature ! Que le Tout-Puissant me réponde ! Que mon accusateur rédige mon acte d'accusation !"
+    },
+    {
+      "chapter": 31,
+      "verse": 36,
+      "text": "Certainement, je le porterais sur mon épaule, et je l'attacherais à moi comme une couronne."
+    },
+    {
+      "chapter": 31,
+      "verse": 37,
+      "text": "Je lui déclarerais le nombre de mes pas. Je m'approcherais de lui comme un prince."
+    },
+    {
+      "chapter": 31,
+      "verse": 38,
+      "text": "Si ma terre crie contre moi, et si ses sillons pleurent ensemble ;"
+    },
+    {
+      "chapter": 31,
+      "verse": 39,
+      "text": "si j'ai mangé ses fruits sans payer, ou si j'ai fait perdre la vie à ses propriétaires,"
+    },
+    {
+      "chapter": 31,
+      "verse": 40,
+      "text": "que des ronces poussent à la place du blé, et de la mauvaise herbe à la place de l'orge. » Les paroles de Job sont terminées."
+    },
+    {
+      "chapter": 32,
+      "verse": 1,
+      "text": "Ces trois hommes cessèrent de répondre à Job, parce qu'il était juste à ses propres yeux."
+    },
+    {
+      "chapter": 32,
+      "verse": 2,
+      "text": "Alors la colère d'Élihu, fils de Barakel, le Buzite, de la famille de Ram, s'enflamma contre Job. Sa colère s'enflamma parce qu'il se justifiait lui-même plutôt que Dieu."
+    },
+    {
+      "chapter": 32,
+      "verse": 3,
+      "text": "Sa colère s'enflamma aussi contre ses trois amis, parce qu'ils n'avaient trouvé aucune réponse, et qu'ils avaient néanmoins condamné Job."
+    },
+    {
+      "chapter": 32,
+      "verse": 4,
+      "text": "Or Élihu avait attendu avant de parler à Job, parce qu'ils étaient plus âgés que lui."
+    },
+    {
+      "chapter": 32,
+      "verse": 5,
+      "text": "Quand Élihu vit qu'il n'y avait plus de réponse dans la bouche de ces trois hommes, sa colère s'enflamma."
+    },
+    {
+      "chapter": 32,
+      "verse": 6,
+      "text": "Élihu, fils de Barakel, le Buzite, répondit : « Je suis jeune, et vous êtes très âgés. C'est pourquoi j'ai hésité, et je n'ai pas osé vous exposer ma pensée."
+    },
+    {
+      "chapter": 32,
+      "verse": 7,
+      "text": "Je me disais : ‹ Que l'âge parle, que le grand nombre d'années enseigne la sagesse. ›"
+    },
+    {
+      "chapter": 32,
+      "verse": 8,
+      "text": "Mais il y a dans l'homme un esprit, et c'est le souffle du Tout-Puissant qui lui donne l'intelligence."
+    },
+    {
+      "chapter": 32,
+      "verse": 9,
+      "text": "Ce ne sont pas les personnes avancées en âge qui sont nécessairement sages, ni les vieillards qui comprennent la justice."
+    },
+    {
+      "chapter": 32,
+      "verse": 10,
+      "text": "C'est pourquoi je dis : ‹ Écoutez-moi ; moi aussi, je vais exposer ma pensée. ›"
+    },
+    {
+      "chapter": 32,
+      "verse": 11,
+      "text": "Voici, j'ai attendu vos paroles, j'ai prêté l'oreille à vos raisonnements, pendant que vous cherchiez ce que vous alliez dire."
+    },
+    {
+      "chapter": 32,
+      "verse": 12,
+      "text": "Oui, je vous ai accordé toute mon attention, mais aucun de vous n'a confondu Job, aucun n'a réfuté ses paroles."
+    },
+    {
+      "chapter": 32,
+      "verse": 13,
+      "text": "Ne dites pas alors : ‹ Nous avons trouvé la sagesse. C'est Dieu qui peut le réfuter, et non un homme. ›"
+    },
+    {
+      "chapter": 32,
+      "verse": 14,
+      "text": "Il n'a pas dirigé ses paroles contre moi ; je ne lui répondrai donc pas avec vos discours."
+    },
+    {
+      "chapter": 32,
+      "verse": 15,
+      "text": "Ils sont consternés. Ils ne répondent plus. Les mots leur manquent."
+    },
+    {
+      "chapter": 32,
+      "verse": 16,
+      "text": "Dois-je attendre, puisqu'ils ne parlent plus, puisqu'ils s'arrêtent et ne répondent plus ?"
+    },
+    {
+      "chapter": 32,
+      "verse": 17,
+      "text": "À mon tour, je veux répondre pour ma part, moi aussi, je vais exposer ma pensée."
+    },
+    {
+      "chapter": 32,
+      "verse": 18,
+      "text": "Car je suis plein de paroles. L'esprit qui est en moi me presse."
+    },
+    {
+      "chapter": 32,
+      "verse": 19,
+      "text": "Voici, ma poitrine est comme un vin qui n'a pas d'issue ; comme des outres neuves, elle est prête à éclater."
+    },
+    {
+      "chapter": 32,
+      "verse": 20,
+      "text": "Je parlerai, afin de trouver du soulagement. J'ouvrirai mes lèvres et je répondrai."
+    },
+    {
+      "chapter": 32,
+      "verse": 21,
+      "text": "Je ne ferai preuve de partialité envers personne, et je ne donnerai de titres flatteurs à aucun homme."
+    },
+    {
+      "chapter": 32,
+      "verse": 22,
+      "text": "Car je ne sais pas flatter, sinon mon Créateur m'enlèverait bien vite."
+    },
+    {
+      "chapter": 33,
+      "verse": 1,
+      "text": "« Cependant, Job, je t'en prie, écoute mon discours, et prête l'oreille à toutes mes paroles."
+    },
+    {
+      "chapter": 33,
+      "verse": 2,
+      "text": "Voici maintenant, j'ouvre la bouche. Ma langue forme des paroles dans ma bouche."
+    },
+    {
+      "chapter": 33,
+      "verse": 3,
+      "text": "Mes paroles exprimeront la droiture de mon cœur. Ce que mes lèvres savent, elles le diront avec sincérité."
+    },
+    {
+      "chapter": 33,
+      "verse": 4,
+      "text": "L'Esprit de Dieu m'a créé, et le souffle du Tout-Puissant me donne la vie."
+    },
+    {
+      "chapter": 33,
+      "verse": 5,
+      "text": "Si tu le peux, réponds-moi. Prépare tes arguments devant moi, et tiens-toi debout."
+    },
+    {
+      "chapter": 33,
+      "verse": 6,
+      "text": "Voici, devant Dieu je suis ton égal. Moi aussi, j'ai été formé d'argile."
+    },
+    {
+      "chapter": 33,
+      "verse": 7,
+      "text": "Tu n'as pas à redouter ma présence, et mon poids ne t'accablera pas."
+    },
+    {
+      "chapter": 33,
+      "verse": 8,
+      "text": "« Certainement, tu as parlé à mes oreilles, j'ai entendu le son de tes paroles :"
+    },
+    {
+      "chapter": 33,
+      "verse": 9,
+      "text": "‹ Je suis pur, sans transgression. Je suis innocent, il n'y a pas d'iniquité en moi."
+    },
+    {
+      "chapter": 33,
+      "verse": 10,
+      "text": "Voici, il trouve des prétextes contre moi. Il me considère comme son ennemi."
+    },
+    {
+      "chapter": 33,
+      "verse": 11,
+      "text": "Il met mes pieds dans les entraves. Il surveille tous mes sentiers. ›"
+    },
+    {
+      "chapter": 33,
+      "verse": 12,
+      "text": "« Voici, je te répondrai : sur ce point, tu as tort, car Dieu est plus grand que l'homme."
+    },
+    {
+      "chapter": 33,
+      "verse": 13,
+      "text": "Pourquoi lui cherches-tu querelle, sous prétexte qu'il ne rend aucun compte de ses actes ?"
+    },
+    {
+      "chapter": 33,
+      "verse": 14,
+      "text": "Car Dieu parle une fois, et même deux, bien que l'homme n'y prête aucune attention."
+    },
+    {
+      "chapter": 33,
+      "verse": 15,
+      "text": "Dans un rêve, dans une vision nocturne, quand un sommeil profond tombe sur les hommes, quand ils s'endorment sur leur lit,"
+    },
+    {
+      "chapter": 33,
+      "verse": 16,
+      "text": "alors il ouvre les oreilles des hommes, et scelle l'instruction qu'il leur donne,"
+    },
+    {
+      "chapter": 33,
+      "verse": 17,
+      "text": "afin de détourner l'homme de ses desseins, et de le préserver de l'orgueil."
+    },
+    {
+      "chapter": 33,
+      "verse": 18,
+      "text": "Il retient son âme de la fosse, et sa vie de périr par l'épée."
+    },
+    {
+      "chapter": 33,
+      "verse": 19,
+      "text": "« L'homme est aussi châtié par la douleur sur son lit, par une lutte continuelle dans ses os,"
+    },
+    {
+      "chapter": 33,
+      "verse": 20,
+      "text": "au point qu'il prend le pain en dégoût, et son âme les aliments les plus exquis."
+    },
+    {
+      "chapter": 33,
+      "verse": 21,
+      "text": "Sa chair dépérit à vue d'œil, et ses os, qu'on ne voyait pas, deviennent saillants."
+    },
+    {
+      "chapter": 33,
+      "verse": 22,
+      "text": "Oui, son âme s'approche de la fosse, et sa vie des destructeurs."
+    },
+    {
+      "chapter": 33,
+      "verse": 23,
+      "text": "« S'il y a près de lui un ange, un médiateur, un entre mille, pour montrer à l'homme le droit chemin,"
+    },
+    {
+      "chapter": 33,
+      "verse": 24,
+      "text": "alors Dieu lui fait grâce, et dit : ‹ Délivre-le, afin qu'il ne descende pas dans la fosse ; j'ai trouvé une rançon. ›"
+    },
+    {
+      "chapter": 33,
+      "verse": 25,
+      "text": "Sa chair devient plus fraîche que celle d'un enfant. Il revient aux jours de sa jeunesse."
+    },
+    {
+      "chapter": 33,
+      "verse": 26,
+      "text": "Il prie Dieu, et Dieu lui est favorable ; il voit sa face avec allégresse, et Dieu restitue à l'homme sa justice."
+    },
+    {
+      "chapter": 33,
+      "verse": 27,
+      "text": "Il chante devant les hommes, et dit : ‹ J'ai péché, j'ai perverti ce qui était droit, et cela ne m'a servi à rien."
+    },
+    {
+      "chapter": 33,
+      "verse": 28,
+      "text": "Il a racheté mon âme pour qu'elle ne descende pas dans la fosse. Ma vie contemplera la lumière. ›"
+    },
+    {
+      "chapter": 33,
+      "verse": 29,
+      "text": "« Voici, Dieu fait toutes ces choses, deux fois, et même trois fois, avec l'homme,"
+    },
+    {
+      "chapter": 33,
+      "verse": 30,
+      "text": "pour ramener son âme de la fosse, afin qu'il soit éclairé par la lumière des vivants."
+    },
+    {
+      "chapter": 33,
+      "verse": 31,
+      "text": "Sois attentif, Job, et écoute-moi ! Garde le silence, et je parlerai."
+    },
+    {
+      "chapter": 33,
+      "verse": 32,
+      "text": "Si tu as quelque chose à dire, réponds-moi ! Parle, car je désire te justifier."
+    },
+    {
+      "chapter": 33,
+      "verse": 33,
+      "text": "Sinon, écoute-moi ! Garde le silence, et je t'enseignerai la sagesse. »"
+    },
+    {
+      "chapter": 34,
+      "verse": 1,
+      "text": "Élihu reprit la parole :"
+    },
+    {
+      "chapter": 34,
+      "verse": 2,
+      "text": "« Écoutez mes paroles, vous les sages ! Prêtez-moi l'oreille, vous qui avez le savoir !"
+    },
+    {
+      "chapter": 34,
+      "verse": 3,
+      "text": "Car l'oreille éprouve les paroles, comme le palais goûte la nourriture."
+    },
+    {
+      "chapter": 34,
+      "verse": 4,
+      "text": "Choisissons ce qui est juste, reconnaissons entre nous ce qui est bon."
+    },
+    {
+      "chapter": 34,
+      "verse": 5,
+      "text": "Car Job a dit : ‹ Je suis juste, et Dieu m'a refusé justice."
+    },
+    {
+      "chapter": 34,
+      "verse": 6,
+      "text": "Malgré mon droit, je passe pour un menteur ; ma blessure est incurable, bien que je sois sans transgression. ›"
+    },
+    {
+      "chapter": 34,
+      "verse": 7,
+      "text": "Quel homme est semblable à Job, qui boit la moquerie comme de l'eau,"
+    },
+    {
+      "chapter": 34,
+      "verse": 8,
+      "text": "qui fait route avec ceux qui commettent l'iniquité, et qui marche avec les hommes méchants ?"
+    },
+    {
+      "chapter": 34,
+      "verse": 9,
+      "text": "Car il a dit : ‹ Il ne sert à rien pour un homme de trouver son plaisir en Dieu. ›"
+    },
+    {
+      "chapter": 34,
+      "verse": 10,
+      "text": "C'est pourquoi, écoutez-moi, hommes d'intelligence : loin de Dieu la méchanceté, loin du Tout-Puissant l'iniquité !"
+    },
+    {
+      "chapter": 34,
+      "verse": 11,
+      "text": "Car il rend à l'homme selon ses œuvres, il fait subir à chacun les conséquences de sa conduite."
+    },
+    {
+      "chapter": 34,
+      "verse": 12,
+      "text": "Oui, assurément, Dieu ne commet pas le mal, le Tout-Puissant ne fausse pas la justice."
+    },
+    {
+      "chapter": 34,
+      "verse": 13,
+      "text": "Qui lui a confié la charge de la terre ? Ou qui l'a établi sur le monde entier ?"
+    },
+    {
+      "chapter": 34,
+      "verse": 14,
+      "text": "S'il ne pensait qu'à lui-même, s'il retirait à lui son esprit et son souffle,"
+    },
+    {
+      "chapter": 34,
+      "verse": 15,
+      "text": "toute chair périrait aussitôt, et l'homme retournerait à la poussière."
+    },
+    {
+      "chapter": 34,
+      "verse": 16,
+      "text": "Si donc tu as de l'intelligence, écoute ceci, prête l'oreille à la voix de mes paroles."
+    },
+    {
+      "chapter": 34,
+      "verse": 17,
+      "text": "Un ennemi de la justice pourrait-il gouverner ? Et oseras-tu condamner le Juste, le Puissant,"
+    },
+    {
+      "chapter": 34,
+      "verse": 18,
+      "text": "lui qui dit à un roi : ‹ Infâme ! › et aux nobles : ‹ Méchants ! › ?"
+    },
+    {
+      "chapter": 34,
+      "verse": 19,
+      "text": "Il ne fait pas de favoritisme envers les princes, et ne considère pas le riche plus que le pauvre, car tous sont l'ouvrage de ses mains."
+    },
+    {
+      "chapter": 34,
+      "verse": 20,
+      "text": "En un instant ils meurent, au milieu de la nuit. Un peuple est ébranlé, et il disparaît ; les puissants sont enlevés sans l'intervention d'aucune main."
+    },
+    {
+      "chapter": 34,
+      "verse": 21,
+      "text": "Car les yeux de Dieu sont sur les voies de l'homme, il regarde tous ses pas."
+    },
+    {
+      "chapter": 34,
+      "verse": 22,
+      "text": "Il n'y a ni ténèbres, ni ombre épaisse, où puissent se cacher ceux qui commettent l'iniquité."
+    },
+    {
+      "chapter": 34,
+      "verse": 23,
+      "text": "Car il n'a pas besoin d'examiner un homme longtemps, pour le faire comparaître en jugement devant Dieu."
+    },
+    {
+      "chapter": 34,
+      "verse": 24,
+      "text": "Il brise les puissants sans qu'il soit besoin d'enquête, et il en met d'autres à leur place."
+    },
+    {
+      "chapter": 34,
+      "verse": 25,
+      "text": "Ainsi, il connaît bien leurs œuvres ; il les renverse de nuit, et ils sont écrasés."
+    },
+    {
+      "chapter": 34,
+      "verse": 26,
+      "text": "Il les frappe comme des méchants, à la vue de tous ;"
+    },
+    {
+      "chapter": 34,
+      "verse": 27,
+      "text": "parce qu'ils se sont détournés de lui, et n'ont pris garde à aucune de ses voies,"
+    },
+    {
+      "chapter": 34,
+      "verse": 28,
+      "text": "faisant monter jusqu'à lui le cri du pauvre. Il a entendu le cri des affligés."
+    },
+    {
+      "chapter": 34,
+      "verse": 29,
+      "text": "S'il donne le repos, qui osera condamner ? S'il cache sa face, qui pourra le voir ? Il domine aussi bien sur une nation que sur un homme,"
+    },
+    {
+      "chapter": 34,
+      "verse": 30,
+      "text": "afin que l'impie ne règne plus, et qu'il ne soit plus un piège pour le peuple."
+    },
+    {
+      "chapter": 34,
+      "verse": 31,
+      "text": "Car quelqu'un a-t-il jamais dit à Dieu : ‹ Je suis coupable, je ne pécherai plus ;"
+    },
+    {
+      "chapter": 34,
+      "verse": 32,
+      "text": "enseigne-moi ce que je ne vois pas ; si j'ai commis l'iniquité, je ne le ferai plus › ?"
+    },
+    {
+      "chapter": 34,
+      "verse": 33,
+      "text": "Est-ce à toi de dicter sa rétribution, pour que tu la rejettes ? Car c'est à toi de choisir, et non à moi ; dis donc ce que tu sais !"
+    },
+    {
+      "chapter": 34,
+      "verse": 34,
+      "text": "Les hommes d'intelligence me diront, oui, tout homme sage qui m'écoute dira :"
+    },
+    {
+      "chapter": 34,
+      "verse": 35,
+      "text": "‹ Job parle sans connaissance, et ses paroles manquent de sagesse. ›"
+    },
+    {
+      "chapter": 34,
+      "verse": 36,
+      "text": "Je voudrais que Job soit éprouvé jusqu'au bout, parce qu'il répond comme les hommes méchants."
+    },
+    {
+      "chapter": 34,
+      "verse": 37,
+      "text": "Car il ajoute la rébellion à son péché ; il bat des mains au milieu de nous, et il multiplie ses paroles contre Dieu. »"
+    },
+    {
+      "chapter": 35,
+      "verse": 1,
+      "text": "Élihu répondit encore :"
+    },
+    {
+      "chapter": 35,
+      "verse": 2,
+      "text": "« Penses-tu être dans ton droit quand tu dis : ‹ Ma justice est supérieure à celle de Dieu ›,"
+    },
+    {
+      "chapter": 35,
+      "verse": 3,
+      "text": "et que tu demandes : ‹ Quel avantage en tires-tu ? Quel profit ai-je de plus que si j'avais péché ? ›"
+    },
+    {
+      "chapter": 35,
+      "verse": 4,
+      "text": "Je vais te répondre, à toi et à tes amis."
+    },
+    {
+      "chapter": 35,
+      "verse": 5,
+      "text": "Contemple le ciel et regarde ! Observe les nuages, ils sont bien plus hauts que toi."
+    },
+    {
+      "chapter": 35,
+      "verse": 6,
+      "text": "Si tu pèches, quel tort lui causes-tu ? Si tes transgressions se multiplient, que lui fais-tu ?"
+    },
+    {
+      "chapter": 35,
+      "verse": 7,
+      "text": "Si tu es juste, que lui donnes-tu ? Ou que reçoit-il de ta main ?"
+    },
+    {
+      "chapter": 35,
+      "verse": 8,
+      "text": "Ta méchanceté ne peut atteindre qu'un homme comme toi, et ta justice ne profite qu'à un fils d'homme."
+    },
+    {
+      "chapter": 35,
+      "verse": 9,
+      "text": "« On gémit sous le poids de la multitude des oppressions, on crie au secours face à la force des puissants."
+    },
+    {
+      "chapter": 35,
+      "verse": 10,
+      "text": "Mais nul ne dit : ‹ Où est Dieu, mon Créateur, lui qui inspire des chants d'allégresse dans la nuit,"
+    },
+    {
+      "chapter": 35,
+      "verse": 11,
+      "text": "qui nous instruit plus que les bêtes de la terre, et nous rend plus sages que les oiseaux du ciel ? ›"
+    },
+    {
+      "chapter": 35,
+      "verse": 12,
+      "text": "Ils ont beau crier, il ne répond pas, à cause de l'orgueil des méchants."
+    },
+    {
+      "chapter": 35,
+      "verse": 13,
+      "text": "Certainement, Dieu n'écoute pas les plaintes futiles, le Tout-Puissant n'y prête aucune attention."
+    },
+    {
+      "chapter": 35,
+      "verse": 14,
+      "text": "Combien moins encore lorsque tu dis que tu ne le vois pas ! Pourtant, ta cause est devant lui : attends-le."
+    },
+    {
+      "chapter": 35,
+      "verse": 15,
+      "text": "Et maintenant, parce que sa colère ne châtie pas, et qu'il ne prête pas grande attention à l'arrogance,"
+    },
+    {
+      "chapter": 35,
+      "verse": 16,
+      "text": "Job ouvre la bouche pour des discours vides, et il multiplie les paroles sans intelligence. »"
+    },
+    {
+      "chapter": 36,
+      "verse": 1,
+      "text": "Élihu poursuivit :"
+    },
+    {
+      "chapter": 36,
+      "verse": 2,
+      "text": "« Supporte-moi encore un peu, et je t'instruirai ; car j'ai encore quelque chose à dire en faveur de Dieu."
+    },
+    {
+      "chapter": 36,
+      "verse": 3,
+      "text": "Je tirerai mon savoir de loin, et j'attribuerai la justice à mon Créateur."
+    },
+    {
+      "chapter": 36,
+      "verse": 4,
+      "text": "Car en vérité, mes paroles ne sont pas trompeuses. Celui qui a une connaissance parfaite est avec toi."
+    },
+    {
+      "chapter": 36,
+      "verse": 5,
+      "text": "« Voici, Dieu est puissant, et il ne méprise personne. Il est puissant par la force de son intelligence."
+    },
+    {
+      "chapter": 36,
+      "verse": 6,
+      "text": "Il ne laisse pas vivre le méchant, mais il fait justice aux affligés."
+    },
+    {
+      "chapter": 36,
+      "verse": 7,
+      "text": "Il ne détourne pas les yeux des justes ; avec les rois sur le trône, il les fait asseoir pour toujours, et ils sont exaltés."
+    },
+    {
+      "chapter": 36,
+      "verse": 8,
+      "text": "S'ils sont chargés de chaînes, et pris dans les liens de l'affliction,"
+    },
+    {
+      "chapter": 36,
+      "verse": 9,
+      "text": "alors il leur montre leurs œuvres, et leurs transgressions, car ils se sont comportés avec orgueil."
+    },
+    {
+      "chapter": 36,
+      "verse": 10,
+      "text": "Il ouvre aussi leurs oreilles à l'instruction, et leur ordonne de se détourner de l'iniquité."
+    },
+    {
+      "chapter": 36,
+      "verse": 11,
+      "text": "S'ils écoutent et le servent, ils achèveront leurs jours dans la prospérité, et leurs années dans la joie."
+    },
+    {
+      "chapter": 36,
+      "verse": 12,
+      "text": "Mais s'ils n'écoutent pas, ils périront par l'épée ; ils mourront faute de connaissance."
+    },
+    {
+      "chapter": 36,
+      "verse": 13,
+      "text": "« Mais les cœurs impies amassent la colère ; ils n'appellent pas au secours quand il les enchaîne."
+    },
+    {
+      "chapter": 36,
+      "verse": 14,
+      "text": "Ils meurent dans leur jeunesse, et leur vie s'achève parmi les impurs."
+    },
+    {
+      "chapter": 36,
+      "verse": 15,
+      "text": "Il délivre l'affligé par son affliction même, et c'est par la souffrance qu'il ouvre son oreille."
+    },
+    {
+      "chapter": 36,
+      "verse": 16,
+      "text": "Oui, il t'aurait aussi retiré de la détresse, pour te mettre au large, sans aucune contrainte, et ta table aurait été chargée de mets succulents."
+    },
+    {
+      "chapter": 36,
+      "verse": 17,
+      "text": "« Mais tu es obsédé par le jugement des méchants ; le jugement et la justice s'emparent de toi."
+    },
+    {
+      "chapter": 36,
+      "verse": 18,
+      "text": "Que la richesse ne t'entraîne pas à la colère, et ne te laisse pas égarer par la grandeur d'une rançon."
+    },
+    {
+      "chapter": 36,
+      "verse": 19,
+      "text": "Ta richesse te soutiendrait-elle dans la détresse, ou tous les efforts de ta force ?"
+    },
+    {
+      "chapter": 36,
+      "verse": 20,
+      "text": "Ne soupire pas après la nuit, lorsque des peuples sont arrachés de leur place."
+    },
+    {
+      "chapter": 36,
+      "verse": 21,
+      "text": "Prends garde, ne te tourne pas vers l'iniquité, car tu as préféré cette voie à l'affliction."
+    },
+    {
+      "chapter": 36,
+      "verse": 22,
+      "text": "Voici, Dieu est exalté dans sa puissance. Qui est un maître semblable à lui ?"
+    },
+    {
+      "chapter": 36,
+      "verse": 23,
+      "text": "Qui lui a prescrit sa voie ? Ou qui peut dire : ‹ Tu as commis l'injustice › ?"
+    },
+    {
+      "chapter": 36,
+      "verse": 24,
+      "text": "« Souviens-toi d'exalter son œuvre, que les hommes ont chantée."
+    },
+    {
+      "chapter": 36,
+      "verse": 25,
+      "text": "Tous les hommes l'ont contemplée, l'homme la voit de loin."
+    },
+    {
+      "chapter": 36,
+      "verse": 26,
+      "text": "Voici, Dieu est grand, et nous ne le connaissons pas ; le nombre de ses années est incalculable."
+    },
+    {
+      "chapter": 36,
+      "verse": 27,
+      "text": "Car il attire les gouttes d'eau, qui, de sa vapeur, se distillent en pluie,"
+    },
+    {
+      "chapter": 36,
+      "verse": 28,
+      "text": "que les nuages déversent et laissent tomber en abondance sur les hommes."
+    },
+    {
+      "chapter": 36,
+      "verse": 29,
+      "text": "En vérité, quelqu'un peut-il comprendre le déploiement des nuages, et les grondements de sa tente ?"
+    },
+    {
+      "chapter": 36,
+      "verse": 30,
+      "text": "Voici, il déploie sa lumière autour de lui, et il couvre les profondeurs de la mer."
+    },
+    {
+      "chapter": 36,
+      "verse": 31,
+      "text": "Car par ces moyens il juge les peuples, et il donne la nourriture en abondance."
+    },
+    {
+      "chapter": 36,
+      "verse": 32,
+      "text": "Il couvre ses mains d'éclairs, et leur ordonne de frapper la cible."
+    },
+    {
+      "chapter": 36,
+      "verse": 33,
+      "text": "Son grondement l'annonce, et le bétail aussi pressent l'orage qui s'élève. »"
+    },
+    {
+      "chapter": 37,
+      "verse": 1,
+      "text": "« Oui, à cause de cela mon cœur tremble, et bondit hors de sa place."
+    },
+    {
+      "chapter": 37,
+      "verse": 2,
+      "text": "Écoutez, écoutez le grondement de sa voix, le son qui sort de sa bouche."
+    },
+    {
+      "chapter": 37,
+      "verse": 3,
+      "text": "Il le déploie sous le ciel tout entier, et ses éclairs jusqu'aux extrémités de la terre."
+    },
+    {
+      "chapter": 37,
+      "verse": 4,
+      "text": "Après lui rugit une voix ; il tonne de sa voix majestueuse. Il ne retient rien lorsque sa voix retentit."
+    },
+    {
+      "chapter": 37,
+      "verse": 5,
+      "text": "Dieu fait merveilleusement retentir son tonnerre ; il fait de grandes choses que nous ne pouvons comprendre."
+    },
+    {
+      "chapter": 37,
+      "verse": 6,
+      "text": "Car il dit à la neige : ‹ Tombe sur la terre ›, de même à l'averse, ainsi qu'aux puissantes averses de pluie."
+    },
+    {
+      "chapter": 37,
+      "verse": 7,
+      "text": "Il interrompt le travail de tous les hommes, afin que tous les hommes qu'il a créés reconnaissent son œuvre."
+    },
+    {
+      "chapter": 37,
+      "verse": 8,
+      "text": "Alors les bêtes sauvages se mettent à l'abri, et demeurent dans leurs tanières."
+    },
+    {
+      "chapter": 37,
+      "verse": 9,
+      "text": "De sa demeure vient l'ouragan, et le froid vient des vents du nord."
+    },
+    {
+      "chapter": 37,
+      "verse": 10,
+      "text": "Par le souffle de Dieu se forme la glace, et la vaste étendue des eaux se fige."
+    },
+    {
+      "chapter": 37,
+      "verse": 11,
+      "text": "Oui, il charge d'humidité l'épais nuage, il disperse les nuées que traversent ses éclairs."
+    },
+    {
+      "chapter": 37,
+      "verse": 12,
+      "text": "Ceux-ci tournoient sous sa direction, pour accomplir tout ce qu'il leur ordonne sur la face de la terre habitée,"
+    },
+    {
+      "chapter": 37,
+      "verse": 13,
+      "text": "que ce soit pour un châtiment, ou pour sa terre, ou par amour fidèle, qu'il les fait venir."
+    },
+    {
+      "chapter": 37,
+      "verse": 14,
+      "text": "« Écoute ceci, Job. Arrête-toi, et considère les œuvres merveilleuses de Dieu."
+    },
+    {
+      "chapter": 37,
+      "verse": 15,
+      "text": "Sais-tu comment Dieu les dirige, et fait briller l'éclair de sa nuée ?"
+    },
+    {
+      "chapter": 37,
+      "verse": 16,
+      "text": "Comprends-tu l'équilibre des nuages, les œuvres merveilleuses de celui dont la connaissance est parfaite ?"
+    },
+    {
+      "chapter": 37,
+      "verse": 17,
+      "text": "Toi dont les vêtements sont chauds quand la terre est immobile sous le vent du sud ?"
+    },
+    {
+      "chapter": 37,
+      "verse": 18,
+      "text": "Peux-tu, avec lui, étendre la voûte du ciel, aussi solide qu'un miroir de métal fondu ?"
+    },
+    {
+      "chapter": 37,
+      "verse": 19,
+      "text": "Enseigne-nous ce que nous pourrions lui dire, car nous ne pouvons formuler notre cause en raison des ténèbres."
+    },
+    {
+      "chapter": 37,
+      "verse": 20,
+      "text": "Lui annoncera-t-on que je veux parler ? Ou un homme souhaiterait-il être englouti ?"
+    },
+    {
+      "chapter": 37,
+      "verse": 21,
+      "text": "À présent, on ne peut regarder la lumière qui brille dans les cieux, après que le vent est passé et les a balayés."
+    },
+    {
+      "chapter": 37,
+      "verse": 22,
+      "text": "Du nord vient une splendeur dorée. Dieu est revêtu d'une majesté redoutable."
+    },
+    {
+      "chapter": 37,
+      "verse": 23,
+      "text": "Nous ne pouvons atteindre le Tout-Puissant. Il est élevé en puissance. Riche en équité et en grande justice, il n'opprime personne."
+    },
+    {
+      "chapter": 37,
+      "verse": 24,
+      "text": "C'est pourquoi les hommes le révèrent. Il ne se laisse impressionner par aucun de ceux qui se croient sages. »"
+    },
+    {
+      "chapter": 38,
+      "verse": 1,
+      "text": "Alors le SEIGNEUR répondit à Job du milieu du tourbillon :"
+    },
+    {
+      "chapter": 38,
+      "verse": 2,
+      "text": "« Qui est celui qui obscurcit mes desseins par des propos sans connaissance ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 3,
+      "text": "Tiens-toi prêt comme un homme, car je t'interrogerai, et tu me répondras !"
+    },
+    {
+      "chapter": 38,
+      "verse": 4,
+      "text": "« Où étais-tu quand j'ai fondé la terre ? Déclare-le, si tu as de l'intelligence."
+    },
+    {
+      "chapter": 38,
+      "verse": 5,
+      "text": "Qui en a fixé les dimensions, si tu le sais ? Ou qui a tendu le cordeau sur elle ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 6,
+      "text": "Sur quoi ses bases sont-elles appuyées ? Ou qui en a posé la pierre angulaire,"
+    },
+    {
+      "chapter": 38,
+      "verse": 7,
+      "text": "quand les étoiles du matin chantaient en chœur, et que tous les fils de Dieu poussaient des cris de joie ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 8,
+      "text": "« Ou qui a enfermé la mer par des portes, quand elle a jailli du sein maternel,"
+    },
+    {
+      "chapter": 38,
+      "verse": 9,
+      "text": "quand j'ai fait des nuages son vêtement, et que je l'ai enveloppée d'épaisses ténèbres,"
+    },
+    {
+      "chapter": 38,
+      "verse": 10,
+      "text": "quand je lui ai imposé ma limite, et que je lui ai mis des verrous et des portes,"
+    },
+    {
+      "chapter": 38,
+      "verse": 11,
+      "text": "et que j'ai dit : ‹ Tu viendras jusqu'ici, tu n'iras pas plus loin. Ici s'arrêtera l'orgueil de tes flots › ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 12,
+      "text": "« Depuis que tu existes, as-tu commandé au matin, et as-tu montré sa place à l'aurore,"
+    },
+    {
+      "chapter": 38,
+      "verse": 13,
+      "text": "pour qu'elle saisisse les extrémités de la terre, et que les méchants en soient secoués ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 14,
+      "text": "Elle prend forme comme l'argile sous un sceau, et se pare comme d'un vêtement."
+    },
+    {
+      "chapter": 38,
+      "verse": 15,
+      "text": "Les méchants sont privés de leur lumière, et le bras qui se lève est brisé."
+    },
+    {
+      "chapter": 38,
+      "verse": 16,
+      "text": "« Es-tu parvenu jusqu'aux sources de la mer ? Ou t'es-tu promené dans les profondeurs de l'abîme ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 17,
+      "text": "Les portes de la mort t'ont-elles été révélées ? Ou as-tu vu les portes de l'ombre de la mort ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 18,
+      "text": "As-tu embrassé du regard l'étendue de la terre ? Déclare-le, si tu sais tout cela."
+    },
+    {
+      "chapter": 38,
+      "verse": 19,
+      "text": "« Quel est le chemin vers la demeure de la lumière ? Et quant aux ténèbres, où est leur place,"
+    },
+    {
+      "chapter": 38,
+      "verse": 20,
+      "text": "afin que tu conduises chacune à sa limite, et que tu discernes les sentiers de sa demeure ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 21,
+      "text": "Tu le sais sans doute, car tu étais déjà né, et le nombre de tes jours est grand !"
+    },
+    {
+      "chapter": 38,
+      "verse": 22,
+      "text": "As-tu pénétré dans les réserves de la neige, ou as-tu vu les dépôts de la grêle,"
+    },
+    {
+      "chapter": 38,
+      "verse": 23,
+      "text": "que je tiens en réserve pour les temps de détresse, pour les jours de bataille et de guerre ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 24,
+      "text": "Par quel chemin l'éclair se diffuse-t-il, et le vent d'est se disperse-t-il sur la terre ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 25,
+      "text": "Qui a creusé un canal pour les torrents de pluie, ou tracé la voie pour l'éclair et le tonnerre,"
+    },
+    {
+      "chapter": 38,
+      "verse": 26,
+      "text": "pour faire pleuvoir sur une terre sans hommes, sur le désert où il n'y a pas d'être humain,"
+    },
+    {
+      "chapter": 38,
+      "verse": 27,
+      "text": "pour abreuver les solitudes arides, et faire germer l'herbe tendre ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 28,
+      "text": "La pluie a-t-elle un père ? Ou qui engendre les gouttes de rosée ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 29,
+      "text": "De quel sein la glace est-elle sortie ? Et qui a donné naissance au givre du ciel ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 30,
+      "text": "Les eaux se figent comme la pierre, et la surface de l'abîme se gèle."
+    },
+    {
+      "chapter": 38,
+      "verse": 31,
+      "text": "« Peux-tu nouer les liens des Pléiades, ou détacher les cordages d'Orion ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 32,
+      "text": "Fais-tu paraître les constellations en leur saison ? Ou peux-tu guider la Grande Ourse avec ses petits ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 33,
+      "text": "Connais-tu les lois du ciel ? Peux-tu établir son empire sur la terre ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 34,
+      "text": "« Peux-tu élever ta voix jusqu'aux nuages, pour que des torrents d'eau te recouvrent ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 35,
+      "text": "Peux-tu lancer les éclairs, pour qu'ils partent ? Te disent-ils : ‹ Nous voici › ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 36,
+      "text": "Qui a mis la sagesse dans le cœur ? Ou qui a donné l'intelligence à l'esprit ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 37,
+      "text": "Qui peut compter les nuages avec sagesse ? Ou qui peut incliner les outres du ciel,"
+    },
+    {
+      "chapter": 38,
+      "verse": 38,
+      "text": "quand la poussière se fond en une masse, et que les mottes de terre s'agglutinent ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 39,
+      "text": "« Est-ce toi qui chasses la proie pour la lionne, ou qui apaises la faim des lionceaux,"
+    },
+    {
+      "chapter": 38,
+      "verse": 40,
+      "text": "quand ils sont accroupis dans leurs tanières, et qu'ils se tiennent en embuscade dans les fourrés ?"
+    },
+    {
+      "chapter": 38,
+      "verse": 41,
+      "text": "Qui prépare au corbeau sa pâture, quand ses petits crient vers Dieu, et qu'ils errent par manque de nourriture ?"
+    },
+    {
+      "chapter": 39,
+      "verse": 1,
+      "text": "« Sais-tu quand les chèvres sauvages mettent bas ? Observes-tu les biches quand elles faonnent ?"
+    },
+    {
+      "chapter": 39,
+      "verse": 2,
+      "text": "Peux-tu compter les mois qu'elles doivent accomplir ? Ou sais-tu à quel moment elles mettent bas ?"
+    },
+    {
+      "chapter": 39,
+      "verse": 3,
+      "text": "Elles s'accroupissent. Elles délivrent leurs petits. Elles mettent fin à leurs douleurs."
+    },
+    {
+      "chapter": 39,
+      "verse": 4,
+      "text": "Leurs petits prennent de la force. Ils grandissent en plein champ. Ils s'éloignent, et ne reviennent plus."
+    },
+    {
+      "chapter": 39,
+      "verse": 5,
+      "text": "« Qui a rendu la liberté à l'âne sauvage ? Ou qui a détaché les liens de l'onagre,"
+    },
+    {
+      "chapter": 39,
+      "verse": 6,
+      "text": "auquel j'ai donné le désert pour maison, et la terre salée pour demeure ?"
+    },
+    {
+      "chapter": 39,
+      "verse": 7,
+      "text": "Il se moque du tumulte de la ville, il n'entend pas les cris du conducteur."
+    },
+    {
+      "chapter": 39,
+      "verse": 8,
+      "text": "Il explore les montagnes pour son pâturage. Il cherche la moindre verdure."
+    },
+    {
+      "chapter": 39,
+      "verse": 9,
+      "text": "« Le bœuf sauvage consentira-t-il à te servir ? Ou passera-t-il la nuit près de ta mangeoire ?"
+    },
+    {
+      "chapter": 39,
+      "verse": 10,
+      "text": "Peux-tu maintenir le bœuf sauvage dans le sillon avec son harnais ? Ou hersera-t-il les vallées derrière toi ?"
+    },
+    {
+      "chapter": 39,
+      "verse": 11,
+      "text": "Te fieras-tu à lui, parce que sa force est grande ? Ou lui abandonneras-tu ton travail ?"
+    },
+    {
+      "chapter": 39,
+      "verse": 12,
+      "text": "Compteras-tu sur lui pour ramener ta récolte, et pour amasser le grain dans ton aire de battage ?"
+    },
+    {
+      "chapter": 39,
+      "verse": 13,
+      "text": "« Les ailes de l'autruche battent fièrement, mais son plumage exprime-t-il la tendresse maternelle ?"
+    },
+    {
+      "chapter": 39,
+      "verse": 14,
+      "text": "Car elle abandonne ses œufs sur la terre, et les laisse chauffer dans la poussière,"
+    },
+    {
+      "chapter": 39,
+      "verse": 15,
+      "text": "oubliant qu'un pied pourrait les écraser, ou qu'une bête sauvage pourrait les piétiner."
+    },
+    {
+      "chapter": 39,
+      "verse": 16,
+      "text": "Elle traite durement ses petits, comme s'ils n'étaient pas à elle. Bien que sa peine soit vaine, elle est sans crainte,"
+    },
+    {
+      "chapter": 39,
+      "verse": 17,
+      "text": "car Dieu l'a privée de sagesse, et il ne lui a pas donné d'intelligence en partage."
+    },
+    {
+      "chapter": 39,
+      "verse": 18,
+      "text": "Quand elle se dresse de toute sa hauteur, elle se rit du cheval et de son cavalier."
+    },
+    {
+      "chapter": 39,
+      "verse": 19,
+      "text": "« Est-ce toi qui as donné la force au cheval ? Est-ce toi qui as revêtu son cou d'une crinière frémissante ?"
+    },
+    {
+      "chapter": 39,
+      "verse": 20,
+      "text": "L'as-tu fait bondir comme un criquet ? Son puissant renâclement inspire la terreur."
+    },
+    {
+      "chapter": 39,
+      "verse": 21,
+      "text": "Il creuse le sol de la vallée, et exulte de sa force. Il s'élance à la rencontre des hommes armés."
+    },
+    {
+      "chapter": 39,
+      "verse": 22,
+      "text": "Il se moque de la peur, et ne s'effraie de rien, il ne recule pas devant l'épée."
+    },
+    {
+      "chapter": 39,
+      "verse": 23,
+      "text": "Sur lui résonne le carquois, l'étincelante lance et le javelot."
+    },
+    {
+      "chapter": 39,
+      "verse": 24,
+      "text": "Avec fougue et fureur, il dévore la terre, il ne tient plus en place quand sonne la trompette."
+    },
+    {
+      "chapter": 39,
+      "verse": 25,
+      "text": "À chaque sonnerie de trompette, il hennit : ‹ Ah ! › De loin, il flaire la bataille, la voix tonnante des chefs et les cris de guerre."
+    },
+    {
+      "chapter": 39,
+      "verse": 26,
+      "text": "« Est-ce par ta sagesse que le faucon prend son vol, et qu'il déploie ses ailes vers le sud ?"
+    },
+    {
+      "chapter": 39,
+      "verse": 27,
+      "text": "Est-ce sur ton ordre que l'aigle s'élève, et qu'il place son nid sur les hauteurs ?"
+    },
+    {
+      "chapter": 39,
+      "verse": 28,
+      "text": "Il habite sur les rochers et y fait sa demeure, sur la pointe du rocher et la forteresse."
+    },
+    {
+      "chapter": 39,
+      "verse": 29,
+      "text": "De là, il guette sa proie. Ses yeux l'aperçoivent de loin."
+    },
+    {
+      "chapter": 39,
+      "verse": 30,
+      "text": "Ses petits aussi s'abreuvent de sang. Là où sont les cadavres, il est là. »"
+    },
+    {
+      "chapter": 40,
+      "verse": 1,
+      "text": "Le SEIGNEUR répondit encore à Job :"
+    },
+    {
+      "chapter": 40,
+      "verse": 2,
+      "text": "« Celui qui conteste le Tout-Puissant veut-il encore plaider ? Que celui qui reprend Dieu lui réponde. »"
+    },
+    {
+      "chapter": 40,
+      "verse": 3,
+      "text": "Alors Job répondit au SEIGNEUR :"
+    },
+    {
+      "chapter": 40,
+      "verse": 4,
+      "text": "« Voici, je suis bien peu de chose. Que te répondrais-je ? Je mets ma main sur ma bouche."
+    },
+    {
+      "chapter": 40,
+      "verse": 5,
+      "text": "J'ai parlé une fois, et je ne répondrai plus ; oui, deux fois, mais je n'ajouterai rien. »"
+    },
+    {
+      "chapter": 40,
+      "verse": 6,
+      "text": "Alors le SEIGNEUR répondit à Job du milieu de la tempête :"
+    },
+    {
+      "chapter": 40,
+      "verse": 7,
+      "text": "« Prépare-toi maintenant comme un homme. Je vais t'interroger, et tu me répondras."
+    },
+    {
+      "chapter": 40,
+      "verse": 8,
+      "text": "Iras-tu jusqu'à annuler mon jugement ? Me condamneras-tu pour te justifier ?"
+    },
+    {
+      "chapter": 40,
+      "verse": 9,
+      "text": "Ou as-tu un bras comme celui de Dieu ? Peux-tu tonner avec une voix comme la sienne ?"
+    },
+    {
+      "chapter": 40,
+      "verse": 10,
+      "text": "« Pare-toi donc de splendeur et de dignité. Revêts-toi de gloire et de majesté."
+    },
+    {
+      "chapter": 40,
+      "verse": 11,
+      "text": "Déverse la fureur de ta colère. Regarde tout homme orgueilleux, et abaisse-le."
+    },
+    {
+      "chapter": 40,
+      "verse": 12,
+      "text": "Regarde tout homme orgueilleux, et humilie-le. Écrase les méchants sur place."
+    },
+    {
+      "chapter": 40,
+      "verse": 13,
+      "text": "Cache-les tous ensemble dans la poussière. Enferme leurs visages dans le séjour caché."
+    },
+    {
+      "chapter": 40,
+      "verse": 14,
+      "text": "Alors je reconnaîtrai devant toi que ta propre main droite peut te sauver."
+    },
+    {
+      "chapter": 40,
+      "verse": 15,
+      "text": "« Regarde donc le béhémoth, que j'ai fait tout comme toi. Il mange de l'herbe comme le bœuf."
+    },
+    {
+      "chapter": 40,
+      "verse": 16,
+      "text": "Regarde donc, sa force est dans ses reins. Sa vigueur est dans les muscles de son ventre."
+    },
+    {
+      "chapter": 40,
+      "verse": 17,
+      "text": "Il dresse sa queue comme un cèdre. Les nerfs de ses cuisses sont entrelacés."
+    },
+    {
+      "chapter": 40,
+      "verse": 18,
+      "text": "Ses os sont comme des tubes de bronze. Ses membres sont comme des barres de fer."
+    },
+    {
+      "chapter": 40,
+      "verse": 19,
+      "text": "Il est la première des œuvres de Dieu. Celui qui l'a fait l'a pourvu de son épée."
+    },
+    {
+      "chapter": 40,
+      "verse": 20,
+      "text": "Assurément, les montagnes produisent sa nourriture, là où s'ébattent tous les animaux des champs."
+    },
+    {
+      "chapter": 40,
+      "verse": 21,
+      "text": "Il se couche sous les lotus, à l'abri des roseaux du marais."
+    },
+    {
+      "chapter": 40,
+      "verse": 22,
+      "text": "Les lotus le couvrent de leur ombre. Les saules du torrent l'environnent."
+    },
+    {
+      "chapter": 40,
+      "verse": 23,
+      "text": "Voici, si un fleuve déborde, il ne tremble pas. Il reste confiant, même si le Jourdain se gonfle jusqu'à sa gueule."
+    },
+    {
+      "chapter": 40,
+      "verse": 24,
+      "text": "Le capturera-t-on pendant qu'il est sur ses gardes, ou lui percera-t-on le nez avec un piège ?"
+    },
+    {
+      "chapter": 41,
+      "verse": 1,
+      "text": "« Peux-tu tirer le Léviathan avec un hameçon, ou lui maintenir la langue avec une corde ?"
+    },
+    {
+      "chapter": 41,
+      "verse": 2,
+      "text": "Peux-tu lui passer une corde dans le nez, ou lui percer la mâchoire avec un crochet ?"
+    },
+    {
+      "chapter": 41,
+      "verse": 3,
+      "text": "T'adressera-t-il de nombreuses supplications, ou te parlera-t-il avec douceur ?"
+    },
+    {
+      "chapter": 41,
+      "verse": 4,
+      "text": "Conclura-t-il une alliance avec toi, pour que tu le prennes comme serviteur à toujours ?"
+    },
+    {
+      "chapter": 41,
+      "verse": 5,
+      "text": "Joueras-tu avec lui comme avec un oiseau ? Ou l'attacheras-tu pour tes jeunes filles ?"
+    },
+    {
+      "chapter": 41,
+      "verse": 6,
+      "text": "Les marchands feront-ils de lui un objet d'échange ? Le partageront-ils entre les négociants ?"
+    },
+    {
+      "chapter": 41,
+      "verse": 7,
+      "text": "Peux-tu cribler sa peau de harpons, ou sa tête de lances de pêcheur ?"
+    },
+    {
+      "chapter": 41,
+      "verse": 8,
+      "text": "Pose ta main sur lui. Souviens-toi du combat, et tu ne recommenceras plus."
+    },
+    {
+      "chapter": 41,
+      "verse": 9,
+      "text": "Voici, l'espoir de le maîtriser est vain. Ne serait-on pas terrassé rien qu'à sa vue ?"
+    },
+    {
+      "chapter": 41,
+      "verse": 10,
+      "text": "Nul n'est assez audacieux pour oser le réveiller. Qui donc pourrait se tenir devant moi ?"
+    },
+    {
+      "chapter": 41,
+      "verse": 11,
+      "text": "Qui m'a donné le premier, pour que j'aie à lui rendre quoi que ce soit ? Tout ce qui est sous le ciel m'appartient."
+    },
+    {
+      "chapter": 41,
+      "verse": 12,
+      "text": "Je ne garderai pas le silence sur ses membres, ni sur sa grande force, ni sur la beauté de sa stature."
+    },
+    {
+      "chapter": 41,
+      "verse": 13,
+      "text": "Qui peut arracher son vêtement extérieur ? Qui s'aventurera entre les rangées de ses mâchoires ?"
+    },
+    {
+      "chapter": 41,
+      "verse": 14,
+      "text": "Qui peut ouvrir les portes de sa gueule ? Autour de ses dents règne la terreur."
+    },
+    {
+      "chapter": 41,
+      "verse": 15,
+      "text": "Ses puissantes écailles font sa fierté, imbriquées et hermétiquement scellées."
+    },
+    {
+      "chapter": 41,
+      "verse": 16,
+      "text": "Elles sont si proches l'une de l'autre, que l'air ne peut passer entre elles."
+    },
+    {
+      "chapter": 41,
+      "verse": 17,
+      "text": "Elles sont reliées les unes aux autres. Elles s'emboîtent, de sorte qu'on ne peut les séparer."
+    },
+    {
+      "chapter": 41,
+      "verse": 18,
+      "text": "Ses éternuements font jaillir la lumière. Ses yeux sont comme les paupières de l'aurore."
+    },
+    {
+      "chapter": 41,
+      "verse": 19,
+      "text": "De sa gueule jaillissent des torches enflammées. Des étincelles de feu s'en échappent."
+    },
+    {
+      "chapter": 41,
+      "verse": 20,
+      "text": "De ses narines sort une fumée, comme d'une marmite bouillante sur un feu de roseaux."
+    },
+    {
+      "chapter": 41,
+      "verse": 21,
+      "text": "Son souffle embrase les charbons. Une flamme sort de sa gueule."
+    },
+    {
+      "chapter": 41,
+      "verse": 22,
+      "text": "La force réside dans son cou. La terreur bondit devant lui."
+    },
+    {
+      "chapter": 41,
+      "verse": 23,
+      "text": "Les replis de sa chair sont soudés ensemble. Ils sont fermement fixés sur lui et ne peuvent être ébranlés."
+    },
+    {
+      "chapter": 41,
+      "verse": 24,
+      "text": "Son cœur est dur comme la pierre, oui, dur comme la meule inférieure."
+    },
+    {
+      "chapter": 41,
+      "verse": 25,
+      "text": "Quand il se dresse, les puissants sont terrifiés. Ils reculent devant ses assauts."
+    },
+    {
+      "chapter": 41,
+      "verse": 26,
+      "text": "Si on l'attaque avec l'épée, elle ne peut triompher ; ni la lance, ni le javelot, ni la flèche."
+    },
+    {
+      "chapter": 41,
+      "verse": 27,
+      "text": "Il considère le fer comme de la paille, et le bronze comme du bois pourri."
+    },
+    {
+      "chapter": 41,
+      "verse": 28,
+      "text": "La flèche ne le fait pas fuir. Les pierres de la fronde sont pour lui comme de la balle."
+    },
+    {
+      "chapter": 41,
+      "verse": 29,
+      "text": "Il tient les massues pour du chaume. Il se rit du sifflement du javelot."
+    },
+    {
+      "chapter": 41,
+      "verse": 30,
+      "text": "Son ventre est garni de tessons pointus, il laisse une trace dans la boue comme un traîneau à dépiquer."
+    },
+    {
+      "chapter": 41,
+      "verse": 31,
+      "text": "Il fait bouillir l'abîme comme une marmite. Il fait de la mer un chaudron de parfum."
+    },
+    {
+      "chapter": 41,
+      "verse": 32,
+      "text": "Il laisse un sillage lumineux derrière lui. On croirait que l'abîme a des cheveux blancs."
+    },
+    {
+      "chapter": 41,
+      "verse": 33,
+      "text": "Sur la terre, il n'a pas son pareil, lui qui a été créé sans crainte."
+    },
+    {
+      "chapter": 41,
+      "verse": 34,
+      "text": "Il regarde en face tout ce qui est élevé. Il est le roi de tous les fils de l'orgueil. »"
+    },
+    {
+      "chapter": 42,
+      "verse": 1,
+      "text": "Alors Job répondit au SEIGNEUR :"
+    },
+    {
+      "chapter": 42,
+      "verse": 2,
+      "text": "« Je sais que tu peux tout, et qu'aucun de tes desseins ne peut être contrarié."
+    },
+    {
+      "chapter": 42,
+      "verse": 3,
+      "text": "Tu as dit : ‹ Qui est celui qui obscurcit mes desseins sans intelligence ? › Oui, j'ai parlé de ce que je ne comprenais pas, de choses trop merveilleuses pour moi, que je ne connaissais pas."
+    },
+    {
+      "chapter": 42,
+      "verse": 4,
+      "text": "Tu as dit : ‹ Écoute maintenant, et je parlerai ; je t'interrogerai, et tu me répondras. ›"
+    },
+    {
+      "chapter": 42,
+      "verse": 5,
+      "text": "Mon oreille avait entendu parler de toi, mais maintenant mon œil te voit."
+    },
+    {
+      "chapter": 42,
+      "verse": 6,
+      "text": "C'est pourquoi je me méprise, et je me repens dans la poussière et la cendre. »"
+    },
+    {
+      "chapter": 42,
+      "verse": 7,
+      "text": "Après que le SEIGNEUR eut adressé ces paroles à Job, le SEIGNEUR dit à Éliphaz le Témanite : « Ma colère est enflammée contre toi et contre tes deux amis, car vous n'avez pas parlé de moi avec droiture, comme l'a fait mon serviteur Job."
+    },
+    {
+      "chapter": 42,
+      "verse": 8,
+      "text": "Prenez donc maintenant sept taureaux et sept béliers, allez vers mon serviteur Job, et offrez un holocauste pour vous-mêmes. Mon serviteur Job priera pour vous, car c'est lui que j'exaucerai afin de ne pas vous traiter selon votre folie. En effet, vous n'avez pas parlé de moi avec droiture, comme l'a fait mon serviteur Job. »"
+    },
+    {
+      "chapter": 42,
+      "verse": 9,
+      "text": "Alors Éliphaz le Témanite, Bildad le Shuhite et Tsophar le Naamathite s'en allèrent et firent ce que le SEIGNEUR leur avait ordonné, et le SEIGNEUR accueillit favorablement Job."
+    },
+    {
+      "chapter": 42,
+      "verse": 10,
+      "text": "Le SEIGNEUR rétablit la prospérité de Job lorsqu'il eut prié pour ses amis. Le SEIGNEUR lui accorda le double de tout ce qu'il possédait auparavant."
+    },
+    {
+      "chapter": 42,
+      "verse": 11,
+      "text": "Alors tous ses frères, toutes ses sœurs, et toutes ses anciennes connaissances vinrent vers lui et mangèrent le pain avec lui dans sa maison. Ils le plaignirent et le consolèrent de tous les malheurs que le SEIGNEUR avait fait venir sur lui. Chacun lui donna une pièce de monnaie et un anneau d'or."
+    },
+    {
+      "chapter": 42,
+      "verse": 12,
+      "text": "Ainsi, le SEIGNEUR bénit la dernière partie de la vie de Job plus que la première. Il posséda quatorze mille brebis, six mille chameaux, mille paires de bœufs et mille ânesses."
+    },
+    {
+      "chapter": 42,
+      "verse": 13,
+      "text": "Il eut aussi sept fils et trois filles."
+    },
+    {
+      "chapter": 42,
+      "verse": 14,
+      "text": "Il donna à la première le nom de Jémima, à la deuxième celui de Ketsia, et à la troisième celui de Kéren-Happuc."
+    },
+    {
+      "chapter": 42,
+      "verse": 15,
+      "text": "Dans tout le pays, on ne trouvait pas de femmes aussi belles que les filles de Job. Leur père leur accorda un héritage parmi leurs frères."
+    },
+    {
+      "chapter": 42,
+      "verse": 16,
+      "text": "Après cela, Job vécut cent quarante ans, et il vit ses fils, et les fils de ses fils, jusqu'à la quatrième génération."
+    },
+    {
+      "chapter": 42,
+      "verse": 17,
+      "text": "Puis Job mourut, âgé, après une longue vie comblée."
+    }
+  ]
+}

@@ -78,15 +78,20 @@ def find_book_prefix(main_div: Tag) -> str | None:
     prefix "S"/chapter 11, or prefix "S1"/chapter 1?). Resolved by using
     the one id we can be sure of: the very first verse span in the book is
     always chapter 1, verse 1, so whatever precedes a trailing "1_1" in
-    its id is the real prefix.
+    its id is the real prefix. That first verse can itself be bridged with
+    the next one (e.g. id="GL1_1-2" for a translation that combines
+    Galatians 1:1-2 into one span), so the trailing verse number is
+    matched with an optional "-N" bridge suffix rather than requiring an
+    exact "1_1" match.
     """
     first_verse = main_div.find("span", class_="verse")
     if first_verse is None:
         return None
     first_id = first_verse.get("id", "")
-    if not first_id.endswith("1_1"):
+    m = re.match(r"^(.*)1_1(?:-\d+)?$", first_id)
+    if m is None:
         return None
-    return first_id[: -len("1_1")]
+    return m.group(1)
 
 
 class BookExtractor:

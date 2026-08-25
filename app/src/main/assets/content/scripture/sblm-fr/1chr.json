@@ -1,0 +1,4721 @@
+{
+  "translation_id": "sblm-fr",
+  "book_id": "1chr",
+  "language": "fr",
+  "license": "public-domain",
+  "source": "eBible.org Sainte Bible libre pour le monde",
+  "verified": true,
+  "note": "Imported via tools/import_epub.py from the eBible.org 'Sainte Bible libre pour le monde' epub the user supplied. eBible.org flags this as a draft translation, still being proofread/edited as of 2026-08-21.",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Adam, Seth, Énosh,"
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Kénan, Mahalaleel, Jéred,"
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Hénoc, Metuschélah, Lémec,"
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Noé, Sem, Cham, et Japhet."
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Les fils de Japhet : Gomer, Magog, Madaï, Javan, Tubal, Méschec, et Tiras."
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Les fils de Gomer : Aschkenaz, Diphath, et Togarma."
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Les fils de Javan : Élischa, Tarsis, Kittim, et Rodanim."
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Les fils de Cham : Cusch, Mitsraïm, Puth, et Canaan."
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Les fils de Cusch : Saba, Havila, Sabta, Raema, Sabteca. Les fils de Raema : Séba et Dedan."
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Cusch engendra Nimrod. Il commença à se distinguer comme un homme puissant sur la terre."
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Mitsraïm engendra les Ludim, les Anamim, les Lehabim, les Naphtuhim,"
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "les Pathrusim, les Casluhim (d’où sont sortis les Philistins), et les Caphtorim."
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Canaan engendra Sidon, son premier-né, et Heth,"
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "le Jébusien, l’Amoréen, le Guirgasien,"
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "le Hivien, l’Arkien, le Sinien,"
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "l’Arvadien, le Tsemarien, et le Hamathien."
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Les fils de Sem : Élam, Assur, Arpacschad, Lud, Aram, Uts, Hul, Géther, et Méschec."
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Arpacschad engendra Schélah, et Schélah engendra Héber."
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Il naquit à Héber deux fils : le nom de l’un était Péleg, car de son temps la terre fut partagée ; et le nom de son frère était Jokthan."
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Jokthan engendra Almodad, Schéleph, Hatsarmaveth, Jérah,"
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Hadoram, Uzal, Dikla,"
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Ébal, Abimaël, Séba,"
+    },
+    {
+      "chapter": 1,
+      "verse": 23,
+      "text": "Ophir, Havila, et Jobab. Tous ceux-là furent les fils de Jokthan."
+    },
+    {
+      "chapter": 1,
+      "verse": 24,
+      "text": "Sem, Arpacschad, Schélah,"
+    },
+    {
+      "chapter": 1,
+      "verse": 25,
+      "text": "Héber, Péleg, Rehu,"
+    },
+    {
+      "chapter": 1,
+      "verse": 26,
+      "text": "Serug, Nachor, Térach,"
+    },
+    {
+      "chapter": 1,
+      "verse": 27,
+      "text": "Abram (aussi appelé Abraham)."
+    },
+    {
+      "chapter": 1,
+      "verse": 28,
+      "text": "Les fils d’Abraham : Isaac et Ismaël."
+    },
+    {
+      "chapter": 1,
+      "verse": 29,
+      "text": "Voici leur descendance : Nebajoth, premier-né d’Ismaël ; puis Kédar, Adbeel, Mibsam,"
+    },
+    {
+      "chapter": 1,
+      "verse": 30,
+      "text": "Mischma, Duma, Massa, Hadad, Théma,"
+    },
+    {
+      "chapter": 1,
+      "verse": 31,
+      "text": "Jethur, Naphisch, et Kedma. Ce sont là les fils d’Ismaël."
+    },
+    {
+      "chapter": 1,
+      "verse": 32,
+      "text": "Les fils de Ketura, la concubine d’Abraham : elle enfanta Zimran, Jokschan, Medan, Madian, Jischbak, et Schuach. Les fils de Jokschan : Séba et Dedan."
+    },
+    {
+      "chapter": 1,
+      "verse": 33,
+      "text": "Les fils de Madian : Épha, Épher, Hénoc, Abida, et Eldaa. Tous ceux-là furent les fils de Ketura."
+    },
+    {
+      "chapter": 1,
+      "verse": 34,
+      "text": "Abraham engendra Isaac. Les fils d’Isaac : Ésaü et Israël."
+    },
+    {
+      "chapter": 1,
+      "verse": 35,
+      "text": "Les fils d’Ésaü : Éliphaz, Reuel, Jeusch, Jaelam, et Koré."
+    },
+    {
+      "chapter": 1,
+      "verse": 36,
+      "text": "Les fils d’Éliphaz : Théman, Omar, Tséphi, Gaetham, Kenaz, Thimna, et Amalek."
+    },
+    {
+      "chapter": 1,
+      "verse": 37,
+      "text": "Les fils de Reuel : Nahath, Zérach, Schamma, et Mizza."
+    },
+    {
+      "chapter": 1,
+      "verse": 38,
+      "text": "Les fils de Séir : Lothan, Schobal, Tsibeon, Ana, Dischon, Étser, et Dischan."
+    },
+    {
+      "chapter": 1,
+      "verse": 39,
+      "text": "Les fils de Lothan : Hori et Homam ; et la sœur de Lothan était Thimna."
+    },
+    {
+      "chapter": 1,
+      "verse": 40,
+      "text": "Les fils de Schobal : Alian, Manahath, Ébal, Schéphi, et Onam. Les fils de Tsibeon : Ajja et Ana."
+    },
+    {
+      "chapter": 1,
+      "verse": 41,
+      "text": "Le fils d’Ana : Dischon. Les fils de Dischon : Hamran, Eschban, Jithran, et Keran."
+    },
+    {
+      "chapter": 1,
+      "verse": 42,
+      "text": "Les fils d’Étser : Bilhan, Zaavan, et Jaakan. Les fils de Dischan : Uts et Aran."
+    },
+    {
+      "chapter": 1,
+      "verse": 43,
+      "text": "Voici les rois qui régnèrent dans le pays d’Édom avant qu’un roi ne règne sur les enfants d’Israël : Béla, fils de Béor ; sa ville s’appelait Dinhaba."
+    },
+    {
+      "chapter": 1,
+      "verse": 44,
+      "text": "Béla mourut, et Jobab, fils de Zérach, de Botsra, régna à sa place."
+    },
+    {
+      "chapter": 1,
+      "verse": 45,
+      "text": "Jobab mourut, et Huscham, du pays des Thémanites, régna à sa place."
+    },
+    {
+      "chapter": 1,
+      "verse": 46,
+      "text": "Huscham mourut, et Hadad, fils de Bedad, qui battit Madian dans la campagne de Moab, régna à sa place ; sa ville s’appelait Avith."
+    },
+    {
+      "chapter": 1,
+      "verse": 47,
+      "text": "Hadad mourut, et Samla, de Masréka, régna à sa place."
+    },
+    {
+      "chapter": 1,
+      "verse": 48,
+      "text": "Samla mourut, et Saül, de Rehoboth sur le Fleuve, régna à sa place."
+    },
+    {
+      "chapter": 1,
+      "verse": 49,
+      "text": "Saül mourut, et Baal-Hanan, fils d’Acbor, régna à sa place."
+    },
+    {
+      "chapter": 1,
+      "verse": 50,
+      "text": "Baal-Hanan mourut, et Hadad régna à sa place ; et le nom de sa ville était Paï. Le nom de sa femme était Mehéthabeel, fille de Matred, fille de Mézahab."
+    },
+    {
+      "chapter": 1,
+      "verse": 51,
+      "text": "Après la mort d’Hadad, voici les chefs d’Édom : Thimna, Alia, Jetheth,"
+    },
+    {
+      "chapter": 1,
+      "verse": 52,
+      "text": "le chef Oholibama, le chef Éla, le chef Pinon,"
+    },
+    {
+      "chapter": 1,
+      "verse": 53,
+      "text": "le chef Kenaz, le chef Théman, le chef Mibtsar,"
+    },
+    {
+      "chapter": 1,
+      "verse": 54,
+      "text": "le chef Magdiel, et le chef Iram. Ce sont là les chefs d’Édom."
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Voici les fils d’Israël : Ruben, Siméon, Lévi, Juda, Issacar, Zabulon,"
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Dan, Joseph, Benjamin, Nephthali, Gad et Aser."
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Les fils de Juda : Er, Onan et Schéla ; ces trois lui naquirent de la fille de Schua, la Cananéenne. Er, le premier-né de Juda, faisait ce qui est mal aux yeux du SEIGNEUR ; et le SEIGNEUR le fit mourir."
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Tamar, sa belle-fille, lui enfanta Pérets et Zérach. Tous les fils de Juda furent au nombre de cinq."
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Les fils de Pérets : Hetsron et Hamul."
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Les fils de Zérach : Zimri, Éthan, Héman, Calcol et Dara, cinq en tout."
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Le fils de Carmi : Acar, qui troubla Israël en se rendant coupable d’infidélité concernant ce qui avait été voué à la destruction."
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Le fils d’Éthan : Azaria."
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Les fils qui naquirent à Hetsron : Jerachmeel, Ram et Kelubaï."
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Ram engendra Amminadab, et Amminadab engendra Nachschon, chef des descendants de Juda ;"
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "et Nachschon engendra Salma, et Salma engendra Boaz,"
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "et Boaz engendra Obed, et Obed engendra Isaï ;"
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "et Isaï engendra son premier-né Éliab, Abinadab le deuxième, Schimea le troisième,"
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Nethaneel le quatrième, Raddaï le cinquième,"
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Otsem le sixième, et David le septième ;"
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "et leurs sœurs étaient Tseruja et Abigaïl. Les fils de Tseruja : Abischaï, Joab et Asaël, trois."
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Abigaïl enfanta Amasa ; et le père d’Amasa était Jéther, l’Ismaélite."
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Caleb, fils de Hetsron, eut des enfants de sa femme Azuba, et de Jerioth ; et voici ses fils : Jéscher, Schobab et Ardon."
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Azuba mourut, et Caleb prit pour femme Éphrath, qui lui enfanta Hur."
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Hur engendra Uri, et Uri engendra Betsaleel."
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Ensuite, Hetsron s’unit à la fille de Makir, père de Galaad, qu’il prit pour femme à l’âge de soixante ans ; elle lui donna Segub."
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Segub engendra Jaïr, qui eut vingt-trois villes dans le pays de Galaad."
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Gueschur et Aram leur prirent les villages de Jaïr, ainsi que Kenath et les localités qui en dépendaient, soit soixante villes. Tous ceux-là étaient les fils de Makir, père de Galaad."
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "Après la mort de Hetsron à Caleb-Éphrata, Abija, femme de Hetsron, lui enfanta Aschchur, père de Tekoa."
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "Les fils de Jerachmeel, premier-né de Hetsron, furent Ram le premier-né, Buna, Oren, Otsem et Achija."
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "text": "Jerachmeel eut une autre femme, dont le nom était Atara ; elle fut la mère d’Onam."
+    },
+    {
+      "chapter": 2,
+      "verse": 27,
+      "text": "Les fils de Ram, premier-né de Jerachmeel, furent Maats, Jamin et Éker."
+    },
+    {
+      "chapter": 2,
+      "verse": 28,
+      "text": "Les fils d’Onam furent Schammaï et Jada. Les fils de Schammaï : Nadab et Abischur."
+    },
+    {
+      "chapter": 2,
+      "verse": 29,
+      "text": "Le nom de la femme d’Abischur était Abichaïl ; et elle lui enfanta Achban et Molid."
+    },
+    {
+      "chapter": 2,
+      "verse": 30,
+      "text": "Les fils de Nadab : Séled et Appaïm ; mais Séled mourut sans enfants."
+    },
+    {
+      "chapter": 2,
+      "verse": 31,
+      "text": "Le fils d’Appaïm : Jischeï. Le fils de Jischeï : Scheschan. Le fils de Scheschan : Achlaï."
+    },
+    {
+      "chapter": 2,
+      "verse": 32,
+      "text": "Les fils de Jada, frère de Schammaï : Jéther et Jonathan ; et Jéther mourut sans enfants."
+    },
+    {
+      "chapter": 2,
+      "verse": 33,
+      "text": "Les fils de Jonathan : Péleth et Zaza. Ce sont là les fils de Jerachmeel."
+    },
+    {
+      "chapter": 2,
+      "verse": 34,
+      "text": "Or, Scheschan n’eut pas de fils, mais seulement des filles. Scheschan avait un serviteur égyptien, dont le nom était Jarcha."
+    },
+    {
+      "chapter": 2,
+      "verse": 35,
+      "text": "Scheschan donna sa fille pour femme à Jarcha, son serviteur ; et elle lui enfanta Attaï."
+    },
+    {
+      "chapter": 2,
+      "verse": 36,
+      "text": "Attaï engendra Nathan, et Nathan engendra Zabad,"
+    },
+    {
+      "chapter": 2,
+      "verse": 37,
+      "text": "et Zabad engendra Éphlal, et Éphlal engendra Obed,"
+    },
+    {
+      "chapter": 2,
+      "verse": 38,
+      "text": "et Obed engendra Jéhu, et Jéhu engendra Azaria,"
+    },
+    {
+      "chapter": 2,
+      "verse": 39,
+      "text": "et Azaria engendra Hélets, et Hélets engendra Éleasa,"
+    },
+    {
+      "chapter": 2,
+      "verse": 40,
+      "text": "et Éleasa engendra Sismaï, et Sismaï engendra Schallum,"
+    },
+    {
+      "chapter": 2,
+      "verse": 41,
+      "text": "et Schallum engendra Jekamia, et Jekamia engendra Élischaama."
+    },
+    {
+      "chapter": 2,
+      "verse": 42,
+      "text": "Les fils de Caleb, frère de Jerachmeel, furent Méscha, son premier-né, qui fut le père de Ziph, et les fils de Maréscha, père d’Hébron."
+    },
+    {
+      "chapter": 2,
+      "verse": 43,
+      "text": "Les fils d’Hébron : Koré, Tappuach, Rékem et Schéma."
+    },
+    {
+      "chapter": 2,
+      "verse": 44,
+      "text": "Schéma engendra Racham, père de Jorkeam ; et Rékem engendra Schammaï."
+    },
+    {
+      "chapter": 2,
+      "verse": 45,
+      "text": "Le fils de Schammaï fut Maon ; et Maon fut le père de Beth-Tsur."
+    },
+    {
+      "chapter": 2,
+      "verse": 46,
+      "text": "Épha, concubine de Caleb, enfanta Haran, Motsa et Gazez ; et Haran engendra Gazez."
+    },
+    {
+      "chapter": 2,
+      "verse": 47,
+      "text": "Les fils de Jahdaï : Régem, Jotham, Gueschan, Péleth, Épha et Schaaph."
+    },
+    {
+      "chapter": 2,
+      "verse": 48,
+      "text": "Maaca, concubine de Caleb, enfanta Schéber et Tirchana."
+    },
+    {
+      "chapter": 2,
+      "verse": 49,
+      "text": "Elle enfanta aussi Schaaph, père de Madmanna, et Schéva, père de Macbéna et père de Guibea ; et la fille de Caleb était Acsa."
+    },
+    {
+      "chapter": 2,
+      "verse": 50,
+      "text": "Ce sont là les fils de Caleb, fils de Hur, premier-né d’Éphrata : Schobal, père de Kiriath-Jearim,"
+    },
+    {
+      "chapter": 2,
+      "verse": 51,
+      "text": "Salma, père de Bethléhem, et Hareph, père de Beth-Gader."
+    },
+    {
+      "chapter": 2,
+      "verse": 52,
+      "text": "Schobal, père de Kiriath-Jearim, eut des fils : Haroé, et la moitié des Menuchoth."
+    },
+    {
+      "chapter": 2,
+      "verse": 53,
+      "text": "Les familles de Kiriath-Jearim : les Jithriens, les Puthiens, les Schumathiens et les Mischraïens ; c’est d’eux que sont issus les Tsoreathiens et les Eschtaoliens."
+    },
+    {
+      "chapter": 2,
+      "verse": 54,
+      "text": "Les fils de Salma : Bethléhem, les Nethophathiens, Atroth-Beth-Joab, et la moitié des Manachathiens, les Tsoriens."
+    },
+    {
+      "chapter": 2,
+      "verse": 55,
+      "text": "Les familles des scribes qui habitaient à Jaebets : les Thireathiens, les Schimeathiens et les Sucathiens. Ce sont les Kéniens, issus de Hammath, père de la maison de Récab."
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Voici les fils de David qui lui naquirent à Hébron : le premier-né, Amnon, d’Achinoam la Jizreélite ; le deuxième, Daniel, d’Abigaïl la Carmélite ;"
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "le troisième, Absalom, fils de Maaca, fille de Talmaï, roi de Gueshur ; le quatrième, Adonija, fils de Haggith ;"
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "le cinquième, Shephatia, d’Abital ; le sixième, Jithréam, de sa femme Égla."
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Six lui naquirent à Hébron. Il y régna sept ans et six mois, et il régna trente-trois ans à Jérusalem."
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Voici ceux qui lui naquirent à Jérusalem : Shimea, Shobab, Nathan et Salomon, quatre, de Bath-Shua, fille d’Ammiel ;"
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "et Jibhar, Élishama, Éliphéleth,"
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Noga, Népheg, Japhia,"
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Élishama, Éliada et Éliphéleth, neuf."
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Ce sont là tous les fils de David, sans compter les fils des concubines ; et Tamar était leur sœur."
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Le fils de Salomon fut Roboam ; Abija, son fils ; Asa, son fils ; Josaphat, son fils ;"
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Joram, son fils ; Achazia, son fils ; Joas, son fils ;"
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Amatsia, son fils ; Azaria, son fils ; Jotham, son fils ;"
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Achaz, son fils ; Ézéchias, son fils ; Manassé, son fils ;"
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Amon, son fils ; et Josias, son fils."
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Les fils de Josias : le premier-né, Jochanan ; le deuxième, Jojakim ; le troisième, Sédécias ; et le quatrième, Shallum."
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Les fils de Jojakim : Jéconias, son fils, et Sédécias, son fils."
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Les fils de Jéconias, le déporté : Shealthiel, son fils,"
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Malkiram, Pedaja, Shénatsar, Jékamia, Hoshama et Nédabia."
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Les fils de Pedaja : Zorobabel et Shimeï. Les fils de Zorobabel : Meshullam et Hanania ; et Shelomith était leur sœur ;"
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "et Hashuba, Ohel, Bérékia, Hasadia et Jushab-Hésed, cinq."
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "Les fils de Hanania : Pelatia et Jeshaïa ; les fils de Rephaja, les fils d’Arnan, les fils d’Obadia, les fils de Shecania."
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "text": "Le fils de Shecania : Shemaja. Les fils de Shemaja : Hattush, Igal, Bariah, Néaria et Shaphat, six."
+    },
+    {
+      "chapter": 3,
+      "verse": 23,
+      "text": "Les fils de Néaria : Élioénaï, Hizkia et Azrikam, trois."
+    },
+    {
+      "chapter": 3,
+      "verse": 24,
+      "text": "Les fils d’Élioénaï : Hodavia, Éliashib, Pelaja, Akkub, Jochanan, Delaja et Anani, sept."
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Fils de Juda : Pérets, Hetsron, Carmi, Hur et Shobal."
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Reaja, fils de Shobal, engendra Jahath ; et Jahath engendra Ahumaï et Lahad. Ce sont les familles des Tsoreathiens."
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Voici les fils du père d’Étam : Jizréel, Jischma et Jidbasch. Le nom de leur sœur était Hatselelponi."
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Penuel était le père de Gedor, et Ézer le père de Huscha. Ce sont là les fils de Hur, le premier-né d’Éphrata, père de Bethléhem."
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Aschhur, père de Tekoa, eut deux femmes, Héla et Naara."
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Naara lui enfanta Ahuzzam, Hépher, Thémeni et Haahaschtari. Ce sont là les fils de Naara."
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Les fils de Héla : Tséreth, Tsochar et Ethnan."
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Kotz engendra Anub, Hatsobéba, et les familles d’Aharhel, fils de Harum."
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Jabets fut plus honoré que ses frères. Sa mère l’avait nommé Jabets, en disant : « Parce que je l’ai enfanté dans la douleur. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Jabets invoqua le Dieu d’Israël : « Oh ! Si tu me bénissais abondamment, et si tu étendais mes limites ! Que ta main soit avec moi, et préserve-moi du mal, afin que je ne cause pas de souffrance ! » Dieu lui accorda ce qu’il avait demandé."
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Kelub, frère de Shuha, engendra Méhir, qui fut le père d’Eshton."
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Eshton engendra Beth-Rapha, Paséach et Tehinna, père d’Ir-Nahasch. Ce sont là les hommes de Réca."
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Les fils de Kenaz : Othniel et Seraja. Les fils d’Othniel : Hathath."
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Meonothaï engendra Ophra ; et Seraja engendra Joab, père de Gué-Harashim, car ils étaient artisans."
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Les fils de Caleb, fils de Jephunné : Iru, Éla et Naam. Le fils d’Éla : Kenaz."
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Les fils de Jehalléleel : Ziph, Zipha, Tiria et Asareel."
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Les fils d’Esra : Jéther, Méred, Épher et Jalon. La femme de Méred enfanta Miriam, Shammaï, et Ishbah, père d’Eshtemoa."
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "Sa femme juive enfanta Jéred, père de Gedor, Héber, père de Soco, et Jekuthiel, père de Zanoach. Ce sont là les fils de Bithja, fille de Pharaon, que Méred avait prise pour femme."
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Les fils de la femme d’Hodija, sœur de Naham, furent les pères de Keïla le Garmite et d’Eshtemoa le Maacathien."
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "Les fils de Shimon : Amnon, Rinna, Ben-Hanan et Tilon. Les fils d’Ishi : Zoheth et Ben-Zoheth."
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "Les fils de Schéla, fils de Juda : Er, père de Léca, Laéda, père de Maréscha, et les familles de la maison de ceux qui travaillaient le fin lin, de la maison d’Aschbéa ;"
+    },
+    {
+      "chapter": 4,
+      "verse": 22,
+      "text": "et Jokim, et les hommes de Cozéba, et Joas, et Saraph, qui dominèrent sur Moab, et Jaschubi-Léhem. Ces registres sont anciens."
+    },
+    {
+      "chapter": 4,
+      "verse": 23,
+      "text": "C’étaient les potiers et les habitants de Netaïm et de Gédéra ; ils demeuraient là au service du roi."
+    },
+    {
+      "chapter": 4,
+      "verse": 24,
+      "text": "Les fils de Siméon : Nemuel, Jamin, Jarib, Zérach, Saül ;"
+    },
+    {
+      "chapter": 4,
+      "verse": 25,
+      "text": "Schallum, son fils ; Mibsam, son fils ; et Mischma, son fils."
+    },
+    {
+      "chapter": 4,
+      "verse": 26,
+      "text": "Les fils de Mischma : Hammuel, son fils ; Zaccur, son fils ; Shimeï, son fils."
+    },
+    {
+      "chapter": 4,
+      "verse": 27,
+      "text": "Shimeï eut seize fils et six filles. Ses frères n’eurent pas beaucoup d’enfants, et toute leur famille ne se multiplia pas autant que les fils de Juda."
+    },
+    {
+      "chapter": 4,
+      "verse": 28,
+      "text": "Ils habitaient à Beer-Shéba, à Molada, à Hatsar-Schual,"
+    },
+    {
+      "chapter": 4,
+      "verse": 29,
+      "text": "à Bilha, à Etsem, à Tholad,"
+    },
+    {
+      "chapter": 4,
+      "verse": 30,
+      "text": "à Bethuel, à Horma, à Tsiklag,"
+    },
+    {
+      "chapter": 4,
+      "verse": 31,
+      "text": "à Beth-Marcaboth, à Hatsar-Susim, à Beth-Bireï et à Schaaraïm. Ce furent là leurs villes jusqu’au règne de David."
+    },
+    {
+      "chapter": 4,
+      "verse": 32,
+      "text": "Leurs villages étaient Étam, Aïn, Rimmon, Thoken et Aschan, cinq villes ;"
+    },
+    {
+      "chapter": 4,
+      "verse": 33,
+      "text": "ainsi que tous les villages qui entouraient ces villes, jusqu’à Baal. Tels furent leurs lieux d’habitation, et ils tinrent leurs registres généalogiques."
+    },
+    {
+      "chapter": 4,
+      "verse": 34,
+      "text": "Meschobab, Jamlec, Joscha, fils d’Amatsia,"
+    },
+    {
+      "chapter": 4,
+      "verse": 35,
+      "text": "Joël, Jéhu, fils de Joschibia, fils de Seraja, fils d’Asiel,"
+    },
+    {
+      "chapter": 4,
+      "verse": 36,
+      "text": "Élioénaï, Jaakoba, Jeschochaja, Asaja, Adiel, Jesimiel, Benaja,"
+    },
+    {
+      "chapter": 4,
+      "verse": 37,
+      "text": "et Ziza, fils de Schiphi, fils d’Allon, fils de Jedaja, fils de Schimri, fils de Schemaeja ;"
+    },
+    {
+      "chapter": 4,
+      "verse": 38,
+      "text": "Ces hommes, désignés par leur nom, étaient les chefs de leurs familles, qui s’accrurent considérablement."
+    },
+    {
+      "chapter": 4,
+      "verse": 39,
+      "text": "Ils se rendirent à l’entrée de Gedor, jusqu’au côté oriental de la vallée, pour chercher des pâturages pour leurs troupeaux."
+    },
+    {
+      "chapter": 4,
+      "verse": 40,
+      "text": "Ils trouvèrent de gras et bons pâturages, et un pays vaste, tranquille et paisible, car ceux qui l’habitaient auparavant descendaient de Cham."
+    },
+    {
+      "chapter": 4,
+      "verse": 41,
+      "text": "Ces hommes, inscrits par leur nom, vinrent au temps d’Ézéchias, roi de Juda. Ils attaquèrent les campements et les Meuniens qui s’y trouvaient, les vouèrent à la destruction jusqu’à ce jour, puis s’établirent à leur place, car il y avait là des pâturages pour leurs troupeaux."
+    },
+    {
+      "chapter": 4,
+      "verse": 42,
+      "text": "Quelques-uns d’entre eux, parmi les fils de Siméon, cinq cents hommes, se rendirent à la montagne de Séir, ayant à leur tête Pelatia, Nearia, Rephaja et Uzziel, fils d’Ishi."
+    },
+    {
+      "chapter": 4,
+      "verse": 43,
+      "text": "Ils tuèrent le reste des Amalécites qui avaient échappé, et ils y habitent encore aujourd’hui."
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Ruben était le premier-né d’Israël. Toutefois, parce qu’il avait profané la couche de son père, son droit d’aînesse fut attribué aux fils de Joseph, fils d’Israël ; sa généalogie ne fut donc pas établie selon le droit d’aînesse."
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Juda l’emporta sur ses frères, et c’est de lui que vint le chef ; mais le droit d’aînesse appartenait à Joseph."
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Les fils de Ruben, le premier-né d’Israël, furent : Hénoc, Pallu, Hetsron et Carmi."
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Fils de Joël : Schemaeja son fils, Gog son fils, Schimeï son fils,"
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Michée son fils, Reaja son fils, Baal son fils,"
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "et Beéra, son fils, que Tilgath-Pilnéser, roi d’Assyrie, emmena en captivité. Il était chef des Rubénites."
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Ses frères, classés par familles dans les registres généalogiques, étaient Jeïel, le chef, et Zacharie,"
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "et Béla, fils d’Azaz, fils de Schéma, fils de Joël, qui habitait à Aroër, et jusqu’à Nebo et Baal-Meon ;"
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "à l’est, il habitait jusqu’à l’entrée du désert depuis le fleuve de l’Euphrate, car leurs troupeaux s’étaient multipliés dans le pays de Galaad."
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Aux jours de Saül, ils firent la guerre aux Hagaréniens, qui tombèrent par leur main ; et ils habitèrent dans leurs tentes sur toute la contrée à l’est de Galaad."
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Les fils de Gad habitaient vis-à-vis d’eux, dans le pays de Basan, jusqu’à Salca :"
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Joël le chef, Schapham le second, Jaenaï, et Schaphath en Basan."
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Leurs frères, classés selon leurs familles : Micaël, Meschullam, Schéba, Joraï, Jaecan, Zia et Eber, sept en tout."
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Ceux-ci étaient les fils d’Abichaïl, fils de Huri, fils de Jaroach, fils de Galaad, fils de Micaël, fils de Jeschischaï, fils de Jachdo, fils de Buz ;"
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "Achi, fils d’Abdiel, fils de Guni, était le chef de leur famille."
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Ils habitaient en Galaad, en Basan et dans ses villes, et dans tous les pâturages de Saron jusqu’à leurs confins."
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "Tous ceux-ci furent enregistrés dans les généalogies aux jours de Jotham, roi de Juda, et aux jours de Jéroboam, roi d’Israël."
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "text": "Les fils de Ruben, les Gadites et la demi-tribu de Manassé comptaient quarante-quatre mille sept cent soixante guerriers vaillants, capables de porter le bouclier et l’épée, de tirer à l’arc et entraînés au combat."
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "text": "Ils firent la guerre aux Hagaréniens, à Jethur, à Naphisch et à Nodab."
+    },
+    {
+      "chapter": 5,
+      "verse": 20,
+      "text": "Ils reçurent de l’aide contre eux, et les Hagaréniens furent livrés entre leurs mains, ainsi que tous ceux qui étaient avec eux ; car, pendant le combat, ils crièrent à Dieu, qui les exauça parce qu’ils avaient mis leur confiance en lui."
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "text": "Ils prirent leur bétail : cinquante mille chameaux, deux cent cinquante mille brebis, deux mille ânes et cent mille hommes."
+    },
+    {
+      "chapter": 5,
+      "verse": 22,
+      "text": "Car beaucoup tombèrent frappés à mort, parce que cette guerre venait de Dieu. Et ils habitèrent à leur place jusqu’à l’exil."
+    },
+    {
+      "chapter": 5,
+      "verse": 23,
+      "text": "Les enfants de la demi-tribu de Manassé habitèrent dans le pays. Ils se multiplièrent depuis Basan jusqu’à Baal-Hermon, à Senir et au mont Hermon."
+    },
+    {
+      "chapter": 5,
+      "verse": 24,
+      "text": "Voici les chefs de leurs familles : Épher, Jischeï, Éliel, Azriel, Jérémie, Hodavia et Jachdiel, guerriers vaillants et hommes de renom."
+    },
+    {
+      "chapter": 5,
+      "verse": 25,
+      "text": "Mais ils furent infidèles au Dieu de leurs pères et se livrèrent à l’infidélité en suivant les dieux des peuples du pays que Dieu avait détruits devant eux."
+    },
+    {
+      "chapter": 5,
+      "verse": 26,
+      "text": "Alors le Dieu d’Israël éveilla l’esprit de Pul, roi d’Assyrie, et l’esprit de Tilgath-Pilnéser, roi d’Assyrie, et il déporta les Rubénites, les Gadites et la demi-tribu de Manassé, et les conduisit à Halach, à Habor, à Hara, et au fleuve de Gozan, où ils sont jusqu’à ce jour."
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Fils de Lévi : Guershon, Kehath et Merari."
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "Fils de Kehath : Amram, Jitsehar, Hébron et Ouziel."
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "Enfants d’Amram : Aaron, Moïse et Miriam. Fils d’Aaron : Nadab, Abihou, Éléazar et Ithamar."
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "Éléazar engendra Phinées, Phinées engendra Abishoua,"
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "Abishoua engendra Boukki, Boukki engendra Ouzzi,"
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "Ouzzi engendra Zérahia, Zérahia engendra Merajoth,"
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Merajoth engendra Amaria, Amaria engendra Ahitoub,"
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Ahitoub engendra Tsadok, Tsadok engendra Ahimaats,"
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "Ahimaats engendra Azaria, Azaria engendra Johanan,"
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "Johanan engendra Azaria, qui exerça le sacerdoce dans la maison que Salomon bâtit à Jérusalem."
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Azaria engendra Amaria, Amaria engendra Ahitoub,"
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "Ahitoub engendra Tsadok, Tsadok engendra Shalloum,"
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "Shalloum engendra Hilkija, Hilkija engendra Azaria,"
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "Azaria engendra Seraja, Seraja engendra Jotsadak."
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "text": "Jotsadak fut déporté lorsque le SEIGNEUR emmena Juda et Jérusalem en captivité sous Nebucadnetsar."
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "text": "Fils de Lévi : Guershom, Kehath et Merari."
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "text": "Voici les noms des fils de Guershom : Libni et Shimeï."
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "text": "Les fils de Kehath furent Amram, Jitsehar, Hébron et Ouziel."
+    },
+    {
+      "chapter": 6,
+      "verse": 19,
+      "text": "Fils de Merari : Mahli et Mouchi. Ce sont les familles des Lévites selon leurs familles paternelles."
+    },
+    {
+      "chapter": 6,
+      "verse": 20,
+      "text": "De Guershom : Libni, son fils ; Jahath, son fils ; Zimma, son fils ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 21,
+      "text": "Joah, son fils ; Iddo, son fils ; Zérach, son fils ; et Jéathraï, son fils."
+    },
+    {
+      "chapter": 6,
+      "verse": 22,
+      "text": "Fils de Kehath : Amminadab, son fils ; Koré, son fils ; Assir, son fils ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 23,
+      "text": "Elkana, son fils ; Ébiasaph, son fils ; Assir, son fils ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 24,
+      "text": "Tahath, son fils ; Ouriel, son fils ; Ozias, son fils ; et Saül, son fils."
+    },
+    {
+      "chapter": 6,
+      "verse": 25,
+      "text": "Fils d’Elkana : Amasaï et Ahimoth."
+    },
+    {
+      "chapter": 6,
+      "verse": 26,
+      "text": "Quant à Elkana, les fils d’Elkana : Tsofaï, son fils ; Nahath, son fils ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 27,
+      "text": "Éliab, son fils ; Jeroham, son fils ; et Elkana, son fils."
+    },
+    {
+      "chapter": 6,
+      "verse": 28,
+      "text": "Fils de Samuel : le premier-né, Joël, et le second, Abija."
+    },
+    {
+      "chapter": 6,
+      "verse": 29,
+      "text": "Fils de Merari : Mahli ; Libni, son fils ; Shimeï, son fils ; Ouzza, son fils ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 30,
+      "text": "Shimea, son fils ; Haggija, son fils ; Asaja, son fils."
+    },
+    {
+      "chapter": 6,
+      "verse": 31,
+      "text": "Voici ceux que David établit comme responsables du chant dans la maison du SEIGNEUR, après que l’arche y eut trouvé le repos."
+    },
+    {
+      "chapter": 6,
+      "verse": 32,
+      "text": "Ils assurèrent le service du chant devant le tabernacle de la tente de la Rencontre jusqu’à ce que Salomon ait bâti la maison du SEIGNEUR à Jérusalem. Ils remplissaient leurs fonctions selon l’ordre établi."
+    },
+    {
+      "chapter": 6,
+      "verse": 33,
+      "text": "Voici ceux qui servaient, avec leurs fils. Parmi les descendants de Kehath : Héman, le chanteur, fils de Joël, fils de Samuel,"
+    },
+    {
+      "chapter": 6,
+      "verse": 34,
+      "text": "fils d’Elkana, fils de Jeroham, fils d’Éliel, fils de Toah,"
+    },
+    {
+      "chapter": 6,
+      "verse": 35,
+      "text": "fils de Tsouph, fils d’Elkana, fils de Mahath, fils d’Amasaï,"
+    },
+    {
+      "chapter": 6,
+      "verse": 36,
+      "text": "fils d’Elkana, fils de Joël, fils d’Azaria, fils de Sophonie,"
+    },
+    {
+      "chapter": 6,
+      "verse": 37,
+      "text": "fils de Tahath, fils d’Assir, fils d’Ébiasaph, fils de Koré,"
+    },
+    {
+      "chapter": 6,
+      "verse": 38,
+      "text": "fils de Jitsehar, fils de Kehath, fils de Lévi, fils d’Israël."
+    },
+    {
+      "chapter": 6,
+      "verse": 39,
+      "text": "Son frère Asaph se tenait à sa droite : Asaph, fils de Bérékia, fils de Shimea,"
+    },
+    {
+      "chapter": 6,
+      "verse": 40,
+      "text": "fils de Micaël, fils de Baaseïa, fils de Malkija,"
+    },
+    {
+      "chapter": 6,
+      "verse": 41,
+      "text": "fils d’Ethni, fils de Zérach, fils d’Adaja,"
+    },
+    {
+      "chapter": 6,
+      "verse": 42,
+      "text": "fils d’Éthan, fils de Zimma, fils de Shimeï,"
+    },
+    {
+      "chapter": 6,
+      "verse": 43,
+      "text": "fils de Jahath, fils de Guershom, fils de Lévi."
+    },
+    {
+      "chapter": 6,
+      "verse": 44,
+      "text": "À leur gauche se tenaient leurs frères, les descendants de Merari : Éthan, fils de Kishi, fils d’Abdi, fils de Mallouc,"
+    },
+    {
+      "chapter": 6,
+      "verse": 45,
+      "text": "fils de Hashabia, fils d’Amatsia, fils de Hilkija,"
+    },
+    {
+      "chapter": 6,
+      "verse": 46,
+      "text": "fils d’Amtsi, fils de Bani, fils de Shémer,"
+    },
+    {
+      "chapter": 6,
+      "verse": 47,
+      "text": "fils de Mahli, fils de Mouchi, fils de Merari, fils de Lévi."
+    },
+    {
+      "chapter": 6,
+      "verse": 48,
+      "text": "Leurs frères, les Lévites, furent affectés à tous les autres services du tabernacle de la maison de Dieu."
+    },
+    {
+      "chapter": 6,
+      "verse": 49,
+      "text": "Aaron et ses fils assuraient le service de l’autel des holocaustes et de l’autel des parfums. Ils accomplissaient tout le service du lieu très saint et faisaient l’expiation pour Israël, conformément à tout ce que Moïse, serviteur de Dieu, avait ordonné."
+    },
+    {
+      "chapter": 6,
+      "verse": 50,
+      "text": "Voici les fils d’Aaron : Éléazar, son fils ; Phinées, son fils ; Abishoua, son fils ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 51,
+      "text": "Boukki, son fils ; Ouzzi, son fils ; Zérahia, son fils ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 52,
+      "text": "Merajoth, son fils ; Amaria, son fils ; Ahitoub, son fils ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 53,
+      "text": "Tsadok, son fils ; et Ahimaats, son fils."
+    },
+    {
+      "chapter": 6,
+      "verse": 54,
+      "text": "Voici leurs lieux d’habitation, selon leurs campements dans leurs territoires : aux fils d’Aaron, des familles des Kehathites (car le premier sort fut pour eux),"
+    },
+    {
+      "chapter": 6,
+      "verse": 55,
+      "text": "on leur donna Hébron, dans le pays de Juda, et les pâturages qui l’entourent ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 56,
+      "text": "mais les champs de la ville et ses villages furent donnés à Caleb, fils de Jephunné."
+    },
+    {
+      "chapter": 6,
+      "verse": 57,
+      "text": "Aux fils d’Aaron, ils donnèrent les villes de refuge : Hébron, Libna avec ses pâturages, Jattir, Eshtemoa avec ses pâturages,"
+    },
+    {
+      "chapter": 6,
+      "verse": 58,
+      "text": "Hilen avec ses pâturages, Debir avec ses pâturages,"
+    },
+    {
+      "chapter": 6,
+      "verse": 59,
+      "text": "Ashan avec ses pâturages, et Beth-Shémesh avec ses pâturages ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 60,
+      "text": "et de la tribu de Benjamin, Guéba avec ses pâturages, Allémeth avec ses pâturages, et Anathoth avec ses pâturages. Toutes leurs villes, selon leurs familles, étaient treize villes."
+    },
+    {
+      "chapter": 6,
+      "verse": 61,
+      "text": "Au reste des descendants de Kehath, dix villes furent attribuées par tirage au sort dans la moitié de la tribu de Manassé."
+    },
+    {
+      "chapter": 6,
+      "verse": 62,
+      "text": "Aux fils de Guershom, selon leurs familles, furent données, de la tribu d’Issacar, de la tribu d’Aser, de la tribu de Nephthali, et de la tribu de Manassé en Basan, treize villes."
+    },
+    {
+      "chapter": 6,
+      "verse": 63,
+      "text": "Aux fils de Merari furent données par le sort, selon leurs familles, de la tribu de Ruben, de la tribu de Gad, et de la tribu de Zabulon, douze villes."
+    },
+    {
+      "chapter": 6,
+      "verse": 64,
+      "text": "Les enfants d’Israël donnèrent aux Lévites les villes avec leurs pâturages."
+    },
+    {
+      "chapter": 6,
+      "verse": 65,
+      "text": "Ils donnèrent par le sort, de la tribu des enfants de Juda, de la tribu des enfants de Siméon, et de la tribu des enfants de Benjamin, ces villes qui sont mentionnées par leur nom."
+    },
+    {
+      "chapter": 6,
+      "verse": 66,
+      "text": "Certaines des familles des fils de Kehath eurent les villes de leur territoire de la tribu d’Éphraïm."
+    },
+    {
+      "chapter": 6,
+      "verse": 67,
+      "text": "Ils leur donnèrent les villes de refuge : Sichem, dans la région montagneuse d’Éphraïm, avec ses pâturages, et Guézer avec ses pâturages,"
+    },
+    {
+      "chapter": 6,
+      "verse": 68,
+      "text": "Jokméam avec ses pâturages, Beth-Horon avec ses pâturages,"
+    },
+    {
+      "chapter": 6,
+      "verse": 69,
+      "text": "Ajalon avec ses pâturages, Gath-Rimmon avec ses pâturages ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 70,
+      "text": "et de la demi-tribu de Manassé, Aner avec ses pâturages, et Biléam avec ses pâturages, pour le reste de la famille des fils de Kehath."
+    },
+    {
+      "chapter": 6,
+      "verse": 71,
+      "text": "Aux fils de Guershom furent données, de la famille de la demi-tribu de Manassé, Golan en Basan avec ses pâturages, et Ashtaroth avec ses pâturages ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 72,
+      "text": "et de la tribu d’Issacar, Kédesh avec ses pâturages, Daberath avec ses pâturages,"
+    },
+    {
+      "chapter": 6,
+      "verse": 73,
+      "text": "Ramoth avec ses pâturages, et Anem avec ses pâturages ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 74,
+      "text": "et de la tribu d’Aser, Mashal avec ses pâturages, Abdon avec ses pâturages,"
+    },
+    {
+      "chapter": 6,
+      "verse": 75,
+      "text": "Hukok avec ses pâturages, et Rehob avec ses pâturages ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 76,
+      "text": "et de la tribu de Nephthali, Kédesh en Galilée avec ses pâturages, Hammon avec ses pâturages, et Kirjathaïm avec ses pâturages."
+    },
+    {
+      "chapter": 6,
+      "verse": 77,
+      "text": "Au reste des Lévites, les fils de Merari, furent données, de la tribu de Zabulon, Rimmono avec ses pâturages, et Thabor avec ses pâturages ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 78,
+      "text": "et de l’autre côté du Jourdain, près de Jéricho, à l’est du Jourdain, leur furent données, de la tribu de Ruben : Betser dans le désert avec ses pâturages, Jahtsa avec ses pâturages,"
+    },
+    {
+      "chapter": 6,
+      "verse": 79,
+      "text": "Kédémoth avec ses pâturages, et Méphaath avec ses pâturages ;"
+    },
+    {
+      "chapter": 6,
+      "verse": 80,
+      "text": "et de la tribu de Gad, Ramoth en Galaad avec ses pâturages, Mahanaïm avec ses pâturages,"
+    },
+    {
+      "chapter": 6,
+      "verse": 81,
+      "text": "Heshbon avec ses pâturages, et Jaezer avec ses pâturages."
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "Fils d’Issacar : Tola, Pua, Jaschub et Schimron, quatre."
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "Fils de Tola : Uzzi, Rephaja, Jeriel, Jachmaï, Jibsam et Samuel, chefs des familles issues de Tola et guerriers vaillants de leur génération. Au temps de David, ils étaient vingt-deux mille six cents."
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "Fils d’Uzzi : Jizrahja. Fils de Jizrahja : Micaël, Abdias, Joël et Jischija, cinq ; tous des chefs."
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "Leurs unités militaires, classées selon leurs générations et leurs familles, comptaient trente-six mille hommes, car ils avaient beaucoup de femmes et de fils."
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "Leurs frères parmi toutes les familles d’Issacar, de vaillants guerriers, enregistrés en tout par généalogies, étaient au nombre de quatre-vingt-sept mille."
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "Fils de Benjamin : Béla, Béker et Jediaël, trois."
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "Fils de Béla : Etsbon, Uzzi, Uzziel, Jerimoth et Iri, cinq chefs de famille et guerriers vaillants. Leur registre généalogique en comptait vingt-deux mille trente-quatre."
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "Fils de Béker : Zemira, Joas, Éliézer, Eljoénaï, Omri, Jerémoth, Abija, Anathoth et Alameth. Tous ceux-là étaient fils de Béker."
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "Ils furent recensés par généalogie, selon leurs générations et comme chefs de famille ; ces guerriers vaillants étaient au nombre de vingt mille deux cents."
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "Fils de Jediaël : Bilhan. Fils de Bilhan : Jeusch, Benjamin, Éhud, Kenaana, Zéthan, Tarsis et Achischachar."
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "text": "Tous ceux-là étaient fils de Jediaël et chefs de leurs familles ; ces dix-sept mille deux cents guerriers vaillants étaient capables de servir dans l’armée."
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "text": "Ainsi que Schuppim et Huppim, les fils d’Ir, Huschim, et les fils d’Aher."
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "text": "Fils de Nephthali : Jahtsiel, Guni, Jetser, Schallum, et les fils de Bilha."
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "text": "Fils de Manassé : Asriel, que sa concubine araméenne enfanta. Elle enfanta Makir, père de Galaad."
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "text": "Makir prit pour épouse une femme de la parenté de Huppim et de Schuppim ; la sœur s’appelait Maaca. Le nom du second était Tselophchad ; et Tselophchad eut des filles."
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "text": "Maaca, la femme de Makir, enfanta un fils, et elle le nomma Péresch. Le nom de son frère était Schéresch ; et ses fils étaient Ulam et Rékem."
+    },
+    {
+      "chapter": 7,
+      "verse": 17,
+      "text": "Fils d’Ulam : Bedan. Ce sont là les fils de Galaad, fils de Makir, fils de Manassé."
+    },
+    {
+      "chapter": 7,
+      "verse": 18,
+      "text": "Sa sœur Hammoleketh enfanta Ischhod, Abiézer et Machla."
+    },
+    {
+      "chapter": 7,
+      "verse": 19,
+      "text": "Les fils de Schemida étaient Achjan, Sichem, Likhi et Aniam."
+    },
+    {
+      "chapter": 7,
+      "verse": 20,
+      "text": "Fils d’Éphraïm : Schuthelach, Béred son fils, Tahath son fils, Éléada son fils, Tahath son fils,"
+    },
+    {
+      "chapter": 7,
+      "verse": 21,
+      "text": "Zabad son fils, Schuthelach son fils, Ézer et Éléad, que les hommes de Gath, nés dans le pays, tuèrent parce qu’ils étaient descendus pour prendre leurs troupeaux."
+    },
+    {
+      "chapter": 7,
+      "verse": 22,
+      "text": "Éphraïm, leur père, mena deuil pendant de nombreux jours, et ses frères vinrent pour le consoler."
+    },
+    {
+      "chapter": 7,
+      "verse": 23,
+      "text": "Il alla vers sa femme, et elle conçut et enfanta un fils, et il le nomma Beria, parce que le malheur avait frappé sa maison."
+    },
+    {
+      "chapter": 7,
+      "verse": 24,
+      "text": "Sa fille était Schééra, qui bâtit Beth-Horon la basse et la haute, et Uzzen-Schééra."
+    },
+    {
+      "chapter": 7,
+      "verse": 25,
+      "text": "Réphach était son fils, Réscheph son fils, Télach son fils, Tachan son fils,"
+    },
+    {
+      "chapter": 7,
+      "verse": 26,
+      "text": "Laedan son fils, Ammihud son fils, Élisama son fils,"
+    },
+    {
+      "chapter": 7,
+      "verse": 27,
+      "text": "Nun son fils, et Josué son fils."
+    },
+    {
+      "chapter": 7,
+      "verse": 28,
+      "text": "Leurs possessions et leurs habitations étaient Béthel et ses villes, et à l’est Naaran, et à l’ouest Guézer avec ses villes ; Sichem aussi et ses villes, jusqu’à Gaza et ses villes ;"
+    },
+    {
+      "chapter": 7,
+      "verse": 29,
+      "text": "et sur les frontières des enfants de Manassé, Beth-Schean et ses villes, Taanac et ses villes, Meguiddo et ses villes, et Dor et ses villes. C’est dans ces lieux que vécurent les enfants de Joseph, fils d’Israël."
+    },
+    {
+      "chapter": 7,
+      "verse": 30,
+      "text": "Fils d’Aser : Jimna, Jischva, Jischvi et Beria. Sérah était leur sœur."
+    },
+    {
+      "chapter": 7,
+      "verse": 31,
+      "text": "Fils de Beria : Héber et Malkiel, qui fut le père de Birzavith."
+    },
+    {
+      "chapter": 7,
+      "verse": 32,
+      "text": "Héber engendra Japhlet, Schomer, Hotham, et Schua leur sœur."
+    },
+    {
+      "chapter": 7,
+      "verse": 33,
+      "text": "Fils de Japhlet : Pasac, Bimhal et Aschvath. Ce sont là les enfants de Japhlet."
+    },
+    {
+      "chapter": 7,
+      "verse": 34,
+      "text": "Fils de Schémer : Achi, Rohga, Jehubba et Aram."
+    },
+    {
+      "chapter": 7,
+      "verse": 35,
+      "text": "Fils de Hélem, son frère : Tsophach, Jimna, Schélesch et Amal."
+    },
+    {
+      "chapter": 7,
+      "verse": 36,
+      "text": "Fils de Tsophach : Suach, Harnépher, Schual, Béri, Jimra,"
+    },
+    {
+      "chapter": 7,
+      "verse": 37,
+      "text": "Bétser, Hod, Schamma, Schilscha, Jithran et Beéra."
+    },
+    {
+      "chapter": 7,
+      "verse": 38,
+      "text": "Fils de Jéther : Jephunné, Pispa et Ara."
+    },
+    {
+      "chapter": 7,
+      "verse": 39,
+      "text": "Fils d’Ulla : Arach, Hanniel et Ritsja."
+    },
+    {
+      "chapter": 7,
+      "verse": 40,
+      "text": "Tous ceux-là étaient les descendants d’Aser, chefs de leurs familles, hommes d’élite et guerriers vaillants, chefs de premier rang. Le registre généalogique en comptait vingt-six mille aptes au service militaire."
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "text": "Benjamin engendra Béla, son premier-né, Ashbel le deuxième, Aharah le troisième,"
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "text": "Nohah le quatrième, et Rapha le cinquième."
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "text": "Les fils de Béla furent : Addar, Géra, Abihud,"
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "text": "Abishua, Naaman, Ahoah,"
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "text": "Géra, Shephuphan et Huram."
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "text": "Voici les fils d’Éhud, chefs des familles des habitants de Guéba qui furent déportés à Manahath :"
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "text": "Naaman, Ahija et Géra ; c’est ce dernier qui les déporta, et il engendra Uzza et Ahihud."
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "text": "Shaharaïm engendra des enfants dans les campagnes de Moab, après avoir répudié Hushim et Baara, ses femmes."
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "text": "De Hodesh, sa femme, il engendra Jobab, Tsibia, Mésha, Malcam,"
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "text": "Jeuts, Shachia et Mirma. Ce furent là ses fils, chefs de famille."
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "text": "De Hushim, il avait engendré Abitub et Elpaal."
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "text": "Fils d’Elpaal : Éber, Misham et Shémed, qui bâtit Ono et Lod avec ses villes ;"
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "text": "ainsi que Béria et Shéma, qui étaient chefs de famille parmi les habitants d’Ajalon, et qui mirent en fuite les habitants de Gath."
+    },
+    {
+      "chapter": 8,
+      "verse": 14,
+      "text": "Ahio, Shashak, Jérémoth,"
+    },
+    {
+      "chapter": 8,
+      "verse": 15,
+      "text": "Zebadia, Arad, Éder,"
+    },
+    {
+      "chapter": 8,
+      "verse": 16,
+      "text": "Micaël, Ishpa et Joha étaient fils de Béria."
+    },
+    {
+      "chapter": 8,
+      "verse": 17,
+      "text": "Zebadia, Meshullam, Hizki, Héber,"
+    },
+    {
+      "chapter": 8,
+      "verse": 18,
+      "text": "Ishméraï, Jizlia et Jobab étaient fils d’Elpaal."
+    },
+    {
+      "chapter": 8,
+      "verse": 19,
+      "text": "Jakim, Zicri, Zabdi,"
+    },
+    {
+      "chapter": 8,
+      "verse": 20,
+      "text": "Éliénaï, Tsilthaï, Éliel,"
+    },
+    {
+      "chapter": 8,
+      "verse": 21,
+      "text": "Adaja, Béraja et Shimrath étaient fils de Shimeï."
+    },
+    {
+      "chapter": 8,
+      "verse": 22,
+      "text": "Ishpan, Éber, Éliel,"
+    },
+    {
+      "chapter": 8,
+      "verse": 23,
+      "text": "Abdon, Zicri, Hanan,"
+    },
+    {
+      "chapter": 8,
+      "verse": 24,
+      "text": "Hanania, Élam, Anthothija,"
+    },
+    {
+      "chapter": 8,
+      "verse": 25,
+      "text": "Iphdeja et Penuel étaient fils de Shashak."
+    },
+    {
+      "chapter": 8,
+      "verse": 26,
+      "text": "Shamsheraï, Sheharia, Athalia,"
+    },
+    {
+      "chapter": 8,
+      "verse": 27,
+      "text": "Jaaréshia, Élija et Zicri étaient fils de Jéroham."
+    },
+    {
+      "chapter": 8,
+      "verse": 28,
+      "text": "C’étaient les chefs de leurs familles selon leurs générations, des hommes de premier rang. Ils habitaient à Jérusalem."
+    },
+    {
+      "chapter": 8,
+      "verse": 29,
+      "text": "Le père de Gabaon habitait à Gabaon, et le nom de sa femme était Maaca."
+    },
+    {
+      "chapter": 8,
+      "verse": 30,
+      "text": "Son fils premier-né était Abdon, puis Tsur, Kis, Baal, Nadab,"
+    },
+    {
+      "chapter": 8,
+      "verse": 31,
+      "text": "Guédor, Ahio, Zéker,"
+    },
+    {
+      "chapter": 8,
+      "verse": 32,
+      "text": "et Mikloth, qui engendra Shimea. Eux aussi habitaient avec leurs familles à Jérusalem, près de leurs parents."
+    },
+    {
+      "chapter": 8,
+      "verse": 33,
+      "text": "Ner engendra Kis. Kis engendra Saül. Saül engendra Jonathan, Malkishua, Abinadab et Eshbaal."
+    },
+    {
+      "chapter": 8,
+      "verse": 34,
+      "text": "Le fils de Jonathan fut Merib-Baal. Merib-Baal engendra Mica."
+    },
+    {
+      "chapter": 8,
+      "verse": 35,
+      "text": "Fils de Mica : Pithon, Mélec, Taréa et Achaz."
+    },
+    {
+      "chapter": 8,
+      "verse": 36,
+      "text": "Achaz engendra Jehoadda. Jehoadda engendra Alémeth, Azmaveth et Zimri. Zimri engendra Motsa."
+    },
+    {
+      "chapter": 8,
+      "verse": 37,
+      "text": "Motsa engendra Binea. Rapha fut son fils, Éleasa son fils, et Atsel son fils."
+    },
+    {
+      "chapter": 8,
+      "verse": 38,
+      "text": "Atsel eut six fils, dont voici les noms : Azrikam, Bocru, Ismaël, Shearia, Abdias et Hanan. Tous ceux-là étaient fils d’Atsel."
+    },
+    {
+      "chapter": 8,
+      "verse": 39,
+      "text": "Fils d’Éshek, son frère : Ulam son premier-né, Jéush le deuxième, et Éliphéleth le troisième."
+    },
+    {
+      "chapter": 8,
+      "verse": 40,
+      "text": "Les fils d’Ulam étaient des guerriers vaillants et d’habiles archers. Ils eurent beaucoup de fils et de petits-fils, cent cinquante en tout. Tous ceux-là étaient descendants de Benjamin."
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "text": "Ainsi tout Israël fut recensé par généalogies ; et voici qu’ils sont inscrits dans le livre des rois d’Israël. Juda fut déporté captif à Babylone à cause de sa désobéissance."
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "text": "Or les premiers habitants qui vivaient dans leurs propriétés, dans leurs villes, étaient des Israélites, les prêtres, les Lévites et les serviteurs du temple."
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "text": "À Jérusalem vivaient des enfants de Juda, des enfants de Benjamin, et des enfants d’Éphraïm et de Manassé :"
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "text": "Uthaï, fils d’Ammihud, fils d’Omri, fils d’Imri, fils de Bani, des enfants de Pérets, fils de Juda."
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "text": "Des Shilonites : Asaïa, le premier-né, et ses fils."
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "text": "Des fils de Zérach : Jeuel et leurs frères, six cent quatre-vingt-dix."
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "text": "Des fils de Benjamin : Sallu, fils de Meschullam, fils d’Hodavia, fils d’Hassénua ;"
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "text": "Ibnéja, fils de Jéroham ; Éla, fils d’Uzzi, fils de Micri ; et Meschullam, fils de Schephathia, fils de Reuel, fils de Ibnija ;"
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "text": "avec leurs frères, classés selon leurs générations, neuf cent cinquante-six hommes. Tous étaient chefs de leurs familles."
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "text": "Des prêtres : Jedaja, Jehojarib, Jakin,"
+    },
+    {
+      "chapter": 9,
+      "verse": 11,
+      "text": "et Azaria, fils de Hilkija, fils de Meschullam, fils de Tsadok, fils de Merajoth, fils d’Ahitub, chef de la maison de Dieu ;"
+    },
+    {
+      "chapter": 9,
+      "verse": 12,
+      "text": "Adaja, fils de Jéroham, fils de Paschhur, fils de Malkija ; et Maasaï, fils d’Adiel, fils de Jahzéra, fils de Meschullam, fils de Meschillémith, fils d’Immer ;"
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "text": "avec leurs frères, chefs de leurs familles, mille sept cent soixante hommes particulièrement aptes au service de la maison de Dieu."
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "text": "Des Lévites : Schemaeja, fils de Haschub, fils d’Azrikam, fils de Haschabia, des fils de Merari ;"
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "text": "Bakbakkar, Héresch, Galal, et Matthania, fils de Mica, fils de Zicri, fils d’Asaph ;"
+    },
+    {
+      "chapter": 9,
+      "verse": 16,
+      "text": "Abdias, fils de Schemaeja, fils de Galal, fils de Jeduthun ; et Bérékia, fils d’Asa, fils d’Elkana, qui vivait dans les villages des Nétophathiens."
+    },
+    {
+      "chapter": 9,
+      "verse": 17,
+      "text": "Les portiers : Schallum, Akkub, Talmon, Ahiman, et leurs frères (Schallum était le chef),"
+    },
+    {
+      "chapter": 9,
+      "verse": 18,
+      "text": "Ils avaient autrefois la charge de la porte royale, à l’est. Ils étaient les portiers du camp des descendants de Lévi."
+    },
+    {
+      "chapter": 9,
+      "verse": 19,
+      "text": "Schallum, fils de Koré, fils d’Ébiasaph, fils de Koré, et ses frères de la famille des Korites étaient responsables du service et gardaient les seuils de la tente. Leurs pères avaient gardé l’entrée du camp du SEIGNEUR."
+    },
+    {
+      "chapter": 9,
+      "verse": 20,
+      "text": "Phinées, fils d’Éléazar, était leur chef dans le passé, et le SEIGNEUR était avec lui."
+    },
+    {
+      "chapter": 9,
+      "verse": 21,
+      "text": "Zacharie, fils de Meschélémia, était portier de l’entrée de la tente de la Rencontre."
+    },
+    {
+      "chapter": 9,
+      "verse": 22,
+      "text": "Tous ceux qui avaient été choisis comme gardiens des seuils étaient au nombre de deux cent douze. Ils étaient inscrits par généalogie dans leurs villages ; David et Samuel le voyant les avaient établis dans la charge qui leur était confiée."
+    },
+    {
+      "chapter": 9,
+      "verse": 23,
+      "text": "Ainsi, eux et leurs enfants avaient la surveillance des portes de la maison du SEIGNEUR, c’est-à-dire la maison de la tente, pour monter la garde."
+    },
+    {
+      "chapter": 9,
+      "verse": 24,
+      "text": "Il y avait des portiers des quatre côtés : à l’est, à l’ouest, au nord et au sud."
+    },
+    {
+      "chapter": 9,
+      "verse": 25,
+      "text": "Leurs frères qui vivaient dans les villages venaient les rejoindre à tour de rôle tous les sept jours,"
+    },
+    {
+      "chapter": 9,
+      "verse": 26,
+      "text": "car les quatre chefs des portiers, qui étaient Lévites, avaient reçu une charge permanente et étaient responsables des chambres et des trésors de la maison de Dieu."
+    },
+    {
+      "chapter": 9,
+      "verse": 27,
+      "text": "Ils passaient la nuit autour de la maison de Dieu, parce que c’était leur devoir ; et il leur incombait de l’ouvrir chaque matin."
+    },
+    {
+      "chapter": 9,
+      "verse": 28,
+      "text": "Certains d’entre eux étaient responsables des ustensiles du service, car on les rentrait en les comptant, et on les sortait en les comptant."
+    },
+    {
+      "chapter": 9,
+      "verse": 29,
+      "text": "D’autres furent préposés au mobilier, et à tous les ustensiles du sanctuaire, à la fleur de farine, au vin, à l’huile, à l’encens et aux aromates."
+    },
+    {
+      "chapter": 9,
+      "verse": 30,
+      "text": "Quelques-uns des fils des prêtres préparaient le mélange des aromates."
+    },
+    {
+      "chapter": 9,
+      "verse": 31,
+      "text": "Matthithia, l’un des Lévites, premier-né de Schallum le Korite, était chargé de préparer les aliments cuits à la poêle."
+    },
+    {
+      "chapter": 9,
+      "verse": 32,
+      "text": "Certains de leurs frères, parmi les fils des Kehathites, étaient responsables du pain de la Présence, pour le préparer chaque sabbat."
+    },
+    {
+      "chapter": 9,
+      "verse": 33,
+      "text": "Voici les chanteurs, chefs de familles lévitiques. Ils vivaient dans les chambres et étaient dispensés des autres tâches, car ils accomplissaient leur service jour et nuit."
+    },
+    {
+      "chapter": 9,
+      "verse": 34,
+      "text": "C’étaient les chefs de famille des Lévites, selon leurs générations, des hommes de premier rang. Ils vivaient à Jérusalem."
+    },
+    {
+      "chapter": 9,
+      "verse": 35,
+      "text": "Jeïel, père de Gabaon, vivait à Gabaon, et le nom de sa femme était Maaca."
+    },
+    {
+      "chapter": 9,
+      "verse": 36,
+      "text": "Son fils premier-né était Abdon, puis Tsur, Kis, Baal, Ner, Nadab,"
+    },
+    {
+      "chapter": 9,
+      "verse": 37,
+      "text": "Gedor, Achjo, Zacharie et Mikloth."
+    },
+    {
+      "chapter": 9,
+      "verse": 38,
+      "text": "Mikloth engendra Schimeam. Ils vivaient aussi avec leurs proches à Jérusalem, près de leurs proches."
+    },
+    {
+      "chapter": 9,
+      "verse": 39,
+      "text": "Ner engendra Kis. Kis engendra Saül. Saül engendra Jonathan, Malkischua, Abinadab et Eschbaal."
+    },
+    {
+      "chapter": 9,
+      "verse": 40,
+      "text": "Le fils de Jonathan était Merib-Baal. Merib-Baal engendra Michée."
+    },
+    {
+      "chapter": 9,
+      "verse": 41,
+      "text": "Les fils de Michée : Pithon, Mélec, Thachréa et Achaz."
+    },
+    {
+      "chapter": 9,
+      "verse": 42,
+      "text": "Achaz engendra Jara. Jara engendra Alémeth, Azmaveth et Zimri. Zimri engendra Motsa."
+    },
+    {
+      "chapter": 9,
+      "verse": 43,
+      "text": "Motsa engendra Binea, qui eut pour fils Rephaja, qui eut pour fils Éleasa, qui eut pour fils Atsel."
+    },
+    {
+      "chapter": 9,
+      "verse": 44,
+      "text": "Atsel eut six fils, dont voici les noms : Azrikam, Bocru, Ismaël, Schearia, Abdias et Hanan. Ce sont là les fils d’Atsel."
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "text": "Les Philistins livrèrent bataille à Israël ; et les hommes d’Israël s’enfuirent devant les Philistins, et tombèrent frappés à mort sur le mont Guilboa."
+    },
+    {
+      "chapter": 10,
+      "verse": 2,
+      "text": "Les Philistins poursuivirent de près Saül et ses fils ; et les Philistins tuèrent Jonathan, Abinadab et Malki-Schoua, les fils de Saül."
+    },
+    {
+      "chapter": 10,
+      "verse": 3,
+      "text": "La bataille devint acharnée autour de Saül. Les archers l’atteignirent, et il se trouva dans une grande détresse à cause d’eux."
+    },
+    {
+      "chapter": 10,
+      "verse": 4,
+      "text": "Alors Saül dit à son porteur d’armes : « Tire ton épée et transperce-moi avec elle, de peur que ces incirconcis ne viennent me faire subir des outrages. » Mais son porteur d’armes refusa, car il était terrifié. Saül prit donc son épée et se jeta dessus."
+    },
+    {
+      "chapter": 10,
+      "verse": 5,
+      "text": "Quand son porteur d’armes vit que Saül était mort, il se jeta lui aussi sur son épée et mourut."
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "text": "Ainsi mourut Saül avec ses trois fils ; et toute sa maison mourut en même temps."
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "text": "Quand tous les hommes d’Israël qui étaient dans la vallée virent qu’ils s’étaient enfuis, et que Saül et ses fils étaient morts, ils abandonnèrent leurs villes et prirent la fuite ; et les Philistins vinrent s’y installer."
+    },
+    {
+      "chapter": 10,
+      "verse": 8,
+      "text": "Le lendemain, quand les Philistins vinrent pour dépouiller les morts, ils trouvèrent Saül et ses fils tombés sur le mont Guilboa."
+    },
+    {
+      "chapter": 10,
+      "verse": 9,
+      "text": "Ils le dépouillèrent, prirent sa tête et ses armes, puis envoyèrent des messagers dans tout le pays des Philistins pour annoncer la nouvelle dans les temples de leurs idoles et au peuple."
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "text": "Ils placèrent ses armes dans la maison de leurs dieux, et fixèrent sa tête dans la maison de Dagon."
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "text": "Quand tout Jabès en Galaad apprit tout ce que les Philistins avaient fait à Saül,"
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "text": "tous les hommes vaillants se levèrent, enlevèrent le corps de Saül et les corps de ses fils, et les amenèrent à Jabès. Ils enterrèrent leurs ossements sous le chêne à Jabès, et jeûnèrent pendant sept jours."
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "text": "Ainsi mourut Saül à cause de l’infidélité qu’il avait commise contre le SEIGNEUR : il n’avait pas gardé la parole du SEIGNEUR et avait consulté un médium pour l’interroger,"
+    },
+    {
+      "chapter": 10,
+      "verse": 14,
+      "text": "au lieu de consulter le SEIGNEUR. C’est pourquoi le SEIGNEUR le fit mourir et remit le royaume à David, fils d’Isaï."
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "text": "Alors tout Israël se rassembla auprès de David à Hébron, et déclara : « Voici, nous sommes tes os et ta chair."
+    },
+    {
+      "chapter": 11,
+      "verse": 2,
+      "text": "Autrefois déjà, même lorsque Saül était roi, c’est toi qui conduisais Israël dans ses campagnes. Le SEIGNEUR ton Dieu t’a dit : ‹ C’est toi qui feras paître mon peuple, Israël, et c’est toi qui seras le chef de mon peuple, Israël. › »"
+    },
+    {
+      "chapter": 11,
+      "verse": 3,
+      "text": "Ainsi tous les anciens d’Israël vinrent auprès du roi à Hébron ; et David conclut une alliance avec eux à Hébron, devant le SEIGNEUR. Ils oignirent David comme roi sur Israël, selon la parole du SEIGNEUR transmise par Samuel."
+    },
+    {
+      "chapter": 11,
+      "verse": 4,
+      "text": "David et tout Israël marchèrent sur Jérusalem (c’est-à-dire Jébus) ; les Jébusiens, les habitants du pays, s’y trouvaient."
+    },
+    {
+      "chapter": 11,
+      "verse": 5,
+      "text": "Les habitants de Jébus dirent à David : « Tu n’entreras pas ici ! » Néanmoins, David s’empara de la forteresse de Sion, qui est la cité de David."
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "text": "David avait déclaré : « Le premier qui frappera les Jébusiens deviendra chef et commandant. » Joab, fils de Tseruja, monta le premier et devint chef."
+    },
+    {
+      "chapter": 11,
+      "verse": 7,
+      "text": "David s’installa dans la forteresse ; c’est pourquoi on l’appela cité de David."
+    },
+    {
+      "chapter": 11,
+      "verse": 8,
+      "text": "Il bâtit la ville tout autour, depuis le Millo et ses environs ; et Joab restaura le reste de la ville."
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "text": "David devenait de plus en plus puissant, car le SEIGNEUR des Armées était avec lui."
+    },
+    {
+      "chapter": 11,
+      "verse": 10,
+      "text": "Voici les principaux guerriers de David. Avec tout Israël, ils l’aidèrent à affermir sa royauté et à devenir roi, conformément à la parole du SEIGNEUR concernant Israël."
+    },
+    {
+      "chapter": 11,
+      "verse": 11,
+      "text": "Voici le nombre des vaillants guerriers de David : Yashobeam, fils d’un Hacmonite, chef des Trente ; il brandit sa lance contre trois cents hommes et les tua en une seule fois."
+    },
+    {
+      "chapter": 11,
+      "verse": 12,
+      "text": "Après lui, il y avait Éléazar, fils de Dodo, l’Ahohite, qui était l’un des trois vaillants guerriers."
+    },
+    {
+      "chapter": 11,
+      "verse": 13,
+      "text": "Il était avec David à Pas-Dammim, où les Philistins s’étaient rassemblés pour le combat. Il y avait là une parcelle de terre pleine d’orge ; et le peuple fuyait devant les Philistins."
+    },
+    {
+      "chapter": 11,
+      "verse": 14,
+      "text": "Ils se placèrent au milieu de la parcelle, la défendirent, et battirent les Philistins ; et le SEIGNEUR les sauva par une grande victoire."
+    },
+    {
+      "chapter": 11,
+      "verse": 15,
+      "text": "Trois des trente chefs descendirent vers le rocher auprès de David, dans la grotte d’Adoullam ; et l’armée des Philistins campait dans la vallée des Rephaïm."
+    },
+    {
+      "chapter": 11,
+      "verse": 16,
+      "text": "David était alors dans la forteresse, et il y avait une garnison de Philistins à Bethléhem à ce moment-là."
+    },
+    {
+      "chapter": 11,
+      "verse": 17,
+      "text": "David exprima ce désir : « Qui me fera boire de l’eau du puits de Bethléhem, près de la porte ? »"
+    },
+    {
+      "chapter": 11,
+      "verse": 18,
+      "text": "Les trois hommes traversèrent les lignes des Philistins, puisèrent de l’eau au puits de Bethléhem, près de la porte, et l’apportèrent à David. Mais David ne voulut pas la boire : il la répandit en libation pour le SEIGNEUR,"
+    },
+    {
+      "chapter": 11,
+      "verse": 19,
+      "text": "et dit : « Que mon Dieu me garde de faire cela ! Boirais-je le sang de ces hommes qui ont risqué leur vie ? » Car ils avaient risqué leur vie pour apporter cette eau. David refusa donc de la boire. Voilà ce que firent ces trois vaillants guerriers."
+    },
+    {
+      "chapter": 11,
+      "verse": 20,
+      "text": "Abishaï, frère de Joab, était le chef des trois. Il brandit sa lance contre trois cents hommes et les tua, ce qui lui valut une grande renommée parmi les trois."
+    },
+    {
+      "chapter": 11,
+      "verse": 21,
+      "text": "Parmi les trois, il était plus honoré que les deux autres, et il devint leur commandant ; toutefois, il n’atteignit pas le rang des trois premiers."
+    },
+    {
+      "chapter": 11,
+      "verse": 22,
+      "text": "Benaja, fils de Jehojada, fils d’un homme vaillant de Kabtseel, qui avait accompli de grands exploits, tua les deux fils d’Ariel de Moab. Il descendit aussi et tua un lion au milieu d’une citerne, un jour de neige."
+    },
+    {
+      "chapter": 11,
+      "verse": 23,
+      "text": "Il tua un Égyptien, un homme de grande taille, de cinq coudées. L’Égyptien tenait à la main une lance semblable à l’ensouple d’un tisserand ; et Benaja descendit contre lui avec un bâton, arracha la lance de la main de l’Égyptien, et le tua avec sa propre lance."
+    },
+    {
+      "chapter": 11,
+      "verse": 24,
+      "text": "Voilà ce que fit Benaja, fils de Jehojada, et il se fit un nom parmi les trois vaillants guerriers."
+    },
+    {
+      "chapter": 11,
+      "verse": 25,
+      "text": "Il était le plus honoré des Trente, mais n’atteignit pas le rang des trois premiers. David le plaça à la tête de sa garde."
+    },
+    {
+      "chapter": 11,
+      "verse": 26,
+      "text": "Les vaillants guerriers des armées comprenaient aussi : Asaël, frère de Joab ; Élhanan, fils de Dodo, de Bethléhem ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 27,
+      "text": "Shammoth, le Harorite ; Hélets, le Pelonite ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 28,
+      "text": "Ira, fils d’Ikkésh, le Tekoïte ; Abiézer, l’Anathothite ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 29,
+      "text": "Sibbecaï, le Houshatite ; Ilaï, l’Ahohite ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 30,
+      "text": "Maharaï, le Netophathite ; Héled, fils de Baana, le Netophathite ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 31,
+      "text": "Ithaï, fils de Ribaï, de Guibea des enfants de Benjamin ; Benaja, le Pirathonite ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 32,
+      "text": "Houraï, des torrents de Gaash ; Abiel, l’Arbathite ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 33,
+      "text": "Azmaveth, le Baharoumite ; Éliaba, le Shaalbonite ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 34,
+      "text": "les fils de Hashem, le Guizonite ; Jonathan, fils de Shagué, le Hararite ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 35,
+      "text": "Ahiam, fils de Sacar, le Hararite ; Éliphal, fils d’Our ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 36,
+      "text": "Hépher, le Mékérathite ; Ahija, le Pelonite ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 37,
+      "text": "Hetsro, le Carmélite ; Naaraï, fils d’Ezbaï ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 38,
+      "text": "Joël, frère de Nathan ; Mibhar, fils de Hagri ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 39,
+      "text": "Tselek, l’Ammonite ; Naharaï, le Bérothite (le porteur d’armes de Joab, fils de Tseruja) ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 40,
+      "text": "Ira, le Jéthrien ; Gareb, le Jéthrien ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 41,
+      "text": "Urie, le Hittite ; Zabad, fils d’Ahlaï ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 42,
+      "text": "Adina, fils de Shiza, le Rubénite (un chef des Rubénites), et trente hommes avec lui ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 43,
+      "text": "Hanan, fils de Maaca ; Joshaphat, le Mithnite ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 44,
+      "text": "Ouzia, l’Astarothite ; Shama et Jeïel, fils de Hotham, l’Aroérite ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 45,
+      "text": "Jédiaël, fils de Shimri, et Joha, son frère, le Thitsite ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 46,
+      "text": "Éliel, le Mahavite ; Jéribaï et Joshavia, fils d’Elnaam ; Jithma, le Moabite ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 47,
+      "text": "Éliel, Obed, et Jaasiel, le Metsobaïte."
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "text": "Voici ceux qui rejoignirent David à Ziklag, alors qu’il fuyait encore Saül, fils de Kis. Ils comptaient parmi les guerriers qui l’aidaient au combat."
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "text": "Ils étaient armés d’arcs, et savaient se servir de la main droite comme de la main gauche pour lancer des pierres et tirer des flèches avec l’arc. Ils étaient de la tribu de Benjamin, de la parenté de Saül."
+    },
+    {
+      "chapter": 12,
+      "verse": 3,
+      "text": "Le chef était Ahiézer, puis Joas, fils de Schemaa, le Guibeathite ; Jeziel et Péleth, fils d’Azmaveth ; Beraca ; Jéhu, l’Anathothite ;"
+    },
+    {
+      "chapter": 12,
+      "verse": 4,
+      "text": "Ismaeja, le Gabaonite, vaillant parmi les trente et chef des trente ; Jérémie ; Jachaziel ; Johanan ; Jozabad, le Gédérathite ;"
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "text": "Éluzaï ; Jerimoth ; Bealia ; Schemaria ; Schephatia, le Haruphite ;"
+    },
+    {
+      "chapter": 12,
+      "verse": 6,
+      "text": "Elkana, Jischija, Azareel, Joézer et Jaschobeam, les Koréites ;"
+    },
+    {
+      "chapter": 12,
+      "verse": 7,
+      "text": "ainsi que Joéla et Zebadia, fils de Jeroham, de Guedor."
+    },
+    {
+      "chapter": 12,
+      "verse": 8,
+      "text": "Des Gadites se rallièrent à David dans la forteresse du désert. C’étaient des guerriers vaillants, entraînés au combat et capables de manier le bouclier et la lance. Leur visage avait l’allure de celui d’un lion, et ils étaient aussi rapides que les gazelles sur les montagnes :"
+    },
+    {
+      "chapter": 12,
+      "verse": 9,
+      "text": "Ézer, le chef ; Abdias, le deuxième ; Éliab, le troisième ;"
+    },
+    {
+      "chapter": 12,
+      "verse": 10,
+      "text": "Mischmanna, le quatrième ; Jérémie, le cinquième ;"
+    },
+    {
+      "chapter": 12,
+      "verse": 11,
+      "text": "Attaï, le sixième ; Éliel, le septième ;"
+    },
+    {
+      "chapter": 12,
+      "verse": 12,
+      "text": "Johanan, le huitième ; Élzabad, le neuvième ;"
+    },
+    {
+      "chapter": 12,
+      "verse": 13,
+      "text": "Jérémie, le dixième ; et Macbannaï, le onzième."
+    },
+    {
+      "chapter": 12,
+      "verse": 14,
+      "text": "Ces descendants de Gad étaient des chefs de l’armée. Le moins important valait cent hommes, et le plus grand en valait mille."
+    },
+    {
+      "chapter": 12,
+      "verse": 15,
+      "text": "Ce sont eux qui traversèrent le Jourdain au premier mois, alors qu’il débordait sur toutes ses rives ; et ils mirent en fuite tous les habitants des vallées, vers l’est et vers l’ouest."
+    },
+    {
+      "chapter": 12,
+      "verse": 16,
+      "text": "Des fils de Benjamin et de Juda vinrent aussi jusqu’à la forteresse auprès de David."
+    },
+    {
+      "chapter": 12,
+      "verse": 17,
+      "text": "David sortit à leur rencontre et leur dit : « Si vous venez à moi dans un esprit de paix pour m’aider, mon cœur s’unira au vôtre. Mais si vous venez pour me trahir et me livrer à mes adversaires, alors que mes mains ne portent aucune faute, que le Dieu de nos pères le voie et vous juge. »"
+    },
+    {
+      "chapter": 12,
+      "verse": 18,
+      "text": "Alors l’Esprit saisit Amasaï, chef des trente, qui s’écria : « Nous sommes à toi, David, et nous sommes avec toi, fils d’Isaï ! Paix, paix à toi, et paix à ceux qui t’aident, car ton Dieu te vient en aide ! » David les accueillit et les établit chefs de la troupe."
+    },
+    {
+      "chapter": 12,
+      "verse": 19,
+      "text": "Des hommes de Manassé se rallièrent aussi à David lorsqu’il vint avec les Philistins pour combattre Saül. Cependant, ils ne leur prêtèrent pas main-forte, car les chefs des Philistins, après s’être concertés, renvoyèrent David en disant : « Il se ralliera à son maître Saül, et cela nous coûtera la tête. »"
+    },
+    {
+      "chapter": 12,
+      "verse": 20,
+      "text": "Comme il retournait à Ziklag, voici ceux de Manassé qui se rallièrent à lui : Adnach, Jozabad, Jediaël, Micaël, Jozabad, Élihu et Tsilthaï, chefs de milliers de la tribu de Manassé."
+    },
+    {
+      "chapter": 12,
+      "verse": 21,
+      "text": "Ils prêtèrent main-forte à David contre la bande de pillards, car ils étaient tous de vaillants guerriers, et ils devinrent des chefs dans l’armée."
+    },
+    {
+      "chapter": 12,
+      "verse": 22,
+      "text": "Jour après jour, des hommes rejoignaient David pour l’aider, jusqu’à former une grande armée, semblable à l’armée de Dieu."
+    },
+    {
+      "chapter": 12,
+      "verse": 23,
+      "text": "Voici les effectifs des hommes équipés pour la guerre qui vinrent auprès de David à Hébron afin de transférer à David la royauté de Saül, conformément à la parole du SEIGNEUR."
+    },
+    {
+      "chapter": 12,
+      "verse": 24,
+      "text": "Des fils de Juda portant le bouclier et la lance : six mille huit cents, armés pour la guerre."
+    },
+    {
+      "chapter": 12,
+      "verse": 25,
+      "text": "Des fils de Siméon, de vaillants guerriers pour la guerre : sept mille cent."
+    },
+    {
+      "chapter": 12,
+      "verse": 26,
+      "text": "Des fils de Lévi : quatre mille six cents."
+    },
+    {
+      "chapter": 12,
+      "verse": 27,
+      "text": "Jehojada, le chef de la maison d’Aaron, et avec lui trois mille sept cents hommes ;"
+    },
+    {
+      "chapter": 12,
+      "verse": 28,
+      "text": "et Tsadok, jeune homme vaillant, accompagné de vingt-deux chefs de sa famille."
+    },
+    {
+      "chapter": 12,
+      "verse": 29,
+      "text": "Des fils de Benjamin, parents de Saül : trois mille, car jusqu’alors, la plus grande partie d’entre eux était restée fidèle à la maison de Saül."
+    },
+    {
+      "chapter": 12,
+      "verse": 30,
+      "text": "Des fils d’Éphraïm : vingt mille huit cents guerriers vaillants, hommes de renom dans leurs familles."
+    },
+    {
+      "chapter": 12,
+      "verse": 31,
+      "text": "De la demi-tribu de Manassé : dix-huit mille hommes, désignés par leur nom pour venir établir David comme roi."
+    },
+    {
+      "chapter": 12,
+      "verse": 32,
+      "text": "Des fils d’Issacar, des hommes qui savaient discerner les temps pour savoir ce qu’Israël devait faire : deux cents chefs, et tous leurs frères étaient sous leurs ordres."
+    },
+    {
+      "chapter": 12,
+      "verse": 33,
+      "text": "De Zabulon, des hommes capables de sortir à l’armée, prêts à se ranger en bataille avec toutes sortes d’armes de guerre : cinquante mille, capables de se tenir en ordre de bataille d’un cœur sans partage."
+    },
+    {
+      "chapter": 12,
+      "verse": 34,
+      "text": "De Nephthali : mille chefs, et avec eux, portant le bouclier et la lance, trente-sept mille hommes."
+    },
+    {
+      "chapter": 12,
+      "verse": 35,
+      "text": "Des Danites, prêts à se ranger en bataille : vingt-huit mille six cents."
+    },
+    {
+      "chapter": 12,
+      "verse": 36,
+      "text": "D’Aser, des hommes capables de sortir à l’armée, prêts à se ranger en bataille : quarante mille."
+    },
+    {
+      "chapter": 12,
+      "verse": 37,
+      "text": "De l’autre côté du Jourdain, parmi les Rubénites, les Gadites et la demi-tribu de Manassé, pourvus de toutes sortes d’armes de guerre pour le combat : cent vingt mille."
+    },
+    {
+      "chapter": 12,
+      "verse": 38,
+      "text": "Tous ces hommes de guerre, capables de se ranger en ordre de bataille, vinrent à Hébron d’un cœur sans réserve pour établir David roi sur tout Israël. Tout le reste d’Israël était également uni dans la volonté de faire de David son roi."
+    },
+    {
+      "chapter": 12,
+      "verse": 39,
+      "text": "Ils restèrent là avec David pendant trois jours, mangeant et buvant, car leurs frères avaient préparé des provisions pour eux."
+    },
+    {
+      "chapter": 12,
+      "verse": 40,
+      "text": "Ceux qui vivaient près d’eux, et même jusqu’à Issacar, Zabulon et Nephthali, apportaient des vivres sur des ânes, des chameaux, des mulets et des bœufs : de la farine, des gâteaux de figues, des grappes de raisins secs, du vin, de l’huile, des bœufs et des brebis en abondance, car la joie régnait en Israël."
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "text": "David tint conseil avec les chefs de milliers et de centaines, avec tous les dirigeants."
+    },
+    {
+      "chapter": 13,
+      "verse": 2,
+      "text": "David dit à toute l’assemblée d’Israël : « Si cela vous semble bon et si le SEIGNEUR notre Dieu l’approuve, envoyons des messagers dans tout le pays à nos frères qui restent dans les différentes régions d’Israël, ainsi qu’aux prêtres et aux Lévites dans leurs villes entourées de pâturages, afin qu’ils se joignent à nous."
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "text": "Et ramenons l’arche de notre Dieu auprès de nous, car nous ne l’avons pas cherchée à l’époque de Saül. »"
+    },
+    {
+      "chapter": 13,
+      "verse": 4,
+      "text": "Toute l’assemblée décida d’agir ainsi, car cette proposition parut bonne à tout le peuple."
+    },
+    {
+      "chapter": 13,
+      "verse": 5,
+      "text": "David rassembla donc tout Israël, depuis le fleuve Shihor d’Égypte jusqu’à l’entrée de Hamath, pour faire venir l’arche de Dieu depuis Kiriath-Jearim."
+    },
+    {
+      "chapter": 13,
+      "verse": 6,
+      "text": "David monta avec tout Israël à Baala, c’est-à-dire à Kiriath-Jearim en Juda, pour en faire monter l’arche de Dieu, l’arche du SEIGNEUR qui siège au-dessus des chérubins et dont le Nom est invoqué."
+    },
+    {
+      "chapter": 13,
+      "verse": 7,
+      "text": "Ils transportèrent l’arche de Dieu sur un char neuf, et la firent sortir de la maison d’Abinadab ; Uzza et Achio conduisaient le char."
+    },
+    {
+      "chapter": 13,
+      "verse": 8,
+      "text": "David et tout Israël célébraient Dieu de toutes leurs forces, par des chants et au son des harpes, des luths, des tambourins, des cymbales et des trompettes."
+    },
+    {
+      "chapter": 13,
+      "verse": 9,
+      "text": "Lorsqu’ils arrivèrent à l’aire de Kidon, Uzza tendit la main pour retenir l’arche, car les bœufs avaient trébuché."
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "text": "La colère du SEIGNEUR s’enflamma contre Uzza, et il le frappa parce qu’il avait saisi l’arche. Uzza mourut là, devant Dieu."
+    },
+    {
+      "chapter": 13,
+      "verse": 11,
+      "text": "David fut irrité parce que le SEIGNEUR avait frappé Uzza avec une telle violence. Il appela ce lieu Pérets-Uzza, nom qu’il conserve jusqu’à ce jour."
+    },
+    {
+      "chapter": 13,
+      "verse": 12,
+      "text": "David eut peur de Dieu ce jour-là et demanda : « Comment pourrais-je faire venir chez moi l’arche de Dieu ? »"
+    },
+    {
+      "chapter": 13,
+      "verse": 13,
+      "text": "David ne transporta donc pas l’arche auprès de lui dans la cité de David, mais la fit conduire dans la maison d’Obed-Édom, le Gittite."
+    },
+    {
+      "chapter": 13,
+      "verse": 14,
+      "text": "L’arche de Dieu demeura avec la famille d’Obed-Édom dans sa maison pendant trois mois ; et le SEIGNEUR bénit la maison d’Obed-Édom et tout ce qui lui appartenait."
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "text": "Hiram, roi de Tyr, envoya des messagers à David, avec du bois de cèdre, des tailleurs de pierre et des charpentiers, pour lui bâtir une maison."
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "text": "David reconnut que le SEIGNEUR l’avait affermi comme roi sur Israël et qu’il avait élevé son royaume à cause de son peuple, Israël."
+    },
+    {
+      "chapter": 14,
+      "verse": 3,
+      "text": "David prit encore des femmes à Jérusalem, et il eut d’autres fils et d’autres filles."
+    },
+    {
+      "chapter": 14,
+      "verse": 4,
+      "text": "Voici les noms des enfants qu’il eut à Jérusalem : Shammua, Shobab, Nathan, Salomon,"
+    },
+    {
+      "chapter": 14,
+      "verse": 5,
+      "text": "Jibhar, Élishua, Elpéleth,"
+    },
+    {
+      "chapter": 14,
+      "verse": 6,
+      "text": "Nogah, Népheg, Japhia,"
+    },
+    {
+      "chapter": 14,
+      "verse": 7,
+      "text": "Élishama, Beéliada et Éliphéleth."
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "text": "Lorsque les Philistins apprirent que David avait été oint roi sur tout Israël, ils montèrent tous à la recherche de David. David l’apprit et sortit à leur rencontre."
+    },
+    {
+      "chapter": 14,
+      "verse": 9,
+      "text": "Les Philistins étaient venus se répandre dans la vallée des Rephaïm."
+    },
+    {
+      "chapter": 14,
+      "verse": 10,
+      "text": "David consulta Dieu : « Dois-je monter contre les Philistins ? Les livreras-tu entre mes mains ? » Le SEIGNEUR lui dit : « Monte, car je les livrerai entre tes mains. »"
+    },
+    {
+      "chapter": 14,
+      "verse": 11,
+      "text": "Ils montèrent donc à Baal-Peratsim, où David les battit. David dit : « Dieu a ouvert une brèche parmi mes ennemis par ma main, comme une brèche faite par les eaux. » C’est pourquoi l’on appela ce lieu Baal-Peratsim."
+    },
+    {
+      "chapter": 14,
+      "verse": 12,
+      "text": "Ils y abandonnèrent leurs dieux ; et sur l’ordre de David, ils furent brûlés au feu."
+    },
+    {
+      "chapter": 14,
+      "verse": 13,
+      "text": "Les Philistins firent encore une incursion dans la vallée."
+    },
+    {
+      "chapter": 14,
+      "verse": 14,
+      "text": "David consulta de nouveau Dieu, qui lui répondit : « Ne monte pas directement contre eux. Contourne-les et attaque-les en face des mûriers."
+    },
+    {
+      "chapter": 14,
+      "verse": 15,
+      "text": "Quand tu entendras un bruit de pas au sommet des mûriers, sors pour combattre, car Dieu sera sorti devant toi pour frapper l’armée des Philistins. »"
+    },
+    {
+      "chapter": 14,
+      "verse": 16,
+      "text": "David fit ce que Dieu lui avait ordonné, et ils battirent l’armée des Philistins depuis Gabaon jusqu’à Guézer."
+    },
+    {
+      "chapter": 14,
+      "verse": 17,
+      "text": "La renommée de David se répandit dans tous les pays, et le SEIGNEUR fit tomber sur toutes les nations la crainte que David inspirait."
+    },
+    {
+      "chapter": 15,
+      "verse": 1,
+      "text": "David se fit bâtir des maisons dans la cité de David ; il prépara un emplacement pour l’arche de Dieu et dressa une tente pour elle."
+    },
+    {
+      "chapter": 15,
+      "verse": 2,
+      "text": "Alors David dit : « Personne ne doit porter l’arche de Dieu, sinon les Lévites. Le SEIGNEUR les a choisis pour porter l’arche de Dieu et le servir pour toujours. »"
+    },
+    {
+      "chapter": 15,
+      "verse": 3,
+      "text": "David rassembla tout Israël à Jérusalem pour faire monter l’arche du SEIGNEUR à la place qu’il lui avait préparée."
+    },
+    {
+      "chapter": 15,
+      "verse": 4,
+      "text": "David réunit les fils d’Aaron et les Lévites :"
+    },
+    {
+      "chapter": 15,
+      "verse": 5,
+      "text": "des fils de Kehath, Uriel le chef et ses frères, cent vingt ;"
+    },
+    {
+      "chapter": 15,
+      "verse": 6,
+      "text": "des fils de Merari, Asaya le chef et ses frères, deux cent vingt ;"
+    },
+    {
+      "chapter": 15,
+      "verse": 7,
+      "text": "des fils de Guershom, Joël le chef et ses frères, cent trente ;"
+    },
+    {
+      "chapter": 15,
+      "verse": 8,
+      "text": "des fils d’Élitsaphan, Chemaïa le chef et ses frères, deux cents ;"
+    },
+    {
+      "chapter": 15,
+      "verse": 9,
+      "text": "des fils d’Hébron, Éliel le chef et ses frères, quatre-vingts ;"
+    },
+    {
+      "chapter": 15,
+      "verse": 10,
+      "text": "des fils d’Ouziel, Amminadab le chef et ses frères, cent douze."
+    },
+    {
+      "chapter": 15,
+      "verse": 11,
+      "text": "David appela Tsadok et Abiathar, les prêtres, ainsi que les Lévites : Uriel, Asaya, Joël, Chemaïa, Éliel et Amminadab."
+    },
+    {
+      "chapter": 15,
+      "verse": 12,
+      "text": "Il leur dit : « Vous êtes les chefs des familles lévitiques. Consacrez-vous, vous et vos frères, afin de faire monter l’arche du SEIGNEUR, le Dieu d’Israël, à l’endroit que je lui ai préparé."
+    },
+    {
+      "chapter": 15,
+      "verse": 13,
+      "text": "Comme vous ne l’avez pas portée la première fois, le SEIGNEUR notre Dieu a éclaté de colère contre nous, car nous ne l’avions pas consulté conformément à la règle établie. »"
+    },
+    {
+      "chapter": 15,
+      "verse": 14,
+      "text": "Ainsi, les prêtres et les Lévites se sanctifièrent pour faire monter l’arche du SEIGNEUR, le Dieu d’Israël."
+    },
+    {
+      "chapter": 15,
+      "verse": 15,
+      "text": "Les fils des Lévites portèrent l’arche de Dieu sur leurs épaules au moyen de ses barres, comme Moïse l’avait ordonné d’après la parole du SEIGNEUR."
+    },
+    {
+      "chapter": 15,
+      "verse": 16,
+      "text": "David demanda aux chefs des Lévites d’établir leurs frères comme chanteurs, accompagnés d’instruments de musique, de luths, de harpes et de cymbales, afin qu’ils fassent retentir des chants de joie."
+    },
+    {
+      "chapter": 15,
+      "verse": 17,
+      "text": "Les Lévites établirent Héman, fils de Joël ; et parmi ses frères, Asaph, fils de Bérékia ; et parmi les fils de Merari, leurs frères, Éthan, fils de Kouchaïa ;"
+    },
+    {
+      "chapter": 15,
+      "verse": 18,
+      "text": "et avec eux leurs frères du second rang : Zacharie, Ben, Jaaziel, Chemiramoth, Jehiel, Ounni, Éliab, Benaja, Maaséja, Matthithia, Éliphéléhou, Miknéja, Obed-Édom et Jeïel, les portiers."
+    },
+    {
+      "chapter": 15,
+      "verse": 19,
+      "text": "Les chanteurs Héman, Asaph et Éthan faisaient retentir des cymbales de bronze."
+    },
+    {
+      "chapter": 15,
+      "verse": 20,
+      "text": "Zacharie, Aziel, Chemiramoth, Jehiel, Ounni, Éliab, Maaséja et Benaja avaient des luths accordés sur alamoth ;"
+    },
+    {
+      "chapter": 15,
+      "verse": 21,
+      "text": "et Matthithia, Éliphéléhou, Miknéja, Obed-Édom, Jeïel et Azazia avaient des harpes accordées sur la lyre à huit cordes, pour diriger le chant."
+    },
+    {
+      "chapter": 15,
+      "verse": 22,
+      "text": "Kenania, chef des Lévites, dirigeait le chant et instruisait les chanteurs, car il était compétent."
+    },
+    {
+      "chapter": 15,
+      "verse": 23,
+      "text": "Bérékia et Elkana étaient portiers de l’arche."
+    },
+    {
+      "chapter": 15,
+      "verse": 24,
+      "text": "Chebania, Josaphat, Nethaneel, Amasaï, Zacharie, Benaja et Éliézer, les prêtres, sonnaient des trompettes devant l’arche de Dieu. Obed-Édom et Jechiya étaient portiers de l’arche."
+    },
+    {
+      "chapter": 15,
+      "verse": 25,
+      "text": "Ainsi David, les anciens d’Israël et les chefs de milliers se mirent en route pour faire monter l’arche de l’alliance du SEIGNEUR depuis la maison d’Obed-Édom, avec allégresse."
+    },
+    {
+      "chapter": 15,
+      "verse": 26,
+      "text": "Comme Dieu avait aidé les Lévites qui portaient l’arche de l’alliance du SEIGNEUR, ils sacrifièrent sept taureaux et sept béliers."
+    },
+    {
+      "chapter": 15,
+      "verse": 27,
+      "text": "David portait un manteau de fin lin, comme tous les Lévites qui portaient l’arche, les chanteurs et Kenania, le chef de chœur qui dirigeait les chanteurs. David portait également un éphod de lin."
+    },
+    {
+      "chapter": 15,
+      "verse": 28,
+      "text": "Tout Israël fit monter l’arche de l’alliance du SEIGNEUR avec des cris de joie, au son des cors, des trompettes et des cymbales, et en faisant retentir les luths et les harpes."
+    },
+    {
+      "chapter": 15,
+      "verse": 29,
+      "text": "Lorsque l’arche de l’alliance du SEIGNEUR entra dans la cité de David, Mical, fille de Saül, regarda par la fenêtre. Elle vit le roi David danser et jouer, et elle le méprisa dans son cœur."
+    },
+    {
+      "chapter": 16,
+      "verse": 1,
+      "text": "Ils amenèrent l’arche de Dieu, et la placèrent au milieu de la tente que David avait dressée pour elle ; et ils offrirent des holocaustes et des sacrifices de paix devant Dieu."
+    },
+    {
+      "chapter": 16,
+      "verse": 2,
+      "text": "Quand David eut achevé d’offrir l’holocauste et les sacrifices de paix, il bénit le peuple au nom du SEIGNEUR."
+    },
+    {
+      "chapter": 16,
+      "verse": 3,
+      "text": "Il distribua à tous ceux d’Israël, hommes et femmes, à chacun un pain, une portion de viande et un gâteau de raisins."
+    },
+    {
+      "chapter": 16,
+      "verse": 4,
+      "text": "Il établit certains Lévites pour assurer le service devant l’arche du SEIGNEUR, faire mémoire de ses œuvres, remercier et louer le SEIGNEUR, le Dieu d’Israël :"
+    },
+    {
+      "chapter": 16,
+      "verse": 5,
+      "text": "Asaph le chef, et le second après lui Zacharie, puis Jeïel, Shemiramoth, Jehiel, Matthithia, Éliab, Benaja, Obed-Édom et Jeïel, avec des instruments à cordes et avec des harpes ; et Asaph faisait retentir les cymbales ;"
+    },
+    {
+      "chapter": 16,
+      "verse": 6,
+      "text": "avec Benaja et Jachaziel, les prêtres, qui sonnaient continuellement des trompettes devant l’arche de l’alliance de Dieu."
+    },
+    {
+      "chapter": 16,
+      "verse": 7,
+      "text": "Alors, en ce jour-là, David confia pour la première fois à Asaph et à ses frères le soin de célébrer les louanges du SEIGNEUR."
+    },
+    {
+      "chapter": 16,
+      "verse": 8,
+      "text": "Rendez grâce au SEIGNEUR. Invoquez son nom. Faites connaître ses hauts faits parmi les peuples."
+    },
+    {
+      "chapter": 16,
+      "verse": 9,
+      "text": "Chantez-lui. Chantez ses louanges. Parlez de toutes ses œuvres merveilleuses."
+    },
+    {
+      "chapter": 16,
+      "verse": 10,
+      "text": "Glorifiez-vous de son saint nom. Que le cœur de ceux qui cherchent le SEIGNEUR se réjouisse."
+    },
+    {
+      "chapter": 16,
+      "verse": 11,
+      "text": "Recherchez le SEIGNEUR et sa force. Recherchez constamment sa présence."
+    },
+    {
+      "chapter": 16,
+      "verse": 12,
+      "text": "Souvenez-vous des œuvres merveilleuses qu’il a faites, de ses prodiges, et des jugements de sa bouche,"
+    },
+    {
+      "chapter": 16,
+      "verse": 13,
+      "text": "vous, descendants d’Israël, son serviteur, vous enfants de Jacob, ses élus."
+    },
+    {
+      "chapter": 16,
+      "verse": 14,
+      "text": "Il est le SEIGNEUR notre Dieu. Ses jugements s’exercent sur toute la terre."
+    },
+    {
+      "chapter": 16,
+      "verse": 15,
+      "text": "Souvenez-vous pour toujours de son alliance, de la parole qu’il a commandée pour mille générations,"
+    },
+    {
+      "chapter": 16,
+      "verse": 16,
+      "text": "de l’alliance qu’il a conclue avec Abraham, de son serment à Isaac."
+    },
+    {
+      "chapter": 16,
+      "verse": 17,
+      "text": "Il l’a confirmée pour Jacob comme une prescription, et pour Israël comme une alliance éternelle,"
+    },
+    {
+      "chapter": 16,
+      "verse": 18,
+      "text": "en disant : « Je te donnerai le pays de Canaan, comme la part de ton héritage »,"
+    },
+    {
+      "chapter": 16,
+      "verse": 19,
+      "text": "alors que vous n’étiez qu’un petit nombre d’hommes, oui, très peu nombreux, et étrangers dans ce pays."
+    },
+    {
+      "chapter": 16,
+      "verse": 20,
+      "text": "Ils allaient de nation en nation, d’un royaume vers un autre peuple."
+    },
+    {
+      "chapter": 16,
+      "verse": 21,
+      "text": "Il ne permit à personne de les opprimer. Oui, il châtia des rois à cause d’eux,"
+    },
+    {
+      "chapter": 16,
+      "verse": 22,
+      "text": "« Ne touchez pas à mes oints ! Ne faites pas de mal à mes prophètes ! »"
+    },
+    {
+      "chapter": 16,
+      "verse": 23,
+      "text": "Chantez au SEIGNEUR, toute la terre ! Annoncez son salut de jour en jour."
+    },
+    {
+      "chapter": 16,
+      "verse": 24,
+      "text": "Racontez sa gloire parmi les nations, et ses œuvres merveilleuses parmi tous les peuples."
+    },
+    {
+      "chapter": 16,
+      "verse": 25,
+      "text": "Car le SEIGNEUR est grand, et digne de toute louange. Il est aussi à redouter par-dessus tous les dieux."
+    },
+    {
+      "chapter": 16,
+      "verse": 26,
+      "text": "Car tous les dieux des peuples sont des idoles, mais le SEIGNEUR a fait les cieux."
+    },
+    {
+      "chapter": 16,
+      "verse": 27,
+      "text": "L’honneur et la majesté sont devant lui. La force et la joie sont dans sa demeure."
+    },
+    {
+      "chapter": 16,
+      "verse": 28,
+      "text": "Rendez au SEIGNEUR, vous familles des peuples, rendez au SEIGNEUR gloire et force !"
+    },
+    {
+      "chapter": 16,
+      "verse": 29,
+      "text": "Rendez au SEIGNEUR la gloire qui revient à son nom. Apportez une offrande, et venez devant lui. Adorez le SEIGNEUR dans la splendeur de la sainteté."
+    },
+    {
+      "chapter": 16,
+      "verse": 30,
+      "text": "Tremblez devant lui, toute la terre. Le monde aussi est affermi, pour qu’il ne soit pas ébranlé."
+    },
+    {
+      "chapter": 16,
+      "verse": 31,
+      "text": "Que les cieux se réjouissent, et que la terre soit dans l’allégresse ! Qu’on dise parmi les nations : « Le SEIGNEUR règne ! »"
+    },
+    {
+      "chapter": 16,
+      "verse": 32,
+      "text": "Que la mer retentisse, avec tout ce qu’elle contient ! Que la campagne exulte, avec tout ce qui s’y trouve !"
+    },
+    {
+      "chapter": 16,
+      "verse": 33,
+      "text": "Alors les arbres de la forêt chanteront de joie devant le SEIGNEUR, car il vient pour juger la terre."
+    },
+    {
+      "chapter": 16,
+      "verse": 34,
+      "text": "Célébrez le SEIGNEUR, car il est bon, car son amour fidèle dure à toujours."
+    },
+    {
+      "chapter": 16,
+      "verse": 35,
+      "text": "Dites : « Sauve-nous, Dieu de notre salut ! Rassemble-nous et délivre-nous des nations, pour que nous célébrions ton saint nom, pour que nous mettions notre gloire à te louer. »"
+    },
+    {
+      "chapter": 16,
+      "verse": 36,
+      "text": "Béni soit le SEIGNEUR, le Dieu d’Israël, d’éternité en éternité. Et tout le peuple dit : « Amen », et loua le SEIGNEUR."
+    },
+    {
+      "chapter": 16,
+      "verse": 37,
+      "text": "Il laissa là, devant l’arche de l’alliance du SEIGNEUR, Asaph et ses frères, pour faire continuellement le service devant l’arche, selon la tâche requise pour chaque jour ;"
+    },
+    {
+      "chapter": 16,
+      "verse": 38,
+      "text": "Il laissa aussi Obed-Édom avec soixante-huit de ses frères, ainsi qu’Obed-Édom, fils de Jeduthun, et Hosa comme portiers ;"
+    },
+    {
+      "chapter": 16,
+      "verse": 39,
+      "text": "et Tsadok le prêtre, avec ses frères les prêtres, devant le tabernacle du SEIGNEUR sur le haut lieu qui était à Gabaon,"
+    },
+    {
+      "chapter": 16,
+      "verse": 40,
+      "text": "pour offrir des holocaustes au SEIGNEUR sur l’autel des holocaustes continuellement, matin et soir, et cela selon tout ce qui est écrit dans la loi du SEIGNEUR, qu’il a commandée à Israël ;"
+    },
+    {
+      "chapter": 16,
+      "verse": 41,
+      "text": "et avec eux Héman et Jeduthun, et les autres qui avaient été choisis, qui avaient été désignés par leur nom, pour louer le SEIGNEUR, parce que son amour fidèle dure à toujours ;"
+    },
+    {
+      "chapter": 16,
+      "verse": 42,
+      "text": "Héman et Jeduthun disposaient de trompettes et de cymbales retentissantes, ainsi que d’instruments pour les chants adressés à Dieu. Les fils de Jeduthun gardaient la porte."
+    },
+    {
+      "chapter": 16,
+      "verse": 43,
+      "text": "Tout le peuple s’en alla, chacun dans sa maison ; et David s’en retourna pour bénir sa maison."
+    },
+    {
+      "chapter": 17,
+      "verse": 1,
+      "text": "Lorsque David fut installé dans sa maison, il dit au prophète Nathan : « Voici, j’habite dans une maison de cèdre, mais l’arche de l’alliance du SEIGNEUR est sous une tente. »"
+    },
+    {
+      "chapter": 17,
+      "verse": 2,
+      "text": "Nathan dit à David : « Fais tout ce qui est dans ton cœur, car Dieu est avec toi. »"
+    },
+    {
+      "chapter": 17,
+      "verse": 3,
+      "text": "Cette nuit-là, la parole de Dieu fut adressée à Nathan :"
+    },
+    {
+      "chapter": 17,
+      "verse": 4,
+      "text": "« Va dire à mon serviteur David : ‹ Ainsi parle le SEIGNEUR : Ce n’est pas toi qui me bâtiras une maison pour que j’y habite ;"
+    },
+    {
+      "chapter": 17,
+      "verse": 5,
+      "text": "car je n’ai habité dans aucune maison depuis le jour où j’ai fait monter Israël jusqu’à aujourd’hui, mais je suis allé de tente en tente et d’une demeure à l’autre."
+    },
+    {
+      "chapter": 17,
+      "verse": 6,
+      "text": "Partout où j’ai marché avec tout Israël, ai-je jamais demandé à l’un des juges d’Israël, à qui j’avais ordonné de faire paître mon peuple : “Pourquoi ne m’avez-vous pas bâti une maison de cèdre ?” › »"
+    },
+    {
+      "chapter": 17,
+      "verse": 7,
+      "text": "« Maintenant, tu diras à mon serviteur David : ‹ Ainsi parle le SEIGNEUR des Armées : Je t’ai pris au pâturage, derrière les brebis, pour que tu deviennes le chef de mon peuple, Israël."
+    },
+    {
+      "chapter": 17,
+      "verse": 8,
+      "text": "J’ai été avec toi partout où tu es allé et j’ai éliminé tous tes ennemis devant toi. Je rendrai ton nom aussi célèbre que celui des grands de la terre."
+    },
+    {
+      "chapter": 17,
+      "verse": 9,
+      "text": "Je fixerai un lieu pour mon peuple Israël et je l’y planterai, afin qu’il demeure chez lui sans être davantage troublé. Les fils de la méchanceté ne le ravageront plus comme autrefois,"
+    },
+    {
+      "chapter": 17,
+      "verse": 10,
+      "text": "depuis le temps où j’avais établi des juges sur mon peuple Israël. Je soumettrai tous tes ennemis. De plus, je t’annonce que le SEIGNEUR te bâtira une maison."
+    },
+    {
+      "chapter": 17,
+      "verse": 11,
+      "text": "Il arrivera, quand tes jours seront accomplis et que tu devras aller rejoindre tes pères, que je susciterai ta descendance après toi, l’un de tes fils, et j’affermirai son royaume."
+    },
+    {
+      "chapter": 17,
+      "verse": 12,
+      "text": "C’est lui qui me bâtira une maison, et j’affermirai son trône pour toujours."
+    },
+    {
+      "chapter": 17,
+      "verse": 13,
+      "text": "Je serai son père, et il sera mon fils. Je ne lui retirerai pas mon amour fidèle, comme je l’ai retiré à celui qui t’a précédé ;"
+    },
+    {
+      "chapter": 17,
+      "verse": 14,
+      "text": "mais je l’établirai dans ma maison et dans mon royaume pour toujours. Son trône sera affermi à jamais. › »"
+    },
+    {
+      "chapter": 17,
+      "verse": 15,
+      "text": "Nathan parla à David selon toutes ces paroles et selon toute cette vision."
+    },
+    {
+      "chapter": 17,
+      "verse": 16,
+      "text": "Alors le roi David entra et s’assit devant le SEIGNEUR ; puis il dit : « Qui suis-je, SEIGNEUR Dieu, et quelle est ma maison, pour que tu m’aies fait parvenir jusqu’ici ?"
+    },
+    {
+      "chapter": 17,
+      "verse": 17,
+      "text": "Cela était encore peu de chose à tes yeux, ô Dieu : tu as aussi parlé de la maison de ton serviteur pour un avenir lointain, et tu m’as traité comme un homme de haut rang, SEIGNEUR Dieu."
+    },
+    {
+      "chapter": 17,
+      "verse": 18,
+      "text": "Que pourrait te dire David de plus sur l’honneur fait à ton serviteur ? Car tu connais ton serviteur."
+    },
+    {
+      "chapter": 17,
+      "verse": 19,
+      "text": "SEIGNEUR, c’est pour ton serviteur et selon ton propre cœur que tu as accompli toute cette grandeur et révélé toutes ces grandes choses."
+    },
+    {
+      "chapter": 17,
+      "verse": 20,
+      "text": "SEIGNEUR, nul n’est semblable à toi, et il n’existe aucun Dieu en dehors de toi, d’après tout ce que nous avons entendu."
+    },
+    {
+      "chapter": 17,
+      "verse": 21,
+      "text": "Quelle nation sur la terre est semblable à ton peuple Israël ? Dieu est allé le racheter pour en faire son peuple et se faire un nom par des actes grands et redoutables, en chassant des nations devant le peuple que tu avais racheté d’Égypte."
+    },
+    {
+      "chapter": 17,
+      "verse": 22,
+      "text": "Car tu as fait de ton peuple Israël ton propre peuple pour toujours ; et toi, SEIGNEUR, tu es devenu leur Dieu."
+    },
+    {
+      "chapter": 17,
+      "verse": 23,
+      "text": "Maintenant, SEIGNEUR, que la parole que tu as prononcée sur ton serviteur et sur sa maison soit affermie pour toujours, et agis selon ce que tu as dit."
+    },
+    {
+      "chapter": 17,
+      "verse": 24,
+      "text": "Que ton nom soit établi et magnifié pour toujours, afin que l’on dise : ‹ Le SEIGNEUR des Armées est le Dieu d’Israël, oui, le Dieu d’Israël. › Et que la maison de David, ton serviteur, soit affermie devant toi."
+    },
+    {
+      "chapter": 17,
+      "verse": 25,
+      "text": "Car toi, mon Dieu, tu as révélé à ton serviteur que tu lui bâtiras une maison. C’est pourquoi ton serviteur a trouvé le courage de prier devant toi."
+    },
+    {
+      "chapter": 17,
+      "verse": 26,
+      "text": "Maintenant, SEIGNEUR, c’est toi qui es Dieu, et tu as promis ce bienfait à ton serviteur."
+    },
+    {
+      "chapter": 17,
+      "verse": 27,
+      "text": "Maintenant, il t’a plu de bénir la maison de ton serviteur, afin qu’elle subsiste pour toujours devant toi ; car toi, SEIGNEUR, tu l’as bénie, et elle est bénie pour toujours. »"
+    },
+    {
+      "chapter": 18,
+      "verse": 1,
+      "text": "Après cela, David battit les Philistins et les soumit. Il arracha Gath et les localités qui en dépendaient au pouvoir des Philistins."
+    },
+    {
+      "chapter": 18,
+      "verse": 2,
+      "text": "Il battit Moab ; et les Moabites devinrent les serviteurs de David et apportèrent un tribut."
+    },
+    {
+      "chapter": 18,
+      "verse": 3,
+      "text": "David battit Hadadézer, roi de Tsoba, près de Hamath, alors que celui-ci allait établir sa domination sur l’Euphrate."
+    },
+    {
+      "chapter": 18,
+      "verse": 4,
+      "text": "David lui prit mille chars, sept mille cavaliers et vingt mille fantassins. Il fit couper les jarrets à tous les chevaux de chars, mais en conserva suffisamment pour cent chars."
+    },
+    {
+      "chapter": 18,
+      "verse": 5,
+      "text": "Lorsque les Syriens de Damas vinrent au secours de Hadadézer, roi de Tsoba, David frappa vingt-deux mille hommes parmi les Syriens."
+    },
+    {
+      "chapter": 18,
+      "verse": 6,
+      "text": "Puis David plaça des garnisons dans la Syrie de Damas ; et les Syriens devinrent les serviteurs de David et apportèrent un tribut. Le SEIGNEUR donnait la victoire à David partout où il allait."
+    },
+    {
+      "chapter": 18,
+      "verse": 7,
+      "text": "David prit les boucliers d’or que portaient les serviteurs de Hadadézer, et les apporta à Jérusalem."
+    },
+    {
+      "chapter": 18,
+      "verse": 8,
+      "text": "De Tibhath et de Cun, villes de Hadadézer, David prit une très grande quantité de bronze, avec lequel Salomon fit la mer de bronze, les colonnes et les ustensiles de bronze."
+    },
+    {
+      "chapter": 18,
+      "verse": 9,
+      "text": "Lorsque Tou, roi de Hamath, apprit que David avait battu toute l’armée de Hadadézer, roi de Tsoba,"
+    },
+    {
+      "chapter": 18,
+      "verse": 10,
+      "text": "il envoya son fils Hadoram auprès du roi David pour le saluer et le féliciter d’avoir combattu et vaincu Hadadézer, qui était en guerre avec Tou. Hadoram apportait toutes sortes d’objets d’or, d’argent et de bronze."
+    },
+    {
+      "chapter": 18,
+      "verse": 11,
+      "text": "Le roi David les consacra aussi au SEIGNEUR, avec l’argent et l’or qu’il avait emportés de toutes les nations : d’Édom, de Moab, des enfants d’Ammon, des Philistins et d’Amalek."
+    },
+    {
+      "chapter": 18,
+      "verse": 12,
+      "text": "De plus, Abischaï, fils de Tseruja, frappa dix-huit mille Édomites dans la vallée du Sel."
+    },
+    {
+      "chapter": 18,
+      "verse": 13,
+      "text": "Il plaça des garnisons en Édom, et tous les Édomites devinrent les serviteurs de David. Le SEIGNEUR donnait la victoire à David partout où il allait."
+    },
+    {
+      "chapter": 18,
+      "verse": 14,
+      "text": "David régna sur tout Israël. Il rendait la justice et faisait respecter le droit pour tout son peuple."
+    },
+    {
+      "chapter": 18,
+      "verse": 15,
+      "text": "Joab, fils de Tseruja, commandait l’armée ; Josaphat, fils d’Ahilud, était archiviste ;"
+    },
+    {
+      "chapter": 18,
+      "verse": 16,
+      "text": "Tsadok, fils d’Ahitub, et Abimélec, fils d’Abiathar, étaient prêtres ; Schavscha était secrétaire ;"
+    },
+    {
+      "chapter": 18,
+      "verse": 17,
+      "text": "Benaja, fils de Jehojada, commandait les Kéréthiens et les Péléthiens, et les fils de David étaient les principaux fonctionnaires au service du roi."
+    },
+    {
+      "chapter": 19,
+      "verse": 1,
+      "text": "Après cela, Nahash, le roi des enfants d’Ammon, mourut, et son fils régna à sa place."
+    },
+    {
+      "chapter": 19,
+      "verse": 2,
+      "text": "David dit : « Je témoignerai de la bonté à Hanun, fils de Nahash, comme son père en a témoigné envers moi. » David envoya donc des messagers pour le consoler de la perte de son père. Les serviteurs de David arrivèrent dans le pays des enfants d’Ammon, auprès de Hanun, pour le consoler."
+    },
+    {
+      "chapter": 19,
+      "verse": 3,
+      "text": "Mais les princes des enfants d’Ammon dirent à Hanun : « Penses-tu que David honore ton père en t’envoyant des hommes pour te consoler ? Ses serviteurs ne sont-ils pas plutôt venus pour explorer, renverser et espionner le pays ? »"
+    },
+    {
+      "chapter": 19,
+      "verse": 4,
+      "text": "Hanun prit donc les serviteurs de David, les rasa, coupa leurs vêtements par le milieu jusqu’aux fesses, et les renvoya."
+    },
+    {
+      "chapter": 19,
+      "verse": 5,
+      "text": "Des gens allèrent informer David de la façon dont ces hommes avaient été traités. Il envoya des messagers à leur rencontre, car ces hommes étaient profondément humiliés. Le roi leur fit dire : « Restez à Jéricho jusqu’à ce que votre barbe ait poussé, puis revenez. »"
+    },
+    {
+      "chapter": 19,
+      "verse": 6,
+      "text": "Quand les enfants d’Ammon comprirent qu’ils avaient provoqué l’hostilité de David, Hanun et les enfants d’Ammon envoyèrent mille talents d’argent pour engager à leur service des chars et des cavaliers de Mésopotamie, d’Aram-Maaca et de Tsoba."
+    },
+    {
+      "chapter": 19,
+      "verse": 7,
+      "text": "Ils engagèrent ainsi trente-deux mille chars, ainsi que le roi de Maaca avec son peuple, qui vinrent camper près de Médeba. Les enfants d’Ammon se rassemblèrent de leurs villes et marchèrent au combat."
+    },
+    {
+      "chapter": 19,
+      "verse": 8,
+      "text": "Lorsque David l’apprit, il envoya Joab avec toute l’armée, y compris ses meilleurs guerriers."
+    },
+    {
+      "chapter": 19,
+      "verse": 9,
+      "text": "Les enfants d’Ammon firent une sortie et se rangèrent en ordre de bataille à la porte de la ville ; et les rois qui étaient venus se tenaient à part dans la campagne."
+    },
+    {
+      "chapter": 19,
+      "verse": 10,
+      "text": "Joab vit qu’il devait combattre sur deux fronts, devant et derrière lui. Il choisit donc une troupe d’élite parmi les hommes d’Israël et la rangea en ordre de bataille face aux Syriens."
+    },
+    {
+      "chapter": 19,
+      "verse": 11,
+      "text": "Il confia le reste du peuple au commandement de son frère Abishaï, et ils se rangèrent en ordre de bataille face aux enfants d’Ammon."
+    },
+    {
+      "chapter": 19,
+      "verse": 12,
+      "text": "Il dit : « Si les Syriens sont trop forts pour moi, tu viendras à mon secours ; mais si les enfants d’Ammon sont trop forts pour toi, c’est moi qui viendrai à ton secours."
+    },
+    {
+      "chapter": 19,
+      "verse": 13,
+      "text": "Soyons courageux et combattons avec force pour notre peuple et pour les villes de notre Dieu. Que le SEIGNEUR fasse ce qui lui semble bon. »"
+    },
+    {
+      "chapter": 19,
+      "verse": 14,
+      "text": "Joab, avec le peuple qui l’accompagnait, s’avança pour attaquer les Syriens, et ils s’enfuirent devant lui."
+    },
+    {
+      "chapter": 19,
+      "verse": 15,
+      "text": "Quand les enfants d’Ammon virent que les Syriens avaient pris la fuite, ils s’enfuirent également devant Abishaï, son frère, et rentrèrent dans la ville. Puis Joab revint à Jérusalem."
+    },
+    {
+      "chapter": 19,
+      "verse": 16,
+      "text": "Voyant qu’ils avaient été battus par Israël, les Syriens envoyèrent des messagers pour faire venir les Syriens qui étaient de l’autre côté du Fleuve, avec à leur tête Shophac, le chef de l’armée d’Hadadézer."
+    },
+    {
+      "chapter": 19,
+      "verse": 17,
+      "text": "David en fut informé. Il rassembla tout Israël, traversa le Jourdain et marcha contre eux. Il rangea son armée face aux Syriens, qui engagèrent le combat."
+    },
+    {
+      "chapter": 19,
+      "verse": 18,
+      "text": "Les Syriens s’enfuirent devant Israël ; et David tua parmi les Syriens sept mille conducteurs de chars et quarante mille fantassins, et il mit à mort Shophac, le chef de l’armée."
+    },
+    {
+      "chapter": 19,
+      "verse": 19,
+      "text": "Quand les serviteurs d’Hadadézer virent qu’ils avaient été battus par Israël, ils firent la paix avec David et le servirent. Et les Syriens ne voulurent plus secourir les enfants d’Ammon."
+    },
+    {
+      "chapter": 20,
+      "verse": 1,
+      "text": "L’année suivante, à l’époque où les rois partent en campagne, Joab prit la tête de l’armée, ravagea le pays des fils d’Ammon, puis assiégea Rabba. David, lui, resta à Jérusalem. Joab attaqua Rabba et la détruisit."
+    },
+    {
+      "chapter": 20,
+      "verse": 2,
+      "text": "David prit la couronne de leur roi de dessus sa tête, et constata qu’elle pesait un talent d’or, et qu’elle était garnie de pierres précieuses. On la plaça sur la tête de David, qui emporta de la ville un très grand butin."
+    },
+    {
+      "chapter": 20,
+      "verse": 3,
+      "text": "Il fit sortir les habitants de la ville et les fit mettre en pièces avec des scies, des pioches de fer et des haches. David agit de même envers toutes les villes des fils d’Ammon. Ensuite, David et tout le peuple retournèrent à Jérusalem."
+    },
+    {
+      "chapter": 20,
+      "verse": 4,
+      "text": "Après cela, une guerre éclata à Guézer contre les Philistins. Alors Sibbecaï le Huschatite tua Sippaï, l’un des descendants du géant ; et les Philistins furent soumis."
+    },
+    {
+      "chapter": 20,
+      "verse": 5,
+      "text": "Il y eut encore une guerre contre les Philistins ; et Elhanan, fils de Jaïr, tua Lachmi, le frère de Goliath le Guittite, dont la hampe de la lance était comme une ensouple de tisserand."
+    },
+    {
+      "chapter": 20,
+      "verse": 6,
+      "text": "Il y eut encore une guerre à Gath, où se trouvait un homme de haute taille, qui avait vingt-quatre doigts et orteils, six à chaque main et six à chaque pied ; lui aussi était né du géant."
+    },
+    {
+      "chapter": 20,
+      "verse": 7,
+      "text": "Lorsqu’il mit Israël au défi, Jonathan, fils de Schimea, frère de David, le tua."
+    },
+    {
+      "chapter": 20,
+      "verse": 8,
+      "text": "Ces hommes étaient nés du géant à Gath. Ils furent tués par David et ses serviteurs."
+    },
+    {
+      "chapter": 21,
+      "verse": 1,
+      "text": "Satan se leva contre Israël, et incita David à faire le dénombrement d’Israël."
+    },
+    {
+      "chapter": 21,
+      "verse": 2,
+      "text": "David dit à Joab et aux chefs du peuple : « Allez, comptez Israël, depuis Beer-Shéba jusqu’à Dan, et faites-m’en un rapport, afin que je sache combien ils sont. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 3,
+      "text": "Joab répondit : « Que le SEIGNEUR multiplie son peuple au centuple ! Mon seigneur le roi, ne sont-ils pas tous tes serviteurs ? Pourquoi demandes-tu cela ? Pourquoi Israël deviendrait-il coupable à cause de toi ? »"
+    },
+    {
+      "chapter": 21,
+      "verse": 4,
+      "text": "Néanmoins, la parole du roi l’emporta sur Joab. Joab partit donc et parcourut tout Israël, puis il revint à Jérusalem."
+    },
+    {
+      "chapter": 21,
+      "verse": 5,
+      "text": "Joab remit à David le résultat du dénombrement du peuple. Il y avait dans tout Israël un million cent mille hommes tirant l’épée, et en Juda, quatre cent soixante-dix mille hommes tirant l’épée."
+    },
+    {
+      "chapter": 21,
+      "verse": 6,
+      "text": "Mais il ne compta parmi eux ni Lévi ni Benjamin, car l’ordre du roi répugnait à Joab."
+    },
+    {
+      "chapter": 21,
+      "verse": 7,
+      "text": "Cet acte déplut à Dieu, qui frappa Israël."
+    },
+    {
+      "chapter": 21,
+      "verse": 8,
+      "text": "David dit à Dieu : « J’ai gravement péché en faisant cela. Maintenant, je t’en prie, efface la faute de ton serviteur, car j’ai agi de manière insensée. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 9,
+      "text": "Le SEIGNEUR parla à Gad, le voyant de David :"
+    },
+    {
+      "chapter": 21,
+      "verse": 10,
+      "text": "« Va dire à David : ‹ Ainsi parle le SEIGNEUR : Je te propose trois choses. Choisis-en une, et je te l’infligerai. › »"
+    },
+    {
+      "chapter": 21,
+      "verse": 11,
+      "text": "Gad alla trouver David et lui dit : « Ainsi parle le SEIGNEUR : ‹ Fais ton choix :"
+    },
+    {
+      "chapter": 21,
+      "verse": 12,
+      "text": "ou trois années de famine ; ou trois mois pendant lesquels tu seras accablé devant tes adversaires et poursuivi par l’épée de tes ennemis ; ou trois jours de l’épée du SEIGNEUR, avec la peste dans le pays et l’ange du SEIGNEUR semant la destruction dans tout le territoire d’Israël. Réfléchis maintenant à la réponse que je dois rapporter à celui qui m’a envoyé. › »"
+    },
+    {
+      "chapter": 21,
+      "verse": 13,
+      "text": "David dit à Gad : « Je suis dans une grande angoisse. Que je tombe, je te prie, entre les mains du SEIGNEUR, car ses miséricordes sont immenses. Mais que je ne tombe pas entre les mains des hommes. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 14,
+      "text": "Le SEIGNEUR envoya donc la peste en Israël, et soixante-dix mille hommes d’Israël tombèrent."
+    },
+    {
+      "chapter": 21,
+      "verse": 15,
+      "text": "Dieu envoya un ange à Jérusalem pour la détruire. Mais au moment où il allait la détruire, le SEIGNEUR regarda et renonça au désastre. Il dit à l’ange destructeur : « Cela suffit ! Retire maintenant ta main. » L’ange du SEIGNEUR se tenait près de l’aire d’Ornan, le Jébusien."
+    },
+    {
+      "chapter": 21,
+      "verse": 16,
+      "text": "David leva les yeux et vit l’ange du SEIGNEUR qui se tenait entre la terre et le ciel, tenant à la main une épée dégainée, tendue sur Jérusalem. Alors David et les anciens, couverts de sacs, tombèrent le visage contre terre."
+    },
+    {
+      "chapter": 21,
+      "verse": 17,
+      "text": "David dit à Dieu : « N’est-ce pas moi qui ai ordonné le dénombrement du peuple ? C’est moi qui ai péché et qui ai agi de manière profondément mauvaise. Mais ces brebis, qu’ont-elles fait ? Que ta main, ô SEIGNEUR mon Dieu, soit sur moi et sur la maison de mon père, mais qu’elle ne frappe pas ton peuple de ce fléau ! »"
+    },
+    {
+      "chapter": 21,
+      "verse": 18,
+      "text": "Alors l’ange du SEIGNEUR ordonna à Gad de dire à David de monter pour dresser un autel au SEIGNEUR sur l’aire d’Ornan, le Jébusien."
+    },
+    {
+      "chapter": 21,
+      "verse": 19,
+      "text": "David monta, selon la parole que Gad avait prononcée au nom du SEIGNEUR."
+    },
+    {
+      "chapter": 21,
+      "verse": 20,
+      "text": "Ornan se retourna et vit l’ange ; et ses quatre fils, qui étaient avec lui, se cachèrent. Ornan était en train de battre du blé."
+    },
+    {
+      "chapter": 21,
+      "verse": 21,
+      "text": "Lorsque David arriva près d’Ornan, Ornan regarda et aperçut David. Il sortit de l’aire et se prosterna devant David, le visage contre terre."
+    },
+    {
+      "chapter": 21,
+      "verse": 22,
+      "text": "David dit à Ornan : « Vends-moi l’emplacement de cette aire afin que j’y bâtisse un autel au SEIGNEUR. Vends-le-moi à son juste prix, pour que le fléau soit écarté du peuple. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 23,
+      "text": "Ornan répondit à David : « Prends-le, et que mon seigneur le roi fasse ce qui lui semble bon. Voici, je donne les bœufs pour les holocaustes, les traîneaux à battre pour le bois et le blé pour l’offrande de grain. Je donne tout. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 24,
+      "text": "Le roi David dit à Ornan : « Non, je veux l’acheter contre sa pleine valeur en argent. Car je ne prendrai pas ce qui est à toi pour le SEIGNEUR, et je n’offrirai pas un holocauste qui ne me coûte rien. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 25,
+      "text": "David donna donc à Ornan six cents sicles d’or au poids pour cet emplacement."
+    },
+    {
+      "chapter": 21,
+      "verse": 26,
+      "text": "David bâtit là un autel au SEIGNEUR, et il offrit des holocaustes et des sacrifices de paix. Il invoqua le SEIGNEUR, qui lui répondit du ciel par le feu, sur l’autel de l’holocauste."
+    },
+    {
+      "chapter": 21,
+      "verse": 27,
+      "text": "Alors le SEIGNEUR donna un ordre à l’ange, et celui-ci remit son épée dans le fourreau."
+    },
+    {
+      "chapter": 21,
+      "verse": 28,
+      "text": "À cette époque, voyant que le SEIGNEUR lui avait répondu sur l’aire d’Ornan, le Jébusien, David y offrit des sacrifices."
+    },
+    {
+      "chapter": 21,
+      "verse": 29,
+      "text": "Car le tabernacle du SEIGNEUR, que Moïse avait fait dans le désert, et l’autel de l’holocauste, se trouvaient alors sur le haut lieu de Gabaon."
+    },
+    {
+      "chapter": 21,
+      "verse": 30,
+      "text": "Mais David ne pouvait pas se rendre devant le tabernacle pour consulter Dieu, car l’épée de l’ange du SEIGNEUR le remplissait de terreur."
+    },
+    {
+      "chapter": 22,
+      "verse": 1,
+      "text": "Alors David dit : « Voici la maison du SEIGNEUR Dieu, et voici l’autel des holocaustes pour Israël. »"
+    },
+    {
+      "chapter": 22,
+      "verse": 2,
+      "text": "David ordonna de rassembler les étrangers qui se trouvaient dans le pays d’Israël, et il désigna des tailleurs de pierre pour préparer des pierres de taille afin de bâtir la maison de Dieu."
+    },
+    {
+      "chapter": 22,
+      "verse": 3,
+      "text": "David prépara du fer en abondance pour les clous des battants des portes et pour les crampons, ainsi que du bronze en abondance, impossible à peser,"
+    },
+    {
+      "chapter": 22,
+      "verse": 4,
+      "text": "et du bois de cèdre incalculable, car les Sidoniens et les Tyriens avaient apporté à David du bois de cèdre en abondance."
+    },
+    {
+      "chapter": 22,
+      "verse": 5,
+      "text": "David se disait : « Mon fils Salomon est jeune et inexpérimenté. Or, la maison qui sera bâtie pour le SEIGNEUR doit être d’une magnificence exceptionnelle, célèbre et glorieuse dans tous les pays. Je vais donc en préparer la construction. » Ainsi David fit d’abondants préparatifs avant sa mort."
+    },
+    {
+      "chapter": 22,
+      "verse": 6,
+      "text": "Puis il appela son fils Salomon et lui ordonna de bâtir une maison pour le SEIGNEUR, le Dieu d’Israël."
+    },
+    {
+      "chapter": 22,
+      "verse": 7,
+      "text": "David dit à son fils Salomon : « Mon fils, j’avais à cœur de bâtir une maison pour le nom du SEIGNEUR, mon Dieu."
+    },
+    {
+      "chapter": 22,
+      "verse": 8,
+      "text": "Mais la parole du SEIGNEUR m’a été adressée : ‹ Tu as versé beaucoup de sang et mené de grandes guerres. Tu ne bâtiras pas de maison pour mon nom, car tu as versé beaucoup de sang sur la terre devant moi."
+    },
+    {
+      "chapter": 22,
+      "verse": 9,
+      "text": "Voici, il te naîtra un fils, qui sera un homme de paix. Je lui accorderai le repos face à tous ses ennemis d’alentour ; car son nom sera Salomon, et je donnerai la paix et la tranquillité à Israël de son temps."
+    },
+    {
+      "chapter": 22,
+      "verse": 10,
+      "text": "C’est lui qui bâtira une maison pour mon nom. Il sera mon fils, et je serai son père. J’affermirai pour toujours le trône de son royaume sur Israël. ›"
+    },
+    {
+      "chapter": 22,
+      "verse": 11,
+      "text": "Maintenant, mon fils, que le SEIGNEUR soit avec toi et qu’il te fasse réussir dans la construction de la maison du SEIGNEUR ton Dieu, comme il l’a déclaré à ton sujet."
+    },
+    {
+      "chapter": 22,
+      "verse": 12,
+      "text": "Que le SEIGNEUR t’accorde discernement et intelligence, et qu’il te confie la direction d’Israël, afin que tu observes la loi du SEIGNEUR ton Dieu."
+    },
+    {
+      "chapter": 22,
+      "verse": 13,
+      "text": "Alors tu réussiras, si tu veilles à mettre en pratique les prescriptions et les ordonnances que le SEIGNEUR a données à Moïse pour Israël. Sois fort et courageux. N’aie pas peur et ne te laisse pas effrayer."
+    },
+    {
+      "chapter": 22,
+      "verse": 14,
+      "text": "Voici, dans ma détresse, j’ai préparé pour la maison du SEIGNEUR cent mille talents d’or, un million de talents d’argent, ainsi que du bronze et du fer impossibles à peser, car il y en a en abondance. J’ai aussi préparé du bois et des pierres, et tu pourras encore y en ajouter."
+    },
+    {
+      "chapter": 22,
+      "verse": 15,
+      "text": "Tu as aussi avec toi des ouvriers en abondance : des tailleurs, des ouvriers pour la pierre et le bois, et toutes sortes d’hommes habiles pour chaque type d’ouvrage."
+    },
+    {
+      "chapter": 22,
+      "verse": 16,
+      "text": "L’or, l’argent, le bronze et le fer sont incalculables. Lève-toi et agis, et que le SEIGNEUR soit avec toi ! »"
+    },
+    {
+      "chapter": 22,
+      "verse": 17,
+      "text": "David ordonna aussi à tous les chefs d’Israël d’aider son fils Salomon :"
+    },
+    {
+      "chapter": 22,
+      "verse": 18,
+      "text": "« Le SEIGNEUR, votre Dieu, n’est-il pas avec vous ? Ne vous a-t-il pas donné le repos de tous côtés ? Car il a livré entre mes mains les habitants du pays, et le pays est assujetti devant le SEIGNEUR et devant son peuple."
+    },
+    {
+      "chapter": 22,
+      "verse": 19,
+      "text": "Consacrez maintenant votre cœur et tout votre être à rechercher le SEIGNEUR votre Dieu. Levez-vous et bâtissez le sanctuaire du SEIGNEUR Dieu, afin d’y faire entrer l’arche de l’alliance du SEIGNEUR et les ustensiles sacrés de Dieu, dans la maison qui sera bâtie pour le nom du SEIGNEUR. »"
+    },
+    {
+      "chapter": 23,
+      "verse": 1,
+      "text": "David était devenu vieux et était parvenu à un âge avancé. Il établit son fils Salomon roi sur Israël."
+    },
+    {
+      "chapter": 23,
+      "verse": 2,
+      "text": "Il rassembla tous les chefs d’Israël, avec les prêtres et les Lévites."
+    },
+    {
+      "chapter": 23,
+      "verse": 3,
+      "text": "On recensa les Lévites âgés de trente ans ou plus ; leur nombre, compté individuellement, était de trente-huit mille."
+    },
+    {
+      "chapter": 23,
+      "verse": 4,
+      "text": "David dit : « Sur ce nombre, vingt-quatre mille seront chargés de superviser l’œuvre de la maison du SEIGNEUR, six mille seront officiers et juges,"
+    },
+    {
+      "chapter": 23,
+      "verse": 5,
+      "text": "quatre mille seront portiers, et quatre mille loueront le SEIGNEUR avec les instruments que j’ai fabriqués pour le célébrer. »"
+    },
+    {
+      "chapter": 23,
+      "verse": 6,
+      "text": "David les répartit en divisions d’après les fils de Lévi : Guershon, Kehath et Merari."
+    },
+    {
+      "chapter": 23,
+      "verse": 7,
+      "text": "Pour les Guershonites : Ladan et Shimeï."
+    },
+    {
+      "chapter": 23,
+      "verse": 8,
+      "text": "Les fils de Ladan : Yehiel le chef, Zétham et Joël, trois."
+    },
+    {
+      "chapter": 23,
+      "verse": 9,
+      "text": "Les fils de Shimeï : Shelomoth, Haziel et Haran, trois. Ce sont là les chefs des maisons paternelles de Ladan."
+    },
+    {
+      "chapter": 23,
+      "verse": 10,
+      "text": "Les fils de Shimeï : Yahath, Zina, Yeoush et Beria. Ce sont là les quatre fils de Shimeï."
+    },
+    {
+      "chapter": 23,
+      "verse": 11,
+      "text": "Yahath était le chef, et Ziza le second ; mais Yeoush et Beria n’eurent pas beaucoup de fils, ils formèrent donc une seule maison paternelle pour le dénombrement."
+    },
+    {
+      "chapter": 23,
+      "verse": 12,
+      "text": "Les fils de Kehath : Amram, Yitsehar, Hébron et Ouzziel, quatre."
+    },
+    {
+      "chapter": 23,
+      "verse": 13,
+      "text": "Les fils d’Amram : Aaron et Moïse. Aaron fut mis à part, lui et ses fils pour toujours, afin d’être consacrés au service des choses très saintes, de brûler l’encens devant le SEIGNEUR, de le servir et de bénir en son nom."
+    },
+    {
+      "chapter": 23,
+      "verse": 14,
+      "text": "Quant à Moïse, l’homme de Dieu, ses fils furent comptés dans la tribu de Lévi."
+    },
+    {
+      "chapter": 23,
+      "verse": 15,
+      "text": "Les fils de Moïse : Guershom et Éliézer."
+    },
+    {
+      "chapter": 23,
+      "verse": 16,
+      "text": "Fils de Guershom : Shebouel, le chef."
+    },
+    {
+      "chapter": 23,
+      "verse": 17,
+      "text": "Le fils d’Éliézer fut Rehabia, le chef. Éliézer n’eut pas d’autres fils, mais les fils de Rehabia furent très nombreux."
+    },
+    {
+      "chapter": 23,
+      "verse": 18,
+      "text": "Fils de Yitsehar : Shelomith, le chef."
+    },
+    {
+      "chapter": 23,
+      "verse": 19,
+      "text": "Les fils d’Hébron : Yeriya le chef, Amaria le second, Yahaziel le troisième, et Yeqameam le quatrième."
+    },
+    {
+      "chapter": 23,
+      "verse": 20,
+      "text": "Les fils d’Ouzziel : Michée le chef, et Yishiya le second."
+    },
+    {
+      "chapter": 23,
+      "verse": 21,
+      "text": "Les fils de Merari : Mahli et Mouchi. Les fils de Mahli : Éléazar et Qish."
+    },
+    {
+      "chapter": 23,
+      "verse": 22,
+      "text": "Éléazar mourut sans avoir de fils ; il n’eut que des filles, et leurs cousins, les fils de Qish, les prirent pour femmes."
+    },
+    {
+      "chapter": 23,
+      "verse": 23,
+      "text": "Les fils de Mouchi : Mahli, Éder et Yerémoth, trois."
+    },
+    {
+      "chapter": 23,
+      "verse": 24,
+      "text": "Tels furent les descendants de Lévi, classés selon leurs familles paternelles et recensés individuellement par leur nom. Ceux qui accomplissaient le service de la maison du SEIGNEUR étaient âgés de vingt ans ou plus."
+    },
+    {
+      "chapter": 23,
+      "verse": 25,
+      "text": "Car David avait dit : « Le SEIGNEUR, le Dieu d’Israël, a donné du repos à son peuple, et il réside à Jérusalem pour toujours."
+    },
+    {
+      "chapter": 23,
+      "verse": 26,
+      "text": "De plus, les Lévites n’auront plus à porter le tabernacle ni aucun de ses ustensiles pour son service. »"
+    },
+    {
+      "chapter": 23,
+      "verse": 27,
+      "text": "En effet, selon les dernières instructions de David, les descendants de Lévi furent recensés à partir de l’âge de vingt ans."
+    },
+    {
+      "chapter": 23,
+      "verse": 28,
+      "text": "Ils avaient pour fonction d’assister les fils d’Aaron dans le service de la maison du SEIGNEUR, dans les parvis et les salles, de veiller à la purification de toutes les choses saintes et d’accomplir les différentes tâches du service de la maison de Dieu ;"
+    },
+    {
+      "chapter": 23,
+      "verse": 29,
+      "text": "de s’occuper des pains de la Présence, de la farine fine destinée à l’offrande de grain, des galettes sans levain, des préparations cuites à la poêle ou trempées, ainsi que de toutes les mesures de capacité et de longueur ;"
+    },
+    {
+      "chapter": 23,
+      "verse": 30,
+      "text": "de se tenir là chaque matin pour remercier et louer le SEIGNEUR, et de même le soir ;"
+    },
+    {
+      "chapter": 23,
+      "verse": 31,
+      "text": "d’assister à l’offrande de tous les holocaustes présentés au SEIGNEUR lors des sabbats, des nouvelles lunes et des fêtes fixées, selon le nombre prescrit pour chacun, continuellement devant le SEIGNEUR ;"
+    },
+    {
+      "chapter": 23,
+      "verse": 32,
+      "text": "et d’assurer la garde de la tente de la Rencontre et du sanctuaire, tout en assistant les fils d’Aaron, leurs frères, dans le service de la maison du SEIGNEUR."
+    },
+    {
+      "chapter": 24,
+      "verse": 1,
+      "text": "Voici les classes des fils d’Aaron. Fils d’Aaron : Nadab, Abihu, Éléazar et Ithamar."
+    },
+    {
+      "chapter": 24,
+      "verse": 2,
+      "text": "Mais Nadab et Abihu moururent avant leur père, sans laisser d’enfants ; c’est pourquoi Éléazar et Ithamar officièrent comme prêtres."
+    },
+    {
+      "chapter": 24,
+      "verse": 3,
+      "text": "David, avec Tsadok, des fils d’Éléazar, et Ahimélec, des fils d’Ithamar, les répartit selon l’ordre de leur service."
+    },
+    {
+      "chapter": 24,
+      "verse": 4,
+      "text": "Il se trouva parmi les fils d’Éléazar plus de chefs que parmi les fils d’Ithamar, et on les répartit ainsi : seize chefs de famille pour les fils d’Éléazar, et huit pour les fils d’Ithamar, selon leurs familles."
+    },
+    {
+      "chapter": 24,
+      "verse": 5,
+      "text": "Ils furent répartis impartialement par tirage au sort, car les responsables du sanctuaire et du service de Dieu se trouvaient aussi bien parmi les fils d’Éléazar que parmi ceux d’Ithamar."
+    },
+    {
+      "chapter": 24,
+      "verse": 6,
+      "text": "Schemaïa, fils de Nethaneel, scribe lévite, les inscrivit en présence du roi, des princes, du prêtre Tsadok, d’Ahimélec, fils d’Abiathar, et des chefs de famille des prêtres et des Lévites. On tirait alternativement une famille d’Éléazar et une famille d’Ithamar."
+    },
+    {
+      "chapter": 24,
+      "verse": 7,
+      "text": "Le premier sort échut à Jehojarib, le deuxième à Jedaeja,"
+    },
+    {
+      "chapter": 24,
+      "verse": 8,
+      "text": "le troisième à Harim, le quatrième à Séorim,"
+    },
+    {
+      "chapter": 24,
+      "verse": 9,
+      "text": "le cinquième à Malkija, le sixième à Mijamin,"
+    },
+    {
+      "chapter": 24,
+      "verse": 10,
+      "text": "le septième à Hakkots, le huitième à Abija,"
+    },
+    {
+      "chapter": 24,
+      "verse": 11,
+      "text": "le neuvième à Jéschua, le dixième à Schecania,"
+    },
+    {
+      "chapter": 24,
+      "verse": 12,
+      "text": "le onzième à Éliaschib, le douzième à Jakim,"
+    },
+    {
+      "chapter": 24,
+      "verse": 13,
+      "text": "le treizième à Huppa, le quatorzième à Jéschébeab,"
+    },
+    {
+      "chapter": 24,
+      "verse": 14,
+      "text": "le quinzième à Bilga, le seizième à Immer,"
+    },
+    {
+      "chapter": 24,
+      "verse": 15,
+      "text": "le dix-septième à Hézir, le dix-huitième à Happitsets,"
+    },
+    {
+      "chapter": 24,
+      "verse": 16,
+      "text": "le dix-neuvième à Pethahja, le vingtième à Ézéchiel,"
+    },
+    {
+      "chapter": 24,
+      "verse": 17,
+      "text": "le vingt et unième à Jakin, le vingt-deuxième à Gamul,"
+    },
+    {
+      "chapter": 24,
+      "verse": 18,
+      "text": "le vingt-troisième à Delaja, et le vingt-quatrième à Maazia."
+    },
+    {
+      "chapter": 24,
+      "verse": 19,
+      "text": "Tel était l’ordre dans lequel ils accomplissaient leur service en entrant dans la maison du SEIGNEUR, conformément à la règle transmise par leur ancêtre Aaron, comme le SEIGNEUR, le Dieu d’Israël, le lui avait ordonné."
+    },
+    {
+      "chapter": 24,
+      "verse": 20,
+      "text": "Quant au reste des fils de Lévi : des fils d’Amram, Schubael ; des fils de Schubael, Jehdeja."
+    },
+    {
+      "chapter": 24,
+      "verse": 21,
+      "text": "De Rehabia : des fils de Rehabia, Jischija, le chef."
+    },
+    {
+      "chapter": 24,
+      "verse": 22,
+      "text": "Des Jitseharites, Schelomoth ; des fils de Schelomoth, Jahath."
+    },
+    {
+      "chapter": 24,
+      "verse": 23,
+      "text": "Les fils d’Hébron : Jerija, Amaria le deuxième, Jahaziel le troisième, et Jekameam le quatrième."
+    },
+    {
+      "chapter": 24,
+      "verse": 24,
+      "text": "Les fils d’Uziel : Michée ; des fils de Michée, Schamir."
+    },
+    {
+      "chapter": 24,
+      "verse": 25,
+      "text": "Le frère de Michée : Jischija ; des fils de Jischija, Zacharie."
+    },
+    {
+      "chapter": 24,
+      "verse": 26,
+      "text": "Les fils de Merari : Mahli et Muschi. Le fils de Jaazija : Beno."
+    },
+    {
+      "chapter": 24,
+      "verse": 27,
+      "text": "Les fils de Merari par Jaazija : Beno, Schoham, Zaccur et Ibri."
+    },
+    {
+      "chapter": 24,
+      "verse": 28,
+      "text": "De Mahli : Éléazar, qui n’eut pas de fils."
+    },
+    {
+      "chapter": 24,
+      "verse": 29,
+      "text": "De Kis : le fils de Kis, Jerahmeel."
+    },
+    {
+      "chapter": 24,
+      "verse": 30,
+      "text": "Les fils de Muschi : Mahli, Éder et Jerimoth. Ce sont là les fils des Lévites, selon leurs familles."
+    },
+    {
+      "chapter": 24,
+      "verse": 31,
+      "text": "Eux aussi tirèrent au sort comme leurs frères, les fils d’Aaron, en présence du roi David, de Tsadok, d’Ahimélec et des chefs de famille des prêtres et des Lévites. Les familles des chefs furent traitées comme celles de leurs frères cadets."
+    },
+    {
+      "chapter": 25,
+      "verse": 1,
+      "text": "David et les chefs de l’armée mirent à part pour le service certains descendants d’Asaph, d’Héman et de Jeduthun, qui prophétisaient au son des harpes, des lyres et des cymbales. Voici le nombre de ceux qui accomplissaient ce service :"
+    },
+    {
+      "chapter": 25,
+      "verse": 2,
+      "text": "des fils d’Asaph : Zaccur, Joseph, Nethaniah et Asharelah. Les fils d’Asaph étaient sous la direction d’Asaph, qui prophétisait sur l’ordre du roi."
+    },
+    {
+      "chapter": 25,
+      "verse": 3,
+      "text": "De Jeduthun, les fils de Jeduthun : Gédaliah, Zéri, Jeshaiah, Shimeï, Hashabiah et Mattithiah, au nombre de six, sous la direction de leur père Jeduthun, qui prophétisait avec la harpe pour rendre grâces et louer le SEIGNEUR."
+    },
+    {
+      "chapter": 25,
+      "verse": 4,
+      "text": "D’Héman, les fils d’Héman : Bukkiah, Mattaniah, Uzziel, Shebuel, Jérimoth, Hananiah, Hanani, Éliathah, Giddalti, Romamti-Ézer, Joshbékashah, Mallothi, Hothir et Mahazioth."
+    },
+    {
+      "chapter": 25,
+      "verse": 5,
+      "text": "Tous ceux-là étaient fils d’Héman, le voyant du roi, chargé de transmettre les paroles de Dieu et d’élever la corne. Dieu avait donné à Héman quatorze fils et trois filles."
+    },
+    {
+      "chapter": 25,
+      "verse": 6,
+      "text": "Tous ceux-là étaient sous la direction de leur père pour le chant dans la maison du SEIGNEUR, avec des cymbales, des lyres et des harpes, pour le service de la maison de Dieu. Asaph, Jeduthun et Héman étaient sous les ordres du roi."
+    },
+    {
+      "chapter": 25,
+      "verse": 7,
+      "text": "Leur nombre, avec leurs frères qui étaient instruits dans le chant pour le SEIGNEUR, tous ceux qui étaient habiles, s’élevait à deux cent quatre-vingt-huit."
+    },
+    {
+      "chapter": 25,
+      "verse": 8,
+      "text": "Ils tirèrent au sort leurs fonctions sans distinction, le petit comme le grand, le maître comme le disciple."
+    },
+    {
+      "chapter": 25,
+      "verse": 9,
+      "text": "Le premier sort échut, pour Asaph, à Joseph ; le deuxième à Gédaliah, lui, ses frères et ses fils, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 10,
+      "text": "le troisième à Zaccur, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 11,
+      "text": "le quatrième à Izri, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 12,
+      "text": "le cinquième à Nethaniah, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 13,
+      "text": "le sixième à Bukkiah, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 14,
+      "text": "le septième à Jesharelah, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 15,
+      "text": "le huitième à Jeshaiah, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 16,
+      "text": "le neuvième à Mattaniah, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 17,
+      "text": "le dixième à Shimeï, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 18,
+      "text": "le onzième à Azarel, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 19,
+      "text": "le douzième à Hashabiah, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 20,
+      "text": "pour le treizième, à Shubael, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 21,
+      "text": "pour le quatorzième, à Mattithiah, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 22,
+      "text": "pour le quinzième, à Jérémoth, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 23,
+      "text": "pour le seizième, à Hananiah, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 24,
+      "text": "pour le dix-septième, à Joshbékashah, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 25,
+      "text": "pour le dix-huitième, à Hanani, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 26,
+      "text": "pour le dix-neuvième, à Mallothi, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 27,
+      "text": "pour le vingtième, à Éliathah, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 28,
+      "text": "pour le vingt et unième, à Hothir, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 29,
+      "text": "pour le vingt-deuxième, à Giddalti, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 30,
+      "text": "pour le vingt-troisième, à Mahazioth, ses fils et ses frères, douze ;"
+    },
+    {
+      "chapter": 25,
+      "verse": 31,
+      "text": "pour le vingt-quatrième, à Romamti-Ézer, ses fils et ses frères, douze."
+    },
+    {
+      "chapter": 26,
+      "verse": 1,
+      "text": "Pour les divisions des portiers : des Coréites, Meschélémia, fils de Coré, parmi les fils d’Asaph."
+    },
+    {
+      "chapter": 26,
+      "verse": 2,
+      "text": "Fils de Meschélémia : Zacharie le premier-né, Jediaël le deuxième, Zébadia le troisième, Jathniel le quatrième,"
+    },
+    {
+      "chapter": 26,
+      "verse": 3,
+      "text": "Élam le cinquième, Jochanan le sixième, et Élihoénaï le septième."
+    },
+    {
+      "chapter": 26,
+      "verse": 4,
+      "text": "Fils d’Obed-Édom : Chemaïa le premier-né, Jozabad le deuxième, Joach le troisième, Sacar le quatrième, Nethanel le cinquième,"
+    },
+    {
+      "chapter": 26,
+      "verse": 5,
+      "text": "Ammiel le sixième, Issacar le septième, et Peulthaï le huitième ; car Dieu l’avait béni."
+    },
+    {
+      "chapter": 26,
+      "verse": 6,
+      "text": "Des fils naquirent aussi à Chemaïa, son fils. Ils dirigeaient leur famille, car c’étaient des guerriers vaillants."
+    },
+    {
+      "chapter": 26,
+      "verse": 7,
+      "text": "Les fils de Chemaïa : Othni, Rephaël, Obed et Elzabad, dont les frères, Élihu et Semakia, étaient des hommes vaillants."
+    },
+    {
+      "chapter": 26,
+      "verse": 8,
+      "text": "Tous ceux-là étaient des fils d’Obed-Édom ; eux, leurs fils et leurs frères, étaient des hommes capables et pleins de force pour le service : soixante-deux pour Obed-Édom."
+    },
+    {
+      "chapter": 26,
+      "verse": 9,
+      "text": "Meschélémia eut des fils et des frères, des hommes vaillants, au nombre de dix-huit."
+    },
+    {
+      "chapter": 26,
+      "verse": 10,
+      "text": "Hosa, l’un des fils de Merari, eut aussi des fils : Chimri, le chef (bien qu’il ne fût pas le premier-né, son père l’avait établi chef),"
+    },
+    {
+      "chapter": 26,
+      "verse": 11,
+      "text": "Hilkia le deuxième, Tebalia le troisième, et Zacharie le quatrième. Tous les fils et frères de Hosa étaient au nombre de treize."
+    },
+    {
+      "chapter": 26,
+      "verse": 12,
+      "text": "Ces divisions de portiers, dirigées par leurs chefs, recevaient leurs charges comme leurs frères afin d’assurer le service dans la maison du SEIGNEUR."
+    },
+    {
+      "chapter": 26,
+      "verse": 13,
+      "text": "Ils tirèrent au sort, les petits comme les grands, selon leurs familles, pour l’affectation de chaque porte."
+    },
+    {
+      "chapter": 26,
+      "verse": 14,
+      "text": "Le sort attribua la porte orientale à Chélémia. On tira ensuite au sort pour son fils Zacharie, conseiller avisé, et le côté nord lui fut attribué."
+    },
+    {
+      "chapter": 26,
+      "verse": 15,
+      "text": "Le sud échut à Obed-Édom, et le magasin à ses fils."
+    },
+    {
+      "chapter": 26,
+      "verse": 16,
+      "text": "L’ouest échut à Chuppim et à Hosa, près de la porte de Challéketh, sur le chemin montant, un poste de garde face à un autre poste de garde."
+    },
+    {
+      "chapter": 26,
+      "verse": 17,
+      "text": "À l’est, il y avait six Lévites ; au nord, quatre par jour ; au sud, quatre par jour ; et pour le magasin, deux par deux."
+    },
+    {
+      "chapter": 26,
+      "verse": 18,
+      "text": "Vers Parbar, à l’ouest : quatre sur le chemin, et deux à Parbar."
+    },
+    {
+      "chapter": 26,
+      "verse": 19,
+      "text": "Telles furent les divisions des portiers parmi les fils des Coréites et les fils de Merari."
+    },
+    {
+      "chapter": 26,
+      "verse": 20,
+      "text": "Parmi les Lévites, Ahiya était responsable des trésors de la maison de Dieu et de ceux qui contenaient les objets consacrés."
+    },
+    {
+      "chapter": 26,
+      "verse": 21,
+      "text": "Quant aux fils de Ladan, les fils des Guerschonites issus de Ladan, les chefs des maisons paternelles de Ladan le Guerschonite : Jehieli."
+    },
+    {
+      "chapter": 26,
+      "verse": 22,
+      "text": "Les fils de Jehieli, Zétham et son frère Joël, avaient la charge des trésors de la maison du SEIGNEUR."
+    },
+    {
+      "chapter": 26,
+      "verse": 23,
+      "text": "Parmi les Amramites, les Jitseharites, les Hébronites et les Uzzielites :"
+    },
+    {
+      "chapter": 26,
+      "verse": 24,
+      "text": "Chebuel, fils de Guershom, fils de Moïse, était l’intendant principal des trésors."
+    },
+    {
+      "chapter": 26,
+      "verse": 25,
+      "text": "Ses frères, issus d’Éliézer : Rehabia, son fils, Jeschaïa, son fils, Joram, son fils, Zicri, son fils, et Chelomoth, son fils."
+    },
+    {
+      "chapter": 26,
+      "verse": 26,
+      "text": "Ce Chelomoth et ses frères avaient la charge de tous les trésors des choses consacrées qu’avaient dédiées le roi David, les chefs des maisons paternelles, les chefs de milliers et de centaines, et les chefs de l’armée."
+    },
+    {
+      "chapter": 26,
+      "verse": 27,
+      "text": "Ils avaient consacré une partie du butin pris dans les batailles à l’entretien de la maison du SEIGNEUR."
+    },
+    {
+      "chapter": 26,
+      "verse": 28,
+      "text": "Tout ce qui avait été consacré par Samuel le voyant, Saül fils de Kis, Abner fils de Ner, Joab fils de Tseruja, ou par toute autre personne, était placé sous la garde de Chelomoth et de ses frères."
+    },
+    {
+      "chapter": 26,
+      "verse": 29,
+      "text": "Parmi les Jitseharites, Kenania et ses fils furent affectés aux affaires extérieures d’Israël, comme officiers et juges."
+    },
+    {
+      "chapter": 26,
+      "verse": 30,
+      "text": "Parmi les Hébronites, Hachabia et ses frères, mille sept cents hommes vaillants, étaient chargés des affaires d’Israël à l’ouest du Jourdain, aussi bien pour le service du SEIGNEUR que pour celui du roi."
+    },
+    {
+      "chapter": 26,
+      "verse": 31,
+      "text": "Parmi les Hébronites, Jerija était le chef, selon leurs générations et leurs familles. La quarantième année du règne de David, on rechercha parmi eux des hommes capables et l’on en trouva à Jazer de Galaad."
+    },
+    {
+      "chapter": 26,
+      "verse": 32,
+      "text": "Ses frères, des hommes vaillants, étaient au nombre de deux mille sept cents, chefs de maisons paternelles. Le roi David les établit sur les Rubénites, sur les Gadites et sur la demi-tribu des Manassites, pour toutes les affaires concernant Dieu et pour les affaires du roi."
+    },
+    {
+      "chapter": 27,
+      "verse": 1,
+      "text": "Voici les Israélites recensés par familles, avec les chefs de famille, les commandants de milliers et de centaines, et les officiers qui servaient le roi. Leurs divisions se relayaient chaque mois pendant toute l’année, et chacune comptait vingt-quatre mille hommes."
+    },
+    {
+      "chapter": 27,
+      "verse": 2,
+      "text": "À la tête de la première division, pour le premier mois, se trouvait Jashobéam, fils de Zabdiel. Sa division comptait vingt-quatre mille hommes."
+    },
+    {
+      "chapter": 27,
+      "verse": 3,
+      "text": "Il était l’un des descendants de Pérets, et le chef de tous les commandants de l’armée pour le premier mois."
+    },
+    {
+      "chapter": 27,
+      "verse": 4,
+      "text": "Dodaï l’Ahohite commandait la division du deuxième mois, assisté de Mikloth. Sa division comptait vingt-quatre mille hommes."
+    },
+    {
+      "chapter": 27,
+      "verse": 5,
+      "text": "Le troisième commandant de l’armée, pour le troisième mois, était Benaïa, fils de Jéhojada le prêtre en chef. Sa division comptait vingt-quatre mille hommes."
+    },
+    {
+      "chapter": 27,
+      "verse": 6,
+      "text": "Ce Benaïa était l’un des héros parmi les Trente et les commandait. Son fils Ammizabad faisait partie de sa division."
+    },
+    {
+      "chapter": 27,
+      "verse": 7,
+      "text": "Le quatrième commandant, pour le quatrième mois, était Asaël, frère de Joab, et son fils Zébadia lui succéda. Sa division comptait vingt-quatre mille hommes."
+    },
+    {
+      "chapter": 27,
+      "verse": 8,
+      "text": "Le cinquième commandant, pour le cinquième mois, était Shamhuth, l’Izrahite. Sa division comptait vingt-quatre mille hommes."
+    },
+    {
+      "chapter": 27,
+      "verse": 9,
+      "text": "Le sixième commandant, pour le sixième mois, était Ira, fils d’Ikkesh, le Tekoaïte. Sa division comptait vingt-quatre mille hommes."
+    },
+    {
+      "chapter": 27,
+      "verse": 10,
+      "text": "Le septième commandant, pour le septième mois, était Hélets, le Pelonite, des enfants d’Éphraïm. Sa division comptait vingt-quatre mille hommes."
+    },
+    {
+      "chapter": 27,
+      "verse": 11,
+      "text": "Le huitième commandant, pour le huitième mois, était Sibbecaï, le Hushatite, de la famille des Zérahites. Sa division comptait vingt-quatre mille hommes."
+    },
+    {
+      "chapter": 27,
+      "verse": 12,
+      "text": "Le neuvième commandant, pour le neuvième mois, était Abiézer, l’Anathothite, de la tribu de Benjamin. Sa division comptait vingt-quatre mille hommes."
+    },
+    {
+      "chapter": 27,
+      "verse": 13,
+      "text": "Le dixième commandant, pour le dixième mois, était Maharaï, le Netophathite, de la famille des Zérahites. Sa division comptait vingt-quatre mille hommes."
+    },
+    {
+      "chapter": 27,
+      "verse": 14,
+      "text": "Le onzième commandant, pour le onzième mois, était Benaïa, le Pirathonite, des enfants d’Éphraïm. Sa division comptait vingt-quatre mille hommes."
+    },
+    {
+      "chapter": 27,
+      "verse": 15,
+      "text": "Le douzième commandant, pour le douzième mois, était Heldaï, le Netophathite, de la famille d’Othniel. Sa division comptait vingt-quatre mille hommes."
+    },
+    {
+      "chapter": 27,
+      "verse": 16,
+      "text": "De plus, voici les chefs des tribus d’Israël : pour les Rubénites, le chef était Éliézer, fils de Zicri ; pour les Siméonites, Shephatia, fils de Maaca ;"
+    },
+    {
+      "chapter": 27,
+      "verse": 17,
+      "text": "pour Lévi, Hashabia, fils de Kemuel ; pour Aaron, Tsadok ;"
+    },
+    {
+      "chapter": 27,
+      "verse": 18,
+      "text": "pour Juda, Élihu, l’un des frères de David ; pour Issacar, Omri, fils de Micaël ;"
+    },
+    {
+      "chapter": 27,
+      "verse": 19,
+      "text": "pour Zabulon, Jishmaéja, fils d’Obadia ; pour Nephthali, Jérémoth, fils d’Azriel ;"
+    },
+    {
+      "chapter": 27,
+      "verse": 20,
+      "text": "pour les enfants d’Éphraïm, Osée, fils d’Azazia ; pour la demi-tribu de Manassé, Joël, fils de Pédaja ;"
+    },
+    {
+      "chapter": 27,
+      "verse": 21,
+      "text": "pour la demi-tribu de Manassé en Galaad, Iddo, fils de Zacharie ; pour Benjamin, Jaasiel, fils d’Abner ;"
+    },
+    {
+      "chapter": 27,
+      "verse": 22,
+      "text": "pour Dan, Azarel, fils de Jéroham. Tels étaient les chefs des tribus d’Israël."
+    },
+    {
+      "chapter": 27,
+      "verse": 23,
+      "text": "David ne recensa pas ceux qui avaient vingt ans ou moins, car le SEIGNEUR avait promis de multiplier Israël comme les étoiles du ciel."
+    },
+    {
+      "chapter": 27,
+      "verse": 24,
+      "text": "Joab, fils de Tseruja, commença le recensement, mais ne l’acheva pas, car la colère s’abattit sur Israël à cause de cela. Le résultat ne fut pas inscrit dans les chroniques du roi David."
+    },
+    {
+      "chapter": 27,
+      "verse": 25,
+      "text": "À la tête des trésors du roi se trouvait Azmaveth, fils d’Adiel. À la tête des réserves dans les champs, dans les villes, dans les villages et dans les tours, se trouvait Jonathan, fils d’Ozias ;"
+    },
+    {
+      "chapter": 27,
+      "verse": 26,
+      "text": "à la tête de ceux qui faisaient le travail des champs pour cultiver la terre, il y avait Ezri, fils de Kelub ;"
+    },
+    {
+      "chapter": 27,
+      "verse": 27,
+      "text": "Shimeï le Ramathite était responsable des vignes, et Zabdi le Shiphmite de la production des vignes destinée aux caves à vin ;"
+    },
+    {
+      "chapter": 27,
+      "verse": 28,
+      "text": "à la tête des oliviers et des sycomores qui étaient dans la plaine, Baal-Hanan, le Guédériste ; à la tête des réserves d’huile, Joas ;"
+    },
+    {
+      "chapter": 27,
+      "verse": 29,
+      "text": "à la tête du gros bétail qui paissait dans le Saron, Shitraï, le Saronite ; à la tête du gros bétail dans les vallées, Shaphat, fils d’Adlaï ;"
+    },
+    {
+      "chapter": 27,
+      "verse": 30,
+      "text": "Obil l’Ismaélite était responsable des chameaux, Jehdéja le Méronothite des ânes, et Jaziz le Hagarénien du petit bétail."
+    },
+    {
+      "chapter": 27,
+      "verse": 31,
+      "text": "Tous ceux-là administraient les biens du roi David."
+    },
+    {
+      "chapter": 27,
+      "verse": 32,
+      "text": "De plus, Jonathan, l’oncle de David, était conseiller, homme d’intelligence et scribe. Jéhiel, fils d’Hacmoni, était auprès des fils du roi."
+    },
+    {
+      "chapter": 27,
+      "verse": 33,
+      "text": "Ahithophel était conseiller du roi. Hushaï, l’Arkite, était l’ami du roi."
+    },
+    {
+      "chapter": 27,
+      "verse": 34,
+      "text": "Après Ahithophel, il y eut Jéhojada, fils de Benaïa, et Abiathar. Joab était le commandant de l’armée du roi."
+    },
+    {
+      "chapter": 28,
+      "verse": 1,
+      "text": "David rassembla à Jérusalem tous les chefs d’Israël : les chefs des tribus, les commandants des divisions au service du roi, les commandants de milliers et de centaines, les intendants de tous les biens et possessions du roi et de ses fils, ainsi que les officiers, les héros et tous les guerriers vaillants."
+    },
+    {
+      "chapter": 28,
+      "verse": 2,
+      "text": "Le roi David se leva et dit : « Écoutez-moi, mes frères et mon peuple ! J’avais à cœur de bâtir une maison de repos pour l’arche de l’alliance du SEIGNEUR et pour le marchepied de notre Dieu, et j’avais fait des préparatifs pour la construction."
+    },
+    {
+      "chapter": 28,
+      "verse": 3,
+      "text": "Mais Dieu m’a dit : ‹ Tu ne bâtiras pas de maison pour mon nom, car tu es un homme de guerre et tu as versé du sang. ›"
+    },
+    {
+      "chapter": 28,
+      "verse": 4,
+      "text": "Cependant, le SEIGNEUR, le Dieu d’Israël, m’a choisi dans toute la famille de mon père pour être roi sur Israël pour toujours. Il a choisi Juda comme tribu dirigeante, puis la maison de mon père dans la tribu de Juda, et parmi les fils de mon père il a pris plaisir en moi pour me faire roi sur tout Israël."
+    },
+    {
+      "chapter": 28,
+      "verse": 5,
+      "text": "De tous mes fils (car le SEIGNEUR m’a donné beaucoup de fils), il a choisi mon fils Salomon pour s’asseoir sur le trône du royaume du SEIGNEUR, sur Israël."
+    },
+    {
+      "chapter": 28,
+      "verse": 6,
+      "text": "Il m’a dit : ‹ Salomon, ton fils, bâtira ma maison et mes parvis, car je l’ai choisi pour être mon fils, et je serai son père."
+    },
+    {
+      "chapter": 28,
+      "verse": 7,
+      "text": "J’affermirai son royaume pour toujours, s’il persévère à mettre en pratique mes commandements et mes ordonnances, comme il le fait aujourd’hui. ›"
+    },
+    {
+      "chapter": 28,
+      "verse": 8,
+      "text": "Maintenant donc, sous les yeux de tout Israël, l’assemblée du SEIGNEUR, et sous le regard de notre Dieu, observez et recherchez tous les commandements du SEIGNEUR votre Dieu, afin de posséder ce bon pays et de le laisser pour toujours en héritage à vos descendants."
+    },
+    {
+      "chapter": 28,
+      "verse": 9,
+      "text": "Et toi, Salomon mon fils, connais le Dieu de ton père et sers-le d’un cœur sans réserve et d’un esprit bien disposé, car le SEIGNEUR sonde tous les cœurs et discerne toutes les pensées et leurs intentions. Si tu le cherches, il se laissera trouver par toi ; mais si tu l’abandonnes, il te rejettera pour toujours."
+    },
+    {
+      "chapter": 28,
+      "verse": 10,
+      "text": "Prends maintenant garde : le SEIGNEUR t’a choisi pour bâtir une maison qui serve de sanctuaire. Sois fort et agis ! »"
+    },
+    {
+      "chapter": 28,
+      "verse": 11,
+      "text": "Alors David donna à son fils Salomon les plans du portique du temple, de ses bâtiments, de ses salles des trésors, de ses chambres hautes, de ses pièces intérieures, et du lieu du propitiatoire ;"
+    },
+    {
+      "chapter": 28,
+      "verse": 12,
+      "text": "ainsi que les plans de tout ce qu’il avait reçu par l’Esprit, pour les parvis de la maison du SEIGNEUR, pour toutes les salles d’alentour, pour les trésors de la maison de Dieu, et pour les trésors des choses consacrées ;"
+    },
+    {
+      "chapter": 28,
+      "verse": 13,
+      "text": "pour les divisions des prêtres et des Lévites, pour toutes les tâches liées au service de la maison du SEIGNEUR, et pour tous les ustensiles utilisés dans ce service ;"
+    },
+    {
+      "chapter": 28,
+      "verse": 14,
+      "text": "il lui donna le poids de l’or pour tous les ustensiles en or de chaque service, et le poids de l’argent pour tous les ustensiles en argent de chaque service ;"
+    },
+    {
+      "chapter": 28,
+      "verse": 15,
+      "text": "il indiqua le poids de l’or pour chaque chandelier d’or et ses lampes, ainsi que le poids de l’argent pour chaque chandelier d’argent et ses lampes, selon l’usage de chacun ;"
+    },
+    {
+      "chapter": 28,
+      "verse": 16,
+      "text": "il indiqua le poids de l’or pour chaque table des pains de la Présence, ainsi que celui de l’argent pour les tables d’argent ;"
+    },
+    {
+      "chapter": 28,
+      "verse": 17,
+      "text": "pour les fourchettes, les bassins et les coupes en or pur ; pour les coupes en or, le poids pour chaque coupe ; et pour les coupes en argent, le poids pour chaque coupe ;"
+    },
+    {
+      "chapter": 28,
+      "verse": 18,
+      "text": "il indiqua le poids de l’or purifié pour l’autel des parfums, ainsi que celui de l’or destiné au modèle du char formé par les chérubins qui déploient leurs ailes et couvrent l’arche de l’alliance du SEIGNEUR."
+    },
+    {
+      "chapter": 28,
+      "verse": 19,
+      "text": "David déclara : « Le SEIGNEUR m’a fait comprendre par un écrit de sa main tous les détails de ce modèle. »"
+    },
+    {
+      "chapter": 28,
+      "verse": 20,
+      "text": "David dit à son fils Salomon : « Sois fort, prends courage et agis. N’aie pas peur et ne te laisse pas effrayer, car le SEIGNEUR Dieu, mon Dieu, est avec toi. Il ne te délaissera ni ne t’abandonnera jusqu’à ce que tout le travail nécessaire au service de la maison du SEIGNEUR soit achevé."
+    },
+    {
+      "chapter": 28,
+      "verse": 21,
+      "text": "Voici les divisions des prêtres et des Lévites pour tout le service de la maison de Dieu. Tout homme bien disposé et habile pour toute sorte de service sera avec toi dans tous les travaux. De plus, les chefs et tout le peuple seront entièrement à tes ordres. »"
+    },
+    {
+      "chapter": 29,
+      "verse": 1,
+      "text": "Le roi David dit à toute l’assemblée : « Mon fils Salomon, le seul que Dieu ait choisi, est encore jeune et inexpérimenté, et l’œuvre est immense, car ce palais n’est pas destiné à un homme, mais au SEIGNEUR Dieu."
+    },
+    {
+      "chapter": 29,
+      "verse": 2,
+      "text": "Or, j’ai préparé de toutes mes forces pour la maison de mon Dieu de l’or pour ce qui doit être en or, de l’argent pour ce qui doit être en argent, du bronze pour ce qui doit être en bronze, du fer pour ce qui doit être en fer, et du bois pour ce qui doit être en bois, ainsi que des pierres d’onyx, des pierres à enchâsser, des pierres d’ornement de diverses couleurs, toutes sortes de pierres précieuses, et du marbre en abondance."
+    },
+    {
+      "chapter": 29,
+      "verse": 3,
+      "text": "De plus, dans mon attachement pour la maison de mon Dieu, je donne à la maison de mon Dieu mon trésor personnel d’or et d’argent, en plus de tout ce que j’ai préparé pour la sainte maison :"
+    },
+    {
+      "chapter": 29,
+      "verse": 4,
+      "text": "soit trois mille talents d’or, de l’or d’Ophir, et sept mille talents d’argent purifié, pour en recouvrir les murs des bâtiments ;"
+    },
+    {
+      "chapter": 29,
+      "verse": 5,
+      "text": "de l’or pour les objets d’or, de l’argent pour ceux d’argent, et tout le nécessaire pour le travail des artisans. Qui est disposé aujourd’hui à se consacrer volontairement au SEIGNEUR ? »"
+    },
+    {
+      "chapter": 29,
+      "verse": 6,
+      "text": "Alors les chefs des maisons paternelles, les chefs des tribus d’Israël, les chefs de milliers et de centaines, et les intendants des travaux du roi firent des offrandes volontaires ;"
+    },
+    {
+      "chapter": 29,
+      "verse": 7,
+      "text": "et ils donnèrent pour le service de la maison de Dieu cinq mille talents d’or et dix mille dariques, dix mille talents d’argent, dix-huit mille talents de bronze, et cent mille talents de fer."
+    },
+    {
+      "chapter": 29,
+      "verse": 8,
+      "text": "Ceux chez qui l’on trouva des pierres précieuses les donnèrent pour le trésor de la maison du SEIGNEUR, sous la responsabilité de Jehiel, le Guerschonite."
+    },
+    {
+      "chapter": 29,
+      "verse": 9,
+      "text": "Le peuple se réjouit de ces offrandes volontaires, car chacun les avait présentées au SEIGNEUR d’un cœur entier. Le roi David en éprouva lui aussi une très grande joie."
+    },
+    {
+      "chapter": 29,
+      "verse": 10,
+      "text": "C’est pourquoi David bénit le SEIGNEUR devant toute l’assemblée. David dit : « Béni sois-tu, SEIGNEUR, Dieu de notre père Israël, d’éternité en éternité."
+    },
+    {
+      "chapter": 29,
+      "verse": 11,
+      "text": "À toi, SEIGNEUR, la grandeur, la puissance, la gloire, la victoire et la majesté ! Car tout ce qui est dans les cieux et sur la terre est à toi. À toi, SEIGNEUR, appartient le règne, et tu t’élèves en souverain au-dessus de tout."
+    },
+    {
+      "chapter": 29,
+      "verse": 12,
+      "text": "La richesse et l’honneur viennent de toi, et tu domines sur tout. La force et la puissance sont dans ta main ; il dépend de toi de rendre grand et de fortifier chacun."
+    },
+    {
+      "chapter": 29,
+      "verse": 13,
+      "text": "Maintenant donc, notre Dieu, nous te louons et nous célébrons ton nom glorieux."
+    },
+    {
+      "chapter": 29,
+      "verse": 14,
+      "text": "Mais qui suis-je, et qu’est mon peuple, pour que nous ayons la capacité de faire de telles offrandes volontaires ? Tout vient de toi, et nous ne t’avons donné que ce qui vient de toi."
+    },
+    {
+      "chapter": 29,
+      "verse": 15,
+      "text": "Nous sommes devant toi des étrangers et des résidents temporaires, comme tous nos pères. Nos jours sur la terre sont comme une ombre, et rien ne demeure."
+    },
+    {
+      "chapter": 29,
+      "verse": 16,
+      "text": "SEIGNEUR notre Dieu, toute cette abondance que nous avons préparée pour te bâtir une maison pour ton saint nom vient de ta main, et tout est à toi."
+    },
+    {
+      "chapter": 29,
+      "verse": 17,
+      "text": "Je sais aussi, mon Dieu, que tu sondes le cœur et que tu prends plaisir à la droiture. Pour ma part, c’est dans la droiture de mon cœur que j’ai volontairement offert toutes ces choses. Et maintenant, j’ai vu avec joie ton peuple, qui est présent ici, t’apporter ses offrandes volontaires."
+    },
+    {
+      "chapter": 29,
+      "verse": 18,
+      "text": "SEIGNEUR, Dieu d’Abraham, d’Isaac et d’Israël, nos pères, garde pour toujours ces dispositions dans les pensées du cœur de ton peuple, et dirige leur cœur vers toi ;"
+    },
+    {
+      "chapter": 29,
+      "verse": 19,
+      "text": "donne à mon fils Salomon un cœur sans réserve, afin qu’il garde tes commandements, tes témoignages et tes prescriptions, qu’il accomplisse tout cela et bâtisse le palais pour lequel j’ai fait ces préparatifs. »"
+    },
+    {
+      "chapter": 29,
+      "verse": 20,
+      "text": "Puis David dit à toute l’assemblée : « Bénissez maintenant le SEIGNEUR votre Dieu ! » Toute l’assemblée bénit le SEIGNEUR, le Dieu de leurs pères ; ils s’inclinèrent et se prosternèrent devant le SEIGNEUR et devant le roi."
+    },
+    {
+      "chapter": 29,
+      "verse": 21,
+      "text": "Le lendemain de ce jour, ils offrirent des sacrifices au SEIGNEUR et lui présentèrent des holocaustes : mille taureaux, mille béliers et mille agneaux, avec leurs offrandes de vin et d’abondants sacrifices pour tout Israël."
+    },
+    {
+      "chapter": 29,
+      "verse": 22,
+      "text": "Ils mangèrent et burent devant le SEIGNEUR ce jour-là avec une grande allégresse. Ils firent roi pour la seconde fois Salomon, le fils de David ; ils l’oignirent devant le SEIGNEUR comme chef, et Tsadok comme prêtre."
+    },
+    {
+      "chapter": 29,
+      "verse": 23,
+      "text": "Salomon s’assit sur le trône du SEIGNEUR comme roi à la place de son père David ; il prospéra, et tout Israël lui obéit."
+    },
+    {
+      "chapter": 29,
+      "verse": 24,
+      "text": "Tous les chefs, les hommes vaillants, et même tous les fils du roi David se soumirent au roi Salomon."
+    },
+    {
+      "chapter": 29,
+      "verse": 25,
+      "text": "Le SEIGNEUR éleva extraordinairement Salomon aux yeux de tout Israël, et lui accorda une majesté royale telle qu’aucun roi avant lui n’en avait eu en Israël."
+    },
+    {
+      "chapter": 29,
+      "verse": 26,
+      "text": "Ainsi David, fils d’Isaï, régna sur tout Israël."
+    },
+    {
+      "chapter": 29,
+      "verse": 27,
+      "text": "La durée de son règne sur Israël fut de quarante ans ; il régna sept ans à Hébron, et il régna trente-trois ans à Jérusalem."
+    },
+    {
+      "chapter": 29,
+      "verse": 28,
+      "text": "Il mourut dans une heureuse vieillesse, parvenu au terme d’une longue vie et comblé de richesse et d’honneur. Son fils Salomon régna à sa place."
+    },
+    {
+      "chapter": 29,
+      "verse": 29,
+      "text": "Les actes du roi David, des premiers aux derniers, sont consignés dans les récits de Samuel le voyant, de Nathan le prophète et de Gad le voyant,"
+    },
+    {
+      "chapter": 29,
+      "verse": 30,
+      "text": "avec tout son règne et sa puissance, ainsi que tout ce qui arriva à David, à Israël et à tous les royaumes des autres pays."
+    }
+  ]
+}

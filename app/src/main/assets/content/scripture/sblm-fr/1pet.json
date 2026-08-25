@@ -1,0 +1,536 @@
+{
+  "translation_id": "sblm-fr",
+  "book_id": "1pet",
+  "language": "fr",
+  "license": "public-domain",
+  "source": "eBible.org Sainte Bible libre pour le monde",
+  "verified": true,
+  "note": "Imported via tools/import_epub.py from the eBible.org 'Sainte Bible libre pour le monde' epub the user supplied. eBible.org flags this as a draft translation, still being proofread/edited as of 2026-08-21.",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Pierre, apôtre de Jésus-Christ, aux élus qui vivent en étrangers dans la Dispersion, au Pont, en Galatie, en Cappadoce, en Asie et en Bithynie,"
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "choisis selon la prescience de Dieu le Père, sanctifiés par l’Esprit afin d’obéir à Jésus-Christ et d’être aspergés de son sang : Que la grâce et la paix vous soient multipliées."
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Béni soit le Dieu et Père de notre Seigneur Jésus-Christ ! Dans sa grande miséricorde, il nous a fait naître de nouveau, par la résurrection de Jésus-Christ d’entre les morts, pour une espérance vivante"
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "et pour un héritage impérissable, sans souillure et qui ne se flétrit pas, réservé dans les cieux pour vous."
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Par la puissance de Dieu, vous êtes gardés, au moyen de la foi, en vue d’un salut prêt à être révélé dans les derniers temps."
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Vous vous en réjouissez vivement, même si maintenant, pour un peu de temps et s’il le faut, vous êtes attristés par diverses épreuves."
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Ainsi, la valeur éprouvée de votre foi, bien plus précieuse que l’or périssable pourtant éprouvé par le feu, aura pour résultat la louange, la gloire et l’honneur lors de la révélation de Jésus-Christ."
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Sans l’avoir connu, vous l’aimez. Bien que vous ne le voyiez pas maintenant, vous croyez en lui et vous vous réjouissez d’une joie inexprimable et glorieuse,"
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "car vous recevez l’aboutissement de votre foi : le salut de vos âmes."
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Les prophètes ont recherché et examiné avec soin ce salut. Ils ont prophétisé au sujet de la grâce qui vous était destinée,"
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "cherchant à savoir quelle personne ou quelle époque indiquait l’Esprit de Christ qui était en eux, lorsqu’il annonçait d’avance les souffrances de Christ et les gloires qui les suivraient."
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Il leur fut révélé qu’ils ne se servaient pas eux-mêmes, mais qu’ils vous servaient dans ces choses. Elles vous ont maintenant été annoncées par ceux qui vous ont prêché l’Évangile, par le Saint-Esprit envoyé du ciel. Les anges eux-mêmes désirent se pencher sur ces choses."
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Préparez donc votre intelligence à agir. Soyez sobres et mettez toute votre espérance dans la grâce qui vous sera apportée lors de la révélation de Jésus-Christ."
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Comme des enfants obéissants, ne vous conformez pas aux désirs que vous aviez autrefois, lorsque vous étiez dans l’ignorance."
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Mais, de même que celui qui vous a appelés est saint, soyez vous aussi saints dans toute votre conduite,"
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "car il est écrit : « Vous serez saints, car je suis saint. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Si vous invoquez comme Père celui qui juge chacun impartialement selon ses œuvres, conduisez-vous avec une crainte respectueuse pendant le temps où vous séjournez ici en étrangers."
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Vous savez en effet que vous avez été rachetés de la manière de vivre inutile que vous aviez héritée de vos pères, non par des choses périssables comme l’argent ou l’or,"
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "mais par le sang précieux de Christ, semblable à celui d’un agneau sans défaut et sans tache."
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Il était déjà connu avant la fondation du monde, mais il a été révélé dans ces derniers temps à cause de vous."
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Par lui, vous croyez en Dieu, qui l’a ressuscité des morts et lui a donné la gloire, afin que votre foi et votre espérance reposent sur Dieu."
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Puisque vous avez purifié vos âmes par votre obéissance à la vérité, grâce à l’Esprit, en vue d’une affection fraternelle sincère, aimez-vous ardemment les uns les autres, de tout votre cœur."
+    },
+    {
+      "chapter": 1,
+      "verse": 23,
+      "text": "Vous êtes nés de nouveau, non d’une semence corruptible, mais d’une semence incorruptible, par la parole de Dieu, qui vit et demeure éternellement."
+    },
+    {
+      "chapter": 1,
+      "verse": 24,
+      "text": "Car : « Toute chair est comme l’herbe, et toute la gloire de l’homme comme la fleur de l’herbe. L’herbe sèche et sa fleur tombe,"
+    },
+    {
+      "chapter": 1,
+      "verse": 25,
+      "text": "mais la parole du SEIGNEUR demeure éternellement. » C’est cette parole de l’Évangile qui vous a été annoncée."
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Débarrassez-vous donc de toute méchanceté, de toute tromperie, de l’hypocrisie, de l’envie et de toute médisance."
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Comme des enfants nouveau-nés, désirez ardemment le lait spirituel pur, afin que, par lui, vous grandissiez,"
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "si vraiment vous avez goûté que le Seigneur est plein de bonté."
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Approchez-vous de lui, la pierre vivante, rejetée par les hommes, mais choisie par Dieu et précieuse à ses yeux."
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Vous aussi, comme des pierres vivantes, vous êtes édifiés pour former une maison spirituelle et un saint sacerdoce, afin d’offrir des sacrifices spirituels agréables à Dieu par Jésus-Christ."
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Car il est dit dans l’Écriture : « Voici, je pose en Sion une pierre angulaire principale, choisie et précieuse. Celui qui croit en lui ne sera pas déçu. »"
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Cet honneur revient donc à vous qui croyez. Mais pour ceux qui désobéissent : « La pierre que les bâtisseurs ont rejetée est devenue la pierre angulaire principale »,"
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "et : « une pierre d’achoppement et un rocher de scandale. » Ils trébuchent sur la parole parce qu’ils lui désobéissent, et c’est aussi à cela qu’ils ont été destinés."
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Mais vous, vous êtes une race élue, un sacerdoce royal, une nation sainte, un peuple qui appartient à Dieu, afin que vous proclamiez les perfections de celui qui vous a appelés des ténèbres à son admirable lumière."
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Autrefois, vous n’étiez pas un peuple, mais maintenant vous êtes le peuple de Dieu. Vous n’aviez pas obtenu miséricorde, mais maintenant vous avez obtenu miséricorde."
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Bien-aimés, je vous en supplie, puisque vous êtes étrangers et voyageurs, abstenez-vous des désirs de la chair qui font la guerre à l’âme."
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Ayez une bonne conduite au milieu des nations, afin que, là même où elles vous calomnient comme des malfaiteurs, elles voient vos bonnes œuvres et glorifient Dieu au jour où il les visitera."
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Soumettez-vous, à cause du Seigneur, à toute institution humaine : au roi, comme souverain,"
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "et aux gouverneurs, comme envoyés par lui pour punir les malfaiteurs et honorer ceux qui font le bien."
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Car la volonté de Dieu est qu’en faisant le bien, vous réduisiez au silence l’ignorance des hommes insensés."
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Vivez comme des hommes libres, sans faire de votre liberté un voile pour couvrir la méchanceté, mais comme des serviteurs de Dieu."
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Honorez tous les hommes. Aimez les frères. Craignez Dieu. Honorez le roi."
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Serviteurs, soyez soumis à vos maîtres avec tout le respect qui leur est dû, non seulement à ceux qui sont bons et doux, mais aussi à ceux qui sont mauvais."
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Car il est digne de louange que quelqu’un supporte la douleur et souffre injustement par souci de sa conscience devant Dieu."
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Quel mérite y a-t-il à supporter patiemment d’être battus lorsque vous avez péché ? Mais si vous supportez patiemment la souffrance tout en faisant le bien, cela est digne de louange devant Dieu."
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "C’est à cela que vous avez été appelés, parce que Christ aussi a souffert pour nous, vous laissant un exemple afin que vous suiviez ses traces."
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Lui qui n’a commis aucun péché, « et dans la bouche duquel aucune tromperie n’a été trouvée. »"
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Lorsqu’on l’insultait, il ne répondait pas par l’insulte. Quand il souffrait, il ne menaçait pas, mais il s’en remettait à celui qui juge avec justice."
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "Lui-même a porté nos péchés dans son corps sur le bois, afin que, morts aux péchés, nous vivions pour la justice. C’est par ses blessures que vous avez été guéris."
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "Car vous étiez égarés comme des brebis, mais maintenant vous êtes retournés au Berger et au Surveillant de vos âmes."
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "De même, vous les femmes, soyez soumises à vos propres maris, afin que, même si certains n’obéissent pas à la Parole, ils soient gagnés sans parole par la conduite de leurs femmes,"
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "en voyant votre conduite pure et respectueuse."
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Que votre beauté ne réside pas dans une parure extérieure : cheveux tressés, ornements d’or ou vêtements raffinés,"
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "mais dans l’être intérieur, caché dans le cœur, avec la beauté impérissable d’un esprit doux et paisible, qui est d’une grande valeur aux yeux de Dieu."
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "C’est ainsi qu’autrefois les saintes femmes qui espéraient en Dieu se paraient, en étant soumises à leurs propres maris."
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Ainsi, Sarah obéissait à Abraham et l’appelait son seigneur. Vous êtes devenues ses filles si vous faites le bien sans vous laisser effrayer par quoi que ce soit."
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "De même, vous les maris, vivez avec vos femmes avec discernement. Accordez-leur de l’honneur comme à des êtres plus fragiles, puisqu’elles héritent avec vous de la grâce de la vie, afin que rien ne fasse obstacle à vos prières."
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Enfin, soyez tous animés des mêmes pensées, compatissants, pleins d’affection fraternelle, tendres et courtois."
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Ne rendez pas le mal pour le mal, ni l’insulte pour l’insulte. Au contraire, bénissez, sachant que vous avez été appelés à cela afin d’hériter d’une bénédiction."
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Car : « Celui qui veut aimer la vie et voir des jours heureux, qu’il garde sa langue du mal et ses lèvres des paroles trompeuses."
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Qu’il se détourne du mal et fasse le bien. Qu’il recherche la paix et la poursuive."
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Car les yeux du SEIGNEUR sont sur les justes, et ses oreilles sont attentives à leur prière, mais la face du SEIGNEUR est contre ceux qui font le mal. »"
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Qui vous fera du mal si vous imitez ce qui est bien ?"
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Même si vous deviez souffrir pour la justice, vous êtes heureux. « Ne craignez pas ce qu’ils craignent et ne soyez pas troublés. »"
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Mais reconnaissez dans vos cœurs le Seigneur Dieu comme saint. Soyez toujours prêts à répondre à quiconque vous demande la raison de l’espérance qui est en vous, avec douceur et respect,"
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "en gardant une bonne conscience. Ainsi, tandis qu’ils parlent contre vous comme si vous étiez des malfaiteurs, ceux qui calomnient votre bonne conduite en Christ seront confondus."
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Car il vaut mieux souffrir en faisant le bien, si telle est la volonté de Dieu, qu’en faisant le mal."
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Christ aussi a souffert une fois pour les péchés, le juste pour les injustes, afin de vous amener à Dieu. Il a été mis à mort dans la chair, mais rendu vivant dans l’Esprit."
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "C’est aussi dans l’Esprit qu’il est allé prêcher aux esprits en prison,"
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "qui avaient autrefois désobéi lorsque Dieu attendait avec patience, aux jours de Noé, pendant la construction de l’arche. Dans celle-ci, un petit nombre de personnes, c’est-à-dire huit, furent sauvées à travers l’eau."
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "Cela préfigure le baptême qui vous sauve maintenant — non pas en enlevant les souillures du corps, mais comme la réponse d’une bonne conscience à Dieu — par la résurrection de Jésus-Christ."
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "text": "Il est à la droite de Dieu, après être monté au ciel, et les anges, les autorités et les puissances lui ont été soumis."
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Ainsi donc, puisque Christ a souffert pour nous dans la chair, armez-vous aussi de la même pensée, car celui qui a souffert dans la chair en a fini avec le péché,"
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "afin de ne plus vivre le reste de son temps dans la chair selon les désirs des hommes, mais selon la volonté de Dieu."
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Nous avons passé assez de temps, dans le passé, à accomplir la volonté des païens, en vivant dans la débauche, les convoitises, l’ivrognerie, les orgies, les beuveries et les idolâtries abominables."
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Ils trouvent étrange que vous ne vous précipitiez plus avec eux dans le même débordement de débauche, et ils vous calomnient."
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Ils en rendront compte à celui qui est prêt à juger les vivants et les morts."
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "C’est pour cela que l’Évangile a été annoncé même à ceux qui sont morts, afin que, bien qu’ils aient été jugés comme les hommes dans la chair, ils vivent selon Dieu dans l’esprit."
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "La fin de toutes choses est proche. Soyez donc lucides, maîtres de vous-mêmes et sobres afin de prier."
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Avant tout, aimez-vous ardemment les uns les autres, car l’amour couvre une multitude de péchés."
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Exercez l’hospitalité les uns envers les autres, sans murmurer."
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Puisque chacun a reçu un don, mettez-le au service des autres, comme de bons intendants de la grâce de Dieu sous ses diverses formes."
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Si quelqu’un parle, qu’il transmette les paroles mêmes de Dieu. Si quelqu’un sert, qu’il le fasse avec la force que Dieu fournit, afin qu’en toutes choses Dieu soit glorifié par Jésus-Christ, à qui appartiennent la gloire et la domination aux siècles des siècles. Amen."
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Bien-aimés, ne soyez pas surpris de l’épreuve brûlante qui est venue sur vous pour vous éprouver, comme s’il vous arrivait quelque chose d’étrange."
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Mais puisque vous participez aux souffrances de Christ, réjouissez-vous, afin que vous soyez aussi remplis de joie et d’allégresse lors de la révélation de sa gloire."
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Si vous êtes insultés pour le nom de Christ, vous êtes heureux, parce que l’Esprit de gloire et de Dieu repose sur vous. De leur côté, il est blasphémé, mais du vôtre, il est glorifié."
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Que personne parmi vous ne souffre comme meurtrier, voleur, malfaiteur ou comme quelqu’un qui se mêle des affaires d’autrui."
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Mais si quelqu’un souffre parce qu’il est chrétien, qu’il n’en ait pas honte et qu’il glorifie Dieu en cette qualité."
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Car le temps est venu où le jugement doit commencer par la maison de Dieu. Or, s’il commence d’abord par nous, quel sera le sort de ceux qui n’obéissent pas à l’Évangile de Dieu ?"
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "« Si le juste est sauvé difficilement, que deviendront l’impie et le pécheur ? »"
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Ainsi, que ceux qui souffrent selon la volonté de Dieu confient leur âme au fidèle Créateur, tout en continuant à faire le bien."
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "J’exhorte donc les anciens qui sont parmi vous, moi qui suis ancien comme eux, témoin des souffrances de Christ et qui aurai aussi part à la gloire qui va être révélée :"
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "faites paître le troupeau de Dieu qui est parmi vous et veillez sur lui, non par contrainte, mais volontairement ; non pour un gain malhonnête, mais avec empressement ;"
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "non en dominant sur ceux qui vous sont confiés, mais en devenant des modèles pour le troupeau."
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Lorsque le souverain Berger sera révélé, vous recevrez la couronne de gloire qui ne se flétrit pas."
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "De même, vous les plus jeunes, soyez soumis aux anciens. Oui, revêtez-vous tous d’humilité et soumettez-vous les uns aux autres, car « Dieu s’oppose aux orgueilleux, mais il accorde sa grâce aux humbles. »"
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Humiliez-vous donc sous la main puissante de Dieu, afin qu’il vous élève au moment voulu,"
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "en vous déchargeant sur lui de toutes vos inquiétudes, car il prend soin de vous."
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Soyez sobres et maîtres de vous-mêmes. Restez vigilants. Votre adversaire, le diable, rôde comme un lion rugissant, cherchant qui il pourra dévorer."
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Résistez-lui, fermes dans la foi, sachant que vos frères qui sont dans le monde endurent les mêmes souffrances."
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Que le Dieu de toute grâce, qui vous a appelés à sa gloire éternelle par Christ Jésus, après que vous aurez souffert un peu de temps, vous perfectionne lui-même, vous affermisse, vous fortifie et vous rende inébranlables."
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "À lui soient la gloire et la puissance aux siècles des siècles. Amen."
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "C’est par l’intermédiaire de Silvain, que je considère comme notre fidèle frère, que je vous ai écrit brièvement, pour vous exhorter et vous attester que telle est la véritable grâce de Dieu dans laquelle vous vous tenez fermes."
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Celle qui est à Babylone, élue avec vous, vous salue, ainsi que Marc, mon fils."
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Saluez-vous les uns les autres par un baiser d’amour. Que la paix soit avec vous tous qui êtes en Jésus-Christ. Amen."
+    }
+  ]
+}

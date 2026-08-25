@@ -1,0 +1,4406 @@
+{
+  "translation_id": "sblm-fr",
+  "book_id": "jn",
+  "language": "fr",
+  "license": "public-domain",
+  "source": "eBible.org Sainte Bible libre pour le monde",
+  "verified": true,
+  "note": "Imported via tools/import_epub.py from the eBible.org 'Sainte Bible libre pour le monde' epub the user supplied. eBible.org flags this as a draft translation, still being proofread/edited as of 2026-08-21.",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu."
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Elle était au commencement avec Dieu."
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Toutes choses furent faites par elle, et sans elle rien ne fut fait de ce qui a été fait."
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "En elle était la vie, et la vie était la lumière des hommes."
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "La lumière brille dans les ténèbres, et les ténèbres ne l’ont pas vaincue."
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Il y eut un homme envoyé de Dieu : son nom était Jean."
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Il vint comme témoin, afin de rendre témoignage à la lumière, pour que tous croient par son intermédiaire."
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Il n’était pas la lumière, mais il fut envoyé pour rendre témoignage à la lumière."
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "La véritable lumière, qui éclaire tout homme, venait dans le monde."
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Il était dans le monde, et le monde fut fait par lui, et le monde ne l’a pas reconnu."
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Il vint chez les siens, et les siens ne l’ont pas reçu."
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Mais à tous ceux qui l’ont reçu, à ceux qui croient en son nom, il a donné le droit de devenir enfants de Dieu,"
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "lesquels sont nés, non du sang, ni de la volonté de la chair, ni de la volonté de l’homme, mais de Dieu."
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "La Parole devint chair et demeura parmi nous. Nous avons contemplé sa gloire, une gloire comme celle du Fils unique venu d’auprès du Père, plein de grâce et de vérité."
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Jean rendit témoignage à son sujet. Il s’écria : « C’est celui dont j’ai dit : ‘Celui qui vient après moi m’a surpassé, car il existait avant moi.’ »"
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "De sa plénitude, nous avons tous reçu grâce sur grâce."
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Car la loi fut donnée par Moïse ; la grâce et la vérité sont venues par Jésus-Christ."
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Personne n’a jamais vu Dieu ; le Fils unique, qui est dans le sein du Père, l’a fait connaître."
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Voici le témoignage de Jean, lorsque les Juifs envoyèrent de Jérusalem des prêtres et des lévites pour lui demander : « Qui es-tu ? »"
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Il le déclara sans le nier ; il affirma : « Je ne suis pas le Christ. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Ils lui demandèrent : « Quoi donc ? Es-tu Élie ? » Il dit : « Je ne le suis pas. » « Es-tu le prophète ? » Il répondit : « Non. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Ils lui dirent alors : « Qui es-tu ? Donne-nous une réponse pour ceux qui nous ont envoyés. Que dis-tu de toi-même ? »"
+    },
+    {
+      "chapter": 1,
+      "verse": 23,
+      "text": "Il dit : « Je suis la voix de celui qui crie dans le désert : ‘Rendez droit le chemin du SEIGNEUR’, comme l’a dit le prophète Ésaïe. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 24,
+      "text": "Ceux qui avaient été envoyés étaient des pharisiens."
+    },
+    {
+      "chapter": 1,
+      "verse": 25,
+      "text": "Ils l’interrogèrent : « Pourquoi donc baptises-tu, si tu n’es ni le Christ, ni Élie, ni le prophète ? »"
+    },
+    {
+      "chapter": 1,
+      "verse": 26,
+      "text": "Jean leur répondit : « Moi, je baptise dans l’eau, mais au milieu de vous se tient quelqu’un que vous ne connaissez pas."
+    },
+    {
+      "chapter": 1,
+      "verse": 27,
+      "text": "C’est lui qui vient après moi, mais qui m’a été préféré, et je ne suis pas digne de délier la courroie de sa sandale. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 28,
+      "text": "Ces choses se passèrent à Béthanie, au-delà du Jourdain, où Jean baptisait."
+    },
+    {
+      "chapter": 1,
+      "verse": 29,
+      "text": "Le lendemain, il vit Jésus venir à lui et dit : « Voici l’Agneau de Dieu, qui ôte le péché du monde !"
+    },
+    {
+      "chapter": 1,
+      "verse": 30,
+      "text": "C’est celui dont j’ai dit : ‘Après moi vient un homme qui m’a surpassé, car il existait avant moi.’"
+    },
+    {
+      "chapter": 1,
+      "verse": 31,
+      "text": "Je ne le connaissais pas, mais c’est afin qu’il soit manifesté à Israël que je suis venu baptiser dans l’eau. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 32,
+      "text": "Jean rendit témoignage, en disant : « J’ai vu l’Esprit descendre du ciel comme une colombe, et il demeura sur lui."
+    },
+    {
+      "chapter": 1,
+      "verse": 33,
+      "text": "Je ne le connaissais pas, mais celui qui m’a envoyé baptiser dans l’eau m’a dit : ‘Celui sur qui tu verras l’Esprit descendre et demeurer, c’est lui qui baptise dans le Saint-Esprit.’"
+    },
+    {
+      "chapter": 1,
+      "verse": 34,
+      "text": "J’ai vu et j’ai rendu témoignage qu’il est le Fils de Dieu. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 35,
+      "text": "Le lendemain encore, Jean se tenait là avec deux de ses disciples."
+    },
+    {
+      "chapter": 1,
+      "verse": 36,
+      "text": "En regardant Jésus qui marchait, il dit : « Voici l’Agneau de Dieu ! »"
+    },
+    {
+      "chapter": 1,
+      "verse": 37,
+      "text": "Les deux disciples l’entendirent parler, et ils suivirent Jésus."
+    },
+    {
+      "chapter": 1,
+      "verse": 38,
+      "text": "Jésus se retourna et, voyant qu’ils le suivaient, leur dit : « Que cherchez-vous ? » Ils lui dirent : « Rabbi (ce qui se traduit par Maître), où demeures-tu ? »"
+    },
+    {
+      "chapter": 1,
+      "verse": 39,
+      "text": "Il leur dit : « Venez et voyez. » Ils allèrent voir où il demeurait et restèrent avec lui ce jour-là. C’était environ la dixième heure."
+    },
+    {
+      "chapter": 1,
+      "verse": 40,
+      "text": "André, le frère de Simon Pierre, était l’un des deux qui avaient entendu Jean et qui l’avaient suivi."
+    },
+    {
+      "chapter": 1,
+      "verse": 41,
+      "text": "Il trouva d’abord son propre frère, Simon, et lui dit : « Nous avons trouvé le Messie ! » (ce qui se traduit par Christ)."
+    },
+    {
+      "chapter": 1,
+      "verse": 42,
+      "text": "Il le conduisit vers Jésus. Jésus le regarda et dit : « Tu es Simon, le fils de Jonas. Tu seras appelé Céphas » (ce qui se traduit par Pierre)."
+    },
+    {
+      "chapter": 1,
+      "verse": 43,
+      "text": "Le lendemain, Jésus décida de se rendre en Galilée. Il trouva Philippe et lui dit : « Suis-moi. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 44,
+      "text": "Or, Philippe était de Bethsaïda, la ville d’André et de Pierre."
+    },
+    {
+      "chapter": 1,
+      "verse": 45,
+      "text": "Philippe trouva Nathanaël et lui dit : « Nous avons trouvé celui dont Moïse a parlé dans la loi, et dont les prophètes ont aussi parlé : Jésus de Nazareth, le fils de Joseph. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 46,
+      "text": "Nathanaël lui dit : « Peut-il sortir quelque chose de bon de Nazareth ? » Philippe lui dit : « Viens et vois. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 47,
+      "text": "Jésus vit Nathanaël venir vers lui, et il dit de lui : « Voici vraiment un Israélite en qui il n’y a pas de ruse ! »"
+    },
+    {
+      "chapter": 1,
+      "verse": 48,
+      "text": "Nathanaël lui dit : « D’où me connais-tu ? » Jésus lui répondit : « Avant que Philippe ne t’appelle, quand tu étais sous le figuier, je t’ai vu. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 49,
+      "text": "Nathanaël lui répondit : « Rabbi, tu es le Fils de Dieu ! Tu es le roi d’Israël ! »"
+    },
+    {
+      "chapter": 1,
+      "verse": 50,
+      "text": "Jésus lui répondit : « Parce que je t’ai dit : ‘Je t’ai vu sous le figuier’, tu crois ? Tu verras de plus grandes choses que celles-ci ! »"
+    },
+    {
+      "chapter": 1,
+      "verse": 51,
+      "text": "Il lui dit : « En vérité, en vérité, je vous le dis, vous verrez le ciel ouvert et les anges de Dieu monter et descendre sur le Fils de l’homme. »"
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Le troisième jour, il y eut des noces à Cana en Galilée. La mère de Jésus était là."
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Jésus fut aussi invité aux noces avec ses disciples."
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Quand le vin vint à manquer, la mère de Jésus lui dit : « Ils n'ont plus de vin. »"
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Jésus lui dit : « Femme, en quoi cela nous concerne-t-il, toi et moi ? Mon heure n’est pas encore venue. »"
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Sa mère dit aux serviteurs : « Faites tout ce qu'il vous dira. »"
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Or, il y avait là six vases de pierre, destinés à la purification des Juifs, contenant chacun deux ou trois métrètes."
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Jésus leur dit : « Remplissez d'eau ces vases. » Et ils les remplirent jusqu'au bord."
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Il leur dit : « Puisez maintenant, et portez-en à l'ordonnateur du repas. » Et ils en portèrent."
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Quand l'ordonnateur du repas eut goûté l'eau changée en vin, ne sachant pas d'où il venait (mais les serviteurs qui avaient puisé l'eau le savaient), l'ordonnateur du repas appela l'époux"
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "et lui dit : « Tout le monde sert d'abord le bon vin, puis le moins bon quand les invités ont beaucoup bu. Toi, tu as gardé le bon vin jusqu'à présent ! »"
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Jésus accomplit ce premier de ses signes à Cana en Galilée. Il manifesta sa gloire, et ses disciples crurent en lui."
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Après cela, il descendit à Capernaüm avec sa mère, ses frères et ses disciples ; et ils n'y demeurèrent que peu de jours."
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "La Pâque des Juifs était proche, et Jésus monta à Jérusalem."
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Il trouva dans le temple les vendeurs de bœufs, de brebis et de pigeons, ainsi que les changeurs de monnaie assis."
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Ayant fait un fouet avec des cordes, il les chassa tous du temple, avec les brebis et les bœufs. Il dispersa la monnaie des changeurs et renversa leurs tables."
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Il dit aux vendeurs de pigeons : « Enlevez cela d'ici ! Ne faites pas de la maison de mon Père un marché ! »"
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Ses disciples se souvinrent qu'il est écrit : « Le zèle de ta maison me dévorera. »"
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Les Juifs lui demandèrent : « Quel signe nous montres-tu pour justifier ce que tu fais ? »"
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Jésus leur répondit : « Détruisez ce temple, et en trois jours je le relèverai. »"
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Les Juifs dirent alors : « Il a fallu quarante-six ans pour bâtir ce temple, et toi, tu le relèveras en trois jours ? »"
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Mais il parlait du temple de son corps."
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "C'est pourquoi, lorsqu'il fut ressuscité des morts, ses disciples se souvinrent qu'il avait dit cela, et ils crurent à l'Écriture et à la parole que Jésus avait dite."
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Pendant qu'il était à Jérusalem pour la fête de la Pâque, beaucoup crurent en son nom en voyant les signes qu'il accomplissait."
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "Mais Jésus ne se fiait pas à eux, parce qu'il les connaissait tous,"
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "Il n'avait pas besoin qu'on lui rende témoignage au sujet de l'être humain, car il savait lui-même ce qu'il y avait en lui."
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Il y avait parmi les pharisiens un homme nommé Nicodème, l'un des chefs juifs."
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Il vint de nuit auprès de Jésus et lui dit : « Rabbi, nous savons que tu es un enseignant venu de Dieu, car personne ne peut accomplir les signes que tu fais si Dieu n'est pas avec lui. »"
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jésus lui répondit : « En vérité, en vérité, je te le dis, si un homme ne naît de nouveau, il ne peut voir le royaume de Dieu. »"
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodème lui dit : « Comment un homme peut-il naître quand il est vieux ? Peut-il entrer une seconde fois dans le sein de sa mère et naître ? »"
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jésus répondit : « En vérité, en vérité, je te le dis, si un homme ne naît d'eau et d'Esprit, il ne peut entrer dans le royaume de Dieu."
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Ce qui est né de la chair est chair. Ce qui est né de l'Esprit est esprit."
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Ne t'étonne pas que je t'aie dit : 'Il faut que vous naissiez de nouveau.'"
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Le vent souffle où il veut, et tu en entends le bruit, mais tu ne sais d'où il vient ni où il va. Il en est ainsi de tout homme qui est né de l'Esprit. »"
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodème lui répondit : « Comment ces choses peuvent-elles se faire ? »"
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jésus lui répondit : « Tu es l'enseignant d'Israël, et tu ne comprends pas ces choses ?"
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "En vérité, en vérité, je te le dis, nous disons ce que nous savons et nous rendons témoignage de ce que nous avons vu, et vous ne recevez pas notre témoignage."
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Si je vous ai parlé des choses terrestres et que vous ne croyez pas, comment croirez-vous si je vous parle des choses célestes ?"
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Personne n'est monté au ciel, si ce n'est celui qui est descendu du ciel, le Fils de l'homme, qui est dans le ciel."
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Et comme Moïse éleva le serpent dans le désert, il faut de même que le Fils de l'homme soit élevé,"
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "afin que quiconque croit en lui ne périsse pas, mais qu'il ait la vie éternelle."
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse pas, mais qu'il ait la vie éternelle."
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Car Dieu n'a pas envoyé son Fils dans le monde pour juger le monde, mais pour que le monde soit sauvé par lui."
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Celui qui croit en lui n'est pas jugé. Celui qui ne croit pas est déjà jugé, parce qu'il n'a pas cru au nom du Fils unique de Dieu."
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Et voici le jugement : la lumière est venue dans le monde, et les hommes ont aimé les ténèbres plus que la lumière, parce que leurs œuvres étaient mauvaises."
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "Car quiconque fait le mal hait la lumière et ne vient pas à la lumière, de peur que ses œuvres ne soient dévoilées."
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "Mais celui qui pratique la vérité vient à la lumière, afin que ses œuvres soient manifestées, parce qu'elles ont été faites en Dieu. »"
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "text": "Après cela, Jésus vint avec ses disciples dans la terre de Judée. Il y séjourna avec eux et baptisait."
+    },
+    {
+      "chapter": 3,
+      "verse": 23,
+      "text": "Jean baptisait aussi à Énon, près de Salim, parce qu'il y avait là beaucoup d'eau. Les gens venaient et étaient baptisés ;"
+    },
+    {
+      "chapter": 3,
+      "verse": 24,
+      "text": "car Jean n'avait pas encore été jeté en prison."
+    },
+    {
+      "chapter": 3,
+      "verse": 25,
+      "text": "Une dispute s'éleva alors entre les disciples de Jean et certains Juifs au sujet de la purification."
+    },
+    {
+      "chapter": 3,
+      "verse": 26,
+      "text": "Ils vinrent vers Jean et lui dirent : « Rabbi, celui qui était avec toi au-delà du Jourdain, celui à qui tu as rendu témoignage, le voilà qui baptise, et tous vont à lui. »"
+    },
+    {
+      "chapter": 3,
+      "verse": 27,
+      "text": "Jean répondit : « Un homme ne peut rien recevoir, si cela ne lui a été donné du ciel."
+    },
+    {
+      "chapter": 3,
+      "verse": 28,
+      "text": "Vous-mêmes m'êtes témoins que j'ai dit : 'Je ne suis pas le Christ,' mais : 'J'ai été envoyé devant lui.'"
+    },
+    {
+      "chapter": 3,
+      "verse": 29,
+      "text": "Celui qui a l'épouse est l'époux ; mais l'ami de l'époux, qui se tient là et l'entend, éprouve une grande joie à cause de la voix de l'époux. Ainsi, cette joie qui est la mienne est parfaite."
+    },
+    {
+      "chapter": 3,
+      "verse": 30,
+      "text": "Il faut qu'il grandisse et que je diminue. »"
+    },
+    {
+      "chapter": 3,
+      "verse": 31,
+      "text": "« Celui qui vient d'en haut est au-dessus de tous. Celui qui est de la terre appartient à la terre et parle de la terre. Celui qui vient du ciel est au-dessus de tous."
+    },
+    {
+      "chapter": 3,
+      "verse": 32,
+      "text": "Il rend témoignage de ce qu'il a vu et entendu, et personne ne reçoit son témoignage."
+    },
+    {
+      "chapter": 3,
+      "verse": 33,
+      "text": "Celui qui a reçu son témoignage a attesté que Dieu est vrai."
+    },
+    {
+      "chapter": 3,
+      "verse": 34,
+      "text": "Car celui que Dieu a envoyé prononce les paroles de Dieu, puisque Dieu donne l'Esprit sans mesure."
+    },
+    {
+      "chapter": 3,
+      "verse": 35,
+      "text": "Le Père aime le Fils et a remis toutes choses entre ses mains."
+    },
+    {
+      "chapter": 3,
+      "verse": 36,
+      "text": "Celui qui croit au Fils a la vie éternelle, mais celui qui désobéit au Fils ne verra pas la vie, mais la colère de Dieu demeure sur lui. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Quand le Seigneur sut que les pharisiens avaient appris que Jésus faisait et baptisait davantage de disciples que Jean"
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "(bien que Jésus lui-même ne baptisât pas, mais ses disciples),"
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "il quitta la Judée et retourna en Galilée."
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Or, il devait passer par la Samarie."
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Il arriva donc à une ville de Samarie nommée Sychar, près du champ que Jacob avait donné à son fils Joseph."
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Là se trouvait le puits de Jacob. Jésus, fatigué du voyage, s'assit près du puits. C'était environ la sixième heure."
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Une femme de Samarie vint pour puiser de l'eau. Jésus lui dit : « Donne-moi à boire. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Car ses disciples étaient allés à la ville pour acheter des vivres."
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "La femme samaritaine lui dit alors : « Comment toi, qui es Juif, me demandes-tu à boire, à moi qui suis une Samaritaine ? » (En effet, les Juifs ne fréquentent pas les Samaritains.)"
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Jésus lui répondit : « Si tu connaissais le don de Dieu, et qui est celui qui te dit : 'Donne-moi à boire', tu lui aurais demandé toi-même, et il t'aurait donné de l'eau vive. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "La femme lui dit : « Seigneur, tu n'as rien pour puiser, et le puits est profond. D'où as-tu donc cette eau vive ?"
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Es-tu plus grand que notre père Jacob, qui nous a donné le puits et qui en a bu lui-même, ainsi que ses fils et ses troupeaux ? »"
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Jésus lui répondit : « Quiconque boit de cette eau aura encore soif,"
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "mais celui qui boira de l'eau que je lui donnerai n'aura jamais soif. L'eau que je lui donnerai deviendra en lui une source d'eau jaillissant pour la vie éternelle. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "La femme lui dit : « Seigneur, donne-moi cette eau, afin que je n'aie plus soif et que je n'aie plus à venir puiser ici. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Jésus lui dit : « Va, appelle ton mari, et reviens ici. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "La femme répondit : « Je n'ai pas de mari. » Jésus lui dit : « Tu as bien dit : 'Je n'ai pas de mari',"
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "car tu as eu cinq maris, et celui que tu as maintenant n'est pas ton mari. En cela tu as dit la vérité. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "La femme lui dit : « Seigneur, je vois que tu es un prophète."
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "Nos pères ont adoré sur cette montagne, et vous dites que le lieu où il faut adorer est à Jérusalem. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "Jésus lui dit : « Femme, crois-moi, l'heure vient où ce ne sera ni sur cette montagne ni à Jérusalem que vous adorerez le Père."
+    },
+    {
+      "chapter": 4,
+      "verse": 22,
+      "text": "Vous adorez ce que vous ne connaissez pas. Nous adorons ce que nous connaissons, car le salut vient des Juifs."
+    },
+    {
+      "chapter": 4,
+      "verse": 23,
+      "text": "Mais l'heure vient, et elle est déjà là, où les vrais adorateurs adoreront le Père en esprit et en vérité, car le Père cherche de tels adorateurs."
+    },
+    {
+      "chapter": 4,
+      "verse": 24,
+      "text": "Dieu est esprit, et il faut que ceux qui l'adorent l'adorent en esprit et en vérité. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 25,
+      "text": "La femme lui dit : « Je sais que le Messie vient, celui qu'on appelle Christ. Quand il sera venu, il nous annoncera toutes choses. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 26,
+      "text": "Jésus lui dit : « Je le suis, moi qui te parle. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 27,
+      "text": "À cet instant, ses disciples arrivèrent. Ils furent surpris de le voir parler avec une femme ; pourtant aucun ne dit : « Que cherches-tu ? » ou « Pourquoi parles-tu avec elle ? »"
+    },
+    {
+      "chapter": 4,
+      "verse": 28,
+      "text": "Alors la femme laissa sa cruche, s'en alla dans la ville, et dit aux gens :"
+    },
+    {
+      "chapter": 4,
+      "verse": 29,
+      "text": "« Venez voir un homme qui m'a dit tout ce que j'ai fait. Ne serait-ce pas le Christ ? »"
+    },
+    {
+      "chapter": 4,
+      "verse": 30,
+      "text": "Ils sortirent de la ville et vinrent vers lui."
+    },
+    {
+      "chapter": 4,
+      "verse": 31,
+      "text": "Pendant ce temps, les disciples le pressaient, disant : « Rabbi, mange. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 32,
+      "text": "Mais il leur dit : « J'ai à manger une nourriture que vous ne connaissez pas. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 33,
+      "text": "Les disciples se disaient donc les uns aux autres : « Quelqu'un lui aurait-il apporté à manger ? »"
+    },
+    {
+      "chapter": 4,
+      "verse": 34,
+      "text": "Jésus leur dit : « Ma nourriture est de faire la volonté de celui qui m'a envoyé, et d'accomplir son œuvre."
+    },
+    {
+      "chapter": 4,
+      "verse": 35,
+      "text": "Ne dites-vous pas : 'Encore quatre mois, puis vient la moisson' ? Eh bien, je vous le dis, levez les yeux et regardez les champs : ils sont déjà blancs pour la moisson."
+    },
+    {
+      "chapter": 4,
+      "verse": 36,
+      "text": "Celui qui moissonne reçoit un salaire et amasse du fruit pour la vie éternelle, afin que celui qui sème et celui qui moissonne se réjouissent ensemble."
+    },
+    {
+      "chapter": 4,
+      "verse": 37,
+      "text": "Car en ceci le dicton est vrai : 'L'un sème, et l'autre moissonne.'"
+    },
+    {
+      "chapter": 4,
+      "verse": 38,
+      "text": "Je vous ai envoyés moissonner ce pour quoi vous n'avez pas travaillé. D'autres ont travaillé, et vous êtes entrés dans leur travail. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 39,
+      "text": "Beaucoup de Samaritains de cette ville crurent en lui à cause de la parole de la femme qui rendait ce témoignage : « Il m'a dit tout ce que j'ai fait. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 40,
+      "text": "Ainsi, quand les Samaritains vinrent le trouver, ils le prièrent de demeurer auprès d'eux. Et il y demeura deux jours."
+    },
+    {
+      "chapter": 4,
+      "verse": 41,
+      "text": "Un bien plus grand nombre crurent à cause de sa parole."
+    },
+    {
+      "chapter": 4,
+      "verse": 42,
+      "text": "Ils disaient à la femme : « Ce n'est plus à cause de ce que tu nous as dit que nous croyons, car nous l'avons entendu nous-mêmes, et nous savons qu'il est vraiment le Christ, le Sauveur du monde. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 43,
+      "text": "Après ces deux jours, il partit de là et se rendit en Galilée."
+    },
+    {
+      "chapter": 4,
+      "verse": 44,
+      "text": "Car Jésus lui-même avait rendu ce témoignage qu'un prophète n'est pas honoré dans sa propre patrie."
+    },
+    {
+      "chapter": 4,
+      "verse": 45,
+      "text": "Lorsqu'il arriva en Galilée, il fut bien accueilli par les Galiléens, qui avaient vu tout ce qu'il avait fait à Jérusalem pendant la fête, car ils y étaient allés eux aussi."
+    },
+    {
+      "chapter": 4,
+      "verse": 46,
+      "text": "Jésus retourna donc à Cana en Galilée, où il avait changé l'eau en vin. Il y avait à Capernaüm un officier du roi dont le fils était malade."
+    },
+    {
+      "chapter": 4,
+      "verse": 47,
+      "text": "Ayant appris que Jésus était venu de Judée en Galilée, il alla vers lui et le pria de descendre pour guérir son fils, car il était sur le point de mourir."
+    },
+    {
+      "chapter": 4,
+      "verse": 48,
+      "text": "Jésus lui dit donc : « Si vous ne voyez des signes et des prodiges, vous ne croirez pas. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 49,
+      "text": "L'officier lui dit : « Seigneur, descends avant que mon enfant ne meure. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 50,
+      "text": "Jésus lui dit : « Va, ton fils vit. » Cet homme crut à la parole que Jésus lui avait dite, et il s'en alla."
+    },
+    {
+      "chapter": 4,
+      "verse": 51,
+      "text": "Comme il descendait, ses serviteurs vinrent à sa rencontre et lui rapportèrent cette nouvelle : « Ton enfant vit ! »"
+    },
+    {
+      "chapter": 4,
+      "verse": 52,
+      "text": "Il leur demanda donc à quelle heure il s'était trouvé mieux. Ils lui dirent : « Hier, à la septième heure, la fièvre l'a quitté. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 53,
+      "text": "Le père reconnut que c'était à cette heure même où Jésus lui avait dit : « Ton fils vit. » Et il crut, lui et toute sa maison."
+    },
+    {
+      "chapter": 4,
+      "verse": 54,
+      "text": "Ce fut le second signe que Jésus accomplit après être venu de Judée en Galilée."
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Après ces choses, il y eut une fête des Juifs, et Jésus monta à Jérusalem."
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Or, à Jérusalem, près de la porte des brebis, il y a une piscine qui s'appelle en hébreu Bethesda, et qui a cinq portiques."
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Sous ces portiques gisait une grande multitude de malades, d'aveugles, de boiteux et de paralysés, qui attendaient le mouvement de l'eau ;"
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "car un ange descendait de temps en temps dans la piscine et agitait l'eau. Celui qui y descendait le premier après que l'eau avait été agitée était guéri, quelle que fût sa maladie."
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Un homme se trouvait là, malade depuis trente-huit ans."
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Jésus, le voyant couché et sachant qu'il était malade depuis longtemps, lui demanda : « Veux-tu être guéri ? »"
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Le malade lui répondit : « Seigneur, je n'ai personne pour me jeter dans la piscine quand l'eau est agitée, et pendant que j'y vais, un autre descend avant moi. »"
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Jésus lui dit : « Lève-toi, prends ton brancard, et marche. »"
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Aussitôt, l'homme fut guéri ; il prit son brancard et marcha. Or, ce jour-là était un sabbat."
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Les Juifs dirent donc à celui qui avait été guéri : « C'est le sabbat. Il ne t'est pas permis de porter ton brancard. »"
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Il leur répondit : « Celui qui m'a guéri m'a dit : 'Prends ton brancard et marche.' »"
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Ils lui demandèrent alors : « Qui est l'homme qui t'a dit : 'Prends ton brancard et marche' ? »"
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Mais celui qui avait été guéri ne savait pas qui c'était, car Jésus s'était retiré à cause de la foule qui était en ce lieu."
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Plus tard, Jésus le trouva dans le temple et lui dit : « Tu es maintenant guéri. Ne pèche plus, de peur qu'il ne t'arrive quelque chose de pire. »"
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "Cet homme s'en alla et annonça aux Juifs que c'était Jésus qui l'avait guéri."
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "C'est pourquoi les Juifs persécutaient Jésus et cherchaient à le tuer, parce qu'il faisait ces choses le jour du sabbat."
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "Mais Jésus leur répondit : « Mon Père travaille jusqu'à présent, et moi aussi je travaille. »"
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "text": "À cause de cela, les Juifs cherchaient encore plus à le tuer, non seulement parce qu'il violait le sabbat, mais aussi parce qu'il appelait Dieu son propre Père, se faisant ainsi l'égal de Dieu."
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "text": "Jésus prit donc la parole et leur dit : « En vérité, en vérité, je vous le dis, le Fils ne peut rien faire de lui-même, il ne fait que ce qu'il voit faire au Père. Car tout ce que le Père fait, le Fils aussi le fait pareillement."
+    },
+    {
+      "chapter": 5,
+      "verse": 20,
+      "text": "Car le Père aime le Fils et lui montre tout ce qu'il fait. Il lui montrera des œuvres plus grandes que celles-ci, afin que vous en soyez émerveillés."
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "text": "Car, comme le Père ressuscite les morts et donne la vie, ainsi le Fils donne la vie à qui il veut."
+    },
+    {
+      "chapter": 5,
+      "verse": 22,
+      "text": "Le Père ne juge personne, mais il a remis tout jugement au Fils,"
+    },
+    {
+      "chapter": 5,
+      "verse": 23,
+      "text": "afin que tous honorent le Fils comme ils honorent le Père. Celui qui n'honore pas le Fils n'honore pas le Père qui l'a envoyé. »"
+    },
+    {
+      "chapter": 5,
+      "verse": 24,
+      "text": "« En vérité, en vérité, je vous le dis, celui qui écoute ma parole et qui croit à celui qui m'a envoyé a la vie éternelle et ne vient pas en jugement, mais il est passé de la mort à la vie."
+    },
+    {
+      "chapter": 5,
+      "verse": 25,
+      "text": "En vérité, en vérité, je vous le dis, l'heure vient, et elle est déjà là, où les morts entendront la voix du Fils de Dieu ; et ceux qui l'auront entendue vivront."
+    },
+    {
+      "chapter": 5,
+      "verse": 26,
+      "text": "Car, comme le Père a la vie en lui-même, ainsi il a donné au Fils d'avoir la vie en lui-même."
+    },
+    {
+      "chapter": 5,
+      "verse": 27,
+      "text": "Et il lui a donné l'autorité d'exercer le jugement, parce qu'il est le Fils de l'homme."
+    },
+    {
+      "chapter": 5,
+      "verse": 28,
+      "text": "Ne vous en étonnez pas, car l'heure vient où tous ceux qui sont dans les tombeaux entendront sa voix"
+    },
+    {
+      "chapter": 5,
+      "verse": 29,
+      "text": "et en sortiront : ceux qui auront fait le bien ressusciteront pour la vie, mais ceux qui auront fait le mal ressusciteront pour le jugement."
+    },
+    {
+      "chapter": 5,
+      "verse": 30,
+      "text": "Je ne peux rien faire de moi-même. Je juge d'après ce que j'entends, et mon jugement est juste, parce que je ne cherche pas ma volonté, mais la volonté de mon Père qui m'a envoyé. »"
+    },
+    {
+      "chapter": 5,
+      "verse": 31,
+      "text": "« Si je rends témoignage de moi-même, mon témoignage n'est pas valable."
+    },
+    {
+      "chapter": 5,
+      "verse": 32,
+      "text": "Il y en a un autre qui rend témoignage de moi, et je sais que le témoignage qu'il rend de moi est vrai."
+    },
+    {
+      "chapter": 5,
+      "verse": 33,
+      "text": "Vous avez envoyé des messagers vers Jean, et il a rendu témoignage à la vérité."
+    },
+    {
+      "chapter": 5,
+      "verse": 34,
+      "text": "Ce n'est pas le témoignage d'un homme que je reçois, mais je dis ces choses afin que vous soyez sauvés."
+    },
+    {
+      "chapter": 5,
+      "verse": 35,
+      "text": "Jean était la lampe qui brûle et qui brille, et vous avez voulu vous réjouir pour un temps à sa lumière."
+    },
+    {
+      "chapter": 5,
+      "verse": 36,
+      "text": "Mais j'ai un témoignage plus grand que celui de Jean : les œuvres que le Père m'a donné d'accomplir. Ces œuvres mêmes que je fais attestent à mon sujet que le Père m'a envoyé."
+    },
+    {
+      "chapter": 5,
+      "verse": 37,
+      "text": "Le Père qui m'a envoyé a lui-même rendu témoignage de moi. Vous n'avez jamais entendu sa voix ni vu son apparence,"
+    },
+    {
+      "chapter": 5,
+      "verse": 38,
+      "text": "et sa parole ne demeure pas en vous, parce que vous ne croyez pas à celui qu'il a envoyé. »"
+    },
+    {
+      "chapter": 5,
+      "verse": 39,
+      "text": "« Vous sondez les Écritures, parce que vous pensez avoir en elles la vie éternelle : ce sont elles qui rendent témoignage de moi."
+    },
+    {
+      "chapter": 5,
+      "verse": 40,
+      "text": "Et vous ne voulez pas venir à moi pour avoir la vie !"
+    },
+    {
+      "chapter": 5,
+      "verse": 41,
+      "text": "Je ne reçois pas la gloire des hommes."
+    },
+    {
+      "chapter": 5,
+      "verse": 42,
+      "text": "Mais je vous connais, vous n'avez pas l'amour de Dieu en vous."
+    },
+    {
+      "chapter": 5,
+      "verse": 43,
+      "text": "Je suis venu au nom de mon Père, et vous ne me recevez pas ; si un autre vient en son propre nom, vous le recevrez."
+    },
+    {
+      "chapter": 5,
+      "verse": 44,
+      "text": "Comment pouvez-vous croire, vous qui recevez votre gloire les uns des autres, et qui ne cherchez pas la gloire qui vient de Dieu seul ? »"
+    },
+    {
+      "chapter": 5,
+      "verse": 45,
+      "text": "« Ne pensez pas que je vous accuserai devant le Père. Celui qui vous accuse, c'est Moïse, en qui vous avez mis votre espérance."
+    },
+    {
+      "chapter": 5,
+      "verse": 46,
+      "text": "Car si vous croyiez Moïse, vous me croiriez aussi, car il a écrit à mon sujet."
+    },
+    {
+      "chapter": 5,
+      "verse": 47,
+      "text": "Mais si vous ne croyez pas à ses écrits, comment croirez-vous à mes paroles ? »"
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Après ces choses, Jésus s'en alla de l'autre côté de la mer de Galilée, appelée aussi mer de Tibériade."
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "Une grande foule le suivait, parce qu'elle voyait les signes qu'il accomplissait en faveur des malades."
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "Jésus monta sur la montagne et s'y assit avec ses disciples."
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "Or la Pâque, la fête des Juifs, était proche."
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "Jésus donc, levant les yeux et voyant qu'une grande multitude venait vers lui, dit à Philippe : « Où achèterons-nous du pain, pour que ces gens aient à manger ? »"
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "Il disait cela pour le mettre à l'épreuve, car il savait lui-même ce qu'il allait faire."
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Philippe lui répondit : « Deux cents deniers de pain ne suffiraient pas pour que chacun en reçoive un peu. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Un de ses disciples, André, le frère de Simon Pierre, lui dit :"
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "« Il y a ici un jeune garçon qui a cinq pains d'orge et deux poissons, mais qu'est-ce que cela représente pour tant de gens ? »"
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "Jésus dit : « Faites asseoir ces gens. » Or, il y avait beaucoup d'herbe à cet endroit. Les hommes s'assirent donc, au nombre d'environ cinq mille."
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Jésus prit les pains, et après avoir rendu grâces, il les distribua aux disciples, et les disciples à ceux qui étaient assis ; il leur donna de même des poissons, autant qu'ils en voulaient."
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "Lorsqu'ils furent rassasiés, il dit à ses disciples : « Ramassez les morceaux qui restent, afin que rien ne se perde. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "Ils les ramassèrent donc, et remplirent douze paniers des morceaux des cinq pains d'orge, qui restaient après qu'ils eurent mangé."
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "Ces gens, ayant vu le signe que Jésus avait accompli, disaient : « C'est vraiment le prophète qui vient dans le monde. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "text": "Jésus, sachant qu'ils allaient venir l'enlever de force pour le faire roi, se retira de nouveau, seul, sur la montagne."
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "text": "Quand le soir fut venu, ses disciples descendirent vers la mer."
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "text": "Ils montèrent dans une barque et se dirigèrent vers Capernaüm, de l'autre côté de la mer. Il faisait déjà nuit, et Jésus ne les avait pas encore rejoints."
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "text": "La mer était agitée parce qu'un grand vent soufflait."
+    },
+    {
+      "chapter": 6,
+      "verse": 19,
+      "text": "Après avoir ramé environ vingt-cinq ou trente stades, ils virent Jésus marchant sur la mer et s'approchant de la barque, et ils eurent peur."
+    },
+    {
+      "chapter": 6,
+      "verse": 20,
+      "text": "Mais Jésus leur dit : « C'est moi. N'ayez pas peur. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 21,
+      "text": "Ils voulurent donc le prendre dans la barque, et aussitôt la barque toucha terre là où ils allaient."
+    },
+    {
+      "chapter": 6,
+      "verse": 22,
+      "text": "Le lendemain, la foule qui était restée de l'autre côté de la mer remarqua qu'il n'y avait eu là qu'une seule barque, celle dans laquelle les disciples étaient montés, et que Jésus n'était pas monté dans cette barque avec eux, mais que ses disciples étaient partis seuls."
+    },
+    {
+      "chapter": 6,
+      "verse": 23,
+      "text": "Cependant, d'autres barques, venues de Tibériade, s'approchèrent du lieu où ils avaient mangé le pain après que le Seigneur eut rendu grâces."
+    },
+    {
+      "chapter": 6,
+      "verse": 24,
+      "text": "Quand la foule vit que ni Jésus ni ses disciples n'étaient là, elle monta dans ces barques et alla à Capernaüm à la recherche de Jésus."
+    },
+    {
+      "chapter": 6,
+      "verse": 25,
+      "text": "L'ayant trouvé de l'autre côté de la mer, ils lui demandèrent : « Rabbi, quand es-tu arrivé ici ? »"
+    },
+    {
+      "chapter": 6,
+      "verse": 26,
+      "text": "Jésus leur répondit : « En vérité, en vérité, je vous le dis, vous me cherchez, non parce que vous avez vu des signes, mais parce que vous avez mangé des pains et que vous avez été rassasiés."
+    },
+    {
+      "chapter": 6,
+      "verse": 27,
+      "text": "Ne travaillez pas pour la nourriture qui périt, mais pour celle qui subsiste pour la vie éternelle et que le Fils de l'homme vous donnera, car le Père, Dieu lui-même, a mis son sceau sur lui. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 28,
+      "text": "Ils lui dirent alors : « Que devons-nous faire pour accomplir les œuvres de Dieu ? »"
+    },
+    {
+      "chapter": 6,
+      "verse": 29,
+      "text": "Jésus leur répondit : « L'œuvre de Dieu, c'est que vous croyiez en celui qu'il a envoyé. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 30,
+      "text": "Ils lui dirent donc : « Quel signe accomplis-tu pour que nous le voyions et que nous te croyions ? Quelle œuvre fais-tu ?"
+    },
+    {
+      "chapter": 6,
+      "verse": 31,
+      "text": "Nos pères ont mangé la manne dans le désert, comme il est écrit : 'Il leur donna à manger du pain venu du ciel.' »"
+    },
+    {
+      "chapter": 6,
+      "verse": 32,
+      "text": "Jésus leur dit : « En vérité, en vérité, je vous le dis, ce n'est pas Moïse qui vous a donné le pain du ciel, mais c'est mon Père qui vous donne le vrai pain du ciel."
+    },
+    {
+      "chapter": 6,
+      "verse": 33,
+      "text": "Car le pain de Dieu, c'est celui qui descend du ciel et qui donne la vie au monde. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 34,
+      "text": "Ils lui dirent alors : « Seigneur, donne-nous toujours ce pain-là. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 35,
+      "text": "Jésus leur dit : « Je suis le pain de vie. Celui qui vient à moi n'aura jamais faim, et celui qui croit en moi n'aura jamais soif."
+    },
+    {
+      "chapter": 6,
+      "verse": 36,
+      "text": "Mais je vous l'ai dit : vous m'avez vu, et vous ne croyez pas."
+    },
+    {
+      "chapter": 6,
+      "verse": 37,
+      "text": "Tous ceux que le Père me donne viendront à moi, et je ne rejetterai jamais celui qui vient à moi."
+    },
+    {
+      "chapter": 6,
+      "verse": 38,
+      "text": "Car je suis descendu du ciel pour faire, non ma volonté, mais la volonté de celui qui m'a envoyé."
+    },
+    {
+      "chapter": 6,
+      "verse": 39,
+      "text": "Or, la volonté de mon Père qui m'a envoyé, c'est que je ne perde rien de tout ce qu'il m'a donné, mais que je le ressuscite au dernier jour."
+    },
+    {
+      "chapter": 6,
+      "verse": 40,
+      "text": "La volonté de celui qui m'a envoyé, c'est que quiconque voit le Fils et croit en lui ait la vie éternelle ; et je le ressusciterai au dernier jour. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 41,
+      "text": "Les Juifs murmuraient donc à son sujet, parce qu'il avait dit : « Je suis le pain descendu du ciel. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 42,
+      "text": "Ils disaient : « N'est-ce pas Jésus, le fils de Joseph, dont nous connaissons le père et la mère ? Comment donc peut-il dire : 'Je suis descendu du ciel' ? »"
+    },
+    {
+      "chapter": 6,
+      "verse": 43,
+      "text": "Jésus leur répondit : « Ne murmurez pas entre vous."
+    },
+    {
+      "chapter": 6,
+      "verse": 44,
+      "text": "Personne ne peut venir à moi si le Père qui m'a envoyé ne l'attire, et je le ressusciterai au dernier jour."
+    },
+    {
+      "chapter": 6,
+      "verse": 45,
+      "text": "Il est écrit dans les prophètes : 'Ils seront tous enseignés par Dieu.' Ainsi, quiconque a entendu le Père et a été instruit par lui vient à moi."
+    },
+    {
+      "chapter": 6,
+      "verse": 46,
+      "text": "Ce n'est pas que quelqu'un ait vu le Père, sinon celui qui vient de Dieu ; celui-là a vu le Père."
+    },
+    {
+      "chapter": 6,
+      "verse": 47,
+      "text": "En vérité, en vérité, je vous le dis, celui qui croit en moi a la vie éternelle."
+    },
+    {
+      "chapter": 6,
+      "verse": 48,
+      "text": "Je suis le pain de vie."
+    },
+    {
+      "chapter": 6,
+      "verse": 49,
+      "text": "Vos pères ont mangé la manne dans le désert, et ils sont morts."
+    },
+    {
+      "chapter": 6,
+      "verse": 50,
+      "text": "Voici le pain qui descend du ciel, afin que celui qui en mange ne meure pas."
+    },
+    {
+      "chapter": 6,
+      "verse": 51,
+      "text": "Je suis le pain vivant descendu du ciel. Si quelqu'un mange de ce pain, il vivra pour toujours. Et le pain que je donnerai pour la vie du monde, c'est ma chair. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 52,
+      "text": "Les Juifs se disputaient donc entre eux, disant : « Comment cet homme peut-il nous donner sa chair à manger ? »"
+    },
+    {
+      "chapter": 6,
+      "verse": 53,
+      "text": "Jésus leur dit alors : « En vérité, en vérité, je vous le dis, si vous ne mangez la chair du Fils de l'homme et ne buvez son sang, vous n'avez pas la vie en vous-mêmes."
+    },
+    {
+      "chapter": 6,
+      "verse": 54,
+      "text": "Celui qui mange ma chair et qui boit mon sang a la vie éternelle, et je le ressusciterai au dernier jour."
+    },
+    {
+      "chapter": 6,
+      "verse": 55,
+      "text": "Car ma chair est vraiment une nourriture, et mon sang est vraiment une boisson."
+    },
+    {
+      "chapter": 6,
+      "verse": 56,
+      "text": "Celui qui mange ma chair et boit mon sang demeure en moi, et moi en lui."
+    },
+    {
+      "chapter": 6,
+      "verse": 57,
+      "text": "Comme le Père qui est vivant m'a envoyé, et que je vis par le Père, ainsi celui qui me mange vivra par moi."
+    },
+    {
+      "chapter": 6,
+      "verse": 58,
+      "text": "C'est ici le pain descendu du ciel. Il n'est pas comme la manne que vos pères ont mangée avant de mourir ; celui qui mange ce pain vivra pour toujours. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 59,
+      "text": "Il dit ces choses dans la synagogue, alors qu'il enseignait à Capernaüm."
+    },
+    {
+      "chapter": 6,
+      "verse": 60,
+      "text": "Plusieurs de ses disciples, l'ayant entendu, dirent : « Cette parole est dure ! Qui peut l'accepter ? »"
+    },
+    {
+      "chapter": 6,
+      "verse": 61,
+      "text": "Mais Jésus, sachant en lui-même que ses disciples murmuraient à ce sujet, leur dit : « Cela vous choque-t-il ?"
+    },
+    {
+      "chapter": 6,
+      "verse": 62,
+      "text": "Et si vous voyiez le Fils de l'homme monter là où il était auparavant ?"
+    },
+    {
+      "chapter": 6,
+      "verse": 63,
+      "text": "C'est l'Esprit qui donne la vie ; la chair ne sert de rien. Les paroles que je vous ai dites sont esprit et vie."
+    },
+    {
+      "chapter": 6,
+      "verse": 64,
+      "text": "Mais il y en a parmi vous quelques-uns qui ne croient pas. » Car Jésus savait dès le commencement qui étaient ceux qui ne croyaient pas, et qui était celui qui le trahirait."
+    },
+    {
+      "chapter": 6,
+      "verse": 65,
+      "text": "Il ajouta : « C'est pourquoi je vous ai dit que personne ne peut venir à moi si cela ne lui a été donné par mon Père. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 66,
+      "text": "Dès lors, plusieurs de ses disciples se retirèrent et ne marchaient plus avec lui."
+    },
+    {
+      "chapter": 6,
+      "verse": 67,
+      "text": "Jésus dit alors aux douze : « Et vous, ne voulez-vous pas aussi vous en aller ? »"
+    },
+    {
+      "chapter": 6,
+      "verse": 68,
+      "text": "Simon Pierre lui répondit : « Seigneur, à qui irions-nous ? Tu as les paroles de la vie éternelle."
+    },
+    {
+      "chapter": 6,
+      "verse": 69,
+      "text": "Et nous avons cru et nous avons connu que tu es le Christ, le Fils du Dieu vivant. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 70,
+      "text": "Jésus leur répondit : « N'est-ce pas moi qui vous ai choisis, vous les douze ? Et pourtant, l'un de vous est un diable ! »"
+    },
+    {
+      "chapter": 6,
+      "verse": 71,
+      "text": "Il parlait de Judas Iscariote, fils de Simon, car c'était lui qui devait le trahir, lui, l'un des douze."
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "Après ces choses, Jésus parcourait la Galilée, car il ne voulait pas séjourner en Judée, parce que les Juifs cherchaient à le tuer."
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "Or la fête des Juifs, la fête des Tabernacles, était proche."
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "Ses frères lui dirent donc : « Pars d'ici et va en Judée, afin que tes disciples voient aussi les œuvres que tu fais."
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "Car personne n'agit en secret s'il cherche à être connu publiquement. Si tu fais ces choses, manifeste-toi au monde. »"
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "Car ses frères non plus ne croyaient pas en lui."
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "Jésus leur dit donc : « Mon temps n'est pas encore venu, mais votre temps est toujours prêt."
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "Le monde ne peut vous haïr, mais il me hait, parce que je rends témoignage à son sujet que ses œuvres sont mauvaises."
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "Montez, vous, à cette fête. Moi, je n'y monte pas encore, parce que mon temps n'est pas encore accompli. »"
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "Après leur avoir dit ces choses, il demeura en Galilée."
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "Mais lorsque ses frères furent montés à la fête, il y monta aussi lui-même, non publiquement, mais comme en secret."
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "text": "Les Juifs le cherchaient donc pendant la fête, et disaient : « Où est-il ? »"
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "text": "Il y avait beaucoup de murmures à son sujet dans la foule. Les uns disaient : « C'est un homme de bien. » D'autres disaient : « Non, il égare la foule. »"
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "text": "Toutefois, personne ne parlait ouvertement de lui, par crainte des Juifs."
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "text": "Vers le milieu de la fête, Jésus monta au temple et se mit à enseigner."
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "text": "Les Juifs s'étonnaient donc et disaient : « Comment cet homme peut-il être si instruit sans avoir étudié ? »"
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "text": "Jésus leur répondit : « Mon enseignement ne vient pas de moi, mais de celui qui m'a envoyé."
+    },
+    {
+      "chapter": 7,
+      "verse": 17,
+      "text": "Si quelqu'un veut faire sa volonté, il connaîtra si mon enseignement est de Dieu, ou si je parle de moi-même."
+    },
+    {
+      "chapter": 7,
+      "verse": 18,
+      "text": "Celui qui parle de lui-même cherche sa propre gloire ; mais celui qui cherche la gloire de celui qui l'a envoyé est vrai, et il n'y a pas d'injustice en lui."
+    },
+    {
+      "chapter": 7,
+      "verse": 19,
+      "text": "Moïse ne vous a-t-il pas donné la loi ? Pourtant, aucun de vous n'observe la loi ! Pourquoi cherchez-vous à me tuer ? »"
+    },
+    {
+      "chapter": 7,
+      "verse": 20,
+      "text": "La foule répondit : « Tu as un démon ! Qui cherche à te tuer ? »"
+    },
+    {
+      "chapter": 7,
+      "verse": 21,
+      "text": "Jésus leur répondit : « J'ai fait une œuvre, et vous en êtes tous étonnés."
+    },
+    {
+      "chapter": 7,
+      "verse": 22,
+      "text": "Moïse vous a donné la circoncision (non qu'elle vienne de Moïse, mais des patriarches), et vous circoncisez un enfant le jour du sabbat."
+    },
+    {
+      "chapter": 7,
+      "verse": 23,
+      "text": "Si un enfant reçoit la circoncision le jour du sabbat, afin que la loi de Moïse ne soit pas violée, pourquoi vous irritez-vous contre moi parce que j'ai rendu un homme entièrement sain le jour du sabbat ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 24,
+      "text": "Ne jugez pas selon l'apparence, mais portez un jugement juste. »"
+    },
+    {
+      "chapter": 7,
+      "verse": 25,
+      "text": "Quelques habitants de Jérusalem disaient alors : « N'est-ce pas lui qu'ils cherchent à tuer ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 26,
+      "text": "Pourtant, il parle ouvertement et ils ne lui disent rien ! Les chefs auraient-ils vraiment reconnu qu'il est le Christ ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 27,
+      "text": "Cependant, nous savons d'où est cet homme ; mais quand le Christ viendra, personne ne saura d'où il est. »"
+    },
+    {
+      "chapter": 7,
+      "verse": 28,
+      "text": "Jésus s'écria donc dans le temple, enseignant et disant : « Vous me connaissez, et vous savez d'où je suis ! Je ne suis pas venu de moi-même, mais celui qui m'a envoyé est vrai, et vous ne le connaissez pas."
+    },
+    {
+      "chapter": 7,
+      "verse": 29,
+      "text": "Moi, je le connais, car je viens de lui, et c'est lui qui m'a envoyé. »"
+    },
+    {
+      "chapter": 7,
+      "verse": 30,
+      "text": "Ils cherchaient donc à se saisir de lui ; mais personne ne mit la main sur lui, parce que son heure n'était pas encore venue."
+    },
+    {
+      "chapter": 7,
+      "verse": 31,
+      "text": "Parmi la foule, beaucoup crurent en lui, et ils disaient : « Le Christ, quand il viendra, accomplira-t-il plus de signes que cet homme n'en a fait ? »"
+    },
+    {
+      "chapter": 7,
+      "verse": 32,
+      "text": "Les pharisiens entendirent la foule murmurer ces choses à son sujet. Alors les principaux prêtres et les pharisiens envoyèrent des gardes pour se saisir de lui."
+    },
+    {
+      "chapter": 7,
+      "verse": 33,
+      "text": "Jésus dit alors : « Je suis encore avec vous pour un peu de temps, puis je m'en vais vers celui qui m'a envoyé."
+    },
+    {
+      "chapter": 7,
+      "verse": 34,
+      "text": "Vous me chercherez et vous ne me trouverez pas, et là où je serai, vous ne pouvez pas venir. »"
+    },
+    {
+      "chapter": 7,
+      "verse": 35,
+      "text": "Les Juifs se dirent donc entre eux : « Où ira-t-il pour que nous ne le trouvions pas ? Ira-t-il vers les Juifs dispersés parmi les Grecs, et enseignera-t-il les Grecs ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 36,
+      "text": "Que signifie cette parole qu'il a dite : 'Vous me chercherez et vous ne me trouverez pas' et 'Là où je serai, vous ne pouvez pas venir' ? »"
+    },
+    {
+      "chapter": 7,
+      "verse": 37,
+      "text": "Le dernier jour, le grand jour de la fête, Jésus se tint debout et s'écria : « Si quelqu'un a soif, qu'il vienne à moi et qu'il boive !"
+    },
+    {
+      "chapter": 7,
+      "verse": 38,
+      "text": "Celui qui croit en moi, comme dit l'Écriture, des fleuves d'eau vive couleront du plus profond de lui-même. »"
+    },
+    {
+      "chapter": 7,
+      "verse": 39,
+      "text": "Il dit cela de l'Esprit que devaient recevoir ceux qui croyaient en lui. Car le Saint-Esprit n'avait pas encore été donné, parce que Jésus n'avait pas encore été glorifié."
+    },
+    {
+      "chapter": 7,
+      "verse": 40,
+      "text": "Beaucoup de gens de la foule, ayant entendu ces paroles, disaient : « Celui-ci est vraiment le prophète. »"
+    },
+    {
+      "chapter": 7,
+      "verse": 41,
+      "text": "D'autres disaient : « C'est le Christ. » Mais certains disaient : « Est-ce de la Galilée que vient le Christ ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 42,
+      "text": "L'Écriture n'a-t-elle pas dit que le Christ vient de la descendance de David, et de Bethléhem, le village où était David ? »"
+    },
+    {
+      "chapter": 7,
+      "verse": 43,
+      "text": "Il y eut donc division dans la foule à cause de lui."
+    },
+    {
+      "chapter": 7,
+      "verse": 44,
+      "text": "Quelques-uns d'entre eux voulaient se saisir de lui, mais personne ne mit la main sur lui."
+    },
+    {
+      "chapter": 7,
+      "verse": 45,
+      "text": "Les gardes retournèrent donc vers les principaux prêtres et les pharisiens, qui leur dirent : « Pourquoi ne l'avez-vous pas amené ? »"
+    },
+    {
+      "chapter": 7,
+      "verse": 46,
+      "text": "Les gardes répondirent : « Jamais homme n'a parlé comme cet homme ! »"
+    },
+    {
+      "chapter": 7,
+      "verse": 47,
+      "text": "Les pharisiens leur répliquèrent : « Avez-vous été égarés, vous aussi ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 48,
+      "text": "Y a-t-il quelqu'un des chefs ou des pharisiens qui ait cru en lui ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 49,
+      "text": "Mais cette foule qui ne connaît pas la loi est maudite ! »"
+    },
+    {
+      "chapter": 7,
+      "verse": 50,
+      "text": "Nicodème (celui qui était venu de nuit vers Jésus, et qui était l'un d'entre eux) leur dit :"
+    },
+    {
+      "chapter": 7,
+      "verse": 51,
+      "text": "« Notre loi juge-t-elle un homme avant qu'on l'ait entendu personnellement et qu'on sache ce qu'il a fait ? »"
+    },
+    {
+      "chapter": 7,
+      "verse": 52,
+      "text": "Ils lui répondirent : « Es-tu aussi de Galilée ? Cherche, et vois qu'il ne s'est levé aucun prophète de Galilée. »"
+    },
+    {
+      "chapter": 7,
+      "verse": 53,
+      "text": "Et chacun s'en alla dans sa maison,"
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "text": "mais Jésus se rendit au mont des Oliviers."
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "text": "De bonne heure le matin, il revint dans le temple, et tout le peuple vint à lui. Il s'assit et les enseignait."
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "text": "Les scribes et les pharisiens amenèrent une femme surprise en adultère. L'ayant placée au milieu,"
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "text": "ils lui dirent : « Maître, nous avons surpris cette femme en flagrant délit d'adultère."
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "text": "Or, dans notre loi, Moïse nous a ordonné de lapider de telles femmes. Toi donc, que dis-tu d'elle ? »"
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "text": "Ils disaient cela pour le mettre à l'épreuve, afin d'avoir de quoi l'accuser. Mais Jésus se baissa et se mit à écrire sur la terre avec son doigt."
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "text": "Comme ils continuaient à l'interroger, il se redressa et leur dit : « Que celui d'entre vous qui est sans péché lui jette la première pierre. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "text": "Et s'étant de nouveau baissé, il écrivait sur la terre."
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "text": "Quand ils entendirent cela, accusés par leur conscience, ils sortirent un à un, à commencer par les plus âgés et jusqu'au dernier. Jésus resta seul avec la femme, qui était là au milieu."
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "text": "Jésus, s'étant redressé, la vit et dit : « Femme, où sont tes accusateurs ? Personne ne t'a-t-il condamnée ? »"
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "text": "Elle répondit : « Personne, Seigneur. » Jésus lui dit : « Je ne te condamne pas non plus. Va, et désormais ne pèche plus. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "text": "Jésus leur parla de nouveau : « Je suis la lumière du monde. Celui qui me suit ne marchera pas dans les ténèbres, mais il aura la lumière de la vie. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "text": "Les pharisiens lui dirent donc : « Tu rends témoignage de toi-même ; ton témoignage n'est pas valable. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 14,
+      "text": "Jésus leur répondit : « Même si je rends témoignage de moi-même, mon témoignage est vrai, car je sais d'où je suis venu et où je vais ; mais vous, vous ne savez d'où je viens ni où je vais."
+    },
+    {
+      "chapter": 8,
+      "verse": 15,
+      "text": "Vous jugez selon la chair. Moi, je ne juge personne."
+    },
+    {
+      "chapter": 8,
+      "verse": 16,
+      "text": "Et même si je juge, mon jugement est vrai, car je ne suis pas seul, mais je suis avec le Père qui m'a envoyé."
+    },
+    {
+      "chapter": 8,
+      "verse": 17,
+      "text": "Il est aussi écrit dans votre loi que le témoignage de deux personnes est valable."
+    },
+    {
+      "chapter": 8,
+      "verse": 18,
+      "text": "Moi, je rends témoignage de moi-même, et le Père qui m'a envoyé rend aussi témoignage de moi. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 19,
+      "text": "Ils lui dirent donc : « Où est ton Père ? » Jésus répondit : « Vous ne connaissez ni moi ni mon Père. Si vous me connaissiez, vous connaîtriez aussi mon Père. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 20,
+      "text": "Jésus prononça ces paroles dans le lieu du trésor, alors qu'il enseignait dans le temple. Et personne ne l'arrêta, parce que son heure n'était pas encore venue."
+    },
+    {
+      "chapter": 8,
+      "verse": 21,
+      "text": "Jésus leur dit donc de nouveau : « Je m'en vais, et vous me chercherez, et vous mourrez dans vos péchés. Là où je vais, vous ne pouvez pas venir. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 22,
+      "text": "Les Juifs disaient donc : « Va-t-il se tuer, puisqu'il dit : 'Là où je vais, vous ne pouvez pas venir' ? »"
+    },
+    {
+      "chapter": 8,
+      "verse": 23,
+      "text": "Il leur dit : « Vous êtes d'en bas ; moi, je suis d'en haut. Vous êtes de ce monde ; moi, je ne suis pas de ce monde."
+    },
+    {
+      "chapter": 8,
+      "verse": 24,
+      "text": "Je vous ai donc dit que vous mourrez dans vos péchés ; car si vous ne croyez pas que c'est moi, vous mourrez dans vos péchés. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 25,
+      "text": "Ils lui dirent donc : « Qui es-tu ? » Jésus leur répondit : « Ce que je vous dis dès le commencement."
+    },
+    {
+      "chapter": 8,
+      "verse": 26,
+      "text": "J'ai beaucoup de choses à dire à votre sujet et à juger. Mais celui qui m'a envoyé est vrai, et ce que j'ai entendu de lui, je le dis au monde. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 27,
+      "text": "Ils ne comprirent pas qu'il leur parlait du Père."
+    },
+    {
+      "chapter": 8,
+      "verse": 28,
+      "text": "Jésus leur dit donc : « Quand vous aurez élevé le Fils de l'homme, alors vous saurez que c'est moi, et que je ne fais rien de moi-même, mais que je dis ces choses comme mon Père me l'a enseigné."
+    },
+    {
+      "chapter": 8,
+      "verse": 29,
+      "text": "Celui qui m'a envoyé est avec moi. Le Père ne m'a pas laissé seul, car je fais toujours ce qui lui est agréable. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 30,
+      "text": "Comme il disait ces choses, beaucoup crurent en lui."
+    },
+    {
+      "chapter": 8,
+      "verse": 31,
+      "text": "Jésus dit donc aux Juifs qui avaient cru en lui : « Si vous demeurez dans ma parole, vous êtes vraiment mes disciples."
+    },
+    {
+      "chapter": 8,
+      "verse": 32,
+      "text": "Vous connaîtrez la vérité, et la vérité vous rendra libres. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 33,
+      "text": "Ils lui répondirent : « Nous sommes la descendance d'Abraham, et nous n'avons jamais été esclaves de personne. Comment dis-tu : 'Vous serez rendus libres' ? »"
+    },
+    {
+      "chapter": 8,
+      "verse": 34,
+      "text": "Jésus leur répondit : « En vérité, en vérité, je vous le dis, quiconque commet le péché est esclave du péché."
+    },
+    {
+      "chapter": 8,
+      "verse": 35,
+      "text": "Or, l'esclave ne demeure pas toujours dans la maison ; le fils y demeure toujours."
+    },
+    {
+      "chapter": 8,
+      "verse": 36,
+      "text": "Si donc le Fils vous rend libres, vous serez réellement libres."
+    },
+    {
+      "chapter": 8,
+      "verse": 37,
+      "text": "Je sais que vous êtes la descendance d'Abraham ; pourtant, vous cherchez à me tuer, parce que ma parole ne trouve pas de place en vous."
+    },
+    {
+      "chapter": 8,
+      "verse": 38,
+      "text": "Je dis ce que j'ai vu chez mon Père ; et vous aussi, vous faites ce que vous avez vu chez votre père. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 39,
+      "text": "Ils lui répondirent : « Notre père, c'est Abraham. » Jésus leur dit : « Si vous étiez enfants d'Abraham, vous feriez les œuvres d'Abraham."
+    },
+    {
+      "chapter": 8,
+      "verse": 40,
+      "text": "Mais maintenant vous cherchez à me tuer, alors que je vous ai dit la vérité que j'ai entendue de Dieu. Abraham n'a rien fait de pareil."
+    },
+    {
+      "chapter": 8,
+      "verse": 41,
+      "text": "Vous faites les œuvres de votre père. » Ils lui dirent : « Nous ne sommes pas nés de l'inconduite sexuelle. Nous avons un seul Père : Dieu. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 42,
+      "text": "Jésus leur dit donc : « Si Dieu était votre Père, vous m'aimeriez, car c'est de Dieu que je suis sorti et que je viens. Je ne suis pas venu de moi-même, mais c'est lui qui m'a envoyé."
+    },
+    {
+      "chapter": 8,
+      "verse": 43,
+      "text": "Pourquoi ne comprenez-vous pas mon langage ? Parce que vous ne pouvez pas écouter ma parole."
+    },
+    {
+      "chapter": 8,
+      "verse": 44,
+      "text": "Vous avez pour père le diable, et vous voulez accomplir les désirs de votre père. Il a été meurtrier dès le commencement, et il ne se tient pas dans la vérité, parce qu'il n'y a pas de vérité en lui. Quand il ment, il puise en lui-même, car il est menteur et père du mensonge."
+    },
+    {
+      "chapter": 8,
+      "verse": 45,
+      "text": "Mais moi, parce que je dis la vérité, vous ne me croyez pas."
+    },
+    {
+      "chapter": 8,
+      "verse": 46,
+      "text": "Qui de vous peut prouver que j'ai péché ? Si je dis la vérité, pourquoi ne me croyez-vous pas ?"
+    },
+    {
+      "chapter": 8,
+      "verse": 47,
+      "text": "Celui qui est de Dieu écoute les paroles de Dieu. C'est pourquoi vous ne les écoutez pas, parce que vous n'êtes pas de Dieu. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 48,
+      "text": "Les Juifs lui répondirent : « N'avons-nous pas raison de dire que tu es un Samaritain et que tu as un démon ? »"
+    },
+    {
+      "chapter": 8,
+      "verse": 49,
+      "text": "Jésus répondit : « Je n'ai pas de démon, mais j'honore mon Père, et vous m'outragez."
+    },
+    {
+      "chapter": 8,
+      "verse": 50,
+      "text": "Je ne cherche pas ma propre gloire ; il y en a un qui la cherche et qui juge."
+    },
+    {
+      "chapter": 8,
+      "verse": 51,
+      "text": "En vérité, en vérité, je vous le dis, si quelqu'un garde ma parole, il ne verra jamais la mort. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 52,
+      "text": "Les Juifs lui dirent alors : « Maintenant nous savons que tu as un démon. Abraham est mort, les prophètes aussi, et tu dis : 'Si quelqu'un garde ma parole, il ne goûtera jamais la mort.'"
+    },
+    {
+      "chapter": 8,
+      "verse": 53,
+      "text": "Es-tu plus grand que notre père Abraham, qui est mort ? Les prophètes aussi sont morts. Qui prétends-tu être ? »"
+    },
+    {
+      "chapter": 8,
+      "verse": 54,
+      "text": "Jésus répondit : « Si je me glorifie moi-même, ma gloire n'est rien. C'est mon Père qui me glorifie, lui dont vous dites qu'il est notre Dieu."
+    },
+    {
+      "chapter": 8,
+      "verse": 55,
+      "text": "Vous ne l'avez pas connu, mais moi, je le connais. Et si je disais que je ne le connais pas, je serais un menteur comme vous. Mais je le connais et je garde sa parole."
+    },
+    {
+      "chapter": 8,
+      "verse": 56,
+      "text": "Abraham, votre père, s'est réjoui à la pensée de voir mon jour : il l'a vu et il s'est réjoui. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 57,
+      "text": "Les Juifs lui dirent donc : « Tu n'as pas encore cinquante ans, et tu as vu Abraham ! »"
+    },
+    {
+      "chapter": 8,
+      "verse": 58,
+      "text": "Jésus leur dit : « En vérité, en vérité, je vous le dis, avant qu'Abraham existe, JE SUIS.»"
+    },
+    {
+      "chapter": 8,
+      "verse": 59,
+      "text": "Là-dessus, ils prirent des pierres pour les jeter contre lui ; mais Jésus se cacha et sortit du temple, passant au milieu d'eux, et il s'éloigna ainsi."
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "text": "En passant, il vit un homme aveugle de naissance."
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "text": "Ses disciples lui demandèrent : « Rabbi, qui a péché, cet homme ou ses parents, pour qu'il soit né aveugle ? »"
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "text": "Jésus répondit : « Ce n'est pas que cet homme ait péché, ni ses parents, mais c'est afin que les œuvres de Dieu soient manifestées en lui."
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "text": "Il me faut accomplir les œuvres de celui qui m'a envoyé pendant qu'il est jour. La nuit vient, où personne ne peut travailler."
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "text": "Pendant que je suis dans le monde, je suis la lumière du monde. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "text": "Ayant dit cela, il cracha à terre, fit de la boue avec sa salive, appliqua cette boue sur les yeux de l'aveugle,"
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "text": "et lui dit : « Va, lave-toi au réservoir de Siloé » (ce qui se traduit par Envoyé). Il y alla donc, se lava et revint en voyant clair."
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "text": "Les voisins et ceux qui l'avaient vu auparavant lorsqu'il était aveugle disaient : « N'est-ce pas lui qui se tenait assis et qui mendiait ? »"
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "text": "Les uns disaient : « C'est lui. » D'autres disaient : « Il lui ressemble. » Lui disait : « C'est bien moi. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "text": "Ils lui demandaient donc : « Comment tes yeux ont-ils été ouverts ? »"
+    },
+    {
+      "chapter": 9,
+      "verse": 11,
+      "text": "Il répondit : « Un homme qu'on appelle Jésus a fait de la boue, l'a appliquée sur mes yeux, et m'a dit : 'Va au réservoir de Siloé et lave-toi.' J'y suis donc allé, je me suis lavé, et j'ai recouvré la vue. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 12,
+      "text": "Ils lui dirent alors : « Où est cet homme ? » Il répondit : « Je ne sais pas. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "text": "Ils menèrent aux pharisiens celui qui avait été aveugle."
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "text": "Or, c'était un jour de sabbat que Jésus avait fait de la boue et lui avait ouvert les yeux."
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "text": "Les pharisiens lui demandèrent donc à leur tour comment il avait recouvré la vue. Il leur dit : « Il a mis de la boue sur mes yeux, je me suis lavé, et je vois. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 16,
+      "text": "Sur quoi, quelques-uns des pharisiens disaient : « Cet homme ne vient pas de Dieu, car il n'observe pas le sabbat. » D'autres disaient : « Comment un homme pécheur peut-il accomplir de tels signes ? » Il y eut donc division parmi eux."
+    },
+    {
+      "chapter": 9,
+      "verse": 17,
+      "text": "Ils interrogèrent de nouveau l'aveugle : « Et toi, que dis-tu de lui, puisqu'il t'a ouvert les yeux ? » Il répondit : « C'est un prophète. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 18,
+      "text": "Cependant, les Juifs ne crurent pas qu'il avait été aveugle et qu'il avait recouvré la vue, jusqu'à ce qu'ils aient fait venir ses parents."
+    },
+    {
+      "chapter": 9,
+      "verse": 19,
+      "text": "Ils les interrogèrent, disant : « Est-ce là votre fils, dont vous dites qu'il est né aveugle ? Comment donc voit-il maintenant ? »"
+    },
+    {
+      "chapter": 9,
+      "verse": 20,
+      "text": "Ses parents leur répondirent : « Nous savons que c'est notre fils, et qu'il est né aveugle ;"
+    },
+    {
+      "chapter": 9,
+      "verse": 21,
+      "text": "mais nous ne savons pas comment il voit maintenant, ni qui lui a ouvert les yeux. Il est assez grand, interrogez-le. Il parlera lui-même. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 22,
+      "text": "Ses parents dirent cela parce qu'ils craignaient les Juifs ; car les Juifs avaient déjà convenu que, si quelqu'un le confessait comme Christ, il serait exclu de la synagogue."
+    },
+    {
+      "chapter": 9,
+      "verse": 23,
+      "text": "C'est pourquoi ses parents dirent : « Il est assez grand, interrogez-le. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 24,
+      "text": "Ils appelèrent donc une seconde fois l'homme qui avait été aveugle, et lui dirent : « Donne gloire à Dieu. Nous savons que cet homme est un pécheur. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 25,
+      "text": "Il répondit : « S'il est un pécheur, je ne le sais pas. Je sais une chose : c'est que j'étais aveugle, et que maintenant je vois. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 26,
+      "text": "Ils lui dirent encore : « Que t'a-t-il fait ? Comment t'a-t-il ouvert les yeux ? »"
+    },
+    {
+      "chapter": 9,
+      "verse": 27,
+      "text": "Il leur répondit : « Je vous l'ai déjà dit, et vous n'avez pas écouté. Pourquoi voulez-vous l'entendre de nouveau ? Voulez-vous aussi devenir ses disciples ? »"
+    },
+    {
+      "chapter": 9,
+      "verse": 28,
+      "text": "Ils l'injurièrent et dirent : « C'est toi qui es son disciple, mais nous, nous sommes disciples de Moïse."
+    },
+    {
+      "chapter": 9,
+      "verse": 29,
+      "text": "Nous savons que Dieu a parlé à Moïse ; mais celui-ci, nous ne savons d'où il vient. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 30,
+      "text": "L'homme leur répondit : « Il est bien étonnant que vous ne sachiez pas d'où il vient, et pourtant il m'a ouvert les yeux."
+    },
+    {
+      "chapter": 9,
+      "verse": 31,
+      "text": "Nous savons que Dieu n'exauce pas les pécheurs ; mais si quelqu'un l'honore et fait sa volonté, c'est lui qu'il exauce."
+    },
+    {
+      "chapter": 9,
+      "verse": 32,
+      "text": "Jamais on n'a entendu dire que quelqu'un ait ouvert les yeux d'un aveugle-né."
+    },
+    {
+      "chapter": 9,
+      "verse": 33,
+      "text": "Si cet homme ne venait pas de Dieu, il ne pourrait rien faire. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 34,
+      "text": "Ils lui répondirent : « Tu es plongé dans le péché depuis ta naissance, et tu veux nous enseigner ! » Et ils le chassèrent."
+    },
+    {
+      "chapter": 9,
+      "verse": 35,
+      "text": "Jésus apprit qu'ils l'avaient chassé et, l'ayant trouvé, il lui dit : « Crois-tu au Fils de Dieu ? »"
+    },
+    {
+      "chapter": 9,
+      "verse": 36,
+      "text": "Il répondit : « Et qui est-il, Seigneur, afin que je croie en lui ? »"
+    },
+    {
+      "chapter": 9,
+      "verse": 37,
+      "text": "Jésus lui dit : « Tu l'as vu, et celui qui te parle, c'est lui. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 38,
+      "text": "Il dit : « Je crois, Seigneur ! » Et il se prosterna devant lui."
+    },
+    {
+      "chapter": 9,
+      "verse": 39,
+      "text": "Jésus dit : « Je suis venu dans ce monde pour un jugement, afin que ceux qui ne voient pas voient, et que ceux qui voient deviennent aveugles. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 40,
+      "text": "Quelques pharisiens qui étaient avec lui, ayant entendu ces paroles, lui dirent : « Nous aussi, sommes-nous aveugles ? »"
+    },
+    {
+      "chapter": 9,
+      "verse": 41,
+      "text": "Jésus leur répondit : « Si vous étiez aveugles, vous n'auriez pas de péché ; mais maintenant vous dites : 'Nous voyons.' C'est pourquoi votre péché demeure. »"
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "text": "« En vérité, en vérité, je vous le dis, celui qui n'entre pas par la porte dans la bergerie des brebis, mais qui y monte par un autre chemin, est un voleur et un brigand."
+    },
+    {
+      "chapter": 10,
+      "verse": 2,
+      "text": "Mais celui qui entre par la porte est le berger des brebis."
+    },
+    {
+      "chapter": 10,
+      "verse": 3,
+      "text": "Le portier lui ouvre, et les brebis entendent sa voix ; il appelle par leur nom ses propres brebis, et il les conduit dehors."
+    },
+    {
+      "chapter": 10,
+      "verse": 4,
+      "text": "Lorsqu'il a fait sortir ses propres brebis, il marche devant elles ; et les brebis le suivent, parce qu'elles connaissent sa voix."
+    },
+    {
+      "chapter": 10,
+      "verse": 5,
+      "text": "Elles ne suivront jamais un étranger, mais elles fuiront loin de lui, parce qu'elles ne connaissent pas la voix des étrangers. »"
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "text": "Jésus leur dit cette parabole, mais ils ne comprirent pas de quoi il leur parlait."
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "text": "Jésus leur dit donc de nouveau : « En vérité, en vérité, je vous le dis, je suis la porte des brebis."
+    },
+    {
+      "chapter": 10,
+      "verse": 8,
+      "text": "Tous ceux qui sont venus avant moi sont des voleurs et des brigands ; mais les brebis ne les ont pas écoutés."
+    },
+    {
+      "chapter": 10,
+      "verse": 9,
+      "text": "Je suis la porte. Si quelqu'un entre par moi, il sera sauvé ; il entrera et sortira, et il trouvera des pâturages."
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "text": "Le voleur ne vient que pour voler, tuer et détruire. Moi, je suis venu afin qu'elles aient la vie, et qu'elles l'aient en abondance. »"
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "text": "« Je suis le bon berger. Le bon berger donne sa vie pour les brebis."
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "text": "Le mercenaire, qui n'est pas le berger et à qui les brebis n'appartiennent pas, voit venir le loup, abandonne les brebis et s'enfuit. Alors le loup s'empare des brebis et les disperse."
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "text": "Le mercenaire s'enfuit parce qu'il est mercenaire et qu'il ne se soucie pas des brebis."
+    },
+    {
+      "chapter": 10,
+      "verse": 14,
+      "text": "Je suis le bon berger. Je connais les miennes, et les miennes me connaissent,"
+    },
+    {
+      "chapter": 10,
+      "verse": 15,
+      "text": "comme le Père me connaît et comme je connais le Père. Je donne ma vie pour les brebis."
+    },
+    {
+      "chapter": 10,
+      "verse": 16,
+      "text": "J'ai encore d'autres brebis, qui ne sont pas de cet enclos. Celles-là, il faut aussi que je les amène ; elles entendront ma voix, et il y aura un seul troupeau, un seul berger."
+    },
+    {
+      "chapter": 10,
+      "verse": 17,
+      "text": "Le Père m'aime, parce que je donne ma vie, afin de la reprendre."
+    },
+    {
+      "chapter": 10,
+      "verse": 18,
+      "text": "Personne ne me l'ôte, mais je la donne de moi-même. J'ai le droit de la donner, et j'ai le droit de la reprendre. Tel est l'ordre que j'ai reçu de mon Père. »"
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "text": "Il y eut de nouveau division parmi les Juifs à cause de ces paroles."
+    },
+    {
+      "chapter": 10,
+      "verse": 20,
+      "text": "Beaucoup d'entre eux disaient : « Il a un démon et il a perdu la raison ! Pourquoi l'écoutez-vous ? »"
+    },
+    {
+      "chapter": 10,
+      "verse": 21,
+      "text": "D'autres disaient : « Ce ne sont pas les paroles d'un homme qui a un démon. Un démon peut-il ouvrir les yeux des aveugles ? »"
+    },
+    {
+      "chapter": 10,
+      "verse": 22,
+      "text": "On célébrait à Jérusalem la fête de la Dédicace."
+    },
+    {
+      "chapter": 10,
+      "verse": 23,
+      "text": "C'était l'hiver, et Jésus se promenait dans le temple, sous le portique de Salomon."
+    },
+    {
+      "chapter": 10,
+      "verse": 24,
+      "text": "Les Juifs l'entourèrent donc et lui dirent : « Jusqu'à quand nous tiendras-tu en suspens ? Si tu es le Christ, dis-le-nous ouvertement. »"
+    },
+    {
+      "chapter": 10,
+      "verse": 25,
+      "text": "Jésus leur répondit : « Je vous l'ai dit, et vous ne croyez pas. Les œuvres que je fais au nom de mon Père, ce sont elles qui rendent témoignage de moi."
+    },
+    {
+      "chapter": 10,
+      "verse": 26,
+      "text": "Mais vous ne croyez pas, parce que vous n'êtes pas de mes brebis, comme je vous l'ai dit."
+    },
+    {
+      "chapter": 10,
+      "verse": 27,
+      "text": "Mes brebis entendent ma voix, je les connais, et elles me suivent."
+    },
+    {
+      "chapter": 10,
+      "verse": 28,
+      "text": "Je leur donne la vie éternelle. Elles ne périront jamais, et personne ne les arrachera de ma main."
+    },
+    {
+      "chapter": 10,
+      "verse": 29,
+      "text": "Mon Père, qui me les a données, est plus grand que tous, et personne ne peut les arracher de la main de mon Père."
+    },
+    {
+      "chapter": 10,
+      "verse": 30,
+      "text": "Le Père et moi, nous sommes un. »"
+    },
+    {
+      "chapter": 10,
+      "verse": 31,
+      "text": "Les Juifs prirent de nouveau des pierres pour le lapider."
+    },
+    {
+      "chapter": 10,
+      "verse": 32,
+      "text": "Jésus leur répondit : « Je vous ai fait voir beaucoup de bonnes œuvres venant de mon Père. Pour laquelle de ces œuvres me lapidez-vous ? »"
+    },
+    {
+      "chapter": 10,
+      "verse": 33,
+      "text": "Les Juifs lui répondirent : « Ce n'est pas pour une bonne œuvre que nous te lapidons, mais pour un blasphème, parce que toi, qui es un homme, tu te fais Dieu. »"
+    },
+    {
+      "chapter": 10,
+      "verse": 34,
+      "text": "Jésus leur répondit : « N'est-il pas écrit dans votre loi : 'J'ai dit : Vous êtes des dieux' ?"
+    },
+    {
+      "chapter": 10,
+      "verse": 35,
+      "text": "S'il a appelé dieux ceux à qui la parole de Dieu a été adressée (et l'Écriture ne peut être annulée),"
+    },
+    {
+      "chapter": 10,
+      "verse": 36,
+      "text": "dites-vous à celui que le Père a sanctifié et envoyé dans le monde : 'Tu blasphèmes', parce que j'ai dit : 'Je suis le Fils de Dieu' ?"
+    },
+    {
+      "chapter": 10,
+      "verse": 37,
+      "text": "Si je ne fais pas les œuvres de mon Père, ne me croyez pas."
+    },
+    {
+      "chapter": 10,
+      "verse": 38,
+      "text": "Mais si je les fais, même si vous ne me croyez pas, croyez à ces œuvres, afin que vous sachiez et que vous croyiez que le Père est en moi, et moi dans le Père. »"
+    },
+    {
+      "chapter": 10,
+      "verse": 39,
+      "text": "Ils cherchèrent encore à se saisir de lui, mais il s'échappa de leurs mains."
+    },
+    {
+      "chapter": 10,
+      "verse": 40,
+      "text": "Il s'en alla de nouveau au-delà du Jourdain, à l'endroit où Jean avait d'abord baptisé, et il y demeura."
+    },
+    {
+      "chapter": 10,
+      "verse": 41,
+      "text": "Beaucoup vinrent à lui et disaient : « Jean n'a accompli aucun signe, mais tout ce qu'il a dit de cet homme était vrai. »"
+    },
+    {
+      "chapter": 10,
+      "verse": 42,
+      "text": "Et là, beaucoup crurent en lui."
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "text": "Il y avait un homme malade, Lazare de Béthanie, le village de Marie et de sa sœur Marthe."
+    },
+    {
+      "chapter": 11,
+      "verse": 2,
+      "text": "C'était cette Marie qui avait oint le Seigneur de parfum et qui avait essuyé ses pieds avec ses cheveux ; c'était son frère Lazare qui était malade."
+    },
+    {
+      "chapter": 11,
+      "verse": 3,
+      "text": "Les sœurs envoyèrent donc dire à Jésus : « Seigneur, celui que tu aimes est malade. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 4,
+      "text": "Mais lorsque Jésus entendit cela, il dit : « Cette maladie ne mène pas à la mort, mais elle est pour la gloire de Dieu, afin que le Fils de Dieu soit glorifié par elle. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 5,
+      "text": "Or, Jésus aimait Marthe, sa sœur et Lazare."
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "text": "Lorsqu'il eut appris qu'il était malade, il demeura encore deux jours à l'endroit où il était."
+    },
+    {
+      "chapter": 11,
+      "verse": 7,
+      "text": "Ensuite, il dit aux disciples : « Retournons en Judée. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 8,
+      "text": "Les disciples lui dirent : « Rabbi, les Juifs cherchaient tout récemment à te lapider, et tu y retournes ? »"
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "text": "Jésus répondit : « N'y a-t-il pas douze heures au jour ? Si quelqu'un marche pendant le jour, il ne trébuche pas, parce qu'il voit la lumière de ce monde."
+    },
+    {
+      "chapter": 11,
+      "verse": 10,
+      "text": "Mais si quelqu'un marche pendant la nuit, il trébuche, parce que la lumière n'est pas en lui. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 11,
+      "text": "Il dit ces choses, et après cela il leur dit : « Notre ami Lazare s'est endormi, mais je vais aller le réveiller de son sommeil. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 12,
+      "text": "Les disciples dirent donc : « Seigneur, s'il s'est endormi, il guérira. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 13,
+      "text": "Jésus avait parlé de sa mort, mais ils crurent qu'il parlait d'un sommeil naturel."
+    },
+    {
+      "chapter": 11,
+      "verse": 14,
+      "text": "Alors Jésus leur dit ouvertement : « Lazare est mort."
+    },
+    {
+      "chapter": 11,
+      "verse": 15,
+      "text": "Et à cause de vous, je me réjouis de n'avoir pas été là, afin que vous croyiez. Néanmoins, allons vers lui. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 16,
+      "text": "Là-dessus, Thomas, appelé Didyme, dit aux autres disciples : « Allons-y nous aussi, afin de mourir avec lui. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 17,
+      "text": "À son arrivée, Jésus apprit que Lazare était au tombeau depuis déjà quatre jours."
+    },
+    {
+      "chapter": 11,
+      "verse": 18,
+      "text": "Or, Béthanie était près de Jérusalem, à environ quinze stades de distance."
+    },
+    {
+      "chapter": 11,
+      "verse": 19,
+      "text": "Beaucoup de Juifs étaient venus auprès de Marthe et de Marie pour les consoler au sujet de leur frère."
+    },
+    {
+      "chapter": 11,
+      "verse": 20,
+      "text": "Lorsque Marthe apprit que Jésus arrivait, elle alla à sa rencontre, tandis que Marie restait à la maison."
+    },
+    {
+      "chapter": 11,
+      "verse": 21,
+      "text": "Marthe dit alors à Jésus : « Seigneur, si tu avais été ici, mon frère ne serait pas mort."
+    },
+    {
+      "chapter": 11,
+      "verse": 22,
+      "text": "Mais même maintenant, je sais que tout ce que tu demanderas à Dieu, Dieu te le donnera. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 23,
+      "text": "Jésus lui dit : « Ton frère ressuscitera. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 24,
+      "text": "Marthe lui répondit : « Je sais qu'il ressuscitera à la résurrection, au dernier jour. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 25,
+      "text": "Jésus lui dit : « Je suis la résurrection et la vie. Celui qui croit en moi vivra, même s'il meurt ;"
+    },
+    {
+      "chapter": 11,
+      "verse": 26,
+      "text": "et quiconque vit et croit en moi ne mourra jamais. Crois-tu cela ? »"
+    },
+    {
+      "chapter": 11,
+      "verse": 27,
+      "text": "Elle lui dit : « Oui, Seigneur. Je crois que tu es le Christ, le Fils de Dieu, celui qui vient dans le monde. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 28,
+      "text": "Ayant dit cela, elle s'en alla et appela secrètement Marie, sa sœur, en disant : « Le Maître est ici, et il t'appelle. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 29,
+      "text": "Dès que Marie eut entendu cela, elle se leva aussitôt et alla vers lui."
+    },
+    {
+      "chapter": 11,
+      "verse": 30,
+      "text": "Or, Jésus n'était pas encore entré dans le village, mais il était à l'endroit où Marthe l'avait rencontré."
+    },
+    {
+      "chapter": 11,
+      "verse": 31,
+      "text": "Les Juifs qui étaient avec elle dans la maison et qui la consolaient la virent se lever précipitamment et sortir. Ils la suivirent, pensant : « Elle va au tombeau pour y pleurer. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 32,
+      "text": "Dès que Marie fut arrivée là où était Jésus et qu'elle le vit, elle tomba à ses pieds et lui dit : « Seigneur, si tu avais été ici, mon frère ne serait pas mort. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 33,
+      "text": "Quand Jésus la vit pleurer, ainsi que les Juifs qui étaient venus avec elle, il fut profondément ému et bouleversé."
+    },
+    {
+      "chapter": 11,
+      "verse": 34,
+      "text": "et il dit : « Où l'avez-vous mis ? » Ils lui dirent : « Seigneur, viens et vois. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 35,
+      "text": "Jésus pleura."
+    },
+    {
+      "chapter": 11,
+      "verse": 36,
+      "text": "Les Juifs dirent donc : « Voyez comme il l'aimait ! »"
+    },
+    {
+      "chapter": 11,
+      "verse": 37,
+      "text": "Quelques-uns d'entre eux dirent : « Lui qui a ouvert les yeux de l'aveugle, ne pouvait-il pas faire aussi que cet homme ne meure pas ? »"
+    },
+    {
+      "chapter": 11,
+      "verse": 38,
+      "text": "Jésus, frémissant de nouveau en lui-même, se rendit au tombeau. C'était une grotte dont l'entrée était fermée par une pierre."
+    },
+    {
+      "chapter": 11,
+      "verse": 39,
+      "text": "Jésus dit : « Ôtez la pierre. » Marthe, la sœur du mort, lui dit : « Seigneur, il sent déjà mauvais, car il est là depuis quatre jours. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 40,
+      "text": "Jésus lui dit : « Ne t'ai-je pas dit que, si tu crois, tu verras la gloire de Dieu ? »"
+    },
+    {
+      "chapter": 11,
+      "verse": 41,
+      "text": "Ils ôtèrent donc la pierre de l'endroit où le mort était couché. Jésus leva les yeux au ciel et dit : « Père, je te rends grâces de ce que tu m'as exaucé."
+    },
+    {
+      "chapter": 11,
+      "verse": 42,
+      "text": "Je savais que tu m'exauces toujours, mais j'ai dit cela à cause de la foule qui m'entoure, afin que ces gens croient que c'est toi qui m'as envoyé. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 43,
+      "text": "Ayant dit cela, il cria d'une voix forte : « Lazare, sors ! »"
+    },
+    {
+      "chapter": 11,
+      "verse": 44,
+      "text": "Et le mort sortit, les pieds et les mains liés de bandelettes, et le visage enveloppé d'un linge. Jésus leur dit : « Déliez-le, et laissez-le aller. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 45,
+      "text": "Beaucoup de Juifs qui étaient venus vers Marie et qui virent ce que Jésus avait fait crurent en lui."
+    },
+    {
+      "chapter": 11,
+      "verse": 46,
+      "text": "Mais quelques-uns d'entre eux s'en allèrent vers les pharisiens et leur rapportèrent ce que Jésus avait fait."
+    },
+    {
+      "chapter": 11,
+      "verse": 47,
+      "text": "Alors les principaux prêtres et les pharisiens réunirent le conseil et dirent : « Que faisons-nous ? Cet homme accomplit beaucoup de signes."
+    },
+    {
+      "chapter": 11,
+      "verse": 48,
+      "text": "Si nous le laissons ainsi faire, tous croiront en lui, et les Romains viendront nous enlever et notre lieu saint et notre nation. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 49,
+      "text": "Mais l'un d'eux, Caïphe, qui était grand prêtre cette année-là, leur dit : « Vous n'y comprenez rien du tout,"
+    },
+    {
+      "chapter": 11,
+      "verse": 50,
+      "text": "et vous ne réfléchissez pas qu'il est avantageux pour nous qu'un seul homme meure pour le peuple, et que la nation entière ne périsse pas. »"
+    },
+    {
+      "chapter": 11,
+      "verse": 51,
+      "text": "Or, il ne dit pas cela de lui-même ; mais, étant grand prêtre cette année-là, il prophétisa que Jésus devait mourir pour la nation,"
+    },
+    {
+      "chapter": 11,
+      "verse": 52,
+      "text": "et non seulement pour la nation, mais aussi afin de rassembler en un seul corps les enfants de Dieu dispersés."
+    },
+    {
+      "chapter": 11,
+      "verse": 53,
+      "text": "Dès ce jour-là, ils tinrent conseil pour le faire mourir."
+    },
+    {
+      "chapter": 11,
+      "verse": 54,
+      "text": "Jésus ne circula donc plus ouvertement parmi les Juifs, mais il s'en alla dans la contrée voisine du désert, dans une ville appelée Éphraïm. Et il y séjourna avec ses disciples."
+    },
+    {
+      "chapter": 11,
+      "verse": 55,
+      "text": "Or, la Pâque des Juifs était proche. Beaucoup de gens de la région montèrent à Jérusalem avant la Pâque pour se purifier."
+    },
+    {
+      "chapter": 11,
+      "verse": 56,
+      "text": "Ils cherchaient donc Jésus et se disaient les uns aux autres, en se tenant dans le temple : « Qu'en pensez-vous ? Ne viendra-t-il pas du tout à la fête ? »"
+    },
+    {
+      "chapter": 11,
+      "verse": 57,
+      "text": "Or, les principaux prêtres et les pharisiens avaient donné l'ordre que, si quelqu'un savait où il était, il le déclare, afin qu'on se saisisse de lui."
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "text": "Six jours avant la Pâque, Jésus arriva à Béthanie, où se trouvait Lazare, qui était mort et qu'il avait ressuscité des morts."
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "text": "On lui prépara là un repas. Marthe servait, et Lazare était l'un de ceux qui se trouvaient à table avec lui."
+    },
+    {
+      "chapter": 12,
+      "verse": 3,
+      "text": "Marie prit alors une livre d'un parfum de nard pur, de grand prix, oignit les pieds de Jésus et lui essuya les pieds avec ses cheveux. La maison fut remplie de l'odeur du parfum."
+    },
+    {
+      "chapter": 12,
+      "verse": 4,
+      "text": "Alors Judas Iscariote, fils de Simon, l'un de ses disciples, celui qui devait le trahir, dit :"
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "text": "« Pourquoi n'a-t-on pas vendu ce parfum trois cents deniers pour les donner aux pauvres ? »"
+    },
+    {
+      "chapter": 12,
+      "verse": 6,
+      "text": "Il dit cela non parce qu'il se souciait des pauvres, mais parce qu'il était voleur : il tenait la bourse et dérobait ce qu'on y mettait."
+    },
+    {
+      "chapter": 12,
+      "verse": 7,
+      "text": "Mais Jésus dit : « Laisse-la faire. Elle a gardé ce parfum pour le jour de ma sépulture."
+    },
+    {
+      "chapter": 12,
+      "verse": 8,
+      "text": "Car vous avez toujours des pauvres avec vous, mais vous ne m'avez pas toujours. »"
+    },
+    {
+      "chapter": 12,
+      "verse": 9,
+      "text": "Une grande foule de Juifs apprit donc qu'il était là, et ils vinrent, non seulement à cause de Jésus, mais aussi pour voir Lazare, qu'il avait ressuscité des morts."
+    },
+    {
+      "chapter": 12,
+      "verse": 10,
+      "text": "Mais les principaux prêtres délibérèrent de faire mourir aussi Lazare,"
+    },
+    {
+      "chapter": 12,
+      "verse": 11,
+      "text": "parce qu'à cause de lui beaucoup de Juifs se détournaient d'eux et croyaient en Jésus."
+    },
+    {
+      "chapter": 12,
+      "verse": 12,
+      "text": "Le lendemain, une grande foule qui était venue pour la fête, ayant entendu que Jésus venait à Jérusalem,"
+    },
+    {
+      "chapter": 12,
+      "verse": 13,
+      "text": "prit des branches de palmiers et sortit à sa rencontre. Elle criait : « Hosanna ! Béni soit celui qui vient au nom du Seigneur, le Roi d'Israël ! »"
+    },
+    {
+      "chapter": 12,
+      "verse": 14,
+      "text": "Jésus trouva un ânon et s'assit dessus, selon qu'il est écrit :"
+    },
+    {
+      "chapter": 12,
+      "verse": 15,
+      "text": "« Ne crains pas, fille de Sion. Voici, ton Roi vient, assis sur le petit d'une ânesse. »"
+    },
+    {
+      "chapter": 12,
+      "verse": 16,
+      "text": "Ses disciples ne comprirent pas ces choses d'abord, mais lorsque Jésus fut glorifié, ils se souvinrent que ces choses étaient écrites à son sujet, et qu'ils les lui avaient faites."
+    },
+    {
+      "chapter": 12,
+      "verse": 17,
+      "text": "La foule donc, qui était avec lui lorsqu'il appela Lazare hors du tombeau et le ressuscita des morts, rendait témoignage."
+    },
+    {
+      "chapter": 12,
+      "verse": 18,
+      "text": "C'est aussi pour cela que la foule alla à sa rencontre, parce qu'elle avait entendu qu'il avait accompli ce signe."
+    },
+    {
+      "chapter": 12,
+      "verse": 19,
+      "text": "Les pharisiens se dirent donc les uns aux autres : « Vous voyez que vous ne gagnez rien. Regardez, le monde entier le suit ! »"
+    },
+    {
+      "chapter": 12,
+      "verse": 20,
+      "text": "Or il y avait quelques Grecs parmi ceux qui étaient montés pour adorer pendant la fête."
+    },
+    {
+      "chapter": 12,
+      "verse": 21,
+      "text": "Ceux-ci s'adressèrent à Philippe, qui était de Bethsaïda en Galilée, et lui firent cette demande : « Seigneur, nous voulons voir Jésus. »"
+    },
+    {
+      "chapter": 12,
+      "verse": 22,
+      "text": "Philippe alla le dire à André, et à leur tour, André et Philippe allèrent le dire à Jésus."
+    },
+    {
+      "chapter": 12,
+      "verse": 23,
+      "text": "Jésus leur répondit : « L'heure est venue où le Fils de l'homme doit être glorifié."
+    },
+    {
+      "chapter": 12,
+      "verse": 24,
+      "text": "En vérité, en vérité, je vous le dis, si le grain de blé ne tombe en terre et ne meurt, il demeure seul ; mais s'il meurt, il porte beaucoup de fruit."
+    },
+    {
+      "chapter": 12,
+      "verse": 25,
+      "text": "Celui qui aime sa vie la perdra, et celui qui hait sa vie dans ce monde la conservera pour la vie éternelle."
+    },
+    {
+      "chapter": 12,
+      "verse": 26,
+      "text": "Si quelqu'un me sert, qu'il me suive, et là où je suis, là aussi sera mon serviteur. Si quelqu'un me sert, le Père l'honorera. »"
+    },
+    {
+      "chapter": 12,
+      "verse": 27,
+      "text": "« Maintenant mon âme est troublée. Et que dirai-je ? 'Père, sauve-moi de cette heure' ? Mais c'est pour cela que je suis venu jusqu'à cette heure."
+    },
+    {
+      "chapter": 12,
+      "verse": 28,
+      "text": "Père, glorifie ton nom ! » Alors une voix vint du ciel : « Je l'ai glorifié, et je le glorifierai encore. »"
+    },
+    {
+      "chapter": 12,
+      "verse": 29,
+      "text": "La foule donc, qui se tenait là et qui l'avait entendue, disait que c'était un coup de tonnerre. D'autres disaient : « Un ange lui a parlé. »"
+    },
+    {
+      "chapter": 12,
+      "verse": 30,
+      "text": "Jésus répondit : « Ce n'est pas à cause de moi que cette voix s'est fait entendre, c'est à cause de vous."
+    },
+    {
+      "chapter": 12,
+      "verse": 31,
+      "text": "C'est maintenant le jugement de ce monde. C'est maintenant que le prince de ce monde sera jeté dehors."
+    },
+    {
+      "chapter": 12,
+      "verse": 32,
+      "text": "Et moi, quand j'aurai été élevé de la terre, j'attirerai tous les êtres humains à moi. »"
+    },
+    {
+      "chapter": 12,
+      "verse": 33,
+      "text": "Il disait cela pour indiquer de quelle mort il allait mourir."
+    },
+    {
+      "chapter": 12,
+      "verse": 34,
+      "text": "La foule lui répondit : « Nous avons appris de la loi que le Christ demeure pour toujours. Et comment dis-tu : 'Il faut que le Fils de l'homme soit élevé' ? Qui est ce Fils de l'homme ? »"
+    },
+    {
+      "chapter": 12,
+      "verse": 35,
+      "text": "Jésus leur dit donc : « La lumière est encore avec vous pour un peu de temps. Marchez pendant que vous avez la lumière, afin que les ténèbres ne vous surprennent pas. Celui qui marche dans les ténèbres ne sait pas où il va."
+    },
+    {
+      "chapter": 12,
+      "verse": 36,
+      "text": "Pendant que vous avez la lumière, croyez en la lumière, afin que vous deveniez des enfants de lumière. » Jésus dit ces choses, puis il s'en alla et se cacha d'eux."
+    },
+    {
+      "chapter": 12,
+      "verse": 37,
+      "text": "Bien qu'il eût accompli tant de signes devant eux, ils ne croyaient pas en lui,"
+    },
+    {
+      "chapter": 12,
+      "verse": 38,
+      "text": "afin que s'accomplisse la parole qu'avait dite le prophète Ésaïe : « Seigneur, qui a cru à notre prédication ? À qui le bras du Seigneur a-t-il été révélé ? »"
+    },
+    {
+      "chapter": 12,
+      "verse": 39,
+      "text": "Aussi ne pouvaient-ils pas croire, car Ésaïe a dit encore :"
+    },
+    {
+      "chapter": 12,
+      "verse": 40,
+      "text": "« Il a aveuglé leurs yeux et il a endurci leur cœur, de peur qu'ils ne voient de leurs yeux, qu'ils ne comprennent de leur cœur, qu'ils ne se convertissent, et que je ne les guérisse. »"
+    },
+    {
+      "chapter": 12,
+      "verse": 41,
+      "text": "Ésaïe dit ces choses lorsqu'il vit sa gloire, et il parla de lui."
+    },
+    {
+      "chapter": 12,
+      "verse": 42,
+      "text": "Néanmoins, même parmi les chefs, plusieurs crurent en lui. Mais à cause des pharisiens, ils ne le confessaient pas, pour ne pas être exclus de la synagogue,"
+    },
+    {
+      "chapter": 12,
+      "verse": 43,
+      "text": "car ils aimaient la gloire des hommes plus que la gloire de Dieu."
+    },
+    {
+      "chapter": 12,
+      "verse": 44,
+      "text": "Jésus s'écria : « Celui qui croit en moi ne croit pas seulement en moi, mais en celui qui m'a envoyé."
+    },
+    {
+      "chapter": 12,
+      "verse": 45,
+      "text": "Celui qui me voit, voit celui qui m'a envoyé."
+    },
+    {
+      "chapter": 12,
+      "verse": 46,
+      "text": "Moi, la lumière, je suis venu dans le monde, afin que quiconque croit en moi ne demeure pas dans les ténèbres."
+    },
+    {
+      "chapter": 12,
+      "verse": 47,
+      "text": "Si quelqu'un entend mes paroles et ne croit pas, je ne le juge pas. Car je ne suis pas venu pour juger le monde, mais pour sauver le monde."
+    },
+    {
+      "chapter": 12,
+      "verse": 48,
+      "text": "Celui qui me rejette et qui ne reçoit pas mes paroles a déjà son juge. La parole que j'ai annoncée, c'est elle qui le jugera au dernier jour."
+    },
+    {
+      "chapter": 12,
+      "verse": 49,
+      "text": "Car je n'ai pas parlé de moi-même, mais le Père qui m'a envoyé m'a prescrit lui-même ce que je dois dire et annoncer."
+    },
+    {
+      "chapter": 12,
+      "verse": 50,
+      "text": "Et je sais que son commandement est la vie éternelle. Ainsi, les choses que je dis, je les dis comme le Père me les a dites. »"
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "text": "Avant la fête de la Pâque, Jésus, sachant que son heure était venue de passer de ce monde au Père, ayant aimé les siens qui étaient dans le monde, les aima jusqu'à la fin."
+    },
+    {
+      "chapter": 13,
+      "verse": 2,
+      "text": "Pendant le repas, alors que le diable avait déjà mis dans le cœur de Judas Iscariote, fils de Simon, de le trahir,"
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "text": "Jésus, sachant que le Père avait remis toutes choses entre ses mains, qu'il était venu de Dieu et qu'il retournait à Dieu,"
+    },
+    {
+      "chapter": 13,
+      "verse": 4,
+      "text": "se leva de table, déposa ses vêtements de dessus et noua un linge autour de sa taille."
+    },
+    {
+      "chapter": 13,
+      "verse": 5,
+      "text": "Ensuite, il versa de l'eau dans le bassin, et se mit à laver les pieds des disciples, et à les essuyer avec le linge dont il était ceint."
+    },
+    {
+      "chapter": 13,
+      "verse": 6,
+      "text": "Il vint donc à Simon Pierre. Celui-ci lui dit : « Seigneur, toi, me laver les pieds ? »"
+    },
+    {
+      "chapter": 13,
+      "verse": 7,
+      "text": "Jésus lui répondit : « Ce que je fais, tu ne le comprends pas maintenant, mais tu le comprendras plus tard. »"
+    },
+    {
+      "chapter": 13,
+      "verse": 8,
+      "text": "Pierre lui dit : « Non, tu ne me laveras jamais les pieds ! » Jésus lui répondit : « Si je ne te lave pas, tu n'as pas de part avec moi. »"
+    },
+    {
+      "chapter": 13,
+      "verse": 9,
+      "text": "Simon Pierre lui dit : « Seigneur, non seulement les pieds, mais aussi les mains et la tête ! »"
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "text": "Jésus lui dit : « Celui qui s'est baigné n'a besoin que de se laver les pieds pour être entièrement pur. Vous êtes purs, mais non pas tous. »"
+    },
+    {
+      "chapter": 13,
+      "verse": 11,
+      "text": "Car il connaissait celui qui allait le trahir ; c'est pourquoi il dit : « Vous n'êtes pas tous purs. »"
+    },
+    {
+      "chapter": 13,
+      "verse": 12,
+      "text": "Après leur avoir lavé les pieds, et avoir repris ses vêtements, il se remit à table et leur dit : « Comprenez-vous ce que je vous ai fait ?"
+    },
+    {
+      "chapter": 13,
+      "verse": 13,
+      "text": "Vous m'appelez 'Maître' et 'Seigneur', et vous dites bien, car je le suis."
+    },
+    {
+      "chapter": 13,
+      "verse": 14,
+      "text": "Si donc moi, le Seigneur et le Maître, je vous ai lavé les pieds, vous devez aussi vous laver les pieds les uns aux autres."
+    },
+    {
+      "chapter": 13,
+      "verse": 15,
+      "text": "Car je vous ai donné un exemple, afin que vous agissiez comme j'ai agi envers vous."
+    },
+    {
+      "chapter": 13,
+      "verse": 16,
+      "text": "En vérité, en vérité, je vous le dis, un serviteur n'est pas plus grand que son seigneur, ni l'envoyé plus grand que celui qui l'a envoyé."
+    },
+    {
+      "chapter": 13,
+      "verse": 17,
+      "text": "Si vous savez ces choses, vous êtes heureux, pourvu que vous les pratiquiez."
+    },
+    {
+      "chapter": 13,
+      "verse": 18,
+      "text": "Je ne parle pas de vous tous. Je connais ceux que j'ai choisis. Mais il faut que l'Écriture s'accomplisse : 'Celui qui mange le pain avec moi a levé son talon contre moi.'"
+    },
+    {
+      "chapter": 13,
+      "verse": 19,
+      "text": "Dès maintenant, je vous le dis avant que cela n'arrive, afin que, lorsque cela arrivera, vous croyiez que je suis."
+    },
+    {
+      "chapter": 13,
+      "verse": 20,
+      "text": "En vérité, en vérité, je vous le dis, celui qui reçoit celui que j'aurai envoyé me reçoit ; et celui qui me reçoit, reçoit celui qui m'a envoyé. »"
+    },
+    {
+      "chapter": 13,
+      "verse": 21,
+      "text": "Ayant dit cela, Jésus fut troublé en son esprit et déclara solennellement : « En vérité, en vérité, je vous le dis, l'un de vous me trahira. »"
+    },
+    {
+      "chapter": 13,
+      "verse": 22,
+      "text": "Les disciples se regardaient les uns les autres, ne sachant de qui il parlait."
+    },
+    {
+      "chapter": 13,
+      "verse": 23,
+      "text": "L'un de ses disciples, celui que Jésus aimait, était à table, penché sur la poitrine de Jésus."
+    },
+    {
+      "chapter": 13,
+      "verse": 24,
+      "text": "Simon Pierre lui fit donc signe, et lui dit : « Dis-nous qui est celui dont il parle. »"
+    },
+    {
+      "chapter": 13,
+      "verse": 25,
+      "text": "Ce disciple, se penchant ainsi sur la poitrine de Jésus, lui demanda : « Seigneur, qui est-ce ? »"
+    },
+    {
+      "chapter": 13,
+      "verse": 26,
+      "text": "Jésus répondit : « C'est celui à qui je donnerai le morceau de pain après l'avoir trempé. » Et ayant trempé le morceau de pain, il le donna à Judas, fils de Simon Iscariote."
+    },
+    {
+      "chapter": 13,
+      "verse": 27,
+      "text": "Après avoir reçu le morceau, Satan entra en Judas. Jésus lui dit alors : « Ce que tu fais, fais-le vite. »"
+    },
+    {
+      "chapter": 13,
+      "verse": 28,
+      "text": "Or, personne à table ne comprit pourquoi il lui avait dit cela."
+    },
+    {
+      "chapter": 13,
+      "verse": 29,
+      "text": "Car certains pensaient que, comme Judas tenait la bourse, Jésus lui disait : « Achète ce dont nous avons besoin pour la fête », ou qu'il lui commandait de donner quelque chose aux pauvres."
+    },
+    {
+      "chapter": 13,
+      "verse": 30,
+      "text": "Judas, ayant pris le morceau, sortit aussitôt. Il faisait nuit."
+    },
+    {
+      "chapter": 13,
+      "verse": 31,
+      "text": "Quand il fut sorti, Jésus dit : « Maintenant, le Fils de l'homme a été glorifié, et Dieu a été glorifié en lui."
+    },
+    {
+      "chapter": 13,
+      "verse": 32,
+      "text": "Si Dieu a été glorifié en lui, Dieu aussi le glorifiera en lui-même, et il le glorifiera bientôt."
+    },
+    {
+      "chapter": 13,
+      "verse": 33,
+      "text": "Mes petits enfants, je suis encore avec vous pour un peu de temps. Vous me chercherez, et comme j'ai dit aux Juifs : 'Là où je vais, vous ne pouvez pas venir', je vous le dis aussi maintenant."
+    },
+    {
+      "chapter": 13,
+      "verse": 34,
+      "text": "Je vous donne un commandement nouveau : aimez-vous les uns les autres. Comme je vous ai aimés, vous aussi, aimez-vous les uns les autres."
+    },
+    {
+      "chapter": 13,
+      "verse": 35,
+      "text": "À ceci tous connaîtront que vous êtes mes disciples, si vous avez de l'amour les uns pour les autres. »"
+    },
+    {
+      "chapter": 13,
+      "verse": 36,
+      "text": "Simon Pierre lui dit : « Seigneur, où vas-tu ? » Jésus répondit : « Là où je vais, tu ne peux pas me suivre maintenant, mais tu me suivras plus tard. »"
+    },
+    {
+      "chapter": 13,
+      "verse": 37,
+      "text": "Pierre lui dit : « Seigneur, pourquoi ne puis-je pas te suivre maintenant ? Je donnerai ma vie pour toi. »"
+    },
+    {
+      "chapter": 13,
+      "verse": 38,
+      "text": "Jésus lui répondit : « Tu donneras ta vie pour moi ? En vérité, en vérité, je te le dis, avant que le coq chante, tu m'auras renié trois fois. »"
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "text": "« Que votre cœur ne se trouble pas. Croyez en Dieu, et croyez en moi."
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "text": "Il y a de nombreuses demeures dans la maison de mon Père. Si cela n'était pas, je vous l'aurais dit. Je vais vous préparer une place."
+    },
+    {
+      "chapter": 14,
+      "verse": 3,
+      "text": "Et lorsque je m'en serai allé et que je vous aurai préparé une place, je reviendrai et je vous prendrai avec moi, afin que là où je suis, vous y soyez aussi."
+    },
+    {
+      "chapter": 14,
+      "verse": 4,
+      "text": "Vous savez où je vais, et vous en savez le chemin. »"
+    },
+    {
+      "chapter": 14,
+      "verse": 5,
+      "text": "Thomas lui dit : « Seigneur, nous ne savons pas où tu vas. Comment pouvons-nous en savoir le chemin ? »"
+    },
+    {
+      "chapter": 14,
+      "verse": 6,
+      "text": "Jésus lui dit : « Je suis le chemin, la vérité et la vie. Personne ne vient au Père que par moi."
+    },
+    {
+      "chapter": 14,
+      "verse": 7,
+      "text": "Si vous m'aviez connu, vous auriez aussi connu mon Père. Dès maintenant, vous le connaissez et vous l'avez vu. »"
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "text": "Philippe lui dit : « Seigneur, montre-nous le Père, et cela nous suffit. »"
+    },
+    {
+      "chapter": 14,
+      "verse": 9,
+      "text": "Jésus lui dit : « Il y a si longtemps que je suis avec vous, et tu ne m'as pas connu, Philippe ? Celui qui m'a vu a vu le Père. Comment dis-tu : 'Montre-nous le Père' ?"
+    },
+    {
+      "chapter": 14,
+      "verse": 10,
+      "text": "Ne crois-tu pas que je suis dans le Père et que le Père est en moi ? Les paroles que je vous dis, je ne les dis pas de moi-même ; c'est le Père qui demeure en moi qui fait ses propres œuvres."
+    },
+    {
+      "chapter": 14,
+      "verse": 11,
+      "text": "Croyez-moi, je suis dans le Père et le Père est en moi ; sinon, croyez-moi à cause de ces œuvres mêmes."
+    },
+    {
+      "chapter": 14,
+      "verse": 12,
+      "text": "En vérité, en vérité, je vous le dis, celui qui croit en moi fera aussi les œuvres que je fais, et il en fera de plus grandes que celles-ci, parce que je m'en vais vers mon Père."
+    },
+    {
+      "chapter": 14,
+      "verse": 13,
+      "text": "Tout ce que vous demanderez en mon nom, je le ferai, afin que le Père soit glorifié dans le Fils."
+    },
+    {
+      "chapter": 14,
+      "verse": 14,
+      "text": "Si vous demandez quelque chose en mon nom, je le ferai."
+    },
+    {
+      "chapter": 14,
+      "verse": 15,
+      "text": "Si vous m'aimez, gardez mes commandements."
+    },
+    {
+      "chapter": 14,
+      "verse": 16,
+      "text": "Je prierai le Père, et il vous donnera un autre Défenseur, afin qu'il soit avec vous pour toujours :"
+    },
+    {
+      "chapter": 14,
+      "verse": 17,
+      "text": "l'Esprit de vérité, que le monde ne peut recevoir, parce qu'il ne le voit pas et ne le connaît pas. Mais vous, vous le connaissez, car il demeure avec vous et il sera en vous."
+    },
+    {
+      "chapter": 14,
+      "verse": 18,
+      "text": "Je ne vous laisserai pas orphelins, je viendrai à vous."
+    },
+    {
+      "chapter": 14,
+      "verse": 19,
+      "text": "Encore un peu de temps, et le monde ne me verra plus ; mais vous, vous me verrez. Parce que je vis, vous vivrez aussi."
+    },
+    {
+      "chapter": 14,
+      "verse": 20,
+      "text": "En ce jour-là, vous saurez que je suis en mon Père, que vous êtes en moi, et que je suis en vous."
+    },
+    {
+      "chapter": 14,
+      "verse": 21,
+      "text": "Celui qui a mes commandements et qui les garde, c'est celui qui m'aime. Et celui qui m'aime sera aimé de mon Père, et je l'aimerai, et je me manifesterai à lui. »"
+    },
+    {
+      "chapter": 14,
+      "verse": 22,
+      "text": "Judas (non pas l'Iscariote) lui dit : « Seigneur, que s'est-il passé pour que tu doives te manifester à nous, et non au monde ? »"
+    },
+    {
+      "chapter": 14,
+      "verse": 23,
+      "text": "Jésus lui répondit : « Si quelqu'un m'aime, il gardera ma parole. Mon Père l'aimera, nous viendrons à lui et nous ferons notre demeure chez lui."
+    },
+    {
+      "chapter": 14,
+      "verse": 24,
+      "text": "Celui qui ne m'aime pas ne garde pas mes paroles. Et la parole que vous entendez n'est pas de moi, mais du Père qui m'a envoyé."
+    },
+    {
+      "chapter": 14,
+      "verse": 25,
+      "text": "Je vous ai dit ces choses pendant que je demeure encore avec vous."
+    },
+    {
+      "chapter": 14,
+      "verse": 26,
+      "text": "Mais le Défenseur, le Saint-Esprit, que le Père enverra en mon nom, vous enseignera toutes choses et vous rappellera tout ce que je vous ai dit."
+    },
+    {
+      "chapter": 14,
+      "verse": 27,
+      "text": "Je vous laisse la paix, je vous donne ma paix. Je ne vous la donne pas comme le monde la donne. Que votre cœur ne se trouble pas et ne s'alarme pas."
+    },
+    {
+      "chapter": 14,
+      "verse": 28,
+      "text": "Vous avez entendu que je vous ai dit : 'Je m'en vais, et je reviens à vous.' Si vous m'aimiez, vous vous réjouiriez de ce que j'ai dit : 'Je vais au Père' ; car le Père est plus grand que moi."
+    },
+    {
+      "chapter": 14,
+      "verse": 29,
+      "text": "Et maintenant, je vous l'ai dit avant que cela n'arrive, afin que, lorsque cela arrivera, vous croyiez."
+    },
+    {
+      "chapter": 14,
+      "verse": 30,
+      "text": "Je ne parlerai plus beaucoup avec vous, car le prince de ce monde vient, et il n'a aucune prise sur moi."
+    },
+    {
+      "chapter": 14,
+      "verse": 31,
+      "text": "Mais cela arrive afin que le monde sache que j'aime le Père et que je fais ce que le Père m'a commandé. Levez-vous, partons d'ici. »"
+    },
+    {
+      "chapter": 15,
+      "verse": 1,
+      "text": "« Je suis le vrai cep, et mon Père est le vigneron."
+    },
+    {
+      "chapter": 15,
+      "verse": 2,
+      "text": "Tout sarment qui est en moi et qui ne porte pas de fruit, il le retranche. Et tout sarment qui porte du fruit, il l'émonde, afin qu'il porte encore plus de fruit."
+    },
+    {
+      "chapter": 15,
+      "verse": 3,
+      "text": "Vous êtes déjà purs à cause de la parole que je vous ai annoncée."
+    },
+    {
+      "chapter": 15,
+      "verse": 4,
+      "text": "Demeurez en moi, et moi en vous. Comme le sarment ne peut de lui-même porter du fruit s'il ne demeure attaché au cep, ainsi vous ne le pouvez non plus, si vous ne demeurez en moi."
+    },
+    {
+      "chapter": 15,
+      "verse": 5,
+      "text": "Je suis le cep, vous êtes les sarments. Celui qui demeure en moi et en qui je demeure porte beaucoup de fruit, car sans moi vous ne pouvez rien faire."
+    },
+    {
+      "chapter": 15,
+      "verse": 6,
+      "text": "Si quelqu'un ne demeure pas en moi, il est jeté dehors comme le sarment, et il se dessèche ; puis on ramasse ces sarments, on les jette au feu, et ils brûlent."
+    },
+    {
+      "chapter": 15,
+      "verse": 7,
+      "text": "Si vous demeurez en moi, et que mes paroles demeurent en vous, demandez ce que vous voudrez, et cela vous sera accordé. »"
+    },
+    {
+      "chapter": 15,
+      "verse": 8,
+      "text": "« C'est en ceci que mon Père est glorifié : que vous portiez beaucoup de fruit ; et ainsi vous serez mes disciples."
+    },
+    {
+      "chapter": 15,
+      "verse": 9,
+      "text": "Comme le Père m'a aimé, je vous ai aussi aimés. Demeurez dans mon amour."
+    },
+    {
+      "chapter": 15,
+      "verse": 10,
+      "text": "Si vous gardez mes commandements, vous demeurerez dans mon amour, de même que j'ai gardé les commandements de mon Père et que je demeure dans son amour."
+    },
+    {
+      "chapter": 15,
+      "verse": 11,
+      "text": "Je vous ai dit ces choses, afin que ma joie demeure en vous, et que votre joie soit parfaite. »"
+    },
+    {
+      "chapter": 15,
+      "verse": 12,
+      "text": "« Voici mon commandement : aimez-vous les uns les autres, comme je vous ai aimés."
+    },
+    {
+      "chapter": 15,
+      "verse": 13,
+      "text": "Il n'y a pas de plus grand amour que de donner sa vie pour ses amis."
+    },
+    {
+      "chapter": 15,
+      "verse": 14,
+      "text": "Vous êtes mes amis, si vous faites tout ce que je vous commande."
+    },
+    {
+      "chapter": 15,
+      "verse": 15,
+      "text": "Je ne vous appelle plus serviteurs, car le serviteur ne sait pas ce que fait son seigneur. Mais je vous ai appelés amis, parce que je vous ai fait connaître tout ce que j'ai appris de mon Père."
+    },
+    {
+      "chapter": 15,
+      "verse": 16,
+      "text": "Ce n'est pas vous qui m'avez choisi, mais c'est moi qui vous ai choisis et qui vous ai établis, afin que vous alliez, que vous portiez du fruit, et que votre fruit demeure ; afin que tout ce que vous demanderez au Père en mon nom, il vous le donne. »"
+    },
+    {
+      "chapter": 15,
+      "verse": 17,
+      "text": "« Ce que je vous commande, c'est de vous aimer les uns les autres."
+    },
+    {
+      "chapter": 15,
+      "verse": 18,
+      "text": "Si le monde vous hait, sachez qu'il m'a haï avant de vous haïr."
+    },
+    {
+      "chapter": 15,
+      "verse": 19,
+      "text": "Si vous étiez du monde, le monde aimerait ce qui est à lui. Mais parce que vous n'êtes pas du monde, et que je vous ai choisis du milieu du monde, à cause de cela, le monde vous hait."
+    },
+    {
+      "chapter": 15,
+      "verse": 20,
+      "text": "Souvenez-vous de la parole que je vous ai dite : 'Un serviteur n'est pas plus grand que son seigneur.' S'ils m'ont persécuté, ils vous persécuteront aussi. S'ils ont gardé ma parole, ils garderont aussi la vôtre."
+    },
+    {
+      "chapter": 15,
+      "verse": 21,
+      "text": "Mais ils vous feront toutes ces choses à cause de mon nom, parce qu'ils ne connaissent pas celui qui m'a envoyé."
+    },
+    {
+      "chapter": 15,
+      "verse": 22,
+      "text": "Si je n'étais pas venu et que je ne leur avais pas parlé, ils n'auraient pas de péché ; mais maintenant, ils n'ont aucune excuse pour leur péché."
+    },
+    {
+      "chapter": 15,
+      "verse": 23,
+      "text": "Celui qui me hait, hait aussi mon Père."
+    },
+    {
+      "chapter": 15,
+      "verse": 24,
+      "text": "Si je n'avais pas fait parmi eux des œuvres que personne d'autre n'a faites, ils n'auraient pas de péché. Mais maintenant, ils ont vu ces œuvres et ils nous ont haïs, mon Père et moi."
+    },
+    {
+      "chapter": 15,
+      "verse": 25,
+      "text": "Mais cela est arrivé afin que s'accomplisse la parole qui est écrite dans leur loi : 'Ils m'ont haï sans cause.' »"
+    },
+    {
+      "chapter": 15,
+      "verse": 26,
+      "text": "« Quand sera venu le Défenseur, que je vous enverrai de la part du Père, l'Esprit de vérité qui procède du Père, il rendra témoignage de moi."
+    },
+    {
+      "chapter": 15,
+      "verse": 27,
+      "text": "Et vous aussi, vous rendrez témoignage, parce que vous êtes avec moi depuis le commencement. »"
+    },
+    {
+      "chapter": 16,
+      "verse": 1,
+      "text": "« Je vous ai dit ces choses afin de ne pas vous faire trébucher."
+    },
+    {
+      "chapter": 16,
+      "verse": 2,
+      "text": "Ils vous excluront des synagogues. Oui, l'heure vient où quiconque vous tuera pensera rendre un culte à Dieu."
+    },
+    {
+      "chapter": 16,
+      "verse": 3,
+      "text": "Ils feront ces choses parce qu'ils n'ont connu ni le Père ni moi."
+    },
+    {
+      "chapter": 16,
+      "verse": 4,
+      "text": "Mais je vous ai dit ces choses, afin que, lorsque l'heure sera venue, vous vous souveniez que je vous les ai dites. Je ne vous ai pas dit ces choses dès le commencement, parce que j'étais avec vous."
+    },
+    {
+      "chapter": 16,
+      "verse": 5,
+      "text": "Mais maintenant je m'en vais vers celui qui m'a envoyé, et aucun de vous ne me demande : 'Où vas-tu ?'"
+    },
+    {
+      "chapter": 16,
+      "verse": 6,
+      "text": "Mais parce que je vous ai dit ces choses, la tristesse a rempli votre cœur."
+    },
+    {
+      "chapter": 16,
+      "verse": 7,
+      "text": "Cependant, je vous dis la vérité : il est avantageux pour vous que je m'en aille ; car si je ne m'en vais pas, le Défenseur ne viendra pas vers vous. Mais si je pars, je vous l'enverrai."
+    },
+    {
+      "chapter": 16,
+      "verse": 8,
+      "text": "Et quand il sera venu, il montrera au monde qu'il est dans l'erreur au sujet du péché, de la justice et du jugement :"
+    },
+    {
+      "chapter": 16,
+      "verse": 9,
+      "text": "en ce qui concerne le péché, parce qu'ils ne croient pas en moi ;"
+    },
+    {
+      "chapter": 16,
+      "verse": 10,
+      "text": "en ce qui concerne la justice, parce que je vais au Père, et que vous ne me verrez plus ;"
+    },
+    {
+      "chapter": 16,
+      "verse": 11,
+      "text": "en ce qui concerne le jugement, parce que le prince de ce monde est jugé. »"
+    },
+    {
+      "chapter": 16,
+      "verse": 12,
+      "text": "« J'ai encore beaucoup de choses à vous dire, mais vous ne pouvez pas les supporter maintenant."
+    },
+    {
+      "chapter": 16,
+      "verse": 13,
+      "text": "Toutefois, quand il viendra, lui, l'Esprit de vérité, il vous conduira dans toute la vérité ; car il ne parlera pas de lui-même, mais il dira tout ce qu'il aura entendu, et il vous annoncera les choses à venir."
+    },
+    {
+      "chapter": 16,
+      "verse": 14,
+      "text": "Il me glorifiera, parce qu'il prendra de ce qui est à moi, et vous l'annoncera."
+    },
+    {
+      "chapter": 16,
+      "verse": 15,
+      "text": "Tout ce que le Père a est à moi ; c'est pourquoi j'ai dit qu'il prend de ce qui est à moi, et vous l'annoncera. »"
+    },
+    {
+      "chapter": 16,
+      "verse": 16,
+      "text": "« Encore un peu de temps, et vous ne me verrez plus ; et puis encore un peu de temps, et vous me verrez. »"
+    },
+    {
+      "chapter": 16,
+      "verse": 17,
+      "text": "Quelques-uns de ses disciples se dirent donc les uns aux autres : « Qu'est-ce que cela signifie, qu'il nous dit : 'Encore un peu de temps, et vous ne me verrez plus ; et puis encore un peu de temps, et vous me verrez' ; et : 'Parce que je vais au Père' ? »"
+    },
+    {
+      "chapter": 16,
+      "verse": 18,
+      "text": "Ils disaient donc : « Qu'est-ce que ce 'peu de temps' dont il parle ? Nous ne savons pas ce qu'il dit. »"
+    },
+    {
+      "chapter": 16,
+      "verse": 19,
+      "text": "Jésus, sachant qu'ils voulaient l'interroger, leur dit : « Vous vous questionnez entre vous sur ce que j'ai dit : 'Encore un peu de temps, et vous ne me verrez plus ; et puis encore un peu de temps, et vous me verrez' ?"
+    },
+    {
+      "chapter": 16,
+      "verse": 20,
+      "text": "En vérité, en vérité, je vous le dis, vous pleurerez et vous vous lamenterez, mais le monde se réjouira. Vous serez dans la tristesse, mais votre tristesse se changera en joie."
+    },
+    {
+      "chapter": 16,
+      "verse": 21,
+      "text": "La femme, lorsqu'elle enfante, éprouve de la tristesse, parce que son heure est venue ; mais, lorsqu'elle a donné le jour à l'enfant, elle ne se souvient plus de l'angoisse, tant elle se réjouit d'avoir mis un être humain au monde."
+    },
+    {
+      "chapter": 16,
+      "verse": 22,
+      "text": "Vous donc aussi, vous êtes maintenant dans la tristesse ; mais je vous reverrai, et votre cœur se réjouira, et personne ne vous ravira votre joie. »"
+    },
+    {
+      "chapter": 16,
+      "verse": 23,
+      "text": "« En ce jour-là, vous ne m'interrogerez plus sur rien. En vérité, en vérité, je vous le dis, tout ce que vous demanderez au Père en mon nom, il vous le donnera."
+    },
+    {
+      "chapter": 16,
+      "verse": 24,
+      "text": "Jusqu'à présent, vous n'avez rien demandé en mon nom. Demandez, et vous recevrez, afin que votre joie soit parfaite. »"
+    },
+    {
+      "chapter": 16,
+      "verse": 25,
+      "text": "« Je vous ai dit ces choses dans un langage figuré. Mais l'heure vient où je ne vous parlerai plus ainsi, mais où je vous parlerai ouvertement du Père."
+    },
+    {
+      "chapter": 16,
+      "verse": 26,
+      "text": "En ce jour-là, vous demanderez en mon nom, et je ne vous dis pas que je prierai le Père pour vous ;"
+    },
+    {
+      "chapter": 16,
+      "verse": 27,
+      "text": "car le Père lui-même vous aime, parce que vous m'avez aimé, et que vous avez cru que je suis sorti de Dieu."
+    },
+    {
+      "chapter": 16,
+      "verse": 28,
+      "text": "Je suis sorti du Père et je suis venu dans le monde ; maintenant je quitte le monde, et je vais au Père. »"
+    },
+    {
+      "chapter": 16,
+      "verse": 29,
+      "text": "Ses disciples lui dirent : « Voici, maintenant tu parles ouvertement, et tu ne te sers d'aucune figure."
+    },
+    {
+      "chapter": 16,
+      "verse": 30,
+      "text": "Maintenant nous savons que tu sais toutes choses, et que tu n'as pas besoin que personne t'interroge ; c'est pourquoi nous croyons que tu es sorti de Dieu. »"
+    },
+    {
+      "chapter": 16,
+      "verse": 31,
+      "text": "Jésus leur répondit : « Vous croyez maintenant ?"
+    },
+    {
+      "chapter": 16,
+      "verse": 32,
+      "text": "Voici, l'heure vient, et elle est déjà venue, où vous serez dispersés, chacun de son côté, et où vous me laisserez seul. Mais je ne suis pas seul, car le Père est avec moi."
+    },
+    {
+      "chapter": 16,
+      "verse": 33,
+      "text": "Je vous ai dit ces choses, afin qu'en moi vous ayez la paix. Dans le monde vous aurez des tribulations ; mais prenez courage ! J'ai vaincu le monde. »"
+    },
+    {
+      "chapter": 17,
+      "verse": 1,
+      "text": "Jésus dit ces choses, puis, levant les yeux au ciel, il dit : « Père, l'heure est venue. Glorifie ton Fils, afin que ton Fils te glorifie aussi ;"
+    },
+    {
+      "chapter": 17,
+      "verse": 2,
+      "text": "puisque tu lui as donné autorité sur tous les êtres humains, afin qu'il donne la vie éternelle à tous ceux que tu lui as donnés."
+    },
+    {
+      "chapter": 17,
+      "verse": 3,
+      "text": "Or, la vie éternelle, c'est qu'ils te connaissent, toi, le seul vrai Dieu, et celui que tu as envoyé, Jésus-Christ."
+    },
+    {
+      "chapter": 17,
+      "verse": 4,
+      "text": "Je t'ai glorifié sur la terre. J'ai accompli l'œuvre que tu m'as donnée à faire."
+    },
+    {
+      "chapter": 17,
+      "verse": 5,
+      "text": "Et maintenant, Père, glorifie-moi auprès de toi-même de la gloire que j'avais auprès de toi avant que le monde existe. »"
+    },
+    {
+      "chapter": 17,
+      "verse": 6,
+      "text": "« J'ai fait connaître ton nom aux hommes que tu m'as donnés du milieu du monde. Ils étaient à toi, et tu me les as donnés, et ils ont gardé ta parole."
+    },
+    {
+      "chapter": 17,
+      "verse": 7,
+      "text": "Maintenant ils ont connu que tout ce que tu m'as donné vient de toi."
+    },
+    {
+      "chapter": 17,
+      "verse": 8,
+      "text": "Car je leur ai donné les paroles que tu m'as données ; ils les ont reçues, et ils ont vraiment connu que je suis sorti de toi, et ils ont cru que tu m'as envoyé."
+    },
+    {
+      "chapter": 17,
+      "verse": 9,
+      "text": "C'est pour eux que je prie. Je ne prie pas pour le monde, mais pour ceux que tu m'as donnés, car ils sont à toi."
+    },
+    {
+      "chapter": 17,
+      "verse": 10,
+      "text": "Tout ce qui est à moi est à toi, et ce qui est à toi est à moi ; et je suis glorifié en eux."
+    },
+    {
+      "chapter": 17,
+      "verse": 11,
+      "text": "Je ne suis plus dans le monde, mais eux sont dans le monde, et moi je vais à toi. Père saint, garde-les en ton nom que tu m'as donné, afin qu'ils soient un comme nous."
+    },
+    {
+      "chapter": 17,
+      "verse": 12,
+      "text": "Lorsque j'étais avec eux dans le monde, je les gardais en ton nom. J'ai gardé ceux que tu m'as donnés, et aucun d'eux ne s'est perdu, sinon le fils de perdition, afin que l'Écriture soit accomplie."
+    },
+    {
+      "chapter": 17,
+      "verse": 13,
+      "text": "Mais maintenant je vais à toi, et je dis ces choses dans le monde, afin qu'ils aient en eux toute ma joie."
+    },
+    {
+      "chapter": 17,
+      "verse": 14,
+      "text": "Je leur ai donné ta parole, et le monde les a haïs, parce qu'ils ne sont pas du monde, comme je ne suis pas du monde."
+    },
+    {
+      "chapter": 17,
+      "verse": 15,
+      "text": "Je ne te prie pas de les ôter du monde, mais de les préserver du Malin."
+    },
+    {
+      "chapter": 17,
+      "verse": 16,
+      "text": "Ils ne sont pas du monde, comme je ne suis pas du monde."
+    },
+    {
+      "chapter": 17,
+      "verse": 17,
+      "text": "Sanctifie-les par ta vérité : ta parole est la vérité."
+    },
+    {
+      "chapter": 17,
+      "verse": 18,
+      "text": "Comme tu m'as envoyé dans le monde, je les ai aussi envoyés dans le monde."
+    },
+    {
+      "chapter": 17,
+      "verse": 19,
+      "text": "Et je me sanctifie moi-même pour eux, afin qu'eux aussi soient sanctifiés dans la vérité. »"
+    },
+    {
+      "chapter": 17,
+      "verse": 20,
+      "text": "« Ce n'est pas pour eux seulement que je prie, mais encore pour ceux qui croiront en moi par leur parole,"
+    },
+    {
+      "chapter": 17,
+      "verse": 21,
+      "text": "afin que tous soient un ; comme toi, Père, tu es en moi, et moi en toi, qu'ils soient aussi un en nous, afin que le monde croie que tu m'as envoyé."
+    },
+    {
+      "chapter": 17,
+      "verse": 22,
+      "text": "Je leur ai donné la gloire que tu m'as donnée, afin qu'ils soient un comme nous sommes un,"
+    },
+    {
+      "chapter": 17,
+      "verse": 23,
+      "text": "moi en eux, et toi en moi, afin qu'ils soient parfaitement un, et que le monde connaisse que tu m'as envoyé et que tu les as aimés comme tu m'as aimé."
+    },
+    {
+      "chapter": 17,
+      "verse": 24,
+      "text": "Père, je veux que là où je suis, ceux que tu m'as donnés soient aussi avec moi, afin qu'ils voient ma gloire, celle que tu m'as donnée, parce que tu m'as aimé avant la fondation du monde."
+    },
+    {
+      "chapter": 17,
+      "verse": 25,
+      "text": "Père juste, le monde ne t'a pas connu ; mais moi je t'ai connu, et ceux-ci ont connu que tu m'as envoyé."
+    },
+    {
+      "chapter": 17,
+      "verse": 26,
+      "text": "Je leur ai fait connaître ton nom, et je le leur ferai connaître, afin que l'amour dont tu m'as aimé soit en eux, et que je sois en eux. »"
+    },
+    {
+      "chapter": 18,
+      "verse": 1,
+      "text": "Après avoir dit ces mots, Jésus sortit avec ses disciples de l'autre côté du torrent du Cédron. Il y avait là un jardin, dans lequel il entra avec eux."
+    },
+    {
+      "chapter": 18,
+      "verse": 2,
+      "text": "Judas, qui allait le trahir, connaissait aussi cet endroit, car Jésus s'y était souvent réuni avec ses disciples."
+    },
+    {
+      "chapter": 18,
+      "verse": 3,
+      "text": "Judas prit donc avec lui une cohorte de soldats et des gardes envoyés par les principaux prêtres et les pharisiens. Il vint là avec des lanternes, des flambeaux et des armes."
+    },
+    {
+      "chapter": 18,
+      "verse": 4,
+      "text": "Jésus, sachant tout ce qui devait lui arriver, s'avança et leur dit : « Qui cherchez-vous ? »"
+    },
+    {
+      "chapter": 18,
+      "verse": 5,
+      "text": "Ils lui répondirent : « Jésus de Nazareth. » Jésus leur dit : « C'est moi. » Judas, qui le trahissait, se tenait aussi avec eux."
+    },
+    {
+      "chapter": 18,
+      "verse": 6,
+      "text": "Dès que Jésus leur eut dit : « C'est moi », ils reculèrent et tombèrent par terre."
+    },
+    {
+      "chapter": 18,
+      "verse": 7,
+      "text": "Il leur demanda donc de nouveau : « Qui cherchez-vous ? » Ils dirent : « Jésus de Nazareth. »"
+    },
+    {
+      "chapter": 18,
+      "verse": 8,
+      "text": "Jésus répondit : « Je vous ai dit que c'est moi. Si donc c'est moi que vous cherchez, laissez aller ceux-ci. »"
+    },
+    {
+      "chapter": 18,
+      "verse": 9,
+      "text": "C'était afin que s'accomplisse la parole qu'il avait dite : « Je n'ai perdu aucun de ceux que tu m'as donnés. »"
+    },
+    {
+      "chapter": 18,
+      "verse": 10,
+      "text": "Alors Simon Pierre, qui avait une épée, la tira, frappa le serviteur du grand prêtre, et lui coupa l'oreille droite. Le nom de ce serviteur était Malchus."
+    },
+    {
+      "chapter": 18,
+      "verse": 11,
+      "text": "Jésus dit à Pierre : « Remets l'épée dans son fourreau. Ne boirai-je pas la coupe que le Père m'a donnée ? »"
+    },
+    {
+      "chapter": 18,
+      "verse": 12,
+      "text": "La cohorte, le commandant et les gardes des Juifs se saisirent alors de Jésus et le lièrent."
+    },
+    {
+      "chapter": 18,
+      "verse": 13,
+      "text": "Ils l'emmenèrent d'abord chez Anne, car il était le beau-père de Caïphe, qui était grand prêtre cette année-là."
+    },
+    {
+      "chapter": 18,
+      "verse": 14,
+      "text": "Or, c'était Caïphe qui avait conseillé aux Juifs qu'il était avantageux qu'un seul homme meure pour le peuple."
+    },
+    {
+      "chapter": 18,
+      "verse": 15,
+      "text": "Simon Pierre, ainsi qu'un autre disciple, suivaient Jésus. Cet autre disciple était connu du grand prêtre, et il entra avec Jésus dans la cour du grand prêtre ;"
+    },
+    {
+      "chapter": 18,
+      "verse": 16,
+      "text": "mais Pierre se tenait dehors, près de la porte. L'autre disciple, qui était connu du grand prêtre, sortit donc, parla à la portière, et fit entrer Pierre."
+    },
+    {
+      "chapter": 18,
+      "verse": 17,
+      "text": "La servante, la portière, dit alors à Pierre : « N'es-tu pas aussi l'un des disciples de cet homme ? » Il répondit : « Je ne le suis pas. »"
+    },
+    {
+      "chapter": 18,
+      "verse": 18,
+      "text": "Les serviteurs et les gardes se tenaient là autour d'un feu de braises qu'ils avaient allumé, car il faisait froid. Pierre se tenait avec eux et se chauffait."
+    },
+    {
+      "chapter": 18,
+      "verse": 19,
+      "text": "Le grand prêtre interrogea Jésus sur ses disciples et sur son enseignement."
+    },
+    {
+      "chapter": 18,
+      "verse": 20,
+      "text": "Jésus lui répondit : « J'ai parlé ouvertement au monde ; j'ai toujours enseigné dans les synagogues et dans le temple, où tous les Juifs se réunissent, et je n'ai rien dit en secret."
+    },
+    {
+      "chapter": 18,
+      "verse": 21,
+      "text": "Pourquoi m'interroges-tu ? Demande à ceux qui m'ont entendu ce que je leur ai dit. Ils savent ce que j'ai dit. »"
+    },
+    {
+      "chapter": 18,
+      "verse": 22,
+      "text": "À ces mots, un des gardes qui se tenait là donna une gifle à Jésus, en disant : « Est-ce ainsi que tu réponds au grand prêtre ? »"
+    },
+    {
+      "chapter": 18,
+      "verse": 23,
+      "text": "Jésus lui répondit : « Si j'ai mal parlé, montre en quoi ; mais si j'ai bien parlé, pourquoi me frappes-tu ? »"
+    },
+    {
+      "chapter": 18,
+      "verse": 24,
+      "text": "Anne l'envoya donc lié à Caïphe, le grand prêtre."
+    },
+    {
+      "chapter": 18,
+      "verse": 25,
+      "text": "Or, Simon Pierre se tenait là et se chauffait. On lui dit alors : « N'es-tu pas aussi l'un de ses disciples ? » Il le nia et dit : « Je ne le suis pas. »"
+    },
+    {
+      "chapter": 18,
+      "verse": 26,
+      "text": "L'un des serviteurs du grand prêtre, parent de celui à qui Pierre avait coupé l'oreille, dit : « Ne t'ai-je pas vu dans le jardin avec lui ? »"
+    },
+    {
+      "chapter": 18,
+      "verse": 27,
+      "text": "Pierre le nia de nouveau, et aussitôt un coq chanta."
+    },
+    {
+      "chapter": 18,
+      "verse": 28,
+      "text": "Ils conduisirent alors Jésus de chez Caïphe au prétoire. C'était le matin. Ils n'entrèrent pas eux-mêmes dans le prétoire, afin de ne pas se souiller et de pouvoir manger la Pâque."
+    },
+    {
+      "chapter": 18,
+      "verse": 29,
+      "text": "Pilate sortit donc vers eux, et dit : « Quelle accusation portez-vous contre cet homme ? »"
+    },
+    {
+      "chapter": 18,
+      "verse": 30,
+      "text": "Ils lui répondirent : « Si cet homme n'était pas un malfaiteur, nous ne te l'aurions pas livré. »"
+    },
+    {
+      "chapter": 18,
+      "verse": 31,
+      "text": "Pilate leur dit donc : « Prenez-le vous-mêmes, et jugez-le selon votre loi. » Les Juifs lui dirent : « Il ne nous est pas permis de mettre quelqu'un à mort. »"
+    },
+    {
+      "chapter": 18,
+      "verse": 32,
+      "text": "C'était afin que s'accomplisse la parole que Jésus avait dite, pour indiquer de quelle mort il devait mourir."
+    },
+    {
+      "chapter": 18,
+      "verse": 33,
+      "text": "Pilate rentra donc dans le prétoire, appela Jésus et lui dit : « Es-tu le Roi des Juifs ? »"
+    },
+    {
+      "chapter": 18,
+      "verse": 34,
+      "text": "Jésus lui répondit : « Dis-tu cela de toi-même, ou d'autres te l'ont-ils dit de moi ? »"
+    },
+    {
+      "chapter": 18,
+      "verse": 35,
+      "text": "Pilate répondit : « Suis-je Juif, moi ? Ta nation et les principaux prêtres t'ont livré à moi. Qu'as-tu fait ? »"
+    },
+    {
+      "chapter": 18,
+      "verse": 36,
+      "text": "Jésus répondit : « Mon royaume n'est pas de ce monde. Si mon royaume était de ce monde, mes serviteurs auraient combattu pour que je ne sois pas livré aux Juifs ; mais maintenant, mon royaume n'est pas d'ici. »"
+    },
+    {
+      "chapter": 18,
+      "verse": 37,
+      "text": "Pilate lui dit donc : « Tu es donc roi ? » Jésus répondit : « C'est toi qui dis que je suis roi. Je suis né et je suis venu dans le monde pour rendre témoignage à la vérité. Quiconque est de la vérité écoute ma voix. »"
+    },
+    {
+      "chapter": 18,
+      "verse": 38,
+      "text": "Pilate lui dit : « Qu'est-ce que la vérité ? » Après avoir dit cela, il sortit de nouveau vers les Juifs et leur dit : « Je ne trouve aucun motif de condamnation en lui."
+    },
+    {
+      "chapter": 18,
+      "verse": 39,
+      "text": "Mais vous avez une coutume, qui veut que je vous relâche quelqu'un à la Pâque. Voulez-vous donc que je vous relâche le Roi des Juifs ? »"
+    },
+    {
+      "chapter": 18,
+      "verse": 40,
+      "text": "Alors ils s'écrièrent de nouveau : « Non pas lui, mais Barabbas ! » Or, Barabbas était un brigand."
+    },
+    {
+      "chapter": 19,
+      "verse": 1,
+      "text": "Alors Pilate prit Jésus et le fit flageller."
+    },
+    {
+      "chapter": 19,
+      "verse": 2,
+      "text": "Les soldats tressèrent une couronne d'épines qu'ils posèrent sur sa tête, et le revêtirent d'un manteau de pourpre."
+    },
+    {
+      "chapter": 19,
+      "verse": 3,
+      "text": "Ils s'approchaient de lui et disaient : « Salut, Roi des Juifs ! » Et ils lui donnaient des gifles."
+    },
+    {
+      "chapter": 19,
+      "verse": 4,
+      "text": "Pilate sortit de nouveau et leur dit : « Voici, je vous l'amène dehors, afin que vous sachiez que je ne trouve aucun motif de condamnation en lui. »"
+    },
+    {
+      "chapter": 19,
+      "verse": 5,
+      "text": "Jésus sortit donc, portant la couronne d'épines et le manteau de pourpre. Pilate leur dit : « Voici l'homme ! »"
+    },
+    {
+      "chapter": 19,
+      "verse": 6,
+      "text": "Lorsque les principaux prêtres et les gardes le virent, ils s'écrièrent : « Crucifie-le ! Crucifie-le ! » Pilate leur dit : « Prenez-le vous-mêmes et crucifiez-le, car moi, je ne trouve aucun motif de condamnation en lui. »"
+    },
+    {
+      "chapter": 19,
+      "verse": 7,
+      "text": "Les Juifs lui répondirent : « Nous avons une loi, et selon notre loi il doit mourir, parce qu'il s'est fait Fils de Dieu. »"
+    },
+    {
+      "chapter": 19,
+      "verse": 8,
+      "text": "Quand Pilate entendit cette parole, sa crainte augmenta."
+    },
+    {
+      "chapter": 19,
+      "verse": 9,
+      "text": "Il rentra dans le prétoire et dit à Jésus : « D'où es-tu ? » Mais Jésus ne lui donna aucune réponse."
+    },
+    {
+      "chapter": 19,
+      "verse": 10,
+      "text": "Pilate lui dit donc : « Tu ne me parles pas ? Ne sais-tu pas que j'ai l'autorité de te relâcher et que j'ai l'autorité de te crucifier ? »"
+    },
+    {
+      "chapter": 19,
+      "verse": 11,
+      "text": "Jésus répondit : « Tu n'aurais aucune autorité sur moi si elle ne t'avait été donnée d'en haut. C'est pourquoi celui qui m'a livré à toi est coupable d'un plus grand péché. »"
+    },
+    {
+      "chapter": 19,
+      "verse": 12,
+      "text": "Dès lors, Pilate cherchait à le relâcher ; mais les Juifs criaient : « Si tu le relâches, tu n'es pas l'ami de César ! Quiconque se fait roi se déclare contre César ! »"
+    },
+    {
+      "chapter": 19,
+      "verse": 13,
+      "text": "Pilate, ayant entendu ces paroles, amena Jésus dehors et s'assit sur le tribunal, au lieu appelé le Pavé, et en hébreu, Gabbatha."
+    },
+    {
+      "chapter": 19,
+      "verse": 14,
+      "text": "C'était le jour de la Préparation de la Pâque, et il était environ la sixième heure. Il dit aux Juifs : « Voici votre Roi ! »"
+    },
+    {
+      "chapter": 19,
+      "verse": 15,
+      "text": "Ils s'écrièrent : « À mort ! À mort ! Crucifie-le ! » Pilate leur dit : « Crucifierai-je votre Roi ? » Les principaux prêtres répondirent : « Nous n'avons de roi que César ! »"
+    },
+    {
+      "chapter": 19,
+      "verse": 16,
+      "text": "Alors il le leur livra pour être crucifié. Ils prirent donc Jésus et l'emmenèrent."
+    },
+    {
+      "chapter": 19,
+      "verse": 17,
+      "text": "Jésus, portant sa croix, sortit vers le lieu appelé le lieu du Crâne, qui se dit en hébreu Golgotha."
+    },
+    {
+      "chapter": 19,
+      "verse": 18,
+      "text": "C'est là qu'ils le crucifièrent, et avec lui deux autres, un de chaque côté, et Jésus au milieu."
+    },
+    {
+      "chapter": 19,
+      "verse": 19,
+      "text": "Pilate fit aussi faire un écriteau et le plaça sur la croix. Il y était écrit : « JÉSUS DE NAZARETH, LE ROI DES JUIFS. »"
+    },
+    {
+      "chapter": 19,
+      "verse": 20,
+      "text": "Beaucoup de Juifs lurent cet écriteau, car le lieu où Jésus fut crucifié était près de la ville ; et il était écrit en hébreu, en latin et en grec."
+    },
+    {
+      "chapter": 19,
+      "verse": 21,
+      "text": "Les principaux prêtres des Juifs dirent donc à Pilate : « N'écris pas : 'Le Roi des Juifs', mais qu'il a dit : 'Je suis le Roi des Juifs'. »"
+    },
+    {
+      "chapter": 19,
+      "verse": 22,
+      "text": "Pilate répondit : « Ce que j'ai écrit, je l'ai écrit. »"
+    },
+    {
+      "chapter": 19,
+      "verse": 23,
+      "text": "Les soldats, après avoir crucifié Jésus, prirent ses vêtements et en firent quatre parts, une part pour chaque soldat. Ils prirent aussi sa tunique. Or la tunique était sans couture, tissée d'une seule pièce depuis le haut."
+    },
+    {
+      "chapter": 19,
+      "verse": 24,
+      "text": "Ils se dirent donc entre eux : « Ne la déchirons pas, mais tirons au sort pour savoir à qui elle reviendra », afin que s'accomplisse l'Écriture qui dit : « Ils se sont partagé mes vêtements, Et ils ont tiré au sort ma tunique. » Voilà ce que firent les soldats."
+    },
+    {
+      "chapter": 19,
+      "verse": 25,
+      "text": "Près de la croix de Jésus se tenaient sa mère et la sœur de sa mère, Marie, femme de Clopas, et Marie de Magdala."
+    },
+    {
+      "chapter": 19,
+      "verse": 26,
+      "text": "Jésus, voyant sa mère, et auprès d'elle le disciple qu'il aimait, dit à sa mère : « Femme, voici ton fils ! »"
+    },
+    {
+      "chapter": 19,
+      "verse": 27,
+      "text": "Puis il dit au disciple : « Voici ta mère ! » Et dès cette heure-là, le disciple la prit chez lui."
+    },
+    {
+      "chapter": 19,
+      "verse": 28,
+      "text": "Après cela, Jésus, voyant que tout était désormais achevé, dit, afin que l'Écriture soit accomplie : « J'ai soif ! »"
+    },
+    {
+      "chapter": 19,
+      "verse": 29,
+      "text": "Il y avait là un vase plein de vinaigre. Ils remplirent donc de vinaigre une éponge qu'ils fixèrent à une branche d'hysope, et l'approchèrent de sa bouche."
+    },
+    {
+      "chapter": 19,
+      "verse": 30,
+      "text": "Quand Jésus eut pris le vinaigre, il dit : « Tout est accompli ! » Et, baissant la tête, il rendit l'esprit."
+    },
+    {
+      "chapter": 19,
+      "verse": 31,
+      "text": "Comme c'était le jour de la Préparation, les Juifs ne voulaient pas que les corps restent sur la croix pendant le sabbat, car ce sabbat était un jour particulièrement solennel. Ils demandèrent donc à Pilate qu'on brise les jambes aux crucifiés et qu'on enlève leurs corps."
+    },
+    {
+      "chapter": 19,
+      "verse": 32,
+      "text": "Les soldats vinrent donc et brisèrent les jambes du premier, puis de l'autre qui avait été crucifié avec lui."
+    },
+    {
+      "chapter": 19,
+      "verse": 33,
+      "text": "Mais lorsqu'ils s'approchèrent de Jésus et virent qu'il était déjà mort, ils ne lui brisèrent pas les jambes ;"
+    },
+    {
+      "chapter": 19,
+      "verse": 34,
+      "text": "cependant un des soldats lui perça le côté avec une lance, et il en sortit aussitôt du sang et de l'eau."
+    },
+    {
+      "chapter": 19,
+      "verse": 35,
+      "text": "Celui qui l'a vu en a rendu témoignage, et son témoignage est vrai. Il sait qu'il dit la vérité, afin que vous croyiez aussi."
+    },
+    {
+      "chapter": 19,
+      "verse": 36,
+      "text": "Car ces choses sont arrivées afin que l'Écriture soit accomplie : « Aucun de ses os ne sera brisé. »"
+    },
+    {
+      "chapter": 19,
+      "verse": 37,
+      "text": "Et ailleurs, une autre Écriture dit : « Ils tourneront les regards vers celui qu'ils ont transpercé. »"
+    },
+    {
+      "chapter": 19,
+      "verse": 38,
+      "text": "Après cela, Joseph d'Arimathée, qui était disciple de Jésus, mais en secret par crainte des Juifs, demanda à Pilate la permission d'enlever le corps de Jésus. Pilate le lui permit. Joseph vint donc enlever son corps."
+    },
+    {
+      "chapter": 19,
+      "verse": 39,
+      "text": "Nicodème, qui auparavant était allé vers Jésus de nuit, vint aussi, apportant un mélange de myrrhe et d'aloès, d'environ cent livres romaines."
+    },
+    {
+      "chapter": 19,
+      "verse": 40,
+      "text": "Ils prirent donc le corps de Jésus et l'enveloppèrent de linges avec les aromates, selon la coutume funéraire des Juifs."
+    },
+    {
+      "chapter": 19,
+      "verse": 41,
+      "text": "Or, à l'endroit où il avait été crucifié, il y avait un jardin, et dans ce jardin un tombeau neuf, où personne n'avait encore été mis."
+    },
+    {
+      "chapter": 19,
+      "verse": 42,
+      "text": "Comme c'était le jour de la Préparation des Juifs et que le tombeau était proche, ils y déposèrent Jésus."
+    },
+    {
+      "chapter": 20,
+      "verse": 1,
+      "text": "Le premier jour de la semaine, Marie de Magdala se rendit au tombeau de grand matin, alors qu'il faisait encore sombre. Elle vit que la pierre avait été enlevée du tombeau."
+    },
+    {
+      "chapter": 20,
+      "verse": 2,
+      "text": "Elle courut donc vers Simon Pierre et vers l'autre disciple que Jésus aimait, et leur dit : « Ils ont enlevé le Seigneur du tombeau, et nous ne savons pas où ils l'ont mis ! »"
+    },
+    {
+      "chapter": 20,
+      "verse": 3,
+      "text": "Pierre et l'autre disciple sortirent donc et se dirigèrent vers le tombeau."
+    },
+    {
+      "chapter": 20,
+      "verse": 4,
+      "text": "Ils couraient tous les deux ensemble, mais l'autre disciple courut plus vite que Pierre et arriva le premier au tombeau."
+    },
+    {
+      "chapter": 20,
+      "verse": 5,
+      "text": "Se baissant pour regarder, il vit les linges posés là, mais il n'entra pas."
+    },
+    {
+      "chapter": 20,
+      "verse": 6,
+      "text": "Simon Pierre, qui le suivait, arriva à son tour, entra dans le tombeau et vit les linges posés là."
+    },
+    {
+      "chapter": 20,
+      "verse": 7,
+      "text": "Le linge qu'on avait mis sur la tête de Jésus n'était pas avec les autres linges, mais roulé à part dans un autre endroit."
+    },
+    {
+      "chapter": 20,
+      "verse": 8,
+      "text": "Alors l'autre disciple, qui était arrivé le premier au tombeau, entra aussi ; il vit et il crut."
+    },
+    {
+      "chapter": 20,
+      "verse": 9,
+      "text": "Car ils n'avaient pas encore compris l'Écriture, selon laquelle il devait ressusciter des morts."
+    },
+    {
+      "chapter": 20,
+      "verse": 10,
+      "text": "Les disciples retournèrent donc chez eux."
+    },
+    {
+      "chapter": 20,
+      "verse": 11,
+      "text": "Cependant, Marie se tenait dehors près du tombeau et pleurait. Tout en pleurant, elle se baissa pour regarder dans le tombeau,"
+    },
+    {
+      "chapter": 20,
+      "verse": 12,
+      "text": "et elle vit deux anges vêtus de blanc, assis à l'endroit où avait reposé le corps de Jésus, l'un à la tête et l'autre aux pieds."
+    },
+    {
+      "chapter": 20,
+      "verse": 13,
+      "text": "Ils lui dirent : « Femme, pourquoi pleures-tu ? » Elle leur répondit : « Parce qu'ils ont enlevé mon Seigneur, et je ne sais pas où ils l'ont mis. »"
+    },
+    {
+      "chapter": 20,
+      "verse": 14,
+      "text": "En disant cela, elle se retourna et vit Jésus debout, mais elle ne savait pas que c'était Jésus."
+    },
+    {
+      "chapter": 20,
+      "verse": 15,
+      "text": "Jésus lui dit : « Femme, pourquoi pleures-tu ? Qui cherches-tu ? » Pensant que c'était le jardinier, elle lui dit : « Seigneur, si c'est toi qui l'as emporté, dis-moi où tu l'as mis, et j'irai le prendre. »"
+    },
+    {
+      "chapter": 20,
+      "verse": 16,
+      "text": "Jésus lui dit : « Marie ! » Elle se retourna et lui dit : « Rabboni ! » ce qui signifie : « Maître ! »"
+    },
+    {
+      "chapter": 20,
+      "verse": 17,
+      "text": "Jésus lui dit : « Ne me retiens pas, car je ne suis pas encore monté vers mon Père ; mais va trouver mes frères et dis-leur : 'Je monte vers mon Père et votre Père, vers mon Dieu et votre Dieu.' »"
+    },
+    {
+      "chapter": 20,
+      "verse": 18,
+      "text": "Marie de Magdala alla annoncer aux disciples qu'elle avait vu le Seigneur, et qu'il lui avait dit ces choses."
+    },
+    {
+      "chapter": 20,
+      "verse": 19,
+      "text": "Le soir de ce même jour, le premier jour de la semaine, les disciples s'étaient rassemblés et avaient verrouillé les portes par crainte des Juifs. Jésus vint, se présenta au milieu d'eux et leur dit : « La paix soit avec vous ! »"
+    },
+    {
+      "chapter": 20,
+      "verse": 20,
+      "text": "Et quand il eut dit cela, il leur montra ses mains et son côté. Les disciples furent remplis de joie en voyant le Seigneur."
+    },
+    {
+      "chapter": 20,
+      "verse": 21,
+      "text": "Jésus leur dit de nouveau : « La paix soit avec vous ! Comme le Père m'a envoyé, moi aussi je vous envoie. »"
+    },
+    {
+      "chapter": 20,
+      "verse": 22,
+      "text": "Après ces paroles, il souffla sur eux et leur dit : « Recevez le Saint-Esprit !"
+    },
+    {
+      "chapter": 20,
+      "verse": 23,
+      "text": "Ceux à qui vous pardonnez les péchés, ils leur sont pardonnés ; ceux à qui vous les retenez, ils leur sont retenus. »"
+    },
+    {
+      "chapter": 20,
+      "verse": 24,
+      "text": "Mais Thomas, l'un des douze, appelé Didyme, n'était pas avec eux lorsque Jésus vint."
+    },
+    {
+      "chapter": 20,
+      "verse": 25,
+      "text": "Les autres disciples lui dirent donc : « Nous avons vu le Seigneur ! » Mais il leur dit : « Si je ne vois pas dans ses mains la marque des clous, si je ne mets pas mon doigt dans la marque des clous et si je ne mets pas ma main dans son côté, je ne croirai pas. »"
+    },
+    {
+      "chapter": 20,
+      "verse": 26,
+      "text": "Huit jours après, ses disciples étaient de nouveau dans la maison, et Thomas était avec eux. Jésus vint, les portes étant fermées, se présenta au milieu d'eux et dit : « La paix soit avec vous ! »"
+    },
+    {
+      "chapter": 20,
+      "verse": 27,
+      "text": "Puis il dit à Thomas : « Mets ton doigt ici et regarde mes mains ; avance ta main et mets-la dans mon côté. Ne sois pas incrédule, mais croyant. »"
+    },
+    {
+      "chapter": 20,
+      "verse": 28,
+      "text": "Thomas lui répondit : « Mon Seigneur et mon Dieu ! »"
+    },
+    {
+      "chapter": 20,
+      "verse": 29,
+      "text": "Jésus lui dit : « Parce que tu m'as vu, tu as cru. Heureux ceux qui n'ont pas vu et qui ont cru ! »"
+    },
+    {
+      "chapter": 20,
+      "verse": 30,
+      "text": "Jésus a accompli encore, en présence de ses disciples, beaucoup d'autres signes qui ne sont pas écrits dans ce livre."
+    },
+    {
+      "chapter": 20,
+      "verse": 31,
+      "text": "Mais ces choses ont été écrites afin que vous croyiez que Jésus est le Christ, le Fils de Dieu, et qu'en croyant vous ayez la vie en son nom."
+    },
+    {
+      "chapter": 21,
+      "verse": 1,
+      "text": "Après ces choses, Jésus se manifesta de nouveau aux disciples sur les bords de la mer de Tibériade. Il se manifesta de cette manière."
+    },
+    {
+      "chapter": 21,
+      "verse": 2,
+      "text": "Simon Pierre, Thomas appelé Didyme, Nathanaël de Cana en Galilée, les fils de Zébédée, et deux autres de ses disciples étaient ensemble."
+    },
+    {
+      "chapter": 21,
+      "verse": 3,
+      "text": "Simon Pierre leur dit : « Je vais pêcher. » Ils lui dirent : « Nous venons aussi avec toi. » Ils sortirent aussitôt et montèrent dans la barque. Cette nuit-là, ils ne prirent rien."
+    },
+    {
+      "chapter": 21,
+      "verse": 4,
+      "text": "Au lever du jour, Jésus se tint sur le rivage, mais les disciples ne savaient pas que c'était lui."
+    },
+    {
+      "chapter": 21,
+      "verse": 5,
+      "text": "Jésus leur dit donc : « Enfants, n'avez-vous rien à manger ? » Ils lui répondirent : « Non. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 6,
+      "text": "Il leur dit : « Jetez le filet du côté droit de la barque, et vous trouverez. » Ils le jetèrent donc, et ils ne pouvaient plus le retirer, à cause de la multitude de poissons."
+    },
+    {
+      "chapter": 21,
+      "verse": 7,
+      "text": "Le disciple que Jésus aimait dit alors à Pierre : « C'est le Seigneur ! » Simon Pierre, ayant entendu que c'était le Seigneur, passa son vêtement de dessus (car il était dévêtu) et se jeta dans la mer."
+    },
+    {
+      "chapter": 21,
+      "verse": 8,
+      "text": "Mais les autres disciples vinrent avec la petite barque (car ils n'étaient pas loin de la terre, à environ deux cents coudées), traînant le filet plein de poissons."
+    },
+    {
+      "chapter": 21,
+      "verse": 9,
+      "text": "Lorsqu'ils furent descendus à terre, ils virent là un feu de braises, avec du poisson posé dessus, ainsi que du pain."
+    },
+    {
+      "chapter": 21,
+      "verse": 10,
+      "text": "Jésus leur dit : « Apportez quelques-uns des poissons que vous venez de prendre. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 11,
+      "text": "Simon Pierre monta dans la barque et tira le filet à terre, plein de cent cinquante-trois gros poissons ; et quoiqu'il y en eût tant, le filet ne se déchira pas."
+    },
+    {
+      "chapter": 21,
+      "verse": 12,
+      "text": "Jésus leur dit : « Venez manger ! » Aucun des disciples n'osait lui demander : « Qui es-tu ? », sachant que c'était le Seigneur."
+    },
+    {
+      "chapter": 21,
+      "verse": 13,
+      "text": "Jésus s'approcha, prit le pain et le leur donna, de même que le poisson."
+    },
+    {
+      "chapter": 21,
+      "verse": 14,
+      "text": "C'était déjà la troisième fois que Jésus se manifestait à ses disciples, depuis qu'il était ressuscité des morts."
+    },
+    {
+      "chapter": 21,
+      "verse": 15,
+      "text": "Après qu'ils eurent mangé, Jésus dit à Simon Pierre : « Simon, fils de Jonas, m'aimes-tu plus que ceux-ci ? » Il lui répondit : « Oui, Seigneur, tu sais que j'ai de l'affection pour toi. » Jésus lui dit : « Pais mes agneaux. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 16,
+      "text": "Il lui dit une seconde fois : « Simon, fils de Jonas, m'aimes-tu ? » Il lui répondit : « Oui, Seigneur, tu sais que j'ai de l'affection pour toi. » Jésus lui dit : « Sois le berger de mes brebis. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 17,
+      "text": "Il lui dit pour la troisième fois : « Simon, fils de Jonas, as-tu de l'affection pour moi ? » Pierre fut attristé de ce qu'il lui demandait pour la troisième fois : « As-tu de l'affection pour moi ? » Il lui répondit : « Seigneur, tu sais toutes choses, tu sais que j'ai de l'affection pour toi. » Jésus lui dit : « Pais mes brebis."
+    },
+    {
+      "chapter": 21,
+      "verse": 18,
+      "text": "En vérité, en vérité, je te le dis, quand tu étais jeune, tu t'habillais toi-même et tu allais où tu voulais ; mais quand tu seras vieux, tu étendras les mains, et un autre t'habillera et t'emmènera où tu ne voudras pas aller. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 19,
+      "text": "Il dit cela pour indiquer par quelle mort Pierre glorifierait Dieu. Ayant ainsi parlé, il lui dit : « Suis-moi. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 20,
+      "text": "Pierre se retourna et vit les suivre le disciple que Jésus aimait, celui qui, pendant le repas, s'était penché sur la poitrine de Jésus et avait dit : « Seigneur, qui est celui qui te trahit ? »"
+    },
+    {
+      "chapter": 21,
+      "verse": 21,
+      "text": "Pierre, en le voyant, dit à Jésus : « Seigneur, et qu'en est-il de lui ? »"
+    },
+    {
+      "chapter": 21,
+      "verse": 22,
+      "text": "Jésus lui répondit : « Si je veux qu'il demeure jusqu'à ce que je vienne, que t'importe ? Toi, suis-moi. »"
+    },
+    {
+      "chapter": 21,
+      "verse": 23,
+      "text": "Le bruit se répandit donc parmi les frères que ce disciple ne mourrait pas. Cependant Jésus ne lui avait pas dit qu'il ne mourrait pas, mais : « Si je veux qu'il demeure jusqu'à ce que je vienne, que t'importe ? »"
+    },
+    {
+      "chapter": 21,
+      "verse": 24,
+      "text": "C'est ce disciple qui rend témoignage de ces choses et qui les a écrites. Nous savons que son témoignage est vrai."
+    },
+    {
+      "chapter": 21,
+      "verse": 25,
+      "text": "Il y a encore beaucoup d'autres choses que Jésus a faites ; si elles étaient écrites une à une, je suppose que le monde entier ne pourrait contenir les livres qu'on écrirait."
+    }
+  ]
+}

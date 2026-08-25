@@ -20,6 +20,46 @@
       "includes_deuterocanon": false,
       "has_imprimatur": false,
       "language": "de"
+    },
+    {
+      "id": "sblm-fr",
+      "name": "Sainte Bible libre pour le monde",
+      "abbreviation": "SBLM",
+      "license": "public-domain",
+      "versification": "masoretic",
+      "includes_deuterocanon": true,
+      "has_imprimatur": false,
+      "language": "fr"
+    },
+    {
+      "id": "irv-hi-2019",
+      "name": "Indian Revised Version (Hindi)",
+      "abbreviation": "IRV-HI",
+      "license": "CC-BY-SA-4.0",
+      "versification": "masoretic",
+      "includes_deuterocanon": false,
+      "has_imprimatur": false,
+      "language": "hi"
+    },
+    {
+      "id": "riveduta-1927",
+      "name": "Riveduta 1927",
+      "abbreviation": "RIV1927",
+      "license": "public-domain",
+      "versification": "masoretic",
+      "includes_deuterocanon": false,
+      "has_imprimatur": false,
+      "language": "it"
+    },
+    {
+      "id": "irv-mr",
+      "name": "Indian Revised Version (Marathi)",
+      "abbreviation": "IRV-MR",
+      "license": "CC-BY-SA-4.0",
+      "versification": "masoretic",
+      "includes_deuterocanon": false,
+      "has_imprimatur": false,
+      "language": "mr"
     }
   ],
   "books": [

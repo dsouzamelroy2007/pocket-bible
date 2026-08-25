@@ -1,0 +1,531 @@
+{
+  "translation_id": "sblm-fr",
+  "book_id": "phil",
+  "language": "fr",
+  "license": "public-domain",
+  "source": "eBible.org Sainte Bible libre pour le monde",
+  "verified": true,
+  "note": "Imported via tools/import_epub.py from the eBible.org 'Sainte Bible libre pour le monde' epub the user supplied. eBible.org flags this as a draft translation, still being proofread/edited as of 2026-08-21.",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Paul et Timothée, serviteurs de Jésus-Christ, à tous les saints en Christ Jésus qui sont à Philippes, avec les responsables et les serviteurs :"
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Grâce et paix vous soient données de la part de Dieu notre Père et du Seigneur Jésus-Christ."
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Je remercie mon Dieu chaque fois que je me souviens de vous,"
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "dans chacune de mes prières pour vous tous, présentant toujours mes demandes avec joie,"
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "à cause de votre participation aux progrès de l’Évangile depuis le premier jour jusqu’à maintenant."
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "J’en ai la ferme assurance : celui qui a commencé en vous une œuvre bonne la mènera à son terme jusqu’au jour de Jésus-Christ."
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Il est juste que je pense ainsi de vous tous, car je vous porte dans mon cœur. Dans mes liens comme dans la défense et la confirmation de l’Évangile, vous avez tous part avec moi à la grâce."
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Dieu m’est témoin combien je désire ardemment être auprès de vous tous, avec la tendresse de Christ Jésus."
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Voici ce que je demande dans mes prières : que votre amour abonde de plus en plus en connaissance et en tout discernement,"
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "afin que vous discerniez ce qui est excellent, pour être sincères et irréprochables jusqu’au jour de Christ,"
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "remplis des fruits de justice qui viennent par Jésus-Christ, à la gloire et à la louange de Dieu."
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Je veux que vous sachiez, frères, que ce qui m’est arrivé a plutôt contribué aux progrès de l’Évangile,"
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "de sorte que toute la garde du palais et tous les autres savent clairement que c’est en Christ que je suis emprisonné ;"
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "et la plupart des frères, rendus confiants dans le Seigneur par mes liens, osent d’autant plus annoncer sans crainte la parole de Dieu."
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Certains, il est vrai, prêchent Christ par envie et rivalité, tandis que d’autres le font par bonne volonté."
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Les premiers annoncent Christ sans sincérité, par ambition personnelle, pensant ajouter de la souffrance à mes chaînes ;"
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "les autres le font par amour, sachant que je suis établi pour défendre l’Évangile."
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Qu’importe ? De toute manière, que ce soit avec des arrière-pensées ou avec sincérité, Christ est proclamé. Je m’en réjouis et je m’en réjouirai encore."
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Car je sais que cela aboutira à mon salut grâce à vos prières et au secours de l’Esprit de Jésus-Christ,"
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "conformément à ma vive attente et à mon espérance : je ne serai en rien déçu, mais, avec une pleine assurance, maintenant comme toujours, Christ sera glorifié dans mon corps, soit par ma vie, soit par ma mort."
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Car, pour moi, vivre, c’est Christ, et mourir est un gain."
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Mais si je continue à vivre dans la chair, mon travail portera du fruit. Pourtant, je ne sais que choisir."
+    },
+    {
+      "chapter": 1,
+      "verse": 23,
+      "text": "Je suis tiraillé entre les deux : j’ai le désir de partir et d’être avec Christ, ce qui est de loin préférable ;"
+    },
+    {
+      "chapter": 1,
+      "verse": 24,
+      "text": "mais, à cause de vous, il est plus nécessaire que je demeure dans la chair."
+    },
+    {
+      "chapter": 1,
+      "verse": 25,
+      "text": "Convaincu de cela, je sais que je resterai et continuerai à être auprès de vous tous, pour votre progrès et votre joie dans la foi,"
+    },
+    {
+      "chapter": 1,
+      "verse": 26,
+      "text": "afin que, par mon retour auprès de vous, vous ayez en moi un sujet de fierté toujours plus grand en Christ Jésus."
+    },
+    {
+      "chapter": 1,
+      "verse": 27,
+      "text": "Seulement, menez une vie digne de l’Évangile de Christ, afin que, soit que je vienne vous voir, soit que je sois absent, j’entende dire que vous tenez ferme dans un même esprit, luttant d’une même âme pour la foi de l’Évangile,"
+    },
+    {
+      "chapter": 1,
+      "verse": 28,
+      "text": "sans vous laisser effrayer en rien par vos adversaires. C’est pour eux un signe de perdition, mais pour vous un signe de salut, et cela vient de Dieu."
+    },
+    {
+      "chapter": 1,
+      "verse": 29,
+      "text": "Car il vous a été accordé, pour Christ, non seulement de croire en lui, mais aussi de souffrir pour lui,"
+    },
+    {
+      "chapter": 1,
+      "verse": 30,
+      "text": "en menant le même combat que vous m’avez vu soutenir et que vous entendez maintenant se poursuivre en moi."
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "S’il y a donc quelque encouragement en Christ, quelque réconfort dans l’amour, quelque communion de l’Esprit, quelque tendresse et quelque compassion,"
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "rendez ma joie complète : ayez une même pensée, un même amour, soyez d’un même accord et d’une même pensée ;"
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "ne faites rien par rivalité ni par vanité, mais, avec humilité, considérez les autres comme supérieurs à vous-mêmes ;"
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "que chacun ne veille pas seulement à ses propres intérêts, mais aussi à ceux des autres."
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Ayez entre vous la même disposition d’esprit qui était aussi en Christ Jésus,"
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "lui qui, existant en forme de Dieu, n’a pas considéré l’égalité avec Dieu comme une chose à saisir,"
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "mais s’est dépouillé lui-même, prenant la forme d’un serviteur et devenant semblable aux hommes."
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Apparaissant sous une forme humaine, il s’est humilié lui-même, devenant obéissant jusqu’à la mort, oui, jusqu’à la mort de la croix."
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "C’est pourquoi Dieu l’a aussi élevé au plus haut et lui a donné le nom qui est au-dessus de tout nom,"
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "afin qu’au nom de Jésus tout genou fléchisse, dans les cieux, sur la terre et sous la terre,"
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "et que toute langue confesse que Jésus-Christ est Seigneur, à la gloire de Dieu le Père."
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Ainsi donc, mes bien-aimés, comme vous avez toujours obéi, mettez en œuvre votre propre salut avec crainte et tremblement, non seulement en ma présence, mais bien davantage maintenant en mon absence."
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Car c’est Dieu qui agit en vous pour produire à la fois le vouloir et l’action, selon son bon plaisir."
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Faites tout sans murmures ni contestations,"
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "afin que vous deveniez irréprochables et innocents, enfants de Dieu sans défaut au milieu d’une génération tortueuse et pervertie, parmi laquelle vous apparaissez comme des lumières dans le monde,"
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "en portant haut la parole de vie. Ainsi, au jour de Christ, j’aurai de quoi être fier de ne pas avoir couru ni travaillé en vain."
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Et même si je suis versé en libation sur le sacrifice et le service de votre foi, je m’en réjouis et je partage votre joie à tous."
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "De même, réjouissez-vous aussi et partagez ma joie."
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "J’espère dans le Seigneur Jésus vous envoyer bientôt Timothée, afin que je sois moi aussi réconforté en apprenant comment vous allez."
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Car je n’ai personne d’autre animé des mêmes sentiments, qui prenne sincèrement à cœur votre situation."
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Tous cherchent leurs propres intérêts, et non ceux de Jésus-Christ."
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Mais vous savez qu’il a fait ses preuves : comme un enfant aux côtés de son père, il a servi avec moi pour faire progresser l’Évangile."
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "J’espère donc vous l’envoyer aussitôt que je verrai comment les choses tourneront pour moi."
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "Et j’ai confiance dans le Seigneur que je viendrai moi-même bientôt."
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "J’ai cependant estimé nécessaire de vous envoyer Épaphrodite, mon frère, mon compagnon d’œuvre et de combat, votre envoyé, chargé de pourvoir à mes besoins."
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "text": "Il désirait ardemment être auprès de vous tous et était très troublé parce que vous aviez appris sa maladie."
+    },
+    {
+      "chapter": 2,
+      "verse": 27,
+      "text": "Il a effectivement été malade, tout près de la mort. Mais Dieu lui a fait miséricorde, et non seulement à lui, mais aussi à moi, afin que je n’aie pas tristesse sur tristesse."
+    },
+    {
+      "chapter": 2,
+      "verse": 28,
+      "text": "Je l’ai donc envoyé avec d’autant plus d’empressement, afin qu’en le revoyant vous vous réjouissiez et que j’aie moi-même moins de tristesse."
+    },
+    {
+      "chapter": 2,
+      "verse": 29,
+      "text": "Accueillez-le donc dans le Seigneur avec une joie entière, et honorez des hommes comme lui,"
+    },
+    {
+      "chapter": 2,
+      "verse": 30,
+      "text": "car c’est pour l’œuvre de Christ qu’il a frôlé la mort, risquant sa vie afin d’accomplir à votre place le service que vous ne pouviez me rendre."
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Enfin, mes frères, réjouissez-vous dans le Seigneur ! Vous écrire les mêmes choses ne m’est pas pénible, et cela contribue à votre sécurité."
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Prenez garde aux chiens ; prenez garde aux mauvais ouvriers ; prenez garde à la fausse circoncision."
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Car c’est nous qui sommes la circoncision, nous qui rendons un culte à Dieu par l’Esprit, qui nous réjouissons en Christ Jésus et ne plaçons aucune confiance dans la chair,"
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "bien que je puisse, moi aussi, placer ma confiance dans la chair. Si quelqu’un d’autre pense pouvoir se confier dans la chair, je le peux bien davantage :"
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "circoncis le huitième jour, du peuple d’Israël, de la tribu de Benjamin, Hébreu né d’Hébreux ; quant à la loi, pharisien ;"
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "quant au zèle, persécuteur de l’Église ; quant à la justice qui se trouve dans la loi, trouvé irréprochable."
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Mais tout ce qui était pour moi un gain, je l’ai considéré comme une perte à cause de Christ."
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Bien plus, je considère toutes choses comme une perte à cause de l’excellence de la connaissance de Christ Jésus, mon Seigneur. Pour lui, j’ai subi la perte de toutes choses et je les considère comme des déchets, afin de gagner Christ"
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "et d’être trouvé en lui, non avec une justice qui me serait propre, celle qui vient de la loi, mais avec celle qui vient par la foi en Christ : la justice qui vient de Dieu par la foi,"
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "afin de le connaître, lui, ainsi que la puissance de sa résurrection et la communion à ses souffrances, en devenant conforme à lui dans sa mort,"
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "pour parvenir, de quelque manière que ce soit, à la résurrection d’entre les morts."
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Ce n’est pas que j’aie déjà obtenu tout cela ou que je sois déjà parvenu à la perfection ; mais je poursuis ma course pour saisir ce en vue de quoi Christ Jésus m’a moi-même saisi."
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Frères, je ne considère pas l’avoir encore saisi. Mais je fais une chose : oubliant ce qui est derrière moi et tendant vers ce qui est devant,"
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "je poursuis ma course vers le but, pour remporter le prix de l’appel céleste de Dieu en Christ Jésus."
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Nous tous donc qui sommes parvenus à la maturité, ayons cette pensée. Et si, sur quelque point, vous pensez autrement, Dieu vous le révélera aussi."
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Seulement, là où nous sommes déjà parvenus, continuons à marcher selon la même règle et dans une même pensée."
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Frères, imitez-moi tous ensemble et observez ceux qui vivent selon le modèle que vous avez en nous."
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Car beaucoup vivent en ennemis de la croix de Christ. Je vous en ai souvent parlé et je vous en parle maintenant encore en pleurant."
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Leur fin est la perdition ; leur dieu, c’est leur ventre ; leur gloire est dans ce qui fait leur honte. Ils ne pensent qu’aux choses de la terre."
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "Quant à nous, notre citoyenneté est dans les cieux, d’où nous attendons aussi comme Sauveur le Seigneur Jésus-Christ,"
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "qui transformera notre corps humilié pour le rendre conforme à son corps glorieux, par la puissance qui lui permet même de soumettre toutes choses à lui-même."
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "C’est pourquoi, mes frères bien-aimés, qui me manquez tant, ma joie et ma couronne, demeurez ainsi fermes dans le Seigneur, mes bien-aimés."
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "J’exhorte Évodie et j’exhorte Syntyche à avoir une même pensée dans le Seigneur."
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Oui, je t’en prie, toi aussi, fidèle compagnon, aide ces femmes, car elles ont travaillé avec moi pour l’Évangile, avec Clément et mes autres compagnons d’œuvre, dont les noms sont dans le livre de vie."
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Réjouissez-vous toujours dans le Seigneur ! Je le répète : réjouissez-vous !"
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Que votre douceur soit connue de tous. Le Seigneur est proche."
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Ne vous inquiétez de rien, mais en toute chose, par la prière et la supplication, avec des actions de grâces, faites connaître vos demandes à Dieu."
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Christ Jésus."
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Enfin, frères, portez vos pensées sur tout ce qui est vrai, tout ce qui est honorable, tout ce qui est juste, tout ce qui est pur, tout ce qui est aimable et tout ce qui mérite l’approbation. S’il y a quelque vertu et quelque chose de digne de louange, que tout cela occupe vos pensées."
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Mettez en pratique ce que vous avez appris, reçu, entendu et vu en moi, et le Dieu de paix sera avec vous."
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Je me suis grandement réjoui dans le Seigneur de voir qu’enfin votre sollicitude pour moi a refleuri. Vous pensiez bien à moi, mais l’occasion vous manquait."
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Ce n’est pas que je parle à cause du besoin, car j’ai appris à me contenter de ma situation, quelle qu’elle soit."
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Je sais vivre dans le dénuement et je sais aussi vivre dans l’abondance. En toute circonstance et de toutes les manières, j’ai appris le secret d’être rassasié ou d’avoir faim, de vivre dans l’abondance ou dans le besoin."
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Je peux tout par Christ qui me fortifie."
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Cependant, vous avez bien fait de prendre part à ma détresse."
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Vous le savez vous-mêmes, Philippiens : au commencement de l’Évangile, lorsque j’ai quitté la Macédoine, aucune Église ne s’est associée à moi pour donner et recevoir ; vous seuls l’avez fait."
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "À Thessalonique déjà, vous m’avez envoyé plus d’une fois de quoi subvenir à mes besoins."
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Ce n’est pas le don que je recherche, mais le fruit qui s’ajoute à votre crédit."
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "J’ai tout reçu et je suis dans l’abondance. Je suis comblé depuis que j’ai reçu d’Épaphrodite ce qui venait de vous : un parfum agréable, un sacrifice que Dieu accepte et qui lui plaît."
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Mon Dieu pourvoira à chacun de vos besoins selon ses richesses glorieuses en Christ Jésus."
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "À notre Dieu et Père soit la gloire aux siècles des siècles ! Amen."
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "Saluez chacun des saints en Christ Jésus. Les frères qui sont avec moi vous saluent."
+    },
+    {
+      "chapter": 4,
+      "verse": 22,
+      "text": "Tous les saints vous saluent, surtout ceux de la maison de César."
+    },
+    {
+      "chapter": 4,
+      "verse": 23,
+      "text": "Que la grâce du Seigneur Jésus-Christ soit avec vous tous. Amen."
+    }
+  ]
+}

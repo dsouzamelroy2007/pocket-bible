@@ -1,0 +1,1411 @@
+{
+  "translation_id": "sblm-fr",
+  "book_id": "ezra",
+  "language": "fr",
+  "license": "public-domain",
+  "source": "eBible.org Sainte Bible libre pour le monde",
+  "verified": true,
+  "note": "Imported via tools/import_epub.py from the eBible.org 'Sainte Bible libre pour le monde' epub the user supplied. eBible.org flags this as a draft translation, still being proofread/edited as of 2026-08-21.",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "La première année du règne de Cyrus, roi de Perse, afin que s'accomplisse la parole du SEIGNEUR prononcée par Jérémie, le SEIGNEUR éveilla l'esprit de Cyrus, roi de Perse. Celui-ci fit proclamer dans tout son royaume, et consigna aussi par écrit :"
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "« Voici ce que déclare Cyrus, roi de Perse : Le SEIGNEUR, le Dieu des cieux, m'a donné tous les royaumes de la terre et m'a chargé de lui bâtir une maison à Jérusalem, en Juda."
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Quiconque parmi vous appartient à son peuple, que son Dieu soit avec lui ! Qu'il monte à Jérusalem, en Juda, et qu'il bâtisse la maison du SEIGNEUR, le Dieu d'Israël — c'est lui qui est Dieu —, la maison qui se trouve à Jérusalem."
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Quant à tous ceux qui restent, quel que soit le lieu où ils résident, que les habitants de ce lieu leur apportent de l'argent, de l'or, des biens et du bétail, en plus des offrandes volontaires destinées à la maison de Dieu à Jérusalem. »"
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Alors les chefs des familles de Juda et de Benjamin, les prêtres et les Lévites, ainsi que tous ceux dont Dieu avait éveillé l'esprit, se levèrent pour monter bâtir la maison du SEIGNEUR à Jérusalem."
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Tous leurs voisins les soutinrent en leur donnant des objets d'argent, de l'or, des biens, du bétail et des objets précieux, en plus de toutes les offrandes volontaires."
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Le roi Cyrus fit également sortir les objets de la maison du SEIGNEUR que Nebucadnetsar avait emportés de Jérusalem et placés dans le temple de ses dieux."
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Cyrus, roi de Perse, les fit remettre par Mithredath, le trésorier, à Sheshbatsar, chef de Juda, après les avoir comptés."
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "En voici l'inventaire : trente plats d'or, mille plats d'argent, vingt-neuf couteaux,"
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "trente coupes d'or, quatre cent dix coupes d'argent d'une autre sorte, et mille autres objets."
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Le nombre total des objets d'or et d'argent était de cinq mille quatre cents. Sheshbatsar les emporta tous lorsque les exilés remontèrent de Babylone à Jérusalem."
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Voici les habitants de la province qui revinrent de l'exil. Nebucadnetsar, roi de Babylone, les avait déportés à Babylone, et ils retournèrent à Jérusalem et en Juda, chacun dans sa ville."
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Ils revinrent avec Zorobabel, Josué, Néhémie, Seraja, Réélaja, Mardochée, Bilshan, Mispar, Bigvaï, Rehum et Baana. Nombre des hommes du peuple d'Israël :"
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Les descendants de Parosh, deux mille cent soixante-douze."
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Les descendants de Shephatia, trois cent soixante-douze."
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Les descendants d'Arah, sept cent soixante-quinze."
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Les descendants de Pahath-Moab, issus de Josué et de Joab : deux mille huit cent douze."
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Les descendants d'Élam, mille deux cent cinquante-quatre."
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Les descendants de Zattu, neuf cent quarante-cinq."
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Les descendants de Zaccaï, sept cent soixante."
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Les descendants de Bani, six cent quarante-deux."
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Les descendants de Bébaï, six cent vingt-trois."
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Les descendants d'Azgad, mille deux cent vingt-deux."
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Les descendants d'Adonikam, six cent soixante-six."
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Les descendants de Bigvaï, deux mille cinquante-six."
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Les descendants d'Adin, quatre cent cinquante-quatre."
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Les descendants d'Ater, de la famille d'Ézéchias : quatre-vingt-dix-huit."
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Les descendants de Betsaï, trois cent vingt-trois."
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Les descendants de Jorah, cent douze."
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Les descendants de Hashum, deux cent vingt-trois."
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Les descendants de Guibbar, quatre-vingt-quinze."
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Les descendants de Bethléem, cent vingt-trois."
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Les hommes de Netopha, cinquante-six."
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Les hommes d'Anathoth, cent vingt-huit."
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "Les descendants d'Azmaveth, quarante-deux."
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "Les descendants de Kiriath-Arim, de Kéfira et de Beéroth : sept cent quarante-trois."
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "text": "Les descendants de Rama et de Guéba, six cent vingt et un."
+    },
+    {
+      "chapter": 2,
+      "verse": 27,
+      "text": "Les hommes de Micmas, cent vingt-deux."
+    },
+    {
+      "chapter": 2,
+      "verse": 28,
+      "text": "Les hommes de Béthel et d'Aï, deux cent vingt-trois."
+    },
+    {
+      "chapter": 2,
+      "verse": 29,
+      "text": "Les descendants de Nebo, cinquante-deux."
+    },
+    {
+      "chapter": 2,
+      "verse": 30,
+      "text": "Les descendants de Magbish, cent cinquante-six."
+    },
+    {
+      "chapter": 2,
+      "verse": 31,
+      "text": "Les descendants de l'autre Élam, mille deux cent cinquante-quatre."
+    },
+    {
+      "chapter": 2,
+      "verse": 32,
+      "text": "Les descendants de Harim, trois cent vingt."
+    },
+    {
+      "chapter": 2,
+      "verse": 33,
+      "text": "Les descendants de Lod, de Hadid et d'Ono, sept cent vingt-cinq."
+    },
+    {
+      "chapter": 2,
+      "verse": 34,
+      "text": "Les descendants de Jéricho, trois cent quarante-cinq."
+    },
+    {
+      "chapter": 2,
+      "verse": 35,
+      "text": "Les descendants de Senaa, trois mille six cent trente."
+    },
+    {
+      "chapter": 2,
+      "verse": 36,
+      "text": "Les prêtres : les descendants de Jedaja, de la famille de Josué : neuf cent soixante-treize."
+    },
+    {
+      "chapter": 2,
+      "verse": 37,
+      "text": "Les descendants d'Immer, mille cinquante-deux."
+    },
+    {
+      "chapter": 2,
+      "verse": 38,
+      "text": "Les descendants de Pashhur, mille deux cent quarante-sept."
+    },
+    {
+      "chapter": 2,
+      "verse": 39,
+      "text": "Les descendants de Harim, mille dix-sept."
+    },
+    {
+      "chapter": 2,
+      "verse": 40,
+      "text": "Les Lévites : les descendants de Josué et de Kadmiel, issus de Hodavia : soixante-quatorze."
+    },
+    {
+      "chapter": 2,
+      "verse": 41,
+      "text": "Les chantres : les descendants d'Asaph : cent vingt-huit."
+    },
+    {
+      "chapter": 2,
+      "verse": 42,
+      "text": "Les gardiens des portes : les descendants de Shallum, d'Ater, de Talmon, d'Akkub, de Hatita et de Shobaï : en tout, cent trente-neuf."
+    },
+    {
+      "chapter": 2,
+      "verse": 43,
+      "text": "Les serviteurs du temple : les descendants de Tsiha, de Hasupha et de Tabbaoth,"
+    },
+    {
+      "chapter": 2,
+      "verse": 44,
+      "text": "les descendants de Kéros, les descendants de Siaha, les descendants de Padon,"
+    },
+    {
+      "chapter": 2,
+      "verse": 45,
+      "text": "les descendants de Lebana, les descendants de Hagaba, les descendants d'Akkub,"
+    },
+    {
+      "chapter": 2,
+      "verse": 46,
+      "text": "les descendants de Hagab, les descendants de Shamlaï, les descendants de Hanan,"
+    },
+    {
+      "chapter": 2,
+      "verse": 47,
+      "text": "les descendants de Guiddel, les descendants de Gahar, les descendants de Reaja,"
+    },
+    {
+      "chapter": 2,
+      "verse": 48,
+      "text": "les descendants de Retsin, les descendants de Nekoda, les descendants de Gazzam,"
+    },
+    {
+      "chapter": 2,
+      "verse": 49,
+      "text": "les descendants d'Uzza, les descendants de Paséah, les descendants de Bésaï,"
+    },
+    {
+      "chapter": 2,
+      "verse": 50,
+      "text": "les descendants d'Asna, les descendants de Meunim, les descendants de Nephisim,"
+    },
+    {
+      "chapter": 2,
+      "verse": 51,
+      "text": "les descendants de Bakbuk, les descendants de Hakupha, les descendants de Harhur,"
+    },
+    {
+      "chapter": 2,
+      "verse": 52,
+      "text": "les descendants de Batsluth, les descendants de Mehida, les descendants de Harsha,"
+    },
+    {
+      "chapter": 2,
+      "verse": 53,
+      "text": "les descendants de Barkos, les descendants de Sisera, les descendants de Théma,"
+    },
+    {
+      "chapter": 2,
+      "verse": 54,
+      "text": "les descendants de Netsiah, les descendants de Hatipha."
+    },
+    {
+      "chapter": 2,
+      "verse": 55,
+      "text": "Les descendants des serviteurs de Salomon : les descendants de Sotaï, de Hassophereth et de Peruda,"
+    },
+    {
+      "chapter": 2,
+      "verse": 56,
+      "text": "les descendants de Jaala, les descendants de Darkon, les descendants de Guiddel,"
+    },
+    {
+      "chapter": 2,
+      "verse": 57,
+      "text": "les descendants de Shephatia, les descendants de Hattil, les descendants de Pokéreth-Hatsebajim, les descendants d'Ami."
+    },
+    {
+      "chapter": 2,
+      "verse": 58,
+      "text": "Tous les serviteurs du temple et les descendants des serviteurs de Salomon étaient au nombre de trois cent quatre-vingt-douze."
+    },
+    {
+      "chapter": 2,
+      "verse": 59,
+      "text": "Voici ceux qui revinrent de Tel-Mélah, de Tel-Harsha, de Kerub, d'Addan et d'Immer, mais qui ne purent établir leur famille d'origine ni leur ascendance, et prouver ainsi qu'ils étaient Israélites :"
+    },
+    {
+      "chapter": 2,
+      "verse": 60,
+      "text": "les descendants de Delaja, de Tobija et de Nekoda : six cent cinquante-deux."
+    },
+    {
+      "chapter": 2,
+      "verse": 61,
+      "text": "Parmi les descendants des prêtres, il y avait ceux de Habaja, de Hakkots et de Barzillaï. Ce dernier avait épousé une fille de Barzillaï le Galaadite et avait pris le nom de cette famille."
+    },
+    {
+      "chapter": 2,
+      "verse": 62,
+      "text": "Ils cherchèrent leur inscription dans les registres généalogiques, mais ne la trouvèrent pas ; ils furent donc déclarés inaptes au sacerdoce et en furent exclus."
+    },
+    {
+      "chapter": 2,
+      "verse": 63,
+      "text": "Le gouverneur leur ordonna de ne pas manger des choses très saintes jusqu'à ce qu'un prêtre se présente avec l'Urim et le Thummim."
+    },
+    {
+      "chapter": 2,
+      "verse": 64,
+      "text": "L'ensemble de l'assemblée comptait quarante-deux mille trois cent soixante personnes,"
+    },
+    {
+      "chapter": 2,
+      "verse": 65,
+      "text": "sans compter leurs serviteurs et leurs servantes, au nombre de sept mille trois cent trente-sept. Ils avaient aussi deux cents chanteurs et chanteuses."
+    },
+    {
+      "chapter": 2,
+      "verse": 66,
+      "text": "Ils possédaient sept cent trente-six chevaux et deux cent quarante-cinq mulets,"
+    },
+    {
+      "chapter": 2,
+      "verse": 67,
+      "text": "quatre cent trente-cinq chameaux et six mille sept cent vingt ânes."
+    },
+    {
+      "chapter": 2,
+      "verse": 68,
+      "text": "À leur arrivée à la maison du SEIGNEUR à Jérusalem, certains chefs de famille firent des offrandes volontaires pour que la maison de Dieu soit rétablie sur son emplacement."
+    },
+    {
+      "chapter": 2,
+      "verse": 69,
+      "text": "Ils donnèrent, selon leurs moyens, au fonds destiné aux travaux, soixante et un mille dariques d'or, cinq mille mines d'argent et cent vêtements sacerdotaux."
+    },
+    {
+      "chapter": 2,
+      "verse": 70,
+      "text": "Les prêtres et les Lévites, une partie du peuple, les chantres, les gardiens des portes et les serviteurs du temple s'établirent dans leurs villes. Ainsi, tout Israël habita dans ses villes."
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Lorsque le septième mois arriva, les Israélites étaient installés dans leurs villes. Le peuple se rassembla alors à Jérusalem comme un seul homme."
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Josué, fils de Jotsadak, se leva avec ses frères les prêtres, ainsi que Zorobabel, fils de Shealtiel, et les membres de sa famille. Ils bâtirent l'autel du Dieu d'Israël pour y offrir des holocaustes, conformément à ce qui est écrit dans la loi de Moïse, l'homme de Dieu."
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Malgré la peur que leur inspiraient les peuples des pays voisins, ils rétablirent l'autel à son emplacement et y offrirent des holocaustes au SEIGNEUR, matin et soir."
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Ils célébrèrent la fête des Tentes conformément à ce qui est écrit, et offrirent chaque jour le nombre prescrit d'holocaustes, selon la règle fixée pour ce jour."
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Ils offrirent ensuite l'holocauste perpétuel, les offrandes des nouvelles lunes et de toutes les fêtes consacrées du SEIGNEUR, ainsi que celles de quiconque présentait volontairement une offrande au SEIGNEUR."
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Dès le premier jour du septième mois, ils commencèrent à offrir des holocaustes au SEIGNEUR, bien que les fondations du temple du SEIGNEUR ne soient pas encore posées."
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Ils donnèrent de l'argent aux tailleurs de pierre et aux charpentiers, et fournirent de la nourriture, des boissons et de l'huile aux habitants de Sidon et de Tyr, afin qu'ils acheminent par mer des cèdres du Liban jusqu'à Joppé, conformément à l'autorisation de Cyrus, roi de Perse."
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Au deuxième mois de la deuxième année suivant leur arrivée à la maison de Dieu à Jérusalem, Zorobabel, fils de Shealtiel, Josué, fils de Jotsadak, leurs frères les prêtres et les Lévites, et tous ceux qui étaient revenus de l'exil à Jérusalem, commencèrent les travaux. Ils chargèrent les Lévites âgés de vingt ans et plus de diriger les travaux de la maison du SEIGNEUR."
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Josué, ses fils et ses frères, Kadmiel et ses fils, descendants de Juda, ainsi que les descendants de Hénadad, leurs fils et leurs frères lévites, s'unirent pour diriger les ouvriers qui travaillaient à la maison de Dieu."
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Lorsque les bâtisseurs posèrent les fondations du temple du SEIGNEUR, les prêtres, revêtus de leurs vêtements sacerdotaux et munis de trompettes, prirent place avec les Lévites, descendants d'Asaph, qui avaient des cymbales, afin de louer le SEIGNEUR selon les directives de David, roi d'Israël."
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Ils se répondaient en louant et en célébrant le SEIGNEUR : « Car il est bon, et son amour fidèle envers Israël dure pour toujours. » Tout le peuple poussa de grands cris de joie et loua le SEIGNEUR, parce que les fondations de la maison du SEIGNEUR étaient posées."
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Mais beaucoup de prêtres, de Lévites et de chefs de famille âgés, qui avaient vu le premier temple, pleuraient à haute voix devant les fondations de cette maison, tandis que beaucoup d'autres poussaient des cris de joie."
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "On ne pouvait distinguer les cris de joie des pleurs du peuple, tant les clameurs étaient fortes ; elles s'entendaient au loin."
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Lorsque les adversaires de Juda et de Benjamin apprirent que les exilés revenus au pays bâtissaient un temple pour le SEIGNEUR, le Dieu d'Israël,"
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "ils vinrent trouver Zorobabel et les chefs de famille et leur dirent : « Laissez-nous bâtir avec vous, car nous cherchons votre Dieu comme vous et nous lui offrons des sacrifices depuis l'époque d'Ésar-Haddon, roi d'Assyrie, qui nous a fait venir ici. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Mais Zorobabel, Josué et les autres chefs de famille d'Israël leur répondirent : « Vous n'avez aucune part avec nous dans la construction d'une maison pour notre Dieu. Nous seuls la bâtirons pour le SEIGNEUR, le Dieu d'Israël, comme nous l'a ordonné Cyrus, roi de Perse. »"
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Alors les habitants du pays découragèrent le peuple de Juda et l'intimidèrent pour l'empêcher de bâtir."
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Ils engagèrent à prix d'argent des conseillers pour faire échouer son projet, pendant tout le règne de Cyrus, roi de Perse, et jusqu'au règne de Darius, roi de Perse."
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Au début du règne d'Assuérus, ils déposèrent une accusation contre les habitants de Juda et de Jérusalem."
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "À l'époque d'Artaxerxès, Bishlam, Mithredath, Tabéel et leurs collègues écrivirent à Artaxerxès, roi de Perse. La lettre était rédigée en araméen et présentée dans cette langue."
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Rehum, le chancelier, et Shimshaï, le secrétaire, écrivirent au roi Artaxerxès une lettre contre Jérusalem, dont voici le contenu."
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Rehum le chancelier, Shimshaï le secrétaire et leurs collègues — les Dinaïtes, les Apharsathkites, les Tarpélites, les Apharsites, les Arkéviens, les Babyloniens, les Shushankites, les Dehaïtes et les Élamites —,"
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "ainsi que les autres peuples que le grand et noble Osnappar avait déportés et établis dans la ville de Samarie et dans les autres territoires de la province d'Au-delà-du-Fleuve, écrivirent ce qui suit."
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Voici la copie de la lettre qu'ils envoyèrent : Au roi Artaxerxès, de la part de tes serviteurs, les habitants de la province d'Au-delà-du-Fleuve."
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Que le roi sache que les Juifs partis de chez toi sont arrivés chez nous, à Jérusalem. Ils rebâtissent cette ville rebelle et mauvaise, en achèvent les murailles et en réparent les fondations."
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Que le roi sache donc que, si cette ville est rebâtie et ses murailles achevées, ses habitants ne paieront ni tribut, ni impôt, ni droit de péage, ce qui finira par porter préjudice aux rois."
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Puisque nous sommes entretenus par le palais et qu'il ne nous convient pas d'assister au déshonneur du roi, nous lui adressons cette information,"
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "afin que des recherches soient faites dans les annales de tes prédécesseurs. Tu y découvriras que cette ville est une ville rebelle, nuisible aux rois et aux provinces, et que des révoltes y ont été fomentées depuis longtemps. C'est pour cette raison qu'elle a été détruite."
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Nous avertissons le roi que, si cette ville est rebâtie et ses murailles achevées, tu ne posséderas bientôt plus aucun territoire dans la province d'Au-delà-du-Fleuve."
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Le roi envoya alors une réponse à Rehum le chancelier, à Shimshaï le secrétaire et à leurs collègues qui habitaient à Samarie et dans les autres territoires de la province d'Au-delà-du-Fleuve : Paix."
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "La lettre que vous nous avez envoyée a été lue intégralement devant moi."
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "J'ai ordonné des recherches, et l'on a constaté que cette ville s'était autrefois soulevée contre les rois et qu'elle avait été le foyer de rébellions et de révoltes."
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "De puissants rois ont régné à Jérusalem et exercé leur autorité sur toute la province d'Au-delà-du-Fleuve, qui leur payait tribut, impôt et droit de péage."
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "Ordonnez donc à ces hommes d'interrompre les travaux. Cette ville ne devra pas être rebâtie avant que j'en donne l'ordre."
+    },
+    {
+      "chapter": 4,
+      "verse": 22,
+      "text": "Veillez à ne pas négliger cette affaire. Pourquoi laisser ce préjudice s'aggraver au détriment des rois ?"
+    },
+    {
+      "chapter": 4,
+      "verse": 23,
+      "text": "Dès que la copie de la lettre du roi Artaxerxès fut lue devant Rehum, Shimshaï le secrétaire et leurs collègues, ils se rendirent en toute hâte à Jérusalem et forcèrent les Juifs, par les armes, à interrompre les travaux."
+    },
+    {
+      "chapter": 4,
+      "verse": 24,
+      "text": "Les travaux de la maison de Dieu à Jérusalem s'arrêtèrent donc et restèrent interrompus jusqu'à la deuxième année du règne de Darius, roi de Perse."
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Les prophètes Aggée et Zacharie, fils d'Iddo, prophétisèrent alors aux Juifs établis en Juda et à Jérusalem, au nom du Dieu d'Israël."
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Zorobabel, fils de Shealtiel, et Josué, fils de Jotsadak, se levèrent et reprirent la construction de la maison de Dieu à Jérusalem. Les prophètes de Dieu étaient avec eux et les soutenaient."
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "À cette époque, Tattenaï, gouverneur de la province d'Au-delà-du-Fleuve, vint les trouver avec Shethar-Bozenaï et leurs collègues. Ils leur demandèrent : « Qui vous a autorisés à bâtir cette maison et à achever cette muraille ? »"
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Ils leur demandèrent également les noms des hommes responsables de cette construction."
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Mais leur Dieu veillait sur les anciens des Juifs, et les fonctionnaires ne leur firent pas interrompre les travaux avant que l'affaire soit soumise à Darius et qu'une réponse écrite soit reçue."
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Voici la copie de la lettre que Tattenaï, gouverneur de la province d'Au-delà-du-Fleuve, Shethar-Bozenaï et leurs collègues apharsakites envoyèrent au roi Darius."
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Ils lui adressèrent une lettre rédigée en ces termes : Au roi Darius, pleine paix."
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Que le roi sache que nous nous sommes rendus dans la province de Juda, à la maison du grand Dieu. Elle se bâtit avec de grands blocs de pierre, et des poutres de bois sont intégrées aux murs. Les travaux sont menés avec soin et avancent rapidement sous leur direction."
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Nous avons interrogé les anciens et leur avons demandé : « Qui vous a autorisés à bâtir cette maison et à achever cette muraille ? »"
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Nous leur avons aussi demandé leurs noms afin de pouvoir t'informer et te communiquer ceux des hommes qui les dirigent."
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Voici la réponse qu'ils nous ont faite : « Nous sommes les serviteurs du Dieu des cieux et de la terre, et nous rebâtissons la maison qu'un grand roi d'Israël avait construite et achevée il y a bien des années."
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Mais nos pères provoquèrent la colère du Dieu des cieux. Il les livra alors à Nebucadnetsar, roi de Babylone, le Chaldéen, qui détruisit cette maison et déporta le peuple à Babylone."
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Cependant, la première année de Cyrus, roi de Babylone, le roi Cyrus ordonna que cette maison de Dieu soit rebâtie."
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Quant aux objets d'or et d'argent de la maison de Dieu que Nebucadnetsar avait retirés du temple de Jérusalem et transportés dans le temple de Babylone, le roi Cyrus les fit sortir de ce temple et les remit à un homme nommé Sheshbatsar, qu'il avait établi gouverneur."
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "Il lui dit : ‘Prends ces objets, va les déposer dans le temple de Jérusalem, et que la maison de Dieu soit rebâtie sur son emplacement.’"
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Ce Sheshbatsar vint donc poser les fondations de la maison de Dieu à Jérusalem. Depuis lors, elle est en construction, mais elle n'est pas encore achevée."
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "Maintenant, si le roi le juge bon, que l'on recherche dans les archives du trésor royal à Babylone si Cyrus a bien ordonné de rebâtir cette maison de Dieu à Jérusalem. Que le roi nous communique ensuite sa décision à ce sujet. »"
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Le roi Darius ordonna alors de faire des recherches dans les archives royales où les trésors étaient conservés à Babylone."
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "On trouva à Achmetha, dans le palais de la province de Médie, un rouleau sur lequel était consigné ce mémoire :"
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "La première année du roi Cyrus, celui-ci promulgua le décret suivant concernant la maison de Dieu à Jérusalem : Que la maison soit rebâtie comme lieu où l'on offre des sacrifices, et que ses fondations soient solidement établies. Qu'elle ait soixante coudées de hauteur et soixante coudées de largeur,"
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "avec trois assises de grandes pierres et une assise de bois neuf. Les dépenses seront payées par le trésor royal."
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "Que les objets d'or et d'argent de la maison de Dieu, que Nebucadnetsar avait emportés du temple de Jérusalem à Babylone, soient rendus et rapportés au temple de Jérusalem, chacun à sa place, puis déposés dans la maison de Dieu."
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "Maintenant donc, Tattenaï, gouverneur de la province d'Au-delà-du-Fleuve, Shethar-Bozenaï et vos collègues apharsakites de cette province, tenez-vous loin de là."
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Laissez se poursuivre les travaux de cette maison de Dieu. Que le gouverneur des Juifs et leurs anciens la rebâtissent sur son emplacement."
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "J'ordonne en outre ce que vous devrez faire pour aider les anciens des Juifs dans cette construction : les dépenses seront intégralement payées, sans délai, sur les revenus royaux provenant de la province d'Au-delà-du-Fleuve, afin que les travaux ne soient pas interrompus."
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "Fournissez-leur chaque jour, sans rien omettre et selon les indications des prêtres de Jérusalem, tout ce dont ils auront besoin : jeunes taureaux, béliers et agneaux pour les holocaustes au Dieu des cieux, ainsi que blé, sel, vin et huile."
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "Ils pourront ainsi offrir au Dieu des cieux des sacrifices à l'odeur agréable et prier pour la vie du roi et de ses fils."
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "J'ordonne encore que, si quelqu'un modifie ce décret, une poutre soit arrachée de sa maison et dressée, puis que cet homme y soit hissé et fixé. Sa maison sera transformée en un tas d'immondices."
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "Que le Dieu qui a fait demeurer son nom en ce lieu renverse tout roi ou peuple qui étendrait la main pour altérer ce décret et détruire cette maison de Dieu à Jérusalem. Moi, Darius, j'ai promulgué ce décret. Qu'il soit exécuté scrupuleusement."
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "Tattenaï, gouverneur de la province d'Au-delà-du-Fleuve, Shethar-Bozenaï et leurs collègues exécutèrent scrupuleusement l'ordre envoyé par le roi Darius."
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "Les anciens des Juifs poursuivirent la construction avec succès, encouragés par les prophéties d'Aggée et de Zacharie, fils d'Iddo. Ils achevèrent la maison conformément au commandement du Dieu d'Israël et aux décrets de Cyrus, de Darius et d'Artaxerxès, rois de Perse."
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "text": "La maison fut achevée le troisième jour du mois d'Adar, dans la sixième année du règne du roi Darius."
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "text": "Les Israélites, les prêtres, les Lévites et les autres exilés revenus au pays célébrèrent avec joie la dédicace de cette maison de Dieu."
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "text": "Pour sa dédicace, ils offrirent cent taureaux, deux cents béliers et quatre cents agneaux. Ils offrirent aussi douze boucs en sacrifice pour le péché de tout Israël, selon le nombre des tribus d'Israël."
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "text": "Ils affectèrent les prêtres à leurs divisions et les Lévites à leurs groupes de service pour le culte de Dieu à Jérusalem, conformément à ce qui est écrit dans le livre de Moïse."
+    },
+    {
+      "chapter": 6,
+      "verse": 19,
+      "text": "Les exilés revenus au pays célébrèrent la Pâque le quatorzième jour du premier mois."
+    },
+    {
+      "chapter": 6,
+      "verse": 20,
+      "text": "Les prêtres et les Lévites s'étaient tous purifiés ensemble et étaient purs. Ils immolèrent les victimes pascales pour tous les exilés revenus au pays, pour leurs frères les prêtres et pour eux-mêmes."
+    },
+    {
+      "chapter": 6,
+      "verse": 21,
+      "text": "Les Israélites revenus d'exil en mangèrent, ainsi que tous ceux qui s'étaient joints à eux en se séparant de l'impureté des peuples du pays pour chercher le SEIGNEUR, le Dieu d'Israël."
+    },
+    {
+      "chapter": 6,
+      "verse": 22,
+      "text": "Ils célébrèrent avec joie la fête des Pains sans levain pendant sept jours, car le SEIGNEUR les avait remplis de joie. Il avait disposé favorablement envers eux le cœur du roi d'Assyrie, afin qu'il les soutienne dans les travaux de la maison de Dieu, le Dieu d'Israël."
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "Après ces événements, sous le règne d'Artaxerxès, roi de Perse, Esdras, fils de Seraja, fils d'Azaria, fils de Hilkija,"
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "fils de Shallum, fils de Tsadok, fils d'Ahitub,"
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "fils d'Amaria, fils d'Azaria, fils de Merajoth,"
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "fils de Zerachia, fils d'Uzzi, fils de Bukki,"
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "fils d'Abishua, fils de Phinées, fils d'Éléazar, fils d'Aaron, le grand prêtre —"
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "cet Esdras monta de Babylone. C'était un scribe versé dans la loi de Moïse, que le SEIGNEUR, le Dieu d'Israël, avait donnée. Le roi lui accorda tout ce qu'il demanda, car la main du SEIGNEUR, son Dieu, était sur lui."
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "Des Israélites, notamment des prêtres, des Lévites, des chantres, des gardiens des portes et des serviteurs du temple, montèrent à Jérusalem la septième année du roi Artaxerxès."
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "Esdras arriva à Jérusalem au cinquième mois de la septième année du roi."
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "Il quitta Babylone le premier jour du premier mois et arriva à Jérusalem le premier jour du cinquième mois, car la bonne main de son Dieu était sur lui."
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "Esdras s'était consacré à étudier la loi du SEIGNEUR, à la mettre en pratique et à enseigner en Israël ses prescriptions et ses ordonnances."
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "text": "Voici la copie de la lettre que le roi Artaxerxès remit au prêtre Esdras, scribe versé dans les paroles des commandements du SEIGNEUR et de ses prescriptions pour Israël :"
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "text": "Artaxerxès, roi des rois, À Esdras le prêtre, scribe de la loi du Dieu parfait des cieux. Voici mes ordres :"
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "text": "J'ordonne que tous les membres du peuple d'Israël, ainsi que leurs prêtres et les Lévites de mon royaume, qui désirent librement se rendre à Jérusalem, puissent partir avec toi."
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "text": "Le roi et ses sept conseillers t'envoient examiner la situation de Juda et de Jérusalem selon la loi de ton Dieu que tu as en main."
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "text": "Tu emporteras l'argent et l'or que le roi et ses conseillers ont volontairement offerts au Dieu d'Israël, dont la demeure est à Jérusalem,"
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "text": "ainsi que tout l'argent et l'or que tu recueilleras dans toute la province de Babylone, avec les offrandes volontaires que le peuple et les prêtres feront pour la maison de leur Dieu à Jérusalem."
+    },
+    {
+      "chapter": 7,
+      "verse": 17,
+      "text": "Tu veilleras donc à acheter avec cet argent des taureaux, des béliers et des agneaux, avec leurs offrandes de céréales et leurs offrandes de vin, et tu les offriras sur l'autel de la maison de ton Dieu à Jérusalem."
+    },
+    {
+      "chapter": 7,
+      "verse": 18,
+      "text": "Toi et tes frères, faites du reste de l'argent et de l'or ce qui vous semblera bon, conformément à la volonté de votre Dieu."
+    },
+    {
+      "chapter": 7,
+      "verse": 19,
+      "text": "Quant aux objets qui te sont confiés pour le service de la maison de ton Dieu, dépose-les devant le Dieu de Jérusalem."
+    },
+    {
+      "chapter": 7,
+      "verse": 20,
+      "text": "Tout ce qui sera encore nécessaire à la maison de ton Dieu et que tu devras fournir, prélève-le sur le trésor royal."
+    },
+    {
+      "chapter": 7,
+      "verse": 21,
+      "text": "Moi, le roi Artaxerxès, j'ordonne à tous les trésoriers de la province d'Au-delà-du-Fleuve d'accorder sans délai tout ce que vous demandera Esdras, le prêtre et scribe de la loi du Dieu des cieux,"
+    },
+    {
+      "chapter": 7,
+      "verse": 22,
+      "text": "jusqu'à cent talents d'argent, cent cors de blé, cent baths de vin, cent baths d'huile, et une quantité illimitée de sel."
+    },
+    {
+      "chapter": 7,
+      "verse": 23,
+      "text": "Que tout ce qu'ordonne le Dieu des cieux soit exécuté avec exactitude pour sa maison. Pourquoi sa colère frapperait-elle le royaume du roi et de ses fils ?"
+    },
+    {
+      "chapter": 7,
+      "verse": 24,
+      "text": "Nous vous informons aussi qu'il est interdit d'imposer tribut, impôt ou droit de péage aux prêtres, aux Lévites, aux chantres, aux gardiens des portes, aux serviteurs du temple ou aux autres travailleurs de cette maison de Dieu."
+    },
+    {
+      "chapter": 7,
+      "verse": 25,
+      "text": "Et toi, Esdras, selon la sagesse de ton Dieu que tu possèdes, établis des magistrats et des juges pour rendre justice à tous les habitants de la province d'Au-delà-du-Fleuve qui connaissent les lois de ton Dieu. Enseigne ces lois à ceux qui ne les connaissent pas."
+    },
+    {
+      "chapter": 7,
+      "verse": 26,
+      "text": "Quiconque n'obéira pas à la loi de ton Dieu et à la loi du roi sera jugé sans délai : il pourra être condamné à mort, au bannissement, à la confiscation de ses biens ou à l'emprisonnement."
+    },
+    {
+      "chapter": 7,
+      "verse": 27,
+      "text": "Béni soit le SEIGNEUR, le Dieu de nos pères, qui a mis au cœur du roi d'embellir la maison du SEIGNEUR à Jérusalem,"
+    },
+    {
+      "chapter": 7,
+      "verse": 28,
+      "text": "et qui m'a accordé sa faveur devant le roi, ses conseillers et tous ses puissants princes. Fortifié par la main du SEIGNEUR, mon Dieu, qui était sur moi, je rassemblai des chefs d'Israël pour qu'ils montent avec moi."
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "text": "Voici les chefs de famille et la généalogie de ceux qui montèrent avec moi de Babylone sous le règne du roi Artaxerxès :"
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "text": "Parmi les descendants de Phinées : Guershom. Parmi les descendants d'Ithamar : Daniel. Parmi les descendants de David : Hattush."
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "text": "Parmi les descendants de Shecania, du clan de Parosh : Zacharie, avec cent cinquante hommes inscrits dans les registres généalogiques."
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "text": "Parmi les descendants de Pahath-Moab : Élihoénaï, fils de Zerachia, avec deux cents hommes."
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "text": "Parmi les descendants de Shecania : le fils de Jahaziel, avec trois cents hommes."
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "text": "Parmi les descendants d'Adin : Ébed, fils de Jonathan, avec cinquante hommes."
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "text": "Parmi les descendants d'Élam : Jeshaïa, fils d'Athalie, avec soixante-dix hommes."
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "text": "Parmi les descendants de Shephatia : Zebadia, fils de Micaël, avec quatre-vingts hommes."
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "text": "Parmi les descendants de Joab : Abdias, fils de Jehiel, avec deux cent dix-huit hommes."
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "text": "Parmi les descendants de Shelomith : le fils de Josiphia, avec cent soixante hommes."
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "text": "Parmi les descendants de Bébaï : Zacharie, fils de Bébaï, avec vingt-huit hommes."
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "text": "Parmi les descendants d'Azgad : Johanan, fils de Hakkatan, avec cent dix hommes."
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "text": "Parmi les descendants d'Adonikam, qui arrivèrent les derniers : Éliphéleth, Jeuel et Shemaja, avec soixante hommes."
+    },
+    {
+      "chapter": 8,
+      "verse": 14,
+      "text": "Parmi les descendants de Bigvaï : Uthaï et Zabbud, avec soixante-dix hommes."
+    },
+    {
+      "chapter": 8,
+      "verse": 15,
+      "text": "Je les rassemblai au bord du fleuve qui coule vers Ahava, et nous y campâmes trois jours. En passant en revue le peuple et les prêtres, je ne trouvai parmi eux aucun descendant de Lévi."
+    },
+    {
+      "chapter": 8,
+      "verse": 16,
+      "text": "Je fis alors appeler les chefs Éliézer, Ariel, Shemaja, Elnathan, Jarib, un autre Elnathan, Nathan, Zacharie et Meshullam, ainsi que les instructeurs Jojarib et Elnathan."
+    },
+    {
+      "chapter": 8,
+      "verse": 17,
+      "text": "Je les envoyai auprès d'Iddo, le chef établi à Casiphia. Je leur indiquai exactement ce qu'ils devaient dire à Iddo et à ses frères, les serviteurs du temple de Casiphia, afin qu'ils nous amènent des ministres pour la maison de notre Dieu."
+    },
+    {
+      "chapter": 8,
+      "verse": 18,
+      "text": "Grâce à la bonne main de notre Dieu sur nous, ils nous amenèrent un homme avisé, Shérébia, descendant de Mahli, fils de Lévi, fils d'Israël, avec ses fils et ses frères, soit dix-huit hommes."
+    },
+    {
+      "chapter": 8,
+      "verse": 19,
+      "text": "Ils amenèrent aussi Hashabia et, avec lui, Jeshaïa, descendant de Merari, ainsi que ses frères et leurs fils, soit vingt hommes."
+    },
+    {
+      "chapter": 8,
+      "verse": 20,
+      "text": "Ils amenèrent enfin deux cent vingt serviteurs du temple, parmi ceux que David et les chefs avaient affectés au service des Lévites. Tous avaient été désignés par leur nom."
+    },
+    {
+      "chapter": 8,
+      "verse": 21,
+      "text": "Là, près du fleuve d'Ahava, je proclamai un jeûne afin que nous nous humiliions devant notre Dieu et lui demandions un chemin sûr pour nous, nos enfants et tous nos biens."
+    },
+    {
+      "chapter": 8,
+      "verse": 22,
+      "text": "J'avais honte de demander au roi une escorte de soldats et de cavaliers pour nous protéger contre les ennemis pendant le voyage, car nous avions déclaré au roi : « La main de notre Dieu protège pour leur bien tous ceux qui le cherchent, mais sa puissance et sa colère s'exercent contre tous ceux qui l'abandonnent. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 23,
+      "text": "Nous jeûnâmes donc et suppliâmes notre Dieu à ce sujet, et il nous exauça."
+    },
+    {
+      "chapter": 8,
+      "verse": 24,
+      "text": "Je mis ensuite à part douze chefs des prêtres : Shérébia, Hashabia et dix de leurs frères."
+    },
+    {
+      "chapter": 8,
+      "verse": 25,
+      "text": "Je leur confiai, après les avoir pesés, l'argent, l'or et les objets constituant l'offrande pour la maison de notre Dieu, donnée par le roi, ses conseillers, ses princes et tous les Israélites présents."
+    },
+    {
+      "chapter": 8,
+      "verse": 26,
+      "text": "Je remis entre leurs mains, après les avoir pesés, six cent cinquante talents d'argent, cent talents d'objets en argent et cent talents d'or,"
+    },
+    {
+      "chapter": 8,
+      "verse": 27,
+      "text": "vingt coupes d'or pesant mille dariques, et deux objets en bronze fin et brillant, aussi précieux que l'or."
+    },
+    {
+      "chapter": 8,
+      "verse": 28,
+      "text": "Je leur dis : « Vous êtes consacrés au SEIGNEUR, et ces objets le sont également. L'argent et l'or sont une offrande volontaire au SEIGNEUR, le Dieu de vos pères."
+    },
+    {
+      "chapter": 8,
+      "verse": 29,
+      "text": "Gardez-les soigneusement jusqu'au moment où vous les pèserez devant les chefs des prêtres, les Lévites et les chefs des familles d'Israël, dans les salles de la maison du SEIGNEUR à Jérusalem. »"
+    },
+    {
+      "chapter": 8,
+      "verse": 30,
+      "text": "Les prêtres et les Lévites prirent donc en charge l'argent, l'or et les objets qui avaient été pesés, afin de les apporter à Jérusalem, dans la maison de notre Dieu."
+    },
+    {
+      "chapter": 8,
+      "verse": 31,
+      "text": "Nous quittâmes le fleuve d'Ahava le douzième jour du premier mois pour nous rendre à Jérusalem. La main de notre Dieu fut sur nous, et il nous protégea contre les ennemis et les brigands pendant le voyage."
+    },
+    {
+      "chapter": 8,
+      "verse": 32,
+      "text": "Nous arrivâmes à Jérusalem et nous nous y reposâmes trois jours."
+    },
+    {
+      "chapter": 8,
+      "verse": 33,
+      "text": "Le quatrième jour, l'argent, l'or et les objets furent pesés dans la maison de notre Dieu et confiés au prêtre Merémoth, fils d'Urie. Éléazar, fils de Phinées, était avec lui, ainsi que les Lévites Jozabad, fils de Josué, et Noadia, fils de Binnuï."
+    },
+    {
+      "chapter": 8,
+      "verse": 34,
+      "text": "Tout fut compté et pesé, et le poids total fut consigné par écrit ce jour-là."
+    },
+    {
+      "chapter": 8,
+      "verse": 35,
+      "text": "Ceux qui étaient revenus d'exil offrirent des holocaustes au Dieu d'Israël : douze taureaux pour tout Israël, quatre-vingt-seize béliers, soixante-dix-sept agneaux et douze boucs en sacrifice pour le péché. Tout cela fut offert en holocauste au SEIGNEUR."
+    },
+    {
+      "chapter": 8,
+      "verse": 36,
+      "text": "Ils remirent les décrets du roi aux fonctionnaires royaux et aux gouverneurs de la province d'Au-delà-du-Fleuve. Ceux-ci apportèrent leur soutien au peuple et à la maison de Dieu."
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "text": "Une fois ces choses accomplies, les chefs vinrent me dire : « Le peuple d'Israël, les prêtres et les Lévites ne se sont pas séparés des peuples des pays. Ils ont adopté les pratiques abominables des Cananéens, des Hittites, des Phéréziens, des Jébusiens, des Ammonites, des Moabites, des Égyptiens et des Amoréens."
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "text": "Ils ont pris leurs filles comme femmes pour eux-mêmes et pour leurs fils, de sorte que la descendance sainte s'est mêlée aux peuples des pays. Les chefs et les magistrats ont été les premiers à commettre cette infidélité. »"
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "text": "Lorsque j'entendis cela, je déchirai mon vêtement et mon manteau, m'arrachai des cheveux de la tête et de la barbe, puis m'assis, consterné."
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "text": "Tous ceux qui tremblaient devant les paroles du Dieu d'Israël se rassemblèrent auprès de moi à cause de l'infidélité des exilés. Je restai assis, consterné, jusqu'à l'heure de l'offrande du soir."
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "text": "À l'heure de l'offrande du soir, je me relevai de mon humiliation, le vêtement et le manteau déchirés. Je tombai à genoux et étendis les mains vers le SEIGNEUR, mon Dieu,"
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "text": "en disant : « Mon Dieu, j'ai honte et je rougis de lever le visage vers toi, mon Dieu, car nos fautes se sont accumulées au-dessus de nos têtes et notre culpabilité s'est élevée jusqu'aux cieux."
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "text": "Depuis les jours de nos pères jusqu'à aujourd'hui, nous avons été profondément coupables. À cause de nos fautes, nous, nos rois et nos prêtres avons été livrés aux rois des pays, à l'épée, à la captivité, au pillage et à l'humiliation, comme on le voit aujourd'hui."
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "text": "Maintenant, pour un court instant, le SEIGNEUR, notre Dieu, nous a fait grâce. Il nous a laissé un reste de rescapés et nous a donné un point d'ancrage dans son lieu saint, afin d'éclairer nos yeux et de nous rendre un peu de vie au milieu de notre servitude."
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "text": "Car nous sommes esclaves, mais notre Dieu ne nous a pas abandonnés dans notre servitude. Il nous a accordé sa faveur auprès des rois de Perse, afin de nous rendre la vie, de relever la maison de notre Dieu, d'en restaurer les ruines et de nous donner une protection en Juda et à Jérusalem."
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "text": "Maintenant, notre Dieu, que pourrions-nous encore dire après cela ? Nous avons abandonné tes commandements,"
+    },
+    {
+      "chapter": 9,
+      "verse": 11,
+      "text": "que tu nous avais transmis par tes serviteurs les prophètes : “Le pays dans lequel vous entrez pour en prendre possession est souillé par l'impureté des peuples qui l'habitent et par leurs pratiques abominables, dont ils l'ont rempli d'un bout à l'autre."
+    },
+    {
+      "chapter": 9,
+      "verse": 12,
+      "text": "Ne donnez donc pas vos filles à leurs fils et ne prenez pas leurs filles pour vos fils. Ne recherchez jamais leur paix ni leur prospérité. Vous deviendrez ainsi forts, vous mangerez les bons produits du pays et vous le transmettrez pour toujours en héritage à vos enfants.”"
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "text": "Après tout ce qui nous est arrivé à cause de nos mauvaises actions et de notre grande culpabilité, toi, notre Dieu, tu nous as punis moins que ne le méritaient nos fautes et tu nous as conservé ce reste."
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "text": "Allons-nous recommencer à violer tes commandements et à nous unir à ces peuples qui commettent de telles pratiques abominables ? Ne t'irriterais-tu pas contre nous jusqu'à nous détruire, sans laisser ni reste ni rescapé ?"
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "text": "SEIGNEUR, Dieu d'Israël, tu es juste, car nous subsistons aujourd'hui comme un reste de rescapés. Voici, nous sommes devant toi avec notre culpabilité, alors que nul ne peut subsister devant toi dans une telle situation. »"
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "text": "Pendant qu'Esdras priait et confessait ces fautes, en pleurant et en se prosternant devant la maison de Dieu, une très grande assemblée d'hommes, de femmes et d'enfants d'Israël se réunit autour de lui. Le peuple pleurait amèrement."
+    },
+    {
+      "chapter": 10,
+      "verse": 2,
+      "text": "Shecania, fils de Jehiel, l'un des descendants d'Élam, prit la parole et dit à Esdras : « Nous avons été infidèles envers notre Dieu, et nous avons épousé des femmes étrangères parmi les peuples du pays. Pourtant, il y a maintenant de l'espérance pour Israël à ce sujet."
+    },
+    {
+      "chapter": 10,
+      "verse": 3,
+      "text": "Concluons maintenant une alliance avec notre Dieu : renvoyons toutes ces femmes et leurs enfants, selon le conseil de mon seigneur et de ceux qui tremblent devant le commandement de notre Dieu. Que l'on agisse conformément à la loi."
+    },
+    {
+      "chapter": 10,
+      "verse": 4,
+      "text": "Lève-toi, car cette affaire relève de toi, et nous sommes avec toi. Prends courage et agis. »"
+    },
+    {
+      "chapter": 10,
+      "verse": 5,
+      "text": "Esdras se leva et fit prêter serment aux chefs des prêtres, aux Lévites et à tout Israël d'agir conformément à cette parole. Ils prêtèrent serment."
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "text": "Puis Esdras quitta les abords de la maison de Dieu et entra dans la chambre de Jochanan, fils d'Éliashib. Là, il ne mangea pas de pain et ne but pas d'eau, car il était dans le deuil à cause de l'infidélité des exilés."
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "text": "On proclama dans tout Juda et à Jérusalem que tous ceux qui étaient revenus d'exil devaient se rassembler à Jérusalem."
+    },
+    {
+      "chapter": 10,
+      "verse": 8,
+      "text": "Selon la décision des chefs et des anciens, quiconque ne viendrait pas dans les trois jours verrait tous ses biens confisqués et serait exclu de l'assemblée des exilés."
+    },
+    {
+      "chapter": 10,
+      "verse": 9,
+      "text": "Tous les hommes de Juda et de Benjamin se rassemblèrent donc à Jérusalem dans les trois jours. C'était le vingtième jour du neuvième mois. Tout le peuple s'assit sur la place devant la maison de Dieu, tremblant à cause de cette affaire et des fortes pluies."
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "text": "Le prêtre Esdras se leva et leur dit : « Vous avez été infidèles en épousant des femmes étrangères, et vous avez ainsi accru la culpabilité d'Israël."
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "text": "Confessez maintenant votre faute au SEIGNEUR, le Dieu de vos pères, et faites sa volonté. Séparez-vous des peuples du pays et des femmes étrangères. »"
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "text": "Toute l'assemblée répondit d'une voix forte : « Nous ferons ce que tu nous as dit."
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "text": "Mais le peuple est nombreux, c'est la saison des fortes pluies, et nous ne pouvons rester dehors. De plus, cette affaire ne peut être réglée en un jour ou deux, car nous avons gravement transgressé dans ce domaine."
+    },
+    {
+      "chapter": 10,
+      "verse": 14,
+      "text": "Que nos chefs représentent donc toute l'assemblée. Que tous ceux de nos villes qui ont épousé des femmes étrangères viennent aux dates fixées, accompagnés des anciens et des juges de leur ville, jusqu'à ce que la colère ardente de notre Dieu se détourne de nous et que cette affaire soit réglée. »"
+    },
+    {
+      "chapter": 10,
+      "verse": 15,
+      "text": "Seuls Jonathan, fils d'Asahel, et Jachzeja, fils de Tikva, s'opposèrent à cette décision ; Meshullam et le Lévite Shabbethaï les soutinrent."
+    },
+    {
+      "chapter": 10,
+      "verse": 16,
+      "text": "Ceux qui étaient revenus d'exil agirent ainsi. Le prêtre Esdras et certains chefs de famille, un pour chaque famille et tous désignés par leur nom, furent mis à part. Ils siégèrent le premier jour du dixième mois pour examiner l'affaire."
+    },
+    {
+      "chapter": 10,
+      "verse": 17,
+      "text": "Ils achevèrent l'examen de tous les hommes qui avaient épousé des femmes étrangères le premier jour du premier mois."
+    },
+    {
+      "chapter": 10,
+      "verse": 18,
+      "text": "Parmi les prêtres, on trouva les hommes suivants qui avaient épousé des femmes étrangères : parmi les descendants de Josué, fils de Jotsadak, et parmi ses frères : Maaséja, Éliézer, Jarib et Guedalia."
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "text": "Ils s'engagèrent solennellement à renvoyer leurs femmes et, reconnaissant leur culpabilité, offrirent un bélier du troupeau en sacrifice de réparation."
+    },
+    {
+      "chapter": 10,
+      "verse": 20,
+      "text": "Des descendants d'Immer : Hanani et Zebadia."
+    },
+    {
+      "chapter": 10,
+      "verse": 21,
+      "text": "Des descendants de Harim : Maaséja, Élie, Shemaja, Jehiel et Ozias."
+    },
+    {
+      "chapter": 10,
+      "verse": 22,
+      "text": "Des descendants de Pashhur : Élioénaï, Maaséja, Ismaël, Nethaneel, Jozabad et Élasa."
+    },
+    {
+      "chapter": 10,
+      "verse": 23,
+      "text": "Parmi les Lévites : Jozabad, Shimeï, Kélaja (c'est-à-dire Kélitha), Pethahja, Juda et Éliézer."
+    },
+    {
+      "chapter": 10,
+      "verse": 24,
+      "text": "Parmi les chantres : Éliashib. Parmi les gardiens des portes : Shallum, Télem et Uri."
+    },
+    {
+      "chapter": 10,
+      "verse": 25,
+      "text": "Parmi les Israélites : les descendants de Parosh : Ramia, Jizzija, Malkija, Mijamin, Éléazar, Malkija et Benaja."
+    },
+    {
+      "chapter": 10,
+      "verse": 26,
+      "text": "Des descendants d'Élam : Matthania, Zacharie, Jehiel, Abdi, Jerémoth et Élie."
+    },
+    {
+      "chapter": 10,
+      "verse": 27,
+      "text": "Des descendants de Zattu : Élioénaï, Éliashib, Matthania, Jerémoth, Zabad et Aziza."
+    },
+    {
+      "chapter": 10,
+      "verse": 28,
+      "text": "Des descendants de Bébaï : Jochanan, Hanania, Zabbaï et Athlaï."
+    },
+    {
+      "chapter": 10,
+      "verse": 29,
+      "text": "Des descendants de Bani : Meshullam, Malluc, Adaja, Jashub, Sheal et Jerémoth."
+    },
+    {
+      "chapter": 10,
+      "verse": 30,
+      "text": "Des descendants de Pahath-Moab : Adna, Kelal, Benaja, Maaséja, Matthania, Betsaleel, Binnuï et Manassé."
+    },
+    {
+      "chapter": 10,
+      "verse": 31,
+      "text": "Des descendants de Harim : Éliézer, Jishija, Malkija, Shemaja, Siméon,"
+    },
+    {
+      "chapter": 10,
+      "verse": 32,
+      "text": "Benjamin, Malluc et Shemaria."
+    },
+    {
+      "chapter": 10,
+      "verse": 33,
+      "text": "Des descendants de Hashum : Matthénaï, Matthatha, Zabad, Éliphéleth, Jerémaï, Manassé et Shimeï."
+    },
+    {
+      "chapter": 10,
+      "verse": 34,
+      "text": "Des descendants de Bani : Maadaï, Amram, Uel,"
+    },
+    {
+      "chapter": 10,
+      "verse": 35,
+      "text": "Benaja, Bédia, Keluhi,"
+    },
+    {
+      "chapter": 10,
+      "verse": 36,
+      "text": "Vania, Merémoth, Éliashib,"
+    },
+    {
+      "chapter": 10,
+      "verse": 37,
+      "text": "Matthania, Matthénaï, Jaasa,"
+    },
+    {
+      "chapter": 10,
+      "verse": 38,
+      "text": "Bani, Binnuï, Shimeï,"
+    },
+    {
+      "chapter": 10,
+      "verse": 39,
+      "text": "Shélémia, Nathan, Adaja,"
+    },
+    {
+      "chapter": 10,
+      "verse": 40,
+      "text": "Macnadbaï, Shashaï, Sharaï,"
+    },
+    {
+      "chapter": 10,
+      "verse": 41,
+      "text": "Azareel, Shélémia, Shemaria,"
+    },
+    {
+      "chapter": 10,
+      "verse": 42,
+      "text": "Shallum, Amaria et Joseph."
+    },
+    {
+      "chapter": 10,
+      "verse": 43,
+      "text": "Des descendants de Nebo : Jeïel, Matthithia, Zabad, Zebina, Iddo, Joël et Benaja."
+    },
+    {
+      "chapter": 10,
+      "verse": 44,
+      "text": "Tous ces hommes avaient épousé des femmes étrangères, et certaines de ces femmes leur avaient donné des enfants."
+    }
+  ]
+}

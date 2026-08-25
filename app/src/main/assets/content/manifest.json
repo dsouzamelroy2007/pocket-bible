@@ -1,5 +1,5 @@
 {
-  "content_version": 17,
+  "content_version": 18,
   "_note": "Index of every content module this app ships. To add a book or a new scripture translation/language: drop a new file under content/scripture/<translation_id>/<book_id>.json (see tools/import_scripture.py) and add one entry to \"scripture\" here. To add or extend a UI-language translation of the topics content (feeling label/description, entry reflection/prayer -- NOT scripture text): drop a content/topics/<language>.json file and add one entry to \"topic_translations\" here; any topic or entry missing from that file just falls back to English. Either way, no need to touch core.json, topics.json, or any other module. Bump content_version whenever any module changes so SeedLoader re-seeds on next launch.",
   "core": "content/core.json",
   "topics": "content/topics.json",
@@ -698,6 +698,1361 @@
       "translation_id": "schlachter-1951",
       "book_id": "zeph",
       "path": "content/scripture/schlachter-1951/zeph.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "1chr",
+      "path": "content/scripture/sblm-fr/1chr.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "1cor",
+      "path": "content/scripture/sblm-fr/1cor.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "1jo",
+      "path": "content/scripture/sblm-fr/1jo.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "1kgs",
+      "path": "content/scripture/sblm-fr/1kgs.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "1macc",
+      "path": "content/scripture/sblm-fr/1macc.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "1pet",
+      "path": "content/scripture/sblm-fr/1pet.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "1sam",
+      "path": "content/scripture/sblm-fr/1sam.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "1the",
+      "path": "content/scripture/sblm-fr/1the.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "1tim",
+      "path": "content/scripture/sblm-fr/1tim.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "2chr",
+      "path": "content/scripture/sblm-fr/2chr.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "2cor",
+      "path": "content/scripture/sblm-fr/2cor.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "2jo",
+      "path": "content/scripture/sblm-fr/2jo.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "2kgs",
+      "path": "content/scripture/sblm-fr/2kgs.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "2macc",
+      "path": "content/scripture/sblm-fr/2macc.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "2pet",
+      "path": "content/scripture/sblm-fr/2pet.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "2sam",
+      "path": "content/scripture/sblm-fr/2sam.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "2the",
+      "path": "content/scripture/sblm-fr/2the.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "2tim",
+      "path": "content/scripture/sblm-fr/2tim.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "3jo",
+      "path": "content/scripture/sblm-fr/3jo.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "acts",
+      "path": "content/scripture/sblm-fr/acts.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "amos",
+      "path": "content/scripture/sblm-fr/amos.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "bar",
+      "path": "content/scripture/sblm-fr/bar.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "col",
+      "path": "content/scripture/sblm-fr/col.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "dan",
+      "path": "content/scripture/sblm-fr/dan.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "deut",
+      "path": "content/scripture/sblm-fr/deut.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "eccl",
+      "path": "content/scripture/sblm-fr/eccl.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "eph",
+      "path": "content/scripture/sblm-fr/eph.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "esth",
+      "path": "content/scripture/sblm-fr/esth.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "ex",
+      "path": "content/scripture/sblm-fr/ex.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "ezek",
+      "path": "content/scripture/sblm-fr/ezek.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "ezra",
+      "path": "content/scripture/sblm-fr/ezra.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "gal",
+      "path": "content/scripture/sblm-fr/gal.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "gen",
+      "path": "content/scripture/sblm-fr/gen.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "hab",
+      "path": "content/scripture/sblm-fr/hab.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "hag",
+      "path": "content/scripture/sblm-fr/hag.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "heb",
+      "path": "content/scripture/sblm-fr/heb.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "hos",
+      "path": "content/scripture/sblm-fr/hos.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "isa",
+      "path": "content/scripture/sblm-fr/isa.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "jas",
+      "path": "content/scripture/sblm-fr/jas.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "jdt",
+      "path": "content/scripture/sblm-fr/jdt.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "jer",
+      "path": "content/scripture/sblm-fr/jer.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "jn",
+      "path": "content/scripture/sblm-fr/jn.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "job",
+      "path": "content/scripture/sblm-fr/job.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "joel",
+      "path": "content/scripture/sblm-fr/joel.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "jonah",
+      "path": "content/scripture/sblm-fr/jonah.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "josh",
+      "path": "content/scripture/sblm-fr/josh.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "jude",
+      "path": "content/scripture/sblm-fr/jude.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "judg",
+      "path": "content/scripture/sblm-fr/judg.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "lam",
+      "path": "content/scripture/sblm-fr/lam.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "lev",
+      "path": "content/scripture/sblm-fr/lev.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "lk",
+      "path": "content/scripture/sblm-fr/lk.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "mal",
+      "path": "content/scripture/sblm-fr/mal.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "mic",
+      "path": "content/scripture/sblm-fr/mic.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "mk",
+      "path": "content/scripture/sblm-fr/mk.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "mt",
+      "path": "content/scripture/sblm-fr/mt.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "nah",
+      "path": "content/scripture/sblm-fr/nah.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "neh",
+      "path": "content/scripture/sblm-fr/neh.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "num",
+      "path": "content/scripture/sblm-fr/num.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "obad",
+      "path": "content/scripture/sblm-fr/obad.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "phil",
+      "path": "content/scripture/sblm-fr/phil.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "phlm",
+      "path": "content/scripture/sblm-fr/phlm.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "pr",
+      "path": "content/scripture/sblm-fr/pr.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "ps",
+      "path": "content/scripture/sblm-fr/ps.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "rev",
+      "path": "content/scripture/sblm-fr/rev.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "ro",
+      "path": "content/scripture/sblm-fr/ro.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "ruth",
+      "path": "content/scripture/sblm-fr/ruth.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "sir",
+      "path": "content/scripture/sblm-fr/sir.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "song",
+      "path": "content/scripture/sblm-fr/song.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "titus",
+      "path": "content/scripture/sblm-fr/titus.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "tob",
+      "path": "content/scripture/sblm-fr/tob.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "wis",
+      "path": "content/scripture/sblm-fr/wis.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "zech",
+      "path": "content/scripture/sblm-fr/zech.json"
+    },
+    {
+      "translation_id": "sblm-fr",
+      "book_id": "zeph",
+      "path": "content/scripture/sblm-fr/zeph.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "1chr",
+      "path": "content/scripture/irv-hi-2019/1chr.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "1cor",
+      "path": "content/scripture/irv-hi-2019/1cor.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "1jo",
+      "path": "content/scripture/irv-hi-2019/1jo.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "1kgs",
+      "path": "content/scripture/irv-hi-2019/1kgs.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "1pet",
+      "path": "content/scripture/irv-hi-2019/1pet.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "1sam",
+      "path": "content/scripture/irv-hi-2019/1sam.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "1the",
+      "path": "content/scripture/irv-hi-2019/1the.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "1tim",
+      "path": "content/scripture/irv-hi-2019/1tim.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "2chr",
+      "path": "content/scripture/irv-hi-2019/2chr.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "2cor",
+      "path": "content/scripture/irv-hi-2019/2cor.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "2jo",
+      "path": "content/scripture/irv-hi-2019/2jo.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "2kgs",
+      "path": "content/scripture/irv-hi-2019/2kgs.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "2pet",
+      "path": "content/scripture/irv-hi-2019/2pet.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "2sam",
+      "path": "content/scripture/irv-hi-2019/2sam.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "2the",
+      "path": "content/scripture/irv-hi-2019/2the.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "2tim",
+      "path": "content/scripture/irv-hi-2019/2tim.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "3jo",
+      "path": "content/scripture/irv-hi-2019/3jo.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "acts",
+      "path": "content/scripture/irv-hi-2019/acts.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "amos",
+      "path": "content/scripture/irv-hi-2019/amos.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "col",
+      "path": "content/scripture/irv-hi-2019/col.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "dan",
+      "path": "content/scripture/irv-hi-2019/dan.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "deut",
+      "path": "content/scripture/irv-hi-2019/deut.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "eccl",
+      "path": "content/scripture/irv-hi-2019/eccl.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "eph",
+      "path": "content/scripture/irv-hi-2019/eph.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "esth",
+      "path": "content/scripture/irv-hi-2019/esth.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "ex",
+      "path": "content/scripture/irv-hi-2019/ex.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "ezek",
+      "path": "content/scripture/irv-hi-2019/ezek.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "ezra",
+      "path": "content/scripture/irv-hi-2019/ezra.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "gal",
+      "path": "content/scripture/irv-hi-2019/gal.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "gen",
+      "path": "content/scripture/irv-hi-2019/gen.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "hab",
+      "path": "content/scripture/irv-hi-2019/hab.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "hag",
+      "path": "content/scripture/irv-hi-2019/hag.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "heb",
+      "path": "content/scripture/irv-hi-2019/heb.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "hos",
+      "path": "content/scripture/irv-hi-2019/hos.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "isa",
+      "path": "content/scripture/irv-hi-2019/isa.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "jas",
+      "path": "content/scripture/irv-hi-2019/jas.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "jer",
+      "path": "content/scripture/irv-hi-2019/jer.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "jn",
+      "path": "content/scripture/irv-hi-2019/jn.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "job",
+      "path": "content/scripture/irv-hi-2019/job.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "joel",
+      "path": "content/scripture/irv-hi-2019/joel.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "jonah",
+      "path": "content/scripture/irv-hi-2019/jonah.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "josh",
+      "path": "content/scripture/irv-hi-2019/josh.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "jude",
+      "path": "content/scripture/irv-hi-2019/jude.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "judg",
+      "path": "content/scripture/irv-hi-2019/judg.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "lam",
+      "path": "content/scripture/irv-hi-2019/lam.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "lev",
+      "path": "content/scripture/irv-hi-2019/lev.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "lk",
+      "path": "content/scripture/irv-hi-2019/lk.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "mal",
+      "path": "content/scripture/irv-hi-2019/mal.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "mic",
+      "path": "content/scripture/irv-hi-2019/mic.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "mk",
+      "path": "content/scripture/irv-hi-2019/mk.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "mt",
+      "path": "content/scripture/irv-hi-2019/mt.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "nah",
+      "path": "content/scripture/irv-hi-2019/nah.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "neh",
+      "path": "content/scripture/irv-hi-2019/neh.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "num",
+      "path": "content/scripture/irv-hi-2019/num.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "obad",
+      "path": "content/scripture/irv-hi-2019/obad.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "phil",
+      "path": "content/scripture/irv-hi-2019/phil.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "phlm",
+      "path": "content/scripture/irv-hi-2019/phlm.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "pr",
+      "path": "content/scripture/irv-hi-2019/pr.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "ps",
+      "path": "content/scripture/irv-hi-2019/ps.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "rev",
+      "path": "content/scripture/irv-hi-2019/rev.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "ro",
+      "path": "content/scripture/irv-hi-2019/ro.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "ruth",
+      "path": "content/scripture/irv-hi-2019/ruth.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "song",
+      "path": "content/scripture/irv-hi-2019/song.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "titus",
+      "path": "content/scripture/irv-hi-2019/titus.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "zech",
+      "path": "content/scripture/irv-hi-2019/zech.json"
+    },
+    {
+      "translation_id": "irv-hi-2019",
+      "book_id": "zeph",
+      "path": "content/scripture/irv-hi-2019/zeph.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "1chr",
+      "path": "content/scripture/riveduta-1927/1chr.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "1cor",
+      "path": "content/scripture/riveduta-1927/1cor.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "1jo",
+      "path": "content/scripture/riveduta-1927/1jo.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "1kgs",
+      "path": "content/scripture/riveduta-1927/1kgs.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "1pet",
+      "path": "content/scripture/riveduta-1927/1pet.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "1sam",
+      "path": "content/scripture/riveduta-1927/1sam.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "1the",
+      "path": "content/scripture/riveduta-1927/1the.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "1tim",
+      "path": "content/scripture/riveduta-1927/1tim.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "2chr",
+      "path": "content/scripture/riveduta-1927/2chr.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "2cor",
+      "path": "content/scripture/riveduta-1927/2cor.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "2jo",
+      "path": "content/scripture/riveduta-1927/2jo.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "2kgs",
+      "path": "content/scripture/riveduta-1927/2kgs.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "2pet",
+      "path": "content/scripture/riveduta-1927/2pet.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "2sam",
+      "path": "content/scripture/riveduta-1927/2sam.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "2the",
+      "path": "content/scripture/riveduta-1927/2the.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "2tim",
+      "path": "content/scripture/riveduta-1927/2tim.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "3jo",
+      "path": "content/scripture/riveduta-1927/3jo.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "acts",
+      "path": "content/scripture/riveduta-1927/acts.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "amos",
+      "path": "content/scripture/riveduta-1927/amos.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "col",
+      "path": "content/scripture/riveduta-1927/col.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "dan",
+      "path": "content/scripture/riveduta-1927/dan.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "deut",
+      "path": "content/scripture/riveduta-1927/deut.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "eccl",
+      "path": "content/scripture/riveduta-1927/eccl.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "eph",
+      "path": "content/scripture/riveduta-1927/eph.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "esth",
+      "path": "content/scripture/riveduta-1927/esth.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "ex",
+      "path": "content/scripture/riveduta-1927/ex.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "ezek",
+      "path": "content/scripture/riveduta-1927/ezek.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "ezra",
+      "path": "content/scripture/riveduta-1927/ezra.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "gal",
+      "path": "content/scripture/riveduta-1927/gal.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "gen",
+      "path": "content/scripture/riveduta-1927/gen.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "hab",
+      "path": "content/scripture/riveduta-1927/hab.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "hag",
+      "path": "content/scripture/riveduta-1927/hag.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "heb",
+      "path": "content/scripture/riveduta-1927/heb.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "hos",
+      "path": "content/scripture/riveduta-1927/hos.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "isa",
+      "path": "content/scripture/riveduta-1927/isa.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "jas",
+      "path": "content/scripture/riveduta-1927/jas.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "jer",
+      "path": "content/scripture/riveduta-1927/jer.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "jn",
+      "path": "content/scripture/riveduta-1927/jn.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "job",
+      "path": "content/scripture/riveduta-1927/job.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "joel",
+      "path": "content/scripture/riveduta-1927/joel.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "jonah",
+      "path": "content/scripture/riveduta-1927/jonah.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "josh",
+      "path": "content/scripture/riveduta-1927/josh.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "jude",
+      "path": "content/scripture/riveduta-1927/jude.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "judg",
+      "path": "content/scripture/riveduta-1927/judg.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "lam",
+      "path": "content/scripture/riveduta-1927/lam.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "lev",
+      "path": "content/scripture/riveduta-1927/lev.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "lk",
+      "path": "content/scripture/riveduta-1927/lk.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "mal",
+      "path": "content/scripture/riveduta-1927/mal.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "mic",
+      "path": "content/scripture/riveduta-1927/mic.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "mk",
+      "path": "content/scripture/riveduta-1927/mk.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "mt",
+      "path": "content/scripture/riveduta-1927/mt.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "nah",
+      "path": "content/scripture/riveduta-1927/nah.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "neh",
+      "path": "content/scripture/riveduta-1927/neh.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "num",
+      "path": "content/scripture/riveduta-1927/num.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "obad",
+      "path": "content/scripture/riveduta-1927/obad.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "phil",
+      "path": "content/scripture/riveduta-1927/phil.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "phlm",
+      "path": "content/scripture/riveduta-1927/phlm.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "pr",
+      "path": "content/scripture/riveduta-1927/pr.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "ps",
+      "path": "content/scripture/riveduta-1927/ps.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "rev",
+      "path": "content/scripture/riveduta-1927/rev.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "ro",
+      "path": "content/scripture/riveduta-1927/ro.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "ruth",
+      "path": "content/scripture/riveduta-1927/ruth.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "song",
+      "path": "content/scripture/riveduta-1927/song.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "titus",
+      "path": "content/scripture/riveduta-1927/titus.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "zech",
+      "path": "content/scripture/riveduta-1927/zech.json"
+    },
+    {
+      "translation_id": "riveduta-1927",
+      "book_id": "zeph",
+      "path": "content/scripture/riveduta-1927/zeph.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "1chr",
+      "path": "content/scripture/irv-mr/1chr.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "1cor",
+      "path": "content/scripture/irv-mr/1cor.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "1jo",
+      "path": "content/scripture/irv-mr/1jo.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "1kgs",
+      "path": "content/scripture/irv-mr/1kgs.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "1pet",
+      "path": "content/scripture/irv-mr/1pet.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "1sam",
+      "path": "content/scripture/irv-mr/1sam.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "1the",
+      "path": "content/scripture/irv-mr/1the.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "1tim",
+      "path": "content/scripture/irv-mr/1tim.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "2chr",
+      "path": "content/scripture/irv-mr/2chr.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "2cor",
+      "path": "content/scripture/irv-mr/2cor.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "2jo",
+      "path": "content/scripture/irv-mr/2jo.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "2kgs",
+      "path": "content/scripture/irv-mr/2kgs.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "2pet",
+      "path": "content/scripture/irv-mr/2pet.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "2sam",
+      "path": "content/scripture/irv-mr/2sam.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "2the",
+      "path": "content/scripture/irv-mr/2the.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "2tim",
+      "path": "content/scripture/irv-mr/2tim.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "3jo",
+      "path": "content/scripture/irv-mr/3jo.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "acts",
+      "path": "content/scripture/irv-mr/acts.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "amos",
+      "path": "content/scripture/irv-mr/amos.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "col",
+      "path": "content/scripture/irv-mr/col.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "dan",
+      "path": "content/scripture/irv-mr/dan.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "deut",
+      "path": "content/scripture/irv-mr/deut.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "eccl",
+      "path": "content/scripture/irv-mr/eccl.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "eph",
+      "path": "content/scripture/irv-mr/eph.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "esth",
+      "path": "content/scripture/irv-mr/esth.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "ex",
+      "path": "content/scripture/irv-mr/ex.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "ezek",
+      "path": "content/scripture/irv-mr/ezek.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "ezra",
+      "path": "content/scripture/irv-mr/ezra.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "gal",
+      "path": "content/scripture/irv-mr/gal.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "gen",
+      "path": "content/scripture/irv-mr/gen.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "hab",
+      "path": "content/scripture/irv-mr/hab.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "hag",
+      "path": "content/scripture/irv-mr/hag.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "heb",
+      "path": "content/scripture/irv-mr/heb.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "hos",
+      "path": "content/scripture/irv-mr/hos.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "isa",
+      "path": "content/scripture/irv-mr/isa.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "jas",
+      "path": "content/scripture/irv-mr/jas.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "jer",
+      "path": "content/scripture/irv-mr/jer.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "jn",
+      "path": "content/scripture/irv-mr/jn.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "job",
+      "path": "content/scripture/irv-mr/job.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "joel",
+      "path": "content/scripture/irv-mr/joel.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "jonah",
+      "path": "content/scripture/irv-mr/jonah.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "josh",
+      "path": "content/scripture/irv-mr/josh.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "jude",
+      "path": "content/scripture/irv-mr/jude.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "judg",
+      "path": "content/scripture/irv-mr/judg.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "lam",
+      "path": "content/scripture/irv-mr/lam.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "lev",
+      "path": "content/scripture/irv-mr/lev.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "lk",
+      "path": "content/scripture/irv-mr/lk.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "mal",
+      "path": "content/scripture/irv-mr/mal.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "mic",
+      "path": "content/scripture/irv-mr/mic.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "mk",
+      "path": "content/scripture/irv-mr/mk.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "mt",
+      "path": "content/scripture/irv-mr/mt.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "nah",
+      "path": "content/scripture/irv-mr/nah.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "neh",
+      "path": "content/scripture/irv-mr/neh.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "num",
+      "path": "content/scripture/irv-mr/num.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "obad",
+      "path": "content/scripture/irv-mr/obad.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "phil",
+      "path": "content/scripture/irv-mr/phil.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "phlm",
+      "path": "content/scripture/irv-mr/phlm.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "pr",
+      "path": "content/scripture/irv-mr/pr.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "ps",
+      "path": "content/scripture/irv-mr/ps.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "rev",
+      "path": "content/scripture/irv-mr/rev.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "ro",
+      "path": "content/scripture/irv-mr/ro.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "ruth",
+      "path": "content/scripture/irv-mr/ruth.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "song",
+      "path": "content/scripture/irv-mr/song.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "titus",
+      "path": "content/scripture/irv-mr/titus.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "zech",
+      "path": "content/scripture/irv-mr/zech.json"
+    },
+    {
+      "translation_id": "irv-mr",
+      "book_id": "zeph",
+      "path": "content/scripture/irv-mr/zeph.json"
     }
   ],
   "topic_translations": [
