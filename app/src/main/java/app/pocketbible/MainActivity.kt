@@ -189,9 +189,11 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
             }
             composable("bible") {
                 val books by viewModel.readableBooks.collectAsState()
+                val bookmarks by viewModel.bookmarks.collectAsState()
                 val scope = rememberCoroutineScope()
                 BibleBookListScreen(
                     books = books,
+                    bookmarks = bookmarks,
                     onBookSelected = { book ->
                         scope.launch {
                             viewModel.openBook(book)
@@ -201,7 +203,13 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     onLoadChapters = { book -> viewModel.chaptersAvailable(book) },
                     onLoadVerses = { book, chapter -> viewModel.versesAvailable(book, chapter) },
                     onGoToReference = { book, chapter, verse -> viewModel.goToReference(book, chapter, verse) },
-                    onReferenceFound = { navController.navigate("bible_reader") }
+                    onReferenceFound = { navController.navigate("bible_reader") },
+                    onBookmarkSelected = { bookmark ->
+                        scope.launch {
+                            if (viewModel.openBookmark(bookmark)) navController.navigate("bible_reader")
+                        }
+                    },
+                    onBookmarkDeleted = { viewModel.deleteBookmark(it.id) }
                 )
             }
             composable("bible_reader") {
@@ -210,7 +218,12 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                 val chapters by viewModel.chapters.collectAsState()
                 val verses by viewModel.chapterVerses.collectAsState()
                 val highlightVerse by viewModel.scrollToVerse.collectAsState()
+                val bookmarks by viewModel.bookmarks.collectAsState()
                 val index = chapters.indexOf(chapter)
+                val currentBook = book
+                val isBookmarked = currentBook != null && chapter != null && bookmarks.any {
+                    it.bookId == currentBook.id && it.chapter == chapter && it.verse == highlightVerse
+                }
                 BibleReaderScreen(
                     bookName = book?.let { localizedBookName(it) } ?: "",
                     chapter = chapter,
@@ -219,10 +232,12 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     highlightVerse = highlightVerse,
                     hasPrevious = index > 0,
                     hasNext = index in 0 until chapters.lastIndex,
+                    isBookmarked = isBookmarked,
                     onBack = { navController.popBackStack() },
                     onChapterSelected = { viewModel.openChapter(it) },
                     onPrevious = { viewModel.previousChapter() },
-                    onNext = { viewModel.nextChapter() }
+                    onNext = { viewModel.nextChapter() },
+                    onToggleBookmark = { viewModel.toggleBookmarkCurrent() }
                 )
             }
         }

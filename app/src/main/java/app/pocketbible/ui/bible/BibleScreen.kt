@@ -20,6 +20,9 @@ import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material.icons.filled.ArrowForward
+import androidx.compose.material.icons.filled.Bookmark
+import androidx.compose.material.icons.filled.Delete
+import androidx.compose.material.icons.outlined.BookmarkBorder
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
 import androidx.compose.material3.DropdownMenuItem
@@ -52,16 +55,20 @@ import androidx.compose.ui.unit.dp
 import kotlinx.coroutines.launch
 import app.pocketbible.R
 import app.pocketbible.data.Book
+import app.pocketbible.data.BibleBookmark
 import app.pocketbible.data.ScriptureVerse
 
 @Composable
 fun BibleBookListScreen(
     books: List<Book>,
+    bookmarks: List<BibleBookmark>,
     onBookSelected: (Book) -> Unit,
     onLoadChapters: suspend (Book) -> List<Int>,
     onLoadVerses: suspend (Book, Int) -> List<Int>,
     onGoToReference: suspend (Book, Int, Int?) -> String?,
     onReferenceFound: () -> Unit,
+    onBookmarkSelected: (BibleBookmark) -> Unit,
+    onBookmarkDeleted: (BibleBookmark) -> Unit,
     modifier: Modifier = Modifier
 ) {
     LazyColumn(modifier.padding(horizontal = 20.dp)) {
@@ -75,7 +82,40 @@ fun BibleBookListScreen(
                 color = MaterialTheme.colorScheme.secondary
             )
             Spacer(Modifier.height(14.dp))
+        }
 
+        if (bookmarks.isNotEmpty()) {
+            item {
+                Text(stringResource(R.string.read_bookmarks), style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Medium)
+                Spacer(Modifier.height(8.dp))
+            }
+            items(bookmarks, key = { it.id }) { bookmark ->
+                Row(
+                    Modifier
+                        .fillMaxWidth()
+                        .clickable { onBookmarkSelected(bookmark) }
+                        .padding(vertical = 10.dp),
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Text(
+                        "${localizedBookNameById(bookmark.bookId)} ${bookmark.chapter}" +
+                            (bookmark.verse?.let { ":$it" } ?: ""),
+                        style = MaterialTheme.typography.bodyLarge,
+                        modifier = Modifier.weight(1f)
+                    )
+                    IconButton(onClick = { onBookmarkDeleted(bookmark) }) {
+                        Icon(
+                            Icons.Filled.Delete,
+                            contentDescription = stringResource(R.string.read_remove_bookmark)
+                        )
+                    }
+                }
+                HorizontalDivider()
+            }
+            item { Spacer(Modifier.height(20.dp)) }
+        }
+
+        item {
             GoToReferenceCard(
                 books = books,
                 onLoadChapters = onLoadChapters,
@@ -294,10 +334,12 @@ fun BibleReaderScreen(
     highlightVerse: Int?,
     hasPrevious: Boolean,
     hasNext: Boolean,
+    isBookmarked: Boolean,
     onBack: () -> Unit,
     onChapterSelected: (Int) -> Unit,
     onPrevious: () -> Unit,
     onNext: () -> Unit,
+    onToggleBookmark: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     val listState = rememberLazyListState()
@@ -321,8 +363,17 @@ fun BibleReaderScreen(
             Text(
                 "$bookName ${chapter ?: ""}",
                 style = MaterialTheme.typography.titleLarge,
-                fontWeight = FontWeight.Medium
+                fontWeight = FontWeight.Medium,
+                modifier = Modifier.weight(1f)
             )
+            IconButton(onClick = onToggleBookmark) {
+                Icon(
+                    if (isBookmarked) Icons.Filled.Bookmark else Icons.Outlined.BookmarkBorder,
+                    contentDescription = stringResource(
+                        if (isBookmarked) R.string.read_bookmarked else R.string.read_add_bookmark
+                    )
+                )
+            }
         }
 
         if (chapters.isNotEmpty()) {

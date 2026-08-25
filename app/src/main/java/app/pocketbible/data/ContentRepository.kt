@@ -55,4 +55,22 @@ class ContentRepository(private val dao: ContentDao) {
     /** Whether the translation currently shown for [language] includes the deuterocanonical books. */
     suspend fun translationIncludesDeuterocanon(language: String): Boolean =
         dao.translationIncludesDeuterocanon(translationForLanguage(language))
+
+    // ---------- Bible bookmarks ----------
+
+    fun bookmarks(): Flow<List<BibleBookmark>> = dao.bookmarks()
+
+    suspend fun addBookmark(translationId: String, bookId: String, chapter: Int, verse: Int?) {
+        dao.insertBookmark(
+            BibleBookmark(
+                translationId = translationId,
+                bookId = bookId,
+                chapter = chapter,
+                verse = verse,
+                createdAt = System.currentTimeMillis()
+            )
+        )
+    }
+
+    suspend fun removeBookmark(id: Long) = dao.deleteBookmark(id)
 }

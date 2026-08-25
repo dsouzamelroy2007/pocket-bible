@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatDelegate
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
+import app.pocketbible.data.BibleBookmark
 import app.pocketbible.data.Book
 import app.pocketbible.data.CharacterSummary
 import app.pocketbible.data.ContentRepository
@@ -76,6 +77,9 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     private val _scrollToVerse = MutableStateFlow<Int?>(null)
     val scrollToVerse: StateFlow<Int?> = _scrollToVerse.asStateFlow()
 
+    private val _bookmarks = MutableStateFlow<List<BibleBookmark>>(emptyList())
+    val bookmarks: StateFlow<List<BibleBookmark>> = _bookmarks.asStateFlow()
+
     // ---------- Search ----------
 
     private val _searchQuery = MutableStateFlow("")
@@ -112,6 +116,35 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     private suspend fun currentTranslationId(): String = repo.translationForLanguage(currentLanguage())
 
     /**
+     * Replaces each entry's baked passage text with the real scripture text
+     * for whatever translation the current UI language reads in, when that
+     * book/chapter is loaded there. entry_passage always points at the same
+     * curated Passage row regardless of language, so without this, a
+     * topic's verse stayed in that row's original language (English) under
+     * every UI language -- switching to German changed the reflection and
+     * prayer text correctly, but not the verse next to them. Falls back to
+     * the passage's own baked text when the current translation doesn't
+     * have that book yet, so nothing goes blank.
+     */
+    private suspend fun withResolvedPassageText(entries: List<EntrySummary>): List<EntrySummary> {
+        val translationId = currentTranslationId()
+        return entries.map { entry ->
+            val verses = repo.versesForChapter(entry.bookId, entry.chapter, translationId)
+                .filter { it.verse in entry.verseStart..entry.verseEnd }
+            if (verses.isEmpty()) entry
+            else entry.copy(passageText = verses.sortedBy { it.verse }.joinToString(" ") { it.text })
+        }
+    }
+
+    /** Same live-resolution as [withResolvedPassageText], for a single [Passage] (verse-of-day, echo/context passages). */
+    private suspend fun resolvedPassage(passage: Passage): Passage {
+        val verses = repo.versesForChapter(passage.bookId, passage.chapterStart, currentTranslationId())
+            .filter { it.verse in passage.verseStart..passage.verseEnd }
+        if (verses.isEmpty()) return passage
+        return passage.copy(text = verses.sortedBy { it.verse }.joinToString(" ") { it.text }, pullQuote = null)
+    }
+
+    /**
      * Re-issues the language-dependent queries (topics list, saved list, the
      * currently open topic's entries, and the Read tab's book list) if the
      * app's language has changed since the last call. Safe to call on every
@@ -126,7 +159,9 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         if (loadedLanguage == language) return
         loadedLanguage = language
         viewModelScope.launch { repo.feelings(language).collect { _feelings.value = it } }
-        viewModelScope.launch { repo.savedEntries(language).collect { _saved.value = it } }
+        viewModelScope.launch {
+            repo.savedEntries(language).collect { _saved.value = withResolvedPassageText(it) }
+        }
         viewModelScope.launch {
             repo.readableBooks(currentTranslationId()).collect { _readableBooks.value = it }
         }
@@ -135,16 +170,19 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
             repo.characters(language, includeDeuterocanon).collect { _characters.value = it }
         }
         _selectedFeeling.value?.let { feeling ->
-            viewModelScope.launch { _feelingEntries.value = repo.entriesForFeeling(feeling.id, language) }
+            viewModelScope.launch {
+                _feelingEntries.value = withResolvedPassageText(repo.entriesForFeeling(feeling.id, language))
+            }
+        }
+        viewModelScope.launch {
+            val monthDay = LocalDate.now().format(DateTimeFormatter.ofPattern("MM-dd"))
+            _verseOfDay.value = repo.verseOfDay(monthDay)?.let { resolvedPassage(it) }
         }
     }
 
     init {
         ensureFreshForCurrentLanguage()
-        viewModelScope.launch {
-            val monthDay = LocalDate.now().format(DateTimeFormatter.ofPattern("MM-dd"))
-            _verseOfDay.value = repo.verseOfDay(monthDay)
-        }
+        viewModelScope.launch { repo.bookmarks().collect { _bookmarks.value = it } }
     }
 
     fun onSearchQueryChange(query: String) {
@@ -210,6 +248,46 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         return null
     }
 
+    /**
+     * Adds or removes a bookmark at the currently open book/chapter (and
+     * verse, if the reader jumped to one via "go to a verse") -- lets
+     * someone mark their place while reading and jump straight back to it
+     * later from the book list, instead of hunting for it again.
+     */
+    fun toggleBookmarkCurrent() {
+        val book = _selectedBook.value ?: return
+        val chapter = _currentChapter.value ?: return
+        val verse = _scrollToVerse.value
+        val existing = _bookmarks.value.firstOrNull { it.bookId == book.id && it.chapter == chapter && it.verse == verse }
+        viewModelScope.launch {
+            if (existing != null) repo.removeBookmark(existing.id)
+            else repo.addBookmark(currentTranslationId(), book.id, chapter, verse)
+        }
+    }
+
+    /**
+     * Opens a bookmarked reading position. Returns false if that book or
+     * chapter isn't loaded for the current translation anymore (e.g. the
+     * language changed since it was bookmarked), so the caller can leave
+     * the bookmark in place rather than navigating to an empty reader.
+     */
+    suspend fun openBookmark(bookmark: BibleBookmark): Boolean {
+        val translationId = currentTranslationId()
+        val chapters = repo.chaptersForBook(bookmark.bookId, translationId)
+        val book = _readableBooks.value.firstOrNull { it.id == bookmark.bookId }
+        if (book == null || bookmark.chapter !in chapters) return false
+        _selectedBook.value = book
+        _chapters.value = chapters
+        _currentChapter.value = bookmark.chapter
+        _scrollToVerse.value = bookmark.verse
+        _chapterVerses.value = repo.versesForChapter(bookmark.bookId, bookmark.chapter, translationId)
+        return true
+    }
+
+    fun deleteBookmark(id: Long) {
+        viewModelScope.launch { repo.removeBookmark(id) }
+    }
+
     fun nextChapter() {
         val chapters = _chapters.value
         val current = _currentChapter.value ?: return
@@ -231,7 +309,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         _selectedFeeling.value = feeling
         _currentIndex.value = 0
         viewModelScope.launch {
-            _feelingEntries.value = repo.entriesForFeeling(feeling.id, currentLanguage())
+            _feelingEntries.value = withResolvedPassageText(repo.entriesForFeeling(feeling.id, currentLanguage()))
             loadExtraPassages()
             currentEntry?.let { repo.recordView(it.entry.id, feeling.id) }
         }
@@ -251,7 +329,8 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         val entry = currentEntry ?: return
         viewModelScope.launch {
             repo.toggleSave(entry.entry.id, entry.isSaved)
-            _feelingEntries.value = repo.entriesForFeeling(entry.entry.feelingId, currentLanguage())
+            _feelingEntries.value =
+                withResolvedPassageText(repo.entriesForFeeling(entry.entry.feelingId, currentLanguage()))
         }
     }
 
@@ -282,7 +361,9 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         _extraPassages.value = if (entry == null) {
             emptyList()
         } else {
-            repo.passagesForEntry(entry.entry.id).filter { it.role != "primary" }
+            repo.passagesForEntry(entry.entry.id)
+                .filter { it.role != "primary" }
+                .map { it.copy(passage = resolvedPassage(it.passage)) }
         }
     }
 

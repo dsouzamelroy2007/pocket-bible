@@ -111,13 +111,31 @@ private val MIGRATION_3_4 = object : Migration(3, 4) {
     }
 }
 
+/** Adds the bible_bookmark table for the Bible tab's "continue reading" bookmarks. */
+private val MIGRATION_4_5 = object : Migration(4, 5) {
+    override fun migrate(db: SupportSQLiteDatabase) {
+        db.execSQL(
+            """
+            CREATE TABLE IF NOT EXISTS `bible_bookmark` (
+                `id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+                `translation_id` TEXT NOT NULL,
+                `book_id` TEXT NOT NULL,
+                `chapter` INTEGER NOT NULL,
+                `verse` INTEGER,
+                `created_at` INTEGER NOT NULL
+            )
+            """.trimIndent()
+        )
+    }
+}
+
 class PocketBibleApp : Application() {
 
     private val appScope = CoroutineScope(SupervisorJob() + Dispatchers.IO)
 
     val database: ContentDatabase by lazy {
         Room.databaseBuilder(this, ContentDatabase::class.java, "pocketbible.db")
-            .addMigrations(MIGRATION_1_2, MIGRATION_2_3, MIGRATION_3_4)
+            .addMigrations(MIGRATION_1_2, MIGRATION_2_3, MIGRATION_3_4, MIGRATION_4_5)
             // Covers any *future* schema change that doesn't get a real
             // Migration written for it — still prototype-stage safety net,
             // not a substitute for writing migrations as the schema grows.

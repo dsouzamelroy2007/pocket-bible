@@ -34,6 +34,10 @@
     <string name="read_chapter_out_of_range">Gib ein Kapitel zwischen 1 und %1$d ein.</string>
     <string name="read_previous">Vorheriges</string>
     <string name="read_next">Weiter</string>
+    <string name="read_bookmarks">Lesezeichen</string>
+    <string name="read_add_bookmark">Lesezeichen setzen</string>
+    <string name="read_bookmarked">Lesezeichen gesetzt</string>
+    <string name="read_remove_bookmark">Lesezeichen entfernen</string>
 
     <string name="saved_title">Gespeichert</string>
     <string name="saved_empty">Verse, die du speicherst, erscheinen hier und bleiben offline verfügbar.</string>

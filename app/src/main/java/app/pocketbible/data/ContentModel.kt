@@ -234,6 +234,24 @@ data class ViewHistory(
     @ColumnInfo(name = "viewed_at") val viewedAt: Long
 )
 
+/**
+ * A saved reading position in the Bible tab -- book/chapter, and the verse
+ * if the reader had jumped to one, for whichever translation was open when
+ * it was bookmarked. Tapping it later reopens that spot as long as the
+ * current translation still has that book/chapter loaded; [openBookmark] in
+ * the ViewModel is what checks that and no-ops otherwise, the same way
+ * [MainViewModel.goToReference] already handles an unloaded reference.
+ */
+@Entity(tableName = "bible_bookmark")
+data class BibleBookmark(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    @ColumnInfo(name = "translation_id") val translationId: String,
+    @ColumnInfo(name = "book_id") val bookId: String,
+    val chapter: Int,
+    val verse: Int?,
+    @ColumnInfo(name = "created_at") val createdAt: Long
+)
+
 // ---------- Read models used by the UI ----------
 
 data class EntrySummary(
@@ -244,7 +262,16 @@ data class EntrySummary(
     @ColumnInfo(name = "reference_display") val referenceDisplay: String,
     @ColumnInfo(name = "reference_alt") val referenceAlt: String?,
     @ColumnInfo(name = "is_saved") val isSaved: Boolean,
-    @ColumnInfo(name = "last_viewed") val lastViewed: Long?
+    @ColumnInfo(name = "last_viewed") val lastViewed: Long?,
+    // The passage's citation, carried along so the current translation's real
+    // verse text can be resolved live from scripture_verse -- entry_passage
+    // always points at the same Passage row regardless of language, so
+    // passage_text/pull_quote above are only ever that row's original
+    // (English) text unless something re-resolves them per translation.
+    @ColumnInfo(name = "book_id") val bookId: String,
+    val chapter: Int,
+    @ColumnInfo(name = "verse_start") val verseStart: Int,
+    @ColumnInfo(name = "verse_end") val verseEnd: Int
 )
 
 data class PassageWithRole(
@@ -302,7 +329,11 @@ interface ContentDao {
                p.reference_display AS reference_display,
                p.reference_alt AS reference_alt,
                (s.entry_id IS NOT NULL) AS is_saved,
-               (SELECT MAX(viewed_at) FROM view_history h WHERE h.entry_id = e.id) AS last_viewed
+               (SELECT MAX(viewed_at) FROM view_history h WHERE h.entry_id = e.id) AS last_viewed,
+               p.book_id AS book_id,
+               p.chapter_start AS chapter,
+               p.verse_start AS verse_start,
+               p.verse_end AS verse_end
         FROM entry e
         JOIN feeling f ON f.id = e.feeling_id
         LEFT JOIN feeling_translation ft ON ft.feeling_id = f.id AND ft.language = :language
@@ -369,7 +400,11 @@ interface ContentDao {
                p.reference_display AS reference_display,
                p.reference_alt AS reference_alt,
                1 AS is_saved,
-               (SELECT MAX(viewed_at) FROM view_history h WHERE h.entry_id = e.id) AS last_viewed
+               (SELECT MAX(viewed_at) FROM view_history h WHERE h.entry_id = e.id) AS last_viewed,
+               p.book_id AS book_id,
+               p.chapter_start AS chapter,
+               p.verse_start AS verse_start,
+               p.verse_end AS verse_end
         FROM saved_entry s
         JOIN entry e ON e.id = s.entry_id
         JOIN feeling f ON f.id = e.feeling_id
@@ -438,6 +473,17 @@ interface ContentDao {
 
     @Query("SELECT * FROM character_verse_ref WHERE character_id = :characterId ORDER BY position")
     suspend fun verseRefsForCharacter(characterId: String): List<CharacterVerseRef>
+
+    // ---------- Bible bookmarks ----------
+
+    @Query("SELECT * FROM bible_bookmark ORDER BY created_at DESC")
+    fun bookmarks(): Flow<List<BibleBookmark>>
+
+    @Insert
+    suspend fun insertBookmark(bookmark: BibleBookmark)
+
+    @Query("DELETE FROM bible_bookmark WHERE id = :id")
+    suspend fun deleteBookmark(id: Long)
 }
 
 /** Bulk inserts used once, on first launch, to hydrate the bundled content. */
@@ -492,9 +538,10 @@ interface SeedDao {
         FeelingAlias::class, FeelingTranslation::class, Entry::class, EntryTranslation::class,
         EntryPassage::class, DailyPassage::class,
         SavedEntry::class, ViewHistory::class, ScriptureVerse::class,
-        BibleCharacter::class, CharacterTranslation::class, CharacterVerseRef::class
+        BibleCharacter::class, CharacterTranslation::class, CharacterVerseRef::class,
+        BibleBookmark::class
     ],
-    version = 4,
+    version = 5,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {

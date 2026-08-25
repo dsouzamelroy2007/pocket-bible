@@ -38,6 +38,10 @@
     <string name="read_chapter_out_of_range">Enter a chapter between 1 and %1$d.</string>
     <string name="read_previous">Previous</string>
     <string name="read_next">Next</string>
+    <string name="read_bookmarks">Bookmarks</string>
+    <string name="read_add_bookmark">Bookmark this chapter</string>
+    <string name="read_bookmarked">Bookmarked</string>
+    <string name="read_remove_bookmark">Remove bookmark</string>
 
     <!-- Saved tab -->
     <string name="saved_title">Saved</string>
