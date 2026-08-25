@@ -4,6 +4,7 @@
     <string name="nav_topics">विषय</string>
     <string name="nav_read">बाइबिल</string>
     <string name="nav_saved">सहेजे गए</string>
+    <string name="nav_characters">व्यक्तित्व</string>
 
     <string name="language_button">भाषा</string>
     <string name="language_system_default">सिस्टम डिफ़ॉल्ट</string>
@@ -33,9 +34,32 @@
     <string name="read_chapter_out_of_range">1 और %1$d के बीच का अध्याय दर्ज करें।</string>
     <string name="read_previous">पिछला</string>
     <string name="read_next">अगला</string>
+    <string name="read_bookmarks">बुकमार्क</string>
+    <string name="read_add_bookmark">बुकमार्क करें</string>
+    <string name="read_bookmarked">बुकमार्क किया गया</string>
+    <string name="read_remove_bookmark">बुकमार्क हटाएं</string>
 
     <string name="saved_title">सहेजे गए</string>
     <string name="saved_empty">आपके सहेजे गए पद यहां दिखाई देते हैं और ऑफ़लाइन भी उपलब्ध रहते हैं।</string>
+
+    <!-- Personalities tab -->
+    <string name="character_title">व्यक्तित्व</string>
+    <string name="character_subtitle">बाइबिल के लोगों को जानें और उनकी कहानी बताने वाले पदों को पढ़ें।</string>
+    <string name="character_search_placeholder">नाम से खोजें</string>
+    <string name="character_no_matches">इस खोज से कोई व्यक्ति मेल नहीं खाता।</string>
+    <string name="character_famous_verses">उनके बारे में पद</string>
+    <string name="character_verse_unavailable">इस भाषा में अभी उपलब्ध नहीं है।</string>
+    <string name="character_category_central">केंद्रीय व्यक्तित्व</string>
+    <string name="character_category_holy_family">पवित्र परिवार और अग्रदूत</string>
+    <string name="character_category_apostles">बारह प्रेरित</string>
+    <string name="character_category_early_church">आरंभिक कलीसिया</string>
+    <string name="character_category_women_and_others">यीशु के आसपास की स्त्रियां और अन्य</string>
+    <string name="character_category_opposed_jesus">यीशु का विरोध करने वाले</string>
+    <string name="character_category_patriarchs">कुलपिता और आरंभिक उत्पत्ति</string>
+    <string name="character_category_exodus_judges">निर्गमन से न्यायियों तक</string>
+    <string name="character_category_kingdom">राजतंत्र का काल</string>
+    <string name="character_category_prophets">भविष्यद्वक्ता</string>
+    <string name="character_category_post_exile">बंधुआई के बाद का काल और द्वितीय-प्रामाणिक पुस्तकें</string>
 
     <string name="verse_no_entries">%1$s के लिए अभी तक कोई प्रविष्टि नहीं है।</string>
     <string name="verse_what_it_means">आपके लिए इसका क्या अर्थ है</string>

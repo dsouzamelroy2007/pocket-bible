@@ -4,6 +4,7 @@
     <string name="nav_topics">Sujets</string>
     <string name="nav_read">Bible</string>
     <string name="nav_saved">Enregistrés</string>
+    <string name="nav_characters">Personnalités</string>
 
     <string name="language_button">Langue</string>
     <string name="language_system_default">Système par défaut</string>
@@ -33,9 +34,32 @@
     <string name="read_chapter_out_of_range">Indiquez un chapitre entre 1 et %1$d.</string>
     <string name="read_previous">Précédent</string>
     <string name="read_next">Suivant</string>
+    <string name="read_bookmarks">Signets</string>
+    <string name="read_add_bookmark">Ajouter un signet</string>
+    <string name="read_bookmarked">Signet ajouté</string>
+    <string name="read_remove_bookmark">Supprimer le signet</string>
 
     <string name="saved_title">Enregistrés</string>
     <string name="saved_empty">Les versets que tu enregistres apparaissent ici et restent disponibles hors ligne.</string>
+
+    <!-- Personalities tab -->
+    <string name="character_title">Personnalités</string>
+    <string name="character_subtitle">Découvre les personnages de la Bible et les versets qui racontent leur histoire.</string>
+    <string name="character_search_placeholder">Rechercher par nom</string>
+    <string name="character_no_matches">Aucune personne ne correspond à cette recherche.</string>
+    <string name="character_famous_verses">Versets à leur sujet</string>
+    <string name="character_verse_unavailable">Pas encore disponible dans cette langue.</string>
+    <string name="character_category_central">La figure centrale</string>
+    <string name="character_category_holy_family">Sainte Famille et précurseurs</string>
+    <string name="character_category_apostles">Les douze apôtres</string>
+    <string name="character_category_early_church">L\'Église primitive</string>
+    <string name="character_category_women_and_others">Femmes et autres autour de Jésus</string>
+    <string name="character_category_opposed_jesus">Les opposants de Jésus</string>
+    <string name="character_category_patriarchs">Patriarches et débuts de la Genèse</string>
+    <string name="character_category_exodus_judges">De l\'Exode aux Juges</string>
+    <string name="character_category_kingdom">L\'époque des rois</string>
+    <string name="character_category_prophets">Prophètes</string>
+    <string name="character_category_post_exile">Période post-exilique et deutérocanoniques</string>
 
     <string name="verse_no_entries">Pas encore d\'entrées pour %1$s.</string>
     <string name="verse_what_it_means">Ce que cela signifie pour toi</string>
