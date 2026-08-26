@@ -8,6 +8,11 @@ live here rather than under `app/src/main/res/`.
   design as the in-app launcher icon (`app/src/main/res/mipmap-*/ic_launcher*.png`),
   rendered full-bleed with no adaptive-icon safe-zone padding, since Play applies
   its own icon shape at listing time.
+- `listing-copy.md` — draft short/long descriptions and submission notes.
+- `screenshots/` — 9 real on-device phone screenshots, cropped to 1440×2880
+  (exactly 2:1, within Play's aspect-ratio limit) with the status bar and
+  system nav bar removed. Ready to upload as-is under Store presence → Main
+  store listing → Phone screenshots.
 
-Still needed before submission: a 1024×500 feature graphic and phone/tablet
-screenshots — none of that exists yet.
+Still needed before submission: a 1024×500 feature graphic. Tablet
+screenshots are optional unless the listing declares tablet support.
