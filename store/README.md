@@ -13,6 +13,13 @@ live here rather than under `app/src/main/res/`.
   (exactly 2:1, within Play's aspect-ratio limit) with the status bar and
   system nav bar removed. Ready to upload as-is under Store presence → Main
   store listing → Phone screenshots.
+- `feature_graphic_1024x500.png` — the banner for Store presence → Main
+  store listing → Feature graphic. Same navy/gold identity as the app icon,
+  built from the icon artwork plus the `01-topics-home.jpg` screenshot in a
+  phone frame, generated from `tools/` — regenerate by re-running the build
+  script if the icon or headline copy changes rather than editing the PNG
+  by hand.
 
-Still needed before submission: a 1024×500 feature graphic. Tablet
-screenshots are optional unless the listing declares tablet support.
+Tablet screenshots are optional unless the listing declares tablet support.
+Everything else needed for the Play Console Main store listing page now
+exists in this folder.
