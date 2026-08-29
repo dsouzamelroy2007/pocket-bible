@@ -1,9 +1,21 @@
 # Pocket Bible — prototype
 
-A Catholic pocket-Bible Android app: pick how you're feeling, get a verse,
-a plain-language reflection, and a short prayer — fully offline. This is
-the **prototype**: real, runnable source, built to validate the concept on
-a phone before investing in production polish.
+## About
+
+**Pocket Bible** is a contemplative Catholic Android app designed to meet you in the moment. Select how you're feeling—fear, doubt, anxiety, loss, joy—and instantly receive a relevant Bible passage, a plain-language reflection, and a thoughtful prayer. Everything is bundled offline, so you can access spiritual guidance anytime, anywhere, without an internet connection.
+
+This is the **prototype**: real, runnable source, built to validate the concept on a device before investing in production polish. It demonstrates a scalable architecture for multi-language support, offline scripture delivery, and devotional content management.
+
+**Features:**
+- 📖 Full 73-book Catholic Bible canon (English, with German support)
+- 🌍 Multi-language UI (English, German, French, Portuguese, Spanish, Hindi, Italian, Marathi)
+- ❤️ Curated feelings-to-passages mapping with reflections and prayers
+- ✝️ Fully offline—no network required
+- 💾 Save favorite passages to your device
+- 🔍 Search by feeling and quick-access "Verse of the Day"
+- 🎨 Material3 design with category-specific accent colors
+
+---
 
 ## What's here
 
