@@ -84,6 +84,137 @@ side-by-side with the live v1 app on the same device.
   users who opt in, containing the verse of the day, the daily
   reading/reflection, and that day's mapped biblical character.
 
+## Version 2 Phased Plan
+
+Phases 1–3 are pure content + in-app work, no new infrastructure, and can
+each ship independently. Phase 4 is the one architectural pivot — it's the
+only part of v2 that needs the app (or an external surface) to talk to a
+network at all. Phase 5 is the pre-release cleanup every other phase
+leaves behind.
+
+**Cross-cutting strategy**: for every content phase below, ship
+English-complete first and let the existing fallback-to-English mechanism
+(`feeling_translation`/`entry_translation`/`character_translation`
+pattern in `ContentModel.kt`) cover the other 7 languages until each is
+translated — this is exactly how the current 27 topics and 114 characters
+already degrade gracefully for a language with partial coverage, so v2's
+much larger content volume doesn't have to block on translating
+everything before anything ships.
+
+### Phase 1 — Biblical characters: 114 → 366
+
+- Current state: `characters.json` has 114 characters, each with
+  `sort_order` but no day mapping; `character_translations/<lang>.json`
+  and `character_verse_ref_translations/<lang>.json` hold per-language
+  overrides for the existing 114.
+- Add a `month_day` field (e.g. `"12-25"`) per character, one entry per
+  calendar day including `02-29`, mirroring the `month_day` convention
+  `daily_passages` already uses in `topics.json` — reuse it rather than a
+  day-of-year integer, since it sidesteps leap-year arithmetic entirely.
+- Build the day-to-character map first as its own review pass (a
+  spreadsheet or a plain data file of `date -> character -> why`) before
+  writing the 252 new character entries, since getting the mapping
+  theologically/liturgically right is the part that needs judgment, not
+  content volume.
+- Author the 252 new characters (intro + ≥4 verse_refs each, English
+  first), bump `content_version` in `manifest.json`, extend
+  `SeedLoader`/`ContentModel.kt` for the new field.
+- Translate incrementally into the other 7 languages afterward (see
+  cross-cutting strategy).
+
+### Phase 2 — Verse of the Day: true 365/366, all languages
+
+- Current state: `daily_passages` in `topics.json` already has 366
+  `month_day` entries, but only 108 distinct passages cycling by
+  rotation (per the file's own `_note`), English only.
+- Curate 365/366 independently-picked, verified verses (checked against
+  the WEB-CE source the same way the original 14 topics were, per the
+  existing verification caveat already on record in `topics.json`) — not
+  a rotation of a smaller set.
+- Translate the daily verse pool into all 8 UI languages (same
+  incremental/fallback strategy as Phase 1). Note this is verse
+  *selection*, not re-translating scripture text — the actual verse text
+  still resolves from each language's existing `scripture/<translation-id>/`
+  files, same mechanism the Read tab and Characters tab already use.
+
+### Phase 3 — Daily Catholic lectionary readings
+
+- New one-time+annual pipeline: fetch 2026's daily citations (readings,
+  responsorial psalm) from
+  [cpbjr/catholic-readings-api](https://github.com/cpbjr/catholic-readings-api),
+  write them once into a new `content/lectionary/2026.json` (or similar),
+  and add the small manually-maintained solemnity fallback table noted in
+  the v2 scope above. This can be a script under `tools/`, run manually or
+  via a scheduled GitHub Actions job that commits the cached result —
+  either way, the app never calls the API directly.
+- Because these are citations only (book/chapter/verse, like
+  `character.verse_refs` already are), the actual reading text resolves
+  the same way character verse references already do: live lookup
+  against the bundled `scripture_verse` table for whichever translation
+  is current. No new copyright exposure, no new bundled text.
+- Reflections are original devotional prose (like topic reflections),
+  authored per day, English first.
+- New Room entity/DAO for the daily reading (date → reading refs + psalm
+  ref + reflection id), a manifest.json entry, and a Daily Reading screen
+  in the app.
+- Recurs yearly: this phase's citation set only covers through December
+  2026; extending through 2027 is v3's job, not v2's.
+
+### Phase 4 — Daily notifications (email + WhatsApp)
+
+The only phase that needs something outside the Android app itself —
+today the app ships with no `INTERNET` permission and the privacy policy
+states no data is collected, so this phase changes that story and needs
+its own privacy-policy update, not just a feature flag.
+
+**Open decisions, with a recommended default** (easy to revisit, this is
+just where the plan currently leans):
+
+- *Where does opt-in happen?* Recommended: a small external landing
+  page + lightweight backend (not an in-app screen), so the Android app
+  itself stays offline/no-network as documented, and this feature can
+  ship without changing the app's permission model or Play Store
+  data-safety declarations at all. In-app opt-in is a reasonable
+  alternative if discoverability matters more than keeping the app
+  fully offline — worth an explicit call before building.
+- *Email provider*: any transactional provider (SES, SendGrid, Mailgun,
+  Postmark) — low complexity, no special approval process.
+- *WhatsApp provider*: needs a WhatsApp Business Platform account
+  (direct via Meta Cloud API, or a BSP like Twilio/360dialog), business
+  verification, and pre-approved message templates for proactive daily
+  sends (WhatsApp doesn't allow free-form outbound messages outside a
+  24-hour user-initiated session window) — meaningfully more lead time
+  than email. Recommend shipping email first, WhatsApp as a follow-on
+  sub-phase once verification is in hand.
+- *Scheduler*: a dedicated cloud scheduler (e.g. Cloudflare Workers Cron
+  Triggers, GCP Cloud Scheduler, AWS EventBridge) over a GitHub Actions
+  `schedule` trigger — GH Actions cron is free but has documented firing
+  delays, worse right at common times like 06:00 UTC.
+
+**Tasks once those are settled**: opt-in capture (email + WhatsApp
+number + consent), a small store of subscriber preferences, the 06:00
+GMT job that assembles the day's payload (verse of the day + reading/
+reflection + mapped character, from Phases 1–3) and sends it, unsubscribe
+handling, and the privacy-policy rewrite.
+
+### Phase 5 — Compliance, translation catch-up, release prep
+
+- Finish translating Phases 1–3 content into all 8 languages (whatever's
+  still English-only via fallback).
+- Update `docs/privacy-policy.html` for whatever Phase 4 actually
+  collects.
+- **Before this branch is ever released**: revert `applicationId`
+  (`app.pocketbible.v2` → `app.pocketbible`), the app label ("Pocket
+  Bible V2" → "Pocket Bible"), and the CI APK filename back to match v1
+  (in `app/build.gradle.kts` and `.github/workflows/build-apk.yml`) —
+  those were only set up so a v2 debug build could sit side-by-side with
+  v1 during development. Shipping v2 under a different `applicationId`
+  would make Play Store treat it as a brand-new app/listing instead of
+  an update to the existing one.
+- Full regression pass across languages, offline behavior (everything
+  except Phase 4's opt-in/send path must still work with no network),
+  and the closed-testing checklist v1 already went through.
+
 ## License
 
 See the repository for license information.
