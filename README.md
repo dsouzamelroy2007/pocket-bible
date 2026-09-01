@@ -6,6 +6,15 @@
 
 This is the **prototype**: real, runnable source, built to validate the concept on a device before investing in production polish. It demonstrates a scalable architecture for multi-language support, offline scripture delivery, and devotional content management.
 
+> **This `v2` branch** is where version 2 development happens, kept
+> separate from `main` (v1) and not merged back until v1's closed testing
+> completes and it's live in production. To let a v2 debug build install
+> alongside the live v1 app, this branch uses its own `applicationId`
+> (`app.pocketbible.v2`), app label ("Pocket Bible V2"), and CI-built APK
+> filename (`pocket-bible-v2-debug.apk`) — see
+> [.github/ABOUT.md](.github/ABOUT.md#version-2-scope) for the full v2
+> scope.
+
 **Features:**
 - 📖 Full 73-book Catholic Bible canon (English, with German support)
 - 🌍 Multi-language UI (English, German, French, Portuguese, Spanish, Hindi, Italian, Marathi)

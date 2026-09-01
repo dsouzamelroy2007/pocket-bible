@@ -2,7 +2,7 @@ name: Build debug APK
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, v2 ]
   workflow_dispatch:
 
 jobs:
@@ -26,5 +26,5 @@ jobs:
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: pocket-bible-debug-apk
-          path: app/build/outputs/apk/debug/app-debug.apk
+          name: pocket-bible-v2-debug-apk
+          path: app/build/outputs/apk/debug/pocket-bible-v2-debug.apk

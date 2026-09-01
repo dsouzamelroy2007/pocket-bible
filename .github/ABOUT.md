@@ -51,6 +51,39 @@ See the main [README.md](../README.md#running-it) for build and run instructions
 - Accessibility audit and dark-mode contrast verification
 - Production app signing and Play Store release
 
+## Version 2 Scope
+
+In development on the `v2` branch, kept separate from `main` and not merged
+back until v1 finishes closed testing and goes live in production. The
+`v2` branch also has its own `applicationId` (`app.pocketbible.v2`), app
+label ("Pocket Bible V2"), and CI-built APK filename
+(`pocket-bible-v2-debug.apk`), so a v2 debug build can be installed
+side-by-side with the live v1 app on the same device.
+
+- **Biblical characters, 114 → 366**: one character per calendar day
+  (366 to cover a leap year), each day mapped to a character chosen for
+  that day's liturgical or scriptural significance — e.g. Jesus Christ on
+  December 25, Joseph (father of Jesus) on May 1, Mother Mary on
+  September 8.
+- **Verse of the Day, all languages**: 365 distinct motivational verses
+  (366 for leap years) rotated one-per-day, translated into every
+  supported UI language rather than English-only.
+- **Daily Catholic readings**: daily Mass readings, responsorial psalm,
+  and reflections, driven by lectionary citations (not full USCCB text)
+  fetched from [cpbjr/catholic-readings-api](https://github.com/cpbjr/catholic-readings-api)
+  (free, open-source, GitHub Pages, verified against US Catholic
+  liturgical norms and the General Roman Calendar for the United
+  States). Citations only, fetched once and cached permanently into this
+  repo by a scheduled job — never re-fetched live on page load — with a
+  small manually-maintained fallback table for major solemnities in case
+  the source ever goes dark. Since lectionary citations are published a
+  year at a time, each build version covers through the end of a given
+  year: v2 covers through December 2026, v3 will extend through the end
+  of 2027, and so on.
+- **Daily notifications (email + WhatsApp)**: sent at 6:00 AM GMT to
+  users who opt in, containing the verse of the day, the daily
+  reading/reflection, and that day's mapped biblical character.
+
 ## License
 
 See the repository for license information.
