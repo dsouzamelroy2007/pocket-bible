@@ -1,5 +1,5 @@
 {
-  "_note": "Characters tab content, English base. 'intro' is original devotional-style prose written for this app, not scripture text. 'verse_refs' are citations (book_id/chapter/verse_start/verse_end + a short caption) -- no verse text is stored here; the app looks up the real text live from scripture_verse for whichever translation is current, same as the Read tab. Aimed for at least 4 citations per character; a handful of minor figures whose entire footprint in scripture is only 2-3 verses have fewer, since padding would mean citing verses that aren't really about them. References were compiled from general knowledge of well-known passages, not copied from a concordance -- worth a spot-check pass before wide release, same caveat as the rest of this prototype's authored content. 'requires_deuterocanon' hides a character automatically for a translation whose books don't include their source book (currently just Tobit and Judith). UPDATE (v2 calendar): the character_of_day array below (month_day -> character_id, same shape as topics.json's daily_passages) is this character's calendar -- REFACTORED from an earlier version that put a single month_day directly on each character, which couldn't support a character repeating on more than one day; now several month_days can point at the same character_id, exactly like daily_passages already does for verses. Where a real Catholic (General Roman Calendar) feast day applies and isn't already claimed by another figure sharing that same official day, it is used (e.g. Dec 25 Jesus, Jun 29 Peter, Jul 25 James son of Zebedee). Old Testament figures have no Catholic feast day at all (the Latin rite does not canonize/feast-date OT figures), so patriarchs/exodus_judges/kingdom/prophets/post_exile are placed in canonical narrative order across a dedicated Jan-Mar block instead -- an editorial choice, not a liturgical claim. The same narrative-order approach fills in NT/early-church figures who share an official day with someone else already dated (e.g. James son of Alphaeus and Simon the Zealot, whose shared apostolic feast went to Philip and Jude respectively). REVISION: beyond real feast days and Old-Testament narrative order, 17 more characters were moved onto specific thematic anchors instead of generic sequence -- e.g. Moses on Aug 6 (Transfiguration, where he appears in the Gospel scene itself), Elijah on Jul 16 (Our Lady of Mount Carmel, the Carmelite order's own founding tradition), Job on Nov 2 (All Souls Day -- 'I know that my Redeemer lives', the traditional Requiem text), Melchizedek on Jul 1 (the pre-1969 Feast of the Most Precious Blood -- he brought out bread and wine and is named alongside Abel and Abraham in the Roman Canon), Herod the Great on Dec 28 (Holy Innocents, the massacre he ordered), Herod Antipas/Herodias on Aug 29-30 (the Beheading of John the Baptist, which they engineered), and Caiaphas/Pilate on Sep 13-14 (the day before and the Feast of the Exaltation of the Holy Cross -- the judges who sent Jesus to it). A few apostles/siblings who lost a shared-feast tiebreak (James son of Alphaeus, Simon the Zealot, Titus, Mary of Bethany, Lazarus) were moved to sit the day(s) right after their feast-day partner instead of a generic sequence slot, keeping the pairing visible. ROUND 3: pushed further into the Dec 17-23 O Antiphons (each names a Messianic title, several of which are literally about a specific OT figure) and a couple of direct prophecy-fulfillment days -- Solomon on Dec 17 (O Sapientia/O Wisdom, the OT wisdom king), David on Dec 20 (O Clavis David/O Key of David, names him outright), Bathsheba and Nathan on Dec 21-22 (the sin the antiphon's grace answers, and the confrontation that brought repentance), Ahab and Jezebel on Jul 18-19 (right after Elijah/Elisha -- the king and the Baal-prophets' patron he directly faced down at Mount Carmel, 1 Kings 18), Isaiah on Mar 25 (the Annunciation's own OT reading is his 'the virgin shall conceive', Isa 7:14), and Micah on Jan 6 (Epiphany -- his Bethlehem prophecy, Mic 5:2, is what the chief priests quote to Herod in Matthew 2:6). 50 of 114 are now on a real anchor; the remaining 64 -- mostly Old Testament figures with no comparable connection found -- stay in canonical narrative order. RECONCILIATION CONTENT: 12 characters whose defining role is a sin the reader might recognize in themselves -- Judas Iscariot, Herod the Great, Herod Antipas, Herodias, Caiaphas, Pontius Pilate, Cain, Delilah, Ahab, Jezebel, Saul, and Absalom -- now carry optional 'reflection' and 'prayer' fields (null for every other character): reflection names the specific sin and why it was wrong, cited to the text, not just narrating their story; prayer is a short first-person prayer of turning away from that same temptation. Shown in the Characters tab detail screen only when present. Not yet translated (character_translation has no reflection/prayer columns) -- falls back to English everywhere until that's added. 252 days are still open for new characters (v2 scope: 114 -> 366); once those are filled, any remaining days repeat an already-placed character rather than force in a thin/padding figure just to hit 366 -- same philosophy as daily_passages' own rotation.",
+  "_note": "Characters tab content, English base. 'intro' is original devotional-style prose written for this app, not scripture text. 'verse_refs' are citations (book_id/chapter/verse_start/verse_end + a short caption) -- no verse text is stored here; the app looks up the real text live from scripture_verse for whichever translation is current, same as the Read tab. Aimed for at least 4 citations per character; a handful of minor figures whose entire footprint in scripture is only 2-3 verses have fewer, since padding would mean citing verses that aren't really about them. References were compiled from general knowledge of well-known passages, not copied from a concordance -- worth a spot-check pass before wide release, same caveat as the rest of this prototype's authored content. 'requires_deuterocanon' hides a character automatically for a translation whose books don't include their source book (currently just Tobit and Judith). UPDATE (v2 calendar): the character_of_day array below (month_day -> character_id, same shape as topics.json's daily_passages) is this character's calendar -- REFACTORED from an earlier version that put a single month_day directly on each character, which couldn't support a character repeating on more than one day; now several month_days can point at the same character_id, exactly like daily_passages already does for verses. Where a real Catholic (General Roman Calendar) feast day applies and isn't already claimed by another figure sharing that same official day, it is used (e.g. Dec 25 Jesus, Jun 29 Peter, Jul 25 James son of Zebedee). Old Testament figures have no Catholic feast day at all (the Latin rite does not canonize/feast-date OT figures), so patriarchs/exodus_judges/kingdom/prophets/post_exile are placed in canonical narrative order across a dedicated Jan-Mar block instead -- an editorial choice, not a liturgical claim. The same narrative-order approach fills in NT/early-church figures who share an official day with someone else already dated (e.g. James son of Alphaeus and Simon the Zealot, whose shared apostolic feast went to Philip and Jude respectively). REVISION: beyond real feast days and Old-Testament narrative order, 17 more characters were moved onto specific thematic anchors instead of generic sequence -- e.g. Moses on Aug 6 (Transfiguration, where he appears in the Gospel scene itself), Elijah on Jul 16 (Our Lady of Mount Carmel, the Carmelite order's own founding tradition), Job on Nov 2 (All Souls Day -- 'I know that my Redeemer lives', the traditional Requiem text), Melchizedek on Jul 1 (the pre-1969 Feast of the Most Precious Blood -- he brought out bread and wine and is named alongside Abel and Abraham in the Roman Canon), Herod the Great on Dec 28 (Holy Innocents, the massacre he ordered), Herod Antipas/Herodias on Aug 29-30 (the Beheading of John the Baptist, which they engineered), and Caiaphas/Pilate on Sep 13-14 (the day before and the Feast of the Exaltation of the Holy Cross -- the judges who sent Jesus to it). A few apostles/siblings who lost a shared-feast tiebreak (James son of Alphaeus, Simon the Zealot, Titus, Mary of Bethany, Lazarus) were moved to sit the day(s) right after their feast-day partner instead of a generic sequence slot, keeping the pairing visible. ROUND 3: pushed further into the Dec 17-23 O Antiphons (each names a Messianic title, several of which are literally about a specific OT figure) and a couple of direct prophecy-fulfillment days -- Solomon on Dec 17 (O Sapientia/O Wisdom, the OT wisdom king), David on Dec 20 (O Clavis David/O Key of David, names him outright), Bathsheba and Nathan on Dec 21-22 (the sin the antiphon's grace answers, and the confrontation that brought repentance), Ahab and Jezebel on Jul 18-19 (right after Elijah/Elisha -- the king and the Baal-prophets' patron he directly faced down at Mount Carmel, 1 Kings 18), Isaiah on Mar 25 (the Annunciation's own OT reading is his 'the virgin shall conceive', Isa 7:14), and Micah on Jan 6 (Epiphany -- his Bethlehem prophecy, Mic 5:2, is what the chief priests quote to Herod in Matthew 2:6). 50 of 114 are now on a real anchor; the remaining 64 -- mostly Old Testament figures with no comparable connection found -- stay in canonical narrative order. RECONCILIATION CONTENT: 12 characters whose defining role is a sin the reader might recognize in themselves -- Judas Iscariot, Herod the Great, Herod Antipas, Herodias, Caiaphas, Pontius Pilate, Cain, Delilah, Ahab, Jezebel, Saul, and Absalom -- now carry optional 'reflection' and 'prayer' fields (null for every other character): reflection names the specific sin and why it was wrong, cited to the text, not just narrating their story; prayer is a short first-person prayer of turning away from that same temptation. Shown in the Characters tab detail screen only when present. Not yet translated (character_translation has no reflection/prayer columns) -- falls back to English everywhere until that's added. COMPLETE: all 366 days now filled -- 114 original characters, 166 new ones (Old Testament figures, Gospel-era named/titled figures, and the fuller Acts/Epistles cast), and 86 repeat days cycling a pool of ~29 central figures (Jesus, Mary, the apostles, evangelists, Moses, David, Elijah, Isaiah, Daniel, Solomon, Job, Stephen, Barnabas) 2-3 times each. 280 distinct characters total.",
   "characters": [
     {
       "id": "jesus",
@@ -8569,6 +8569,1261 @@
           "caption": "Return glorifying and praising God for all they had heard and seen"
         }
       ]
+    },
+    {
+      "id": "ananias-and-sapphira",
+      "name": "Ananias and Sapphira",
+      "category": "early_church",
+      "sort_order": 240,
+      "requires_deuterocanon": false,
+      "intro": "A husband and wife in the early church who sold property, secretly kept back part of the proceeds, and lied to the apostles that they'd given it all -- and both died on the spot when Peter exposed the lie.",
+      "reflection": "No one demanded they give everything -- Peter says plainly the money and the land were theirs to do with as they wished (Acts 5:4). Their sin wasn't keeping some of it back; it was pretending they hadn't, wanting the appearance of total generosity without the actual cost of it. \"You have not lied to men, but to God\" -- the lie mattered more than the money ever did.",
+      "prayer": "Lord, don't let me perform a generosity or faith I haven't actually paid for. Let what I show be true, even when the truth is smaller than the image.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 5,
+          "verse_start": 1,
+          "verse_end": 2,
+          "caption": "Sell property, secretly keep back part of the proceeds"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 5,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Peter: \"why has Satan filled your heart to lie to the Holy Spirit?\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 5,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "Ananias falls down and dies on hearing this"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 5,
+          "verse_start": 9,
+          "verse_end": 10,
+          "caption": "Sapphira repeats the lie, and dies the same way"
+        }
+      ]
+    },
+    {
+      "id": "ananias-of-damascus",
+      "name": "Ananias of Damascus",
+      "category": "early_church",
+      "sort_order": 241,
+      "requires_deuterocanon": false,
+      "intro": "A disciple in Damascus, understandably afraid of the man who'd been persecuting Christians, who obeyed God's call to go lay hands on Saul anyway -- restoring his sight and welcoming him into the church.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 9,
+          "verse_start": 13,
+          "verse_end": 14,
+          "caption": "Objects: he has heard of this man's reputation"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 9,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "Told Saul is God's \"chosen instrument\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 9,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Lays hands on Saul, calls him \"brother\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 9,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "Scales fall from Saul's eyes; he is baptized"
+        }
+      ]
+    },
+    {
+      "id": "gamaliel",
+      "name": "Gamaliel",
+      "category": "early_church",
+      "sort_order": 242,
+      "requires_deuterocanon": false,
+      "intro": "A respected Pharisee and teacher of the Law -- Paul's own teacher, in fact -- whose cautious, level-headed advice to the Sanhedrin may have spared the apostles' lives.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 5,
+          "verse_start": 34,
+          "verse_end": 35,
+          "caption": "A teacher \"honored by all the people\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 5,
+          "verse_start": 38,
+          "verse_end": 39,
+          "caption": "\"If this plan is of men, it will be overthrown; but if it's of God, you will not be able to overthrow it\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 22,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Paul later names him as the teacher \"at the feet of Gamaliel\""
+        }
+      ]
+    },
+    {
+      "id": "agabus",
+      "name": "Agabus",
+      "category": "early_church",
+      "sort_order": 243,
+      "requires_deuterocanon": false,
+      "intro": "A prophet in the early church who accurately foretold a coming famine, and later warned Paul in vivid, symbolic terms of the imprisonment waiting for him in Jerusalem.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 11,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "Foretells a great famine, which happened under Claudius"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 21,
+          "verse_start": 10,
+          "verse_end": 11,
+          "caption": "Binds his own hands and feet with Paul's belt as a sign"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 21,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "\"So will the Jews... bind the man who owns this belt\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 21,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Paul, undeterred: \"I am ready... to die at Jerusalem\""
+        }
+      ]
+    },
+    {
+      "id": "simon-magus",
+      "name": "Simon Magus",
+      "category": "early_church",
+      "sort_order": 244,
+      "requires_deuterocanon": false,
+      "intro": "A sorcerer in Samaria who amazed people with magic, believed and was baptized -- and then tried to buy the Holy Spirit's power with money, earning a sharp rebuke from Peter.",
+      "reflection": "Simon didn't reject the gospel -- he believed it enough to be baptized (Acts 8:13). His failure was subtler: he still saw spiritual power the same way he'd seen his old magic tricks, as a commodity to acquire and perform with. \"Your silver perish with you, because you thought you could obtain the gift of God with money\" -- faith he could still treat as a transaction wasn't faith that had actually changed what he wanted.",
+      "prayer": "Lord, let me want you and not just what you can do. Don't let me treat anything you've given freely as something I can buy, earn, or perform with.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 8,
+          "verse_start": 9,
+          "verse_end": 11,
+          "caption": "Amazes Samaria with his magic for a long time"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 8,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Believes, is baptized, follows Philip"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 8,
+          "verse_start": 18,
+          "verse_end": 19,
+          "caption": "Offers money to buy the power to give the Holy Spirit"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 8,
+          "verse_start": 20,
+          "verse_end": 21,
+          "caption": "Peter: \"Your silver perish with you\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 8,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "Asks Peter to pray for him, afraid of the judgment named"
+        }
+      ]
+    },
+    {
+      "id": "sergius-paulus",
+      "name": "Sergius Paulus",
+      "category": "early_church",
+      "sort_order": 245,
+      "requires_deuterocanon": false,
+      "intro": "The Roman proconsul of Cyprus, an intelligent man who sought out Paul and Barnabas to hear God's word -- and believed after seeing a sorcerer who opposed them struck blind.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "An intelligent man, wants to hear the word of God"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "The sorcerer Elymas tries to turn him from the faith"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Elymas struck blind before his eyes"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Believes, astonished at the teaching about the Lord"
+        }
+      ]
+    },
+    {
+      "id": "rhoda",
+      "name": "Rhoda",
+      "category": "early_church",
+      "sort_order": 246,
+      "requires_deuterocanon": false,
+      "intro": "A servant girl so overjoyed to hear Peter's voice at the door -- after his miraculous escape from prison -- that she ran to tell the others without even letting him in.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 12,
+          "verse_start": 13,
+          "verse_end": 14,
+          "caption": "Recognizes Peter's voice, but forgets to open the gate in her joy"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 12,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "The others don't believe her: \"You are crazy\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 12,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Peter keeps knocking until they finally see for themselves"
+        }
+      ]
+    },
+    {
+      "id": "eutychus",
+      "name": "Eutychus",
+      "category": "early_church",
+      "sort_order": 247,
+      "requires_deuterocanon": false,
+      "intro": "A young man who fell asleep during Paul's long, late-night preaching, tumbled from a third-story window, and was raised back to life after being picked up dead.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 20,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "Falls asleep, falls from the third story, picked up dead"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 20,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Paul embraces him: \"his life is in him\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 20,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Brought in alive, everyone greatly comforted"
+        }
+      ]
+    },
+    {
+      "id": "aristarchus",
+      "name": "Aristarchus",
+      "category": "early_church",
+      "sort_order": 248,
+      "requires_deuterocanon": false,
+      "intro": "A Macedonian companion of Paul who was seized by the mob during the riot at Ephesus, and who later stayed with Paul through his imprisonment and voyage to Rome.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 19,
+          "verse_start": 29,
+          "verse_end": 29,
+          "caption": "Seized by the crowd during the riot at Ephesus"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 27,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Accompanies Paul on the voyage toward Rome"
+        },
+        {
+          "book_id": "col",
+          "chapter": 4,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Called Paul's \"fellow prisoner\""
+        }
+      ]
+    },
+    {
+      "id": "epaphras",
+      "name": "Epaphras",
+      "category": "early_church",
+      "sort_order": 249,
+      "requires_deuterocanon": false,
+      "intro": "The founder of the church at Colossae, remembered by Paul as one who \"always struggles for you in his prayers,\" wrestling on their behalf.",
+      "verse_refs": [
+        {
+          "book_id": "col",
+          "chapter": 1,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "A faithful minister of Christ on the Colossians' behalf"
+        },
+        {
+          "book_id": "col",
+          "chapter": 4,
+          "verse_start": 12,
+          "verse_end": 13,
+          "caption": "\"Always struggling for you in his prayers... he has great zeal for you\""
+        },
+        {
+          "book_id": "phlm",
+          "chapter": 1,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "Named as Paul's \"fellow prisoner\""
+        }
+      ]
+    },
+    {
+      "id": "epaphroditus",
+      "name": "Epaphroditus",
+      "category": "early_church",
+      "sort_order": 250,
+      "requires_deuterocanon": false,
+      "intro": "A messenger sent by the Philippians to help Paul, who nearly died from illness in the effort and whom Paul praised for risking his life \"to make up for your lack of service.\"",
+      "verse_refs": [
+        {
+          "book_id": "phil",
+          "chapter": 2,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "Paul's \"brother, fellow worker, and fellow soldier\""
+        },
+        {
+          "book_id": "phil",
+          "chapter": 2,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Was sick, near death, but God had mercy on him"
+        },
+        {
+          "book_id": "phil",
+          "chapter": 2,
+          "verse_start": 30,
+          "verse_end": 30,
+          "caption": "Risked his life to complete what the Philippians could not do themselves"
+        }
+      ]
+    },
+    {
+      "id": "phoebe",
+      "name": "Phoebe",
+      "category": "early_church",
+      "sort_order": 251,
+      "requires_deuterocanon": false,
+      "intro": "A deacon of the church at Cenchreae, entrusted by Paul to carry his letter to the Romans -- the very letter that names and commends her at its close.",
+      "verse_refs": [
+        {
+          "book_id": "ro",
+          "chapter": 16,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "\"A servant of the church that is at Cenchreae\""
+        },
+        {
+          "book_id": "ro",
+          "chapter": 16,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "\"She herself also has been a helper of many, and of my own self\""
+        }
+      ]
+    },
+    {
+      "id": "junia",
+      "name": "Junia",
+      "category": "early_church",
+      "sort_order": 252,
+      "requires_deuterocanon": false,
+      "intro": "Named by Paul among the apostles, \"outstanding among the apostles\" and imprisoned alongside him -- a striking, easily overlooked detail in a single verse of greeting.",
+      "verse_refs": [
+        {
+          "book_id": "ro",
+          "chapter": 16,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "\"Outstanding among the apostles, who also were in Christ before me\""
+        }
+      ]
+    },
+    {
+      "id": "andronicus",
+      "name": "Andronicus",
+      "category": "early_church",
+      "sort_order": 253,
+      "requires_deuterocanon": false,
+      "intro": "A relative of Paul's, imprisoned alongside him at some point, and named together with Junia as outstanding among the apostles and believers before Paul himself.",
+      "verse_refs": [
+        {
+          "book_id": "ro",
+          "chapter": 16,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "\"My relatives and my fellow prisoners... in Christ before me\""
+        }
+      ]
+    },
+    {
+      "id": "erastus",
+      "name": "Erastus",
+      "category": "early_church",
+      "sort_order": 254,
+      "requires_deuterocanon": false,
+      "intro": "A city official -- the treasurer of Corinth -- who ministered alongside Paul and Timothy and is remembered in one of Paul's closing greetings.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 19,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "Sent ahead by Paul into Macedonia"
+        },
+        {
+          "book_id": "ro",
+          "chapter": 16,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "\"The treasurer of the city\""
+        },
+        {
+          "book_id": "2tim",
+          "chapter": 4,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Remained at Corinth"
+        }
+      ]
+    },
+    {
+      "id": "tychicus",
+      "name": "Tychicus",
+      "category": "early_church",
+      "sort_order": 255,
+      "requires_deuterocanon": false,
+      "intro": "A trusted courier and \"beloved brother\" whom Paul sent to deliver his letters and carry news of his own circumstances to several churches.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 20,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Accompanies Paul on his journey"
+        },
+        {
+          "book_id": "eph",
+          "chapter": 6,
+          "verse_start": 21,
+          "verse_end": 21,
+          "caption": "Sent to tell the Ephesians all about Paul's affairs"
+        },
+        {
+          "book_id": "col",
+          "chapter": 4,
+          "verse_start": 7,
+          "verse_end": 8,
+          "caption": "\"A beloved brother, a faithful servant\""
+        },
+        {
+          "book_id": "titus",
+          "chapter": 3,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Sent to relieve Titus in Crete"
+        }
+      ]
+    },
+    {
+      "id": "trophimus",
+      "name": "Trophimus",
+      "category": "early_church",
+      "sort_order": 256,
+      "requires_deuterocanon": false,
+      "intro": "A Gentile companion of Paul whose presence with him in Jerusalem was mistakenly assumed to have defiled the Temple -- sparking the riot that led to Paul's arrest.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 20,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Accompanies Paul from Asia"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 21,
+          "verse_start": 29,
+          "verse_end": 29,
+          "caption": "Mistakenly assumed to have been brought into the Temple"
+        },
+        {
+          "book_id": "2tim",
+          "chapter": 4,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Left behind sick at Miletus"
+        }
+      ]
+    },
+    {
+      "id": "gaius",
+      "name": "Gaius",
+      "category": "early_church",
+      "sort_order": 257,
+      "requires_deuterocanon": false,
+      "intro": "A generous host of Paul and \"of the whole church,\" remembered fondly across several of Paul's letters for his hospitality.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 19,
+          "verse_start": 29,
+          "verse_end": 29,
+          "caption": "Seized in the riot at Ephesus alongside Aristarchus"
+        },
+        {
+          "book_id": "ro",
+          "chapter": 16,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "\"My host, and of the whole assembly\""
+        },
+        {
+          "book_id": "3jo",
+          "chapter": 1,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Addressed personally: \"the beloved, whom I love in truth\""
+        }
+      ]
+    },
+    {
+      "id": "sosthenes",
+      "name": "Sosthenes",
+      "category": "early_church",
+      "sort_order": 258,
+      "requires_deuterocanon": false,
+      "intro": "A synagogue ruler beaten by an angry crowd in front of an indifferent Roman official -- and, most likely, the same Sosthenes Paul later calls \"brother\" in his letter to the Corinthians.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 18,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Seized and beaten in front of the tribunal"
+        },
+        {
+          "book_id": "1cor",
+          "chapter": 1,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Named with Paul as a co-sender of the letter: \"Sosthenes our brother\""
+        }
+      ]
+    },
+    {
+      "id": "crispus",
+      "name": "Crispus",
+      "category": "early_church",
+      "sort_order": 259,
+      "requires_deuterocanon": false,
+      "intro": "The ruler of the synagogue at Corinth who believed in the Lord along with his household, and whom Paul personally baptized.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 18,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Believes in the Lord with his whole household"
+        },
+        {
+          "book_id": "1cor",
+          "chapter": 1,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Paul: \"I baptized... Crispus\""
+        }
+      ]
+    },
+    {
+      "id": "demas",
+      "name": "Demas",
+      "category": "early_church",
+      "sort_order": 260,
+      "requires_deuterocanon": false,
+      "intro": "A companion of Paul's during his imprisonment, listed alongside faithful co-workers -- until Paul's last letter records, with visible sorrow, that he had deserted him, \"having loved this present world.\"",
+      "reflection": "Demas is named twice with no hint of trouble, and then once more, near the very end, with nothing but disappointment: \"Demas left me, having loved this present world\" (2 Timothy 4:10). Scripture never tells us what changed -- only that it did, gradually enough that Paul only names it once things had already fallen apart. Faithfulness isn't proven by how something starts; it's proven by whether it's still there when the cost of staying finally comes due.",
+      "prayer": "Lord, don't let me love what's comfortable more than I love what's true. If my faithfulness is going to fail, let me see it coming before it's already gone.",
+      "verse_refs": [
+        {
+          "book_id": "col",
+          "chapter": 4,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Named among Paul's co-workers, without comment"
+        },
+        {
+          "book_id": "phlm",
+          "chapter": 1,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "Listed again as a fellow worker"
+        },
+        {
+          "book_id": "2tim",
+          "chapter": 4,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "\"Demas left me, having loved this present world\""
+        }
+      ]
+    },
+    {
+      "id": "manaen",
+      "name": "Manaen",
+      "category": "early_church",
+      "sort_order": 261,
+      "requires_deuterocanon": false,
+      "intro": "A prophet and teacher in the church at Antioch, remembered with an unusual personal detail: he had been \"brought up with\" Herod the tetrarch.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Named among the prophets and teachers at Antioch, \"the foster-brother of Herod the tetrarch\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "Present when the Holy Spirit sets apart Paul and Barnabas"
+        }
+      ]
+    },
+    {
+      "id": "lucius-of-cyrene",
+      "name": "Lucius of Cyrene",
+      "category": "early_church",
+      "sort_order": 262,
+      "requires_deuterocanon": false,
+      "intro": "One of the prophets and teachers at the church in Antioch, present when the Holy Spirit set apart Paul and Barnabas for their missionary work.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Named among the prophets and teachers at Antioch"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Present as the Holy Spirit calls out Paul and Barnabas"
+        }
+      ]
+    },
+    {
+      "id": "simeon-called-niger",
+      "name": "Simeon called Niger",
+      "category": "early_church",
+      "sort_order": 263,
+      "requires_deuterocanon": false,
+      "intro": "One of the prophets and teachers at Antioch, distinguished in scripture only by the nickname attached to his name -- \"Niger,\" likely describing his complexion.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Named among the prophets and teachers at Antioch, \"called Niger\""
+        }
+      ]
+    },
+    {
+      "id": "archippus",
+      "name": "Archippus",
+      "category": "early_church",
+      "sort_order": 264,
+      "requires_deuterocanon": false,
+      "intro": "A minister in the early church, addressed directly by Paul with an unusually pointed challenge: \"see that you fulfill the ministry you received.\"",
+      "verse_refs": [
+        {
+          "book_id": "col",
+          "chapter": 4,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "\"Take heed to the ministry which you have received... that you fulfill it\""
+        },
+        {
+          "book_id": "phlm",
+          "chapter": 1,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Called Paul's \"fellow soldier\""
+        }
+      ]
+    },
+    {
+      "id": "nympha",
+      "name": "Nympha",
+      "category": "early_church",
+      "sort_order": 265,
+      "requires_deuterocanon": false,
+      "intro": "A believer who hosted a church in her own house, named by Paul in his greetings to Colossae.",
+      "verse_refs": [
+        {
+          "book_id": "col",
+          "chapter": 4,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "\"Nymphas, and the assembly that is in her house\""
+        }
+      ]
+    },
+    {
+      "id": "stephanas",
+      "name": "Stephanas",
+      "category": "early_church",
+      "sort_order": 266,
+      "requires_deuterocanon": false,
+      "intro": "A member of the Corinthian church, among the first converts in the region, whose household Paul personally baptized and whose visit brought him real refreshment.",
+      "verse_refs": [
+        {
+          "book_id": "1cor",
+          "chapter": 1,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Paul: \"I baptized also the household of Stephanas\""
+        },
+        {
+          "book_id": "1cor",
+          "chapter": 16,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "His household, \"the first fruits of Achaia\""
+        },
+        {
+          "book_id": "1cor",
+          "chapter": 16,
+          "verse_start": 17,
+          "verse_end": 18,
+          "caption": "His visit \"refreshed my spirit and yours\""
+        }
+      ]
+    },
+    {
+      "id": "seven-deacons-remainder",
+      "name": "Prochorus, Nicanor, Timon, Parmenas, and Nicolaus",
+      "category": "early_church",
+      "sort_order": 267,
+      "requires_deuterocanon": false,
+      "intro": "Five of the seven men chosen by the early church to oversee the daily distribution of food to widows -- freeing the apostles for prayer and preaching, and setting a pattern for shared ministry ever since.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 6,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Chosen for their good reputation, full of the Spirit and wisdom"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 6,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "Named alongside Stephen and Philip"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 6,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "The apostles pray and lay hands on them"
+        }
+      ]
+    },
+    {
+      "id": "diotrephes",
+      "name": "Diotrephes",
+      "category": "early_church",
+      "sort_order": 268,
+      "requires_deuterocanon": false,
+      "intro": "A church leader called out by name in John's third letter for loving \"to be first,\" refusing to welcome traveling believers, and spreading malicious gossip about the apostle himself.",
+      "reflection": "John doesn't accuse Diotrephes of false teaching -- his problem is something more ordinary and more common: he \"loves to be first,\" and everything else follows from that. He refuses hospitality to fellow believers, throws people out of the church who disagree with him, and talks about John \"with wicked words.\" It's a warning about how far small-scale church politics and love of status can travel when nothing checks it.",
+      "prayer": "Lord, when I want to be first, let me notice it before it starts costing other people their welcome, their voice, or their place.",
+      "verse_refs": [
+        {
+          "book_id": "3jo",
+          "chapter": 1,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "\"Loves to be first among them, doesn't accept what we say\""
+        },
+        {
+          "book_id": "3jo",
+          "chapter": 1,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Talks against the apostle \"with wicked words\""
+        },
+        {
+          "book_id": "3jo",
+          "chapter": 1,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Refuses to welcome traveling believers, and stops others from doing so"
+        }
+      ]
+    },
+    {
+      "id": "demetrius-the-disciple",
+      "name": "Demetrius (3 John)",
+      "category": "early_church",
+      "sort_order": 269,
+      "requires_deuterocanon": false,
+      "intro": "A believer commended by John with a rare, unqualified endorsement: \"he has testimony from all, and from the truth itself.\"",
+      "verse_refs": [
+        {
+          "book_id": "3jo",
+          "chapter": 1,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "\"Demetrius has the testimony of all, and of the truth itself\""
+        }
+      ]
+    },
+    {
+      "id": "matthias",
+      "name": "Matthias",
+      "category": "early_church",
+      "sort_order": 270,
+      "requires_deuterocanon": false,
+      "intro": "The disciple chosen by lot to replace Judas Iscariot among the Twelve, restoring the apostles' number after the betrayal and the empty seat it left behind.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 1,
+          "verse_start": 21,
+          "verse_end": 22,
+          "caption": "Qualified: had been with them from John's baptism to the ascension"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 1,
+          "verse_start": 24,
+          "verse_end": 25,
+          "caption": "The apostles pray before casting lots"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 1,
+          "verse_start": 26,
+          "verse_end": 26,
+          "caption": "The lot falls to him; \"he was numbered with the eleven apostles\""
+        }
+      ]
+    },
+    {
+      "id": "joseph-called-barsabbas",
+      "name": "Joseph called Barsabbas",
+      "category": "early_church",
+      "sort_order": 271,
+      "requires_deuterocanon": false,
+      "intro": "The other candidate put forward to replace Judas among the Twelve -- qualified, prayed over, and not chosen when the lot fell to Matthias instead.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 1,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "Put forward alongside Matthias as a candidate"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 1,
+          "verse_start": 26,
+          "verse_end": 26,
+          "caption": "The lot falls to Matthias instead"
+        }
+      ]
+    },
+    {
+      "id": "herod-agrippa-i",
+      "name": "Herod Agrippa I",
+      "category": "early_church",
+      "sort_order": 272,
+      "requires_deuterocanon": false,
+      "intro": "A grandson of Herod the Great who persecuted the early church, had James the apostle killed, and was struck down by an angel after accepting a crowd's praise as though he were a god.",
+      "reflection": "Agrippa's death came right after he let a flattering crowd shout \"the voice of a god, and not of a man\" -- and \"he didn't give God the glory.\" The praise itself wasn't his sin; his sin was the silence where a correction should have been. Letting people worship you, even by simply not objecting, is still a choice.",
+      "prayer": "Lord, when people give me credit that belongs to you, give me the honesty to say so out loud, not just the comfort of staying quiet.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 12,
+          "verse_start": 1,
+          "verse_end": 2,
+          "caption": "Has James, brother of John, killed with the sword"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 12,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Proceeds to arrest Peter as well, seeing it pleased the people"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 12,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "The crowd shouts: \"the voice of a god, and not of a man\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 12,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "Struck by an angel, eaten by worms, and dies"
+        }
+      ]
+    },
+    {
+      "id": "herod-agrippa-ii",
+      "name": "Herod Agrippa II",
+      "category": "early_church",
+      "sort_order": 273,
+      "requires_deuterocanon": false,
+      "intro": "The last of the Herodian rulers, before whom Paul made his defense -- and who came close enough to the truth to say, \"you almost persuade me to be a Christian.\"",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 25,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Comes to Caesarea with Bernice to greet Festus"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 26,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "Paul: \"I think myself happy... to answer for myself before you\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 26,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "\"With a little more persuasion you would make me a Christian\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 26,
+          "verse_start": 32,
+          "verse_end": 32,
+          "caption": "Concludes Paul could have been set free, if he hadn't appealed to Caesar"
+        }
+      ]
+    },
+    {
+      "id": "felix",
+      "name": "Felix",
+      "category": "early_church",
+      "sort_order": 274,
+      "requires_deuterocanon": false,
+      "intro": "The Roman governor who kept Paul imprisoned for two years without deciding his case, sometimes hoping for a bribe, and once genuinely afraid when Paul spoke of judgment to come.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 24,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "Becomes afraid as Paul reasons about righteousness and judgment"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 24,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "\"Go your way for this time; when I have a convenient season, I will call for you\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 24,
+          "verse_start": 26,
+          "verse_end": 26,
+          "caption": "Hopes Paul will offer him money"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 24,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Leaves Paul in prison to please the Jews as he leaves office"
+        }
+      ]
+    },
+    {
+      "id": "festus",
+      "name": "Festus",
+      "category": "early_church",
+      "sort_order": 275,
+      "requires_deuterocanon": false,
+      "intro": "The Roman governor who succeeded Felix, reopened Paul's case, and set in motion the appeal to Caesar that eventually took Paul to Rome.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 25,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "Asks Paul if he is willing to be tried in Jerusalem instead"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 25,
+          "verse_start": 11,
+          "verse_end": 12,
+          "caption": "Paul appeals to Caesar; Festus grants it"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 25,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Describes the case to Agrippa as a dispute over Jewish religion"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 26,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "\"Paul, you are mad; your great learning is driving you mad\""
+        }
+      ]
+    },
+    {
+      "id": "elymas",
+      "name": "Elymas (Bar-Jesus)",
+      "category": "early_church",
+      "sort_order": 276,
+      "requires_deuterocanon": false,
+      "intro": "A sorcerer and false prophet who tried to turn the proconsul Sergius Paulus away from the faith -- and was struck blind by Paul on the spot.",
+      "reflection": "Elymas's opposition wasn't ideological -- Acts is direct that he resisted Paul and Barnabas because it threatened his own position with the proconsul. It's a familiar shape of resistance to the truth: not disbelief so much as unwillingness to lose the influence that a lie currently provides.",
+      "prayer": "Lord, when the truth threatens something I've built for myself, give me the honesty to let it go rather than fight to protect it.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "A Jewish false prophet and sorcerer"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Opposes Paul and Barnabas, trying to turn the proconsul from the faith"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Paul: \"full of all deceit and fraud, you son of the devil\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 13,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Struck blind, for a time, at Paul's word"
+        }
+      ]
+    },
+    {
+      "id": "alexander-the-coppersmith",
+      "name": "Alexander the Coppersmith",
+      "category": "early_church",
+      "sort_order": 277,
+      "requires_deuterocanon": false,
+      "intro": "A metalworker who, Paul writes near the end of his life, \"did me much harm\" -- one of the few personal grievances Paul names directly in his final letter.",
+      "verse_refs": [
+        {
+          "book_id": "2tim",
+          "chapter": 4,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "\"Did me much harm. The Lord will repay him according to his deeds\""
+        },
+        {
+          "book_id": "2tim",
+          "chapter": 4,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "\"Of whom you also must beware, for he greatly opposed our words\""
+        }
+      ]
+    },
+    {
+      "id": "demetrius-the-silversmith",
+      "name": "Demetrius the Silversmith",
+      "category": "early_church",
+      "sort_order": 278,
+      "requires_deuterocanon": false,
+      "intro": "A craftsman whose trade making silver shrines of Artemis was threatened by Paul's preaching, and who incited the riot at Ephesus that nearly cost Paul his life.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 19,
+          "verse_start": 24,
+          "verse_end": 25,
+          "caption": "Makes silver shrines of Artemis; a profitable trade"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 19,
+          "verse_start": 26,
+          "verse_end": 27,
+          "caption": "Warns other craftsmen that Paul's teaching threatens their trade and the goddess's honor"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 19,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "The crowd erupts: \"Great is Artemis of the Ephesians!\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 19,
+          "verse_start": 29,
+          "verse_end": 29,
+          "caption": "The whole city thrown into confusion over it"
+        }
+      ]
+    },
+    {
+      "id": "onesiphorus",
+      "name": "Onesiphorus",
+      "category": "early_church",
+      "sort_order": 279,
+      "requires_deuterocanon": false,
+      "intro": "A believer remembered by Paul with real warmth for one specific thing: he searched Rome persistently until he found Paul in prison, and was never ashamed of his chains.",
+      "verse_refs": [
+        {
+          "book_id": "2tim",
+          "chapter": 1,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "\"Often refreshed me, and was not ashamed of my chains\""
+        },
+        {
+          "book_id": "2tim",
+          "chapter": 1,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Searched for Paul diligently in Rome, and found him"
+        },
+        {
+          "book_id": "2tim",
+          "chapter": 1,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "Paul prays he will find mercy from the Lord \"in that day\""
+        }
+      ]
+    },
+    {
+      "id": "ethiopian-eunuch",
+      "name": "The Ethiopian Eunuch",
+      "category": "early_church",
+      "sort_order": 280,
+      "requires_deuterocanon": false,
+      "intro": "A court official of the Ethiopian queen, reading Isaiah on his way home from Jerusalem, whom Philip joined to explain the prophecy pointed to Jesus -- and who was baptized by the roadside as soon as he understood.",
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter": 8,
+          "verse_start": 30,
+          "verse_end": 31,
+          "caption": "\"How can I, unless someone explains it to me?\""
+        },
+        {
+          "book_id": "acts",
+          "chapter": 8,
+          "verse_start": 32,
+          "verse_end": 33,
+          "caption": "Reading the very passage that foretold Christ's suffering"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 8,
+          "verse_start": 35,
+          "verse_end": 35,
+          "caption": "Philip \"preached to him Jesus\" starting from that scripture"
+        },
+        {
+          "book_id": "acts",
+          "chapter": 8,
+          "verse_start": 38,
+          "verse_end": 39,
+          "caption": "Baptized on the spot, and goes on his way rejoicing"
+        }
+      ]
     }
   ],
   "character_of_day": [
@@ -9109,6 +10364,10 @@
       "character_id": "zadok"
     },
     {
+      "month_day": "05-14",
+      "character_id": "matthias"
+    },
+    {
       "month_day": "05-15",
       "character_id": "rizpah"
     },
@@ -9405,6 +10664,10 @@
       "character_id": "shepherds-of-bethlehem"
     },
     {
+      "month_day": "07-28",
+      "character_id": "ananias-and-sapphira"
+    },
+    {
       "month_day": "07-29",
       "character_id": "martha"
     },
@@ -9417,12 +10680,116 @@
       "character_id": "lazarus"
     },
     {
+      "month_day": "08-01",
+      "character_id": "ananias-of-damascus"
+    },
+    {
+      "month_day": "08-02",
+      "character_id": "gamaliel"
+    },
+    {
+      "month_day": "08-03",
+      "character_id": "agabus"
+    },
+    {
+      "month_day": "08-04",
+      "character_id": "simon-magus"
+    },
+    {
+      "month_day": "08-05",
+      "character_id": "sergius-paulus"
+    },
+    {
       "month_day": "08-06",
       "character_id": "moses"
     },
     {
+      "month_day": "08-07",
+      "character_id": "rhoda"
+    },
+    {
+      "month_day": "08-08",
+      "character_id": "eutychus"
+    },
+    {
+      "month_day": "08-09",
+      "character_id": "aristarchus"
+    },
+    {
+      "month_day": "08-10",
+      "character_id": "epaphras"
+    },
+    {
+      "month_day": "08-11",
+      "character_id": "epaphroditus"
+    },
+    {
+      "month_day": "08-12",
+      "character_id": "phoebe"
+    },
+    {
+      "month_day": "08-13",
+      "character_id": "junia"
+    },
+    {
+      "month_day": "08-14",
+      "character_id": "andronicus"
+    },
+    {
+      "month_day": "08-15",
+      "character_id": "erastus"
+    },
+    {
+      "month_day": "08-16",
+      "character_id": "tychicus"
+    },
+    {
+      "month_day": "08-17",
+      "character_id": "trophimus"
+    },
+    {
+      "month_day": "08-18",
+      "character_id": "gaius"
+    },
+    {
+      "month_day": "08-19",
+      "character_id": "sosthenes"
+    },
+    {
+      "month_day": "08-20",
+      "character_id": "crispus"
+    },
+    {
+      "month_day": "08-21",
+      "character_id": "demas"
+    },
+    {
+      "month_day": "08-22",
+      "character_id": "manaen"
+    },
+    {
+      "month_day": "08-23",
+      "character_id": "lucius-of-cyrene"
+    },
+    {
       "month_day": "08-24",
       "character_id": "bartholomew"
+    },
+    {
+      "month_day": "08-25",
+      "character_id": "simeon-called-niger"
+    },
+    {
+      "month_day": "08-26",
+      "character_id": "archippus"
+    },
+    {
+      "month_day": "08-27",
+      "character_id": "nympha"
+    },
+    {
+      "month_day": "08-28",
+      "character_id": "stephanas"
     },
     {
       "month_day": "08-29",
@@ -9433,8 +10800,56 @@
       "character_id": "herodias"
     },
     {
+      "month_day": "08-31",
+      "character_id": "seven-deacons-remainder"
+    },
+    {
+      "month_day": "09-01",
+      "character_id": "diotrephes"
+    },
+    {
+      "month_day": "09-02",
+      "character_id": "demetrius-the-disciple"
+    },
+    {
+      "month_day": "09-03",
+      "character_id": "joseph-called-barsabbas"
+    },
+    {
+      "month_day": "09-04",
+      "character_id": "herod-agrippa-i"
+    },
+    {
+      "month_day": "09-05",
+      "character_id": "herod-agrippa-ii"
+    },
+    {
+      "month_day": "09-06",
+      "character_id": "felix"
+    },
+    {
+      "month_day": "09-07",
+      "character_id": "festus"
+    },
+    {
       "month_day": "09-08",
       "character_id": "mary-mother-of-jesus"
+    },
+    {
+      "month_day": "09-09",
+      "character_id": "elymas"
+    },
+    {
+      "month_day": "09-10",
+      "character_id": "alexander-the-coppersmith"
+    },
+    {
+      "month_day": "09-11",
+      "character_id": "demetrius-the-silversmith"
+    },
+    {
+      "month_day": "09-12",
+      "character_id": "onesiphorus"
     },
     {
       "month_day": "09-13",
@@ -9445,12 +10860,176 @@
       "character_id": "pontius-pilate"
     },
     {
+      "month_day": "09-15",
+      "character_id": "ethiopian-eunuch"
+    },
+    {
+      "month_day": "09-16",
+      "character_id": "jesus"
+    },
+    {
+      "month_day": "09-17",
+      "character_id": "mary-mother-of-jesus"
+    },
+    {
+      "month_day": "09-18",
+      "character_id": "joseph-husband-of-mary"
+    },
+    {
+      "month_day": "09-19",
+      "character_id": "john-the-baptist"
+    },
+    {
+      "month_day": "09-20",
+      "character_id": "peter"
+    },
+    {
       "month_day": "09-21",
       "character_id": "matthew"
     },
     {
+      "month_day": "09-22",
+      "character_id": "paul"
+    },
+    {
+      "month_day": "09-23",
+      "character_id": "andrew"
+    },
+    {
+      "month_day": "09-24",
+      "character_id": "john-apostle"
+    },
+    {
+      "month_day": "09-25",
+      "character_id": "james-son-of-zebedee"
+    },
+    {
+      "month_day": "09-26",
+      "character_id": "matthew"
+    },
+    {
+      "month_day": "09-27",
+      "character_id": "thomas"
+    },
+    {
+      "month_day": "09-28",
+      "character_id": "philip-apostle"
+    },
+    {
+      "month_day": "09-29",
+      "character_id": "bartholomew"
+    },
+    {
+      "month_day": "09-30",
+      "character_id": "mark"
+    },
+    {
+      "month_day": "10-01",
+      "character_id": "luke"
+    },
+    {
+      "month_day": "10-02",
+      "character_id": "mary-magdalene"
+    },
+    {
+      "month_day": "10-03",
+      "character_id": "martha"
+    },
+    {
+      "month_day": "10-04",
+      "character_id": "moses"
+    },
+    {
+      "month_day": "10-05",
+      "character_id": "abraham"
+    },
+    {
+      "month_day": "10-06",
+      "character_id": "david"
+    },
+    {
+      "month_day": "10-07",
+      "character_id": "elijah"
+    },
+    {
+      "month_day": "10-08",
+      "character_id": "isaiah"
+    },
+    {
+      "month_day": "10-09",
+      "character_id": "daniel"
+    },
+    {
+      "month_day": "10-10",
+      "character_id": "solomon"
+    },
+    {
+      "month_day": "10-11",
+      "character_id": "job"
+    },
+    {
+      "month_day": "10-12",
+      "character_id": "stephen"
+    },
+    {
+      "month_day": "10-13",
+      "character_id": "barnabas"
+    },
+    {
+      "month_day": "10-14",
+      "character_id": "timothy"
+    },
+    {
+      "month_day": "10-15",
+      "character_id": "joshua"
+    },
+    {
+      "month_day": "10-16",
+      "character_id": "jesus"
+    },
+    {
+      "month_day": "10-17",
+      "character_id": "mary-mother-of-jesus"
+    },
+    {
       "month_day": "10-18",
       "character_id": "luke"
+    },
+    {
+      "month_day": "10-19",
+      "character_id": "joseph-husband-of-mary"
+    },
+    {
+      "month_day": "10-20",
+      "character_id": "john-the-baptist"
+    },
+    {
+      "month_day": "10-21",
+      "character_id": "peter"
+    },
+    {
+      "month_day": "10-22",
+      "character_id": "paul"
+    },
+    {
+      "month_day": "10-23",
+      "character_id": "andrew"
+    },
+    {
+      "month_day": "10-24",
+      "character_id": "john-apostle"
+    },
+    {
+      "month_day": "10-25",
+      "character_id": "james-son-of-zebedee"
+    },
+    {
+      "month_day": "10-26",
+      "character_id": "matthew"
+    },
+    {
+      "month_day": "10-27",
+      "character_id": "thomas"
     },
     {
       "month_day": "10-28",
@@ -9459,6 +11038,18 @@
     {
       "month_day": "10-29",
       "character_id": "simon-the-zealot"
+    },
+    {
+      "month_day": "10-30",
+      "character_id": "philip-apostle"
+    },
+    {
+      "month_day": "10-31",
+      "character_id": "bartholomew"
+    },
+    {
+      "month_day": "11-01",
+      "character_id": "mark"
     },
     {
       "month_day": "11-02",
@@ -9477,8 +11068,168 @@
       "character_id": "zechariah-father-of-john"
     },
     {
+      "month_day": "11-06",
+      "character_id": "luke"
+    },
+    {
+      "month_day": "11-07",
+      "character_id": "mary-magdalene"
+    },
+    {
+      "month_day": "11-08",
+      "character_id": "martha"
+    },
+    {
+      "month_day": "11-09",
+      "character_id": "moses"
+    },
+    {
+      "month_day": "11-10",
+      "character_id": "abraham"
+    },
+    {
+      "month_day": "11-11",
+      "character_id": "david"
+    },
+    {
+      "month_day": "11-12",
+      "character_id": "elijah"
+    },
+    {
+      "month_day": "11-13",
+      "character_id": "isaiah"
+    },
+    {
+      "month_day": "11-14",
+      "character_id": "daniel"
+    },
+    {
+      "month_day": "11-15",
+      "character_id": "solomon"
+    },
+    {
+      "month_day": "11-16",
+      "character_id": "job"
+    },
+    {
+      "month_day": "11-17",
+      "character_id": "stephen"
+    },
+    {
+      "month_day": "11-18",
+      "character_id": "barnabas"
+    },
+    {
+      "month_day": "11-19",
+      "character_id": "timothy"
+    },
+    {
+      "month_day": "11-20",
+      "character_id": "joshua"
+    },
+    {
+      "month_day": "11-21",
+      "character_id": "jesus"
+    },
+    {
+      "month_day": "11-22",
+      "character_id": "mary-mother-of-jesus"
+    },
+    {
+      "month_day": "11-23",
+      "character_id": "joseph-husband-of-mary"
+    },
+    {
+      "month_day": "11-24",
+      "character_id": "john-the-baptist"
+    },
+    {
+      "month_day": "11-25",
+      "character_id": "peter"
+    },
+    {
+      "month_day": "11-26",
+      "character_id": "paul"
+    },
+    {
+      "month_day": "11-27",
+      "character_id": "andrew"
+    },
+    {
+      "month_day": "11-28",
+      "character_id": "john-apostle"
+    },
+    {
+      "month_day": "11-29",
+      "character_id": "james-son-of-zebedee"
+    },
+    {
       "month_day": "11-30",
       "character_id": "andrew"
+    },
+    {
+      "month_day": "12-01",
+      "character_id": "matthew"
+    },
+    {
+      "month_day": "12-02",
+      "character_id": "thomas"
+    },
+    {
+      "month_day": "12-03",
+      "character_id": "philip-apostle"
+    },
+    {
+      "month_day": "12-04",
+      "character_id": "bartholomew"
+    },
+    {
+      "month_day": "12-05",
+      "character_id": "mark"
+    },
+    {
+      "month_day": "12-06",
+      "character_id": "luke"
+    },
+    {
+      "month_day": "12-07",
+      "character_id": "mary-magdalene"
+    },
+    {
+      "month_day": "12-08",
+      "character_id": "martha"
+    },
+    {
+      "month_day": "12-09",
+      "character_id": "moses"
+    },
+    {
+      "month_day": "12-10",
+      "character_id": "abraham"
+    },
+    {
+      "month_day": "12-11",
+      "character_id": "david"
+    },
+    {
+      "month_day": "12-12",
+      "character_id": "elijah"
+    },
+    {
+      "month_day": "12-13",
+      "character_id": "isaiah"
+    },
+    {
+      "month_day": "12-14",
+      "character_id": "daniel"
+    },
+    {
+      "month_day": "12-15",
+      "character_id": "solomon"
+    },
+    {
+      "month_day": "12-16",
+      "character_id": "job"
     },
     {
       "month_day": "12-17",
@@ -9487,6 +11238,10 @@
     {
       "month_day": "12-18",
       "character_id": "queen-of-sheba"
+    },
+    {
+      "month_day": "12-19",
+      "character_id": "stephen"
     },
     {
       "month_day": "12-20",
@@ -9523,6 +11278,14 @@
     {
       "month_day": "12-28",
       "character_id": "herod-the-great"
+    },
+    {
+      "month_day": "12-29",
+      "character_id": "barnabas"
+    },
+    {
+      "month_day": "12-30",
+      "character_id": "timothy"
     },
     {
       "month_day": "12-31",
