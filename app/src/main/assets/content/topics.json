@@ -758,6 +758,36 @@
           "weight": 0.7
         }
       ]
+    },
+    {
+      "id": "suffering",
+      "label": "Suffering",
+      "icon": "ti-mountain",
+      "category": "distress",
+      "description": "For hardship that hasn't yet turned into anything you can see the point of.",
+      "sort_order": 28,
+      "aliases": [
+        {
+          "alias": "suffering",
+          "weight": 1.0
+        },
+        {
+          "alias": "going through it",
+          "weight": 0.9
+        },
+        {
+          "alias": "hard season",
+          "weight": 0.9
+        },
+        {
+          "alias": "trials",
+          "weight": 0.8
+        },
+        {
+          "alias": "want to give up",
+          "weight": 0.8
+        }
+      ]
     }
   ],
   "passages": [
@@ -2164,6 +2194,19 @@
       "pull_quote": null,
       "reference_display": "Matthew 6:33",
       "reference_alt": null
+    },
+    {
+      "id": "web-c:ro:5:3",
+      "translation_id": "web-c",
+      "book_id": "ro",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 3,
+      "verse_end": 5,
+      "text": "Not only this, but we also rejoice in our sufferings, knowing that suffering produces perseverance; and perseverance, proven character; and proven character, hope; and hope doesn’t disappoint us, because God’s love has been poured into our hearts through the Holy Spirit who was given to us.",
+      "pull_quote": "suffering produces perseverance; and perseverance, proven character; and proven character, hope",
+      "reference_display": "Romans 5:3-5",
+      "reference_alt": null
     }
   ],
   "entries": [
@@ -3462,6 +3505,18 @@
       "saint_quote": null,
       "saint_attribution": null,
       "liturgical_season": null
+    },
+    {
+      "id": "suffering-ro-5-3",
+      "feeling_id": "suffering",
+      "intensity": "steady",
+      "depth_order": 1,
+      "reflection": "Paul doesn't say suffering is good, or that it should be welcomed for its own sake. He says it isn't wasted -- that endured rather than escaped, it becomes perseverance, and perseverance becomes a tested, proven character, and that character becomes hope that doesn't disappoint. The chain only runs one direction: there's no shortcut to hope that skips the suffering and the endurance in between.",
+      "prayer": "Lord, I don't understand what this hardship is for yet. Help me endure it instead of just escaping it, and trust that you're building something in me I can't see the shape of yet.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
     }
   ],
   "entry_passages": [
@@ -4116,6 +4171,12 @@
     {
       "entry_id": "discontent-mt-6-33",
       "passage_id": "web-c:mt:6:33",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "suffering-ro-5-3",
+      "passage_id": "web-c:ro:5:3",
       "position": 0,
       "role": "primary"
     }
