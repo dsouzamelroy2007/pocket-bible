@@ -209,7 +209,9 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                     category = o.getString("category"),
                     sortOrder = o.optInt("sort_order", 0),
                     requiresDeuterocanon = o.optBoolean("requires_deuterocanon", false),
-                    monthDay = o.getString("month_day")
+                    monthDay = o.getString("month_day"),
+                    reflection = if (o.has("reflection")) o.getString("reflection") else null,
+                    prayer = if (o.has("prayer")) o.getString("prayer") else null
                 )
             })
 

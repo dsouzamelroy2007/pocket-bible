@@ -54,6 +54,8 @@
     <string name="character_no_matches">No characters match that search.</string>
     <string name="character_famous_verses">Verses about them</string>
     <string name="character_verse_unavailable">Not available in this language yet.</string>
+    <string name="character_reflection_heading">For Reflection</string>
+    <string name="character_prayer_heading">A Prayer</string>
     <string name="character_category_central">The Central Figure</string>
     <string name="character_category_holy_family">Holy Family &amp; Forerunners</string>
     <string name="character_category_apostles">The Twelve Apostles</string>

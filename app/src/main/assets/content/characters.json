@@ -1,5 +1,5 @@
 {
-  "_note": "Characters tab content, English base. 'intro' is original devotional-style prose written for this app, not scripture text. 'verse_refs' are citations (book_id/chapter/verse_start/verse_end + a short caption) -- no verse text is stored here; the app looks up the real text live from scripture_verse for whichever translation is current, same as the Read tab. Aimed for at least 4 citations per character; a handful of minor figures whose entire footprint in scripture is only 2-3 verses have fewer, since padding would mean citing verses that aren't really about them. References were compiled from general knowledge of well-known passages, not copied from a concordance -- worth a spot-check pass before wide release, same caveat as the rest of this prototype's authored content. 'requires_deuterocanon' hides a character automatically for a translation whose books don't include their source book (currently just Tobit and Judith). UPDATE (v2 calendar): every character now has a 'month_day' (MM-DD) field, its day in the 366-day characters calendar (one character per calendar day, same month_day convention as topics.json daily_passages). Where a real Catholic (General Roman Calendar) feast day applies and isn't already claimed by another figure sharing that same official day, it is used (e.g. Dec 25 Jesus, Jun 29 Peter, Jul 25 James son of Zebedee). Old Testament figures have no Catholic feast day at all (the Latin rite does not canonize/feast-date OT figures), so patriarchs/exodus_judges/kingdom/prophets/post_exile are placed in canonical narrative order across a dedicated Jan-Mar block instead -- an editorial choice, not a liturgical claim. The same narrative-order approach fills in NT/early-church figures who share an official day with someone else already dated (e.g. James son of Alphaeus and Simon the Zealot, whose shared apostolic feast went to Philip and Jude respectively). REVISION: beyond real feast days and Old-Testament narrative order, 17 more characters were moved onto specific thematic anchors instead of generic sequence -- e.g. Moses on Aug 6 (Transfiguration, where he appears in the Gospel scene itself), Elijah on Jul 16 (Our Lady of Mount Carmel, the Carmelite order's own founding tradition), Job on Nov 2 (All Souls Day -- 'I know that my Redeemer lives', the traditional Requiem text), Melchizedek on Jul 1 (the pre-1969 Feast of the Most Precious Blood -- he brought out bread and wine and is named alongside Abel and Abraham in the Roman Canon), Herod the Great on Dec 28 (Holy Innocents, the massacre he ordered), Herod Antipas/Herodias on Aug 29-30 (the Beheading of John the Baptist, which they engineered), and Caiaphas/Pilate on Sep 13-14 (the day before and the Feast of the Exaltation of the Holy Cross -- the judges who sent Jesus to it). A few apostles/siblings who lost a shared-feast tiebreak (James son of Alphaeus, Simon the Zealot, Titus, Mary of Bethany, Lazarus) were moved to sit the day(s) right after their feast-day partner instead of a generic sequence slot, keeping the pairing visible. 252 days are still open for new characters (v2 scope: 114 -> 366).",
+  "_note": "Characters tab content, English base. 'intro' is original devotional-style prose written for this app, not scripture text. 'verse_refs' are citations (book_id/chapter/verse_start/verse_end + a short caption) -- no verse text is stored here; the app looks up the real text live from scripture_verse for whichever translation is current, same as the Read tab. Aimed for at least 4 citations per character; a handful of minor figures whose entire footprint in scripture is only 2-3 verses have fewer, since padding would mean citing verses that aren't really about them. References were compiled from general knowledge of well-known passages, not copied from a concordance -- worth a spot-check pass before wide release, same caveat as the rest of this prototype's authored content. 'requires_deuterocanon' hides a character automatically for a translation whose books don't include their source book (currently just Tobit and Judith). UPDATE (v2 calendar): every character now has a 'month_day' (MM-DD) field, its day in the 366-day characters calendar (one character per calendar day, same month_day convention as topics.json daily_passages). Where a real Catholic (General Roman Calendar) feast day applies and isn't already claimed by another figure sharing that same official day, it is used (e.g. Dec 25 Jesus, Jun 29 Peter, Jul 25 James son of Zebedee). Old Testament figures have no Catholic feast day at all (the Latin rite does not canonize/feast-date OT figures), so patriarchs/exodus_judges/kingdom/prophets/post_exile are placed in canonical narrative order across a dedicated Jan-Mar block instead -- an editorial choice, not a liturgical claim. The same narrative-order approach fills in NT/early-church figures who share an official day with someone else already dated (e.g. James son of Alphaeus and Simon the Zealot, whose shared apostolic feast went to Philip and Jude respectively). REVISION: beyond real feast days and Old-Testament narrative order, 17 more characters were moved onto specific thematic anchors instead of generic sequence -- e.g. Moses on Aug 6 (Transfiguration, where he appears in the Gospel scene itself), Elijah on Jul 16 (Our Lady of Mount Carmel, the Carmelite order's own founding tradition), Job on Nov 2 (All Souls Day -- 'I know that my Redeemer lives', the traditional Requiem text), Melchizedek on Jul 1 (the pre-1969 Feast of the Most Precious Blood -- he brought out bread and wine and is named alongside Abel and Abraham in the Roman Canon), Herod the Great on Dec 28 (Holy Innocents, the massacre he ordered), Herod Antipas/Herodias on Aug 29-30 (the Beheading of John the Baptist, which they engineered), and Caiaphas/Pilate on Sep 13-14 (the day before and the Feast of the Exaltation of the Holy Cross -- the judges who sent Jesus to it). A few apostles/siblings who lost a shared-feast tiebreak (James son of Alphaeus, Simon the Zealot, Titus, Mary of Bethany, Lazarus) were moved to sit the day(s) right after their feast-day partner instead of a generic sequence slot, keeping the pairing visible. ROUND 3: pushed further into the Dec 17-23 O Antiphons (each names a Messianic title, several of which are literally about a specific OT figure) and a couple of direct prophecy-fulfillment days -- Solomon on Dec 17 (O Sapientia/O Wisdom, the OT wisdom king), David on Dec 20 (O Clavis David/O Key of David, names him outright), Bathsheba and Nathan on Dec 21-22 (the sin the antiphon's grace answers, and the confrontation that brought repentance), Ahab and Jezebel on Jul 18-19 (right after Elijah/Elisha -- the king and the Baal-prophets' patron he directly faced down at Mount Carmel, 1 Kings 18), Isaiah on Mar 25 (the Annunciation's own OT reading is his 'the virgin shall conceive', Isa 7:14), and Micah on Jan 6 (Epiphany -- his Bethlehem prophecy, Mic 5:2, is what the chief priests quote to Herod in Matthew 2:6). 50 of 114 are now on a real anchor; the remaining 64 -- mostly Old Testament figures with no comparable connection found -- stay in canonical narrative order. RECONCILIATION CONTENT: 12 characters whose defining role is a sin the reader might recognize in themselves -- Judas Iscariot, Herod the Great, Herod Antipas, Herodias, Caiaphas, Pontius Pilate, Cain, Delilah, Ahab, Jezebel, Saul, and Absalom -- now carry optional 'reflection' and 'prayer' fields (null for every other character): reflection names the specific sin and why it was wrong, cited to the text, not just narrating their story; prayer is a short first-person prayer of turning away from that same temptation. Shown in the Characters tab detail screen only when present. Not yet translated (character_translation has no reflection/prayer columns) -- falls back to English everywhere until that's added. 252 days are still open for new characters (v2 scope: 114 -> 366).",
   "characters": [
     {
       "id": "jesus",
@@ -686,8 +686,10 @@
       "name": "Judas Iscariot",
       "category": "apostles",
       "sort_order": 20,
-      "month_day": "03-01",
+      "month_day": "02-22",
       "intro": "The apostle who betrayed Jesus for thirty pieces of silver, and whose remorse ended in despair rather than repentance.",
+      "reflection": "Judas's sin wasn't a single dramatic betrayal out of nowhere -- it grew from a smaller, ordinary compromise. John says he used to help himself from the money bag (John 12:6), and from there it apparently became possible to imagine that thirty pieces of silver was a fair trade for a friend. His story is a warning about how gradually a price can start to seem reasonable for something that should never have been for sale. Even his end shows a conscience that could still recognize the wrong -- \"I have sinned in betraying innocent blood\" (Matthew 27:4) -- but that had lost hope it could be forgiven.",
+      "prayer": "Lord, show me the small compromises I've let grow. Where I've put a price on something priceless, call me back before regret turns into despair rather than repentance.",
       "verse_refs": [
         {
           "book_id": "mt",
@@ -807,7 +809,7 @@
       "name": "Silas",
       "category": "early_church",
       "sort_order": 23,
-      "month_day": "03-02",
+      "month_day": "02-23",
       "intro": "Paul's companion who was imprisoned and beaten with him in Philippi, and sang hymns with him in a midnight jail cell.",
       "verse_refs": [
         {
@@ -1035,7 +1037,7 @@
       "name": "Philip the Evangelist",
       "category": "early_church",
       "sort_order": 29,
-      "month_day": "03-03",
+      "month_day": "02-24",
       "intro": "One of the seven chosen to serve the early church, who explained the Scriptures to an Ethiopian official and baptized him.",
       "verse_refs": [
         {
@@ -1073,7 +1075,7 @@
       "name": "Cornelius",
       "category": "early_church",
       "sort_order": 30,
-      "month_day": "03-04",
+      "month_day": "02-25",
       "intro": "A devout Roman centurion whose vision, and Peter's, opened the Church's mission to the Gentiles.",
       "verse_refs": [
         {
@@ -1111,7 +1113,7 @@
       "name": "Priscilla and Aquila",
       "category": "early_church",
       "sort_order": 31,
-      "month_day": "03-05",
+      "month_day": "02-26",
       "intro": "A missionary couple, tentmakers by trade, who hosted a house church and taught Apollos more accurately.",
       "verse_refs": [
         {
@@ -1149,7 +1151,7 @@
       "name": "Apollos",
       "category": "early_church",
       "sort_order": 32,
-      "month_day": "03-06",
+      "month_day": "02-27",
       "intro": "An eloquent, Scripture-versed preacher whose ministry watered what Paul had planted in Corinth.",
       "verse_refs": [
         {
@@ -1187,7 +1189,7 @@
       "name": "Lydia",
       "category": "early_church",
       "sort_order": 33,
-      "month_day": "03-07",
+      "month_day": "02-28",
       "intro": "A seller of purple cloth in Philippi and the first recorded convert in Europe, who opened her home to Paul's mission.",
       "verse_refs": [
         {
@@ -1211,7 +1213,7 @@
       "name": "James, brother of Jesus",
       "category": "early_church",
       "sort_order": 34,
-      "month_day": "03-08",
+      "month_day": "03-01",
       "intro": "A leader of the Jerusalem church who once doubted Jesus, later encountered the risen Christ, and wrote a New Testament letter.",
       "verse_refs": [
         {
@@ -1249,7 +1251,7 @@
       "name": "Jude, brother of Jesus",
       "category": "early_church",
       "sort_order": 35,
-      "month_day": "03-09",
+      "month_day": "03-02",
       "intro": "A brother of Jesus and James who wrote a short, urgent letter warning against false teachers.",
       "verse_refs": [
         {
@@ -1280,7 +1282,7 @@
       "name": "Philemon",
       "category": "early_church",
       "sort_order": 36,
-      "month_day": "03-10",
+      "month_day": "03-03",
       "intro": "A Christian slaveholder Paul wrote to directly, urging him to welcome back his runaway slave Onesimus as a brother.",
       "verse_refs": [
         {
@@ -1311,7 +1313,7 @@
       "name": "Onesimus",
       "category": "early_church",
       "sort_order": 37,
-      "month_day": "03-11",
+      "month_day": "03-04",
       "intro": "A runaway slave who became a Christian under Paul's care, and was sent back to his master with a plea for mercy.",
       "verse_refs": [
         {
@@ -1494,7 +1496,7 @@
       "name": "Nicodemus",
       "category": "women_and_others",
       "sort_order": 42,
-      "month_day": "03-12",
+      "month_day": "03-05",
       "intro": "A Pharisee who came to Jesus by night with questions, and later helped bury him with dignity.",
       "verse_refs": [
         {
@@ -1532,7 +1534,7 @@
       "name": "The Samaritan Woman",
       "category": "women_and_others",
       "sort_order": 43,
-      "month_day": "03-13",
+      "month_day": "03-06",
       "intro": "A woman Jesus met at a well, whose honest conversation about her life led her to become an evangelist to her whole town.",
       "verse_refs": [
         {
@@ -1570,7 +1572,7 @@
       "name": "Zacchaeus",
       "category": "women_and_others",
       "sort_order": 44,
-      "month_day": "03-14",
+      "month_day": "03-07",
       "intro": "A wealthy, short tax collector who climbed a tree to see Jesus, and gave away half his goods after Jesus dined at his house.",
       "verse_refs": [
         {
@@ -1601,7 +1603,7 @@
       "name": "Bartimaeus",
       "category": "women_and_others",
       "sort_order": 45,
-      "month_day": "03-15",
+      "month_day": "03-08",
       "intro": "A blind beggar of Jericho whose persistent cry for mercy Jesus answered, restoring his sight.",
       "verse_refs": [
         {
@@ -1632,7 +1634,7 @@
       "name": "Joseph of Arimathea",
       "category": "women_and_others",
       "sort_order": 46,
-      "month_day": "03-16",
+      "month_day": "03-09",
       "intro": "A wealthy, secret disciple who asked Pilate for Jesus' body and laid him in his own new tomb.",
       "verse_refs": [
         {
@@ -1663,7 +1665,7 @@
       "name": "Simon of Cyrene",
       "category": "women_and_others",
       "sort_order": 47,
-      "month_day": "03-17",
+      "month_day": "03-10",
       "intro": "A passerby forced to carry Jesus' cross, unwittingly sharing in the road to Calvary.",
       "verse_refs": [
         {
@@ -1687,7 +1689,7 @@
       "name": "Dorcas (Tabitha)",
       "category": "women_and_others",
       "sort_order": 48,
-      "month_day": "03-18",
+      "month_day": "03-11",
       "intro": "A disciple in Joppa known for charity to widows, whom Peter raised from the dead.",
       "verse_refs": [
         {
@@ -1720,6 +1722,8 @@
       "sort_order": 49,
       "month_day": "12-28",
       "intro": "The paranoid king of Judea at Jesus' birth, who ordered the massacre of infant boys in Bethlehem.",
+      "reflection": "Herod didn't kill the children of Bethlehem out of hatred for them -- he never even knew their names (Matthew 2:16). He killed them because he could not bear the thought of losing what he had. Fear of losing power, status, or comfort can make even someone who already has everything decide that someone smaller and more vulnerable is worth less than his own security.",
+      "prayer": "Lord, where fear of losing my place has made me willing to harm someone weaker than me, break that fear in me. Let me trust you with what I'm afraid to lose.",
       "verse_refs": [
         {
           "book_id": "mt",
@@ -1751,6 +1755,8 @@
       "sort_order": 50,
       "month_day": "08-29",
       "intro": "Herod the Great's son, who beheaded John the Baptist and later mocked Jesus at his trial.",
+      "reflection": "Antipas didn't want John dead. Mark says he \"feared John, knowing that he was a righteous and holy man,\" and even liked listening to him (Mark 6:20) -- but he gave the order anyway, because he'd made a boastful promise in front of his guests and couldn't stand to look weak by breaking it. It's a specific, recognizable sin: knowing the right thing and doing the wrong one, because reversing course felt more costly than someone else's life.",
+      "prayer": "Lord, give me the courage to break a promise I never should have made, rather than the courage to keep one that costs someone else everything.",
       "verse_refs": [
         {
           "book_id": "mk",
@@ -1789,6 +1795,8 @@
       "sort_order": 51,
       "month_day": "08-30",
       "intro": "Herod Antipas's wife, whose grudge against John the Baptist led to his execution.",
+      "reflection": "Herodias's anger at John was personal -- he'd told the truth about her marriage, and she couldn't let it go (Mark 6:19). What's most unsettling about her story isn't the grudge itself; it's how willingly she drew her own daughter into carrying it out. A resentment that goes unaddressed rarely stays contained -- it looks for a way to act, often through people who never should have been involved in it at all.",
+      "prayer": "Lord, uncover the resentments I'm still nursing, and keep me from ever drawing someone I love into settling a score that was never theirs to carry.",
       "verse_refs": [
         {
           "book_id": "mk",
@@ -1820,6 +1828,8 @@
       "sort_order": 52,
       "month_day": "09-14",
       "intro": "The Roman governor who found no guilt in Jesus, yet handed him over to be crucified.",
+      "reflection": "Pilate said it himself: \"I find no guilt in this man\" (Luke 23:4) -- and handed him over anyway. Washing his hands (Matthew 27:24) didn't make him innocent; it only let him pretend the decision wasn't really his. His is one of the most common and least dramatic sins in all of scripture: knowing what's right, and choosing not to be the one who has to pay for saying so.",
+      "prayer": "Lord, when staying quiet would be easier than standing up for what's true, don't let me mistake my silence for innocence.",
       "verse_refs": [
         {
           "book_id": "jn",
@@ -1858,6 +1868,8 @@
       "sort_order": 53,
       "month_day": "09-13",
       "intro": "The high priest who presided over Jesus' trial and pressed for his death.",
+      "reflection": "Caiaphas's logic was, on its own terms, coldly practical: \"it is better for you that one man should die for the people\" (John 11:50). He wasn't wrong that trouble was coming -- he was wrong to decide that an innocent man's death was an acceptable price for avoiding it. It's the sin of letting expediency answer a question that only justice has the right to answer.",
+      "prayer": "Lord, when it would be easier to let someone else pay for a problem that isn't their fault, give me the honesty to see what I'm actually choosing, and the courage to choose differently.",
       "verse_refs": [
         {
           "book_id": "jn",
@@ -1965,6 +1977,8 @@
       "sort_order": 56,
       "month_day": "01-02",
       "intro": "Adam and Eve's firstborn, whose jealousy of his brother Abel led to history's first murder.",
+      "reflection": "God's warning to Cain names the danger with startling precision: \"sin is crouching at the door... but you must rule over it\" (Genesis 4:7). Cain's anger wasn't itself the sin -- it was what he let that anger become. Envy of someone else's favor or success is common; the question his story leaves for every reader is what we do with it before it rules over us instead of the other way around.",
+      "prayer": "Lord, when I resent someone else's blessing, don't let me carry that resentment until it becomes something I can't undo. Teach me to rule over it, not be ruled by it.",
       "verse_refs": [
         {
           "book_id": "gen",
@@ -2139,7 +2153,7 @@
       "name": "Abraham",
       "category": "patriarchs",
       "sort_order": 61,
-      "month_day": "01-06",
+      "month_day": "01-07",
       "intro": "Called by God to leave his homeland for the promise of a new nation, the father of many nations by faith.",
       "verse_refs": [
         {
@@ -2177,7 +2191,7 @@
       "name": "Sarah",
       "category": "patriarchs",
       "sort_order": 62,
-      "month_day": "01-07",
+      "month_day": "01-08",
       "intro": "Abraham's wife, who laughed at God's promise of a son in her old age, then bore Isaac as promised.",
       "verse_refs": [
         {
@@ -2215,7 +2229,7 @@
       "name": "Hagar",
       "category": "patriarchs",
       "sort_order": 63,
-      "month_day": "01-08",
+      "month_day": "01-09",
       "intro": "Sarah's servant, mother of Ishmael, twice driven into the wilderness and met there by God.",
       "verse_refs": [
         {
@@ -2253,7 +2267,7 @@
       "name": "Isaac",
       "category": "patriarchs",
       "sort_order": 64,
-      "month_day": "01-09",
+      "month_day": "01-10",
       "intro": "The long-promised son of Abraham and Sarah, bound as a sacrifice on Moriah and later father of Jacob and Esau.",
       "verse_refs": [
         {
@@ -2291,7 +2305,7 @@
       "name": "Rebekah",
       "category": "patriarchs",
       "sort_order": 65,
-      "month_day": "01-10",
+      "month_day": "01-11",
       "intro": "Isaac's wife, chosen at a well for her kindness, who later favored Jacob and helped him secure the birthright blessing.",
       "verse_refs": [
         {
@@ -2329,7 +2343,7 @@
       "name": "Jacob (Israel)",
       "category": "patriarchs",
       "sort_order": 66,
-      "month_day": "01-11",
+      "month_day": "01-12",
       "intro": "Isaac's son, who wrestled with God at Peniel and was renamed Israel, father of the twelve tribes.",
       "verse_refs": [
         {
@@ -2367,7 +2381,7 @@
       "name": "Esau",
       "category": "patriarchs",
       "sort_order": 67,
-      "month_day": "01-12",
+      "month_day": "01-13",
       "intro": "Jacob's twin brother, who sold his birthright for a bowl of stew and was later reconciled with him.",
       "verse_refs": [
         {
@@ -2405,7 +2419,7 @@
       "name": "Rachel",
       "category": "patriarchs",
       "sort_order": 68,
-      "month_day": "01-13",
+      "month_day": "01-14",
       "intro": "Jacob's beloved wife, for whom he worked fourteen years, and mother of Joseph and Benjamin.",
       "verse_refs": [
         {
@@ -2443,7 +2457,7 @@
       "name": "Leah",
       "category": "patriarchs",
       "sort_order": 69,
-      "month_day": "01-14",
+      "month_day": "01-15",
       "intro": "Jacob's first wife, less loved than her sister Rachel, yet mother of six of the twelve tribes including Judah.",
       "verse_refs": [
         {
@@ -2481,7 +2495,7 @@
       "name": "Joseph",
       "category": "patriarchs",
       "sort_order": 70,
-      "month_day": "01-15",
+      "month_day": "01-16",
       "intro": "Jacob's favored son, sold into slavery by his brothers, who rose to power in Egypt and forgave them.",
       "verse_refs": [
         {
@@ -2519,7 +2533,7 @@
       "name": "Judah",
       "category": "patriarchs",
       "sort_order": 71,
-      "month_day": "01-16",
+      "month_day": "01-17",
       "intro": "Jacob's fourth son, whose tribe would give rise to David and, through him, to Jesus.",
       "verse_refs": [
         {
@@ -2595,7 +2609,7 @@
       "name": "Aaron",
       "category": "exodus_judges",
       "sort_order": 73,
-      "month_day": "01-17",
+      "month_day": "01-18",
       "intro": "Moses' brother and spokesman, who became Israel's first high priest.",
       "verse_refs": [
         {
@@ -2633,7 +2647,7 @@
       "name": "Miriam",
       "category": "exodus_judges",
       "sort_order": 74,
-      "month_day": "01-18",
+      "month_day": "01-19",
       "intro": "Moses' sister, a prophetess who watched over him as a baby and led Israel's women in song after the Red Sea crossing.",
       "verse_refs": [
         {
@@ -2671,7 +2685,7 @@
       "name": "Joshua",
       "category": "exodus_judges",
       "sort_order": 75,
-      "month_day": "01-19",
+      "month_day": "01-20",
       "intro": "Moses' successor, who led Israel across the Jordan into the Promised Land and captured Jericho.",
       "verse_refs": [
         {
@@ -2709,7 +2723,7 @@
       "name": "Caleb",
       "category": "exodus_judges",
       "sort_order": 76,
-      "month_day": "01-20",
+      "month_day": "01-21",
       "intro": "One of twelve spies sent into Canaan, whose faithful report and lifelong trust in God earned him entry into the Promised Land.",
       "verse_refs": [
         {
@@ -2747,7 +2761,7 @@
       "name": "Rahab",
       "category": "exodus_judges",
       "sort_order": 77,
-      "month_day": "01-21",
+      "month_day": "01-22",
       "intro": "A woman of Jericho who hid Israel's spies and was spared when the city fell, later an ancestor of David.",
       "verse_refs": [
         {
@@ -2785,7 +2799,7 @@
       "name": "Deborah",
       "category": "exodus_judges",
       "sort_order": 78,
-      "month_day": "01-22",
+      "month_day": "01-23",
       "intro": "A prophetess and judge of Israel who led the nation to victory over its oppressors.",
       "verse_refs": [
         {
@@ -2823,7 +2837,7 @@
       "name": "Gideon",
       "category": "exodus_judges",
       "sort_order": 79,
-      "month_day": "01-23",
+      "month_day": "01-24",
       "intro": "A hesitant farmer called to lead Israel, who defeated a vast Midianite army with just three hundred men.",
       "verse_refs": [
         {
@@ -2861,7 +2875,7 @@
       "name": "Samson",
       "category": "exodus_judges",
       "sort_order": 80,
-      "month_day": "01-24",
+      "month_day": "01-25",
       "intro": "A judge of Israel gifted with supernatural strength through his Nazirite vow, undone by his love for Delilah.",
       "verse_refs": [
         {
@@ -2899,8 +2913,10 @@
       "name": "Delilah",
       "category": "exodus_judges",
       "sort_order": 81,
-      "month_day": "01-25",
+      "month_day": "01-28",
       "intro": "The woman who wheedled the secret of Samson's strength out of him and betrayed him to the Philistines.",
+      "reflection": "Delilah didn't stumble into betraying Samson -- she was paid for it, and pressed him for his secret three separate times before he finally gave in (Judges 16:6-17). Her story mirrors Judas's: a relationship treated as a transaction, where a price eventually seemed worth more than the trust it cost. It's worth asking, honestly, what might seem worth that price to us in a weaker moment.",
+      "prayer": "Lord, keep me from ever deciding that someone's trust is worth less than what I stand to gain by breaking it.",
       "verse_refs": [
         {
           "book_id": "judg",
@@ -2937,7 +2953,7 @@
       "name": "Ruth",
       "category": "exodus_judges",
       "sort_order": 82,
-      "month_day": "01-28",
+      "month_day": "01-29",
       "intro": "A Moabite widow whose loyalty to her mother-in-law Naomi led her to become an ancestor of David.",
       "verse_refs": [
         {
@@ -2975,7 +2991,7 @@
       "name": "Naomi",
       "category": "exodus_judges",
       "sort_order": 83,
-      "month_day": "01-29",
+      "month_day": "01-30",
       "intro": "Ruth's mother-in-law, who lost her husband and sons in Moab and returned to Bethlehem bereaved, then blessed.",
       "verse_refs": [
         {
@@ -3013,7 +3029,7 @@
       "name": "Boaz",
       "category": "exodus_judges",
       "sort_order": 84,
-      "month_day": "01-30",
+      "month_day": "01-31",
       "intro": "A kind and wealthy landowner who married Ruth as her kinsman-redeemer, becoming an ancestor of David.",
       "verse_refs": [
         {
@@ -3051,7 +3067,7 @@
       "name": "Samuel",
       "category": "kingdom",
       "sort_order": 85,
-      "month_day": "01-31",
+      "month_day": "02-01",
       "intro": "Given to the Lord's service as a boy, Israel's last judge and a prophet who anointed both Saul and David as king.",
       "verse_refs": [
         {
@@ -3089,7 +3105,7 @@
       "name": "Hannah",
       "category": "kingdom",
       "sort_order": 86,
-      "month_day": "02-01",
+      "month_day": "02-04",
       "intro": "Samuel's mother, who prayed years for a child and dedicated him to the Lord's service once he was born.",
       "verse_refs": [
         {
@@ -3127,8 +3143,10 @@
       "name": "Saul",
       "category": "kingdom",
       "sort_order": 87,
-      "month_day": "02-04",
+      "month_day": "02-05",
       "intro": "Israel's first king, tall and promising, whose disobedience and jealousy of David led to his downfall.",
+      "reflection": "Saul's decline starts with a disobedience that looked almost reasonable -- keeping the best of the plunder \"to sacrifice to the Lord\" (1 Samuel 15:15) -- and hardens, over years, into a jealousy of David so consuming that he repeatedly tries to kill the man he was supposed to be mentoring (1 Samuel 18-19). The pattern is a warning: a first compromise, left unrepented, tends to grow into something far darker than it looked at the start.",
+      "prayer": "Lord, when I've already made one compromise, don't let me talk myself into believing the next one is smaller. Help me turn back at the first step, not the last.",
       "verse_refs": [
         {
           "book_id": "1sam",
@@ -3165,7 +3183,7 @@
       "name": "Jonathan",
       "category": "kingdom",
       "sort_order": 88,
-      "month_day": "02-05",
+      "month_day": "02-06",
       "intro": "Saul's son, whose deep friendship with David survived his father's jealous rage.",
       "verse_refs": [
         {
@@ -3203,7 +3221,7 @@
       "name": "David",
       "category": "kingdom",
       "sort_order": 89,
-      "month_day": "02-06",
+      "month_day": "12-20",
       "intro": "A shepherd boy who slew Goliath and became Israel's greatest king, a man after God's own heart despite his sins.",
       "verse_refs": [
         {
@@ -3241,7 +3259,7 @@
       "name": "Bathsheba",
       "category": "kingdom",
       "sort_order": 90,
-      "month_day": "02-07",
+      "month_day": "12-21",
       "intro": "The woman David took as his wife after a great sin against her family, and mother of Solomon.",
       "verse_refs": [
         {
@@ -3279,7 +3297,7 @@
       "name": "Nathan",
       "category": "kingdom",
       "sort_order": 91,
-      "month_day": "02-08",
+      "month_day": "12-22",
       "intro": "A court prophet who confronted King David over his sin with Bathsheba with a piercing parable.",
       "verse_refs": [
         {
@@ -3310,8 +3328,10 @@
       "name": "Absalom",
       "category": "kingdom",
       "sort_order": 92,
-      "month_day": "02-09",
+      "month_day": "02-07",
       "intro": "David's handsome, rebellious son, whose revolt against his father ended in his own death.",
+      "reflection": "Absalom had a real grievance -- his father David never punished Amnon for what he did to Tamar (2 Samuel 13:21-22). But grief and anger left unanswered for years can turn into something far worse than the original wrong: Absalom's slow-burning resentment ended in open rebellion against his own father, and in his own death. An unaddressed hurt doesn't stay still -- left long enough, it looks for somewhere to go.",
+      "prayer": "Lord, where I'm carrying a hurt that was never made right, don't let me carry it in silence until it becomes something I can't take back. Give me the courage to bring it into the light instead.",
       "verse_refs": [
         {
           "book_id": "2sam",
@@ -3348,7 +3368,7 @@
       "name": "Solomon",
       "category": "kingdom",
       "sort_order": 93,
-      "month_day": "02-10",
+      "month_day": "12-17",
       "intro": "David's son, who asked God for wisdom above riches, built the Temple in Jerusalem, and wrote much of the Wisdom literature.",
       "verse_refs": [
         {
@@ -3462,8 +3482,10 @@
       "name": "Ahab",
       "category": "kingdom",
       "sort_order": 96,
-      "month_day": "02-11",
+      "month_day": "07-18",
       "intro": "A king of Israel who married the pagan Jezebel and led the nation into idolatry, opposed by Elijah.",
+      "reflection": "Ahab's sin began small: he wanted Naboth's vineyard, and sulked like a child when Naboth wouldn't sell it (1 Kings 21:4). He didn't order Naboth's death himself -- Jezebel did that -- but he took the vineyard anyway, knowing exactly what it had cost. Letting someone else carry out the wrong you benefit from doesn't leave your own hands clean.",
+      "prayer": "Lord, show me where I've quietly benefited from a wrong I didn't commit myself but didn't refuse either. Give me the honesty to say no to what isn't rightly mine.",
       "verse_refs": [
         {
           "book_id": "1kgs",
@@ -3500,8 +3522,10 @@
       "name": "Jezebel",
       "category": "kingdom",
       "sort_order": 97,
-      "month_day": "02-12",
+      "month_day": "07-19",
       "intro": "Ahab's foreign queen, who promoted Baal worship and hunted the prophets of the Lord.",
+      "reflection": "Jezebel didn't covet Naboth's vineyard -- her husband did. But she was the one willing to forge the letters and arrange the false witnesses to get it for him (1 Kings 21:8-13). Her sin is using real power for someone else's small want, without ever pausing to ask whether the cost -- an innocent man's life -- was one anyone had the right to pay.",
+      "prayer": "Lord, don't let my willingness to help someone I love become willingness to help them do wrong. Give me the courage to say no, even to the people closest to me.",
       "verse_refs": [
         {
           "book_id": "1kgs",
@@ -3538,7 +3562,7 @@
       "name": "Isaiah",
       "category": "prophets",
       "sort_order": 98,
-      "month_day": "02-13",
+      "month_day": "03-25",
       "intro": "A major prophet whose vision of God's glory sent him into ministry, and whose writings foretell the coming Messiah.",
       "verse_refs": [
         {
@@ -3576,7 +3600,7 @@
       "name": "Jeremiah",
       "category": "prophets",
       "sort_order": 99,
-      "month_day": "02-14",
+      "month_day": "02-08",
       "intro": "\"The weeping prophet,\" called from youth to warn Judah of coming judgment while mourning for his people.",
       "verse_refs": [
         {
@@ -3614,7 +3638,7 @@
       "name": "Ezekiel",
       "category": "prophets",
       "sort_order": 100,
-      "month_day": "02-15",
+      "month_day": "02-09",
       "intro": "A priest-prophet among the exiles in Babylon, known for vivid visions, including a valley of dry bones brought to life.",
       "verse_refs": [
         {
@@ -3652,7 +3676,7 @@
       "name": "Daniel",
       "category": "prophets",
       "sort_order": 101,
-      "month_day": "02-16",
+      "month_day": "02-10",
       "intro": "A young exile in Babylon who kept faith with God through dream interpretations, court intrigue, and a night in the lions' den.",
       "verse_refs": [
         {
@@ -3690,7 +3714,7 @@
       "name": "Shadrach, Meshach, and Abednego",
       "category": "prophets",
       "sort_order": 102,
-      "month_day": "02-17",
+      "month_day": "02-11",
       "intro": "Daniel's three companions in Babylon, thrown into a fiery furnace for refusing to worship an idol, and preserved unharmed.",
       "verse_refs": [
         {
@@ -3728,7 +3752,7 @@
       "name": "Hosea",
       "category": "prophets",
       "sort_order": 103,
-      "month_day": "02-18",
+      "month_day": "02-12",
       "intro": "A prophet whose troubled marriage became a living picture of God's faithful love for an unfaithful Israel.",
       "verse_refs": [
         {
@@ -3766,7 +3790,7 @@
       "name": "Joel",
       "category": "prophets",
       "sort_order": 104,
-      "month_day": "02-19",
+      "month_day": "02-13",
       "intro": "A prophet who called Judah to repentance after a locust plague, and foretold the outpouring of God's Spirit.",
       "verse_refs": [
         {
@@ -3804,7 +3828,7 @@
       "name": "Amos",
       "category": "prophets",
       "sort_order": 105,
-      "month_day": "02-20",
+      "month_day": "02-14",
       "intro": "A shepherd called from Judah to prophesy against Israel's injustice toward the poor.",
       "verse_refs": [
         {
@@ -3842,7 +3866,7 @@
       "name": "Jonah",
       "category": "prophets",
       "sort_order": 106,
-      "month_day": "02-21",
+      "month_day": "02-15",
       "intro": "A reluctant prophet who fled God's call to preach to Nineveh, was swallowed by a great fish, and finally obeyed.",
       "verse_refs": [
         {
@@ -3880,7 +3904,7 @@
       "name": "Micah",
       "category": "prophets",
       "sort_order": 107,
-      "month_day": "02-22",
+      "month_day": "01-06",
       "intro": "A prophet of Judah who denounced corrupt leaders and foretold the Messiah's birth in Bethlehem.",
       "verse_refs": [
         {
@@ -3956,7 +3980,7 @@
       "name": "Ezra",
       "category": "post_exile",
       "sort_order": 109,
-      "month_day": "02-23",
+      "month_day": "02-16",
       "intro": "A priest and scribe who led exiles back to Jerusalem and renewed the people's commitment to God's Law.",
       "verse_refs": [
         {
@@ -3994,7 +4018,7 @@
       "name": "Nehemiah",
       "category": "post_exile",
       "sort_order": 110,
-      "month_day": "02-24",
+      "month_day": "02-17",
       "intro": "Cupbearer to a Persian king who returned to Jerusalem and rebuilt its walls despite fierce opposition.",
       "verse_refs": [
         {
@@ -4032,7 +4056,7 @@
       "name": "Esther",
       "category": "post_exile",
       "sort_order": 111,
-      "month_day": "02-25",
+      "month_day": "02-18",
       "intro": "A Jewish queen of Persia who risked her life to save her people from destruction.",
       "verse_refs": [
         {
@@ -4070,7 +4094,7 @@
       "name": "Mordecai",
       "category": "post_exile",
       "sort_order": 112,
-      "month_day": "02-26",
+      "month_day": "02-19",
       "intro": "Esther's cousin and guardian, who raised the alarm over a plot against the Jews and was ultimately honored by the king.",
       "verse_refs": [
         {
@@ -4108,7 +4132,7 @@
       "name": "Tobit",
       "category": "post_exile",
       "sort_order": 113,
-      "month_day": "02-27",
+      "month_day": "02-20",
       "intro": "A righteous exile in Nineveh who, despite blindness and hardship, remained devoted to charity and prayer.",
       "requires_deuterocanon": true,
       "verse_refs": [
@@ -4147,7 +4171,7 @@
       "name": "Judith",
       "category": "post_exile",
       "sort_order": 114,
-      "month_day": "02-28",
+      "month_day": "02-21",
       "intro": "A brave and pious widow who saved her city by outwitting and defeating the enemy general Holofernes.",
       "requires_deuterocanon": true,
       "verse_refs": [

@@ -179,6 +179,11 @@ data class ScriptureVerse(
  * calendar -- one character per calendar day, same convention as
  * `DailyPassage.monthDay` -- chosen for liturgical/scriptural significance
  * where a real feast day applies, otherwise placed thematically.
+ * `reflection`/`prayer` are null for almost every character; they're
+ * populated only for figures whose defining role is a sin the reader might
+ * recognize in themselves (Judas's betrayal for money, Herod's slaughter of
+ * the innocents, and similar) -- naming what was wrong and offering a
+ * reconciliation-shaped prayer, rather than just narrating their story.
  */
 @Entity(tableName = "character")
 data class BibleCharacter(
@@ -188,7 +193,9 @@ data class BibleCharacter(
     val category: String,
     @ColumnInfo(name = "sort_order") val sortOrder: Int,
     @ColumnInfo(name = "requires_deuterocanon") val requiresDeuterocanon: Boolean,
-    @ColumnInfo(name = "month_day") val monthDay: String
+    @ColumnInfo(name = "month_day") val monthDay: String,
+    val reflection: String? = null,
+    val prayer: String? = null
 )
 
 /** Translated name/intro for one character, in one UI language. Same fallback-to-English pattern as [FeelingTranslation]. */
@@ -313,7 +320,9 @@ data class CharacterSummary(
     val name: String,
     val intro: String,
     val category: String,
-    @ColumnInfo(name = "sort_order") val sortOrder: Int
+    @ColumnInfo(name = "sort_order") val sortOrder: Int,
+    val reflection: String?,
+    val prayer: String?
 )
 
 // ---------- DAOs ----------
@@ -497,7 +506,7 @@ interface ContentDao {
     @Query(
         """
         SELECT c.id, COALESCE(t.name, c.name) AS name, COALESCE(t.intro, c.intro) AS intro,
-               c.category, c.sort_order
+               c.category, c.sort_order, c.reflection, c.prayer
         FROM character c
         LEFT JOIN character_translation t ON t.character_id = c.id AND t.language = :language
         WHERE (:includeDeuterocanon OR c.requires_deuterocanon = 0)
@@ -590,7 +599,7 @@ interface SeedDao {
         BibleCharacter::class, CharacterTranslation::class, CharacterVerseRef::class,
         BibleBookmark::class, CharacterVerseRefTranslation::class
     ],
-    version = 8,
+    version = 9,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {
