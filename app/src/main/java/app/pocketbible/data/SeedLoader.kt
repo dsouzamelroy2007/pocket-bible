@@ -26,6 +26,13 @@ import org.json.JSONObject
  *                         (month_day -> character_id, same shape as topics.json's
  *                         daily_passages -- several days can point at the same character)
  *   - character_translation entries, same fallback-to-English pattern as topics
+ *   - lectionary/<year>.json  Daily Mass reading citations for one calendar year
+ *                         (date -> first_reading/psalm/second_reading/gospel
+ *                         citations, plus an optional reflection) -- see
+ *                         tools/fetch_lectionary.py and tools/parse_lectionary.py
+ *                         for where the citations come from. Citations only,
+ *                         same live-resolved-from-scripture_verse model as
+ *                         character verse_refs.
  *
  * Adding a book or a new translation/language is meant to be a matter of
  * dropping a new scripture/<translation_id>/<book_id>.json file (see
@@ -280,6 +287,48 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                 } ?: emptyList()
             )
         }
+
+        val dailyReadings = mutableListOf<DailyReading>()
+        val readingCitations = mutableListOf<ReadingCitation>()
+        val lectionaryFiles = manifest.optJSONArray("lectionary") ?: JSONArray()
+        for (i in 0 until lectionaryFiles.length()) {
+            val ref = lectionaryFiles.getJSONObject(i)
+            val year = readJson(ref.getString("path"))
+            val days = year.optJSONArray("days") ?: JSONArray()
+            for (j in 0 until days.length()) {
+                val day = days.getJSONObject(j)
+                val date = day.getString("date")
+                dailyReadings += DailyReading(
+                    date = date,
+                    season = day.getString("season"),
+                    usccbLink = day.getString("usccb_link"),
+                    reflection = if (day.has("reflection")) day.getString("reflection") else null
+                )
+                val readings = day.optJSONArray("readings") ?: JSONArray()
+                for (k in 0 until readings.length()) {
+                    val reading = readings.getJSONObject(k)
+                    val role = reading.getString("role")
+                    val citationDisplay = reading.getString("citation_display")
+                    val refs = reading.optJSONArray("refs") ?: JSONArray()
+                    for (p in 0 until refs.length()) {
+                        val r = refs.getJSONObject(p)
+                        readingCitations += ReadingCitation(
+                            date = date,
+                            role = role,
+                            citationDisplay = citationDisplay,
+                            bookId = r.getString("book_id"),
+                            chapterStart = r.getInt("chapter_start"),
+                            verseStart = r.getInt("verse_start"),
+                            chapterEnd = r.getInt("chapter_end"),
+                            verseEnd = r.getInt("verse_end"),
+                            position = p
+                        )
+                    }
+                }
+            }
+        }
+        seedDao.insertDailyReadings(dailyReadings)
+        seedDao.insertReadingCitations(readingCitations)
 
         prefs.edit().putInt("content_version", version).apply()
     }

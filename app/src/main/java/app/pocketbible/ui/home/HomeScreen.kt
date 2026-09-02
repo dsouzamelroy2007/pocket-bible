@@ -1,5 +1,6 @@
 package app.pocketbible.ui.home
 
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -38,6 +39,7 @@ import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import app.pocketbible.R
+import app.pocketbible.data.DailyReading
 import app.pocketbible.data.Feeling
 import app.pocketbible.data.Passage
 import app.pocketbible.ui.theme.categoryAccent
@@ -65,11 +67,13 @@ fun HomeScreen(
     searchQuery: String,
     searchResults: List<Feeling>,
     verseOfDay: Passage?,
+    dailyReading: DailyReading?,
     onSearchQueryChange: (String) -> Unit,
     onFeelingSelected: (Feeling) -> Unit,
     onLanguageSelected: (String?) -> Unit,
     onSavedClicked: () -> Unit,
     onAboutClicked: () -> Unit,
+    onDailyReadingClicked: () -> Unit = {},
     modifier: Modifier = Modifier
 ) {
     Column(
@@ -191,6 +195,23 @@ fun HomeScreen(
                         verse.referenceDisplay,
                         style = MaterialTheme.typography.labelSmall,
                         color = MaterialTheme.colorScheme.onPrimaryContainer
+                    )
+                }
+            }
+        }
+
+        dailyReading?.let {
+            Spacer(Modifier.height(12.dp))
+            Card(
+                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.secondaryContainer),
+                modifier = Modifier.fillMaxWidth().clickable(onClick = onDailyReadingClicked)
+            ) {
+                Column(Modifier.padding(16.dp)) {
+                    Text(
+                        stringResource(R.string.home_daily_reading),
+                        style = MaterialTheme.typography.labelMedium,
+                        fontWeight = FontWeight.Medium,
+                        color = MaterialTheme.colorScheme.onSecondaryContainer
                     )
                 }
             }

@@ -295,6 +295,53 @@ data class BibleBookmark(
     @ColumnInfo(name = "created_at") val createdAt: Long
 )
 
+/**
+ * A single calendar date's Mass readings (e.g. "2026-01-01") -- a real
+ * date, not a repeating "MM-DD" like [CharacterOfDay]/[DailyPassage],
+ * since which readings fall on a given date differs year to year (the
+ * lectionary's own weekday/Sunday cycles, moveable feasts). `reflection`
+ * is null until authored (original devotional prose, like
+ * `Entry.reflection`, not scripture text) -- the citations still resolve
+ * and display without one.
+ */
+@Entity(tableName = "daily_reading")
+data class DailyReading(
+    @PrimaryKey val date: String,
+    val season: String,
+    @ColumnInfo(name = "usccb_link") val usccbLink: String,
+    val reflection: String? = null
+)
+
+/**
+ * One citation (book/chapter/verse range) belonging to one reading role
+ * ("first_reading", "psalm", "second_reading", "gospel") on one date.
+ * Several rows can share a `date` + `role` -- a psalm citation like
+ * "67:2-3, 5, 6, 8" is 4 rows, `position` 0-3 -- and `chapterStart` can
+ * differ from `chapterEnd` for a genuine cross-chapter span like
+ * "Isaiah 52:13-53:12". `citationDisplay` is the same human-readable
+ * reference repeated on every row for that role (e.g. "Psalm 67:2-3, 5,
+ * 6, 8") -- denormalized, same tradeoff `CharacterVerseRef.caption`
+ * already makes, for the same reason: no real UI to show it once and
+ * fan it out. No text is stored -- resolved live from scripture_verse,
+ * same as everywhere else in this app.
+ */
+@Entity(
+    tableName = "reading_citation",
+    indices = [Index("date", "role")]
+)
+data class ReadingCitation(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    val date: String,
+    val role: String,
+    @ColumnInfo(name = "citation_display") val citationDisplay: String,
+    @ColumnInfo(name = "book_id") val bookId: String,
+    @ColumnInfo(name = "chapter_start") val chapterStart: Int,
+    @ColumnInfo(name = "verse_start") val verseStart: Int,
+    @ColumnInfo(name = "chapter_end") val chapterEnd: Int,
+    @ColumnInfo(name = "verse_end") val verseEnd: Int,
+    val position: Int
+)
+
 // ---------- Read models used by the UI ----------
 
 data class EntrySummary(
@@ -547,6 +594,42 @@ interface ContentDao {
 
     @Query("DELETE FROM bible_bookmark WHERE id = :id")
     suspend fun deleteBookmark(id: Long)
+
+    // ---------- Daily readings ----------
+
+    @Query("SELECT * FROM daily_reading WHERE date = :date")
+    suspend fun dailyReading(date: String): DailyReading?
+
+    @Query("SELECT * FROM reading_citation WHERE date = :date ORDER BY role, position")
+    suspend fun readingCitations(date: String): List<ReadingCitation>
+
+    /**
+     * Every verse from (chapterStart, verseStart) through (chapterEnd,
+     * verseEnd) inclusive, same chapter or spanning several -- unlike
+     * [versesForChapter], which only ever looks at one chapter, this is
+     * what a reading citation like "Isaiah 52:13-53:12" needs. Only
+     * returns verses that actually exist, so a citation that overshoots
+     * this translation's real last verse (a few lectionary citations
+     * follow different versification -- see content/lectionary's own
+     * note) just quietly stops there instead of erroring.
+     */
+    @Query(
+        """
+        SELECT * FROM scripture_verse
+        WHERE book_id = :bookId AND translation_id = :translationId
+          AND (chapter > :chapterStart OR (chapter = :chapterStart AND verse >= :verseStart))
+          AND (chapter < :chapterEnd OR (chapter = :chapterEnd AND verse <= :verseEnd))
+        ORDER BY chapter, verse
+        """
+    )
+    suspend fun versesForRange(
+        bookId: String,
+        chapterStart: Int,
+        verseStart: Int,
+        chapterEnd: Int,
+        verseEnd: Int,
+        translationId: String
+    ): List<ScriptureVerse>
 }
 
 /** Bulk inserts used once, on first launch, to hydrate the bundled content. */
@@ -599,6 +682,12 @@ interface SeedDao {
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertCharacterOfDay(items: List<CharacterOfDay>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertDailyReadings(items: List<DailyReading>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertReadingCitations(items: List<ReadingCitation>)
 }
 
 @Database(
@@ -608,9 +697,10 @@ interface SeedDao {
         EntryPassage::class, DailyPassage::class,
         SavedEntry::class, ViewHistory::class, ScriptureVerse::class,
         BibleCharacter::class, CharacterTranslation::class, CharacterVerseRef::class,
-        BibleBookmark::class, CharacterVerseRefTranslation::class, CharacterOfDay::class
+        BibleBookmark::class, CharacterVerseRefTranslation::class, CharacterOfDay::class,
+        DailyReading::class, ReadingCitation::class
     ],
-    version = 10,
+    version = 11,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {

@@ -39,6 +39,7 @@ import app.pocketbible.ui.bible.localizedBookName
 import app.pocketbible.ui.characters.CharacterDetailScreen
 import app.pocketbible.ui.characters.CharactersScreen
 import app.pocketbible.ui.home.HomeScreen
+import app.pocketbible.ui.reading.DailyReadingScreen
 import app.pocketbible.ui.saved.SavedScreen
 import app.pocketbible.ui.theme.PocketBibleTheme
 import app.pocketbible.ui.verse.VerseScreen
@@ -93,11 +94,11 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
         bottomBar = {
             NavigationBar {
                 NavigationBarItem(
-                    selected = currentRoute == "home" || currentRoute == "verse" || currentRoute == null,
+                    selected = currentRoute == "home" || currentRoute == "verse" || currentRoute == "reading" || currentRoute == null,
                     onClick = { navController.navigate("home") { launchSingleTop = true } },
                     icon = {
                         Icon(
-                            if (currentRoute == "verse") Icons.Filled.Favorite else Icons.Outlined.FavoriteBorder,
+                            if (currentRoute == "verse" || currentRoute == "reading") Icons.Filled.Favorite else Icons.Outlined.FavoriteBorder,
                             contentDescription = null
                         )
                     },
@@ -138,11 +139,13 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                 val searchQuery by viewModel.searchQuery.collectAsState()
                 val searchResults by viewModel.searchResults.collectAsState()
                 val verseOfDay by viewModel.verseOfDay.collectAsState()
+                val dailyReading by viewModel.dailyReading.collectAsState()
                 HomeScreen(
                     feelings = feelings,
                     searchQuery = searchQuery,
                     searchResults = searchResults,
                     verseOfDay = verseOfDay,
+                    dailyReading = dailyReading,
                     onSearchQueryChange = { viewModel.onSearchQueryChange(it) },
                     onFeelingSelected = {
                         viewModel.selectFeeling(it)
@@ -150,7 +153,17 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     },
                     onLanguageSelected = onLanguageSelected,
                     onSavedClicked = { navController.navigate("saved") },
-                    onAboutClicked = { navController.navigate("about") }
+                    onAboutClicked = { navController.navigate("about") },
+                    onDailyReadingClicked = { navController.navigate("reading") }
+                )
+            }
+            composable("reading") {
+                val dailyReading by viewModel.dailyReading.collectAsState()
+                val resolvedReadings by viewModel.resolvedReadings.collectAsState()
+                DailyReadingScreen(
+                    dailyReading = dailyReading,
+                    readings = resolvedReadings,
+                    onBack = { navController.popBackStack() }
                 )
             }
             composable("about") {

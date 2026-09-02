@@ -8,6 +8,7 @@ import app.pocketbible.data.BibleBookmark
 import app.pocketbible.data.Book
 import app.pocketbible.data.CharacterSummary
 import app.pocketbible.data.ContentRepository
+import app.pocketbible.data.DailyReading
 import app.pocketbible.data.EntrySummary
 import app.pocketbible.data.Feeling
 import app.pocketbible.data.Passage
@@ -37,6 +38,15 @@ data class CharacterVerseDisplay(
     val verseEnd: Int,
     val verses: List<ScriptureVerse>
 )
+
+/** One reading role ("first_reading"/"psalm"/"second_reading"/"gospel") for today, its citation, and the real resolved text for the current translation -- empty if that translation doesn't have the cited book/chapter(s) yet. */
+data class ResolvedReading(
+    val role: String,
+    val citationDisplay: String,
+    val text: String
+)
+
+private val READING_ROLE_ORDER = listOf("first_reading", "psalm", "second_reading", "gospel")
 
 class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
@@ -108,6 +118,14 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     private val _verseOfDay = MutableStateFlow<Passage?>(null)
     val verseOfDay: StateFlow<Passage?> = _verseOfDay.asStateFlow()
 
+    // ---------- Daily reading ----------
+
+    private val _dailyReading = MutableStateFlow<DailyReading?>(null)
+    val dailyReading: StateFlow<DailyReading?> = _dailyReading.asStateFlow()
+
+    private val _resolvedReadings = MutableStateFlow<List<ResolvedReading>>(emptyList())
+    val resolvedReadings: StateFlow<List<ResolvedReading>> = _resolvedReadings.asStateFlow()
+
     // ---------- Language ----------
 
     private var loadedLanguage: String? = null
@@ -148,6 +166,24 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         return passage.copy(text = verses.sortedBy { it.verse }.joinToString(" ") { it.text }, pullQuote = null)
     }
 
+    /** Loads today's Mass readings (if this app ships that date's lectionary year) and resolves each role's citation(s) to real text for the current translation. */
+    private suspend fun loadDailyReading() {
+        val date = LocalDate.now().format(DateTimeFormatter.ISO_LOCAL_DATE)
+        _dailyReading.value = repo.dailyReading(date)
+        val translationId = currentTranslationId()
+        _resolvedReadings.value = repo.readingCitations(date)
+            .groupBy { it.role }
+            .map { (role, refs) ->
+                val sorted = refs.sortedBy { it.position }
+                val perRange = sorted.map { ref ->
+                    repo.versesForRange(ref.bookId, ref.chapterStart, ref.verseStart, ref.chapterEnd, ref.verseEnd, translationId)
+                        .joinToString(" ") { it.text }
+                }
+                ResolvedReading(role = role, citationDisplay = sorted.first().citationDisplay, text = perRange.joinToString(" "))
+            }
+            .sortedBy { READING_ROLE_ORDER.indexOf(it.role) }
+    }
+
     /**
      * Re-issues the language-dependent queries (topics list, saved list, the
      * currently open topic's entries, and the Read tab's book list) if the
@@ -182,6 +218,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
             val monthDay = LocalDate.now().format(DateTimeFormatter.ofPattern("MM-dd"))
             _verseOfDay.value = repo.verseOfDay(monthDay)?.let { resolvedPassage(it) }
         }
+        viewModelScope.launch { loadDailyReading() }
     }
 
     init {

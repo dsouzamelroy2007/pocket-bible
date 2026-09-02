@@ -75,4 +75,19 @@ class ContentRepository(private val dao: ContentDao) {
     }
 
     suspend fun removeBookmark(id: Long) = dao.deleteBookmark(id)
+
+    // ---------- Daily readings ----------
+
+    suspend fun dailyReading(date: String): DailyReading? = dao.dailyReading(date)
+
+    suspend fun readingCitations(date: String): List<ReadingCitation> = dao.readingCitations(date)
+
+    suspend fun versesForRange(
+        bookId: String,
+        chapterStart: Int,
+        verseStart: Int,
+        chapterEnd: Int,
+        verseEnd: Int,
+        translationId: String
+    ): List<ScriptureVerse> = dao.versesForRange(bookId, chapterStart, verseStart, chapterEnd, verseEnd, translationId)
 }

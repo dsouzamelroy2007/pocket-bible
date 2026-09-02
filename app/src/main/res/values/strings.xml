@@ -20,6 +20,17 @@
     <string name="home_matches">Matches</string>
     <string name="home_i_am_feeling">I am feeling…</string>
     <string name="home_verse_of_day">Verse of the day</string>
+    <string name="home_daily_reading">Today\'s Mass readings</string>
+
+    <!-- Daily readings -->
+    <string name="reading_title">Today\'s Readings</string>
+    <string name="reading_role_first_reading">First Reading</string>
+    <string name="reading_role_psalm">Responsorial Psalm</string>
+    <string name="reading_role_second_reading">Second Reading</string>
+    <string name="reading_role_gospel">Gospel</string>
+    <string name="reading_text_unavailable">Not available in this language yet.</string>
+    <string name="reading_reflection_heading">Reflection</string>
+    <string name="reading_none_today">No readings loaded for today\'s date yet.</string>
 
     <!-- Read tab -->
     <string name="read_title">Bible</string>
