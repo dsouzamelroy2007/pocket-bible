@@ -6214,9 +6214,1550 @@
           "caption": "His army destroyed in the returning sea"
         }
       ]
+    },
+    {
+      "id": "eli",
+      "name": "Eli",
+      "category": "kingdom",
+      "sort_order": 176,
+      "requires_deuterocanon": false,
+      "intro": "The high priest and last of Israel's judges, who raised the prophet Samuel from childhood -- but whose failure to restrain his own corrupt sons cost him everything.",
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter": 1,
+          "verse_start": 24,
+          "verse_end": 25,
+          "caption": "Receives young Samuel, dedicated to the LORD"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 3,
+          "verse_start": 8,
+          "verse_end": 9,
+          "caption": "Recognizes it is God calling Samuel by night"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 2,
+          "verse_start": 29,
+          "verse_end": 29,
+          "caption": "Rebuked for honoring his sons above God"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 4,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "Dies on hearing the Ark has been captured"
+        }
+      ]
+    },
+    {
+      "id": "hophni-and-phinehas",
+      "name": "Hophni and Phinehas",
+      "category": "kingdom",
+      "sort_order": 177,
+      "requires_deuterocanon": false,
+      "intro": "Eli's two sons and priests, whose contempt for the LORD's offering and abuse of their position brought judgment on their whole family.",
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter": 2,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "\"worthless men; they didn't know the LORD\""
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 2,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Treated the LORD's offering with contempt"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 2,
+          "verse_start": 34,
+          "verse_end": 34,
+          "caption": "Told both will die on the same day"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 4,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Both killed, the Ark captured, in a single battle"
+        }
+      ]
+    },
+    {
+      "id": "elkanah",
+      "name": "Elkanah",
+      "category": "kingdom",
+      "sort_order": 178,
+      "requires_deuterocanon": false,
+      "intro": "Samuel's father, a devout man with two wives, whose yearly worship at Shiloh and tenderness toward the grieving Hannah set the stage for Samuel's birth.",
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter": 1,
+          "verse_start": 4,
+          "verse_end": 5,
+          "caption": "Gives Hannah a double portion, though she is childless"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 1,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "\"Am I not more to you than ten sons?\""
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 1,
+          "verse_start": 21,
+          "verse_end": 23,
+          "caption": "Supports Hannah's vow to dedicate their son to the LORD"
+        }
+      ]
+    },
+    {
+      "id": "peninnah",
+      "name": "Peninnah",
+      "category": "kingdom",
+      "sort_order": 179,
+      "requires_deuterocanon": false,
+      "intro": "Elkanah's other wife, who had children while Hannah had none, and who provoked Hannah year after year over it.",
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter": 1,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Elkanah's other wife, who had children"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 1,
+          "verse_start": 6,
+          "verse_end": 7,
+          "caption": "Provokes Hannah severely, to make her fret"
+        }
+      ]
+    },
+    {
+      "id": "abigail",
+      "name": "Abigail",
+      "category": "kingdom",
+      "sort_order": 180,
+      "requires_deuterocanon": false,
+      "intro": "A woman of good sense married to the foolish, harsh Nabal, whose quick intervention kept David from bloodguilt -- and who became David's wife after Nabal's death.",
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter": 25,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Described as intelligent and beautiful, married to a harsh man"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 25,
+          "verse_start": 23,
+          "verse_end": 24,
+          "caption": "Falls at David's feet, takes the blame on herself"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 25,
+          "verse_start": 32,
+          "verse_end": 33,
+          "caption": "David: \"Blessed is your discretion\""
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 25,
+          "verse_start": 42,
+          "verse_end": 42,
+          "caption": "Becomes David's wife"
+        }
+      ]
+    },
+    {
+      "id": "michal",
+      "name": "Michal",
+      "category": "kingdom",
+      "sort_order": 181,
+      "requires_deuterocanon": false,
+      "intro": "Saul's daughter and David's first wife, who saved David's life by helping him escape her father -- and who later despised him for dancing before the Ark.",
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter": 18,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Loves David; given to him in marriage"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 19,
+          "verse_start": 11,
+          "verse_end": 12,
+          "caption": "Helps David escape through a window"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 6,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Despises David in her heart for dancing before the LORD"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 6,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "Has no children to the day of her death"
+        }
+      ]
+    },
+    {
+      "id": "joab",
+      "name": "Joab",
+      "category": "kingdom",
+      "sort_order": 182,
+      "requires_deuterocanon": false,
+      "intro": "David's nephew and the commander of his army -- fiercely loyal, ruthlessly effective, and willing to kill in ways that haunted David's reign long after each battle ended.",
+      "verse_refs": [
+        {
+          "book_id": "2sam",
+          "chapter": 3,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Kills Abner in revenge for his brother's death"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 11,
+          "verse_start": 14,
+          "verse_end": 15,
+          "caption": "Carries out David's order against Uriah"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 14,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Arranges for Absalom's return to Jerusalem"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 18,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Kills Absalom against David's direct order"
+        }
+      ]
+    },
+    {
+      "id": "abner",
+      "name": "Abner",
+      "category": "kingdom",
+      "sort_order": 183,
+      "requires_deuterocanon": false,
+      "intro": "Saul's cousin and army commander, who kept Saul's dynasty alive after his death -- until his own falling-out led to his murder by Joab.",
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter": 14,
+          "verse_start": 50,
+          "verse_end": 50,
+          "caption": "Commander of Saul's army"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 2,
+          "verse_start": 8,
+          "verse_end": 9,
+          "caption": "Makes Saul's son Ish-bosheth king over Israel"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 3,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Turns to make peace with David"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 3,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Murdered by Joab in revenge"
+        }
+      ]
+    },
+    {
+      "id": "uriah-the-hittite",
+      "name": "Uriah the Hittite",
+      "category": "kingdom",
+      "sort_order": 184,
+      "requires_deuterocanon": false,
+      "intro": "One of David's mighty men, whose wife Bathsheba David took -- and whose stubborn loyalty to his fellow soldiers, refusing the comfort of home while they camped in the field, sealed his own death warrant.",
+      "verse_refs": [
+        {
+          "book_id": "2sam",
+          "chapter": 11,
+          "verse_start": 9,
+          "verse_end": 11,
+          "caption": "Refuses to go home while the army is in the field"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 11,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "David's letter ordering him placed where he'll die"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 11,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Killed in battle as arranged"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 23,
+          "verse_start": 39,
+          "verse_end": 39,
+          "caption": "Named among David's mighty men"
+        }
+      ]
+    },
+    {
+      "id": "mephibosheth",
+      "name": "Mephibosheth",
+      "category": "kingdom",
+      "sort_order": 185,
+      "requires_deuterocanon": false,
+      "intro": "Jonathan's crippled son, the last remaining heir of Saul's house, whom David sought out to show kindness \"for Jonathan's sake\" rather than eliminate as a rival.",
+      "verse_refs": [
+        {
+          "book_id": "2sam",
+          "chapter": 4,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Crippled in both feet as a child, fleeing news of Saul's death"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 9,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "David asks if anyone remains of Saul's house to show kindness to"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 9,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "David restores his grandfather's land, invites him to the king's table"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 9,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Eats at the king's table always, though lame in both feet"
+        }
+      ]
+    },
+    {
+      "id": "ahithophel",
+      "name": "Ahithophel",
+      "category": "kingdom",
+      "sort_order": 186,
+      "requires_deuterocanon": false,
+      "intro": "David's trusted counselor, whose advice was said to be like consulting the very word of God -- until he defected to Absalom's rebellion and, when his counsel was rejected, took his own life.",
+      "reflection": "Ahithophel's story is one of scripture's clearest parallels to Judas: a trusted insider (his advice \"was as if one consulted the word of God,\" 2 Samuel 16:23) who turned on the very king he'd served, and who, when his plan failed and his disgrace became certain, chose despair over any path back. Betrayal by someone close is painful precisely because of how much access and trust it required in the first place -- and his ending shows what happens when pride can't survive being wrong in public.",
+      "prayer": "Lord, when I've been wrong and everyone can see it, don't let my pride convince me that despair is the only way out. There is always a way back to you.",
+      "verse_refs": [
+        {
+          "book_id": "2sam",
+          "chapter": 15,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Joins Absalom's conspiracy against David"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 16,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "His counsel regarded like the word of God"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 17,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "His good advice rejected in favor of Hushai's"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 17,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "Takes his own life when his counsel is spurned"
+        }
+      ]
+    },
+    {
+      "id": "hushai",
+      "name": "Hushai",
+      "category": "kingdom",
+      "sort_order": 187,
+      "requires_deuterocanon": false,
+      "intro": "David's loyal friend, planted in Absalom's court to undermine Ahithophel's counsel -- and whose success in doing so may have saved David's throne.",
+      "verse_refs": [
+        {
+          "book_id": "2sam",
+          "chapter": 15,
+          "verse_start": 32,
+          "verse_end": 34,
+          "caption": "Sent back to Jerusalem to defeat Ahithophel's counsel"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 16,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "Wins Absalom's trust with careful words"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 17,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "Argues against Ahithophel's advice"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 17,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "The LORD had determined to defeat Ahithophel's good counsel"
+        }
+      ]
+    },
+    {
+      "id": "doeg-the-edomite",
+      "name": "Doeg the Edomite",
+      "category": "kingdom",
+      "sort_order": 188,
+      "requires_deuterocanon": false,
+      "intro": "Saul's chief herdsman, who reported that the priest Ahimelech had helped David -- and then, when Saul's own guards refused, personally carried out the massacre of eighty-five priests and their families.",
+      "reflection": "Doeg didn't have to volunteer what he saw (1 Samuel 22:9-10), and he certainly didn't have to be the one to swing the sword when Saul's own guards \"would not put out their hand against the priests of the LORD\" (1 Samuel 22:17). Being willing to do the thing that even hardened men balk at isn't loyalty or courage -- it's a warning about what happens when getting close to power matters more than anything a conscience might say.",
+      "prayer": "Lord, when doing what's asked of me would mean crossing a line that even others hesitate at, give me the courage to be the one who refuses, not the one who volunteers.",
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter": 21,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "Present, detained before the LORD, when David comes to Ahimelech"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 22,
+          "verse_start": 9,
+          "verse_end": 10,
+          "caption": "Reports what he saw to Saul"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 22,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "Kills eighty-five priests when Saul's guards refuse"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 22,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Puts the entire priestly town of Nob to the sword"
+        },
+        {
+          "book_id": "ps",
+          "chapter": 52,
+          "verse_start": 1,
+          "verse_end": 2,
+          "caption": "Psalm 52's heading names him as the occasion for David's psalm"
+        }
+      ]
+    },
+    {
+      "id": "ahimelech-the-priest",
+      "name": "Ahimelech the Priest",
+      "category": "kingdom",
+      "sort_order": 189,
+      "requires_deuterocanon": false,
+      "intro": "The priest at Nob who gave David bread and Goliath's sword, not knowing he was helping a fugitive from the king -- and who paid for it with his life and his town's.",
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter": 21,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "Gives David the consecrated bread"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 21,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "Gives David Goliath's sword"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 22,
+          "verse_start": 14,
+          "verse_end": 15,
+          "caption": "Defends himself: he knew nothing of any conspiracy"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 22,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Condemned to die anyway, with his whole household"
+        }
+      ]
+    },
+    {
+      "id": "abiathar",
+      "name": "Abiathar",
+      "category": "kingdom",
+      "sort_order": 190,
+      "requires_deuterocanon": false,
+      "intro": "Ahimelech's son, the sole survivor of Doeg's massacre at Nob, who fled to David and served as his priest for years -- until he backed the wrong successor and was removed from the priesthood.",
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter": 22,
+          "verse_start": 20,
+          "verse_end": 21,
+          "caption": "Escapes to David, the only one of his father's house to survive"
+        },
+        {
+          "book_id": "1sam",
+          "chapter": 23,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "Brings the priestly ephod to David in hiding"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 1,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "Sides with Adonijah instead of Solomon"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 2,
+          "verse_start": 26,
+          "verse_end": 27,
+          "caption": "Removed from the priesthood by Solomon"
+        }
+      ]
+    },
+    {
+      "id": "zadok",
+      "name": "Zadok",
+      "category": "kingdom",
+      "sort_order": 191,
+      "requires_deuterocanon": false,
+      "intro": "A priest who remained loyal to David through Absalom's rebellion and backed Solomon's succession -- and whose descendants became the priestly line that endured for centuries.",
+      "verse_refs": [
+        {
+          "book_id": "2sam",
+          "chapter": 15,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "Carries the Ark out with David, fleeing Absalom"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 15,
+          "verse_start": 29,
+          "verse_end": 29,
+          "caption": "Sent back to Jerusalem with the Ark, at David's instruction"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 1,
+          "verse_start": 39,
+          "verse_end": 39,
+          "caption": "Anoints Solomon king"
+        },
+        {
+          "book_id": "ezek",
+          "chapter": 44,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "His descendants named as the priests who remained faithful"
+        }
+      ]
+    },
+    {
+      "id": "rizpah",
+      "name": "Rizpah",
+      "category": "kingdom",
+      "sort_order": 192,
+      "requires_deuterocanon": false,
+      "intro": "Saul's concubine, whose act of devotion -- guarding her dead sons' exposed bodies from birds and animals for months -- moved King David to finally give them a proper burial.",
+      "verse_refs": [
+        {
+          "book_id": "2sam",
+          "chapter": 3,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "Named as Saul's concubine"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 21,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Guards her sons' bodies day and night, refusing to let anything touch them"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 21,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "David hears what she has done"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 21,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Moved to finally bury the bones properly"
+        }
+      ]
+    },
+    {
+      "id": "amnon",
+      "name": "Amnon",
+      "category": "kingdom",
+      "sort_order": 193,
+      "requires_deuterocanon": false,
+      "intro": "David's firstborn son, whose obsession with his half-sister Tamar led him to assault her -- a crime his father never punished, and that his brother Absalom never forgave.",
+      "reflection": "Amnon's \"love\" for Tamar (2 Samuel 13:1) curdled the moment he couldn't have her on his own terms -- and his hatred for her afterward was worse than the desire that drove him to hurt her in the first place (13:15). It's a hard but necessary distinction: wanting someone is not the same as loving them, and what a person does the instant they don't get their way often reveals which one it actually was.",
+      "prayer": "Lord, teach me to tell the difference between wanting someone and loving them -- and let me see it before I hurt someone the way Amnon did, not after.",
+      "verse_refs": [
+        {
+          "book_id": "2sam",
+          "chapter": 13,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Tormented, obsessed with Tamar"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 13,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Assaults her despite her pleading"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 13,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "His hatred for her afterward greater than his desire before"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 13,
+          "verse_start": 28,
+          "verse_end": 29,
+          "caption": "Killed by Absalom's men in revenge, two years later"
+        }
+      ]
+    },
+    {
+      "id": "tamar-daughter-of-david",
+      "name": "Tamar (daughter of David)",
+      "category": "kingdom",
+      "sort_order": 194,
+      "requires_deuterocanon": false,
+      "intro": "David's daughter, assaulted by her own half-brother Amnon -- a crime that devastated her, went unpunished by her father, and set in motion her brother Absalom's eventual rebellion.",
+      "verse_refs": [
+        {
+          "book_id": "2sam",
+          "chapter": 13,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Described as beautiful; Amnon's sister"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 13,
+          "verse_start": 12,
+          "verse_end": 13,
+          "caption": "Pleads with Amnon not to do this \"outrageous folly\""
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 13,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Tears her robe, puts ashes on her head, weeps aloud"
+        },
+        {
+          "book_id": "2sam",
+          "chapter": 13,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Lives desolate in her brother Absalom's house"
+        }
+      ]
+    },
+    {
+      "id": "rehoboam",
+      "name": "Rehoboam",
+      "category": "kingdom",
+      "sort_order": 195,
+      "requires_deuterocanon": false,
+      "intro": "Solomon's son, whose harsh, arrogant response to the people's request for relief split the united kingdom of Israel in two -- a division that never healed.",
+      "reflection": "The older men advised Rehoboam to lighten the people's burden and win their loyalty; his own young friends told him to make it heavier and show his strength instead (1 Kings 12:8-11). He chose the second, and lost ten of Israel's twelve tribes over it. It's a specific kind of failure: mistaking harshness for authority, and losing far more by refusing to bend than he ever would have lost by listening.",
+      "prayer": "Lord, when I'm tempted to prove my strength by refusing to bend, remind me that listening isn't weakness, and that stubbornness has cost people everything before.",
+      "verse_refs": [
+        {
+          "book_id": "1kgs",
+          "chapter": 12,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Rejects the elders' advice for his friends' instead"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 12,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "\"My father chastised you with whips, but I will chastise you with scorpions\""
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 12,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Israel's response: \"To your tents, O Israel!\""
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 12,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Israel rebels against the house of David \"to this day\""
+        }
+      ]
+    },
+    {
+      "id": "jeroboam",
+      "name": "Jeroboam",
+      "category": "kingdom",
+      "sort_order": 196,
+      "requires_deuterocanon": false,
+      "intro": "The first king of the breakaway northern kingdom, who set up golden calves at Dan and Bethel to keep his people from returning to worship in Jerusalem -- a sin later kings were repeatedly measured against.",
+      "reflection": "Jeroboam's fear was political, not theological: he worried that if his people kept going to Jerusalem to worship, \"the heart of this people will turn again to their lord\" (1 Kings 12:26-27). So he built an alternative -- golden calves, a substitute priesthood, a substitute feast -- not because he stopped believing, but because true worship was inconvenient for his hold on power. Scripture's recurring phrase for later kings, \"who walked in the way of Jeroboam,\" makes clear how far that one compromise reached.",
+      "prayer": "Lord, when following you honestly would cost me something I'm not ready to lose, don't let me build a convenient substitute instead and call it faith.",
+      "verse_refs": [
+        {
+          "book_id": "1kgs",
+          "chapter": 12,
+          "verse_start": 26,
+          "verse_end": 27,
+          "caption": "Fears the people will return their allegiance to Jerusalem"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 12,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "Makes two golden calves: \"Behold your gods, O Israel\""
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 13,
+          "verse_start": 33,
+          "verse_end": 34,
+          "caption": "Continues in his evil way despite a prophet's warning"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 17,
+          "verse_start": 21,
+          "verse_end": 22,
+          "caption": "Israel's later fall attributed to \"the sins of Jeroboam\""
+        }
+      ]
+    },
+    {
+      "id": "asa",
+      "name": "Asa",
+      "category": "kingdom",
+      "sort_order": 197,
+      "requires_deuterocanon": false,
+      "intro": "A king of Judah remembered for removing idols and pursuing reform for most of his reign -- though in his final illness he sought physicians instead of the LORD.",
+      "verse_refs": [
+        {
+          "book_id": "1kgs",
+          "chapter": 15,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "\"Did that which was right in the eyes of the LORD\""
+        },
+        {
+          "book_id": "2chr",
+          "chapter": 14,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Prays before battle: \"we rely on you\""
+        },
+        {
+          "book_id": "2chr",
+          "chapter": 15,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Removes idols throughout the land"
+        },
+        {
+          "book_id": "2chr",
+          "chapter": 16,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "In his illness, \"sought not to the LORD, but to the physicians\""
+        }
+      ]
+    },
+    {
+      "id": "jehoshaphat",
+      "name": "Jehoshaphat",
+      "category": "kingdom",
+      "sort_order": 198,
+      "requires_deuterocanon": false,
+      "intro": "A king of Judah who sent teachers throughout the land to instruct the people in the Law, and whose prayer before an overwhelming army -- \"we don't know what to do, but our eyes are on you\" -- became one of scripture's clearest examples of trust in crisis.",
+      "verse_refs": [
+        {
+          "book_id": "2chr",
+          "chapter": 17,
+          "verse_start": 7,
+          "verse_end": 9,
+          "caption": "Sends officials to teach the Law throughout Judah"
+        },
+        {
+          "book_id": "2chr",
+          "chapter": 20,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "\"We don't know what to do, but our eyes are on you\""
+        },
+        {
+          "book_id": "2chr",
+          "chapter": 20,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "\"The battle is not yours, but God's\""
+        },
+        {
+          "book_id": "2chr",
+          "chapter": 20,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "The enemy destroyed before Judah even has to fight"
+        }
+      ]
+    },
+    {
+      "id": "josiah",
+      "name": "Josiah",
+      "category": "kingdom",
+      "sort_order": 199,
+      "requires_deuterocanon": false,
+      "intro": "A king who came to the throne as a boy of eight and, on hearing the long-lost Book of the Law read aloud, tore his robes and led the most thorough religious reform in Judah's history.",
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter": 22,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "The Book of the Law found during Temple repairs"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 22,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Tears his clothes on hearing it read"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 23,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Renews the covenant before all the people"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 23,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "\"There was no king like him... who turned to the LORD with all his heart\""
+        }
+      ]
+    },
+    {
+      "id": "hezekiah",
+      "name": "Hezekiah",
+      "category": "kingdom",
+      "sort_order": 200,
+      "requires_deuterocanon": false,
+      "intro": "A king of Judah who tore down idolatrous shrines, survived an Assyrian siege by taking the threatening letter straight into the Temple to pray over it, and was granted fifteen more years of life after a tearful prayer during a fatal illness.",
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter": 18,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "\"He trusted in the LORD... none like him among all the kings\""
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 19,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Spreads Sennacherib's threatening letter before the LORD"
+        },
+        {
+          "book_id": "isa",
+          "chapter": 38,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "Weeps and prays when told he will die"
+        },
+        {
+          "book_id": "isa",
+          "chapter": 38,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "Granted fifteen more years of life"
+        }
+      ]
+    },
+    {
+      "id": "manasseh-king",
+      "name": "Manasseh (king)",
+      "category": "kingdom",
+      "sort_order": 201,
+      "requires_deuterocanon": false,
+      "intro": "Judah's longest-reigning king, whose fifty-five years began with the worst idolatry and bloodshed the kingdom had ever seen -- and ended, after captivity in Babylon humbled him, in genuine repentance.",
+      "reflection": "Manasseh isn't in this app as a warning of what not to become -- he's here as proof of how far back God's mercy reaches. Scripture's own verdict on him is as harsh as it gets: he \"seduced\" Judah \"to do more evil than the nations\" (2 Kings 21:9), and filled Jerusalem with innocent blood. And yet 2 Chronicles 33 records that in captivity, in distress, he humbled himself greatly before the God of his fathers -- and God heard him. No one in scripture starts further from reconciliation than Manasseh; no one shows more clearly that it's never actually too late.",
+      "prayer": "Lord, when I think I've gone too far to come back, let Manasseh's story be my answer. You heard him. You will hear me too.",
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter": 21,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "\"Did that which was evil in the sight of the LORD\""
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 21,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Fills Jerusalem with innocent blood"
+        },
+        {
+          "book_id": "2chr",
+          "chapter": 33,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Humbles himself greatly before the God of his fathers"
+        },
+        {
+          "book_id": "2chr",
+          "chapter": 33,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "God is entreated by him and hears his supplication"
+        }
+      ]
+    },
+    {
+      "id": "uzziah",
+      "name": "Uzziah",
+      "category": "kingdom",
+      "sort_order": 202,
+      "requires_deuterocanon": false,
+      "intro": "A king remembered for fifty-two years of real success -- until pride led him to burn incense in the Temple himself, a priestly act reserved for priests alone, and he was struck with leprosy for it.",
+      "verse_refs": [
+        {
+          "book_id": "2chr",
+          "chapter": 26,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "\"As long as he sought the LORD, God made him prosper\""
+        },
+        {
+          "book_id": "2chr",
+          "chapter": 26,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "\"When he was strong, his heart was lifted up... to his destruction\""
+        },
+        {
+          "book_id": "2chr",
+          "chapter": 26,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "Priests confront him: burning incense is not his to do"
+        },
+        {
+          "book_id": "2chr",
+          "chapter": 26,
+          "verse_start": 19,
+          "verse_end": 21,
+          "caption": "Struck with leprosy immediately, for the rest of his life"
+        }
+      ]
+    },
+    {
+      "id": "jehu",
+      "name": "Jehu",
+      "category": "kingdom",
+      "sort_order": 203,
+      "requires_deuterocanon": false,
+      "intro": "A commander anointed to wipe out the house of Ahab and Jezebel's Baal worship in a swift, violent purge -- zealous for the LORD, yet never fully turning from the sins that had defined the kingdom before him.",
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter": 9,
+          "verse_start": 6,
+          "verse_end": 7,
+          "caption": "Anointed king, commanded to strike down Ahab's house"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 9,
+          "verse_start": 33,
+          "verse_end": 33,
+          "caption": "Jezebel thrown from her window at his order"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 10,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "\"Come see my zeal for the LORD\""
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 10,
+          "verse_start": 31,
+          "verse_end": 31,
+          "caption": "Still didn't turn from the sins of Jeroboam"
+        }
+      ]
+    },
+    {
+      "id": "naaman",
+      "name": "Naaman",
+      "category": "kingdom",
+      "sort_order": 204,
+      "requires_deuterocanon": false,
+      "intro": "A Syrian army commander with leprosy, whose pride nearly kept him from a simple healing -- until his own servants talked him into simply obeying Elisha's instructions.",
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter": 5,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "A great man, but a leper"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 5,
+          "verse_start": 11,
+          "verse_end": 12,
+          "caption": "Furious that Elisha's instructions seemed too simple"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 5,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Washes in the Jordan seven times, and is healed"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 5,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "\"Now I know there is no God in all the earth, but in Israel\""
+        }
+      ]
+    },
+    {
+      "id": "gehazi",
+      "name": "Gehazi",
+      "category": "kingdom",
+      "sort_order": 205,
+      "requires_deuterocanon": false,
+      "intro": "Elisha's servant, who secretly chased down Naaman to collect a payment his master had refused -- and was struck with the very leprosy Naaman had just been healed of.",
+      "reflection": "Elisha refused Naaman's gift on principle -- healing wasn't for sale (2 Kings 5:16). Gehazi couldn't let that principle stand between him and money that seemed, to him, obviously there for the taking. He lied to get it, then lied again about where he'd been (5:25) -- and the leprosy that had just left Naaman's body found a new home in his. Greed rarely announces itself; it usually shows up disguised as an opportunity too reasonable to pass up.",
+      "prayer": "Lord, when an opportunity looks too easy to be wrong, help me ask what it would actually cost -- and give me the honesty not to lie about it afterward.",
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter": 5,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Decides to run after Naaman for a gift"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 5,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "Lies about why he's come"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 5,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "Lies again to Elisha about where he's been"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 5,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Naaman's leprosy clings to him and his descendants forever"
+        }
+      ]
+    },
+    {
+      "id": "micaiah",
+      "name": "Micaiah",
+      "category": "kingdom",
+      "sort_order": 206,
+      "requires_deuterocanon": false,
+      "intro": "A prophet who told King Ahab exactly what he didn't want to hear -- defeat and death -- while four hundred other prophets told him what he did, and who was thrown in prison for it.",
+      "verse_refs": [
+        {
+          "book_id": "1kgs",
+          "chapter": 22,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Ahab: \"I hate him, for he never prophesies good concerning me\""
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 22,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "\"As the LORD lives, what the LORD says to me, that I will speak\""
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 22,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Foretells Israel scattered, its king dead"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 22,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Imprisoned on Ahab's order for his honesty"
+        }
+      ]
+    },
+    {
+      "id": "obadiah-steward",
+      "name": "Obadiah (Ahab's steward)",
+      "category": "kingdom",
+      "sort_order": 207,
+      "requires_deuterocanon": false,
+      "intro": "A God-fearing official in Ahab's court who secretly hid a hundred prophets in caves, at great personal risk, to save them from Jezebel's purge.",
+      "verse_refs": [
+        {
+          "book_id": "1kgs",
+          "chapter": 18,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Ahab's palace steward, who \"feared the LORD greatly\""
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 18,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Hides a hundred prophets in caves, feeding them"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 18,
+          "verse_start": 9,
+          "verse_end": 10,
+          "caption": "Afraid Elijah's message will cost him his life"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 18,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Delivers Elijah's message to Ahab anyway"
+        }
+      ]
+    },
+    {
+      "id": "queen-of-sheba",
+      "name": "The Queen of Sheba",
+      "category": "kingdom",
+      "sort_order": 208,
+      "requires_deuterocanon": false,
+      "intro": "A foreign queen who traveled a great distance to test Solomon's famous wisdom with hard questions -- and left having seen that even the reports she'd heard didn't do it justice.",
+      "verse_refs": [
+        {
+          "book_id": "1kgs",
+          "chapter": 10,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Comes to test Solomon with hard questions"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 10,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Solomon explains everything; nothing is too hard for him"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 10,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "\"The half was not told me\""
+        },
+        {
+          "book_id": "mt",
+          "chapter": 12,
+          "verse_start": 42,
+          "verse_end": 42,
+          "caption": "Jesus references her as an example of seeking wisdom"
+        }
+      ]
+    },
+    {
+      "id": "widow-of-zarephath",
+      "name": "The Widow of Zarephath",
+      "category": "kingdom",
+      "sort_order": 209,
+      "requires_deuterocanon": false,
+      "intro": "A widow down to her last handful of flour, who fed Elijah anyway on his word that it wouldn't run out -- and whose son he later raised from death.",
+      "verse_refs": [
+        {
+          "book_id": "1kgs",
+          "chapter": 17,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "\"I have nothing baked, only a handful of meal\""
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 17,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "Feeds Elijah first; the flour and oil don't run out"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 17,
+          "verse_start": 17,
+          "verse_end": 18,
+          "caption": "Her son dies; she confronts Elijah in her grief"
+        },
+        {
+          "book_id": "1kgs",
+          "chapter": 17,
+          "verse_start": 22,
+          "verse_end": 24,
+          "caption": "Her son is restored to life"
+        }
+      ]
+    },
+    {
+      "id": "shunammite-woman",
+      "name": "The Shunammite Woman",
+      "category": "kingdom",
+      "sort_order": 210,
+      "requires_deuterocanon": false,
+      "intro": "A well-off woman who built Elisha a room to stay in whenever he passed through -- and whose long-prayed-for son he later raised from death after he suddenly died.",
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter": 4,
+          "verse_start": 9,
+          "verse_end": 10,
+          "caption": "Arranges a room for Elisha whenever he passes by"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 4,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Promised a son, though she thought it impossible"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 4,
+          "verse_start": 20,
+          "verse_end": 21,
+          "caption": "Her son dies suddenly; she lays him on Elisha's bed"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 4,
+          "verse_start": 35,
+          "verse_end": 35,
+          "caption": "The boy sneezes seven times and opens his eyes"
+        }
+      ]
+    },
+    {
+      "id": "huldah-the-prophetess",
+      "name": "Huldah the Prophetess",
+      "category": "kingdom",
+      "sort_order": 211,
+      "requires_deuterocanon": false,
+      "intro": "A prophetess consulted by King Josiah's officials after the long-lost Book of the Law was found -- her word confirmed both the coming judgment and the reward for Josiah's humble response.",
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter": 22,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Consulted by the priest and royal officials"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 22,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Confirms the judgment the Book warns of"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 22,
+          "verse_start": 19,
+          "verse_end": 20,
+          "caption": "Promises Josiah he will not see the disaster in his lifetime, because his heart was humble"
+        }
+      ]
+    },
+    {
+      "id": "baruch",
+      "name": "Baruch",
+      "category": "kingdom",
+      "sort_order": 212,
+      "requires_deuterocanon": false,
+      "intro": "Jeremiah's faithful scribe, who wrote down the prophet's words at his dictation -- and watched King Jehoiakim burn the scroll, piece by piece, in a fire.",
+      "verse_refs": [
+        {
+          "book_id": "jer",
+          "chapter": 36,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Writes down all of Jeremiah's words at his dictation"
+        },
+        {
+          "book_id": "jer",
+          "chapter": 36,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "The king cuts and burns the scroll column by column"
+        },
+        {
+          "book_id": "jer",
+          "chapter": 36,
+          "verse_start": 32,
+          "verse_end": 32,
+          "caption": "Writes it all out again, with more added"
+        },
+        {
+          "book_id": "jer",
+          "chapter": 45,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "Told to be content simply to survive the coming disaster"
+        }
+      ]
+    },
+    {
+      "id": "ebed-melech",
+      "name": "Ebed-Melech",
+      "category": "kingdom",
+      "sort_order": 213,
+      "requires_deuterocanon": false,
+      "intro": "An Ethiopian official in the royal court who rescued Jeremiah from a muddy cistern where he'd been left to die, and was promised his own life would be spared for it.",
+      "verse_refs": [
+        {
+          "book_id": "jer",
+          "chapter": 38,
+          "verse_start": 7,
+          "verse_end": 9,
+          "caption": "Tells the king that Jeremiah has been left to starve in the cistern"
+        },
+        {
+          "book_id": "jer",
+          "chapter": 38,
+          "verse_start": 11,
+          "verse_end": 12,
+          "caption": "Uses old rags to keep the ropes from cutting Jeremiah as he's pulled out"
+        },
+        {
+          "book_id": "jer",
+          "chapter": 39,
+          "verse_start": 17,
+          "verse_end": 18,
+          "caption": "Promised: \"I will surely deliver you... because you have put your trust in me\""
+        }
+      ]
+    },
+    {
+      "id": "gedaliah",
+      "name": "Gedaliah",
+      "category": "kingdom",
+      "sort_order": 214,
+      "requires_deuterocanon": false,
+      "intro": "The governor appointed over Judah's remnant after Jerusalem's fall, who urged the people to settle down peacefully under Babylon -- and was assassinated for it within months.",
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter": 25,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "Appointed governor over those left in the land"
+        },
+        {
+          "book_id": "jer",
+          "chapter": 40,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "\"Do not be afraid to serve the Chaldeans... it will be well with you\""
+        },
+        {
+          "book_id": "jer",
+          "chapter": 41,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Assassinated by Ishmael, of the royal family"
+        }
+      ]
+    },
+    {
+      "id": "zedekiah",
+      "name": "Zedekiah",
+      "category": "kingdom",
+      "sort_order": 215,
+      "requires_deuterocanon": false,
+      "intro": "The last king of Judah, installed by Babylon and bound by oath to serve it -- whose rebellion brought the final siege, the city's fall, and his own sons killed before his eyes were put out.",
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter": 24,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Installed as king by Nebuchadnezzar"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 24,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Rebels against the king of Babylon"
+        },
+        {
+          "book_id": "jer",
+          "chapter": 39,
+          "verse_start": 6,
+          "verse_end": 7,
+          "caption": "His sons killed before him; his own eyes then put out"
+        },
+        {
+          "book_id": "ezek",
+          "chapter": 17,
+          "verse_start": 15,
+          "verse_end": 16,
+          "caption": "Condemned for breaking his sworn oath"
+        }
+      ]
+    },
+    {
+      "id": "jehoiachin",
+      "name": "Jehoiachin",
+      "category": "kingdom",
+      "sort_order": 216,
+      "requires_deuterocanon": false,
+      "intro": "A young king who reigned only three months before Jerusalem fell to Babylon -- and who, decades later in exile, was unexpectedly released from prison and given a seat of honor at the Babylonian king's table.",
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter": 24,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Becomes king at eighteen, reigns three months"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 24,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Surrenders to the king of Babylon"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 25,
+          "verse_start": 27,
+          "verse_end": 28,
+          "caption": "Released from prison decades later, treated kindly"
+        },
+        {
+          "book_id": "2kgs",
+          "chapter": 25,
+          "verse_start": 29,
+          "verse_end": 29,
+          "caption": "Eats regularly at the king's own table for the rest of his life"
+        }
+      ]
     }
   ],
   "character_of_day": [
+    {
+      "month_day": "01-01",
+      "character_id": "josiah"
+    },
     {
       "month_day": "01-02",
       "character_id": "cain"
@@ -6670,12 +8211,40 @@
       "character_id": "pharaoh-of-the-exodus"
     },
     {
+      "month_day": "04-24",
+      "character_id": "eli"
+    },
+    {
       "month_day": "04-25",
       "character_id": "mark"
     },
     {
+      "month_day": "04-26",
+      "character_id": "hophni-and-phinehas"
+    },
+    {
+      "month_day": "04-27",
+      "character_id": "elkanah"
+    },
+    {
+      "month_day": "04-28",
+      "character_id": "peninnah"
+    },
+    {
+      "month_day": "04-29",
+      "character_id": "abigail"
+    },
+    {
+      "month_day": "04-30",
+      "character_id": "michal"
+    },
+    {
       "month_day": "05-01",
       "character_id": "joseph-husband-of-mary"
+    },
+    {
+      "month_day": "05-02",
+      "character_id": "joab"
     },
     {
       "month_day": "05-03",
@@ -6686,8 +8255,132 @@
       "character_id": "james-son-of-alphaeus"
     },
     {
+      "month_day": "05-05",
+      "character_id": "abner"
+    },
+    {
+      "month_day": "05-06",
+      "character_id": "uriah-the-hittite"
+    },
+    {
+      "month_day": "05-07",
+      "character_id": "mephibosheth"
+    },
+    {
+      "month_day": "05-08",
+      "character_id": "ahithophel"
+    },
+    {
+      "month_day": "05-09",
+      "character_id": "hushai"
+    },
+    {
+      "month_day": "05-10",
+      "character_id": "doeg-the-edomite"
+    },
+    {
+      "month_day": "05-11",
+      "character_id": "ahimelech-the-priest"
+    },
+    {
+      "month_day": "05-12",
+      "character_id": "abiathar"
+    },
+    {
+      "month_day": "05-13",
+      "character_id": "zadok"
+    },
+    {
+      "month_day": "05-15",
+      "character_id": "rizpah"
+    },
+    {
+      "month_day": "05-16",
+      "character_id": "amnon"
+    },
+    {
+      "month_day": "05-17",
+      "character_id": "tamar-daughter-of-david"
+    },
+    {
+      "month_day": "05-18",
+      "character_id": "rehoboam"
+    },
+    {
+      "month_day": "05-19",
+      "character_id": "jeroboam"
+    },
+    {
+      "month_day": "05-20",
+      "character_id": "asa"
+    },
+    {
+      "month_day": "05-21",
+      "character_id": "jehoshaphat"
+    },
+    {
+      "month_day": "05-22",
+      "character_id": "hezekiah"
+    },
+    {
+      "month_day": "05-23",
+      "character_id": "manasseh-king"
+    },
+    {
+      "month_day": "05-24",
+      "character_id": "uzziah"
+    },
+    {
+      "month_day": "05-25",
+      "character_id": "jehu"
+    },
+    {
+      "month_day": "05-26",
+      "character_id": "naaman"
+    },
+    {
+      "month_day": "05-27",
+      "character_id": "gehazi"
+    },
+    {
+      "month_day": "05-28",
+      "character_id": "micaiah"
+    },
+    {
+      "month_day": "05-29",
+      "character_id": "obadiah-steward"
+    },
+    {
+      "month_day": "05-30",
+      "character_id": "widow-of-zarephath"
+    },
+    {
       "month_day": "05-31",
       "character_id": "elizabeth"
+    },
+    {
+      "month_day": "06-01",
+      "character_id": "shunammite-woman"
+    },
+    {
+      "month_day": "06-02",
+      "character_id": "baruch"
+    },
+    {
+      "month_day": "06-03",
+      "character_id": "ebed-melech"
+    },
+    {
+      "month_day": "06-04",
+      "character_id": "gedaliah"
+    },
+    {
+      "month_day": "06-05",
+      "character_id": "zedekiah"
+    },
+    {
+      "month_day": "06-06",
+      "character_id": "jehoiachin"
     },
     {
       "month_day": "06-07",
@@ -6882,6 +8575,10 @@
       "character_id": "solomon"
     },
     {
+      "month_day": "12-18",
+      "character_id": "queen-of-sheba"
+    },
+    {
       "month_day": "12-20",
       "character_id": "david"
     },
@@ -6916,6 +8613,10 @@
     {
       "month_day": "12-28",
       "character_id": "herod-the-great"
+    },
+    {
+      "month_day": "12-31",
+      "character_id": "huldah-the-prophetess"
     }
   ]
 }
