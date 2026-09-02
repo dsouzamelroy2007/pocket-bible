@@ -5686,6 +5686,534 @@
           "caption": "Their sons sent east, away from Isaac, with gifts"
         }
       ]
+    },
+    {
+      "id": "jethro",
+      "name": "Jethro",
+      "category": "exodus_judges",
+      "sort_order": 161,
+      "requires_deuterocanon": false,
+      "intro": "Moses' father-in-law, a priest of Midian, who sheltered Moses during his exile from Egypt and later gave him wise, practical advice on sharing the burden of leading Israel.",
+      "verse_refs": [
+        {
+          "book_id": "ex",
+          "chapter": 2,
+          "verse_start": 21,
+          "verse_end": 21,
+          "caption": "Gives Moses his daughter Zipporah in marriage"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 18,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Praises the LORD after hearing all he did for Israel"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 18,
+          "verse_start": 17,
+          "verse_end": 18,
+          "caption": "Warns Moses: \"what you are doing is not good\""
+        },
+        {
+          "book_id": "ex",
+          "chapter": 18,
+          "verse_start": 21,
+          "verse_end": 21,
+          "caption": "Advises Moses to appoint capable men to share the load"
+        }
+      ]
+    },
+    {
+      "id": "zipporah",
+      "name": "Zipporah",
+      "category": "exodus_judges",
+      "sort_order": 162,
+      "requires_deuterocanon": false,
+      "intro": "Moses' wife, a daughter of the priest of Midian, who acted decisively to save her husband's life on their journey back to Egypt.",
+      "verse_refs": [
+        {
+          "book_id": "ex",
+          "chapter": 2,
+          "verse_start": 21,
+          "verse_end": 22,
+          "caption": "Given to Moses in marriage; bears him a son"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 4,
+          "verse_start": 24,
+          "verse_end": 26,
+          "caption": "Saves Moses' life by circumcising their son"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 18,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Returned to Moses by her father Jethro"
+        }
+      ]
+    },
+    {
+      "id": "bezalel",
+      "name": "Bezalel",
+      "category": "exodus_judges",
+      "sort_order": 163,
+      "requires_deuterocanon": false,
+      "intro": "The craftsman filled by God with skill and understanding to design and build the Tabernacle and its sacred furnishings.",
+      "verse_refs": [
+        {
+          "book_id": "ex",
+          "chapter": 31,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "Called by name, filled with the Spirit of God"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 31,
+          "verse_start": 4,
+          "verse_end": 5,
+          "caption": "Given skill \"to devise artistic designs\""
+        },
+        {
+          "book_id": "ex",
+          "chapter": 35,
+          "verse_start": 30,
+          "verse_end": 31,
+          "caption": "Moses announces his calling to the people"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 37,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Builds the Ark of the Covenant"
+        }
+      ]
+    },
+    {
+      "id": "nadab-and-abihu",
+      "name": "Nadab and Abihu",
+      "category": "exodus_judges",
+      "sort_order": 164,
+      "requires_deuterocanon": false,
+      "intro": "Aaron's two eldest sons and priests, struck dead for offering \"unauthorized fire\" before the LORD -- a sobering warning about approaching worship carelessly.",
+      "verse_refs": [
+        {
+          "book_id": "lev",
+          "chapter": 10,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Offer \"unauthorized fire\" before the LORD"
+        },
+        {
+          "book_id": "lev",
+          "chapter": 10,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Consumed by fire from the LORD's presence"
+        },
+        {
+          "book_id": "num",
+          "chapter": 3,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Died leaving no sons, before their father"
+        }
+      ]
+    },
+    {
+      "id": "eleazar",
+      "name": "Eleazar",
+      "category": "exodus_judges",
+      "sort_order": 165,
+      "requires_deuterocanon": false,
+      "intro": "Aaron's third son, who succeeded his father as high priest and stood alongside Moses -- and then Joshua -- through the end of the wilderness years and the conquest of Canaan.",
+      "verse_refs": [
+        {
+          "book_id": "num",
+          "chapter": 20,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "Invested with the priestly garments as Aaron dies"
+        },
+        {
+          "book_id": "num",
+          "chapter": 27,
+          "verse_start": 21,
+          "verse_end": 21,
+          "caption": "Consulted for decisions on Israel's behalf"
+        },
+        {
+          "book_id": "josh",
+          "chapter": 14,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Helps allot the land of Canaan among the tribes"
+        }
+      ]
+    },
+    {
+      "id": "ithamar",
+      "name": "Ithamar",
+      "category": "exodus_judges",
+      "sort_order": 166,
+      "requires_deuterocanon": false,
+      "intro": "Aaron's youngest son, a priest given oversight of the Levites' service and the Tabernacle's accounting.",
+      "verse_refs": [
+        {
+          "book_id": "ex",
+          "chapter": 38,
+          "verse_start": 21,
+          "verse_end": 21,
+          "caption": "Oversees the accounting of the Tabernacle's materials"
+        },
+        {
+          "book_id": "num",
+          "chapter": 4,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "Given charge over the Gershonites' service"
+        },
+        {
+          "book_id": "1chr",
+          "chapter": 24,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "His priestly line continues after him"
+        }
+      ]
+    },
+    {
+      "id": "phinehas-son-of-eleazar",
+      "name": "Phinehas (son of Eleazar)",
+      "category": "exodus_judges",
+      "sort_order": 167,
+      "requires_deuterocanon": false,
+      "intro": "Aaron's grandson, a priest whose decisive action against idolatry and immorality at Baal-peor turned back a plague on Israel and earned him a lasting covenant of priesthood.",
+      "verse_refs": [
+        {
+          "book_id": "num",
+          "chapter": 25,
+          "verse_start": 7,
+          "verse_end": 8,
+          "caption": "Acts decisively to stop the plague at Baal-peor"
+        },
+        {
+          "book_id": "num",
+          "chapter": 25,
+          "verse_start": 11,
+          "verse_end": 13,
+          "caption": "God grants him \"a covenant of peace,\" an everlasting priesthood"
+        },
+        {
+          "book_id": "josh",
+          "chapter": 22,
+          "verse_start": 30,
+          "verse_end": 31,
+          "caption": "Sent to resolve a dispute among the tribes"
+        }
+      ]
+    },
+    {
+      "id": "balaam",
+      "name": "Balaam",
+      "category": "exodus_judges",
+      "sort_order": 168,
+      "requires_deuterocanon": false,
+      "intro": "A pagan prophet hired to curse Israel, whose own donkey saw the angel blocking the road before he did, and who ended up blessing Israel four times instead.",
+      "verse_refs": [
+        {
+          "book_id": "num",
+          "chapter": 22,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "His donkey speaks, rebuking him"
+        },
+        {
+          "book_id": "num",
+          "chapter": 22,
+          "verse_start": 31,
+          "verse_end": 31,
+          "caption": "His own eyes finally opened to see the angel"
+        },
+        {
+          "book_id": "num",
+          "chapter": 23,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "\"How shall I curse whom God has not cursed?\""
+        },
+        {
+          "book_id": "num",
+          "chapter": 24,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Prophesies \"a star shall come out of Jacob\""
+        },
+        {
+          "book_id": "2pet",
+          "chapter": 2,
+          "verse_start": 15,
+          "verse_end": 16,
+          "caption": "Remembered as an example of greed leading a prophet astray"
+        }
+      ]
+    },
+    {
+      "id": "korah",
+      "name": "Korah",
+      "category": "exodus_judges",
+      "sort_order": 169,
+      "requires_deuterocanon": false,
+      "intro": "A Levite who led a rebellion against Moses and Aaron's authority, and whom the ground itself opened to swallow along with his fellow conspirators.",
+      "verse_refs": [
+        {
+          "book_id": "num",
+          "chapter": 16,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Challenges Moses and Aaron: \"You have gone too far\""
+        },
+        {
+          "book_id": "num",
+          "chapter": 16,
+          "verse_start": 32,
+          "verse_end": 33,
+          "caption": "The earth opens and swallows him and his household"
+        },
+        {
+          "book_id": "num",
+          "chapter": 26,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "His own sons, notably, did not die"
+        },
+        {
+          "book_id": "jude",
+          "chapter": 1,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Remembered as a warning: \"perished in Korah's rebellion\""
+        }
+      ]
+    },
+    {
+      "id": "achan",
+      "name": "Achan",
+      "category": "exodus_judges",
+      "sort_order": 170,
+      "requires_deuterocanon": false,
+      "intro": "An Israelite whose secret theft of devoted plunder from Jericho brought defeat on all Israel at Ai, until his sin was exposed and judged.",
+      "verse_refs": [
+        {
+          "book_id": "josh",
+          "chapter": 7,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "His theft brings trouble on \"the children of Israel\""
+        },
+        {
+          "book_id": "josh",
+          "chapter": 7,
+          "verse_start": 20,
+          "verse_end": 21,
+          "caption": "Confesses: \"I coveted them and took them\""
+        },
+        {
+          "book_id": "josh",
+          "chapter": 7,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "Judged for troubling Israel"
+        }
+      ]
+    },
+    {
+      "id": "othniel",
+      "name": "Othniel",
+      "category": "exodus_judges",
+      "sort_order": 171,
+      "requires_deuterocanon": false,
+      "intro": "Israel's first judge, whose military courage won him a wife and whose leadership gave the land forty years of peace after its first cycle of oppression.",
+      "verse_refs": [
+        {
+          "book_id": "judg",
+          "chapter": 1,
+          "verse_start": 12,
+          "verse_end": 13,
+          "caption": "Wins Caleb's daughter Achsah by capturing a city"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 3,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "Raised up by the LORD to deliver Israel"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 3,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "\"The Spirit of the LORD came upon him\""
+        },
+        {
+          "book_id": "judg",
+          "chapter": 3,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "The land has rest for forty years"
+        }
+      ]
+    },
+    {
+      "id": "ehud",
+      "name": "Ehud",
+      "category": "exodus_judges",
+      "sort_order": 172,
+      "requires_deuterocanon": false,
+      "intro": "A left-handed judge who used the very trait no one suspected to smuggle a hidden sword into the chamber of Israel's oppressor, King Eglon of Moab.",
+      "verse_refs": [
+        {
+          "book_id": "judg",
+          "chapter": 3,
+          "verse_start": 15,
+          "verse_end": 16,
+          "caption": "Makes himself a hidden, double-edged sword"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 3,
+          "verse_start": 21,
+          "verse_end": 22,
+          "caption": "Strikes down Eglon in his own chamber"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 3,
+          "verse_start": 30,
+          "verse_end": 30,
+          "caption": "The land has rest for eighty years"
+        }
+      ]
+    },
+    {
+      "id": "jephthah",
+      "name": "Jephthah",
+      "category": "exodus_judges",
+      "sort_order": 173,
+      "requires_deuterocanon": false,
+      "intro": "A judge, once cast out by his own family, whose victory over the Ammonites was overshadowed by a rash vow that cost him what he loved most.",
+      "verse_refs": [
+        {
+          "book_id": "judg",
+          "chapter": 11,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "Driven out by his brothers, joined by outcasts"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 11,
+          "verse_start": 30,
+          "verse_end": 31,
+          "caption": "Makes a vow before going into battle"
+        },
+        {
+          "book_id": "judg",
+          "chapter": 11,
+          "verse_start": 34,
+          "verse_end": 35,
+          "caption": "His own daughter comes out to meet him"
+        },
+        {
+          "book_id": "heb",
+          "chapter": 11,
+          "verse_start": 32,
+          "verse_end": 32,
+          "caption": "Named among the heroes of faith"
+        }
+      ]
+    },
+    {
+      "id": "hur",
+      "name": "Hur",
+      "category": "exodus_judges",
+      "sort_order": 174,
+      "requires_deuterocanon": false,
+      "intro": "A leader who, alongside Aaron, held up Moses' weary arms during the battle against Amalek -- a quiet act of support that helped decide the outcome.",
+      "verse_refs": [
+        {
+          "book_id": "ex",
+          "chapter": 17,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Goes up the hill with Moses and Aaron"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 17,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Holds up one of Moses' hands until sunset"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 24,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Left in charge of the people with Aaron"
+        }
+      ]
+    },
+    {
+      "id": "pharaoh-of-the-exodus",
+      "name": "Pharaoh of the Exodus",
+      "category": "exodus_judges",
+      "sort_order": 175,
+      "requires_deuterocanon": false,
+      "intro": "The unnamed king of Egypt whose repeated refusal to let Israel go, even after plague after plague, ended with his own army destroyed in the Red Sea.",
+      "verse_refs": [
+        {
+          "book_id": "ex",
+          "chapter": 5,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "\"Who is the LORD, that I should obey his voice?\""
+        },
+        {
+          "book_id": "ex",
+          "chapter": 9,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Briefly confesses: \"I have sinned this time\""
+        },
+        {
+          "book_id": "ex",
+          "chapter": 12,
+          "verse_start": 31,
+          "verse_end": 32,
+          "caption": "Finally lets Israel go, after the tenth plague"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 14,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Pursues Israel with his army"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 14,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "His army destroyed in the returning sea"
+        }
+      ]
     }
   ],
   "character_of_day": [
@@ -6080,6 +6608,66 @@
     {
       "month_day": "04-08",
       "character_id": "keturah"
+    },
+    {
+      "month_day": "04-09",
+      "character_id": "jethro"
+    },
+    {
+      "month_day": "04-10",
+      "character_id": "zipporah"
+    },
+    {
+      "month_day": "04-11",
+      "character_id": "bezalel"
+    },
+    {
+      "month_day": "04-12",
+      "character_id": "nadab-and-abihu"
+    },
+    {
+      "month_day": "04-13",
+      "character_id": "eleazar"
+    },
+    {
+      "month_day": "04-14",
+      "character_id": "ithamar"
+    },
+    {
+      "month_day": "04-15",
+      "character_id": "phinehas-son-of-eleazar"
+    },
+    {
+      "month_day": "04-16",
+      "character_id": "balaam"
+    },
+    {
+      "month_day": "04-17",
+      "character_id": "korah"
+    },
+    {
+      "month_day": "04-18",
+      "character_id": "achan"
+    },
+    {
+      "month_day": "04-19",
+      "character_id": "othniel"
+    },
+    {
+      "month_day": "04-20",
+      "character_id": "ehud"
+    },
+    {
+      "month_day": "04-21",
+      "character_id": "jephthah"
+    },
+    {
+      "month_day": "04-22",
+      "character_id": "hur"
+    },
+    {
+      "month_day": "04-23",
+      "character_id": "pharaoh-of-the-exodus"
     },
     {
       "month_day": "04-25",
