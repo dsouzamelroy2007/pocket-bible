@@ -22,7 +22,9 @@ import org.json.JSONObject
  *   - characters.json     Characters tab: name/intro/category per figure, plus verse_refs
  *                         (book/chapter/verse citations only -- the verse text itself is
  *                         looked up live from scripture_verse at render time, same as the
- *                         Read tab, never duplicated here)
+ *                         Read tab, never duplicated here), plus a character_of_day array
+ *                         (month_day -> character_id, same shape as topics.json's
+ *                         daily_passages -- several days can point at the same character)
  *   - character_translation entries, same fallback-to-English pattern as topics
  *
  * Adding a book or a new translation/language is meant to be a matter of
@@ -209,7 +211,6 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                     category = o.getString("category"),
                     sortOrder = o.optInt("sort_order", 0),
                     requiresDeuterocanon = o.optBoolean("requires_deuterocanon", false),
-                    monthDay = o.getString("month_day"),
                     reflection = if (o.has("reflection")) o.getString("reflection") else null,
                     prayer = if (o.has("prayer")) o.getString("prayer") else null
                 )
@@ -269,6 +270,15 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                 }?.let { captionTranslations += it }
             }
             seedDao.insertCharacterVerseRefTranslations(captionTranslations)
+
+            seedDao.insertCharacterOfDay(
+                characters.optJSONArray("character_of_day")?.mapObjects { o ->
+                    CharacterOfDay(
+                        monthDay = o.getString("month_day"),
+                        characterId = o.getString("character_id")
+                    )
+                } ?: emptyList()
+            )
         }
 
         prefs.edit().putInt("content_version", version).apply()

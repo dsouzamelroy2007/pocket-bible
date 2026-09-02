@@ -174,11 +174,7 @@ data class ScriptureVerse(
  * scripture text. `requiresDeuterocanon` marks a character whose entire
  * story lives in a deuterocanonical book (e.g. Tobit, Judith) -- hidden
  * automatically for a translation that doesn't include those books, rather
- * than showing a character with no available verses. `monthDay` ("MM-DD",
- * including "02-29") is that character's day in the 366-day characters
- * calendar -- one character per calendar day, same convention as
- * `DailyPassage.monthDay` -- chosen for liturgical/scriptural significance
- * where a real feast day applies, otherwise placed thematically.
+ * than showing a character with no available verses.
  * `reflection`/`prayer` are null for almost every character; they're
  * populated only for figures whose defining role is a sin the reader might
  * recognize in themselves (Judas's betrayal for money, Herod's slaughter of
@@ -193,9 +189,21 @@ data class BibleCharacter(
     val category: String,
     @ColumnInfo(name = "sort_order") val sortOrder: Int,
     @ColumnInfo(name = "requires_deuterocanon") val requiresDeuterocanon: Boolean,
-    @ColumnInfo(name = "month_day") val monthDay: String,
     val reflection: String? = null,
     val prayer: String? = null
+)
+
+/**
+ * This character's day (or one of its days) in the 366-day characters
+ * calendar, same shape as [DailyPassage] -- a character with only one real
+ * anchor still needs 366 rows filled, so several `month_day`s can point at
+ * the same `character_id` (a repeat), exactly how `daily_passage` already
+ * cycles a smaller pool of passages across all 366 days.
+ */
+@Entity(tableName = "character_of_day")
+data class CharacterOfDay(
+    @PrimaryKey @ColumnInfo(name = "month_day") val monthDay: String,
+    @ColumnInfo(name = "character_id") val characterId: String
 )
 
 /** Translated name/intro for one character, in one UI language. Same fallback-to-English pattern as [FeelingTranslation]. */
@@ -412,7 +420,7 @@ interface ContentDao {
     @Query("SELECT passage_id FROM daily_passage WHERE month_day = :monthDay")
     suspend fun passageOfDay(monthDay: String): String?
 
-    @Query("SELECT id FROM character WHERE month_day = :monthDay")
+    @Query("SELECT character_id FROM character_of_day WHERE month_day = :monthDay")
     suspend fun characterOfDay(monthDay: String): String?
 
     @Query("SELECT * FROM passage WHERE id = :id")
@@ -588,6 +596,9 @@ interface SeedDao {
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertCharacterVerseRefTranslations(items: List<CharacterVerseRefTranslation>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertCharacterOfDay(items: List<CharacterOfDay>)
 }
 
 @Database(
@@ -597,9 +608,9 @@ interface SeedDao {
         EntryPassage::class, DailyPassage::class,
         SavedEntry::class, ViewHistory::class, ScriptureVerse::class,
         BibleCharacter::class, CharacterTranslation::class, CharacterVerseRef::class,
-        BibleBookmark::class, CharacterVerseRefTranslation::class
+        BibleBookmark::class, CharacterVerseRefTranslation::class, CharacterOfDay::class
     ],
-    version = 9,
+    version = 10,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {
