@@ -3702,6 +3702,734 @@
       "pull_quote": null,
       "reference_display": "Colossians 3:15",
       "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:5:3",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 3,
+      "verse_end": 3,
+      "text": "The LORD, in the morning you will hear my voice. In the morning I will lay my requests before you, and will watch expectantly.",
+      "pull_quote": null,
+      "reference_display": "Psalm 5:3",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:18:2",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 18,
+      "chapter_end": 18,
+      "verse_start": 2,
+      "verse_end": 2,
+      "text": "The LORD is my rock, my fortress, and my deliverer; my God, my rock, in whom I take refuge; my shield, and the horn of my salvation, my high tower.",
+      "pull_quote": null,
+      "reference_display": "Psalm 18:2",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:25:4",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 25,
+      "chapter_end": 25,
+      "verse_start": 4,
+      "verse_end": 5,
+      "text": "Show me your ways, the LORD. Teach me your paths. Guide me in your truth, and teach me, for you are the God of my salvation. I wait for you all day long.",
+      "pull_quote": null,
+      "reference_display": "Psalm 25:4-5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:28:7",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 28,
+      "chapter_end": 28,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "The LORD is my strength and my shield. My heart has trusted in him, and I am helped. Therefore my heart greatly rejoices. With my song I will thank him.",
+      "pull_quote": null,
+      "reference_display": "Psalm 28:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:31:24",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 31,
+      "chapter_end": 31,
+      "verse_start": 24,
+      "verse_end": 24,
+      "text": "Be strong, and let your heart take courage, all you who hope in the LORD.",
+      "pull_quote": null,
+      "reference_display": "Psalm 31:24",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:32:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 32,
+      "chapter_end": 32,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "Blessed is he whose disobedience is forgiven, whose sin is covered.",
+      "pull_quote": null,
+      "reference_display": "Psalm 32:1",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:33:20",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 33,
+      "chapter_end": 33,
+      "verse_start": 20,
+      "verse_end": 21,
+      "text": "Our soul has waited for the LORD. He is our help and our shield. For our heart rejoices in him, because we have trusted in his holy name.",
+      "pull_quote": null,
+      "reference_display": "Psalm 33:20-21",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:34:17",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 34,
+      "chapter_end": 34,
+      "verse_start": 17,
+      "verse_end": 17,
+      "text": "The righteous cry, and the LORD hears, and delivers them out of all their troubles.",
+      "pull_quote": null,
+      "reference_display": "Psalm 34:17",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:40:8",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 40,
+      "chapter_end": 40,
+      "verse_start": 8,
+      "verse_end": 8,
+      "text": "I delight to do your will, my God. Yes, your law is within my heart.”",
+      "pull_quote": null,
+      "reference_display": "Psalm 40:8",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:42:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 42,
+      "chapter_end": 42,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "As the deer pants for the water brooks, so my soul pants after you, God.",
+      "pull_quote": null,
+      "reference_display": "Psalm 42:1",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:43:5",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 43,
+      "chapter_end": 43,
+      "verse_start": 5,
+      "verse_end": 5,
+      "text": "Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him: my Savior, my helper, and my God.",
+      "pull_quote": null,
+      "reference_display": "Psalm 43:5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:46:10",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 46,
+      "chapter_end": 46,
+      "verse_start": 10,
+      "verse_end": 10,
+      "text": "“Be still, and know that I am God. I will be exalted among the nations. I will be exalted on the earth.”",
+      "pull_quote": null,
+      "reference_display": "Psalm 46:10",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:57:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 57,
+      "chapter_end": 57,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "Be merciful to me, God, be merciful to me, for my soul takes refuge in you. Yes, in the shadow of your wings, I will take refuge, until disaster has passed.",
+      "pull_quote": null,
+      "reference_display": "Psalm 57:1",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:73:28",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 73,
+      "chapter_end": 73,
+      "verse_start": 28,
+      "verse_end": 28,
+      "text": "But it is good for me to come close to God. I have made the Lord the LORD my refuge, that I may tell of all your works.",
+      "pull_quote": null,
+      "reference_display": "Psalm 73:28",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:63:7",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 63,
+      "chapter_end": 63,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "For you have been my help. I will rejoice in the shadow of your wings.",
+      "pull_quote": null,
+      "reference_display": "Psalm 63:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:68:19",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 68,
+      "chapter_end": 68,
+      "verse_start": 19,
+      "verse_end": 19,
+      "text": "Blessed be the Lord, who daily bears our burdens, even the God who is our salvation. Selah.",
+      "pull_quote": null,
+      "reference_display": "Psalm 68:19",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:71:5",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 71,
+      "chapter_end": 71,
+      "verse_start": 5,
+      "verse_end": 5,
+      "text": "For you are my hope, Lord the LORD, my confidence from my youth.",
+      "pull_quote": null,
+      "reference_display": "Psalm 71:5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:86:5",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 86,
+      "chapter_end": 86,
+      "verse_start": 5,
+      "verse_end": 5,
+      "text": "For you, Lord, are good, and ready to forgive, abundant in loving kindness to all those who call on you.",
+      "pull_quote": null,
+      "reference_display": "Psalm 86:5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:107:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 107,
+      "chapter_end": 107,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "Give thanks to the LORD, for he is good, for his loving kindness endures forever.",
+      "pull_quote": null,
+      "reference_display": "Psalm 107:1",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:112:7",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 112,
+      "chapter_end": 112,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "He will not be afraid of evil news. His heart is steadfast, trusting in the LORD.",
+      "pull_quote": null,
+      "reference_display": "Psalm 112:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:1:7",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "The fear of the LORD is the beginning of knowledge, but the foolish despise wisdom and instruction.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 1:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:8:11",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 8,
+      "chapter_end": 8,
+      "verse_start": 11,
+      "verse_end": 11,
+      "text": "For wisdom is better than rubies. All the things that may be desired can’t be compared to it.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 8:11",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:10:19",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 10,
+      "chapter_end": 10,
+      "verse_start": 19,
+      "verse_end": 19,
+      "text": "In the multitude of words there is no lack of disobedience, but he who restrains his lips does wisely.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 10:19",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:13:20",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 13,
+      "chapter_end": 13,
+      "verse_start": 20,
+      "verse_end": 20,
+      "text": "One who walks with wise men grows wise, but a companion of fools suffers harm.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 13:20",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:14:12",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 14,
+      "chapter_end": 14,
+      "verse_start": 12,
+      "verse_end": 12,
+      "text": "There is a way which seems right to a man, but in the end it leads to death.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 14:12",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:15:22",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 15,
+      "chapter_end": 15,
+      "verse_start": 22,
+      "verse_end": 22,
+      "text": "Where there is no counsel, plans fail; but in a multitude of counselors they are established.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 15:22",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:16:24",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 16,
+      "chapter_end": 16,
+      "verse_start": 24,
+      "verse_end": 24,
+      "text": "Pleasant words are a honeycomb, sweet to the soul, and health to the bones.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 16:24",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:17:22",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 17,
+      "chapter_end": 17,
+      "verse_start": 22,
+      "verse_end": 22,
+      "text": "A cheerful heart makes good medicine, but a crushed spirit dries up the bones.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 17:22",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:20:24",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 20,
+      "chapter_end": 20,
+      "verse_start": 24,
+      "verse_end": 24,
+      "text": "A man’s steps are from the LORD; how then can man understand his way?",
+      "pull_quote": null,
+      "reference_display": "Proverbs 20:24",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:21:21",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 21,
+      "chapter_end": 21,
+      "verse_start": 21,
+      "verse_end": 21,
+      "text": "He who follows after righteousness and kindness finds life, righteousness, and honor.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 21:21",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:23:18",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 23,
+      "chapter_end": 23,
+      "verse_start": 18,
+      "verse_end": 18,
+      "text": "Indeed surely there is a future hope, and your hope will not be cut off.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 23:18",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:24:3",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 24,
+      "chapter_end": 24,
+      "verse_start": 3,
+      "verse_end": 4,
+      "text": "Through wisdom a house is built; by understanding it is established; by knowledge the rooms are filled with all rare and beautiful treasure.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 24:3-4",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:25:11",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 25,
+      "chapter_end": 25,
+      "verse_start": 11,
+      "verse_end": 11,
+      "text": "A word fitly spoken is like apples of gold in settings of silver.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 25:11",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:28:13",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 28,
+      "chapter_end": 28,
+      "verse_start": 13,
+      "verse_end": 13,
+      "text": "He who conceals his sins doesn’t prosper, but whoever confesses and renounces them finds mercy.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 28:13",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:30:5",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 30,
+      "chapter_end": 30,
+      "verse_start": 5,
+      "verse_end": 5,
+      "text": "“Every word of God is flawless. He is a shield to those who take refuge in him.",
+      "pull_quote": null,
+      "reference_display": "Proverbs 30:5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:hos:6:3",
+      "translation_id": "web-c",
+      "book_id": "hos",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 3,
+      "verse_end": 3,
+      "text": "Let’s acknowledge the LORD. Let’s press on to know the LORD. As surely as the sun rises, the LORD will appear. He will come to us like the rain, like the spring rain that waters the earth.”",
+      "pull_quote": null,
+      "reference_display": "Hosea 6:3",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:joel:2:25",
+      "translation_id": "web-c",
+      "book_id": "joel",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 25,
+      "verse_end": 25,
+      "text": "I will restore to you the years that the swarming locust has eaten, the great locust, the grasshopper, and the caterpillar, my great army, which I sent among you.",
+      "pull_quote": null,
+      "reference_display": "Joel 2:25",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:amos:5:24",
+      "translation_id": "web-c",
+      "book_id": "amos",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 24,
+      "verse_end": 24,
+      "text": "But let justice roll on like rivers, and righteousness like a mighty stream.",
+      "pull_quote": null,
+      "reference_display": "Amos 5:24",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jonah:2:7",
+      "translation_id": "web-c",
+      "book_id": "jonah",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "“When my soul fainted within me, I remembered the LORD. My prayer came in to you, into your holy temple.",
+      "pull_quote": null,
+      "reference_display": "Jonah 2:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:nah:1:7",
+      "translation_id": "web-c",
+      "book_id": "nah",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "The LORD is good, a stronghold in the day of trouble; and he knows those who take refuge in him.",
+      "pull_quote": null,
+      "reference_display": "Nahum 1:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mal:4:2",
+      "translation_id": "web-c",
+      "book_id": "mal",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 2,
+      "verse_end": 2,
+      "text": "But to you who fear my name shall the sun of righteousness arise with healing in its wings. You will go out and leap like calves of the stall.",
+      "pull_quote": null,
+      "reference_display": "Malachi 4:2",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:deut:33:27",
+      "translation_id": "web-c",
+      "book_id": "deut",
+      "chapter_start": 33,
+      "chapter_end": 33,
+      "verse_start": 27,
+      "verse_end": 27,
+      "text": "The eternal God is your dwelling place. Underneath are the everlasting arms. He thrust out the enemy from before you, and said, ‘Destroy!’",
+      "pull_quote": null,
+      "reference_display": "Deuteronomy 33:27",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1sam:16:7",
+      "translation_id": "web-c",
+      "book_id": "1sam",
+      "chapter_start": 16,
+      "chapter_end": 16,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "But the LORD said to Samuel, “Don’t look on his face, or on the height of his stature, because I have rejected him; for I don’t see as man sees. For man looks at the outward appearance, but the LORD looks at the heart.”",
+      "pull_quote": null,
+      "reference_display": "1 Samuel 16:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1chr:16:11",
+      "translation_id": "web-c",
+      "book_id": "1chr",
+      "chapter_start": 16,
+      "chapter_end": 16,
+      "verse_start": 11,
+      "verse_end": 11,
+      "text": "Seek the LORD and his strength. Seek his face forever more.",
+      "pull_quote": null,
+      "reference_display": "1 Chronicles 16:11",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:2chr:7:14",
+      "translation_id": "web-c",
+      "book_id": "2chr",
+      "chapter_start": 7,
+      "chapter_end": 7,
+      "verse_start": 14,
+      "verse_end": 14,
+      "text": "if my people who are called by my name will humble themselves, pray, seek my face, and turn from their wicked ways, then I will hear from heaven, will forgive their sin, and will heal their land.",
+      "pull_quote": null,
+      "reference_display": "2 Chronicles 7:14",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mk:11:24",
+      "translation_id": "web-c",
+      "book_id": "mk",
+      "chapter_start": 11,
+      "chapter_end": 11,
+      "verse_start": 24,
+      "verse_end": 24,
+      "text": "Therefore I tell you, all things whatever you pray and ask for, believe that you have received them, and you shall have them.",
+      "pull_quote": null,
+      "reference_display": "Mark 11:24",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:lk:11:9",
+      "translation_id": "web-c",
+      "book_id": "lk",
+      "chapter_start": 11,
+      "chapter_end": 11,
+      "verse_start": 9,
+      "verse_end": 9,
+      "text": "“I tell you, keep asking, and it will be given you. Keep seeking, and you will find. Keep knocking, and it will be opened to you.",
+      "pull_quote": null,
+      "reference_display": "Luke 11:9",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jn:6:35",
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 35,
+      "verse_end": 35,
+      "text": "Jesus said to them, “I am the bread of life. Whoever comes to me will not be hungry, and whoever believes in me will never be thirsty.",
+      "pull_quote": null,
+      "reference_display": "John 6:35",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:acts:2:21",
+      "translation_id": "web-c",
+      "book_id": "acts",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 21,
+      "verse_end": 21,
+      "text": "It will be that whoever will call on the name of the Lord will be saved.’",
+      "pull_quote": null,
+      "reference_display": "Acts 2:21",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ro:10:9",
+      "translation_id": "web-c",
+      "book_id": "ro",
+      "chapter_start": 10,
+      "chapter_end": 10,
+      "verse_start": 9,
+      "verse_end": 9,
+      "text": "that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.",
+      "pull_quote": null,
+      "reference_display": "Romans 10:9",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1cor:15:58",
+      "translation_id": "web-c",
+      "book_id": "1cor",
+      "chapter_start": 15,
+      "chapter_end": 15,
+      "verse_start": 58,
+      "verse_end": 58,
+      "text": "Therefore, my beloved brothers, be steadfast, immovable, always abounding in the Lord’s work, because you know that your labor is not in vain in the Lord.",
+      "pull_quote": null,
+      "reference_display": "1 Corinthians 15:58",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:2cor:1:3",
+      "translation_id": "web-c",
+      "book_id": "2cor",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 3,
+      "verse_end": 4,
+      "text": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, that we may be able to comfort those who are in any affliction, through the comfort with which we ourselves are comforted by God.",
+      "pull_quote": null,
+      "reference_display": "2 Corinthians 1:3-4",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:gal:2:20",
+      "translation_id": "web-c",
+      "book_id": "gal",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 20,
+      "verse_end": 20,
+      "text": "I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me and gave himself up for me.",
+      "pull_quote": null,
+      "reference_display": "Galatians 2:20",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:eph:2:8",
+      "translation_id": "web-c",
+      "book_id": "eph",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 8,
+      "verse_end": 9,
+      "text": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, that no one would boast.",
+      "pull_quote": null,
+      "reference_display": "Ephesians 2:8-9",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:phil:1:6",
+      "translation_id": "web-c",
+      "book_id": "phil",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 6,
+      "verse_end": 6,
+      "text": "being confident of this very thing, that he who began a good work in you will complete it until the day of Jesus Christ.",
+      "pull_quote": null,
+      "reference_display": "Philippians 1:6",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1the:5:24",
+      "translation_id": "web-c",
+      "book_id": "1the",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 24,
+      "verse_end": 24,
+      "text": "He who calls you is faithful, who will also do it.",
+      "pull_quote": null,
+      "reference_display": "1 Thessalonians 5:24",
+      "reference_alt": null
     }
   ],
   "entries": [
@@ -6575,227 +7303,227 @@
     },
     {
       "month_day": "08-12",
-      "passage_id": "web-c:jn:14:18"
+      "passage_id": "web-c:ps:5:3"
     },
     {
       "month_day": "08-13",
-      "passage_id": "web-c:mt:28:20"
+      "passage_id": "web-c:ps:18:2"
     },
     {
       "month_day": "08-14",
-      "passage_id": "web-c:eph:4:26"
+      "passage_id": "web-c:ps:25:4"
     },
     {
       "month_day": "08-15",
-      "passage_id": "web-c:jas:1:19"
+      "passage_id": "web-c:ps:28:7"
     },
     {
       "month_day": "08-16",
-      "passage_id": "web-c:1jo:1:9"
+      "passage_id": "web-c:ps:31:24"
     },
     {
       "month_day": "08-17",
-      "passage_id": "web-c:ro:8:1"
+      "passage_id": "web-c:ps:32:1"
     },
     {
       "month_day": "08-18",
-      "passage_id": "web-c:mk:9:24"
+      "passage_id": "web-c:ps:33:20"
     },
     {
       "month_day": "08-19",
-      "passage_id": "web-c:jn:20:29"
+      "passage_id": "web-c:ps:34:17"
     },
     {
       "month_day": "08-20",
-      "passage_id": "web-c:mt:11:28"
+      "passage_id": "web-c:ps:40:8"
     },
     {
       "month_day": "08-21",
-      "passage_id": "web-c:isa:40:31"
+      "passage_id": "web-c:ps:42:1"
     },
     {
       "month_day": "08-22",
-      "passage_id": "web-c:1the:5:16"
+      "passage_id": "web-c:ps:43:5"
     },
     {
       "month_day": "08-23",
-      "passage_id": "web-c:ps:118:1"
+      "passage_id": "web-c:ps:46:10"
     },
     {
       "month_day": "08-24",
-      "passage_id": "web-c:pr:3:5"
+      "passage_id": "web-c:ps:57:1"
     },
     {
       "month_day": "08-25",
-      "passage_id": "web-c:jas:1:5"
+      "passage_id": "web-c:ps:73:28"
     },
     {
       "month_day": "08-26",
-      "passage_id": "web-c:eph:4:32"
+      "passage_id": "web-c:ps:63:7"
     },
     {
       "month_day": "08-27",
-      "passage_id": "web-c:mt:6:14"
+      "passage_id": "web-c:ps:68:19"
     },
     {
       "month_day": "08-28",
-      "passage_id": "web-c:ps:61:2"
+      "passage_id": "web-c:ps:71:5"
     },
     {
       "month_day": "08-29",
-      "passage_id": "web-c:mt:6:34"
+      "passage_id": "web-c:ps:86:5"
     },
     {
       "month_day": "08-30",
-      "passage_id": "web-c:jer:29:11"
+      "passage_id": "web-c:ps:107:1"
     },
     {
       "month_day": "08-31",
-      "passage_id": "web-c:lam:3:22"
+      "passage_id": "web-c:ps:112:7"
     },
     {
       "month_day": "09-01",
-      "passage_id": "web-c:phil:4:4"
+      "passage_id": "web-c:pr:1:7"
     },
     {
       "month_day": "09-02",
-      "passage_id": "web-c:jas:3:16"
+      "passage_id": "web-c:pr:8:11"
     },
     {
       "month_day": "09-03",
-      "passage_id": "web-c:gal:5:16"
+      "passage_id": "web-c:pr:10:19"
     },
     {
       "month_day": "09-04",
-      "passage_id": "web-c:1cor:13:4"
+      "passage_id": "web-c:pr:13:20"
     },
     {
       "month_day": "09-05",
-      "passage_id": "web-c:jas:4:6"
+      "passage_id": "web-c:pr:14:12"
     },
     {
       "month_day": "09-06",
-      "passage_id": "web-c:col:3:13"
+      "passage_id": "web-c:pr:15:22"
     },
     {
       "month_day": "09-07",
-      "passage_id": "web-c:ps:42:11"
+      "passage_id": "web-c:pr:16:24"
     },
     {
       "month_day": "09-08",
-      "passage_id": "web-c:eccl:3:1"
+      "passage_id": "web-c:pr:17:22"
     },
     {
       "month_day": "09-09",
-      "passage_id": "web-c:ps:41:9"
+      "passage_id": "web-c:pr:20:24"
     },
     {
       "month_day": "09-10",
-      "passage_id": "web-c:ps:139:14"
+      "passage_id": "web-c:pr:21:21"
     },
     {
       "month_day": "09-11",
-      "passage_id": "web-c:lk:12:15"
+      "passage_id": "web-c:pr:23:18"
     },
     {
       "month_day": "09-12",
-      "passage_id": "web-c:jas:5:8"
+      "passage_id": "web-c:pr:24:3"
     },
     {
       "month_day": "09-13",
-      "passage_id": "web-c:phil:4:11"
+      "passage_id": "web-c:pr:25:11"
     },
     {
       "month_day": "09-14",
-      "passage_id": "web-c:josh:1:9"
+      "passage_id": "web-c:pr:28:13"
     },
     {
       "month_day": "09-15",
-      "passage_id": "web-c:2tim:1:7"
+      "passage_id": "web-c:pr:30:5"
     },
     {
       "month_day": "09-16",
-      "passage_id": "web-c:ps:94:19"
+      "passage_id": "web-c:hos:6:3"
     },
     {
       "month_day": "09-17",
-      "passage_id": "web-c:jn:14:27"
+      "passage_id": "web-c:joel:2:25"
     },
     {
       "month_day": "09-18",
-      "passage_id": "web-c:rev:21:4"
+      "passage_id": "web-c:amos:5:24"
     },
     {
       "month_day": "09-19",
-      "passage_id": "web-c:ps:30:5"
+      "passage_id": "web-c:jonah:2:7"
     },
     {
       "month_day": "09-20",
-      "passage_id": "web-c:jas:1:12"
+      "passage_id": "web-c:nah:1:7"
     },
     {
       "month_day": "09-21",
-      "passage_id": "web-c:heb:2:18"
+      "passage_id": "web-c:mal:4:2"
     },
     {
       "month_day": "09-22",
-      "passage_id": "web-c:ps:68:6"
+      "passage_id": "web-c:deut:33:27"
     },
     {
       "month_day": "09-23",
-      "passage_id": "web-c:deut:31:6"
+      "passage_id": "web-c:1sam:16:7"
     },
     {
       "month_day": "09-24",
-      "passage_id": "web-c:pr:15:1"
+      "passage_id": "web-c:1chr:16:11"
     },
     {
       "month_day": "09-25",
-      "passage_id": "web-c:col:3:8"
+      "passage_id": "web-c:2chr:7:14"
     },
     {
       "month_day": "09-26",
-      "passage_id": "web-c:ps:103:12"
+      "passage_id": "web-c:mk:11:24"
     },
     {
       "month_day": "09-27",
-      "passage_id": "web-c:isa:1:18"
+      "passage_id": "web-c:lk:11:9"
     },
     {
       "month_day": "09-28",
-      "passage_id": "web-c:jas:1:6"
+      "passage_id": "web-c:jn:6:35"
     },
     {
       "month_day": "09-29",
-      "passage_id": "web-c:heb:11:1"
+      "passage_id": "web-c:acts:2:21"
     },
     {
       "month_day": "09-30",
-      "passage_id": "web-c:gal:6:9"
+      "passage_id": "web-c:ro:10:9"
     },
     {
       "month_day": "10-01",
-      "passage_id": "web-c:ps:121:1"
+      "passage_id": "web-c:1cor:15:58"
     },
     {
       "month_day": "10-02",
-      "passage_id": "web-c:ps:100:4"
+      "passage_id": "web-c:2cor:1:3"
     },
     {
       "month_day": "10-03",
-      "passage_id": "web-c:col:3:17"
+      "passage_id": "web-c:gal:2:20"
     },
     {
       "month_day": "10-04",
-      "passage_id": "web-c:ps:32:8"
+      "passage_id": "web-c:eph:2:8"
     },
     {
       "month_day": "10-05",
-      "passage_id": "web-c:ps:119:105"
+      "passage_id": "web-c:phil:1:6"
     },
     {
       "month_day": "10-06",
-      "passage_id": "web-c:ps:147:3"
+      "passage_id": "web-c:1the:5:24"
     },
     {
       "month_day": "10-07",
