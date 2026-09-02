@@ -4090,6 +4090,664 @@
           "caption": "Introduced as a devout widow of great reputation"
         }
       ]
+    },
+    {
+      "id": "zerubbabel",
+      "name": "Zerubbabel",
+      "category": "post_exile",
+      "sort_order": 115,
+      "requires_deuterocanon": false,
+      "intro": "A descendant of King David who led the first group of Jewish exiles home from Babylon and oversaw the rebuilding of the Temple's foundation.",
+      "verse_refs": [
+        {
+          "book_id": "ezra",
+          "chapter": 3,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Laid the foundation of the rebuilt Temple"
+        },
+        {
+          "book_id": "hag",
+          "chapter": 2,
+          "verse_start": 23,
+          "verse_end": 23,
+          "caption": "God's promise: \"I will make you like a signet ring\""
+        },
+        {
+          "book_id": "zech",
+          "chapter": 4,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "\"Not by might, nor by power, but by my Spirit\""
+        },
+        {
+          "book_id": "mt",
+          "chapter": 1,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Named in the genealogy of Jesus"
+        }
+      ]
+    },
+    {
+      "id": "haman",
+      "name": "Haman",
+      "category": "post_exile",
+      "sort_order": 116,
+      "requires_deuterocanon": false,
+      "intro": "The Persian official whose plot to destroy the Jewish people was undone by Esther's courage, and who was hanged on the gallows he built for another man.",
+      "reflection": "Haman's rage began over a single insult -- Mordecai wouldn't bow to him (Esther 3:5) -- and from there he built a plan to destroy an entire people just to settle it. It's a vivid warning about what wounded pride can talk itself into when it's given free rein: Haman never has to answer for one man's disrespect, because his anger escalates so far past reason that the original insult stops being the point.",
+      "prayer": "Lord, when I feel slighted, don't let me nurse it until it grows into something far larger and darker than what actually happened. Keep my anger proportionate to the wound, not to my pride.",
+      "verse_refs": [
+        {
+          "book_id": "esth",
+          "chapter": 3,
+          "verse_start": 5,
+          "verse_end": 6,
+          "caption": "Enraged that Mordecai wouldn't bow to him"
+        },
+        {
+          "book_id": "esth",
+          "chapter": 3,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "His decree to destroy the Jewish people"
+        },
+        {
+          "book_id": "esth",
+          "chapter": 7,
+          "verse_start": 9,
+          "verse_end": 10,
+          "caption": "Hanged on the gallows he built for Mordecai"
+        },
+        {
+          "book_id": "esth",
+          "chapter": 9,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "Remembered as the enemy of the Jews"
+        }
+      ]
+    },
+    {
+      "id": "ahasuerus",
+      "name": "Ahasuerus",
+      "category": "post_exile",
+      "sort_order": 117,
+      "requires_deuterocanon": false,
+      "intro": "The Persian king (also called Xerxes) whose banquets, decrees, and favor toward Esther set the stage for her people's deliverance.",
+      "verse_refs": [
+        {
+          "book_id": "esth",
+          "chapter": 1,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "King over 127 provinces from India to Ethiopia"
+        },
+        {
+          "book_id": "esth",
+          "chapter": 2,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Made Esther his queen"
+        },
+        {
+          "book_id": "esth",
+          "chapter": 7,
+          "verse_start": 5,
+          "verse_end": 6,
+          "caption": "Demands to know who threatens Esther"
+        },
+        {
+          "book_id": "esth",
+          "chapter": 8,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Grants Mordecai authority to counter Haman's decree"
+        }
+      ]
+    },
+    {
+      "id": "vashti",
+      "name": "Vashti",
+      "category": "post_exile",
+      "sort_order": 118,
+      "requires_deuterocanon": false,
+      "intro": "The queen deposed for refusing King Ahasuerus's summons to display herself before his banquet guests -- an act of defiance that opened the way for Esther.",
+      "verse_refs": [
+        {
+          "book_id": "esth",
+          "chapter": 1,
+          "verse_start": 11,
+          "verse_end": 12,
+          "caption": "Refuses to come when the king summons her"
+        },
+        {
+          "book_id": "esth",
+          "chapter": 1,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Deposed by royal decree"
+        }
+      ]
+    },
+    {
+      "id": "sanballat-and-tobiah",
+      "name": "Sanballat and Tobiah",
+      "category": "post_exile",
+      "sort_order": 119,
+      "requires_deuterocanon": false,
+      "intro": "Regional officials who mocked, threatened, and schemed against Nehemiah's rebuilding of Jerusalem's walls -- opposition that never stopped the work.",
+      "verse_refs": [
+        {
+          "book_id": "neh",
+          "chapter": 2,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Displeased that someone had come to help Israel"
+        },
+        {
+          "book_id": "neh",
+          "chapter": 4,
+          "verse_start": 1,
+          "verse_end": 3,
+          "caption": "Mock the rebuilding project"
+        },
+        {
+          "book_id": "neh",
+          "chapter": 6,
+          "verse_start": 2,
+          "verse_end": 4,
+          "caption": "Try to lure Nehemiah into a trap"
+        },
+        {
+          "book_id": "neh",
+          "chapter": 6,
+          "verse_start": 15,
+          "verse_end": 16,
+          "caption": "The wall finished in spite of them"
+        }
+      ]
+    },
+    {
+      "id": "obadiah-prophet",
+      "name": "Obadiah (the prophet)",
+      "category": "prophets",
+      "sort_order": 120,
+      "requires_deuterocanon": false,
+      "intro": "The shortest book in the Old Testament -- a single chapter announcing judgment on Edom for gloating over Judah's downfall, and a promise of restoration.",
+      "verse_refs": [
+        {
+          "book_id": "obad",
+          "chapter": 1,
+          "verse_start": 3,
+          "verse_end": 4,
+          "caption": "Edom's pride: \"Who shall bring me down?\""
+        },
+        {
+          "book_id": "obad",
+          "chapter": 1,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Warned not to gloat over Judah's disaster"
+        },
+        {
+          "book_id": "obad",
+          "chapter": 1,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "\"The day of the LORD is near upon all the nations\""
+        },
+        {
+          "book_id": "obad",
+          "chapter": 1,
+          "verse_start": 21,
+          "verse_end": 21,
+          "caption": "\"The kingdom shall be the LORD's\""
+        }
+      ]
+    },
+    {
+      "id": "nahum",
+      "name": "Nahum",
+      "category": "prophets",
+      "sort_order": 121,
+      "requires_deuterocanon": false,
+      "intro": "A prophet whose entire book is a single, sustained oracle of judgment against Nineveh -- the same city Jonah once saw spared.",
+      "verse_refs": [
+        {
+          "book_id": "nah",
+          "chapter": 1,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "\"The LORD is slow to anger... he will by no means clear the guilty\""
+        },
+        {
+          "book_id": "nah",
+          "chapter": 1,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "\"The LORD is good, a stronghold in the day of trouble\""
+        },
+        {
+          "book_id": "nah",
+          "chapter": 3,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "\"Woe to the bloody city\""
+        },
+        {
+          "book_id": "nah",
+          "chapter": 3,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Nineveh's fall: \"all who hear the news of you clap their hands\""
+        }
+      ]
+    },
+    {
+      "id": "habakkuk",
+      "name": "Habakkuk",
+      "category": "prophets",
+      "sort_order": 122,
+      "requires_deuterocanon": false,
+      "intro": "A prophet who openly questioned God about injustice and delay, and whose book turns from complaint to one of scripture's clearest statements of trust.",
+      "verse_refs": [
+        {
+          "book_id": "hab",
+          "chapter": 1,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "\"O LORD, how long shall I cry, and you will not hear?\""
+        },
+        {
+          "book_id": "hab",
+          "chapter": 2,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "\"The righteous shall live by his faith\""
+        },
+        {
+          "book_id": "hab",
+          "chapter": 2,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "\"The LORD is in his holy temple; let all the earth keep silence\""
+        },
+        {
+          "book_id": "hab",
+          "chapter": 3,
+          "verse_start": 17,
+          "verse_end": 18,
+          "caption": "\"Yet I will rejoice in the LORD\" even when everything fails"
+        }
+      ]
+    },
+    {
+      "id": "zephaniah",
+      "name": "Zephaniah",
+      "category": "prophets",
+      "sort_order": 123,
+      "requires_deuterocanon": false,
+      "intro": "A prophet, likely of royal descent, who warned of the coming \"day of the LORD\" while also promising that a faithful remnant would be restored and rejoiced over.",
+      "verse_refs": [
+        {
+          "book_id": "zeph",
+          "chapter": 1,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "\"The great day of the LORD is near\""
+        },
+        {
+          "book_id": "zeph",
+          "chapter": 2,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Calls the humble to seek the LORD"
+        },
+        {
+          "book_id": "zeph",
+          "chapter": 3,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "\"The LORD your God is in your midst... he will rejoice over you with singing\""
+        }
+      ]
+    },
+    {
+      "id": "haggai",
+      "name": "Haggai",
+      "category": "prophets",
+      "sort_order": 124,
+      "requires_deuterocanon": false,
+      "intro": "The prophet who confronted the returned exiles for finishing their own houses while the Temple lay in ruins, and whose preaching got the rebuilding started again.",
+      "verse_refs": [
+        {
+          "book_id": "hag",
+          "chapter": 1,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "\"Is it time for you to dwell in your paneled houses, while this house lies in ruins?\""
+        },
+        {
+          "book_id": "hag",
+          "chapter": 1,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Stirs up the people to resume the work"
+        },
+        {
+          "book_id": "hag",
+          "chapter": 2,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "\"The latter glory of this house shall be greater than the former\""
+        }
+      ]
+    },
+    {
+      "id": "zechariah-prophet",
+      "name": "Zechariah (the prophet)",
+      "category": "prophets",
+      "sort_order": 125,
+      "requires_deuterocanon": false,
+      "intro": "A prophet who encouraged the rebuilding of the Temple through a series of visions, and whose book contains some of the Old Testament's clearest Messianic prophecies.",
+      "verse_refs": [
+        {
+          "book_id": "zech",
+          "chapter": 4,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "\"Not by might, nor by power, but by my Spirit\""
+        },
+        {
+          "book_id": "zech",
+          "chapter": 9,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "\"Your king comes to you... humble, and riding on a donkey\""
+        },
+        {
+          "book_id": "zech",
+          "chapter": 12,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "\"They will look on me whom they have pierced\""
+        },
+        {
+          "book_id": "zech",
+          "chapter": 13,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "\"Strike the shepherd, and the sheep will be scattered\" -- quoted by Jesus"
+        }
+      ]
+    },
+    {
+      "id": "malachi",
+      "name": "Malachi",
+      "category": "prophets",
+      "sort_order": 126,
+      "requires_deuterocanon": false,
+      "intro": "The last of the Old Testament prophets, whose closing words -- a promise to send Elijah before the day of the LORD -- became the final verses many Bibles print before the Gospels begin.",
+      "verse_refs": [
+        {
+          "book_id": "mal",
+          "chapter": 1,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "Challenges the priests: \"a son honors his father... where is my honor?\""
+        },
+        {
+          "book_id": "mal",
+          "chapter": 3,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "\"I the LORD do not change\""
+        },
+        {
+          "book_id": "mal",
+          "chapter": 3,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "\"Bring the whole tithe into the storehouse\""
+        },
+        {
+          "book_id": "mal",
+          "chapter": 4,
+          "verse_start": 5,
+          "verse_end": 6,
+          "caption": "\"I will send you Elijah the prophet before the great and terrible day of the LORD\""
+        }
+      ]
+    },
+    {
+      "id": "nebuchadnezzar",
+      "name": "Nebuchadnezzar",
+      "category": "prophets",
+      "sort_order": 127,
+      "requires_deuterocanon": false,
+      "intro": "The Babylonian king who destroyed Jerusalem's Temple, dreamed dreams only Daniel could interpret, and was humbled into madness before publicly confessing the God of Israel.",
+      "verse_refs": [
+        {
+          "book_id": "dan",
+          "chapter": 2,
+          "verse_start": 47,
+          "verse_end": 47,
+          "caption": "Confesses Daniel's God as \"God of gods\""
+        },
+        {
+          "book_id": "dan",
+          "chapter": 3,
+          "verse_start": 19,
+          "verse_end": 20,
+          "caption": "Orders Shadrach, Meshach, and Abednego into the furnace"
+        },
+        {
+          "book_id": "dan",
+          "chapter": 4,
+          "verse_start": 33,
+          "verse_end": 33,
+          "caption": "Driven from human society, humbled"
+        },
+        {
+          "book_id": "dan",
+          "chapter": 4,
+          "verse_start": 37,
+          "verse_end": 37,
+          "caption": "\"I praise and extol and honor the King of heaven\""
+        }
+      ]
+    },
+    {
+      "id": "belshazzar",
+      "name": "Belshazzar",
+      "category": "prophets",
+      "sort_order": 128,
+      "requires_deuterocanon": false,
+      "intro": "Nebuchadnezzar's successor, whose feast using the Temple's sacred vessels was interrupted by a hand writing his kingdom's end on the wall.",
+      "verse_refs": [
+        {
+          "book_id": "dan",
+          "chapter": 5,
+          "verse_start": 2,
+          "verse_end": 4,
+          "caption": "Drinks from the Temple's sacred vessels at his feast"
+        },
+        {
+          "book_id": "dan",
+          "chapter": 5,
+          "verse_start": 5,
+          "verse_end": 6,
+          "caption": "The handwriting on the wall"
+        },
+        {
+          "book_id": "dan",
+          "chapter": 5,
+          "verse_start": 25,
+          "verse_end": 28,
+          "caption": "Daniel's interpretation: \"You have been weighed... and found wanting\""
+        },
+        {
+          "book_id": "dan",
+          "chapter": 5,
+          "verse_start": 30,
+          "verse_end": 30,
+          "caption": "Killed that same night"
+        }
+      ]
+    },
+    {
+      "id": "darius-the-mede",
+      "name": "Darius the Mede",
+      "category": "prophets",
+      "sort_order": 129,
+      "requires_deuterocanon": false,
+      "intro": "The king who, pressured into signing a decree against prayer, watched Daniel survive a night in the lions' den and then honored Daniel's God publicly.",
+      "verse_refs": [
+        {
+          "book_id": "dan",
+          "chapter": 6,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Tries every way to save Daniel from his own decree"
+        },
+        {
+          "book_id": "dan",
+          "chapter": 6,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "\"Your God, whom you serve continually, will deliver you\""
+        },
+        {
+          "book_id": "dan",
+          "chapter": 6,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "Daniel unharmed: \"my God sent his angel\""
+        },
+        {
+          "book_id": "dan",
+          "chapter": 6,
+          "verse_start": 26,
+          "verse_end": 26,
+          "caption": "Decrees that all should fear the God of Daniel"
+        }
+      ]
+    },
+    {
+      "id": "cyrus",
+      "name": "Cyrus",
+      "category": "prophets",
+      "sort_order": 130,
+      "requires_deuterocanon": false,
+      "intro": "The Persian king whose decree freed the Jewish exiles to return home and rebuild the Temple -- an act scripture attributes to God stirring his spirit, and which Isaiah names generations in advance.",
+      "verse_refs": [
+        {
+          "book_id": "isa",
+          "chapter": 45,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Named by God as \"his anointed\" generations before his birth"
+        },
+        {
+          "book_id": "ezra",
+          "chapter": 1,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "\"The LORD stirred up the spirit of Cyrus\""
+        },
+        {
+          "book_id": "ezra",
+          "chapter": 1,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "His decree permitting the Temple's rebuilding"
+        },
+        {
+          "book_id": "2chr",
+          "chapter": 36,
+          "verse_start": 22,
+          "verse_end": 23,
+          "caption": "The decree that ends the Old Testament in the Hebrew canon"
+        }
+      ]
+    },
+    {
+      "id": "eliphaz-bildad-zophar",
+      "name": "Eliphaz, Bildad, and Zophar",
+      "category": "prophets",
+      "sort_order": 131,
+      "requires_deuterocanon": false,
+      "intro": "Job's three friends, who sat with him in silence for seven days before opening a long debate insisting his suffering had to be punishment for hidden sin.",
+      "verse_refs": [
+        {
+          "book_id": "job",
+          "chapter": 2,
+          "verse_start": 11,
+          "verse_end": 13,
+          "caption": "Come to comfort Job, sit with him seven days in silence"
+        },
+        {
+          "book_id": "job",
+          "chapter": 4,
+          "verse_start": 7,
+          "verse_end": 8,
+          "caption": "Eliphaz: \"Who ever perished, being innocent?\""
+        },
+        {
+          "book_id": "job",
+          "chapter": 8,
+          "verse_start": 3,
+          "verse_end": 4,
+          "caption": "Bildad assumes Job's children must have sinned"
+        },
+        {
+          "book_id": "job",
+          "chapter": 42,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "God rebukes them: \"you have not spoken of me what is right\""
+        }
+      ]
+    },
+    {
+      "id": "elihu",
+      "name": "Elihu",
+      "category": "prophets",
+      "sort_order": 132,
+      "requires_deuterocanon": false,
+      "intro": "A younger man who waited out Job's three friends' entire debate before speaking -- and whose long final speech shifts the conversation toward God's greatness rather than assigning blame.",
+      "verse_refs": [
+        {
+          "book_id": "job",
+          "chapter": 32,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "Angry that Job justified himself, and that the friends found no answer"
+        },
+        {
+          "book_id": "job",
+          "chapter": 32,
+          "verse_start": 6,
+          "verse_end": 7,
+          "caption": "Waited to speak because he was younger"
+        },
+        {
+          "book_id": "job",
+          "chapter": 36,
+          "verse_start": 26,
+          "verse_end": 26,
+          "caption": "\"God is great, and we know him not\""
+        },
+        {
+          "book_id": "job",
+          "chapter": 37,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Calls Job to \"consider the wondrous works of God\""
+        }
+      ]
     }
   ],
   "character_of_day": [
@@ -4394,8 +5052,72 @@
       "character_id": "elizabeth"
     },
     {
+      "month_day": "06-07",
+      "character_id": "obadiah-prophet"
+    },
+    {
+      "month_day": "06-08",
+      "character_id": "nahum"
+    },
+    {
+      "month_day": "06-09",
+      "character_id": "habakkuk"
+    },
+    {
+      "month_day": "06-10",
+      "character_id": "zephaniah"
+    },
+    {
       "month_day": "06-11",
       "character_id": "barnabas"
+    },
+    {
+      "month_day": "06-12",
+      "character_id": "haggai"
+    },
+    {
+      "month_day": "06-13",
+      "character_id": "zechariah-prophet"
+    },
+    {
+      "month_day": "06-14",
+      "character_id": "malachi"
+    },
+    {
+      "month_day": "06-15",
+      "character_id": "nebuchadnezzar"
+    },
+    {
+      "month_day": "06-16",
+      "character_id": "belshazzar"
+    },
+    {
+      "month_day": "06-17",
+      "character_id": "darius-the-mede"
+    },
+    {
+      "month_day": "06-18",
+      "character_id": "cyrus"
+    },
+    {
+      "month_day": "06-19",
+      "character_id": "zerubbabel"
+    },
+    {
+      "month_day": "06-20",
+      "character_id": "haman"
+    },
+    {
+      "month_day": "06-21",
+      "character_id": "ahasuerus"
+    },
+    {
+      "month_day": "06-22",
+      "character_id": "vashti"
+    },
+    {
+      "month_day": "06-23",
+      "character_id": "sanballat-and-tobiah"
     },
     {
       "month_day": "06-24",
@@ -4500,6 +5222,14 @@
     {
       "month_day": "11-02",
       "character_id": "job"
+    },
+    {
+      "month_day": "11-03",
+      "character_id": "eliphaz-bildad-zophar"
+    },
+    {
+      "month_day": "11-04",
+      "character_id": "elihu"
     },
     {
       "month_day": "11-05",
