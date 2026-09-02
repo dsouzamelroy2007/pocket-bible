@@ -101,26 +101,32 @@ already degrade gracefully for a language with partial coverage, so v2's
 much larger content volume doesn't have to block on translating
 everything before anything ships.
 
-### Phase 1 — Biblical characters: 114 → 366
+### Phase 1 — Biblical characters: 114 → 366 — **DONE**
 
-- Current state: `characters.json` has 114 characters, each with
-  `sort_order` but no day mapping; `character_translations/<lang>.json`
-  and `character_verse_ref_translations/<lang>.json` hold per-language
-  overrides for the existing 114.
-- Add a `month_day` field (e.g. `"12-25"`) per character, one entry per
-  calendar day including `02-29`, mirroring the `month_day` convention
-  `daily_passages` already uses in `topics.json` — reuse it rather than a
-  day-of-year integer, since it sidesteps leap-year arithmetic entirely.
-- Build the day-to-character map first as its own review pass (a
-  spreadsheet or a plain data file of `date -> character -> why`) before
-  writing the 252 new character entries, since getting the mapping
-  theologically/liturgically right is the part that needs judgment, not
-  content volume.
-- Author the 252 new characters (intro + ≥4 verse_refs each, English
-  first), bump `content_version` in `manifest.json`, extend
-  `SeedLoader`/`ContentModel.kt` for the new field.
-- Translate incrementally into the other 7 languages afterward (see
-  cross-cutting strategy).
+- Final shape: a `character_of_day` table (`month_day -> character_id`,
+  same shape as `daily_passages`, not a field on the character itself —
+  this is what lets a character repeat on more than one day) fills all
+  366 days. 114 original characters + 166 newly authored + 86 repeat days
+  (a fixed pool of ~29 central figures cycled 2-3x each, since the pool of
+  genuinely significant, non-padding figures runs out around 280) = 366
+  filled, no gaps.
+- Real Catholic feast days used wherever one applies and isn't already
+  claimed by someone sharing that official day; Old Testament figures
+  (no Catholic feast day exists for them at all) and any figure who lost
+  a shared-feast tiebreak are placed by a specific thematic connection
+  where one could be found (e.g. Moses on the Transfiguration, Job's
+  friends the days right after his), falling back to canonical/narrative
+  order only when no real connection exists.
+- ~20 characters whose defining role is a sin a reader might recognize in
+  themselves carry `reflection`/`prayer` fields (nullable, null for
+  everyone else) — not scripture text, original devotional content naming
+  the specific sin and a short prayer of turning away from it.
+- English-complete; translation into the other 7 languages not done yet
+  (falls back to English per the cross-cutting strategy above).
+- **Deferred to a later phase**: an in-app "Character of the Day" screen.
+  The data and the `characterOfDay(monthDay)` query both exist and work
+  (mirroring `verseOfDay`/`passageOfDay`) — nothing in `MainViewModel` or
+  the UI calls it yet. Wire it up whenever that phase comes around.
 
 ### Phase 2 — Verse of the Day: true 365/366, all languages
 
