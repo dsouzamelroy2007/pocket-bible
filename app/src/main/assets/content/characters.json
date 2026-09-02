@@ -7751,6 +7751,824 @@
           "caption": "Eats regularly at the king's own table for the rest of his life"
         }
       ]
+    },
+    {
+      "id": "the-magi",
+      "name": "The Magi",
+      "category": "women_and_others",
+      "sort_order": 217,
+      "requires_deuterocanon": false,
+      "intro": "Wise men from the East who followed a star to worship the newborn king of the Jews, and whose gifts of gold, frankincense, and myrrh have shaped Christmas imagery ever since.",
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter": 2,
+          "verse_start": 1,
+          "verse_end": 2,
+          "caption": "Ask where the newborn king of the Jews is"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 2,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "\"We saw his star in the east, and have come to worship him\""
+        },
+        {
+          "book_id": "mt",
+          "chapter": 2,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Present gifts of gold, frankincense, and myrrh"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 2,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Warned in a dream, return home by another way"
+        }
+      ]
+    },
+    {
+      "id": "barabbas",
+      "name": "Barabbas",
+      "category": "women_and_others",
+      "sort_order": 218,
+      "requires_deuterocanon": false,
+      "intro": "A convicted rebel and murderer, released instead of Jesus when the crowd was given the choice at Passover -- an innocent man dying in place of a guilty one, made literal.",
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter": 15,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "A prisoner, guilty of insurrection and murder"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 27,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Pilate offers the crowd a choice between him and Jesus"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 27,
+          "verse_start": 21,
+          "verse_end": 21,
+          "caption": "The crowd demands Barabbas be released"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 23,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "Released, while Jesus is handed over to be crucified"
+        }
+      ]
+    },
+    {
+      "id": "malchus",
+      "name": "Malchus",
+      "category": "women_and_others",
+      "sort_order": 219,
+      "requires_deuterocanon": false,
+      "intro": "The high priest's servant whose ear Peter cut off in the garden of Gethsemane -- and whom Jesus healed, his last recorded miracle before the cross.",
+      "verse_refs": [
+        {
+          "book_id": "jn",
+          "chapter": 18,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Peter cuts off his right ear with a sword"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 22,
+          "verse_start": 51,
+          "verse_end": 51,
+          "caption": "Jesus touches his ear and heals him"
+        }
+      ]
+    },
+    {
+      "id": "jairus",
+      "name": "Jairus",
+      "category": "women_and_others",
+      "sort_order": 220,
+      "requires_deuterocanon": false,
+      "intro": "A synagogue leader who fell at Jesus' feet begging him to heal his dying daughter -- and whose faith was tested further when word came that she had already died.",
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter": 5,
+          "verse_start": 22,
+          "verse_end": 23,
+          "caption": "Falls at Jesus' feet, begs him to come heal his daughter"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 5,
+          "verse_start": 35,
+          "verse_end": 35,
+          "caption": "Told: \"your daughter is dead; why trouble the Teacher any further?\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 5,
+          "verse_start": 36,
+          "verse_end": 36,
+          "caption": "Jesus: \"Don't be afraid, only believe\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 5,
+          "verse_start": 41,
+          "verse_end": 42,
+          "caption": "\"Talitha koum\" -- the girl gets up and walks"
+        }
+      ]
+    },
+    {
+      "id": "cleopas",
+      "name": "Cleopas",
+      "category": "women_and_others",
+      "sort_order": 221,
+      "requires_deuterocanon": false,
+      "intro": "One of two disciples walking to Emmaus on the first Easter, whose hearts \"burned within\" as the risen Jesus -- unrecognized at first -- opened the scriptures to them along the road.",
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter": 24,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "Asks the stranger if he's the only one who hasn't heard the news"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 24,
+          "verse_start": 21,
+          "verse_end": 21,
+          "caption": "\"We were hoping he was the one who would redeem Israel\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 24,
+          "verse_start": 31,
+          "verse_end": 31,
+          "caption": "Recognizes Jesus in the breaking of the bread"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 24,
+          "verse_start": 32,
+          "verse_end": 32,
+          "caption": "\"Didn't our hearts burn within us while he talked with us on the road?\""
+        }
+      ]
+    },
+    {
+      "id": "joanna",
+      "name": "Joanna",
+      "category": "women_and_others",
+      "sort_order": 222,
+      "requires_deuterocanon": false,
+      "intro": "The wife of Herod's steward Chuza, who used her own resources to support Jesus' ministry and was among the women who found the empty tomb.",
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter": 8,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "Among the women who supported Jesus out of their own means"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 24,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "One of the women who reports the empty tomb to the apostles"
+        }
+      ]
+    },
+    {
+      "id": "the-centurion-of-capernaum",
+      "name": "The Centurion of Capernaum",
+      "category": "women_and_others",
+      "sort_order": 223,
+      "requires_deuterocanon": false,
+      "intro": "A Roman military officer whose confidence that Jesus could heal his servant with a word alone -- without even coming to the house -- amazed Jesus himself.",
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter": 8,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "\"Just say the word, and my servant will be healed\""
+        },
+        {
+          "book_id": "mt",
+          "chapter": 8,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "Understands authority: he says go, and one goes"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 8,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Jesus \"marveled\": \"I have not found so great a faith\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 7,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "His servant healed at that very moment"
+        }
+      ]
+    },
+    {
+      "id": "the-penitent-thief",
+      "name": "The Penitent Thief",
+      "category": "women_and_others",
+      "sort_order": 224,
+      "requires_deuterocanon": false,
+      "intro": "One of two criminals crucified alongside Jesus, who rebuked the other for mocking him and simply asked to be remembered -- and was promised paradise that very day.",
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter": 23,
+          "verse_start": 40,
+          "verse_end": 41,
+          "caption": "Rebukes the other criminal: \"we indeed justly\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 23,
+          "verse_start": 42,
+          "verse_end": 42,
+          "caption": "\"Jesus, remember me when you come into your kingdom\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 23,
+          "verse_start": 43,
+          "verse_end": 43,
+          "caption": "\"Today you will be with me in Paradise\""
+        }
+      ]
+    },
+    {
+      "id": "the-rich-young-man",
+      "name": "The Rich Young Man",
+      "category": "women_and_others",
+      "sort_order": 225,
+      "requires_deuterocanon": false,
+      "intro": "A man who kept every commandment since his youth, yet went away sad when Jesus told him to sell everything he had -- unable to let go of what he loved most.",
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter": 10,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "\"All these I have observed from my youth\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 10,
+          "verse_start": 21,
+          "verse_end": 21,
+          "caption": "Jesus, looking at him, loved him: \"go, sell what you have\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 10,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "Goes away sorrowful, for he had great possessions"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 10,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Jesus: \"With man this is impossible, but not with God\""
+        }
+      ]
+    },
+    {
+      "id": "the-woman-caught-in-adultery",
+      "name": "The Woman Caught in Adultery",
+      "category": "women_and_others",
+      "sort_order": 226,
+      "requires_deuterocanon": false,
+      "intro": "A woman dragged before Jesus by accusers demanding she be stoned, who found herself alone with him after every accuser walked away -- and heard the words \"neither do I condemn you.\"",
+      "verse_refs": [
+        {
+          "book_id": "jn",
+          "chapter": 8,
+          "verse_start": 4,
+          "verse_end": 5,
+          "caption": "Brought before Jesus, accused publicly"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 8,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "\"He who is without sin among you, let him cast the first stone\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 8,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "The accusers leave, one by one, until none remain"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 8,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "\"Neither do I condemn you. Go, and sin no more\""
+        }
+      ]
+    },
+    {
+      "id": "the-paralytic-lowered-through-the-roof",
+      "name": "The Paralytic Lowered Through the Roof",
+      "category": "women_and_others",
+      "sort_order": 227,
+      "requires_deuterocanon": false,
+      "intro": "A paralyzed man whose friends, unable to reach Jesus through the crowd, tore open a roof and lowered him down -- and whose sins Jesus forgave before he ever healed his legs.",
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter": 2,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "His friends dig through the roof to lower him down"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 2,
+          "verse_start": 5,
+          "verse_end": 5,
+          "caption": "Jesus, seeing their faith: \"your sins are forgiven\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 2,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "Which is easier to say -- forgiven, or get up and walk?"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 2,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Rises, takes up his mat, and walks out before them all"
+        }
+      ]
+    },
+    {
+      "id": "the-woman-with-the-hemorrhage",
+      "name": "The Woman with the Hemorrhage",
+      "category": "women_and_others",
+      "sort_order": 228,
+      "requires_deuterocanon": false,
+      "intro": "A woman who had suffered constant bleeding for twelve years and spent everything on doctors with no relief, who reached out and touched the edge of Jesus' cloak in a crowd -- and was instantly healed.",
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter": 5,
+          "verse_start": 25,
+          "verse_end": 26,
+          "caption": "Twelve years of suffering, worse after many doctors"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 5,
+          "verse_start": 27,
+          "verse_end": 28,
+          "caption": "\"If I touch even his clothes, I will be healed\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 5,
+          "verse_start": 29,
+          "verse_end": 29,
+          "caption": "Immediately the bleeding stops"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 5,
+          "verse_start": 34,
+          "verse_end": 34,
+          "caption": "\"Daughter, your faith has made you well; go in peace\""
+        }
+      ]
+    },
+    {
+      "id": "the-widow-of-nain",
+      "name": "The Widow of Nain",
+      "category": "women_and_others",
+      "sort_order": 229,
+      "requires_deuterocanon": false,
+      "intro": "A widow burying her only son when Jesus met the funeral procession -- and, moved with compassion before she even asked, raised her son back to life.",
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter": 7,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Carrying out her only son to burial, a widow"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 7,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Jesus \"had compassion on her\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 7,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "\"Young man, I tell you, arise\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 7,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "Jesus gives him back to his mother"
+        }
+      ]
+    },
+    {
+      "id": "the-poor-widow",
+      "name": "The Poor Widow",
+      "category": "women_and_others",
+      "sort_order": 230,
+      "requires_deuterocanon": false,
+      "intro": "A widow who put two small copper coins into the Temple treasury -- everything she had -- while the wealthy gave from their surplus, and whom Jesus praised above every other giver that day.",
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter": 12,
+          "verse_start": 42,
+          "verse_end": 42,
+          "caption": "Puts in two small copper coins"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 12,
+          "verse_start": 43,
+          "verse_end": 43,
+          "caption": "\"This poor widow has put in more than all of them\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 12,
+          "verse_start": 44,
+          "verse_end": 44,
+          "caption": "\"She out of her poverty put in all that she had to live on\""
+        }
+      ]
+    },
+    {
+      "id": "the-syrophoenician-woman",
+      "name": "The Syrophoenician Woman",
+      "category": "women_and_others",
+      "sort_order": 231,
+      "requires_deuterocanon": false,
+      "intro": "A Gentile mother who begged Jesus to heal her demon-afflicted daughter, and whose persistent, quick-witted faith in the face of his initial refusal won her daughter's healing.",
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter": 7,
+          "verse_start": 26,
+          "verse_end": 26,
+          "caption": "Begs Jesus to cast the demon out of her daughter"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 7,
+          "verse_start": 27,
+          "verse_end": 27,
+          "caption": "Jesus' initial answer: \"let the children be fed first\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 7,
+          "verse_start": 28,
+          "verse_end": 28,
+          "caption": "\"Even the dogs under the table eat the children's crumbs\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 7,
+          "verse_start": 29,
+          "verse_end": 30,
+          "caption": "\"For this saying, go your way\" -- the demon has left her daughter"
+        }
+      ]
+    },
+    {
+      "id": "simon-the-pharisee",
+      "name": "Simon the Pharisee",
+      "category": "women_and_others",
+      "sort_order": 232,
+      "requires_deuterocanon": false,
+      "intro": "A Pharisee who invited Jesus to dinner but withheld the basic courtesies of hospitality -- and was quietly corrected when a sinful woman showed Jesus the honor he had not.",
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter": 7,
+          "verse_start": 39,
+          "verse_end": 39,
+          "caption": "Judges Jesus in his heart for letting a sinful woman touch him"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 7,
+          "verse_start": 44,
+          "verse_end": 44,
+          "caption": "\"You gave me no water for my feet\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 7,
+          "verse_start": 47,
+          "verse_end": 47,
+          "caption": "\"He who is forgiven little, loves little\""
+        }
+      ]
+    },
+    {
+      "id": "the-man-born-blind",
+      "name": "The Man Born Blind",
+      "category": "women_and_others",
+      "sort_order": 233,
+      "requires_deuterocanon": false,
+      "intro": "A man blind from birth, healed by Jesus with mud and washing -- and whose steady, increasingly confident testimony under hostile questioning outmatched every religious leader trying to trap him.",
+      "verse_refs": [
+        {
+          "book_id": "jn",
+          "chapter": 9,
+          "verse_start": 6,
+          "verse_end": 7,
+          "caption": "Anointed with mud, told to wash in the pool of Siloam"
+        },
+        {
+          "book_id": "jn",
+          "chapter": 9,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "\"One thing I know, that though I was blind, now I see\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 9,
+          "verse_start": 33,
+          "verse_end": 33,
+          "caption": "\"If this man were not from God, he could do nothing\""
+        },
+        {
+          "book_id": "jn",
+          "chapter": 9,
+          "verse_start": 38,
+          "verse_end": 38,
+          "caption": "\"Lord, I believe,\" and worships him"
+        }
+      ]
+    },
+    {
+      "id": "the-ten-lepers",
+      "name": "The Ten Lepers",
+      "category": "women_and_others",
+      "sort_order": 234,
+      "requires_deuterocanon": false,
+      "intro": "Ten men with leprosy healed together on Jesus' word as they went to show themselves to the priests -- though only one, a Samaritan, came back to give thanks.",
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter": 17,
+          "verse_start": 12,
+          "verse_end": 13,
+          "caption": "Ten lepers call out for mercy from a distance"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 17,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "\"Go and show yourselves to the priests\" -- cleansed as they go"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 17,
+          "verse_start": 15,
+          "verse_end": 16,
+          "caption": "One returns, praising God, and falls at Jesus' feet"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 17,
+          "verse_start": 17,
+          "verse_end": 18,
+          "caption": "\"Were not ten cleansed? Where are the nine?\""
+        }
+      ]
+    },
+    {
+      "id": "the-sinful-woman-who-anointed-jesus",
+      "name": "The Sinful Woman Who Anointed Jesus",
+      "category": "women_and_others",
+      "sort_order": 235,
+      "requires_deuterocanon": false,
+      "intro": "A woman known in the town for her sin, who wept at Jesus' feet, wiped them with her hair, and anointed them with costly perfume -- an extravagant act of love Jesus said proved how much she had been forgiven.",
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter": 7,
+          "verse_start": 37,
+          "verse_end": 38,
+          "caption": "Weeps at his feet, wipes them with her hair, anoints them"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 7,
+          "verse_start": 44,
+          "verse_end": 46,
+          "caption": "Contrasted with her host's lack of basic hospitality"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 7,
+          "verse_start": 47,
+          "verse_end": 47,
+          "caption": "\"Her sins, which are many, are forgiven, for she loved much\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 7,
+          "verse_start": 50,
+          "verse_end": 50,
+          "caption": "\"Your faith has saved you. Go in peace\""
+        }
+      ]
+    },
+    {
+      "id": "salome-mother-of-zebedees-sons",
+      "name": "Salome (mother of Zebedee's sons)",
+      "category": "women_and_others",
+      "sort_order": 236,
+      "requires_deuterocanon": false,
+      "intro": "The mother of James and John, who asked Jesus to seat her sons at his right and left in his kingdom -- and who stood at the cross and the empty tomb when that request had long since given way to grief.",
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter": 20,
+          "verse_start": 20,
+          "verse_end": 21,
+          "caption": "Asks Jesus to seat her sons at his right and left hand"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 20,
+          "verse_start": 22,
+          "verse_end": 22,
+          "caption": "Jesus: \"You do not know what you are asking\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 15,
+          "verse_start": 40,
+          "verse_end": 40,
+          "caption": "Present at the crucifixion, watching from a distance"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 16,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Comes to the tomb with spices on Easter morning"
+        }
+      ]
+    },
+    {
+      "id": "mary-mother-of-james",
+      "name": "Mary, Mother of James",
+      "category": "women_and_others",
+      "sort_order": 237,
+      "requires_deuterocanon": false,
+      "intro": "One of the women who followed Jesus from Galilee, stood at the cross, and came to the empty tomb on the first Easter morning.",
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter": 15,
+          "verse_start": 40,
+          "verse_end": 40,
+          "caption": "Present at the crucifixion, watching from a distance"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 16,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Comes to the tomb with spices"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 24,
+          "verse_start": 9,
+          "verse_end": 10,
+          "caption": "Reports the empty tomb to the eleven apostles"
+        }
+      ]
+    },
+    {
+      "id": "the-gerasene-demoniac",
+      "name": "The Gerasene Demoniac",
+      "category": "women_and_others",
+      "sort_order": 238,
+      "requires_deuterocanon": false,
+      "intro": "A man possessed by so many demons he called himself \"Legion,\" living among tombs and unable to be restrained -- freed by Jesus in an instant, and found afterward sitting calmly, clothed and in his right mind.",
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter": 5,
+          "verse_start": 3,
+          "verse_end": 4,
+          "caption": "Lived among the tombs; no chain could bind him"
+        },
+        {
+          "book_id": "mk",
+          "chapter": 5,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "\"My name is Legion, for we are many\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 5,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "Found \"sitting, clothed, and in his right mind\""
+        },
+        {
+          "book_id": "mk",
+          "chapter": 5,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Sent home instead: \"tell them what great things the Lord has done for you\""
+        }
+      ]
+    },
+    {
+      "id": "shepherds-of-bethlehem",
+      "name": "The Shepherds of Bethlehem",
+      "category": "women_and_others",
+      "sort_order": 239,
+      "requires_deuterocanon": false,
+      "intro": "Shepherds watching their flocks by night, the first to hear the angels' announcement of Jesus' birth -- and the first to go, in haste, to see it for themselves.",
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter": 2,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "The glory of the Lord shines around them; they are terrified"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 2,
+          "verse_start": 10,
+          "verse_end": 11,
+          "caption": "\"I bring you good news of great joy... a Savior... Christ the Lord\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 2,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "\"Let's go to Bethlehem and see this thing that has happened\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 2,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Return glorifying and praising God for all they had heard and seen"
+        }
+      ]
     }
   ],
   "character_of_day": [
@@ -8455,6 +9273,22 @@
       "character_id": "john-the-baptist"
     },
     {
+      "month_day": "06-25",
+      "character_id": "the-magi"
+    },
+    {
+      "month_day": "06-26",
+      "character_id": "barabbas"
+    },
+    {
+      "month_day": "06-27",
+      "character_id": "malchus"
+    },
+    {
+      "month_day": "06-28",
+      "character_id": "jairus"
+    },
+    {
       "month_day": "06-29",
       "character_id": "peter"
     },
@@ -8467,8 +9301,60 @@
       "character_id": "melchizedek"
     },
     {
+      "month_day": "07-02",
+      "character_id": "cleopas"
+    },
+    {
       "month_day": "07-03",
       "character_id": "thomas"
+    },
+    {
+      "month_day": "07-04",
+      "character_id": "joanna"
+    },
+    {
+      "month_day": "07-05",
+      "character_id": "the-centurion-of-capernaum"
+    },
+    {
+      "month_day": "07-06",
+      "character_id": "the-penitent-thief"
+    },
+    {
+      "month_day": "07-07",
+      "character_id": "the-rich-young-man"
+    },
+    {
+      "month_day": "07-08",
+      "character_id": "the-woman-caught-in-adultery"
+    },
+    {
+      "month_day": "07-09",
+      "character_id": "the-paralytic-lowered-through-the-roof"
+    },
+    {
+      "month_day": "07-10",
+      "character_id": "the-woman-with-the-hemorrhage"
+    },
+    {
+      "month_day": "07-11",
+      "character_id": "the-widow-of-nain"
+    },
+    {
+      "month_day": "07-12",
+      "character_id": "the-poor-widow"
+    },
+    {
+      "month_day": "07-13",
+      "character_id": "the-syrophoenician-woman"
+    },
+    {
+      "month_day": "07-14",
+      "character_id": "simon-the-pharisee"
+    },
+    {
+      "month_day": "07-15",
+      "character_id": "the-man-born-blind"
     },
     {
       "month_day": "07-16",
@@ -8487,12 +9373,36 @@
       "character_id": "jezebel"
     },
     {
+      "month_day": "07-20",
+      "character_id": "the-ten-lepers"
+    },
+    {
+      "month_day": "07-21",
+      "character_id": "the-sinful-woman-who-anointed-jesus"
+    },
+    {
       "month_day": "07-22",
       "character_id": "mary-magdalene"
     },
     {
+      "month_day": "07-23",
+      "character_id": "salome-mother-of-zebedees-sons"
+    },
+    {
+      "month_day": "07-24",
+      "character_id": "mary-mother-of-james"
+    },
+    {
       "month_day": "07-25",
       "character_id": "james-son-of-zebedee"
+    },
+    {
+      "month_day": "07-26",
+      "character_id": "the-gerasene-demoniac"
+    },
+    {
+      "month_day": "07-27",
+      "character_id": "shepherds-of-bethlehem"
     },
     {
       "month_day": "07-29",
