@@ -4748,6 +4748,944 @@
           "caption": "Calls Job to \"consider the wondrous works of God\""
         }
       ]
+    },
+    {
+      "id": "lot",
+      "name": "Lot",
+      "category": "patriarchs",
+      "sort_order": 133,
+      "requires_deuterocanon": false,
+      "intro": "Abraham's nephew, whose choice of the fertile Jordan valley led him to Sodom, and who was rescued by angels the night the city was destroyed.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 13,
+          "verse_start": 10,
+          "verse_end": 11,
+          "caption": "Chooses the well-watered plain of the Jordan"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 14,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "Captured, then rescued by Abraham"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 19,
+          "verse_start": 1,
+          "verse_end": 3,
+          "caption": "Welcomes two angels into his home in Sodom"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 19,
+          "verse_start": 16,
+          "verse_end": 16,
+          "caption": "Led out of the city by the hand"
+        },
+        {
+          "book_id": "2pet",
+          "chapter": 2,
+          "verse_start": 7,
+          "verse_end": 8,
+          "caption": "Called \"righteous Lot,\" distressed by the wickedness around him"
+        }
+      ]
+    },
+    {
+      "id": "lots-wife",
+      "name": "Lot's Wife",
+      "category": "patriarchs",
+      "sort_order": 134,
+      "requires_deuterocanon": false,
+      "intro": "Warned not to look back as she fled the destruction of Sodom -- and turned into a pillar of salt when she did.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 19,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Warned: \"do not look back\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 19,
+          "verse_start": 26,
+          "verse_end": 26,
+          "caption": "Looks back, becomes a pillar of salt"
+        },
+        {
+          "book_id": "lk",
+          "chapter": 17,
+          "verse_start": 32,
+          "verse_end": 32,
+          "caption": "Jesus: \"Remember Lot's wife\""
+        }
+      ]
+    },
+    {
+      "id": "ishmael",
+      "name": "Ishmael",
+      "category": "patriarchs",
+      "sort_order": 135,
+      "requires_deuterocanon": false,
+      "intro": "Abraham's firstborn son, born to Hagar, whom God promised to make into a great nation even though the covenant would pass through Isaac.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 16,
+          "verse_start": 11,
+          "verse_end": 12,
+          "caption": "God's promise concerning his birth and future"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 21,
+          "verse_start": 17,
+          "verse_end": 18,
+          "caption": "God hears the boy crying in the wilderness"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 21,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "\"God was with the boy, and he grew\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 25,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "Joins Isaac to bury their father Abraham"
+        }
+      ]
+    },
+    {
+      "id": "laban",
+      "name": "Laban",
+      "category": "patriarchs",
+      "sort_order": 136,
+      "requires_deuterocanon": false,
+      "intro": "Rebekah's brother and Jacob's uncle -- and father-in-law, who tricked Jacob into marrying both his daughters before Jacob eventually outmaneuvered him in turn.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 24,
+          "verse_start": 29,
+          "verse_end": 31,
+          "caption": "Welcomes Abraham's servant on Rebekah's behalf"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 29,
+          "verse_start": 23,
+          "verse_end": 25,
+          "caption": "Substitutes Leah for Rachel on the wedding night"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 31,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "Changes Jacob's wages ten times"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 31,
+          "verse_start": 44,
+          "verse_end": 44,
+          "caption": "Makes a covenant of peace with Jacob"
+        }
+      ]
+    },
+    {
+      "id": "dinah",
+      "name": "Dinah",
+      "category": "patriarchs",
+      "sort_order": 137,
+      "requires_deuterocanon": false,
+      "intro": "Jacob and Leah's daughter, whose assault by Shechem led her brothers Simeon and Levi to a violent act of revenge that troubled Jacob for the rest of his life.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 34,
+          "verse_start": 1,
+          "verse_end": 2,
+          "caption": "Assaulted by Shechem"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 34,
+          "verse_start": 25,
+          "verse_end": 26,
+          "caption": "Simeon and Levi's revenge"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 34,
+          "verse_start": 30,
+          "verse_end": 30,
+          "caption": "Jacob's grief and fear over what his sons did"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 46,
+          "verse_start": 15,
+          "verse_end": 15,
+          "caption": "Counted among the children who went down to Egypt"
+        }
+      ]
+    },
+    {
+      "id": "tamar-daughter-in-law-of-judah",
+      "name": "Tamar (daughter-in-law of Judah)",
+      "category": "patriarchs",
+      "sort_order": 138,
+      "requires_deuterocanon": false,
+      "intro": "Judah's daughter-in-law, twice widowed, who took a bold and risky path to secure her place in the family line -- and is named, generations later, in the genealogy of Jesus.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 38,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Sent back to her father's house, waiting"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 38,
+          "verse_start": 26,
+          "verse_end": 26,
+          "caption": "Judah: \"She is more righteous than I\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 38,
+          "verse_start": 27,
+          "verse_end": 30,
+          "caption": "Gives birth to twin sons, Perez and Zerah"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 1,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Named in the genealogy of Jesus"
+        }
+      ]
+    },
+    {
+      "id": "reuben",
+      "name": "Reuben",
+      "category": "patriarchs",
+      "sort_order": 139,
+      "requires_deuterocanon": false,
+      "intro": "Jacob's firstborn, who talked his brothers out of killing Joseph but lost his birthright's honor after a serious sin against his father.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 37,
+          "verse_start": 21,
+          "verse_end": 22,
+          "caption": "Persuades his brothers not to kill Joseph"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 37,
+          "verse_start": 29,
+          "verse_end": 30,
+          "caption": "Returns to find Joseph gone, tears his clothes in anguish"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 49,
+          "verse_start": 3,
+          "verse_end": 4,
+          "caption": "Jacob's blessing withheld: \"unstable as water, you shall not excel\""
+        },
+        {
+          "book_id": "1chr",
+          "chapter": 5,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "His birthright given to Joseph's sons instead"
+        }
+      ]
+    },
+    {
+      "id": "simeon-son-of-jacob",
+      "name": "Simeon (son of Jacob)",
+      "category": "patriarchs",
+      "sort_order": 140,
+      "requires_deuterocanon": false,
+      "intro": "Jacob's second son, whose violent revenge for his sister Dinah drew his father's lasting condemnation, and who was later held hostage in Egypt by his own unrecognized brother Joseph.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 34,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "Joins Levi in avenging Dinah"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 42,
+          "verse_start": 24,
+          "verse_end": 24,
+          "caption": "Held as hostage by Joseph in Egypt"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 49,
+          "verse_start": 5,
+          "verse_end": 7,
+          "caption": "Jacob's blessing condemns his and Levi's violence"
+        }
+      ]
+    },
+    {
+      "id": "levi-son-of-jacob",
+      "name": "Levi (son of Jacob)",
+      "category": "patriarchs",
+      "sort_order": 141,
+      "requires_deuterocanon": false,
+      "intro": "Jacob's third son, whose violence at Shechem drew his father's rebuke -- yet whose own descendants became the priestly tribe set apart to serve at the altar.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 34,
+          "verse_start": 25,
+          "verse_end": 25,
+          "caption": "Joins Simeon in avenging Dinah"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 49,
+          "verse_start": 5,
+          "verse_end": 7,
+          "caption": "Jacob's blessing condemns his violence"
+        },
+        {
+          "book_id": "ex",
+          "chapter": 32,
+          "verse_start": 26,
+          "verse_end": 28,
+          "caption": "His tribe stands with Moses after the golden calf"
+        },
+        {
+          "book_id": "num",
+          "chapter": 3,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "The Levites set apart for the LORD's service"
+        }
+      ]
+    },
+    {
+      "id": "zebulun",
+      "name": "Zebulun",
+      "category": "patriarchs",
+      "sort_order": 142,
+      "requires_deuterocanon": false,
+      "intro": "Jacob's tenth son, blessed by his father with a home \"at the shore of the sea\" -- a tribe later praised alongside Naphtali for its role in Israel's history.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 30,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Leah names him, hoping Jacob will honor her"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 49,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Jacob's blessing: \"shall dwell at the shore of the sea\""
+        },
+        {
+          "book_id": "judg",
+          "chapter": 4,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "His tribe called to Deborah and Barak's battle"
+        }
+      ]
+    },
+    {
+      "id": "issachar",
+      "name": "Issachar",
+      "category": "patriarchs",
+      "sort_order": 143,
+      "requires_deuterocanon": false,
+      "intro": "Jacob's ninth son, described in his father's blessing as strong but content to bend his shoulder to labor -- and whose later descendants were known for understanding the times.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 30,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "Leah names him, seeing him as her reward"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 49,
+          "verse_start": 14,
+          "verse_end": 15,
+          "caption": "Jacob's blessing: a strong donkey between two burdens"
+        },
+        {
+          "book_id": "1chr",
+          "chapter": 12,
+          "verse_start": 32,
+          "verse_end": 32,
+          "caption": "His descendants \"had understanding of the times\""
+        }
+      ]
+    },
+    {
+      "id": "dan-son-of-jacob",
+      "name": "Dan (son of Jacob)",
+      "category": "patriarchs",
+      "sort_order": 144,
+      "requires_deuterocanon": false,
+      "intro": "Jacob's fifth son, born to Rachel's servant Bilhah, described in his father's blessing as one who would judge his people and strike like a serpent in the way.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 30,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "Rachel names him: \"God has judged me\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 49,
+          "verse_start": 16,
+          "verse_end": 17,
+          "caption": "Jacob's blessing: \"shall judge his people\""
+        },
+        {
+          "book_id": "judg",
+          "chapter": 18,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "His tribe searches for territory of their own"
+        }
+      ]
+    },
+    {
+      "id": "naphtali",
+      "name": "Naphtali",
+      "category": "patriarchs",
+      "sort_order": 145,
+      "requires_deuterocanon": false,
+      "intro": "Jacob's sixth son, born to Rachel's servant Bilhah, blessed by his father as \"a doe let loose, who gives beautiful words.\"",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 30,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Rachel names him after her rivalry with Leah"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 49,
+          "verse_start": 21,
+          "verse_end": 21,
+          "caption": "Jacob's blessing: \"a doe let loose\""
+        },
+        {
+          "book_id": "judg",
+          "chapter": 4,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "His tribe called to Deborah and Barak's battle"
+        }
+      ]
+    },
+    {
+      "id": "gad-son-of-jacob",
+      "name": "Gad (son of Jacob)",
+      "category": "patriarchs",
+      "sort_order": 146,
+      "requires_deuterocanon": false,
+      "intro": "Jacob's seventh son, born to Leah's servant Zilpah, blessed by his father with a promise that though raiders would attack him, he would strike back at their heels.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 30,
+          "verse_start": 11,
+          "verse_end": 11,
+          "caption": "Leah names him: \"Good fortune has come\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 49,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Jacob's blessing: \"raiders shall raid him, but he shall raid at their heels\""
+        },
+        {
+          "book_id": "num",
+          "chapter": 32,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "His descendants request land east of the Jordan"
+        }
+      ]
+    },
+    {
+      "id": "asher",
+      "name": "Asher",
+      "category": "patriarchs",
+      "sort_order": 147,
+      "requires_deuterocanon": false,
+      "intro": "Jacob's eighth son, born to Leah's servant Zilpah, blessed by his father with rich food and royal delicacies.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 30,
+          "verse_start": 13,
+          "verse_end": 13,
+          "caption": "Leah names him: \"Happy am I\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 49,
+          "verse_start": 20,
+          "verse_end": 20,
+          "caption": "Jacob's blessing: \"his bread shall be rich, and he shall yield royal delicacies\""
+        },
+        {
+          "book_id": "lk",
+          "chapter": 2,
+          "verse_start": 36,
+          "verse_end": 36,
+          "caption": "Anna the prophetess descends from his tribe"
+        }
+      ]
+    },
+    {
+      "id": "benjamin",
+      "name": "Benjamin",
+      "category": "patriarchs",
+      "sort_order": 148,
+      "requires_deuterocanon": false,
+      "intro": "Jacob's youngest son, born as his mother Rachel died naming him \"son of my sorrow\" -- and the brother whose safety Judah pledged his own life for in Egypt.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 35,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "Born as Rachel dies; renamed by his father"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 42,
+          "verse_start": 38,
+          "verse_end": 38,
+          "caption": "Jacob refuses at first to let him go to Egypt"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 44,
+          "verse_start": 33,
+          "verse_end": 34,
+          "caption": "Judah offers to stay as a slave in his place"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 45,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Joseph weeps on his neck, finally reunited"
+        }
+      ]
+    },
+    {
+      "id": "manasseh-son-of-joseph",
+      "name": "Manasseh (son of Joseph)",
+      "category": "patriarchs",
+      "sort_order": 149,
+      "requires_deuterocanon": false,
+      "intro": "Joseph's firstborn son in Egypt, who received his grandfather Jacob's blessing crossed onto his younger brother instead -- and became the ancestor of one of Israel's twelve tribes.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 41,
+          "verse_start": 51,
+          "verse_end": 51,
+          "caption": "Named by Joseph: \"God has made me forget my hardship\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 48,
+          "verse_start": 14,
+          "verse_end": 14,
+          "caption": "Jacob crosses his hands, blessing the younger Ephraim first"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 48,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Jacob's explanation: his brother \"shall be greater than he\""
+        },
+        {
+          "book_id": "josh",
+          "chapter": 17,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "His descendants receive their tribal territory"
+        }
+      ]
+    },
+    {
+      "id": "ephraim",
+      "name": "Ephraim",
+      "category": "patriarchs",
+      "sort_order": 150,
+      "requires_deuterocanon": false,
+      "intro": "Joseph's younger son, whom his grandfather Jacob deliberately blessed above his older brother Manasseh -- and whose name later became shorthand for the whole northern kingdom of Israel.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 41,
+          "verse_start": 52,
+          "verse_end": 52,
+          "caption": "Named by Joseph: \"God has made me fruitful\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 48,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Jacob's blessing: \"his younger brother shall be greater than he\""
+        },
+        {
+          "book_id": "hos",
+          "chapter": 4,
+          "verse_start": 17,
+          "verse_end": 17,
+          "caption": "Later prophets use his name for the northern kingdom itself"
+        }
+      ]
+    },
+    {
+      "id": "terah",
+      "name": "Terah",
+      "category": "patriarchs",
+      "sort_order": 151,
+      "requires_deuterocanon": false,
+      "intro": "Abraham's father, who set out from Ur toward Canaan but settled and died in Haran along the way, leaving the journey's completion to his son.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 11,
+          "verse_start": 31,
+          "verse_end": 31,
+          "caption": "Sets out from Ur with Abram, Sarai, and Lot"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 11,
+          "verse_start": 32,
+          "verse_end": 32,
+          "caption": "Dies in Haran"
+        },
+        {
+          "book_id": "josh",
+          "chapter": 24,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Remembered as having served other gods beyond the Euphrates"
+        }
+      ]
+    },
+    {
+      "id": "abimelech-king-of-gerar",
+      "name": "Abimelech (king of Gerar)",
+      "category": "patriarchs",
+      "sort_order": 152,
+      "requires_deuterocanon": false,
+      "intro": "A Philistine king who, twice in Genesis, unknowingly took a patriarch's wife into his household believing her unmarried -- and both times was warned by God before any harm was done.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 20,
+          "verse_start": 2,
+          "verse_end": 3,
+          "caption": "Takes Sarah, then is warned by God in a dream"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 20,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "God: \"I kept you from sinning against me\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 26,
+          "verse_start": 8,
+          "verse_end": 8,
+          "caption": "Discovers Isaac and Rebekah are actually married"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 26,
+          "verse_start": 29,
+          "verse_end": 29,
+          "caption": "Makes a covenant of peace with Isaac"
+        }
+      ]
+    },
+    {
+      "id": "potiphar",
+      "name": "Potiphar",
+      "category": "patriarchs",
+      "sort_order": 153,
+      "requires_deuterocanon": false,
+      "intro": "The Egyptian official who bought Joseph as a slave, put him in charge of his entire household -- and then imprisoned him on his wife's false accusation.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 39,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Buys Joseph from the Ishmaelite traders"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 39,
+          "verse_start": 4,
+          "verse_end": 4,
+          "caption": "Puts Joseph in charge of all he owns"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 39,
+          "verse_start": 19,
+          "verse_end": 20,
+          "caption": "Believes his wife's accusation, has Joseph imprisoned"
+        }
+      ]
+    },
+    {
+      "id": "potiphars-wife",
+      "name": "Potiphar's Wife",
+      "category": "patriarchs",
+      "sort_order": 154,
+      "requires_deuterocanon": false,
+      "intro": "The Egyptian official's wife whose repeated attempts to seduce Joseph, and false accusation when he refused her, sent an innocent man to prison.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 39,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "\"Lie with me\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 39,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "Speaks to him day after day"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 39,
+          "verse_start": 12,
+          "verse_end": 12,
+          "caption": "He flees, leaving his garment in her hand"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 39,
+          "verse_start": 17,
+          "verse_end": 18,
+          "caption": "Falsely accuses him using that same garment"
+        }
+      ]
+    },
+    {
+      "id": "asenath",
+      "name": "Asenath",
+      "category": "patriarchs",
+      "sort_order": 155,
+      "requires_deuterocanon": false,
+      "intro": "Joseph's Egyptian wife, given to him by Pharaoh, and the mother of Manasseh and Ephraim.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 41,
+          "verse_start": 45,
+          "verse_end": 45,
+          "caption": "Given to Joseph in marriage by Pharaoh"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 41,
+          "verse_start": 50,
+          "verse_end": 50,
+          "caption": "Bears Manasseh and Ephraim before the famine years"
+        }
+      ]
+    },
+    {
+      "id": "er-and-onan",
+      "name": "Er and Onan",
+      "category": "patriarchs",
+      "sort_order": 156,
+      "requires_deuterocanon": false,
+      "intro": "Judah's first two sons by his wife Bathshua, both of whom died for what scripture bluntly calls wickedness before the LORD, leaving their brother's widow Tamar without an heir.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 38,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "Er \"was wicked in the sight of the LORD, and the LORD put him to death\""
+        },
+        {
+          "book_id": "gen",
+          "chapter": 38,
+          "verse_start": 9,
+          "verse_end": 10,
+          "caption": "Onan refuses to give his brother an heir; he also dies"
+        },
+        {
+          "book_id": "num",
+          "chapter": 26,
+          "verse_start": 19,
+          "verse_end": 19,
+          "caption": "Remembered as having died in the land of Canaan"
+        }
+      ]
+    },
+    {
+      "id": "perez",
+      "name": "Perez",
+      "category": "patriarchs",
+      "sort_order": 157,
+      "requires_deuterocanon": false,
+      "intro": "Tamar's son by Judah, born ahead of his twin brother in an unexpected reversal at birth -- and an ancestor named directly in the genealogies of both David and Jesus.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 38,
+          "verse_start": 28,
+          "verse_end": 29,
+          "caption": "Born pushing ahead of his twin, Zerah"
+        },
+        {
+          "book_id": "ruth",
+          "chapter": 4,
+          "verse_start": 18,
+          "verse_end": 18,
+          "caption": "Head of the genealogical line down to David"
+        },
+        {
+          "book_id": "mt",
+          "chapter": 1,
+          "verse_start": 3,
+          "verse_end": 3,
+          "caption": "Named in the genealogy of Jesus"
+        }
+      ]
+    },
+    {
+      "id": "daughters-of-zelophehad",
+      "name": "The Daughters of Zelophehad",
+      "category": "patriarchs",
+      "sort_order": 158,
+      "requires_deuterocanon": false,
+      "intro": "Five sisters -- Mahlah, Noah, Hoglah, Milcah, and Tirzah -- whose request for their father's inheritance, since he had no sons, led Moses to bring their case to God and establish a new law for Israel.",
+      "verse_refs": [
+        {
+          "book_id": "num",
+          "chapter": 27,
+          "verse_start": 1,
+          "verse_end": 4,
+          "caption": "Bring their case to Moses: \"why should our father's name be taken away?\""
+        },
+        {
+          "book_id": "num",
+          "chapter": 27,
+          "verse_start": 7,
+          "verse_end": 7,
+          "caption": "God: \"The daughters of Zelophehad speak right\""
+        },
+        {
+          "book_id": "josh",
+          "chapter": 17,
+          "verse_start": 3,
+          "verse_end": 4,
+          "caption": "Receive their inheritance as promised"
+        }
+      ]
+    },
+    {
+      "id": "jabez",
+      "name": "Jabez",
+      "category": "patriarchs",
+      "sort_order": 159,
+      "requires_deuterocanon": false,
+      "intro": "A man remembered by name in a brief genealogy for one thing: a prayer asking God to bless him, enlarge his territory, and keep him from harm -- and scripture notes simply that God granted it.",
+      "verse_refs": [
+        {
+          "book_id": "1chr",
+          "chapter": 4,
+          "verse_start": 9,
+          "verse_end": 9,
+          "caption": "\"More honorable than his brothers\""
+        },
+        {
+          "book_id": "1chr",
+          "chapter": 4,
+          "verse_start": 10,
+          "verse_end": 10,
+          "caption": "His prayer, and God's answer: \"God granted what he asked\""
+        }
+      ]
+    },
+    {
+      "id": "keturah",
+      "name": "Keturah",
+      "category": "patriarchs",
+      "sort_order": 160,
+      "requires_deuterocanon": false,
+      "intro": "The wife Abraham took after Sarah's death, and the mother of six more sons who became ancestors of various peoples to Israel's east.",
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter": 25,
+          "verse_start": 1,
+          "verse_end": 1,
+          "caption": "Abraham takes her as wife"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 25,
+          "verse_start": 2,
+          "verse_end": 2,
+          "caption": "Bears him six sons"
+        },
+        {
+          "book_id": "gen",
+          "chapter": 25,
+          "verse_start": 6,
+          "verse_end": 6,
+          "caption": "Their sons sent east, away from Isaac, with gifts"
+        }
+      ]
     }
   ],
   "character_of_day": [
@@ -4984,6 +5922,10 @@
       "character_id": "lydia"
     },
     {
+      "month_day": "02-29",
+      "character_id": "lot"
+    },
+    {
       "month_day": "03-01",
       "character_id": "james-brother-of-jesus"
     },
@@ -5028,8 +5970,116 @@
       "character_id": "dorcas"
     },
     {
+      "month_day": "03-12",
+      "character_id": "lots-wife"
+    },
+    {
+      "month_day": "03-13",
+      "character_id": "ishmael"
+    },
+    {
+      "month_day": "03-14",
+      "character_id": "laban"
+    },
+    {
+      "month_day": "03-15",
+      "character_id": "dinah"
+    },
+    {
+      "month_day": "03-16",
+      "character_id": "tamar-daughter-in-law-of-judah"
+    },
+    {
+      "month_day": "03-17",
+      "character_id": "reuben"
+    },
+    {
+      "month_day": "03-18",
+      "character_id": "simeon-son-of-jacob"
+    },
+    {
+      "month_day": "03-19",
+      "character_id": "levi-son-of-jacob"
+    },
+    {
+      "month_day": "03-20",
+      "character_id": "zebulun"
+    },
+    {
+      "month_day": "03-21",
+      "character_id": "issachar"
+    },
+    {
+      "month_day": "03-22",
+      "character_id": "dan-son-of-jacob"
+    },
+    {
+      "month_day": "03-23",
+      "character_id": "naphtali"
+    },
+    {
+      "month_day": "03-24",
+      "character_id": "gad-son-of-jacob"
+    },
+    {
       "month_day": "03-25",
       "character_id": "isaiah"
+    },
+    {
+      "month_day": "03-26",
+      "character_id": "asher"
+    },
+    {
+      "month_day": "03-27",
+      "character_id": "benjamin"
+    },
+    {
+      "month_day": "03-28",
+      "character_id": "manasseh-son-of-joseph"
+    },
+    {
+      "month_day": "03-29",
+      "character_id": "ephraim"
+    },
+    {
+      "month_day": "03-30",
+      "character_id": "terah"
+    },
+    {
+      "month_day": "03-31",
+      "character_id": "abimelech-king-of-gerar"
+    },
+    {
+      "month_day": "04-01",
+      "character_id": "potiphar"
+    },
+    {
+      "month_day": "04-02",
+      "character_id": "potiphars-wife"
+    },
+    {
+      "month_day": "04-03",
+      "character_id": "asenath"
+    },
+    {
+      "month_day": "04-04",
+      "character_id": "er-and-onan"
+    },
+    {
+      "month_day": "04-05",
+      "character_id": "perez"
+    },
+    {
+      "month_day": "04-06",
+      "character_id": "daughters-of-zelophehad"
+    },
+    {
+      "month_day": "04-07",
+      "character_id": "jabez"
+    },
+    {
+      "month_day": "04-08",
+      "character_id": "keturah"
     },
     {
       "month_day": "04-25",
