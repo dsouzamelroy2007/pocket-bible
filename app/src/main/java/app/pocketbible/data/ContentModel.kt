@@ -174,7 +174,11 @@ data class ScriptureVerse(
  * scripture text. `requiresDeuterocanon` marks a character whose entire
  * story lives in a deuterocanonical book (e.g. Tobit, Judith) -- hidden
  * automatically for a translation that doesn't include those books, rather
- * than showing a character with no available verses.
+ * than showing a character with no available verses. `monthDay` ("MM-DD",
+ * including "02-29") is that character's day in the 366-day characters
+ * calendar -- one character per calendar day, same convention as
+ * `DailyPassage.monthDay` -- chosen for liturgical/scriptural significance
+ * where a real feast day applies, otherwise placed thematically.
  */
 @Entity(tableName = "character")
 data class BibleCharacter(
@@ -183,7 +187,8 @@ data class BibleCharacter(
     val intro: String,
     val category: String,
     @ColumnInfo(name = "sort_order") val sortOrder: Int,
-    @ColumnInfo(name = "requires_deuterocanon") val requiresDeuterocanon: Boolean
+    @ColumnInfo(name = "requires_deuterocanon") val requiresDeuterocanon: Boolean,
+    @ColumnInfo(name = "month_day") val monthDay: String
 )
 
 /** Translated name/intro for one character, in one UI language. Same fallback-to-English pattern as [FeelingTranslation]. */
@@ -398,6 +403,9 @@ interface ContentDao {
     @Query("SELECT passage_id FROM daily_passage WHERE month_day = :monthDay")
     suspend fun passageOfDay(monthDay: String): String?
 
+    @Query("SELECT id FROM character WHERE month_day = :monthDay")
+    suspend fun characterOfDay(monthDay: String): String?
+
     @Query("SELECT * FROM passage WHERE id = :id")
     suspend fun passage(id: String): Passage?
 
@@ -582,7 +590,7 @@ interface SeedDao {
         BibleCharacter::class, CharacterTranslation::class, CharacterVerseRef::class,
         BibleBookmark::class, CharacterVerseRefTranslation::class
     ],
-    version = 7,
+    version = 8,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {

@@ -208,7 +208,8 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                     intro = o.getString("intro"),
                     category = o.getString("category"),
                     sortOrder = o.optInt("sort_order", 0),
-                    requiresDeuterocanon = o.optBoolean("requires_deuterocanon", false)
+                    requiresDeuterocanon = o.optBoolean("requires_deuterocanon", false),
+                    monthDay = o.getString("month_day")
                 )
             })
 
