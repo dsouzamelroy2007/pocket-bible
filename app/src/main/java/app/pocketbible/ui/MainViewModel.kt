@@ -120,11 +120,34 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
     // ---------- Daily reading ----------
 
+    private val _selectedReadingDate = MutableStateFlow(LocalDate.now())
+    val selectedReadingDate: StateFlow<LocalDate> = _selectedReadingDate.asStateFlow()
+
     private val _dailyReading = MutableStateFlow<DailyReading?>(null)
     val dailyReading: StateFlow<DailyReading?> = _dailyReading.asStateFlow()
 
     private val _resolvedReadings = MutableStateFlow<List<ResolvedReading>>(emptyList())
     val resolvedReadings: StateFlow<List<ResolvedReading>> = _resolvedReadings.asStateFlow()
+
+    fun previousReadingDay() {
+        _selectedReadingDate.value = _selectedReadingDate.value.minusDays(1)
+        viewModelScope.launch { loadDailyReading() }
+    }
+
+    fun nextReadingDay() {
+        _selectedReadingDate.value = _selectedReadingDate.value.plusDays(1)
+        viewModelScope.launch { loadDailyReading() }
+    }
+
+    fun goToTodayReading() {
+        _selectedReadingDate.value = LocalDate.now()
+        viewModelScope.launch { loadDailyReading() }
+    }
+
+    fun goToReadingDate(date: LocalDate) {
+        _selectedReadingDate.value = date
+        viewModelScope.launch { loadDailyReading() }
+    }
 
     // ---------- Language ----------
 
@@ -166,9 +189,9 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         return passage.copy(text = verses.sortedBy { it.verse }.joinToString(" ") { it.text }, pullQuote = null)
     }
 
-    /** Loads today's Mass readings (if this app ships that date's lectionary year) and resolves each role's citation(s) to real text for the current translation. */
+    /** Loads the selected date's Mass readings (if this app ships that date's lectionary year) and resolves each role's citation(s) to real text for the current translation. */
     private suspend fun loadDailyReading() {
-        val date = LocalDate.now().format(DateTimeFormatter.ISO_LOCAL_DATE)
+        val date = _selectedReadingDate.value.format(DateTimeFormatter.ISO_LOCAL_DATE)
         _dailyReading.value = repo.dailyReading(date)
         val translationId = currentTranslationId()
         _resolvedReadings.value = repo.readingCitations(date)

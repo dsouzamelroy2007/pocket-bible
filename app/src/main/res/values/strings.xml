@@ -23,14 +23,19 @@
     <string name="home_verse_of_day">Verse of the day</string>
 
     <!-- Daily readings -->
-    <string name="reading_title">Today\'s Readings</string>
+    <string name="reading_title">Readings</string>
     <string name="reading_role_first_reading">First Reading</string>
     <string name="reading_role_psalm">Responsorial Psalm</string>
     <string name="reading_role_second_reading">Second Reading</string>
     <string name="reading_role_gospel">Gospel</string>
     <string name="reading_text_unavailable">Not available in this language yet.</string>
     <string name="reading_reflection_heading">Reflection</string>
-    <string name="reading_none_today">No readings loaded for today\'s date yet.</string>
+    <string name="reading_none_today">No readings loaded for this date yet.</string>
+    <string name="reading_previous_day">Previous day</string>
+    <string name="reading_next_day">Next day</string>
+    <string name="reading_today">Today</string>
+    <string name="reading_date_picker_confirm">OK</string>
+    <string name="reading_date_picker_cancel">Cancel</string>
 
     <!-- Read tab -->
     <string name="read_title">Bible</string>
