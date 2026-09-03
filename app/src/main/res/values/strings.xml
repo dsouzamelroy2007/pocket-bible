@@ -6,6 +6,7 @@
     <string name="nav_read">Bible</string>
     <string name="nav_saved">Saved</string>
     <string name="nav_characters">Personalities</string>
+    <string name="nav_daily">Daily Reflections</string>
 
     <!-- Language switcher -->
     <string name="language_button">Language</string>
@@ -20,7 +21,6 @@
     <string name="home_matches">Matches</string>
     <string name="home_i_am_feeling">I am feeling…</string>
     <string name="home_verse_of_day">Verse of the day</string>
-    <string name="home_daily_reading">Today\'s Mass readings</string>
 
     <!-- Daily readings -->
     <string name="reading_title">Today\'s Readings</string>

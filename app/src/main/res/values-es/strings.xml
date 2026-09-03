@@ -4,6 +4,7 @@
     <string name="nav_topics">Temas</string>
     <string name="nav_read">Biblia</string>
     <string name="nav_saved">Guardados</string>
+    <string name="nav_characters">Personalidades</string>
 
     <string name="language_button">Idioma</string>
     <string name="language_system_default">Predeterminado del sistema</string>
@@ -16,6 +17,16 @@
     <string name="home_matches">Coincidencias</string>
     <string name="home_i_am_feeling">Me siento…</string>
     <string name="home_verse_of_day">Versículo del día</string>
+
+    <!-- Daily readings -->
+    <string name="reading_title">Lecturas de hoy</string>
+    <string name="reading_role_first_reading">Primera Lectura</string>
+    <string name="reading_role_psalm">Salmo Responsorial</string>
+    <string name="reading_role_second_reading">Segunda Lectura</string>
+    <string name="reading_role_gospel">Evangelio</string>
+    <string name="reading_text_unavailable">Aún no disponible en este idioma.</string>
+    <string name="reading_reflection_heading">Reflexión</string>
+    <string name="reading_none_today">Aún no se han cargado las lecturas para la fecha de hoy.</string>
 
     <string name="read_title">Biblia</string>
     <string name="read_subtitle">Ve directamente a una referencia, o explora lo que está disponible abajo.</string>

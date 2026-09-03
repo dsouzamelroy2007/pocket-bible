@@ -1,7 +1,6 @@
 package app.pocketbible.ui.reading
 
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -9,16 +8,11 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
-import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontStyle
@@ -26,6 +20,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import app.pocketbible.R
 import app.pocketbible.data.DailyReading
+import app.pocketbible.data.Passage
 import app.pocketbible.ui.ResolvedReading
 
 private fun roleHeading(role: String): Int = when (role) {
@@ -38,33 +33,59 @@ private fun roleHeading(role: String): Int = when (role) {
 
 @Composable
 fun DailyReadingScreen(
+    verseOfDay: Passage?,
     dailyReading: DailyReading?,
     readings: List<ResolvedReading>,
-    onBack: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     Column(modifier.fillMaxSize()) {
-        Row(
-            Modifier.padding(horizontal = 20.dp).padding(top = 16.dp),
-            verticalAlignment = Alignment.CenterVertically
-        ) {
-            IconButton(onClick = onBack) {
-                Icon(Icons.Filled.ArrowBack, contentDescription = stringResource(R.string.read_back))
-            }
-            Text(stringResource(R.string.reading_title), style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Medium)
-        }
-
-        if (dailyReading == null) {
-            Text(
-                stringResource(R.string.reading_none_today),
-                style = MaterialTheme.typography.bodyMedium,
-                modifier = Modifier.padding(20.dp)
-            )
-            return@Column
-        }
+        Text(
+            stringResource(R.string.reading_title),
+            style = MaterialTheme.typography.titleLarge,
+            fontWeight = FontWeight.Medium,
+            modifier = Modifier.padding(horizontal = 20.dp).padding(top = 16.dp)
+        )
 
         LazyColumn(Modifier.padding(horizontal = 20.dp)) {
-            item { Spacer(Modifier.height(4.dp)) }
+            item { Spacer(Modifier.height(12.dp)) }
+            verseOfDay?.let { verse ->
+                item {
+                    Card(
+                        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.tertiaryContainer),
+                        modifier = Modifier.fillMaxWidth().padding(bottom = 10.dp)
+                    ) {
+                        Column(Modifier.padding(14.dp)) {
+                            Text(
+                                stringResource(R.string.home_verse_of_day),
+                                style = MaterialTheme.typography.labelMedium,
+                                color = MaterialTheme.colorScheme.onTertiaryContainer
+                            )
+                            Spacer(Modifier.height(6.dp))
+                            Text(
+                                verse.pullQuote ?: verse.text,
+                                style = MaterialTheme.typography.bodyMedium,
+                                fontStyle = FontStyle.Italic,
+                                color = MaterialTheme.colorScheme.onTertiaryContainer
+                            )
+                            Spacer(Modifier.height(6.dp))
+                            Text(
+                                verse.referenceDisplay,
+                                style = MaterialTheme.typography.labelSmall,
+                                color = MaterialTheme.colorScheme.onTertiaryContainer
+                            )
+                        }
+                    }
+                }
+            }
+            if (dailyReading == null) {
+                item {
+                    Text(
+                        stringResource(R.string.reading_none_today),
+                        style = MaterialTheme.typography.bodyMedium,
+                        modifier = Modifier.padding(vertical = 20.dp)
+                    )
+                }
+            }
             items(readings) { reading ->
                 Card(
                     colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.primaryContainer),
@@ -101,7 +122,7 @@ fun DailyReadingScreen(
                     }
                 }
             }
-            val reflection = dailyReading.reflection
+            val reflection = dailyReading?.reflection
             if (reflection != null) {
                 item {
                     Card(

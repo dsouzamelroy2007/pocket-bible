@@ -8,22 +8,27 @@ import androidx.appcompat.app.AppCompatDelegate
 import androidx.compose.foundation.layout.padding
 import androidx.core.os.LocaleListCompat
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.CalendarToday
 import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.MenuBook
 import androidx.compose.material.icons.filled.People
+import androidx.compose.material.icons.outlined.CalendarToday
 import androidx.compose.material.icons.outlined.FavoriteBorder
 import androidx.compose.material.icons.outlined.MenuBook
 import androidx.compose.material.icons.outlined.People
 import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.NavigationBar
 import androidx.compose.material3.NavigationBarItem
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.text.style.TextAlign
 import app.pocketbible.R
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.compose.NavHost
@@ -77,6 +82,17 @@ class MainActivity : AppCompatActivity() {
 }
 
 @Composable
+private fun NavLabel(text: String) {
+    Text(
+        text,
+        style = MaterialTheme.typography.labelSmall,
+        textAlign = TextAlign.Center,
+        maxLines = 2,
+        overflow = TextOverflow.Ellipsis
+    )
+}
+
+@Composable
 private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) -> Unit) {
     // Covers the case where this ViewModel instance survived the recreate()
     // a language switch triggers, so its topics/saved Flows would otherwise
@@ -94,15 +110,15 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
         bottomBar = {
             NavigationBar {
                 NavigationBarItem(
-                    selected = currentRoute == "home" || currentRoute == "verse" || currentRoute == "reading" || currentRoute == null,
+                    selected = currentRoute == "home" || currentRoute == "verse" || currentRoute == null,
                     onClick = { navController.navigate("home") { launchSingleTop = true } },
                     icon = {
                         Icon(
-                            if (currentRoute == "verse" || currentRoute == "reading") Icons.Filled.Favorite else Icons.Outlined.FavoriteBorder,
+                            if (currentRoute == "verse") Icons.Filled.Favorite else Icons.Outlined.FavoriteBorder,
                             contentDescription = null
                         )
                     },
-                    label = { Text(stringResource(R.string.nav_topics)) }
+                    label = { NavLabel(stringResource(R.string.nav_topics)) }
                 )
                 NavigationBarItem(
                     selected = currentRoute in bibleRoutes,
@@ -113,7 +129,7 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                             contentDescription = null
                         )
                     },
-                    label = { Text(stringResource(R.string.nav_read)) }
+                    label = { NavLabel(stringResource(R.string.nav_read)) }
                 )
                 NavigationBarItem(
                     selected = currentRoute in characterRoutes,
@@ -124,7 +140,18 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                             contentDescription = null
                         )
                     },
-                    label = { Text(stringResource(R.string.nav_characters)) }
+                    label = { NavLabel(stringResource(R.string.nav_characters)) }
+                )
+                NavigationBarItem(
+                    selected = currentRoute == "daily",
+                    onClick = { navController.navigate("daily") { launchSingleTop = true } },
+                    icon = {
+                        Icon(
+                            if (currentRoute == "daily") Icons.Filled.CalendarToday else Icons.Outlined.CalendarToday,
+                            contentDescription = null
+                        )
+                    },
+                    label = { NavLabel(stringResource(R.string.nav_daily)) }
                 )
             }
         }
@@ -138,14 +165,10 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                 val feelings by viewModel.feelings.collectAsState()
                 val searchQuery by viewModel.searchQuery.collectAsState()
                 val searchResults by viewModel.searchResults.collectAsState()
-                val verseOfDay by viewModel.verseOfDay.collectAsState()
-                val dailyReading by viewModel.dailyReading.collectAsState()
                 HomeScreen(
                     feelings = feelings,
                     searchQuery = searchQuery,
                     searchResults = searchResults,
-                    verseOfDay = verseOfDay,
-                    dailyReading = dailyReading,
                     onSearchQueryChange = { viewModel.onSearchQueryChange(it) },
                     onFeelingSelected = {
                         viewModel.selectFeeling(it)
@@ -153,17 +176,17 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     },
                     onLanguageSelected = onLanguageSelected,
                     onSavedClicked = { navController.navigate("saved") },
-                    onAboutClicked = { navController.navigate("about") },
-                    onDailyReadingClicked = { navController.navigate("reading") }
+                    onAboutClicked = { navController.navigate("about") }
                 )
             }
-            composable("reading") {
+            composable("daily") {
+                val verseOfDay by viewModel.verseOfDay.collectAsState()
                 val dailyReading by viewModel.dailyReading.collectAsState()
                 val resolvedReadings by viewModel.resolvedReadings.collectAsState()
                 DailyReadingScreen(
+                    verseOfDay = verseOfDay,
                     dailyReading = dailyReading,
-                    readings = resolvedReadings,
-                    onBack = { navController.popBackStack() }
+                    readings = resolvedReadings
                 )
             }
             composable("about") {

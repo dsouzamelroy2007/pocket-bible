@@ -18,6 +18,16 @@
     <string name="home_i_am_feeling">Ich fühle mich …</string>
     <string name="home_verse_of_day">Vers des Tages</string>
 
+    <!-- Daily readings -->
+    <string name="reading_title">Heutige Lesungen</string>
+    <string name="reading_role_first_reading">Erste Lesung</string>
+    <string name="reading_role_psalm">Antwortpsalm</string>
+    <string name="reading_role_second_reading">Zweite Lesung</string>
+    <string name="reading_role_gospel">Evangelium</string>
+    <string name="reading_text_unavailable">In dieser Sprache noch nicht verfügbar.</string>
+    <string name="reading_reflection_heading">Besinnung</string>
+    <string name="reading_none_today">Für das heutige Datum sind noch keine Lesungen geladen.</string>
+
     <string name="read_title">Bibel</string>
     <string name="read_subtitle">Springe direkt zu einer Bibelstelle, oder stöbere unten.</string>
     <string name="read_empty_browse">Unten sind noch keine Kapitel verfügbar — dies ist noch eine frühe Version. Der vollständige Text kommt aus einem Massenimport, nicht von diesem Bildschirm.</string>

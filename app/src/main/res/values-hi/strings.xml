@@ -18,6 +18,16 @@
     <string name="home_i_am_feeling">मैं महसूस कर रहा/रही हूँ…</string>
     <string name="home_verse_of_day">आज का पद</string>
 
+    <!-- Daily readings -->
+    <string name="reading_title">आज के पाठ</string>
+    <string name="reading_role_first_reading">पहला पाठ</string>
+    <string name="reading_role_psalm">प्रत्युत्तर स्तोत्र</string>
+    <string name="reading_role_second_reading">दूसरा पाठ</string>
+    <string name="reading_role_gospel">सुसमाचार</string>
+    <string name="reading_text_unavailable">इस भाषा में अभी उपलब्ध नहीं है।</string>
+    <string name="reading_reflection_heading">चिंतन</string>
+    <string name="reading_none_today">आज की तारीख के लिए अभी तक कोई पाठ लोड नहीं हुआ है।</string>
+
     <string name="read_title">बाइबिल</string>
     <string name="read_subtitle">सीधे किसी संदर्भ पर जाएं, या नीचे उपलब्ध सामग्री ब्राउज़ करें।</string>
     <string name="read_empty_browse">नीचे अभी कोई अध्याय उपलब्ध नहीं है — यह अभी भी एक शुरुआती संस्करण है। पूरा पाठ थोक आयात से आता है, इस स्क्रीन से नहीं।</string>

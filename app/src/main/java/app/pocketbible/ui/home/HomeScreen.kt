@@ -1,17 +1,16 @@
 package app.pocketbible.ui.home
 
-import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.lazy.grid.GridCells
-import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
-import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Info
@@ -35,13 +34,11 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
-import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import app.pocketbible.R
-import app.pocketbible.data.DailyReading
 import app.pocketbible.data.Feeling
-import app.pocketbible.data.Passage
 import app.pocketbible.ui.theme.categoryAccent
 
 /**
@@ -66,18 +63,16 @@ fun HomeScreen(
     feelings: List<Feeling>,
     searchQuery: String,
     searchResults: List<Feeling>,
-    verseOfDay: Passage?,
-    dailyReading: DailyReading?,
     onSearchQueryChange: (String) -> Unit,
     onFeelingSelected: (Feeling) -> Unit,
     onLanguageSelected: (String?) -> Unit,
     onSavedClicked: () -> Unit,
     onAboutClicked: () -> Unit,
-    onDailyReadingClicked: () -> Unit = {},
     modifier: Modifier = Modifier
 ) {
     Column(
         modifier
+            .verticalScroll(rememberScrollState())
             .padding(horizontal = 20.dp)
             .padding(top = 12.dp)
     ) {
@@ -161,58 +156,22 @@ fun HomeScreen(
         Spacer(Modifier.height(20.dp))
         Text(stringResource(R.string.home_i_am_feeling), style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Medium)
         Spacer(Modifier.height(8.dp))
-        LazyVerticalGrid(
-            columns = GridCells.Fixed(2),
-            horizontalArrangement = Arrangement.spacedBy(10.dp),
-            verticalArrangement = Arrangement.spacedBy(10.dp)
-        ) {
-            items(feelings, key = { it.id }) { feeling ->
-                FeelingCard(feeling, onClick = { onFeelingSelected(feeling) })
-            }
-        }
-
-        verseOfDay?.let { verse ->
-            Spacer(Modifier.height(20.dp))
-            Card(
-                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.primaryContainer),
-                modifier = Modifier.fillMaxWidth()
-            ) {
-                Column(Modifier.padding(16.dp)) {
-                    Text(
-                        stringResource(R.string.home_verse_of_day),
-                        style = MaterialTheme.typography.labelMedium,
-                        color = MaterialTheme.colorScheme.onPrimaryContainer
-                    )
-                    Spacer(Modifier.height(6.dp))
-                    Text(
-                        verse.pullQuote ?: verse.text,
-                        style = MaterialTheme.typography.bodyMedium,
-                        fontStyle = FontStyle.Italic,
-                        color = MaterialTheme.colorScheme.onPrimaryContainer
-                    )
-                    Spacer(Modifier.height(6.dp))
-                    Text(
-                        verse.referenceDisplay,
-                        style = MaterialTheme.typography.labelSmall,
-                        color = MaterialTheme.colorScheme.onPrimaryContainer
-                    )
-                }
-            }
-        }
-
-        dailyReading?.let {
-            Spacer(Modifier.height(12.dp))
-            Card(
-                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.secondaryContainer),
-                modifier = Modifier.fillMaxWidth().clickable(onClick = onDailyReadingClicked)
-            ) {
-                Column(Modifier.padding(16.dp)) {
-                    Text(
-                        stringResource(R.string.home_daily_reading),
-                        style = MaterialTheme.typography.labelMedium,
-                        fontWeight = FontWeight.Medium,
-                        color = MaterialTheme.colorScheme.onSecondaryContainer
-                    )
+        Column(verticalArrangement = Arrangement.spacedBy(10.dp)) {
+            feelings.chunked(2).forEach { rowFeelings ->
+                Row(
+                    Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.spacedBy(10.dp)
+                ) {
+                    rowFeelings.forEach { feeling ->
+                        FeelingCard(
+                            feeling,
+                            onClick = { onFeelingSelected(feeling) },
+                            modifier = Modifier.weight(1f)
+                        )
+                    }
+                    if (rowFeelings.size == 1) {
+                        Spacer(Modifier.weight(1f))
+                    }
                 }
             }
         }
@@ -244,19 +203,24 @@ private fun LanguageMenuButton(onLanguageSelected: (String?) -> Unit) {
 }
 
 @Composable
-private fun FeelingCard(feeling: Feeling, onClick: () -> Unit) {
+private fun FeelingCard(feeling: Feeling, onClick: () -> Unit, modifier: Modifier = Modifier) {
     val accent = categoryAccent(feeling.category)
     ElevatedCard(
         onClick = onClick,
         colors = CardDefaults.elevatedCardColors(containerColor = accent.container),
-        modifier = Modifier.fillMaxWidth()
+        modifier = modifier.fillMaxWidth().height(104.dp)
     ) {
-        Column(Modifier.padding(16.dp)) {
+        Column(
+            Modifier.padding(12.dp).fillMaxSize(),
+            verticalArrangement = Arrangement.Center
+        ) {
             Text(
                 feeling.label,
-                style = MaterialTheme.typography.titleMedium,
+                style = MaterialTheme.typography.titleSmall,
                 fontWeight = FontWeight.Medium,
-                color = accent.onContainer
+                color = accent.onContainer,
+                maxLines = 1,
+                overflow = TextOverflow.Ellipsis
             )
             Spacer(Modifier.height(4.dp))
             Text(
