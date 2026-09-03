@@ -87,7 +87,7 @@ private fun NavLabel(text: String) {
         text,
         style = MaterialTheme.typography.labelSmall,
         textAlign = TextAlign.Center,
-        maxLines = 2,
+        maxLines = 3,
         overflow = TextOverflow.Ellipsis
     )
 }

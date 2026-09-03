@@ -242,6 +242,7 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                     )
                 }
             }
+            seedDao.clearCharacterVerseRefs()
             seedDao.insertCharacterVerseRefs(verseRefs)
 
             val characterTranslations = mutableListOf<CharacterTranslation>()
@@ -328,6 +329,7 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
             }
         }
         seedDao.insertDailyReadings(dailyReadings)
+        seedDao.clearReadingCitations()
         seedDao.insertReadingCitations(readingCitations)
 
         prefs.edit().putInt("content_version", version).apply()

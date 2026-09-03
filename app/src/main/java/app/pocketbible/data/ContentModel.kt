@@ -674,6 +674,12 @@ interface SeedDao {
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertCharacterTranslations(items: List<CharacterTranslation>)
 
+    // CharacterVerseRef and ReadingCitation key on a bare autoincrement id
+    // with no natural-key constraint, so REPLACE never actually collides --
+    // every reseed would otherwise just keep appending duplicate rows.
+    @Query("DELETE FROM character_verse_ref")
+    suspend fun clearCharacterVerseRefs()
+
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertCharacterVerseRefs(items: List<CharacterVerseRef>)
 
@@ -685,6 +691,9 @@ interface SeedDao {
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertDailyReadings(items: List<DailyReading>)
+
+    @Query("DELETE FROM reading_citation")
+    suspend fun clearReadingCitations()
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertReadingCitations(items: List<ReadingCitation>)
