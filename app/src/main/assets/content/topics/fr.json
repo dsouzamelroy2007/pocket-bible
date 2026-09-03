@@ -135,6 +135,11 @@
       "feeling_id": "discontent",
       "label": "Insatisfait(e)",
       "description": "Pour quand ce que tu as ne semble pas suffisant."
+    },
+    {
+      "feeling_id": "suffering",
+      "label": "Souffrant(e)",
+      "description": "Pour l'épreuve qui n'a pas encore pris de sens visible."
     }
   ],
   "entry_translations": [
@@ -677,6 +682,11 @@
       "entry_id": "discontent-mt-6-33",
       "reflection": "Le Christ ne dit pas que les autres choses n'ont pas d'importance, seulement qu'elles ne sont pas destinées à être cherchées en premier. L'insatisfaction vient souvent d'inverser cet ordre — poursuivre l'« aussi » avant l'essentiel.",
       "prayer": "Seigneur, aide-moi à vouloir ton Royaume en premier aujourd'hui, et à faire confiance que le reste suivra à sa place."
+    },
+    {
+      "entry_id": "suffering-ro-5-3",
+      "reflection": "Paul ne dit pas que la souffrance est bonne, ni qu'elle doit être accueillie pour elle-même. Il dit qu'elle n'est pas gaspillée -- que, endurée plutôt que fuie, elle devient persévérance, et la persévérance devient un caractère éprouvé, et ce caractère devient une espérance qui ne déçoit pas. La chaîne ne fonctionne que dans un sens : il n'y a pas de raccourci vers l'espérance qui évite la souffrance et l'endurance entre les deux.",
+      "prayer": "Seigneur, je ne comprends pas encore à quoi sert cette épreuve. Aide-moi à l'endurer plutôt qu'à simplement y échapper, et à croire que tu bâtis en moi quelque chose dont je ne vois pas encore la forme."
     }
   ]
 }

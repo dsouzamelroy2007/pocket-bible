@@ -135,6 +135,11 @@
       "feeling_id": "discontent",
       "label": "Insoddisfatto/a",
       "description": "Per quando quello che hai non sembra bastare."
+    },
+    {
+      "feeling_id": "suffering",
+      "label": "Sofferente",
+      "description": "Per la difficoltà che non ha ancora assunto un senso visibile."
     }
   ],
   "entry_translations": [
@@ -677,6 +682,11 @@
       "entry_id": "discontent-mt-6-33",
       "reflection": "Cristo non dice che le altre cose non contano, solo che non sono destinate a essere cercate per prime. L'insoddisfazione spesso viene dall'invertire quell'ordine — inseguire l'\"anche\" prima della cosa principale.",
       "prayer": "Signore, aiutami a volere il tuo Regno per primo oggi, e a fidarmi che il resto seguirà al suo posto."
+    },
+    {
+      "entry_id": "suffering-ro-5-3",
+      "reflection": "Paolo non dice che la sofferenza sia buona, né che debba essere accolta per se stessa. Dice che non è sprecata -- che, sopportata invece che fuggita, diventa perseveranza, e la perseveranza diventa un carattere provato e collaudato, e quel carattere diventa una speranza che non delude. La catena funziona in un solo senso: non esiste una scorciatoia verso la speranza che salti la sofferenza e la resistenza in mezzo.",
+      "prayer": "Signore, non capisco ancora a cosa serva questa difficoltà. Aiutami a sopportarla invece di limitarmi a fuggirla, e a fidarmi che stai costruendo in me qualcosa di cui non vedo ancora la forma."
     }
   ]
 }

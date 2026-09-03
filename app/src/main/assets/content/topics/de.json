@@ -135,6 +135,11 @@
       "feeling_id": "discontent",
       "label": "Unzufrieden",
       "description": "Für die Momente, in denen sich das, was du hast, nicht genug anfühlt."
+    },
+    {
+      "feeling_id": "suffering",
+      "label": "Leidend",
+      "description": "Für Härten, die noch keinen erkennbaren Sinn ergeben haben."
     }
   ],
   "entry_translations": [
@@ -677,6 +682,11 @@
       "entry_id": "discontent-mt-6-33",
       "reflection": "Christus sagt nicht, dass die anderen Dinge unwichtig sind, nur dass sie nicht zuerst gesucht werden sollen. Unzufriedenheit entsteht oft daraus, diese Reihenfolge umzukehren – dem „Auch-Noch“ hinterherzujagen, bevor man das Wesentliche sucht.",
       "prayer": "Herr, hilf mir, heute zuerst dein Reich zu wollen, und darauf zu vertrauen, dass der Rest an seiner Stelle folgt."
+    },
+    {
+      "entry_id": "suffering-ro-5-3",
+      "reflection": "Paulus sagt nicht, dass Leiden gut ist oder um seiner selbst willen begrüßt werden sollte. Er sagt, dass es nicht vergeudet ist -- dass es, ausgehalten statt geflohen, zu Geduld wird, und Geduld zu einem bewährten, erprobten Charakter, und dieser Charakter zu einer Hoffnung, die nicht enttäuscht. Die Kette verläuft nur in eine Richtung: Es gibt keine Abkürzung zur Hoffnung, die das Leiden und das Aushalten dazwischen überspringt.",
+      "prayer": "Herr, ich verstehe noch nicht, wozu diese Härte gut sein soll. Hilf mir, sie auszuhalten statt ihr nur zu entkommen, und zu vertrauen, dass du in mir etwas aufbaust, dessen Form ich noch nicht erkennen kann."
     }
   ]
 }
