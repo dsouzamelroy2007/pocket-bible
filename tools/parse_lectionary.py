@@ -33,6 +33,7 @@ BOOK_NAME_TO_ID = {
     "1 corinthians": "1cor", "2 corinthians": "2cor",
     "1 john": "1jo", "2 john": "2jo", "3 john": "3jo",
     "1 kings": "1kgs", "2 kings": "2kgs",
+    "1 maccabees": "1macc", "2 maccabees": "2macc",
     "1 peter": "1pet", "2 peter": "2pet",
     "1 samuel": "1sam", "2 samuel": "2sam",
     "1 thessalonians": "1the", "2 thessalonians": "2the",
@@ -52,6 +53,7 @@ BOOK_NAME_TO_ID = {
     "philippians": "phil", "phiippians": "phil",  # source typo, seen in the wild
     "philemon": "phlm", "proverbs": "pr", "psalm": "ps", "psalms": "ps",
     "revelation": "rev", "romans": "ro", "ruth": "ruth", "sirach": "sir",
+    "sirarch": "sir",  # source typo, seen in the wild
     "song of songs": "song", "titus": "titus", "tobit": "tob",
     "wisdom": "wis", "zechariah": "zech", "zephaniah": "zeph",
 }
@@ -87,6 +89,9 @@ def _apply_versification_fixes(book_id, ranges):
     - Malachi: Hebrew numbering runs chapter 3 through v.24; WEB (like most
       English Bibles) splits that into a separate chapter 4 at v.19, so
       anything from Hebrew 3:19+ needs to become WEB chapter 4, verse-18.
+    - Joel: the lectionary (Vulgate/Septuagint chapter split) cites a
+      chapter 4 that doesn't exist in WEB's 3-chapter Hebrew numbering --
+      Vulgate Joel 4 is WEB Joel 3, verse numbers unchanged.
     - Most other mismatches here are individual psalms whose sung heading
       ("For the choirmaster. A psalm of David...") NAB counts as verse 1
       and WEB doesn't -- the citation just runs exactly one verse past
@@ -100,6 +105,15 @@ def _apply_versification_fixes(book_id, ranges):
         for (cs, vs, ce, ve) in ranges:
             def shift(chapter, verse):
                 return (4, verse - 18) if chapter == 3 and verse >= 19 else (chapter, verse)
+            ncs, nvs = shift(cs, vs)
+            nce, nve = shift(ce, ve)
+            fixed.append((ncs, nvs, nce, nve))
+        return fixed
+    if book_id == "joel":
+        fixed = []
+        for (cs, vs, ce, ve) in ranges:
+            def shift(chapter, verse):
+                return (3, verse) if chapter == 4 else (chapter, verse)
             ncs, nvs = shift(cs, vs)
             nce, nve = shift(ce, ve)
             fixed.append((ncs, nvs, nce, nve))

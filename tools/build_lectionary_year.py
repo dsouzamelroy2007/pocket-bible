@@ -23,6 +23,16 @@ from parse_lectionary import parse_citation
 
 ROLE_ORDER = ["first_reading", "psalm", "second_reading", "gospel"]
 
+# This app's role names (snake_case, matching character_verse_ref-style
+# conventions and the roleHeading() string-resource lookup in
+# DailyReadingScreen.kt) vs. the source API's own camelCase keys.
+SOURCE_KEY_FOR_ROLE = {
+    "first_reading": "firstReading",
+    "psalm": "psalm",
+    "second_reading": "secondReading",
+    "gospel": "gospel",
+}
+
 
 def build(year: int, source_path: str, out_path: str) -> None:
     source = json.load(open(source_path, encoding="utf-8"))
@@ -32,7 +42,7 @@ def build(year: int, source_path: str, out_path: str) -> None:
     for day in source["days"]:
         readings_out = []
         for role in ROLE_ORDER:
-            citation = day["readings"].get(role)
+            citation = day["readings"].get(SOURCE_KEY_FOR_ROLE[role])
             if citation is None:
                 continue
             citation_display = citation
