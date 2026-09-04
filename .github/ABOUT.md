@@ -143,16 +143,13 @@ everything before anything ships.
   still resolves from each language's existing `scripture/<translation-id>/`
   files, same mechanism the Read tab and Characters tab already use.
 
-### Phase 3 — Daily Catholic lectionary readings
+### Phase 3 — Daily Catholic lectionary readings — **2026 & 2027 content-complete**
 
-- New one-time+annual pipeline: fetch 2026's daily citations (readings,
+- One-time+annual pipeline: fetch a year's daily citations (readings,
   responsorial psalm) from
   [cpbjr/catholic-readings-api](https://github.com/cpbjr/catholic-readings-api),
-  write them once into a new `content/lectionary/2026.json` (or similar),
-  and add the small manually-maintained solemnity fallback table noted in
-  the v2 scope above. This can be a script under `tools/`, run manually or
-  via a scheduled GitHub Actions job that commits the cached result —
-  either way, the app never calls the API directly.
+  parse them into `content/lectionary/<year>.json`. The app never calls the
+  API directly — it only ever reads the committed, parsed file.
 - Because these are citations only (book/chapter/verse, like
   `character.verse_refs` already are), the actual reading text resolves
   the same way character verse references already do: live lookup
@@ -160,11 +157,69 @@ everything before anything ships.
   is current. No new copyright exposure, no new bundled text.
 - Reflections are original devotional prose (like topic reflections),
   authored per day, English first.
-- New Room entity/DAO for the daily reading (date → reading refs + psalm
-  ref + reflection id), a manifest.json entry, and a Daily Reading screen
-  in the app.
-- Recurs yearly: this phase's citation set only covers through December
-  2026; extending through 2027 is v3's job, not v2's.
+- `DailyReading`/`ReadingCitation` Room entities, keyed by real ISO date
+  (not `month_day` — the specific reading assigned to a given calendar
+  date shifts year to year, so each year needs its own full set of rows).
+  `manifest.json`'s `"lectionary"` array lists every year currently
+  loaded; `SeedLoader` already loops over the whole array generically, so
+  adding a year is a data change only, never a code change.
+- A Daily Readings & Reflection tab with day-by-day navigation (previous/
+  next, a "Today" shortcut, and a date picker) whose selectable range is
+  read live from the earliest/latest date actually seeded — it widens
+  automatically the day a new year's file is added, no code touched.
+- **Recurs yearly, and turned out to need a full re-author each time, not
+  just an update**: comparing 2026 and 2027 citation-by-citation showed
+  that only truly fixed-date solemnities (Christmas, Assumption, etc.,
+  maybe ~15-20 days) keep identical readings year to year. Every other
+  day's specific reading shifts, because Easter's date moves the whole
+  Lent/Easter block, which moves when Ordinary Time starts, which shifts
+  which specific weekday-in-cycle lands on any given calendar date — on
+  top of the Sunday A/B/C and weekday Year I/II rotations. So a new
+  year's ~365 reflections are essentially a fresh writing pass, not a
+  port of the previous year's — see "Adding a new lectionary year" below.
+
+#### Adding a new lectionary year
+
+Repeatable runbook, same one used for 2027 — nothing here should need to
+change for 2028, 2029, etc.:
+
+1. `python3 tools/fetch_lectionary.py <year>` — fetches all 365/366 days
+   from the live API into `content/lectionary/<year>-source.json`.
+2. `python3 tools/build_lectionary_year.py <year>` — parses every
+   citation into book/chapter/verse ranges and writes
+   `content/lectionary/<year>.json`, `reflection: null` for every day.
+   Reports any citations it couldn't parse (rare — a handful of source
+   typos have shown up before; fix them either in
+   `tools/parse_lectionary.py`'s book-name table or as a targeted
+   fallback in `build_lectionary_year.py`, whichever the failure looks
+   like) and re-run until 0 fail.
+3. `python3 tools/verify_lectionary_year.py <year>` — flags citations
+   whose verse range doesn't fully exist in the bundled WEB text. Most
+   flags are harmless (a psalm's sung-heading offset — the app's verse
+   lookup already truncates gracefully, never errors); a genuine content
+   gap (most commonly Daniel 3's deuterocanonical canticle, since this
+   app's bundled Daniel is Hebrew-canon only) just needs noting in the
+   year's `_note` field and in that day's reflection (ground it in the
+   other readings / the well-known story rather than quoting text this
+   app doesn't have).
+4. Author reflections in monthly batches, same process each time: pull
+   that month's real resolved text first (join the day's refs against
+   `content/scripture/web-c/*.json`), read it, write each reflection
+   grounded in the actual Gospel and readings — never from memory of
+   what a passage "probably" says. Load the month's dict of
+   `reflection` values into the year's JSON, `json.dump(..., indent=2,
+   ensure_ascii=False)` plus a trailing newline.
+5. Add `{"year": <year>, "path": "content/lectionary/<year>.json"}` to
+   `manifest.json`'s `"lectionary"` array — **append, don't replace**;
+   every prior year stays loaded too, so nothing breaks for a device
+   that hasn't updated in a while.
+6. Bump `content_version`, `./gradlew assembleDebug`, spot-check the
+   Daily Readings tab on a device before committing.
+7. Start early: content authoring is the actual bottleneck (~365 days of
+   real writing), so begin the next year's batches a couple of months
+   before the calendar rolls over — the date picker will start offering
+   the new year's dates the moment its data is seeded, so a late start
+   means a live gap.
 
 ### Phase 4 — Daily notifications (email + WhatsApp)
 
