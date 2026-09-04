@@ -129,6 +129,10 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     private val _resolvedReadings = MutableStateFlow<List<ResolvedReading>>(emptyList())
     val resolvedReadings: StateFlow<List<ResolvedReading>> = _resolvedReadings.asStateFlow()
 
+    /** Earliest/latest date any loaded lectionary year actually covers, so the day picker bounds itself to real data instead of a hardcoded year -- widens automatically the day a future year's content ships. Null until the one-time load completes. */
+    private val _readingDateRange = MutableStateFlow<Pair<LocalDate, LocalDate>?>(null)
+    val readingDateRange: StateFlow<Pair<LocalDate, LocalDate>?> = _readingDateRange.asStateFlow()
+
     fun previousReadingDay() {
         _selectedReadingDate.value = _selectedReadingDate.value.minusDays(1)
         viewModelScope.launch { loadDailyReading() }
@@ -248,6 +252,13 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         ensureFreshForCurrentLanguage()
         viewModelScope.launch { repo.bookmarks().collect { _bookmarks.value = it } }
         viewModelScope.launch { repo.translations().collect { _translations.value = it } }
+        viewModelScope.launch {
+            val earliest = repo.earliestReadingDate()
+            val latest = repo.latestReadingDate()
+            if (earliest != null && latest != null) {
+                _readingDateRange.value = LocalDate.parse(earliest) to LocalDate.parse(latest)
+            }
+        }
     }
 
     fun onSearchQueryChange(query: String) {

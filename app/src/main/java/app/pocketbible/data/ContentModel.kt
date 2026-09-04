@@ -603,6 +603,13 @@ interface ContentDao {
     @Query("SELECT * FROM reading_citation WHERE date = :date ORDER BY role, position")
     suspend fun readingCitations(date: String): List<ReadingCitation>
 
+    /** Earliest/latest date this app has any lectionary year loaded for, so the day picker can bound itself to real data instead of a hardcoded year. Null if none seeded yet. */
+    @Query("SELECT MIN(date) FROM daily_reading")
+    suspend fun earliestReadingDate(): String?
+
+    @Query("SELECT MAX(date) FROM daily_reading")
+    suspend fun latestReadingDate(): String?
+
     /**
      * Every verse from (chapterStart, verseStart) through (chapterEnd,
      * verseEnd) inclusive, same chapter or spanning several -- unlike

@@ -48,13 +48,13 @@ import java.time.format.DateTimeFormatter
 import java.util.Locale
 
 @OptIn(ExperimentalMaterial3Api::class)
-private fun selectableDatesForYear(targetYear: Int) = object : SelectableDates {
+private fun selectableDatesInRange(minDate: LocalDate, maxDate: LocalDate) = object : SelectableDates {
     override fun isSelectableDate(utcTimeMillis: Long): Boolean {
         val date = Instant.ofEpochMilli(utcTimeMillis).atZone(ZoneOffset.UTC).toLocalDate()
-        return date.year == targetYear
+        return date in minDate..maxDate
     }
 
-    override fun isSelectableYear(year: Int): Boolean = year == targetYear
+    override fun isSelectableYear(year: Int): Boolean = year in minDate.year..maxDate.year
 }
 
 private fun roleHeading(role: String): Int = when (role) {
@@ -70,6 +70,7 @@ private fun roleHeading(role: String): Int = when (role) {
 fun DailyReadingScreen(
     verseOfDay: Passage?,
     selectedDate: LocalDate,
+    dateRange: Pair<LocalDate, LocalDate>?,
     dailyReading: DailyReading?,
     readings: List<ResolvedReading>,
     onPreviousDay: () -> Unit,
@@ -142,10 +143,10 @@ fun DailyReadingScreen(
         }
 
         if (showDatePicker) {
-            val year = LocalDate.now().year
+            val (minDate, maxDate) = dateRange ?: (LocalDate.now() to LocalDate.now())
             val datePickerState = rememberDatePickerState(
                 initialSelectedDateMillis = selectedDate.atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli(),
-                selectableDates = remember(year) { selectableDatesForYear(year) }
+                selectableDates = remember(minDate, maxDate) { selectableDatesInRange(minDate, maxDate) }
             )
             DatePickerDialog(
                 onDismissRequest = { showDatePicker = false },

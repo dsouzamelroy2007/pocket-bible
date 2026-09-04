@@ -182,11 +182,13 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
             composable("daily") {
                 val verseOfDay by viewModel.verseOfDay.collectAsState()
                 val selectedReadingDate by viewModel.selectedReadingDate.collectAsState()
+                val readingDateRange by viewModel.readingDateRange.collectAsState()
                 val dailyReading by viewModel.dailyReading.collectAsState()
                 val resolvedReadings by viewModel.resolvedReadings.collectAsState()
                 DailyReadingScreen(
                     verseOfDay = verseOfDay,
                     selectedDate = selectedReadingDate,
+                    dateRange = readingDateRange,
                     dailyReading = dailyReading,
                     readings = resolvedReadings,
                     onPreviousDay = { viewModel.previousReadingDay() },

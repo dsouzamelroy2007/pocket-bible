@@ -82,6 +82,10 @@ class ContentRepository(private val dao: ContentDao) {
 
     suspend fun readingCitations(date: String): List<ReadingCitation> = dao.readingCitations(date)
 
+    suspend fun earliestReadingDate(): String? = dao.earliestReadingDate()
+
+    suspend fun latestReadingDate(): String? = dao.latestReadingDate()
+
     suspend fun versesForRange(
         bookId: String,
         chapterStart: Int,
