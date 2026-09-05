@@ -196,15 +196,16 @@ change for 2028, 2029, etc.:
 3. `python3 tools/verify_lectionary_year.py <year>` — flags citations
    whose verse range doesn't fully exist in the bundled WEB text. Most
    flags are harmless (a psalm's sung-heading offset — the app's verse
-   lookup already truncates gracefully, never errors). Daniel's
-   deuterocanonical content (the ch. 3 canticle, chs. 13-14) resolves
-   correctly as of the `dan.json` re-import described below — if a
-   flag ever points there again, treat it as a real regression, not an
-   expected gap. Esther's Greek additions are still not bundled (see
-   below), so a citation into those would still need the old workaround:
-   note it in the year's `_note` field and ground that day's reflection
-   in the other readings / the well-known story rather than quoting text
-   this app doesn't have.
+   lookup already truncates gracefully, never errors). Both Daniel's
+   deuterocanonical content (the ch. 3 canticle, chs. 13-14) and
+   Esther's (chs. 11-16 — see "Esther Greek additions" below for the
+   citation scheme) resolve correctly as of their respective re-imports
+   — if a flag ever points into either again, treat it as a real
+   regression, not an expected gap. USCCB readings citing Esther's Greek
+   material use the Vulgate's confusing cross-numbering (e.g. Esther
+   C:12), which doesn't match this app's chs. 11-16 — translate the
+   citation using the addition-letter table in that section before
+   writing the ref.
 4. Author reflections in monthly batches, same process each time: pull
    that month's real resolved text first (join the day's refs against
    `content/scripture/web-c/*.json`), read it, write each reflection
@@ -351,8 +352,39 @@ ever needed again for reference.
   split into two verse_refs (3:8-23, 3:91-97) to skip over the canticle
   it doesn't reference. Esther's own Greek additions (`ESG` in the
   Catholic epub) are a full retranslation with different numbering
-  throughout, not an addition — deliberately left unfixed; still a
-  known gap.
+  throughout, not an addition — see "Esther Greek additions" below for
+  how that was eventually handled.
+- **Esther Greek additions (done)**: unlike Daniel, `ESG.xhtml` in the
+  Catholic epub isn't "Hebrew text plus separable inserts" — it's a
+  full retranslation from the Greek Septuagint, reordered and reworded
+  throughout (a full diff showed ch. 1-10 wording differs from the
+  bundled text almost as often as it matches, and ch. 9's verse count
+  doesn't even line up), so it was never a candidate for the wholesale
+  swap used for Daniel. What *is* cleanly separable: eBible's own
+  introduction to `ESG.xhtml` documents exactly 5 insertion points where
+  Greek-only material (marked `[in brackets]` in the source, or in one
+  case — the king's audience scene — silently replacing a terse Hebrew
+  verse) was merged into the traditional verse numbering: before 1:1,
+  after 3:13, after 4:17 (running through the end of ch. 5), embedded in
+  8:13, and after 10:3. Those 5 points are exactly the 6 traditional
+  "Additions A-F" (Addition C, the prayers, and D, the king's audience,
+  share one insertion point). Extracted each addition's text unchanged
+  and appended it as a new standalone chapter — **11=A, 12=B, 13=C,
+  14=D, 15=E, 16=F**, in narrative order, each with its own verse
+  numbering starting at 1 (editorial verse breaks at sentence
+  boundaries, since the source carries each addition as one to a few
+  very long verses) — rather than replicating the traditional but
+  confusing Vulgate cross-numbering (where, e.g., Addition F is cited as
+  "10:4-11:1" despite narrating last). Chs. 1-10 are untouched — a full
+  diff confirmed all 167 existing verses are byte-for-byte identical to
+  the previously-bundled text, so every existing citation
+  (`characters.json`, `stories.json`) is unaffected. No existing
+  citation pointed into the Greek material before this (unlike Daniel,
+  nothing was silently broken) — this closes the gap preemptively for
+  any future lectionary or story content that wants it. If a USCCB
+  reading ever cites this material, translate its Vulgate reference
+  using this table: A → ch. 11, B → ch. 12, C → ch. 13, D → ch. 14, E →
+  ch. 15, F → ch. 16.
 - **6C — Character cross-links (not started)**: one pass over all
   `BibleCharacter` rows now that 6B content exists, curating up to 10
   story links each by narrative significance.
