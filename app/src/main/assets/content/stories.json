@@ -1,5 +1,5 @@
 {
-  "_note": "Stories tab (Phase 6). 29 of 146 authored -- Pentateuch batch complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
+  "_note": "Stories tab (Phase 6). 54 of 146 authored -- Pentateuch and Historical batches complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
   "stories": [
     {
       "id": "creation-of-the-world",
@@ -619,6 +619,562 @@
           "chapter_start": 14,
           "verse_start": 1,
           "chapter_end": 14,
+          "verse_end": 10
+        }
+      ]
+    },
+    {
+      "id": "rahab-and-the-spies",
+      "title": "Rahab and the Spies",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "Joshua sent two spies into Jericho, and they took shelter in the home of Rahab, a prostitute living inside the city wall. When the king of Jericho's men came looking for them, Rahab hid the spies on her roof and lied to protect them, telling the king's men the spies had already left. She told the spies that all of Jericho had heard how the LORD had dried up the Red Sea and defeated other kings for Israel, and she asked them to spare her family when Israel conquered the city in return for her kindness. The spies agreed, telling her to tie a scarlet cord in her window as a sign, and she helped them escape safely out of the city.",
+      "moral": "Faith and courage from an unexpected outsider can change the course of a whole story.",
+      "reflection": "Rahab isn't part of Israel at all, yet she recognizes and trusts what Israel's own people sometimes struggled to believe -- that the LORD is God in heaven and on earth. Her risky choice to protect the spies over her own king shows real conviction, not just self-preservation. Rahab is remembered later in the New Testament as an ancestor of Jesus himself and an example of faith proven by action -- a striking legacy for someone who started this story as a complete outsider.",
+      "sort_order": 30,
+      "verse_refs": [
+        {
+          "book_id": "josh",
+          "chapter_start": 2,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 24
+        }
+      ]
+    },
+    {
+      "id": "fall-of-jericho",
+      "title": "Fall of Jericho",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "miracle",
+      "summary": "God gave Joshua an unusual battle plan for conquering the fortified city of Jericho: march around it once a day for six days, then seven times on the seventh day, with priests blowing trumpets, and only shout when told to. Israel obeyed exactly, marching silently day after day around the walled city. On the seventh day, after the seventh time around, the priests blew their trumpets, the people shouted with a great shout, and the walls of Jericho collapsed, letting Israel's army walk straight into the city.",
+      "moral": "Obedience to an unconventional instruction, held to exactly, can accomplish what force alone couldn't.",
+      "reflection": "There's nothing militarily sensible about marching silently around a city for a week -- the strategy only makes sense as an act of trust in God rather than in tactics. Israel's part in the victory is almost entirely obedience: showing up, marching, staying quiet until told to shout. The walls falling isn't described as Israel's achievement at all -- it's simply what happens the moment the people finally do exactly what God said.",
+      "sort_order": 31,
+      "verse_refs": [
+        {
+          "book_id": "josh",
+          "chapter_start": 6,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "id": "achans-sin",
+      "title": "Achan's Sin",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "After the victory at Jericho, Israel suffered a shocking defeat at the small city of Ai, and Joshua fell before God in anguish, not understanding why. God revealed that someone had stolen forbidden plunder from Jericho that was supposed to be devoted entirely to God, and until it was dealt with, Israel could not succeed. Through a process of selection, Achan was identified as the guilty man, and he confessed to taking a robe, silver, and gold and hiding them in his tent. Achan and his family, along with the stolen goods, were taken to a valley and destroyed, and only then did the LORD's anger turn away from Israel.",
+      "moral": "Hidden sin can affect far more people than the one who committed it.",
+      "reflection": "Achan's theft looks small compared to everything Israel had just survived, but its consequences are anything but small -- thirty-six men die at Ai before anyone even knows what caused the defeat. Joshua's grief and confusion in the face of an unexplained loss is a very human moment, one many people recognize when hardship strikes without an obvious reason. The story is uncomfortable, but it insists that what's done quietly still has real weight in a community that's meant to stand together before God.",
+      "sort_order": 32,
+      "verse_refs": [
+        {
+          "book_id": "josh",
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 7,
+          "verse_end": 26
+        }
+      ]
+    },
+    {
+      "id": "deborah-and-barak",
+      "title": "Deborah and Barak",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "When Israel cried out under twenty years of oppression by King Jabin's army, Deborah, a prophetess judging Israel at the time, summoned Barak and told him that God had commanded him to lead ten thousand men against Jabin's commander, Sisera. Barak agreed to go only if Deborah went with him, and she did, though she told him the honor of the victory would go to a woman instead of him. God threw Sisera's army into confusion before Barak's men, and Sisera fled on foot to the tent of a woman named Jael, who gave him milk and let him rest -- then killed him with a tent peg while he slept, fulfilling Deborah's word exactly.",
+      "moral": "Courageous leadership can come from wherever God places it, including people others might overlook.",
+      "reflection": "Both Deborah and Jael take center stage in a story where the expected military heroes hesitate -- Barak won't go without Deborah, and it's Jael, not any soldier, who ends up delivering the final blow. Deborah's role as judge and prophetess, at a time when leadership like that wasn't expected of a woman, is treated by the text simply as fact, not as anything unusual needing explanation. Israel's twenty years of oppression end not through overwhelming force but through God working through exactly the people willing to act when called.",
+      "sort_order": 33,
+      "verse_refs": [
+        {
+          "book_id": "judg",
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 24
+        }
+      ]
+    },
+    {
+      "id": "gideon-and-the-fleece",
+      "title": "Gideon and the Fleece",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "miracle",
+      "summary": "Called by God to save Israel from Midianite oppression but unsure of himself, Gideon asked for a sign: he set a wool fleece on the ground overnight and asked God to make it wet with dew while the ground around it stayed dry, and God did. Still needing more confidence, Gideon asked for the sign reversed, and God patiently obliged that too. Later, when it came time to fight, God had Gideon reduce his army from thousands down to just three hundred men armed only with trumpets, torches, and empty jars -- and when they surrounded the enemy camp at night, blew their trumpets, and shouted, the Midianite army panicked and fled, giving Israel victory without swords.",
+      "moral": "God can work through a small, hesitant few just as powerfully as through a great army.",
+      "reflection": "Gideon's fleece tests aren't a lack of faith so much as an honest, human need for reassurance before a genuinely frightening task -- and God doesn't rebuke him for asking twice. By the time the battle actually comes, Gideon's army has been trimmed down so far that no one could credit the eventual victory to human strength. The trumpets and torches and shouting in the dark aren't really weapons at all -- they're theater, meant to make the size of Israel's tiny force irrelevant to the outcome.",
+      "sort_order": 34,
+      "verse_refs": [
+        {
+          "book_id": "judg",
+          "chapter_start": 6,
+          "verse_start": 36,
+          "chapter_end": 6,
+          "verse_end": 40
+        },
+        {
+          "book_id": "judg",
+          "chapter_start": 7,
+          "verse_start": 16,
+          "chapter_end": 7,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "id": "samson-and-delilah",
+      "title": "Samson and Delilah",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "Samson, an Israelite judge given supernatural strength by God, fell in love with a Philistine woman named Delilah, who was paid by Philistine leaders to discover the secret of his strength so they could capture him. Three times Samson lied to her about what would weaken him, and three times she tested his answers and failed, until his constant pressure wore him down and he finally told her the truth: his strength was tied to a vow never to cut his hair. Delilah had his hair shaved while he slept, and the Philistines captured him, blinded him, and put him to grinding grain in prison -- until, his hair grown back and his strength returned, Samson pulled down the pillars of a Philistine temple during a public gathering, killing himself along with more of his enemies than he had killed in his entire life before.",
+      "moral": "Persistent pressure to compromise what matters most can eventually wear down even great strength.",
+      "reflection": "Samson survives three deliberate tests of Delilah's manipulation before finally caving to the fourth round of pressure -- a pattern that shows how relentless nagging can succeed where outright force couldn't. His downfall isn't really about Delilah alone; it's about Samson repeatedly playing with the edge of the vow that set him apart, until there was nothing left of it to protect him. Even in his weakest, most humiliated state, though, Samson's final prayer for strength is answered -- God's purpose for him doesn't end just because Samson's own choices led him there.",
+      "sort_order": 35,
+      "verse_refs": [
+        {
+          "book_id": "judg",
+          "chapter_start": 16,
+          "verse_start": 4,
+          "chapter_end": 16,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "id": "ruth-and-naomi",
+      "title": "Ruth and Naomi",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "When Naomi's husband and both her sons died in Moab, she decided to return to her homeland of Judah and urged her two daughters-in-law to go back to their own families instead of following her into an uncertain future. One daughter-in-law, Orpah, tearfully agreed, but Ruth refused to leave, declaring, “Where you go, I will go... your people will be my people, and your God my God.” Back in Bethlehem, Ruth's loyalty and hard work eventually caught the attention of a kind relative named Boaz, who married her; their son Obed became the grandfather of King David, and the women of the town told Naomi that Ruth, who loved her, was better to her than seven sons.",
+      "moral": "Loyal love, freely given, can carry someone through the hardest kind of loss.",
+      "reflection": "Ruth's declaration to Naomi asks nothing in return -- she commits to a foreign land, a foreign God, and an uncertain future purely out of loyalty to a grieving mother-in-law with nothing left to offer her. What starts as a small story about two widows ends up woven directly into the ancestry of King David, and eventually of Jesus himself. Naomi, who arrives home believing she has lost everything, ends the book with a grandson in her arms -- proof that loyal love, even when it looks like it costs everything, doesn't go unnoticed.",
+      "sort_order": 36,
+      "verse_refs": [
+        {
+          "book_id": "ruth",
+          "chapter_start": 1,
+          "verse_start": 6,
+          "chapter_end": 1,
+          "verse_end": 18
+        },
+        {
+          "book_id": "ruth",
+          "chapter_start": 4,
+          "verse_start": 9,
+          "chapter_end": 4,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "id": "hannahs-prayer-and-the-birth-of-samuel",
+      "title": "Hannah's Prayer / Birth of Samuel",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "Hannah, deeply grieved by her inability to have children, prayed so fervently and silently at the temple in Shiloh that the priest Eli mistook her for drunk. She explained she was pouring out her sorrow to the LORD, and vowed that if God gave her a son, she would give him back to the LORD's service for his whole life. God answered her prayer with a son, Samuel, and once he was weaned, Hannah kept her vow and brought him to live and serve at the temple with Eli, as she had promised. Before leaving him there, Hannah prayed a song of praise, celebrating a God who lifts up the poor and needy and brings down the proud.",
+      "moral": "Persistent, honest prayer and giving back what was given can turn deep sorrow into praise.",
+      "reflection": "Hannah's prayer is remarkable for its honesty -- she doesn't hide her grief or pretend to be fine, she pours it out completely, even at the risk of being misunderstood. Keeping her vow to give Samuel to the temple must have been genuinely hard, handing over the very child she had prayed so desperately for. Her song afterward, celebrating God's power to reverse fortunes, echoes centuries later almost word for word in Mary's own song of praise at the news of Jesus' birth.",
+      "sort_order": 37,
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter_start": 1,
+          "verse_start": 9,
+          "chapter_end": 1,
+          "verse_end": 28
+        },
+        {
+          "book_id": "1sam",
+          "chapter_start": 2,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 10
+        }
+      ]
+    },
+    {
+      "id": "the-call-of-samuel",
+      "title": "The Call of Samuel",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "As a boy serving in the temple under the aging priest Eli, Samuel heard a voice calling his name in the night and assumed it was Eli, running to him three times before Eli realized it was the LORD calling the boy. Eli told Samuel that if the voice called again, he should answer, “Speak, LORD, for your servant hears.” When the LORD called a fourth time, Samuel answered as instructed, and God gave him a difficult message about judgment coming on Eli's household. The next morning, Samuel told Eli everything honestly, and as Samuel grew, the LORD was with him, and all Israel came to recognize him as a true prophet of God.",
+      "moral": "Listening for God's voice, even as a child, can be the start of an entire life of faithfulness.",
+      "reflection": "Samuel doesn't recognize God's voice at first simply because he'd never heard it before -- it takes Eli's guidance to help him understand what's happening. The message Samuel receives is genuinely hard, judgment against the very priest who raised him, yet he delivers it honestly rather than softening or hiding it out of fear. This quiet nighttime moment in the temple becomes the beginning of one of the most significant prophetic careers in Israel's whole history.",
+      "sort_order": 38,
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "id": "sauls-disobedience",
+      "title": "Saul's Disobedience",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "God commanded Saul, through the prophet Samuel, to completely destroy the Amalekites and everything they had, but Saul spared their king, Agag, and the best of the livestock, claiming the animals were meant for sacrifice. When Samuel confronted him, Saul insisted he had obeyed, but Samuel pointed out that partial obedience was still disobedience, declaring, “To obey is better than sacrifice.” Because Saul had rejected the LORD's clear command and rationalized his own decisions instead, Samuel told him that God had rejected him from being king.",
+      "moral": "Partial obedience is still disobedience, no matter how good the excuse sounds.",
+      "reflection": "Saul doesn't see himself as disobedient at all -- in his own telling, he obeyed, just with some reasonable-sounding exceptions for the best of the plunder. Samuel's response cuts through the rationalization directly: obedience isn't measured by good intentions or plausible excuses, but by whether God's actual instruction was followed. This is one of the harder lessons in Scripture about leadership -- that the cost of disobedience doesn't disappear just because it's dressed up as a reasonable compromise.",
+      "sort_order": 39,
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter_start": 15,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "id": "david-and-goliath",
+      "title": "David and Goliath",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "While the Israelite and Philistine armies faced off, the Philistine giant Goliath taunted Israel daily, and no soldier dared face him -- until David, a young shepherd visiting his brothers, volunteered, trusting that the God who had helped him kill lions and bears protecting his flock would deliver him from Goliath too. Saul offered David his own armor, but David set it aside, unused to it, and went to meet the giant with only his staff, a sling, and five smooth stones. Declaring that he came in the name of the LORD of Armies while Goliath came only with weapons, David struck the giant in the forehead with a single stone, and Goliath fell dead, sending the Philistine army fleeing.",
+      "moral": "Faith in God can outweigh every advantage of size, experience, and weaponry.",
+      "reflection": "David's confidence isn't in his own skill with a sling, though that skill is real -- it's in a track record of God's faithfulness he's already experienced protecting sheep, long before anyone was watching. Setting aside Saul's armor is a small but telling detail: David refuses to fight this battle by borrowing someone else's method rather than his own tested trust in God. His declaration before the fight -- that the battle belongs to the LORD, not to sword and spear -- turns out to be exactly what happens.",
+      "sort_order": 40,
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter_start": 17,
+          "verse_start": 32,
+          "chapter_end": 17,
+          "verse_end": 51
+        }
+      ]
+    },
+    {
+      "id": "david-and-jonathans-friendship",
+      "title": "David and Jonathan's Friendship",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "After David's victory over Goliath, Jonathan, Saul's own son and heir to the throne, felt an immediate bond with David and made a covenant of friendship with him, giving David his robe, sword, bow, and belt as a sign of their loyalty. As Saul's jealousy of David grew into a murderous threat, Jonathan risked his own safety to warn David using a prearranged signal with arrows shot into a field, letting David know he needed to flee. The two friends met one final time in secret, weeping together and renewing their covenant, with Jonathan reminding David that the LORD himself stood between them and their descendants forever.",
+      "moral": "Loyal friendship can hold firm even when it costs standing, safety, and a claim to a throne.",
+      "reflection": "Jonathan, as Saul's son, had every reason to see David as a rival for the throne, yet he loves him “as his own soul” and actively works against his own future to protect him. Their farewell scene is genuinely tender -- two friends who both know this may be the last time they see each other, weeping openly without shame. Jonathan's willingness to set aside his own claim to the kingdom for the sake of loyalty to David and to God's evident choice says something rare about what real friendship is willing to give up.",
+      "sort_order": 41,
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 18,
+          "verse_end": 4
+        },
+        {
+          "book_id": "1sam",
+          "chapter_start": 20,
+          "verse_start": 35,
+          "chapter_end": 20,
+          "verse_end": 42
+        }
+      ]
+    },
+    {
+      "id": "david-spares-sauls-life",
+      "title": "David Spares Saul's Life",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "While Saul was hunting David with three thousand men, he unknowingly entered the very cave where David and his men were hiding to relieve himself, giving David's men the perfect chance to kill him. Instead, David only crept close enough to cut off a piece of Saul's robe, and even that small act troubled his conscience, since Saul was still “the LORD's anointed.” After Saul left the cave, David called out to him, showed him the piece of robe as proof he could have killed him but chose not to, and Saul wept, admitting David was more righteous than he was and that he would indeed become king.",
+      "moral": "Restraint and respect, even toward someone actively trying to harm you, can reveal real character.",
+      "reflection": "David's men see an obvious, God-given opportunity to end their danger permanently -- David sees a test of whether he'll take what he wants by force or wait for God's timing. His conscience is troubled even by the small act of cutting Saul's robe, showing how seriously he took Saul's position, whatever Saul had actually done to deserve trust. Saul's tearful admission that David is more righteous than he is doesn't change Saul's behavior for long, but it's a rare moment of honesty from a man consumed by jealousy and fear.",
+      "sort_order": 42,
+      "verse_refs": [
+        {
+          "book_id": "1sam",
+          "chapter_start": 24,
+          "verse_start": 1,
+          "chapter_end": 24,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "id": "david-and-bathsheba",
+      "title": "David and Bathsheba",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "While his army was off at war, King David stayed home and, seeing a beautiful woman named Bathsheba bathing, sent for her and slept with her, though she was married to Uriah, one of his own soldiers. When she became pregnant, David tried to cover up the affair by bringing Uriah home from the battlefield, but Uriah's loyalty to his fellow soldiers kept him from going home to his wife, so David arranged to have him killed in battle instead and then married the now-widowed Bathsheba. After the prophet Nathan confronted him and David confessed his sin, God forgave him but told him the child conceived in the affair would die; David fasted and prayed desperately while the baby was sick, but once the child died, he got up, worshiped, and trusted that God's mercy still held, later comforting Bathsheba and having another son, Solomon.",
+      "moral": "Sin compounds when it's hidden, but honest repentance can still restore what was broken.",
+      "reflection": "David's cover-up gets worse at every step -- what starts as adultery ends in a calculated murder, showing how quickly hiding one sin leads to committing another. His grief over the dying child is raw and desperate, yet his response once the child actually dies, choosing to worship rather than collapse further, models a hard kind of trust in God's mercy even inside real consequences. David's story doesn't end in permanent disgrace -- Solomon, born after this tragedy, becomes the next king, a reminder that God's grace can work even through the wreckage sin leaves behind.",
+      "sort_order": 43,
+      "verse_refs": [
+        {
+          "book_id": "2sam",
+          "chapter_start": 11,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 27
+        },
+        {
+          "book_id": "2sam",
+          "chapter_start": 12,
+          "verse_start": 13,
+          "chapter_end": 12,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "id": "nathans-parable-of-the-ewe-lamb",
+      "title": "Nathan's Parable of the Ewe Lamb",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "parable",
+      "summary": "The prophet Nathan came to King David with what sounded like a simple legal case: a rich man with countless flocks had taken a poor man's only lamb -- his family's beloved pet -- to feed a guest, rather than using one of his own many animals. David, outraged, declared the rich man deserved to die and should repay the poor man fourfold. Nathan then said simply, “You are the man!” -- revealing that the story was really about David himself, who had taken Uriah's wife and had Uriah killed despite having everything he could want. Nathan pronounced God's judgment: violence would never leave David's household because of what he had done.",
+      "moral": "A story told with compassion can expose the truth about our own actions better than a direct accusation ever could.",
+      "reflection": "Nathan doesn't storm in and accuse David outright -- he tells a story precise enough to let David condemn himself with his own outrage before he even realizes what's happening. David's fierce anger at the rich man in the parable, only to discover he is that rich man, shows how easy it is to see injustice clearly in someone else's story while missing it entirely in one's own life. Nathan's courage in confronting a king who could have had him killed for this is itself part of the story -- real prophetic honesty, delivered carefully but without flinching from the truth.",
+      "sort_order": 44,
+      "verse_refs": [
+        {
+          "book_id": "2sam",
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 12
+        }
+      ]
+    },
+    {
+      "id": "absaloms-rebellion",
+      "title": "Absalom's Rebellion",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "David's son Absalom spent years quietly winning the loyalty of the people, standing at the city gate to sympathize with anyone bringing a complaint to the king and suggesting that if only he were judge, everyone would get justice. Eventually Absalom declared himself king in Hebron and led an open rebellion against his father, forcing David to flee Jerusalem. In the battle that followed, Absalom's hair became caught in the branches of a tree while he was fleeing on his mule, and Joab, David's commander, killed him there against David's explicit orders to spare his son's life. When news of Absalom's death reached David, his grief overwhelmed any relief at winning the war, and he cried out again and again, wishing he had died instead of his son.",
+      "moral": "A parent's love can outlast even the deepest betrayal.",
+      "reflection": "Absalom's rebellion is built patiently, one flattered complainant at a time, over years -- a slow theft of loyalty rather than a sudden coup. Joab's decision to kill Absalom despite David's direct order shows the tension between political necessity and a father's desperate hope for mercy toward his own rebellious child. David's raw grief, “my son, my son Absalom,” is one of the most human moments in all of Scripture -- love that doesn't calculate whether it was deserved before breaking completely at the loss.",
+      "sort_order": 45,
+      "verse_refs": [
+        {
+          "book_id": "2sam",
+          "chapter_start": 15,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 12
+        },
+        {
+          "book_id": "2sam",
+          "chapter_start": 18,
+          "verse_start": 9,
+          "chapter_end": 18,
+          "verse_end": 15
+        },
+        {
+          "book_id": "2sam",
+          "chapter_start": 18,
+          "verse_start": 31,
+          "chapter_end": 18,
+          "verse_end": 33
+        }
+      ]
+    },
+    {
+      "id": "solomons-wisdom-two-mothers",
+      "title": "Solomon's Wisdom (Two Mothers)",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "Two women, both mothers who had each recently given birth, came before King Solomon disputing which of them was the true mother of a surviving baby, since one of their infants had died. With no witnesses and both women insisting the living child was theirs, Solomon ordered a sword brought and proposed cutting the living baby in half, giving each woman equal share. The true mother, overwhelmed with love for her son, begged Solomon to give the baby to the other woman rather than see him killed -- while the false claimant, unmoved, agreed to the division. Solomon immediately recognized the real mother by her willingness to give up her claim to save her child's life, and gave the baby to her.",
+      "moral": "True love proves itself by sacrifice, not by the loudest claim.",
+      "reflection": "Solomon's test isn't really about the sword at all -- it's designed to reveal which woman actually loves the child more than she loves winning the argument. The real mother's instinct to protect her son's life, even at the cost of losing him to someone else, exposes a truth no amount of arguing could have settled. All Israel's reaction to this judgment -- recognizing “the wisdom of God” in Solomon -- shows that real wisdom often looks less like clever tricks and more like understanding what people actually love.",
+      "sort_order": 46,
+      "verse_refs": [
+        {
+          "book_id": "1kgs",
+          "chapter_start": 3,
+          "verse_start": 16,
+          "chapter_end": 3,
+          "verse_end": 28
+        }
+      ]
+    },
+    {
+      "id": "the-queen-of-sheba",
+      "title": "The Queen of Sheba",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "Having heard reports of Solomon's extraordinary wisdom, the queen of Sheba traveled a great distance with a large caravan of gifts to test him with hard questions. Solomon answered everything she asked, and when she saw the wisdom of his rule, the splendor of his palace, and the order of his household, she was left breathless, admitting that not even half of what she had heard had prepared her for what she actually saw. She blessed the LORD for putting Solomon on the throne and gave him an enormous gift of gold and spices before returning to her own land.",
+      "moral": "Real wisdom draws seekers from far away, even those who came only to test it.",
+      "reflection": "The queen doesn't take Solomon's reputation on faith -- she travels a long way specifically to test it with hard questions, and only believes once she's seen the evidence for herself. Her response, giving credit to “the LORD your God” rather than to Solomon's own cleverness, shows she understood the true source of what impressed her. This story is often read alongside Jesus' own comment that “something greater than Solomon is here” -- a reminder that even Solomon's remarkable wisdom was only ever a shadow of something greater still to come.",
+      "sort_order": 47,
+      "verse_refs": [
+        {
+          "book_id": "1kgs",
+          "chapter_start": 10,
+          "verse_start": 1,
+          "chapter_end": 10,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "id": "elijah-and-the-widow-of-zarephath",
+      "title": "Elijah and the Widow of Zarephath",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "miracle",
+      "summary": "During a severe famine, God sent Elijah to a widow in Zarephath who had almost nothing left -- just enough flour and oil for one last meal before she and her son expected to starve. Elijah asked her to make him a small cake first, promising that her jar of flour and jug of oil would not run out until the famine ended, and she trusted him and did as he asked; miraculously, the flour and oil never ran dry for the rest of the famine. Later, when the widow's son fell ill and stopped breathing, she cried out in grief and blame, but Elijah carried the boy upstairs, prayed earnestly, and stretched himself over him three times until the boy's breath returned, and Elijah brought him back to his mother alive.",
+      "moral": "Trusting God's provision in scarcity, even when it seems impossible, can be met with more than enough.",
+      "reflection": "The widow's willingness to feed a stranger first, when she believed she was preparing her own family's last meal, is a striking act of trust before she has any evidence the promise will hold. Her grief and anger when her son later dies is honest and unguarded -- she doesn't pretend to have unwavering faith even after witnessing one miracle already. Elijah's response to both crises is the same: he brings the need directly and specifically to God, rather than assuming either problem is beyond help.",
+      "sort_order": 48,
+      "verse_refs": [
+        {
+          "book_id": "1kgs",
+          "chapter_start": 17,
+          "verse_start": 8,
+          "chapter_end": 17,
+          "verse_end": 24
+        }
+      ]
+    },
+    {
+      "id": "elijah-on-mount-carmel",
+      "title": "Elijah on Mount Carmel",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "miracle",
+      "summary": "To settle once and for all whether Baal or the LORD was the true God, Elijah challenged four hundred fifty prophets of Baal to a public contest on Mount Carmel: each side would prepare a bull for sacrifice, and whichever god answered by sending fire to burn the offering would be recognized as God. Baal's prophets cried out and even cut themselves for hours with no response at all, while Elijah, once his turn came, drenched his own altar with water three times to make any trick impossible, then simply prayed. Fire fell instantly from heaven, consuming the offering, the wood, the stones, and even the water in the trench, and the watching people fell on their faces, declaring, “The LORD, he is God!”",
+      "moral": "Bold public witness against compromise can turn a wavering crowd back toward the truth.",
+      "reflection": "Elijah's decision to soak his own altar in water before praying removes any possibility of a hidden trick -- he's not just confident, he's willing to make the test as fair and undeniable as possible. Baal's prophets work themselves into exhaustion for hours with nothing to show for it, a sharp contrast to Elijah's single, short prayer that gets an immediate answer. The crowd's swift declaration afterward -- “The LORD, he is God!” -- shows how quickly wavering hearts can turn when the truth is finally made unmistakably clear.",
+      "sort_order": 49,
+      "verse_refs": [
+        {
+          "book_id": "1kgs",
+          "chapter_start": 18,
+          "verse_start": 20,
+          "chapter_end": 18,
+          "verse_end": 39
+        }
+      ]
+    },
+    {
+      "id": "elijah-and-the-still-small-voice",
+      "title": "Elijah and the Still Small Voice",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "After his dramatic victory on Mount Carmel, Elijah fled in terror from Queen Jezebel's death threat, collapsing in exhaustion in the wilderness and asking God to let him die. An angel fed him twice, giving him strength to travel forty days to Mount Horeb, where God asked him what he was doing there. Elijah poured out his despair, feeling completely alone in his faithfulness, and God told him to stand on the mountain -- but God wasn't in the powerful wind, the earthquake, or the fire that followed, but in a still, small voice afterward. God gently corrected Elijah's belief that he was alone, revealing that seven thousand faithful people remained in Israel, and sent him back to work with new assignments to carry out.",
+      "moral": "God often speaks in quiet rather than in spectacle, especially to the exhausted and afraid.",
+      "reflection": "Elijah goes from the greatest public victory of his career straight into despair and a death wish -- proof that even a dramatic spiritual high doesn't make someone immune to exhaustion or fear. God's first response isn't a rebuke but simple provision: food, rest, and more food, before any conversation happens at all. The still small voice, arriving only after wind, earthquake, and fire have all failed to contain God, suggests that God's presence is often found less in overwhelming displays and more in a quiet word to someone who feels forgotten.",
+      "sort_order": 50,
+      "verse_refs": [
+        {
+          "book_id": "1kgs",
+          "chapter_start": 19,
+          "verse_start": 1,
+          "chapter_end": 19,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "id": "elijah-taken-up-to-heaven",
+      "title": "Elijah Taken Up to Heaven",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "miracle",
+      "summary": "As Elijah's time on earth neared its end, he traveled with his devoted successor Elisha, who refused three times to leave his side even when Elijah suggested it. Along the way, Elijah struck the Jordan River with his rolled-up cloak, and the water divided so the two could cross on dry ground. Elijah asked Elisha what he wanted before being taken away, and Elisha asked for a double portion of Elijah's spirit; then, as they walked and talked, a chariot and horses of fire suddenly appeared and separated them, and Elijah was carried up to heaven in a whirlwind. Elisha, left behind, picked up Elijah's fallen mantle, struck the water just as Elijah had, and the Jordan parted for him too, showing that Elijah's spirit and calling had indeed passed on to him.",
+      "moral": "Faithful mentorship prepares someone else to carry a mission forward, even after the mentor is gone.",
+      "reflection": "Elisha's refusal to leave Elijah's side three separate times shows a loyalty that isn't casual -- he wants to be present for whatever is about to happen, cost what it may. His request for a “double portion” of Elijah's spirit isn't greed; it's the customary inheritance of a firstborn son, a request to genuinely carry on Elijah's calling, not just admire it from a distance. The moment Elisha strikes the Jordan and it parts for him exactly as it had for Elijah is confirmation, visible to everyone watching, that the mission had truly been passed on.",
+      "sort_order": 51,
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter_start": 2,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 14
+        }
+      ]
+    },
+    {
+      "id": "elisha-and-naaman",
+      "title": "Elisha and Naaman",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "miracle",
+      "summary": "Naaman, a powerful Syrian army commander, suffered from leprosy, and a captured Israelite servant girl told his wife that a prophet in Samaria could heal him. Naaman traveled to Israel with letters and expensive gifts, but when he reached Elisha's house, the prophet didn't even come out to meet him personally -- he simply sent a message telling Naaman to wash in the Jordan River seven times. Naaman was furious at the unimpressive instruction, expecting something more dramatic, and almost left in anger, until his servants convinced him to try the simple command anyway. When he finally washed in the Jordan seven times, his skin was completely restored, and Naaman returned to declare that the God of Israel was the only true God.",
+      "moral": "Humility to accept a simple, unimpressive cure can matter more than pride in expecting something grand.",
+      "reflection": "Naaman's anger at Elisha's simple instruction reveals how much his pride was tangled up with his hope for healing -- he wanted a cure that matched his own importance, not something an ordinary person could do. It's his own servants, people with far less status than him, who talk sense into him and save him from walking away from his own healing. Naaman's declaration afterward, that there is no God in all the earth but in Israel, shows how far humility carried him -- from a proud commander expecting ceremony to someone changed enough to worship a God he'd never known before.",
+      "sort_order": 52,
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 5,
+          "verse_end": 19
+        }
+      ]
+    },
+    {
+      "id": "elisha-raises-the-shunammites-son",
+      "title": "Elisha Raises the Shunammite's Son",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "miracle",
+      "summary": "A wealthy woman in Shunem regularly hosted the prophet Elisha, even building him a small room to stay in whenever he passed through. In gratitude, Elisha promised her a son, despite her husband's old age, and the promise came true exactly as he said. Years later, the boy suddenly collapsed with a severe headache and died in his mother's arms; without telling her husband what had happened, she rode urgently to find Elisha, refusing to explain her distress to anyone but him. Elisha returned with her, prayed over the boy, stretched himself over his body, and the child was miraculously revived, sneezing seven times before opening his eyes.",
+      "moral": "Hospitality and persistent hope, even in devastating loss, can be met with God's power to restore.",
+      "reflection": "The Shunammite woman's hospitality toward Elisha, offered with no expectation of reward, becomes the very reason she receives the promise of a son in the first place -- kindness given freely returns in an unexpected way. Her composure after her son's death, saddling a donkey and riding straight to Elisha rather than collapsing in grief where she stood, shows a fierce, focused hope that refuses to accept the loss as final. Elisha doesn't simply speak a word from a distance this time -- he goes to the child himself, prays, and physically stretches over him, showing that some kinds of restoration require real, costly presence, not just a command from far away.",
+      "sort_order": 53,
+      "verse_refs": [
+        {
+          "book_id": "2kgs",
+          "chapter_start": 4,
+          "verse_start": 8,
+          "chapter_end": 4,
+          "verse_end": 37
+        }
+      ]
+    },
+    {
+      "id": "esther-saves-her-people",
+      "title": "Esther Saves Her People",
+      "testament": "ot",
+      "book_group": "historical",
+      "story_type": "narrative",
+      "summary": "When a royal decree ordered the destruction of every Jew in the Persian empire, Esther's cousin Mordecai urged her to approach the king on behalf of her people, even though appearing before him uninvited could mean death, telling her, “Who knows if you haven't come to the kingdom for such a time as this?” Esther asked all the Jews in the city to fast with her for three days, then risked her life by approaching the king, saying, “If I perish, I perish.” At a banquet she arranged, Esther revealed her Jewish identity and exposed Haman's plot to destroy her people, and the king, enraged, had Haman executed on the very gallows he had built to kill Esther's cousin Mordecai.",
+      "moral": "Courage to act at the right moment, even at great personal risk, can save an entire people.",
+      "reflection": "Esther's decision to approach the king isn't made lightly -- she asks her whole community to fast with her first, treating this as something that needs more than her own courage alone. Mordecai's challenge, that she may have been placed in her position for exactly this moment, reframes her royal status not as personal privilege but as a responsibility she can't walk away from. The reversal at the story's end -- Haman destroyed by the very gallows he built for someone else -- is a striking picture of how injustice, left unchecked, can eventually turn back on the one who planned it.",
+      "sort_order": 54,
+      "verse_refs": [
+        {
+          "book_id": "esth",
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 17
+        },
+        {
+          "book_id": "esth",
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 7,
           "verse_end": 10
         }
       ]
