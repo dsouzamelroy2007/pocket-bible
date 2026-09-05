@@ -78,43 +78,16 @@ fun StoryDetailScreen(
                         )
                     }
                 }
-                Spacer(Modifier.height(16.dp))
-            }
-
-            items(verses) { display ->
-                Card(
-                    colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.primaryContainer),
-                    modifier = Modifier.fillMaxWidth().padding(bottom = 10.dp)
-                ) {
-                    Column(Modifier.padding(14.dp)) {
-                        if (display.verses.isEmpty()) {
-                            Text(
-                                stringResource(R.string.character_verse_unavailable),
-                                style = MaterialTheme.typography.bodySmall,
-                                fontStyle = FontStyle.Italic,
-                                color = MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = 0.75f)
-                            )
-                        } else {
-                            Text(
-                                display.verses.joinToString(" ") { it.text },
-                                style = MaterialTheme.typography.bodyMedium,
-                                fontStyle = FontStyle.Italic,
-                                color = MaterialTheme.colorScheme.onPrimaryContainer
-                            )
-                        }
-                        Spacer(Modifier.height(6.dp))
-                        val chapterLabel = if (display.chapterStart == display.chapterEnd) {
-                            "${display.chapterStart}:${display.verseStart}-${display.verseEnd}"
-                        } else {
-                            "${display.chapterStart}:${display.verseStart}-${display.chapterEnd}:${display.verseEnd}"
-                        }
-                        Text(
-                            "${localizedBookNameById(display.bookId)} $chapterLabel",
-                            style = MaterialTheme.typography.labelSmall,
-                            color = MaterialTheme.colorScheme.onPrimaryContainer
-                        )
-                    }
+                if (verses.isNotEmpty()) {
+                    Spacer(Modifier.height(10.dp))
+                    Text(
+                        stringResource(R.string.story_scripture_scroll_hint),
+                        style = MaterialTheme.typography.bodySmall,
+                        fontStyle = FontStyle.Italic,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant
+                    )
                 }
+                Spacer(Modifier.height(16.dp))
             }
 
             if (story != null) {
@@ -173,6 +146,54 @@ fun StoryDetailScreen(
                                 onClick = { onCharacterSelected(character) },
                                 label = { Text(character.name) },
                                 modifier = Modifier.padding(end = 8.dp, bottom = 8.dp)
+                            )
+                        }
+                    }
+                }
+            }
+
+            if (verses.isNotEmpty()) {
+                item {
+                    Spacer(Modifier.height(20.dp))
+                    Text(
+                        stringResource(R.string.story_scripture_heading),
+                        style = MaterialTheme.typography.labelLarge,
+                        fontWeight = FontWeight.Medium
+                    )
+                    Spacer(Modifier.height(8.dp))
+                }
+
+                items(verses) { display ->
+                    Card(
+                        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.primaryContainer),
+                        modifier = Modifier.fillMaxWidth().padding(bottom = 10.dp)
+                    ) {
+                        Column(Modifier.padding(14.dp)) {
+                            if (display.verses.isEmpty()) {
+                                Text(
+                                    stringResource(R.string.character_verse_unavailable),
+                                    style = MaterialTheme.typography.bodySmall,
+                                    fontStyle = FontStyle.Italic,
+                                    color = MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = 0.75f)
+                                )
+                            } else {
+                                Text(
+                                    display.verses.joinToString(" ") { it.text },
+                                    style = MaterialTheme.typography.bodyMedium,
+                                    fontStyle = FontStyle.Italic,
+                                    color = MaterialTheme.colorScheme.onPrimaryContainer
+                                )
+                            }
+                            Spacer(Modifier.height(6.dp))
+                            val chapterLabel = if (display.chapterStart == display.chapterEnd) {
+                                "${display.chapterStart}:${display.verseStart}-${display.verseEnd}"
+                            } else {
+                                "${display.chapterStart}:${display.verseStart}-${display.chapterEnd}:${display.verseEnd}"
+                            }
+                            Text(
+                                "${localizedBookNameById(display.bookId)} $chapterLabel",
+                                style = MaterialTheme.typography.labelSmall,
+                                color = MaterialTheme.colorScheme.onPrimaryContainer
                             )
                         }
                     }

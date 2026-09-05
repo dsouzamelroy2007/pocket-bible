@@ -94,6 +94,8 @@
     <string name="story_moral_heading">The Moral</string>
     <string name="story_reflection_heading">For Reflection</string>
     <string name="story_related_characters_heading">Related Characters</string>
+    <string name="story_scripture_heading">Scripture References</string>
+    <string name="story_scripture_scroll_hint">The scripture references for this story are at the end — scroll down.</string>
     <string name="story_testament_all">All</string>
     <string name="story_testament_ot">Old Testament</string>
     <string name="story_testament_nt">New Testament</string>
