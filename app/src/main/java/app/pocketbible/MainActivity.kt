@@ -5,7 +5,18 @@ import android.widget.Toast
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
+import androidx.compose.foundation.background
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.RowScope
+import androidx.compose.foundation.layout.fillMaxHeight
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.core.os.LocaleListCompat
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.AutoStories
@@ -19,18 +30,22 @@ import androidx.compose.material.icons.outlined.FavoriteBorder
 import androidx.compose.material.icons.outlined.MenuBook
 import androidx.compose.material.icons.outlined.People
 import androidx.compose.material3.Icon
+import androidx.compose.material3.LocalContentColor
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.NavigationBar
-import androidx.compose.material3.NavigationBarItem
+import androidx.compose.material3.NavigationBarDefaults
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.unit.dp
 import app.pocketbible.R
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.compose.NavHost
@@ -91,9 +106,55 @@ private fun NavLabel(text: String) {
         text,
         style = MaterialTheme.typography.labelSmall,
         textAlign = TextAlign.Center,
-        maxLines = 3,
+        maxLines = 1,
         overflow = TextOverflow.Ellipsis
     )
+}
+
+/**
+ * A bottom-nav tab with a caller-supplied [weight] rather than the equal
+ * 1/5th every tab gets in Material3's stock `NavigationBar` -- needed so
+ * "Personalities" (and its equivalents in other languages) gets enough
+ * width to stay on one line without wrapping, at the cost of a bit less
+ * width for the shorter "Topics"/"Bible" tabs next to it.
+ */
+@Composable
+private fun RowScope.WeightedNavItem(
+    weight: Float,
+    selected: Boolean,
+    onClick: () -> Unit,
+    icon: @Composable () -> Unit,
+    label: @Composable () -> Unit
+) {
+    val contentColor = if (selected) {
+        MaterialTheme.colorScheme.onSecondaryContainer
+    } else {
+        MaterialTheme.colorScheme.onSurfaceVariant
+    }
+    Column(
+        modifier = Modifier
+            .weight(weight)
+            .fillMaxHeight()
+            .clickable(onClick = onClick),
+        horizontalAlignment = Alignment.CenterHorizontally,
+        verticalArrangement = Arrangement.Center
+    ) {
+        CompositionLocalProvider(LocalContentColor provides contentColor) {
+            Box(
+                modifier = Modifier
+                    .background(
+                        if (selected) MaterialTheme.colorScheme.secondaryContainer else Color.Transparent,
+                        shape = RoundedCornerShape(16.dp)
+                    )
+                    .padding(horizontal = 20.dp, vertical = 4.dp)
+            ) {
+                icon()
+            }
+            Box(modifier = Modifier.padding(top = 4.dp)) {
+                label()
+            }
+        }
+    }
 }
 
 @Composable
@@ -113,8 +174,17 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
 
     Scaffold(
         bottomBar = {
-            NavigationBar {
-                NavigationBarItem(
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .height(80.dp)
+                    .background(NavigationBarDefaults.containerColor)
+            ) {
+                // Topics and Bible get a bit less than an equal 1/5 share each,
+                // and Personalities a bit more, so its label -- the longest of
+                // the five in most languages -- has room to stay on one line.
+                WeightedNavItem(
+                    weight = 0.85f,
                     selected = currentRoute == "home" || currentRoute == "verse" || currentRoute == null,
                     onClick = { navController.navigate("home") { launchSingleTop = true } },
                     icon = {
@@ -125,7 +195,8 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     },
                     label = { NavLabel(stringResource(R.string.nav_topics)) }
                 )
-                NavigationBarItem(
+                WeightedNavItem(
+                    weight = 0.85f,
                     selected = currentRoute in bibleRoutes,
                     onClick = { navController.navigate("bible") { launchSingleTop = true } },
                     icon = {
@@ -136,7 +207,8 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     },
                     label = { NavLabel(stringResource(R.string.nav_read)) }
                 )
-                NavigationBarItem(
+                WeightedNavItem(
+                    weight = 1.3f,
                     selected = currentRoute in characterRoutes,
                     onClick = { navController.navigate("characters") { launchSingleTop = true } },
                     icon = {
@@ -147,7 +219,8 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     },
                     label = { NavLabel(stringResource(R.string.nav_characters)) }
                 )
-                NavigationBarItem(
+                WeightedNavItem(
+                    weight = 1.0f,
                     selected = currentRoute == "daily",
                     onClick = { navController.navigate("daily") { launchSingleTop = true } },
                     icon = {
@@ -158,7 +231,8 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     },
                     label = { NavLabel(stringResource(R.string.nav_daily)) }
                 )
-                NavigationBarItem(
+                WeightedNavItem(
+                    weight = 1.0f,
                     selected = currentRoute in storyRoutes,
                     onClick = { navController.navigate("stories") { launchSingleTop = true } },
                     icon = {
