@@ -14,6 +14,7 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.FilterChip
+import androidx.compose.material3.FilterChipDefaults
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
@@ -33,6 +34,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import app.pocketbible.R
 import app.pocketbible.data.StorySummary
+import app.pocketbible.ui.theme.CategoryAccent
+import app.pocketbible.ui.theme.storyTypeAccent
+import app.pocketbible.ui.theme.testamentAccent
 
 @Composable
 fun StoriesScreen(
@@ -78,41 +82,46 @@ fun StoriesScreen(
             Spacer(Modifier.height(10.dp))
             LazyRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                 item {
-                    FilterChip(
+                    AccentFilterChip(
                         selected = testamentFilter == null,
                         onClick = { testamentFilter = null },
-                        label = { Text(stringResource(R.string.story_testament_all)) }
+                        label = stringResource(R.string.story_testament_all),
+                        accent = testamentAccent(null)
                     )
                 }
                 item {
-                    FilterChip(
+                    AccentFilterChip(
                         selected = testamentFilter == "ot",
                         onClick = { testamentFilter = if (testamentFilter == "ot") null else "ot" },
-                        label = { Text(stringResource(R.string.story_testament_ot)) }
+                        label = stringResource(R.string.story_testament_ot),
+                        accent = testamentAccent("ot")
                     )
                 }
                 item {
-                    FilterChip(
+                    AccentFilterChip(
                         selected = testamentFilter == "nt",
                         onClick = { testamentFilter = if (testamentFilter == "nt") null else "nt" },
-                        label = { Text(stringResource(R.string.story_testament_nt)) }
+                        label = stringResource(R.string.story_testament_nt),
+                        accent = testamentAccent("nt")
                     )
                 }
             }
             Spacer(Modifier.height(8.dp))
             LazyRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                 item {
-                    FilterChip(
+                    AccentFilterChip(
                         selected = typeFilter == null,
                         onClick = { typeFilter = null },
-                        label = { Text(stringResource(R.string.story_type_all)) }
+                        label = stringResource(R.string.story_type_all),
+                        accent = storyTypeAccent(null)
                     )
                 }
                 items(STORY_TYPE_ORDER) { (code, labelRes) ->
-                    FilterChip(
+                    AccentFilterChip(
                         selected = typeFilter == code,
                         onClick = { typeFilter = if (typeFilter == code) null else code },
-                        label = { Text(stringResource(labelRes)) }
+                        label = stringResource(labelRes),
+                        accent = storyTypeAccent(code)
                     )
                 }
             }
@@ -160,6 +169,38 @@ fun StoriesScreen(
         }
         item { Spacer(Modifier.height(20.dp)) }
     }
+}
+
+/**
+ * A testament/story-type filter chip tinted with its own [accent] even when
+ * unselected (a soft tonal fill rather than Material3's plain outline), and
+ * inverted to a bold fill when selected -- so the row reads as colorful and
+ * inviting rather than the black-and-white default look.
+ */
+@Composable
+private fun AccentFilterChip(
+    selected: Boolean,
+    onClick: () -> Unit,
+    label: String,
+    accent: CategoryAccent
+) {
+    FilterChip(
+        selected = selected,
+        onClick = onClick,
+        label = { Text(label) },
+        colors = FilterChipDefaults.filterChipColors(
+            containerColor = accent.container,
+            labelColor = accent.onContainer,
+            selectedContainerColor = accent.onContainer,
+            selectedLabelColor = accent.container
+        ),
+        border = FilterChipDefaults.filterChipBorder(
+            enabled = true,
+            selected = selected,
+            borderWidth = 0.dp,
+            selectedBorderWidth = 0.dp
+        )
+    )
 }
 
 /**
