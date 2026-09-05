@@ -276,6 +276,55 @@ handling, and the privacy-policy rewrite.
   except Phase 4's opt-in/send path must still work with no network),
   and the closed-testing checklist v1 already went through.
 
+### Phase 6 — Bible Stories & Parables: 146 stories, all ages — **infrastructure done, content not started**
+
+Added after the original 5-phase plan, at the user's request: a new
+Stories tab covering 146 stories and parables spanning the full 73-book
+canon (63 Old Testament, 81 New Testament), each with a plain-language
+retelling and a moral phrased for any age. Full master list — every
+title, reference, `book_group`, and `story_type` — was drafted and
+reviewed with the user before any code was touched; see this repo's
+project memory / session history for the complete 146-row table if it's
+ever needed again for reference.
+
+- **Schema**: `story` (id, title, testament, `book_group`, `story_type`,
+  summary, moral, reflection, sort_order) + `story_verse_ref` (citations
+  only, chapter_start/chapter_end since a story can span more than one
+  chapter — resolved live from `scripture_verse`, same pattern as
+  `ReadingCitation`/`CharacterVerseRef`) + `story_translation` (same
+  fallback-to-English pattern as every other translated table) +
+  `story_character_link` (curated, not derived from every mention —
+  capped at 10 links per character so a high-frequency figure like Jesus
+  doesn't overwhelm their Characters-tab page).
+- `book_group` — 11 values, in canonical order: `pentateuch`,
+  `historical`, `wisdom`, `prophets`, `deuterocanonical`, `infancy`,
+  `ministry_miracles`, `parables`, `teachings_encounters`,
+  `passion_resurrection`, `acts`, `revelation`.
+- `story_type` — `narrative`, `parable`, or `miracle`.
+- **New UI**: a 5th bottom-nav tab, "Stories" (`Icons.*.AutoStories`).
+  List screen has a title/moral search box (client-side filter, same
+  pattern `CharactersScreen` already uses for name search — no new DAO
+  query needed at this scale) plus testament and story-type filter
+  chips, with results grouped by `book_group` when not searching (same
+  `CATEGORY_ORDER`-style grouping `CharactersScreen` uses for
+  characters). Detail screen shows testament/book-group/type badges,
+  resolved scripture text per citation, the plain-language story, moral,
+  reflection, and a "Related Characters" row that navigates into the
+  existing Characters tab.
+- **6A — Infrastructure (done)**: entities, DAOs, seeding, and the full
+  UI wired end to end against `content/stories.json`, which currently
+  ships with `"stories": []` — zero rows, so the tab is live and fully
+  functional (search, filters, empty-state messaging) with nothing
+  authored yet.
+- **6B — Content (not started)**: author all 146 stories' summary/moral/
+  reflection, in 11 batches (one per `book_group`), same non-negotiable
+  discipline as lectionary reflections — pull the real resolved
+  scripture text first, write from that, never from memory. Same
+  commit-per-batch rhythm as the lectionary's monthly batches.
+- **6C — Character cross-links (not started)**: one pass over all
+  `BibleCharacter` rows once 6B content exists, curating up to 10 story
+  links each by narrative significance.
+
 ## License
 
 See the repository for license information.
