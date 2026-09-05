@@ -1,5 +1,5 @@
 {
-  "_note": "Stories tab (Phase 6). 54 of 146 authored -- Pentateuch and Historical batches complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
+  "_note": "Stories tab (Phase 6). 60 of 146 authored -- Pentateuch, Historical, Wisdom & Prophets batches complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
   "stories": [
     {
       "id": "creation-of-the-world",
@@ -1176,6 +1176,147 @@
           "verse_start": 1,
           "chapter_end": 7,
           "verse_end": 10
+        }
+      ]
+    },
+    {
+      "id": "jobs-testing",
+      "title": "Job's Testing",
+      "testament": "ot",
+      "book_group": "wisdom",
+      "story_type": "narrative",
+      "summary": "Job was a righteous, wealthy man, blameless before God, until Satan challenged whether Job's faith was genuine or only the product of his comfortable life. God allowed Satan to test Job by taking away his wealth, his ten children, and finally his own health, yet Job refused to curse God, saying, “The LORD gave, and the LORD has taken away. Blessed be the LORD's name.” After enduring intense suffering and confronting God directly with his questions, Job humbled himself before God's greater wisdom, and God ultimately restored Job's fortunes twofold, giving him a new family and blessing the rest of his life even more than the beginning.",
+      "moral": "Faith can endure real suffering without needing every question answered.",
+      "reflection": "Job's suffering isn't ever explained to him -- God never tells him about the wager with Satan happening behind the scenes. What Job receives instead is an encounter with God's own vastness, enough to humble him without ever satisfying his demand for a tidy explanation. Job's honesty throughout the book, refusing both to curse God and to pretend the pain wasn't real, offers a model of faith that doesn't require certainty to remain faithful.",
+      "sort_order": 55,
+      "verse_refs": [
+        {
+          "book_id": "job",
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 1,
+          "verse_end": 22
+        },
+        {
+          "book_id": "job",
+          "chapter_start": 42,
+          "verse_start": 1,
+          "chapter_end": 42,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "id": "daniel-refuses-the-kings-food",
+      "title": "Daniel Refuses the King's Food",
+      "testament": "ot",
+      "book_group": "prophets",
+      "story_type": "narrative",
+      "summary": "Taken captive to Babylon along with other promising young men of Judah, Daniel and three friends were assigned rich food and wine from the king's own table, but Daniel resolved not to defile himself with it. He asked the official in charge for a ten-day trial eating only vegetables and water instead, and at the end of the test, Daniel and his friends looked healthier than all the young men who had eaten the royal food. God gave the four of them wisdom and understanding beyond all the king's other advisors, and Daniel went on to serve faithfully through the reigns of multiple kings.",
+      "moral": "Quiet conviction in small, daily choices can shape a whole life of faithfulness.",
+      "reflection": "Daniel's resolve here isn't dramatic -- no confrontation, no public stand, just a respectful request for a trial period. It's easy to overlook how much courage it took for a captive teenager, with no real power in the situation, to make even this small request instead of simply going along with what was expected. This first quiet act of conviction sets the pattern for the much bigger tests of faith Daniel faces later in the book.",
+      "sort_order": 56,
+      "verse_refs": [
+        {
+          "book_id": "dan",
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 1,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "id": "the-fiery-furnace",
+      "title": "The Fiery Furnace",
+      "testament": "ot",
+      "book_group": "prophets",
+      "story_type": "miracle",
+      "summary": "When King Nebuchadnezzar commanded everyone to bow down and worship a massive golden image, three young Jewish officials -- Shadrach, Meshach, and Abednego -- refused, since it would mean worshiping something other than God. Furious, Nebuchadnezzar gave them one more chance, threatening to throw them into a blazing furnace, but they answered that even if their God didn't rescue them, they still would not worship the image. The enraged king had the furnace heated seven times hotter and had the three men thrown in bound -- yet when he looked inside, he saw four men walking around unharmed, one looking “like a son of the gods.” The three came out without a single hair singed or even the smell of smoke on them, and Nebuchadnezzar praised their God and promoted all three.",
+      "moral": "Faithfulness doesn't depend on being guaranteed a rescue.",
+      "reflection": "The most striking line in this story is the men's own answer before the fire: “even if not” -- their commitment to God doesn't hinge on knowing the outcome in advance. Nebuchadnezzar's rage only makes the eventual miracle more undeniable, since he personally ordered the furnace made as deadly as possible. The mysterious fourth figure in the fire, walking alongside them unharmed, becomes one of the most vivid pictures in the Old Testament of God's presence with his people in the middle of real danger, not just after it's over.",
+      "sort_order": 57,
+      "verse_refs": [
+        {
+          "book_id": "dan",
+          "chapter_start": 3,
+          "verse_start": 8,
+          "chapter_end": 3,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "id": "the-writing-on-the-wall",
+      "title": "The Writing on the Wall",
+      "testament": "ot",
+      "book_group": "prophets",
+      "story_type": "miracle",
+      "summary": "During a lavish feast, King Belshazzar drank wine from the sacred gold and silver vessels his father had looted from God's temple in Jerusalem, praising idols made of silver, gold, and stone. Suddenly a disembodied hand appeared and wrote mysterious words on the palace wall, terrifying the king, and none of his wise men could interpret it. Daniel was brought in, and after reminding Belshazzar how his own father had been humbled for his pride, he read the writing: God had numbered Belshazzar's kingdom and brought it to an end, weighed him and found him lacking, and was dividing his kingdom between the Medes and Persians. That very night, Belshazzar was killed, and his kingdom passed to another ruler exactly as Daniel had said.",
+      "moral": "Treating what is sacred carelessly, without humility, invites a reckoning.",
+      "reflection": "Belshazzar had every warning he needed already available to him -- his own father Nebuchadnezzar's earlier humbling -- yet chose arrogant excess anyway, drinking from temple vessels meant for worship. The writing on the wall isn't cryptic wordplay so much as a direct verdict, and Daniel delivers it without softening it to protect himself, even while being offered rich rewards for a favorable interpretation. The speed of the judgment -- that very same night -- underlines how quickly the story moves from careless pride to consequence.",
+      "sort_order": 58,
+      "verse_refs": [
+        {
+          "book_id": "dan",
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 5,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "id": "daniel-in-the-lions-den",
+      "title": "Daniel in the Lions' Den",
+      "testament": "ot",
+      "book_group": "prophets",
+      "story_type": "miracle",
+      "summary": "Daniel's excellence as an official under King Darius stirred jealousy in his rivals, who, unable to find any real fault in him, convinced Darius to sign a decree forbidding prayer to anyone but the king for thirty days, specifically to trap Daniel in his consistent habit of prayer. Daniel continued praying openly toward Jerusalem three times a day exactly as before, and his accusers reported him, forcing Darius, though he genuinely liked Daniel, to follow through and have him thrown into a den of lions. Darius spent a sleepless night worried, and at dawn ran to the den, calling out to ask if Daniel's God had been able to save him -- and Daniel answered that an angel had shut the lions' mouths, and he was completely unharmed. Darius had Daniel's accusers thrown into the den in his place, and issued a decree honoring the God of Daniel throughout his whole kingdom.",
+      "moral": "Steady, consistent faith can survive even a trap deliberately built around it.",
+      "reflection": "Daniel's accusers can't find any actual wrongdoing in him, so they craft a law specifically targeting the one thing they know he won't compromise on -- his prayer. What's remarkable is that Daniel doesn't change his routine at all once he knows the law exists; he keeps praying with his windows open, visible to anyone watching. Darius's genuine distress over having to enforce a law he regrets shows how political systems can trap even well-meaning leaders into decisions they don't actually want to make.",
+      "sort_order": 59,
+      "verse_refs": [
+        {
+          "book_id": "dan",
+          "chapter_start": 6,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 28
+        }
+      ]
+    },
+    {
+      "id": "jonah-and-the-great-fish",
+      "title": "Jonah and the Great Fish",
+      "testament": "ot",
+      "book_group": "prophets",
+      "story_type": "miracle",
+      "summary": "When God told the prophet Jonah to go preach to Nineveh, Jonah instead boarded a ship sailing the opposite direction, trying to flee from God's calling entirely. A violent storm threatened to sink the ship, and when the sailors discovered Jonah was the cause, they reluctantly threw him overboard at his own suggestion, and the sea instantly calmed; God then sent a great fish to swallow Jonah, and he survived three days and nights inside it before being spit out safely on land. This time, Jonah obeyed and preached to Nineveh, and to his surprise the entire city -- from the king down -- repented in sackcloth and ashes, and God spared them from destruction. Rather than rejoicing, Jonah grew angry that God had shown mercy to his enemies, and God gently confronted his anger, asking whether Jonah's concern for a small, quickly-withered vine outweighed God's own concern for an entire city full of people.",
+      "moral": "Running from a hard calling doesn't stop God's mercy from reaching the people we'd rather it skip.",
+      "reflection": "Jonah's real problem was never the storm or the fish -- it was that he knew God would be merciful to Nineveh, and he resented that mercy reaching people he considered enemies. God's question at the end, comparing Jonah's grief over a withered plant to his lack of concern for a whole city of people, exposes exactly how backward Jonah's priorities had become. The book ends without telling us how Jonah responded, which is itself telling -- it leaves the same question open for every reader: can we accept God's mercy reaching people we'd rather see excluded from it?",
+      "sort_order": 60,
+      "verse_refs": [
+        {
+          "book_id": "jonah",
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 1,
+          "verse_end": 17
+        },
+        {
+          "book_id": "jonah",
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 10
+        },
+        {
+          "book_id": "jonah",
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 11
         }
       ]
     }
