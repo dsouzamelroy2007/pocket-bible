@@ -1,5 +1,5 @@
 {
-  "_note": "Stories tab (Phase 6). 143 of 146 authored -- all 5 OT batches plus all NT batches except Revelation complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
+  "_note": "Stories tab (Phase 6). COMPLETE -- all 146 of 146 stories authored (see .github/ABOUT.md Phase 6 for the full plan). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
   "stories": [
     {
       "id": "creation-of-the-world",
@@ -3047,6 +3047,80 @@
           "verse_start": 39,
           "chapter_end": 27,
           "verse_end": 44
+        }
+      ]
+    },
+    {
+      "id": "the-vision-of-the-risen-christ",
+      "title": "The Vision of the Risen Christ",
+      "testament": "nt",
+      "book_group": "revelation",
+      "story_type": "narrative",
+      "summary": "Exiled on the island of Patmos for his faithfulness, John heard a loud voice like a trumpet instructing him to write down what he saw and send it to seven churches. Turning to see who was speaking, he saw someone like a son of man standing among seven golden lampstands, dressed in a robe with a golden sash, hair white as snow, eyes like blazing fire, feet like polished bronze, and a face shining like the sun at full strength. Overwhelmed, John fell at his feet as though dead, but the figure placed a hand on him and said, “Don't be afraid. I am the first and the last, and the living one. I was dead, and behold, I am alive forever and ever, and I have the keys of Death and Hades.”",
+      "moral": "Christ's ultimate authority holds steady beyond history's turmoil, even for someone suffering exile for their faith.",
+      "reflection": "John's exile for his faith is exactly the kind of circumstance where God's overwhelming presence and reassurance might be most needed, and that's precisely when this vision comes to him. The vivid, almost overwhelming imagery -- fire, bronze, a sword, blazing light -- describes someone far beyond ordinary human categories, deliberately resisting any attempt to shrink Christ down to something manageable. His first words to the terrified John are tender rather than terrifying: “don't be afraid,” followed by the reassurance that even death itself is under his authority.",
+      "sort_order": 144,
+      "verse_refs": [
+        {
+          "book_id": "rev",
+          "chapter_start": 1,
+          "verse_start": 9,
+          "chapter_end": 1,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "id": "letters-to-the-seven-churches",
+      "title": "Letters to the Seven Churches",
+      "testament": "nt",
+      "book_group": "revelation",
+      "story_type": "narrative",
+      "summary": "Christ dictated letters to seven churches in Asia Minor, each tailored to its own situation. To the church in Ephesus, he praised their perseverance and discernment but rebuked them for abandoning their first love, urging them to remember, repent, and return to their earlier devotion. To the church in Laodicea, he criticized their lukewarm faith directly, saying he would rather they were fully cold or fully hot, and warned that their self-satisfied wealth masked a spiritual poverty they couldn't see; he urged them to seek real riches from him, and famously said, “Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him.”",
+      "moral": "Honest self-examination of a community's faithfulness matters, even for churches that look successful from the outside.",
+      "reflection": "Ephesus's letter is a reminder that doing all the right things -- discernment, perseverance, rejecting false teaching -- can still miss the heart of the matter if love itself has quietly faded underneath the activity. Laodicea's lukewarmness is especially striking because their self-assessment (rich, in need of nothing) is exactly backward from Christ's assessment of their actual spiritual condition. Christ's image of himself patiently knocking at a closed door, waiting to be let back in, describes a persistent, gentle invitation rather than a forced takeover -- the choice to open the door still belongs to the church itself.",
+      "sort_order": 145,
+      "verse_refs": [
+        {
+          "book_id": "rev",
+          "chapter_start": 2,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 7
+        },
+        {
+          "book_id": "rev",
+          "chapter_start": 3,
+          "verse_start": 14,
+          "chapter_end": 3,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "id": "the-new-heaven-and-new-earth",
+      "title": "The New Heaven and New Earth",
+      "testament": "nt",
+      "book_group": "revelation",
+      "story_type": "narrative",
+      "summary": "John saw a vision of a new heaven and a new earth, with the old order of things passed away, and the sea, once a symbol of chaos, gone entirely. A voice from the throne declared that God would now dwell directly with his people, wiping away every tear, ending death, mourning, crying, and pain forever, and proclaiming, “Behold, I am making all things new.” John also saw a crystal-clear river of life flowing from God's throne, lined by the tree of life bearing fruit every month, its leaves for the healing of the nations -- a place with no more curse, no more night, where God's own light would illuminate everything, and his people would reign forever.",
+      "moral": "Hope in God's final restoration of everything holds even the deepest griefs of this life within a promised ending.",
+      "reflection": "This vision doesn't describe an escape from the world into some separate spiritual realm -- it describes heaven and earth coming together, God's dwelling moving to be directly with people, exactly where they already are. The list of what will end -- tears, death, mourning, pain -- names the actual griefs this life is full of, refusing to pretend they don't matter while still promising they won't have the final word. The tree of life, appearing again for the first time since Eden, closes the whole of Scripture's story with a garden restored, its leaves now healing rather than forbidden, exactly the ending the opening chapters of Genesis first pointed toward.",
+      "sort_order": 146,
+      "verse_refs": [
+        {
+          "book_id": "rev",
+          "chapter_start": 21,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 8
+        },
+        {
+          "book_id": "rev",
+          "chapter_start": 22,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 5
         }
       ]
     }
