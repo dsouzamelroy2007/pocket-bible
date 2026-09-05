@@ -1,5 +1,5 @@
 {
-  "_note": "Stories tab (Phase 6). 111 of 146 authored -- all 5 OT batches plus Infancy, Ministry & Miracles, and Parables complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
+  "_note": "Stories tab (Phase 6). 120 of 146 authored -- all 5 OT batches plus Infancy, Ministry & Miracles, Parables, and Teachings & Encounters complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
   "stories": [
     {
       "id": "creation-of-the-world",
@@ -2379,6 +2379,193 @@
           "verse_start": 6,
           "chapter_end": 13,
           "verse_end": 9
+        }
+      ]
+    },
+    {
+      "id": "the-beatitudes-sermon-on-the-mount",
+      "title": "The Beatitudes / Sermon on the Mount",
+      "testament": "nt",
+      "book_group": "teachings_encounters",
+      "story_type": "narrative",
+      "summary": "Seeing the crowds gathered around him, Jesus went up a mountain, sat down, and began to teach his disciples what has become known as the Beatitudes -- a series of blessings pronounced on people the world doesn't usually consider blessed: the poor in spirit, those who mourn, the gentle, those hungering for righteousness, the merciful, the pure in heart, the peacemakers, and those persecuted for doing right. He told them to rejoice even when persecuted for his sake, since their reward in heaven would be great, just as it had been for the prophets before them.",
+      "moral": "Blessedness is found in humility, mercy, and need -- not status or comfort.",
+      "reflection": "Every single blessing Jesus names here turns ordinary expectations upside down -- the world rewards strength, confidence, and comfort, while Jesus blesses poverty of spirit, mourning, and hunger. These aren't instructions for earning blessing so much as a description of who already has it, even when it doesn't look like blessing from the outside. Jesus opens his most famous teaching not with commands but with comfort, naming exactly the people who most need to hear that they are not forgotten by God.",
+      "sort_order": 112,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 5,
+          "verse_end": 12
+        }
+      ]
+    },
+    {
+      "id": "the-woman-at-the-well",
+      "title": "The Woman at the Well",
+      "testament": "nt",
+      "book_group": "teachings_encounters",
+      "story_type": "narrative",
+      "summary": "Tired from traveling, Jesus sat at a well in Samaria and asked a Samaritan woman for a drink, surprising her since Jews and Samaritans avoided each other. Jesus told her that if she knew who was asking, she would have requested “living water” that would satisfy her thirst forever, and when she asked for it, he revealed he knew about her complicated past -- five husbands and a current partner she wasn't married to -- without condemning her for it. She recognized him as a prophet and raised a long-debated question about the right place to worship, and Jesus told her that true worship would soon be about spirit and truth rather than location; when she mentioned the coming Messiah, Jesus told her plainly, “I am he.” She left her water jar and ran to tell her whole town, and many Samaritans came to believe in Jesus because of her testimony.",
+      "moral": "Being fully known and still offered living water changes everything about how someone sees themselves.",
+      "reflection": "Jesus crosses several social boundaries at once in this conversation -- talking to a woman alone, a Samaritan, someone with a reputation -- none of which stop him from engaging her seriously as a real theological conversation partner. He doesn't shy away from naming her actual situation honestly, yet there's no condemnation in how he does it, only recognition. This woman becomes one of the first evangelists in John's Gospel, her whole town changed because someone who knew everything about her still chose to talk with her.",
+      "sort_order": 113,
+      "verse_refs": [
+        {
+          "book_id": "jn",
+          "chapter_start": 4,
+          "verse_start": 5,
+          "chapter_end": 4,
+          "verse_end": 26
+        },
+        {
+          "book_id": "jn",
+          "chapter_start": 4,
+          "verse_start": 39,
+          "chapter_end": 4,
+          "verse_end": 42
+        }
+      ]
+    },
+    {
+      "id": "the-woman-caught-in-adultery",
+      "title": "The Woman Caught in Adultery",
+      "testament": "nt",
+      "book_group": "teachings_encounters",
+      "story_type": "narrative",
+      "summary": "Scribes and Pharisees brought a woman caught in adultery to Jesus while he was teaching in the temple, reminding him that the law of Moses commanded such women be stoned, and testing him to see what he would say. Jesus said nothing at first, simply writing on the ground, and when they kept pressing him, he stood up and said, “He who is without sin among you, let him throw the first stone at her.” One by one, starting with the oldest, the accusers left until only Jesus and the woman remained. Jesus asked her if anyone had condemned her, and when she said no one had, he told her, “Neither do I condemn you. Go your way. From now on, sin no more.”",
+      "moral": "Mercy that neither condemns nor excuses can hold both truth and compassion together.",
+      "reflection": "The accusers' trap is designed to force Jesus into a corner -- side with mercy and violate the law, or side with the law and lose his reputation for compassion -- yet his answer exposes their own hypocrisy instead of choosing between the two options they offered. Jesus is the only person present actually without sin, and he's the one who chooses not to throw a stone, while everyone who does have sin quietly walks away unable to. His final words to the woman refuse to minimize what she did, but they also refuse to let that failure define the rest of her life -- forgiveness and a real call to change, held together.",
+      "sort_order": 114,
+      "verse_refs": [
+        {
+          "book_id": "jn",
+          "chapter_start": 8,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "id": "zacchaeus",
+      "title": "Zacchaeus",
+      "testament": "nt",
+      "book_group": "teachings_encounters",
+      "story_type": "narrative",
+      "summary": "Zacchaeus, a wealthy chief tax collector in Jericho, was too short to see Jesus over the crowd, so he climbed a sycamore tree to get a better view. Jesus stopped beneath the tree, looked up, and told Zacchaeus he intended to stay at his house that day, and Zacchaeus came down joyfully to welcome him, even as the crowd grumbled that Jesus was lodging with a known sinner. Overwhelmed, Zacchaeus announced he would give half his possessions to the poor and repay anyone he had cheated four times over, and Jesus declared that salvation had come to his house, since he too was a son of Abraham, and that the Son of Man had come to seek and save the lost.",
+      "moral": "Genuine encounter transforms greed into generosity.",
+      "reflection": "Zacchaeus doesn't wait for Jesus to demand anything from him before offering restitution -- his transformation happens simply from being seen and welcomed by Jesus, before a single word of correction is spoken. Jesus' choice to invite himself specifically to the house of a man the whole crowd despised is exactly the kind of scandal that characterized his ministry, seeking out the very people considered beyond reach. This story ends with Jesus naming his entire mission plainly: to seek and save what was lost, with Zacchaeus as living proof of exactly that.",
+      "sort_order": 115,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 19,
+          "verse_start": 1,
+          "chapter_end": 19,
+          "verse_end": 10
+        }
+      ]
+    },
+    {
+      "id": "mary-and-martha",
+      "title": "Mary and Martha",
+      "testament": "nt",
+      "book_group": "teachings_encounters",
+      "story_type": "narrative",
+      "summary": "As Jesus visited the home of two sisters, Martha and Mary, Martha busied herself with the many preparations needed to host him properly, while Mary simply sat at Jesus' feet, listening to what he was teaching. Frustrated, Martha complained to Jesus that her sister had left her to do all the work alone and asked him to tell Mary to help. Jesus gently told Martha that she was anxious and troubled about too many things, but only one thing was truly necessary, and Mary had chosen that better part, which would not be taken away from her.",
+      "moral": "Choosing attentive presence over anxious busyness is worth defending, even against a reasonable complaint.",
+      "reflection": "Martha's complaint is entirely understandable -- hospitality genuinely took real work, and Mary's choice to sit and listen instead of help must have looked, on the surface, like leaving her sister to do everything alone. Jesus doesn't dismiss Martha's service as worthless, but he does gently correct her priorities, naming what actually matters most in that moment: attention to him, not the flurry of preparations around him. This short exchange has become a touchstone for the tension between busy activity and simply being present -- Jesus doesn't ask Martha to stop serving forever, just to notice what she's missing by never stopping.",
+      "sort_order": 116,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 10,
+          "verse_start": 38,
+          "chapter_end": 10,
+          "verse_end": 42
+        }
+      ]
+    },
+    {
+      "id": "the-widows-mite",
+      "title": "The Widow's Mite",
+      "testament": "nt",
+      "book_group": "teachings_encounters",
+      "story_type": "narrative",
+      "summary": "Watching people put money into the temple treasury, Jesus observed wealthy people giving large sums, and then a poor widow who put in two small copper coins, worth almost nothing. Jesus called his disciples over and told them that this poor widow had given more than all the wealthy donors combined, since they gave only out of their surplus, but she, in her poverty, had given everything she had to live on.",
+      "moral": "Generosity measured by sacrifice, not by amount, is what God actually notices.",
+      "reflection": "The widow's gift is almost invisible next to the large sums the wealthy are dropping into the treasury, yet Jesus is watching closely enough to notice exactly what it cost her compared to everyone else. Her two small coins represent everything she has, while the rich are giving only what they'll never miss -- the same act of giving, but a completely different level of trust behind it. Jesus doesn't tell his disciples to stop the wealthy from giving large amounts; he simply redirects their attention toward a kind of sacrifice that's easy to overlook entirely.",
+      "sort_order": 117,
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter_start": 12,
+          "verse_start": 41,
+          "chapter_end": 12,
+          "verse_end": 44
+        }
+      ]
+    },
+    {
+      "id": "jesus-blesses-the-children",
+      "title": "Jesus Blesses the Children",
+      "testament": "nt",
+      "book_group": "teachings_encounters",
+      "story_type": "narrative",
+      "summary": "People began bringing children to Jesus so he could lay his hands on them and pray for them, but his disciples tried to turn them away, thinking Jesus had more important things to do. Jesus told them not to stop the children from coming to him, since the Kingdom of Heaven belongs to people like them. He laid his hands on the children and then went on his way.",
+      "moral": "Childlike trust models entry into the Kingdom better than status or achievement.",
+      "reflection": "The disciples' instinct to protect Jesus' time from what they see as an unimportant interruption reveals how easy it is to misjudge who actually deserves attention. Jesus' response reverses their assumption completely -- children, with nothing to offer and no status to leverage, are exactly the kind of people the Kingdom belongs to. This small moment says something larger about how Jesus consistently redirects attention toward whoever the world considers least significant.",
+      "sort_order": 118,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 19,
+          "verse_start": 13,
+          "chapter_end": 19,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "id": "peters-confession",
+      "title": "Peter's Confession",
+      "testament": "nt",
+      "book_group": "teachings_encounters",
+      "story_type": "narrative",
+      "summary": "Jesus asked his disciples what people were saying about who he was, and they reported various guesses -- John the Baptist, Elijah, Jeremiah, or one of the prophets. When Jesus asked them directly who they believed he was, Peter answered, “You are the Christ, the Son of the living God.” Jesus told Peter this truth hadn't come from human insight but had been revealed to him by the Father, and declared that on this rock he would build his church, giving Peter the keys of the Kingdom of Heaven with authority to bind and loose. He then instructed the disciples not to tell anyone yet that he was the Christ.",
+      "moral": "Recognizing who Jesus really is comes by revelation, and it comes with real responsibility.",
+      "reflection": "Peter's answer stands out precisely because it goes beyond what the crowds were guessing -- not just another prophet, but the Christ, the Son of the living God, a confession Jesus says came directly from the Father rather than from Peter's own reasoning. The authority Jesus gives Peter here, the keys of the Kingdom, is significant, yet it's granted to someone who will shortly afterward misunderstand what that same Christ's mission actually requires. This moment of clear insight doesn't mean Peter now has everything figured out -- it's a foundation to build on, not a finish line already reached.",
+      "sort_order": 119,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 16,
+          "verse_start": 13,
+          "chapter_end": 16,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "id": "the-rich-young-man",
+      "title": "The Rich Young Man",
+      "testament": "nt",
+      "book_group": "teachings_encounters",
+      "story_type": "narrative",
+      "summary": "A man approached Jesus asking what good thing he needed to do to gain eternal life, and Jesus pointed him to the commandments -- no murder, no adultery, no stealing, honoring parents, loving neighbor. The man said he had kept all of these since his youth and asked what he still lacked. Jesus told him that if he wanted to be perfect, he should sell everything he owned, give it to the poor, and follow him, promising treasure in heaven instead -- but the man went away sad, because he had great wealth he wasn't willing to give up.",
+      "moral": "What we're unwilling to release reveals what we truly trust.",
+      "reflection": "This man's question is sincere, and his life genuinely does reflect real moral effort -- he isn't a hypocrite asking a trick question, he actually wants to know what's missing. Jesus' answer targets the one thing standing between this man and complete trust in God: his wealth, which had quietly become something he relied on more than he realized. His sad departure isn't the end of the story told to condemn him -- it's an honest, unresolved moment that leaves the real cost of following Jesus fully visible, without pretending it's easy.",
+      "sort_order": 120,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 19,
+          "verse_start": 16,
+          "chapter_end": 19,
+          "verse_end": 22
         }
       ]
     }
