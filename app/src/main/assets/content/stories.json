@@ -1,5 +1,5 @@
 {
-  "_note": "Stories tab (Phase 6). 133 of 146 authored -- all 5 OT batches plus Infancy, Ministry & Miracles, Parables, Teachings & Encounters, and Passion & Resurrection complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
+  "_note": "Stories tab (Phase 6). 143 of 146 authored -- all 5 OT batches plus all NT batches except Revelation complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
   "stories": [
     {
       "id": "creation-of-the-world",
@@ -2826,6 +2826,227 @@
           "verse_start": 1,
           "chapter_end": 1,
           "verse_end": 11
+        }
+      ]
+    },
+    {
+      "id": "pentecost",
+      "title": "Pentecost",
+      "testament": "nt",
+      "book_group": "acts",
+      "story_type": "miracle",
+      "summary": "Fifty days after Jesus' resurrection, the disciples were gathered together when a sound like a rushing wind filled the house, and what looked like tongues of fire rested on each of them, filling them with the Holy Spirit and enabling them to speak in other languages. Jews from many different nations, visiting Jerusalem for the feast, heard the disciples speaking and were amazed to hear their own native languages being spoken, wondering what this could mean, while others mocked them as simply drunk.",
+      "moral": "The Spirit unites across every language and barrier, making the same news understood by everyone at once.",
+      "reflection": "Pentecost reverses the confusion of Babel, where languages once divided people -- here the same Spirit lets each listener hear God's works in their own tongue rather than requiring everyone to speak a single language. The wide range of nations represented shows this is meant from the very start to be a message reaching the whole world, not just one people or place. The mixed response, amazement from some and mockery from others, is a pattern that recurs throughout the rest of the early church's story whenever the Spirit works visibly.",
+      "sort_order": 134,
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter_start": 2,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "id": "peter-heals-the-lame-man",
+      "title": "Peter Heals the Lame Man",
+      "testament": "nt",
+      "book_group": "acts",
+      "story_type": "miracle",
+      "summary": "As Peter and John went to the temple to pray, a man who had been lame since birth, begging daily at the temple gate, asked them for money. Peter told him he had no silver or gold to give, but what he did have, he gave: healing in the name of Jesus Christ. He took the man's hand, raised him up, and immediately the man's feet and ankles were strengthened, and he stood, walked, and leaped into the temple, praising God, astonishing everyone who recognized him as the beggar who used to sit there.",
+      "moral": "Giving what you actually have, not what's expected, can accomplish far more than what was asked for.",
+      "reflection": "The man asks for money, expecting the same small kindness he'd received from others countless times, but Peter offers something entirely different and far more valuable than what was requested. Peter is careful to credit the healing to Jesus' name rather than his own power, making clear from the start that this authority isn't his own to claim. The man's response, leaping and praising God rather than quietly walking away healed, shows a joy too large to contain quietly.",
+      "sort_order": 135,
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 10
+        }
+      ]
+    },
+    {
+      "id": "ananias-and-sapphira",
+      "title": "Ananias and Sapphira",
+      "testament": "nt",
+      "book_group": "acts",
+      "story_type": "narrative",
+      "summary": "A married couple, Ananias and Sapphira, sold a piece of property and, while claiming to give the whole amount to the apostles for the community's use, secretly kept back part of the money for themselves. Peter confronted Ananias, telling him he had lied not to people but to the Holy Spirit, and Ananias immediately fell down and died. Several hours later, his wife Sapphira came in unaware of what had happened, and when Peter asked her about the sale price, she repeated the same lie, and she too fell down dead. Great fear spread through the whole early church community after these events.",
+      "moral": "The danger of deception before God and community is treated with utmost seriousness.",
+      "reflection": "Nothing required Ananias and Sapphira to give any particular amount at all -- Peter points out that the property, and the money from it, was entirely theirs to keep or give as they chose. Their real sin wasn't keeping some of the money, but pretending publicly to have given everything while privately holding back -- deception dressed up as generosity. This unusually severe judgment, early in the church's story, seems meant to establish just how seriously integrity and honesty before God were taken in this new community.",
+      "sort_order": 136,
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 5,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "id": "stephen-the-first-martyr",
+      "title": "Stephen the First Martyr",
+      "testament": "nt",
+      "book_group": "acts",
+      "story_type": "narrative",
+      "summary": "Stephen, full of the Holy Spirit and known for performing signs among the people, was opposed by members of a synagogue who couldn't out-argue his wisdom, so they secretly arranged false witnesses to accuse him of blasphemy against Moses and God, dragging him before the religious council. As he stood accused, his face appeared to those watching like the face of an angel. When the council heard his defense, they were enraged, but Stephen, filled with the Spirit, looked up and declared he saw heaven opened and Jesus standing at God's right hand. Furious, the crowd dragged him outside the city and stoned him, while a young man named Saul watched and approved, and Stephen died praying, “Lord Jesus, receive my spirit,” and “Lord, don't hold this sin against them.”",
+      "moral": "Forgiving persecutors even while dying for the truth mirrors the very mercy Christ himself showed.",
+      "reflection": "Stephen's vision of Jesus standing, rather than seated, at God's right hand is a small but striking detail -- as though Christ himself is rising to receive the church's first martyr. His final prayer echoes Jesus' own words from the cross almost exactly, asking forgiveness for the very people killing him, a remarkable continuation of the same grace he had just been preaching about. Saul, who stands by approving of Stephen's death here, will later become Paul, one of the greatest witnesses to the very faith he's currently trying to destroy -- a seed planted at the worst possible moment that God would later bring to an unexpected harvest.",
+      "sort_order": 137,
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter_start": 6,
+          "verse_start": 8,
+          "chapter_end": 6,
+          "verse_end": 15
+        },
+        {
+          "book_id": "acts",
+          "chapter_start": 7,
+          "verse_start": 54,
+          "chapter_end": 7,
+          "verse_end": 60
+        }
+      ]
+    },
+    {
+      "id": "philip-and-the-ethiopian-eunuch",
+      "title": "Philip and the Ethiopian Eunuch",
+      "testament": "nt",
+      "book_group": "acts",
+      "story_type": "narrative",
+      "summary": "An angel directed Philip to a desert road, where he encountered an Ethiopian official, in charge of the queen's treasury, riding in his chariot and reading from the prophet Isaiah. When Philip asked if he understood what he was reading, the man admitted he needed someone to explain it, and invited Philip to join him. Starting from the passage about a suffering servant led like a lamb to slaughter, Philip explained how it pointed to Jesus. When they came across water, the eunuch asked to be baptized right there, and after Philip baptized him, the Spirit suddenly took Philip away, and the eunuch continued on his journey rejoicing.",
+      "moral": "Meeting a sincere seeker exactly where they are, in the middle of an ordinary desert road, can lead to real transformation.",
+      "reflection": "The eunuch's honest question, “how can I understand unless someone explains it to me?”, models exactly the kind of humility that makes real learning possible -- he doesn't pretend to already understand what he's reading. Philip's willingness to run after a stranger's chariot on a desert road, based only on the Spirit's prompting, shows how much this encounter depended on being ready to act on a nudge that made no obvious sense at the time. The eunuch's joy afterward, continuing his journey without Philip even present anymore, suggests that what happened to him was real and lasting, not dependent on Philip staying to guide him further.",
+      "sort_order": 138,
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter_start": 8,
+          "verse_start": 26,
+          "chapter_end": 8,
+          "verse_end": 40
+        }
+      ]
+    },
+    {
+      "id": "the-conversion-of-saul-paul",
+      "title": "The Conversion of Saul/Paul",
+      "testament": "nt",
+      "book_group": "acts",
+      "story_type": "miracle",
+      "summary": "Saul, a fierce persecutor of Jesus' followers, was traveling to Damascus with authority to arrest Christians there when a blinding light from heaven suddenly surrounded him, and he fell to the ground, hearing a voice ask, “Saul, Saul, why do you persecute me?” The voice identified itself as Jesus, and told Saul to go into the city to await further instructions; blinded by the light, Saul had to be led into Damascus by hand, and he neither ate nor drank for three days. Meanwhile, God told a disciple named Ananias in a vision to go heal Saul, and though Ananias was understandably afraid given Saul's reputation, he obeyed, laid hands on Saul, and Saul's sight was restored as something like scales fell from his eyes. Saul was baptized and immediately began his transformation from persecutor to follower of the very faith he had tried to destroy.",
+      "moral": "Radical transformation is possible for anyone, no matter how far from God they seem to be.",
+      "reflection": "Saul is on his way to actively harm Christians when this encounter happens -- nothing in the story suggests he was already softening or looking for a change of heart. Ananias's fear and hesitation are entirely understandable given Saul's reputation, yet his obedience despite that fear is what makes Saul's healing and transformation possible. This conversion becomes the origin story of the man who would go on to write much of the New Testament and carry the gospel across the ancient world -- proof that no one is considered too far gone for God to reach.",
+      "sort_order": 139,
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 9,
+          "verse_end": 19
+        }
+      ]
+    },
+    {
+      "id": "peters-vision-and-cornelius",
+      "title": "Peter's Vision & Cornelius",
+      "testament": "nt",
+      "book_group": "acts",
+      "story_type": "narrative",
+      "summary": "While praying on a rooftop, Peter fell into a trance and saw a sheet lowered from heaven filled with all kinds of animals, and a voice told him to kill and eat, though Peter protested he had never eaten anything ritually unclean. The voice told him three times, “What God has cleansed, you must not call unclean.” Soon after, Peter went to the house of Cornelius, a Roman centurion who feared God, and preached to him and his household about Jesus' death and resurrection. While Peter was still speaking, the Holy Spirit fell on everyone listening, Gentiles included, and the Jewish believers with Peter were amazed that the Spirit had been given to Gentiles too -- so Peter had them all baptized.",
+      "moral": "God shows no partiality between peoples, and neither should the church that follows him.",
+      "reflection": "Peter's vision directly challenges his own long-held convictions about what was clean and unclean, requiring three repetitions before the point could really sink in. The dietary vision turns out to be about something much larger than food -- it's preparing Peter to accept that God's welcome extends fully to Gentiles, not just to Israel. The Holy Spirit falling on Cornelius's household before Peter even finishes his sermon settles the theological question decisively: God had already made his decision plain before the church had fully caught up to it.",
+      "sort_order": 140,
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter_start": 10,
+          "verse_start": 9,
+          "chapter_end": 10,
+          "verse_end": 16
+        },
+        {
+          "book_id": "acts",
+          "chapter_start": 10,
+          "verse_start": 34,
+          "chapter_end": 10,
+          "verse_end": 48
+        }
+      ]
+    },
+    {
+      "id": "peter-freed-from-prison",
+      "title": "Peter Freed from Prison",
+      "testament": "nt",
+      "book_group": "acts",
+      "story_type": "miracle",
+      "summary": "King Herod had James executed and, seeing this pleased the Jewish leaders, arrested Peter too, guarding him closely with plans to bring him to trial after Passover. While the church prayed constantly for him, an angel appeared in Peter's cell at night, woke him, and his chains fell off; Peter, thinking he was dreaming, followed the angel past the guards and through an iron gate that opened by itself. Once outside and alone, Peter realized it was real and went to a house where believers were praying, but when a servant girl named Rhoda recognized his voice at the door, she was so excited she forgot to let him in, and the praying group didn't believe her at first, insisting it must be his angel. When they finally opened the door and saw Peter, they were amazed.",
+      "moral": "Prayer and God's intervention can accomplish what looks entirely impossible.",
+      "reflection": "The church is praying earnestly for Peter's release the whole time this rescue is happening, yet when the actual answer to their prayer knocks on the door, they don't believe it at first -- a very human gap between praying for something and truly expecting it to happen. Peter's own confusion, thinking he's dreaming through most of the escape, shows how disorienting a genuine miracle can feel even to the person it's happening to. This story pairs real, sustained prayer with a real, dramatic answer, without pretending either the praying or the believing was easy.",
+      "sort_order": 141,
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "id": "paul-and-silas-in-prison",
+      "title": "Paul and Silas in Prison",
+      "testament": "nt",
+      "book_group": "acts",
+      "story_type": "miracle",
+      "summary": "In Philippi, a slave girl with a spirit that made her a fortune-teller kept following Paul and his companions, and when Paul, annoyed, cast the spirit out of her, her owners, losing their source of income, had Paul and Silas beaten and thrown into prison. At midnight, instead of despairing, Paul and Silas were praying and singing hymns, and suddenly a violent earthquake shook the prison, opening all the doors and loosening everyone's chains. The jailer, waking and assuming the prisoners had escaped, was about to kill himself, but Paul called out that they were all still there. Shaken, the jailer asked what he must do to be saved, and after Paul and Silas told him to believe in Jesus, he and his whole household were baptized that very night.",
+      "moral": "Praise in suffering can free others, not just yourself.",
+      "reflection": "Paul and Silas's choice to sing hymns rather than despair, in the middle of the night in a prison cell after a brutal beating, is itself remarkable -- worship offered before any rescue is even visible. Paul's decision to stop the jailer from suicide, rather than simply escaping while he had the chance, shows a concern for his captor's life that goes far beyond self-interest. The jailer's dramatic conversion, his whole household baptized the same night, shows how completely this one act of restraint and honesty transformed someone whose job had been to keep Paul locked away.",
+      "sort_order": 142,
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter_start": 16,
+          "verse_start": 16,
+          "chapter_end": 16,
+          "verse_end": 34
+        }
+      ]
+    },
+    {
+      "id": "pauls-shipwreck",
+      "title": "Paul's Shipwreck",
+      "testament": "nt",
+      "book_group": "acts",
+      "story_type": "narrative",
+      "summary": "While being transported to Rome as a prisoner, Paul's ship was caught in a violent storm that raged for many days, forcing the crew to throw cargo and equipment overboard as all hope of survival faded. Paul stood up and told the desperate crew that an angel had assured him no lives would be lost, though the ship itself would be wrecked, and urged them to take courage. As dawn came near land, the ship ran aground and began to break apart in the waves; soldiers wanted to kill the prisoners to prevent escape, but the centurion, wanting to spare Paul, stopped them, and everyone made it safely to shore, some swimming and others floating on debris.",
+      "moral": "Steady faith and leadership through a genuine crisis can carry others safely through it too.",
+      "reflection": "Paul doesn't claim to have avoided the storm or its real danger -- the ship is genuinely lost, and everyone faces real terror for days -- yet his confidence rests entirely on a specific promise received directly from God rather than on the situation actually looking better. His leadership in this crisis has nothing to do with formal authority; he's a prisoner, yet his composure and clear direction become what the whole crew relies on to get through it. The centurion's decision to spare all the prisoners specifically to protect Paul shows how much trust this one man had earned through the crisis, even from those guarding him.",
+      "sort_order": 143,
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter_start": 27,
+          "verse_start": 13,
+          "chapter_end": 27,
+          "verse_end": 26
+        },
+        {
+          "book_id": "acts",
+          "chapter_start": 27,
+          "verse_start": 39,
+          "chapter_end": 27,
+          "verse_end": 44
         }
       ]
     }
