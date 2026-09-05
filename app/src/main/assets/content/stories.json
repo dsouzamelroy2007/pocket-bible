@@ -1,4 +1,627 @@
 {
-  "_note": "Stories tab. Infra-only for now (Phase 6A) -- 0 of the planned 146-story master list authored yet (see .github/ABOUT.md Phase 6). Each entry once authored: id, title, testament (\"ot\"/\"nt\"), book_group (pentateuch/historical/wisdom/prophets/deuterocanonical/infancy/ministry_miracles/parables/teachings_encounters/passion_resurrection/acts/revelation), story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links to existing character ids, capped at 10 per character, authored in Phase 6C).",
-  "stories": []
+  "_note": "Stories tab (Phase 6). 29 of 146 authored -- Pentateuch batch complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
+  "stories": [
+    {
+      "id": "creation-of-the-world",
+      "title": "Creation of the World",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "In the beginning, God created everything -- light and darkness, sky and sea, land and every green and living thing -- by simply speaking each part into existence. Six days he shaped a world full of goodness: light separated from dark, water gathered into seas, land bursting with plants, sun and moon set to mark the seasons, birds and fish and every kind of creature, and finally, man and woman, made in God's own image and given care over all the rest. When the work was finished, God looked over everything he had made and saw that it was very good. On the seventh day, God rested, and made that day of rest holy.",
+      "moral": "The world and everyone in it was made on purpose, by a God who called it good.",
+      "reflection": "Genesis doesn't explain how creation happened -- it insists on why: everything exists because God wanted it to, and delighted in what he made. Being made “in God's image” means every person carries a kind of dignity nothing else in creation does, worth remembering on days that don't feel very good at all. And God's rest on the seventh day is itself a gift -- a rhythm of work and rest built into creation from the very start, not something added on later as an afterthought.",
+      "sort_order": 1,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 3
+        }
+      ]
+    },
+    {
+      "id": "adam-and-eve-the-fall",
+      "title": "Adam and Eve / The Fall",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "God placed the first man in a garden in Eden, giving him every tree to eat from except one -- the tree of the knowledge of good and evil, which would bring death the day he ate it. Seeing that the man needed a companion, God formed the first woman from his own side, and the two lived together without shame. A serpent, craftier than any other creature, convinced the woman that eating the forbidden fruit would make her wise like God rather than bring death, and she ate, then gave some to her husband, and he ate too. Their eyes were opened -- not to wisdom, but to shame -- and they hid from God, who found them, confronted them, and pronounced consequences: pain, struggle, and death entered the world, and the two were sent out of the garden, though God still clothed them with his own hands before they left.",
+      "moral": "One small act of disobedience, choosing to trust a lie over God's word, changed everything.",
+      "reflection": "The first sin wasn't really about fruit -- it was about trusting a promise other than God's own word. What's easy to miss is that even in judgment, God is still caring for Adam and Eve: he makes them clothing himself, and even his curse on the serpent carries the first hint of a rescue still to come, “he will bruise your head.” Shame made Adam and Eve hide from God, but God came looking for them anyway -- a pattern that runs through the rest of the Bible.",
+      "sort_order": 2,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 2,
+          "verse_start": 4,
+          "chapter_end": 3,
+          "verse_end": 24
+        }
+      ]
+    },
+    {
+      "id": "cain-and-abel",
+      "title": "Cain and Abel",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "Adam and Eve's first two sons, Cain and Abel, each brought an offering to God -- Abel gave the best of his flock, and Cain gave from his crops. God accepted Abel's offering but not Cain's, and Cain grew furious, even though God warned him that sin was crouching at his door and could be mastered. Instead, Cain lured his brother into a field and killed him. When God asked where Abel was, Cain lied, asking, “Am I my brother's keeper?” God knew the truth already -- Abel's blood was crying out from the ground -- and cursed Cain to wander the earth, though he also placed a protective mark on him so that no one would kill him in return.",
+      "moral": "Unchecked jealousy can grow into something far worse than the original hurt.",
+      "reflection": "God's warning to Cain is almost tender: sin is real and close, but it doesn't have to win -- “you are to rule over it.” Cain's tragedy is that he heard the warning and chose the anger anyway. Even after the murder, God's justice comes with mercy attached -- Cain is punished, but also protected, a reminder that God's response to sin is rarely only punishment.",
+      "sort_order": 3,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 16
+        }
+      ]
+    },
+    {
+      "id": "noahs-ark-and-the-flood",
+      "title": "Noah's Ark and the Flood",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "miracle",
+      "summary": "When the earth had grown thoroughly corrupt and violent, God decided to send a flood, but he found one righteous man, Noah, and told him to build a massive ship for his family and two of every kind of animal. Noah obeyed every detail God gave him, and when the ship was ready, the floodwaters came and covered the whole earth, destroying everything else that breathed. After the water finally began to recede, Noah sent out a raven and then a dove to test whether the land was dry, and when the dove returned with a fresh olive leaf, he knew life could begin again. Noah, his family, and all the animals left the ship, and God made a covenant never to destroy the earth by flood again, setting a rainbow in the sky as the sign of that promise.",
+      "moral": "Faithful obedience, even to strange instructions, can be exactly what saves a life.",
+      "reflection": "Building a giant boat on dry land, for a flood no one had ever seen, must have looked absurd to everyone watching Noah work -- yet Scripture says simply that he did all that God commanded him. The flood story ends not with more judgment but with a promise: the rainbow is God binding himself to mercy, a sign meant for God to remember as much as for people to see. Even after starting over, the story admits people are still capable of evil -- but God's covenant holds anyway.",
+      "sort_order": 4,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 6,
+          "verse_start": 9,
+          "chapter_end": 9,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "id": "tower-of-babel",
+      "title": "Tower of Babel",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "After the flood, humanity settled together in one place and, speaking a single language, decided to build a great city and a tower reaching to the heavens, hoping to make a name for themselves and avoid being scattered across the earth. God came down to look at what they were building, and, seeing that their unity was being used to defy him rather than honor him, confused their language so they could no longer understand one another. Unable to keep working together, the people abandoned the tower and scattered across the face of the earth, and the place was named Babel, because there God confused their language.",
+      "moral": "Pride that reaches for God's place, rather than trusting him, ends up scattering what it tried to hold together.",
+      "reflection": "The builders at Babel wanted security and a legacy on their own terms -- “let's make a name for ourselves” -- rather than trusting the name and blessing God had already promised to give. It's a short story with a long echo: unity isn't automatically good if what it's aimed at is self-glory rather than God. The scattering that follows isn't the end of the story either -- God's later call to Abraham begins the work of gathering the nations back together, this time through blessing instead of pride.",
+      "sort_order": 5,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 11,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 9
+        }
+      ]
+    },
+    {
+      "id": "call-of-abram",
+      "title": "Call of Abram",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "God told Abram to leave his country, his relatives, and his father's house for a land God would show him, promising to make him into a great nation, bless him, and make him a blessing to every family on earth. Abram, seventy-five years old, obeyed without knowing exactly where he was going, taking his wife Sarai, his nephew Lot, and all their household with him into the land of Canaan. When he arrived, God appeared to him again and promised the land to his offspring, and Abram built altars and called on the LORD's name at each place he stopped.",
+      "moral": "Real faith often means moving before you can see the whole path.",
+      "reflection": "Abram's obedience is remarkable mostly for what it doesn't include: no argument, no demand for more details, just leaving. The promise God makes here -- that all the families of the earth will be blessed through Abram -- is easy to read past quickly, but it's the seed of everything that follows in Scripture, all the way to Christ. Abram's habit of building an altar everywhere he stopped is worth noticing too: he marked each step of an uncertain journey with worship, not just movement.",
+      "sort_order": 6,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 9
+        }
+      ]
+    },
+    {
+      "id": "abraham-and-lot-separate",
+      "title": "Abraham and Lot Separate",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "Abram and his nephew Lot had grown so wealthy in livestock that the land couldn't support both households together, and strife broke out between their herdsmen. Rather than fight for the better land, Abram gave Lot first choice, and Lot chose the lush, well-watered plain of the Jordan near Sodom, while Abram stayed in Canaan. After Lot left, God reaffirmed his promise to Abram, telling him to look in every direction, since all the land he could see would belong to his offspring forever.",
+      "moral": "Choosing peace over personal advantage doesn't cost you what God has promised.",
+      "reflection": "Abram had every right, as the elder relative, to choose the better land first -- instead he let Lot choose, trusting God's promise more than his own claim to the best portion. Lot's choice, made purely by what looked good to the eye, quietly sets up trouble to come, since he ends up living near Sodom. Abram's generosity here isn't naive; it's confidence that God's blessing doesn't depend on grabbing the best deal for himself.",
+      "sort_order": 7,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "id": "sodom-and-gomorrah",
+      "title": "Sodom and Gomorrah",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "When God revealed that he was about to judge Sodom and Gomorrah for their great wickedness, Abraham boldly interceded, asking God to spare the cities if even a small number of righteous people could be found there -- and God agreed, all the way down to just ten. Two angels arrived in Sodom and were taken in by Lot, but that night the men of the city surrounded the house demanding to abuse the visitors, and the angels struck them blind and urged Lot to flee with his family before the city's destruction. Lot hesitated, but the angels pulled him, his wife, and his two daughters out of the city, warning them not to look back -- yet as fire and sulfur rained down on Sodom and Gomorrah, Lot's wife looked back and became a pillar of salt.",
+      "moral": "God's mercy searches hard for the righteous, but rescue still requires actually leaving when it's offered.",
+      "reflection": "Abraham's bargaining with God isn't disrespectful -- it's real intercession, and God takes every request seriously, all the way down to ten righteous people. The tragedy is that not even ten could be found. Lot's own hesitation to leave, and his wife's fatal backward glance, are a quiet warning about how hard it is to actually let go of a life, even a dangerous one, once rescue is offered.",
+      "sort_order": 8,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 18,
+          "verse_start": 20,
+          "chapter_end": 19,
+          "verse_end": 29
+        }
+      ]
+    },
+    {
+      "id": "hagar-and-ishmael",
+      "title": "Hagar and Ishmael",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "When Sarai remained childless, she gave her servant Hagar to Abram to bear a son in her place, but once Hagar conceived, tension between the two women grew so sharp that Hagar fled into the wilderness. There, the LORD's angel found her by a spring, told her to return and submit to Sarai, and promised that her son Ishmael would become a great nation. Years later, after Sarah finally had her own son Isaac, she had Hagar and Ishmael sent away for good; alone in the wilderness with the water gone, Hagar wept, believing her son would die -- until God heard the boy crying, opened her eyes to see a well of water, and repeated his promise that Ishmael would become a great nation.",
+      "moral": "God sees and provides for the people everyone else has cast aside.",
+      "reflection": "Hagar is the only person in Genesis who gives God a name -- “a God who sees” -- and it's precisely because she experiences, twice, being seen by God when no one else was looking out for her. Her story sits uncomfortably alongside Abraham and Sarah's, but it insists that God's covenant with one family doesn't mean he's indifferent to everyone outside it. Both times Hagar is at her lowest, in the wilderness with nothing, God meets her there -- not by removing the hardship, but by showing up in the middle of it.",
+      "sort_order": 9,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 16,
+          "verse_end": 16
+        },
+        {
+          "book_id": "gen",
+          "chapter_start": 21,
+          "verse_start": 8,
+          "chapter_end": 21,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "id": "the-binding-of-isaac",
+      "title": "The Binding of Isaac",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "God tested Abraham by telling him to sacrifice his beloved son Isaac as a burnt offering on a mountain in Moriah. Abraham obeyed without protest, and as he raised the knife over his bound son, an angel called out to stop him, saying that his willingness to obey, even in this, had proven his fear of God. Abraham looked up and saw a ram caught in a nearby thicket, and offered it instead of Isaac, naming the place “The LORD Will Provide.” God then renewed his covenant promise to Abraham in the strongest terms yet, swearing by himself to bless Abraham's offspring beyond counting.",
+      "moral": "Trusting God with what you love most, even when it makes no sense, is met with his own provision.",
+      "reflection": "This is one of the hardest stories in the whole Bible to sit with, and it should be -- Abraham is asked to trust God with the very promise God himself had made. What Abraham says to Isaac on the way up the mountain, “God will provide,” turns out to be exactly true, not as a comforting cliché but as the literal outcome. Christians have long seen in this story a shadow of what God himself would one day do -- providing his own beloved Son, not stopped at the last moment, on that same region's hills.",
+      "sort_order": 10,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 22,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 19
+        }
+      ]
+    },
+    {
+      "id": "isaac-and-rebekah",
+      "title": "Isaac and Rebekah",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "Abraham, old and wanting a wife for his son Isaac from his own relatives rather than the Canaanites, sent his trusted servant back to his homeland with a plan: he would ask God to identify the right woman by having her offer water not just to him but to all his camels. Rebekah did exactly that at the well, and when the servant learned she was from Abraham's own family, he knew God had answered his prayer. Rebekah's family agreed to let her go, and she chose to leave immediately; when she arrived and saw Isaac in the field, she covered herself with her veil and became his wife, and Isaac loved her and was comforted after his mother Sarah's death.",
+      "moral": "A small, specific act of kindness turned out to be the very sign God was using to answer a prayer.",
+      "reflection": "The servant's prayer is remarkably concrete -- not just “send the right woman” but a specific, almost testable sign -- and God answers it before the servant even finishes praying. Rebekah's generosity at the well (offering to water ten thirsty camels, no small task) reveals exactly the kind of character the servant was praying for, without her knowing she was being watched at all. And Rebekah's own courage -- choosing, on short notice, to leave everything familiar for a man and a family she'd never met -- echoes Abraham's own willingness to go where God led, generations earlier.",
+      "sort_order": 11,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 24,
+          "verse_start": 1,
+          "chapter_end": 24,
+          "verse_end": 67
+        }
+      ]
+    },
+    {
+      "id": "jacob-and-esau-birthright-and-blessing",
+      "title": "Jacob and Esau: Birthright and Blessing",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "Esau, exhausted and hungry from hunting, sold his birthright -- his rights as the firstborn son -- to his twin brother Jacob for a bowl of stew, showing how little he valued it. Years later, when their father Isaac was old and nearly blind, Jacob's mother Rebekah helped him disguise himself as Esau, using goat skins and his brother's clothes, so that Isaac would give him the blessing meant for the firstborn. Isaac, deceived, blessed Jacob with prosperity and authority over his brothers, and when Esau returned and discovered the trick, he begged for a blessing of his own and wept bitterly, but Isaac's blessing on Jacob could not be undone.",
+      "moral": "What's traded away carelessly and what's taken by deceit both carry consequences that outlast the moment.",
+      "reflection": "Esau's own contempt for his birthright -- trading his future for a single meal -- makes his later grief over the stolen blessing land differently: he had already shown he didn't value what mattered most. Jacob's deception, though, isn't celebrated either; it costs him his relationship with his brother and sends him fleeing for his life soon after. The story doesn't pretend either brother comes out looking good -- it simply shows how God's larger promise moves forward even through a family this deeply broken.",
+      "sort_order": 12,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 25,
+          "verse_start": 19,
+          "chapter_end": 25,
+          "verse_end": 34
+        },
+        {
+          "book_id": "gen",
+          "chapter_start": 27,
+          "verse_start": 1,
+          "chapter_end": 27,
+          "verse_end": 40
+        }
+      ]
+    },
+    {
+      "id": "jacobs-ladder",
+      "title": "Jacob's Ladder",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "Fleeing his brother Esau's anger, Jacob stopped for the night in a lonely place, using a stone for a pillow. He dreamed of a stairway reaching from earth to heaven, with angels going up and down it, and the LORD standing above it, renewing to Jacob the same promise he had made to Abraham and Isaac -- land, descendants, and blessing for every family on earth -- along with a personal promise to be with Jacob wherever he went. Jacob woke up amazed, realizing God had been present in that ordinary, unmarked place all along, and set up the stone as a pillar, naming the place Bethel, “house of God.”",
+      "moral": "God can be present in the loneliest, most unexpected place, even when we don't realize it.",
+      "reflection": "Jacob is running from the consequences of his own deception when this happens -- hardly someone who's earned a vision from heaven -- yet God meets him anyway, with a promise, not a punishment. “Surely the LORD is in this place, and I didn't know it” could be said honestly about a lot more places than Jacob's stony campsite. The image of a ladder connecting heaven and earth becomes, much later, a picture Jesus applies to himself -- the real connection between God and humanity.",
+      "sort_order": 13,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 28,
+          "verse_start": 10,
+          "chapter_end": 28,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "id": "jacob-wrestles-the-angel",
+      "title": "Jacob Wrestles the Angel",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "On his way back to face the brother he had wronged years earlier, Jacob spent a night alone and found himself wrestling with a mysterious man until daybreak. Unable to win, the man touched Jacob's hip and wrenched it, yet Jacob still refused to let go without receiving a blessing. The man renamed him Israel, saying he had “struggled with God and with men, and have prevailed,” and Jacob limped away from the encounter changed, calling the place Peniel because he had seen God face to face and survived.",
+      "moral": "Some of life's hardest struggles leave a lasting mark, but also a new name and a real blessing.",
+      "reflection": "Jacob's whole life to this point has been marked by grasping -- for a birthright, a blessing, a fortune -- and here, fittingly, his last and hardest grasp is for a blessing he refuses to release even while injured. The limp he carries afterward is a permanent reminder of the encounter, proof that being changed by God isn't always painless. His new name, Israel, becomes the name of an entire nation -- this deeply personal, nighttime wrestling match turns out to matter far beyond just Jacob himself.",
+      "sort_order": 14,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 32,
+          "verse_start": 22,
+          "chapter_end": 32,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "id": "josephs-coat-and-betrayal",
+      "title": "Joseph's Coat and Betrayal",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "Jacob openly favored his son Joseph over his other sons, giving him a special, colorful coat, and Joseph's dreams of his family bowing down to him only deepened his brothers' hatred. When their father sent Joseph to check on his brothers as they tended the flocks, the brothers saw their chance and plotted to kill him, though Reuben convinced them to throw him into an empty pit instead. When a caravan of traders passed by, Judah suggested selling Joseph rather than leaving him to die, and the brothers sold him into slavery for twenty pieces of silver, then dipped his coat in goat's blood and told their father a wild animal had killed him -- leaving Jacob to grieve inconsolably for the son he believed was dead.",
+      "moral": "Favoritism and envy, left to fester in a family, can lead to devastating betrayal.",
+      "reflection": "Nothing in this chapter looks like it's headed anywhere good -- a father's favoritism, a boy's tactless dreams, brothers plotting murder -- yet this is the very beginning of the story that will eventually save the whole family from famine. Judah's suggestion to sell rather than kill Joseph is the first small mercy in an otherwise ugly scene, though he's still complicit in the betrayal. Jacob's grief here is genuine and raw -- a reminder that the consequences of this family's dysfunction fall hardest on someone who didn't even know what really happened.",
+      "sort_order": 15,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 37,
+          "verse_start": 1,
+          "chapter_end": 37,
+          "verse_end": 36
+        }
+      ]
+    },
+    {
+      "id": "joseph-and-potiphars-wife",
+      "title": "Joseph and Potiphar's Wife",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "Sold into Egypt, Joseph rose to become the trusted manager of his master Potiphar's entire household, prospering in everything because the LORD was with him. Potiphar's wife repeatedly tried to seduce him, but Joseph consistently refused, telling her he could not betray his master's trust or sin against God. One day, when she grabbed his garment and he fled, leaving it behind, she used it as false evidence to accuse him of assault, and Joseph was thrown into prison -- yet even there, the LORD remained with him, and he quickly earned the trust of the prison keeper.",
+      "moral": "Integrity can cost everything in the moment, and still not be the end of the story.",
+      "reflection": "Joseph's refusal isn't just about loyalty to Potiphar -- his real reason is “how can I sin against God,” the deepest motive Scripture gives him. Doing the right thing here doesn't protect him at all; it lands him in prison on a false charge, which is a hard truth worth sitting with rather than rushing past. What carries Joseph through isn't a guarantee that things will go well, but the repeated note that “the LORD was with him” -- in the house, and just as much in the prison.",
+      "sort_order": 16,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 39,
+          "verse_start": 1,
+          "chapter_end": 39,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "id": "joseph-interprets-dreams",
+      "title": "Joseph Interprets Dreams",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "While in prison, Joseph accurately interpreted troubling dreams for two of Pharaoh's officials, telling the cupbearer he would be restored to his position and the baker that he would be executed -- both of which came true exactly as Joseph said, though the cupbearer forgot to mention Joseph to Pharaoh as promised. Two years later, when Pharaoh himself had two disturbing dreams that none of his wise men could interpret, the cupbearer finally remembered Joseph, and Joseph was brought out of prison to stand before Pharaoh. Joseph explained that both dreams meant the same thing -- seven years of great abundance in Egypt followed by seven years of severe famine -- and advised Pharaoh to appoint someone wise to store up grain during the good years to prepare for the famine to come.",
+      "moral": "Gifts used faithfully in obscurity are eventually seen, even if the recognition takes longer than expected.",
+      "reflection": "Joseph gives credit for his interpretations to God immediately -- “don't interpretations belong to God?” -- rather than claiming the skill as his own. The two extra years he spends forgotten in prison after correctly helping the cupbearer must have been discouraging, but Joseph doesn't seem to have stopped being faithful in the meantime. When his moment finally comes, it's not just insight but wisdom for action -- seeing the famine coming is only half the value; knowing what to actually do about it is what saves the nation.",
+      "sort_order": 17,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 40,
+          "verse_start": 1,
+          "chapter_end": 40,
+          "verse_end": 23
+        },
+        {
+          "book_id": "gen",
+          "chapter_start": 41,
+          "verse_start": 1,
+          "chapter_end": 41,
+          "verse_end": 36
+        }
+      ]
+    },
+    {
+      "id": "joseph-reconciles-with-his-brothers",
+      "title": "Joseph Reconciles with His Brothers",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "Years later, famine drove Joseph's brothers to Egypt to buy grain, and they bowed before the powerful governor who sold it to them -- not recognizing that he was Joseph, the brother they had sold into slavery. Joseph recognized them immediately but tested them, speaking harshly and pretending to be a stranger. Eventually, overcome with emotion, Joseph could no longer hold back and revealed his identity, weeping as he told his terrified brothers not to be angry with themselves -- because God had sent him ahead of them to preserve their family's life through the famine. He urged them to bring their father to Egypt quickly, and embraced his brothers, weeping, as they finally began to talk with him again.",
+      "moral": "Forgiveness can turn what was meant for harm into something that saves the very people who caused it.",
+      "reflection": "Joseph's tears here are the real climax of his whole story -- years of suffering, patience, and rising to power all lead to this moment of reconciliation rather than revenge. His interpretation of everything that happened to him is striking: not “you meant evil, but I've decided to forgive it,” but “God sent me before you” -- he sees God's hand at work even in his brothers' worst betrayal. This is forgiveness that doesn't minimize the wrong done, but sees a bigger purpose that the wrong itself couldn't stop.",
+      "sort_order": 18,
+      "verse_refs": [
+        {
+          "book_id": "gen",
+          "chapter_start": 42,
+          "verse_start": 1,
+          "chapter_end": 42,
+          "verse_end": 8
+        },
+        {
+          "book_id": "gen",
+          "chapter_start": 45,
+          "verse_start": 1,
+          "chapter_end": 45,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "id": "moses-in-the-basket",
+      "title": "Moses in the Basket",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "When Pharaoh ordered every Hebrew baby boy thrown into the Nile, a Levite mother hid her newborn son for three months, then set him afloat in a waterproofed basket among the reeds of the river. Pharaoh's own daughter found the basket while bathing, recognized the baby as a Hebrew child, and had compassion on him. The baby's sister, watching from a distance, offered to find a Hebrew nurse -- and arranged for the baby's own mother to nurse him, with Pharaoh's daughter paying her to do it. When the boy grew older, Pharaoh's daughter adopted him as her own son and named him Moses, “because I drew him out of the water.”",
+      "moral": "God can rescue the vulnerable through the very people who seem most likely to be a threat.",
+      "reflection": "The irony of this story is sharp: the man Pharaoh will one day beg to leave Egypt is raised, safely and at Pharaoh's own expense, inside Pharaoh's own household. Moses' mother and sister take real risks throughout this story, but so does Pharaoh's daughter, defying her father's own decree out of simple compassion for a crying baby. God's rescue plan for an entire enslaved people begins with a handful of women -- a mother, a sister, a princess -- quietly refusing to let one child die.",
+      "sort_order": 19,
+      "verse_refs": [
+        {
+          "book_id": "ex",
+          "chapter_start": 2,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 10
+        }
+      ]
+    },
+    {
+      "id": "the-burning-bush",
+      "title": "The Burning Bush",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "miracle",
+      "summary": "While tending his father-in-law's flock in the wilderness, Moses noticed a bush that was burning but never being consumed by the fire, and turned aside to look closer. God called to him from within the bush, told him to remove his sandals because the ground was holy, and identified himself as the God of Abraham, Isaac, and Jacob. God said he had seen his people's suffering in Egypt and was sending Moses to lead them out -- and when Moses asked what he should tell the people if they asked God's name, God answered, “I AM WHO I AM,” a name that would be remembered forever.",
+      "moral": "God notices real suffering and sends ordinary, often reluctant people to answer it.",
+      "reflection": "Moses' first instinct on hearing this enormous calling is a question, “Who am I, that I should go?” -- and God's answer isn't a resume of Moses' qualifications, but a simple promise: “I will be with you.” The name God gives, “I AM,” isn't really a name in the usual sense at all -- it's a declaration that God simply is, dependably and eternally, which is exactly the kind of God a people about to be led out of slavery would need to trust. This ordinary bush, burning without being destroyed, becomes the place where an enslaved nation's rescue actually begins.",
+      "sort_order": 20,
+      "verse_refs": [
+        {
+          "book_id": "ex",
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "id": "the-ten-plagues-and-passover",
+      "title": "The Ten Plagues & Passover",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "miracle",
+      "summary": "As the tenth and final plague approached -- the death of every firstborn in Egypt -- God gave Moses and Aaron detailed instructions for the first Passover: each household was to take a lamb, kill it, and mark their doorposts with its blood, so that when the LORD passed through the land that night, he would pass over any house marked with the blood. That night, the plague struck every Egyptian household, but not a single Israelite home was touched, and Pharaoh, broken by the loss, finally ordered the Israelites to leave Egypt immediately. The people left in such haste that their bread had no time to rise, and after four hundred thirty years in Egypt, the whole nation -- six hundred thousand men, plus women, children, and livestock -- walked out free that very night.",
+      "moral": "God's people were spared not by their own strength, but by trusting the sign God provided.",
+      "reflection": "The blood on the doorposts didn't do anything magical on its own -- it was the sign of a people trusting God's specific instruction rather than any strength of their own. This night becomes the defining memory of Israel's whole existence, still kept as a feast “throughout your generations” -- a nation built, from its very first night of freedom, on remembering how it was rescued. Later, Christians would come to see in the Passover lamb a picture of Jesus himself, whose blood likewise marks out those who belong to him.",
+      "sort_order": 21,
+      "verse_refs": [
+        {
+          "book_id": "ex",
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 14
+        },
+        {
+          "book_id": "ex",
+          "chapter_start": 12,
+          "verse_start": 29,
+          "chapter_end": 12,
+          "verse_end": 42
+        }
+      ]
+    },
+    {
+      "id": "crossing-the-red-sea",
+      "title": "Crossing the Red Sea",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "miracle",
+      "summary": "With Pharaoh's army bearing down on them and the sea blocking their escape, the terrified Israelites cried out, accusing Moses of leading them out of Egypt only to die in the wilderness. Moses told them to stand still and watch God fight for them, then stretched his hand over the sea at God's command, and a strong wind divided the waters into two walls, leaving dry ground for the people to cross. As the Egyptian army pursued them into the sea, God threw their chariots into confusion, and when Moses stretched his hand out again, the waters rushed back and swallowed the entire Egyptian army, while every Israelite made it safely across.",
+      "moral": "What looks like a dead end can become the very place God shows his salvation.",
+      "reflection": "The Israelites' fear here is completely understandable -- trapped between an army and a sea, their complaint that it would have been better to stay enslaved isn't unreasonable on the surface. Moses' instruction, “stand still, and see the salvation of the LORD,” asks for a trust that has nothing to do with their own strength or strategy. This crossing becomes the defining rescue story of the entire Old Testament, referenced again and again as proof that God delivers his people even when escape looks impossible.",
+      "sort_order": 22,
+      "verse_refs": [
+        {
+          "book_id": "ex",
+          "chapter_start": 14,
+          "verse_start": 10,
+          "chapter_end": 14,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "id": "manna-and-quail",
+      "title": "Manna and Quail",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "miracle",
+      "summary": "Once in the wilderness, the Israelites grumbled against Moses and Aaron, longing for the food they remembered from Egypt and accusing their leaders of bringing them out just to starve. God responded not with punishment but with provision: quail covering the camp in the evening, and a strange, flaky substance like frost on the ground each morning, which the people gathered and ate, calling it manna, “What is it?” Moses explained it was the bread God had given them to eat, and instructed each family to gather only as much as they needed for that day, which was exactly enough no matter how much or little each person collected.",
+      "moral": "God provides daily, even for people who complain rather than trust.",
+      "reflection": "It's striking that God answers the people's grumbling with generosity rather than rebuke -- the manna arrives before anyone repents. The instruction to gather only a day's portion is itself a kind of daily trust exercise, training a newly freed people out of the hoarding instincts of slavery and into relying on God one day at a time. Centuries later, Jesus would teach his own disciples to pray for “daily bread,” echoing this same wilderness lesson.",
+      "sort_order": 23,
+      "verse_refs": [
+        {
+          "book_id": "ex",
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 16,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "id": "the-ten-commandments",
+      "title": "The Ten Commandments",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "At Mount Sinai, God spoke directly to the Israelites, giving them ten commandments to shape their life as his people: to have no other gods, to make no idols, to not misuse God's name, to keep the Sabbath holy, to honor their parents, and to not murder, commit adultery, steal, lie, or covet what belongs to a neighbor. Before laying out any of the specific rules, God reminded the people who he was and what he had already done for them -- the God who had brought them out of slavery in Egypt.",
+      "moral": "God's law begins with relationship and rescue, not just rules.",
+      "reflection": "It's easy to read the Ten Commandments as a list of restrictions, but they open with a reminder of grace already given: “I am the LORD your God, who brought you out of the land of Egypt.” The commandments aren't the price of that rescue -- they're a description of how a rescued people can live well together and stay close to the God who saved them. Jesus later summarized this whole law in two commands, love of God and love of neighbor -- which is really just naming what these ten were shaped around all along.",
+      "sort_order": 24,
+      "verse_refs": [
+        {
+          "book_id": "ex",
+          "chapter_start": 20,
+          "verse_start": 1,
+          "chapter_end": 20,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "id": "the-golden-calf",
+      "title": "The Golden Calf",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "While Moses was up on the mountain receiving God's law, the impatient Israelites convinced Aaron to make them a golden calf to worship, declaring it the god who had brought them out of Egypt. God told Moses what was happening and threatened to destroy the whole rebellious people, but Moses interceded, reminding God of his promises to Abraham, Isaac, and Israel, and God relented. When Moses came down and saw the idol and the people's wild celebration, he angrily smashed the stone tablets of the law, destroyed the calf, and confronted Aaron, who blamed the people rather than taking responsibility himself.",
+      "moral": "Impatience with God's timing can lead a whole people into worshiping something God never asked for.",
+      "reflection": "The calf appears almost the moment Moses is out of sight -- proof of how quickly trust can slip when God feels distant or delayed. Moses' intercession for the people, even after their blatant betrayal, is remarkable: he pleads for them based on God's own past promises, not on anything they deserve. Aaron's excuse, that the calf simply “came out” of the fire on its own, is a small, almost comic moment of a leader refusing to own what he actually did -- a very human failure inside an otherwise dramatic story.",
+      "sort_order": 25,
+      "verse_refs": [
+        {
+          "book_id": "ex",
+          "chapter_start": 32,
+          "verse_start": 1,
+          "chapter_end": 32,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "id": "aarons-rod-buds",
+      "title": "Aaron's Rod Buds",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "miracle",
+      "summary": "After ongoing grumbling and challenges to Moses and Aaron's leadership, God had each of Israel's twelve tribal leaders place a wooden staff before the covenant in the Tent of Meeting, with Aaron's name on the staff representing the tribe of Levi. God said the staff belonging to the man he had chosen would sprout, and the next morning, Aaron's staff alone had budded, blossomed, and produced ripe almonds -- while all the other eleven remained ordinary dry wood. God had Aaron's staff kept permanently before the covenant as a lasting sign to stop the people's complaints against his chosen leadership.",
+      "moral": "God can settle a dispute in a way no argument ever could, with a sign that speaks for itself.",
+      "reflection": "A dry stick producing blossoms and ripe almonds overnight is exactly the kind of unmistakable sign the people needed after repeatedly doubting Aaron's God-given role. What's easy to miss is how gentle this sign is compared to some of Israel's other rebellions -- no fire, no plague, just new life appearing where there was only dead wood. The rod is kept afterward not as a trophy, but as a lasting reminder, since the people's tendency to grumble and challenge leadership clearly wasn't a one-time problem.",
+      "sort_order": 26,
+      "verse_refs": [
+        {
+          "book_id": "num",
+          "chapter_start": 17,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "id": "the-bronze-serpent",
+      "title": "The Bronze Serpent",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "miracle",
+      "summary": "Discouraged by the long journey through the wilderness, the Israelites again complained against God and Moses, and God sent venomous snakes among them as judgment, and many people died from their bites. The people quickly repented and asked Moses to pray for the snakes to be taken away, and God gave Moses an unusual solution: make a bronze snake and put it on a pole, so that anyone who was bitten could look at it and live. Moses did exactly that, and everyone who looked at the bronze serpent after being bitten survived.",
+      "moral": "Looking to the remedy God actually provides, however strange it seems, is what brings healing.",
+      "reflection": "God doesn't remove the snakes -- he provides a way through the consequences of the people's own sin, and the cure is deliberately strange: staring at a bronze image of the very thing that was killing them. All it required from a dying person was to actually look, not to earn healing through some elaborate ritual. Centuries later, Jesus directly compared his own crucifixion to this bronze serpent lifted up, saying that whoever looks to him in faith will have eternal life instead of death.",
+      "sort_order": 27,
+      "verse_refs": [
+        {
+          "book_id": "num",
+          "chapter_start": 21,
+          "verse_start": 4,
+          "chapter_end": 21,
+          "verse_end": 9
+        }
+      ]
+    },
+    {
+      "id": "balaam-and-the-donkey",
+      "title": "Balaam and the Donkey",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "miracle",
+      "summary": "Balaam, a prophet hired to curse Israel, set out on his donkey with God's uneasy permission, but God's anger was kindled at his going, and an angel with a drawn sword stood in the road to block him -- invisible to Balaam but plainly seen by the donkey. Three times the donkey balked, veering off the road, crushing Balaam's foot against a wall, and finally lying down entirely, and three times Balaam angrily struck the animal for it. Then God opened the donkey's mouth, and it asked Balaam why he kept beating an animal that had faithfully carried him his whole life; only then did God open Balaam's own eyes, and he saw the angel and realized his donkey had just saved his life by refusing to go forward.",
+      "moral": "Sometimes the ones we're quickest to blame can see what we've missed entirely.",
+      "reflection": "It's a strange, almost comic scene -- a prophet hired for his spiritual insight is the last one in the story to see what's actually happening, while his donkey sees clearly from the start. Balaam's frustration with the animal mirrors a very human pattern: getting angry at an obstacle before considering that the obstacle might be protecting us from something worse. The angel's own words to Balaam make the point directly -- if the donkey hadn't turned aside, Balaam himself would have been the one killed.",
+      "sort_order": 28,
+      "verse_refs": [
+        {
+          "book_id": "num",
+          "chapter_start": 22,
+          "verse_start": 21,
+          "chapter_end": 22,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "id": "the-twelve-spies",
+      "title": "The Twelve Spies",
+      "testament": "ot",
+      "book_group": "pentateuch",
+      "story_type": "narrative",
+      "summary": "Moses sent twelve men, one from each tribe, to scout the land of Canaan before Israel's planned conquest, and after forty days they returned with samples of the land's fruit, confirming it was rich and fertile just as promised. But ten of the twelve spies focused on the strength of the land's inhabitants and the size of its fortified cities, spreading fear through the whole camp, while only Caleb and Joshua urged the people to trust God and go up and take the land. The people, terrified by the majority report, wept through the night, talked of choosing a new leader to take them back to Egypt, and even threatened to stone Joshua and Caleb for encouraging them to go forward.",
+      "moral": "Fear of the unknown can override even a promise already proven true.",
+      "reflection": "Every spy saw the same land and the same evidence -- good fruit, strong cities, tall inhabitants -- but ten of them let fear write the conclusion while two let faith write it. Caleb and Joshua don't deny the danger; they simply trust that the God who had already brought them out of Egypt and through the Red Sea was capable of finishing what he started. The people's response, threatening to stone the two who told the truth in faith, shows how far fear can push a crowd once it takes hold -- a caution that runs through the rest of this generation's story in the wilderness.",
+      "sort_order": 29,
+      "verse_refs": [
+        {
+          "book_id": "num",
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 33
+        },
+        {
+          "book_id": "num",
+          "chapter_start": 14,
+          "verse_start": 1,
+          "chapter_end": 14,
+          "verse_end": 10
+        }
+      ]
+    }
+  ]
 }
