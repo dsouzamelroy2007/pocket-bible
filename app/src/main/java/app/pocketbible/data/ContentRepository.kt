@@ -94,4 +94,16 @@ class ContentRepository(private val dao: ContentDao) {
         verseEnd: Int,
         translationId: String
     ): List<ScriptureVerse> = dao.versesForRange(bookId, chapterStart, verseStart, chapterEnd, verseEnd, translationId)
+
+    // ---------- Stories ----------
+
+    fun stories(language: String): Flow<List<StorySummary>> = dao.stories(language)
+
+    suspend fun verseRefsForStory(storyId: String): List<StoryVerseRef> = dao.verseRefsForStory(storyId)
+
+    suspend fun charactersForStory(storyId: String, language: String): List<CharacterSummary> =
+        dao.charactersForStory(storyId, language)
+
+    suspend fun storiesForCharacter(characterId: String, language: String): List<StorySummary> =
+        dao.storiesForCharacter(characterId, language)
 }

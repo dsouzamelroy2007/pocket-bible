@@ -14,6 +14,7 @@ import app.pocketbible.data.Feeling
 import app.pocketbible.data.Passage
 import app.pocketbible.data.PassageWithRole
 import app.pocketbible.data.ScriptureVerse
+import app.pocketbible.data.StorySummary
 import app.pocketbible.data.Translation
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -44,6 +45,16 @@ data class ResolvedReading(
     val role: String,
     val citationDisplay: String,
     val text: String
+)
+
+/** A story's citation paired with the real verse text, resolved for the current translation -- same shape as [CharacterVerseDisplay], but spans a chapter range (a story's reference can cross more than one chapter, e.g. "Genesis 1-2") rather than one chapter. */
+data class StoryVerseDisplay(
+    val bookId: String,
+    val chapterStart: Int,
+    val verseStart: Int,
+    val chapterEnd: Int,
+    val verseEnd: Int,
+    val verses: List<ScriptureVerse>
 )
 
 private val READING_ROLE_ORDER = listOf("first_reading", "psalm", "second_reading", "gospel")
@@ -112,6 +123,20 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
     private val _characterVerses = MutableStateFlow<List<CharacterVerseDisplay>>(emptyList())
     val characterVerses: StateFlow<List<CharacterVerseDisplay>> = _characterVerses.asStateFlow()
+
+    // ---------- Stories ----------
+
+    private val _stories = MutableStateFlow<List<StorySummary>>(emptyList())
+    val stories: StateFlow<List<StorySummary>> = _stories.asStateFlow()
+
+    private val _selectedStory = MutableStateFlow<StorySummary?>(null)
+    val selectedStory: StateFlow<StorySummary?> = _selectedStory.asStateFlow()
+
+    private val _storyVerses = MutableStateFlow<List<StoryVerseDisplay>>(emptyList())
+    val storyVerses: StateFlow<List<StoryVerseDisplay>> = _storyVerses.asStateFlow()
+
+    private val _storyCharacters = MutableStateFlow<List<CharacterSummary>>(emptyList())
+    val storyCharacters: StateFlow<List<CharacterSummary>> = _storyCharacters.asStateFlow()
 
     // ---------- Verse of the day ----------
 
@@ -236,6 +261,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
             val includeDeuterocanon = repo.translationIncludesDeuterocanon(language)
             repo.characters(language, includeDeuterocanon).collect { _characters.value = it }
         }
+        viewModelScope.launch { repo.stories(language).collect { _stories.value = it } }
         _selectedFeeling.value?.let { feeling ->
             viewModelScope.launch {
                 _feelingEntries.value = withResolvedPassageText(repo.entriesForFeeling(feeling.id, language))
@@ -429,6 +455,31 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
                     verses = verses
                 )
             }
+        }
+    }
+
+    /** Loads [story]'s verse citations (resolving real text for each range from the current translation) and its curated related characters. */
+    fun selectStory(story: StorySummary) {
+        _selectedStory.value = story
+        _storyVerses.value = emptyList()
+        _storyCharacters.value = emptyList()
+        viewModelScope.launch {
+            val translationId = currentTranslationId()
+            val refs = repo.verseRefsForStory(story.id)
+            _storyVerses.value = refs.map { ref ->
+                val verses = repo.versesForRange(
+                    ref.bookId, ref.chapterStart, ref.verseStart, ref.chapterEnd, ref.verseEnd, translationId
+                )
+                StoryVerseDisplay(
+                    bookId = ref.bookId,
+                    chapterStart = ref.chapterStart,
+                    verseStart = ref.verseStart,
+                    chapterEnd = ref.chapterEnd,
+                    verseEnd = ref.verseEnd,
+                    verses = verses
+                )
+            }
+            _storyCharacters.value = repo.charactersForStory(story.id, currentLanguage())
         }
     }
 

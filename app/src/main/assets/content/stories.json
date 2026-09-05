@@ -1,0 +1,4 @@
+{
+  "_note": "Stories tab. Infra-only for now (Phase 6A) -- 0 of the planned 146-story master list authored yet (see .github/ABOUT.md Phase 6). Each entry once authored: id, title, testament (\"ot\"/\"nt\"), book_group (pentateuch/historical/wisdom/prophets/deuterocanonical/infancy/ministry_miracles/parables/teachings_encounters/passion_resurrection/acts/revelation), story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links to existing character ids, capped at 10 per character, authored in Phase 6C).",
+  "stories": []
+}

@@ -260,6 +260,83 @@ data class CharacterVerseRefTranslation(
     val caption: String
 )
 
+/**
+ * A Bible story or parable, browsable in the Stories tab -- see
+ * .github/ABOUT.md Phase 6 for the full 146-story master list.
+ * `summary`/`moral`/`reflection` are original devotional-style prose (like
+ * `BibleCharacter.intro`), not scripture text. `bookGroup` (e.g.
+ * "pentateuch", "parables") and `storyType` ("narrative"/"parable"/
+ * "miracle") drive the tab's filter chips.
+ */
+@Entity(tableName = "story")
+data class Story(
+    @PrimaryKey val id: String,
+    val title: String,
+    val testament: String,
+    @ColumnInfo(name = "book_group") val bookGroup: String,
+    @ColumnInfo(name = "story_type") val storyType: String,
+    val summary: String,
+    val moral: String,
+    val reflection: String,
+    @ColumnInfo(name = "sort_order") val sortOrder: Int
+)
+
+/**
+ * A citation of real, already-imported scripture text for a story --
+ * book/chapter-range/verse-range, not the verse text itself, resolved live
+ * from `scripture_verse` the same way `ReadingCitation` and
+ * `CharacterVerseRef` already are. Unlike `CharacterVerseRef` (one chapter
+ * per row), a story's reference can span multiple chapters (e.g. "Genesis
+ * 1-2"), so this uses the same chapter_start/chapter_end shape as
+ * `ReadingCitation`.
+ */
+@Entity(
+    tableName = "story_verse_ref",
+    indices = [Index("story_id")]
+)
+data class StoryVerseRef(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    @ColumnInfo(name = "story_id") val storyId: String,
+    @ColumnInfo(name = "book_id") val bookId: String,
+    @ColumnInfo(name = "chapter_start") val chapterStart: Int,
+    @ColumnInfo(name = "verse_start") val verseStart: Int,
+    @ColumnInfo(name = "chapter_end") val chapterEnd: Int,
+    @ColumnInfo(name = "verse_end") val verseEnd: Int,
+    val position: Int
+)
+
+/** Translated title/summary/moral/reflection for one story, in one UI language. Same fallback-to-English pattern as [CharacterTranslation]. */
+@Entity(
+    tableName = "story_translation",
+    primaryKeys = ["story_id", "language"]
+)
+data class StoryTranslation(
+    @ColumnInfo(name = "story_id") val storyId: String,
+    val language: String,
+    val title: String,
+    val summary: String,
+    val moral: String,
+    val reflection: String
+)
+
+/**
+ * Links a story to a character who appears in it -- curated (not derived
+ * from every mention) and capped at 10 per character so a high-frequency
+ * figure like Jesus doesn't overwhelm their Characters-tab page. Bare
+ * autoincrement id with no natural-key constraint, same as
+ * `CharacterVerseRef`/`ReadingCitation` -- see `clearStoryCharacterLinks`
+ * for why every reseed clears this first.
+ */
+@Entity(
+    tableName = "story_character_link",
+    indices = [Index("story_id"), Index("character_id")]
+)
+data class StoryCharacterLink(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    @ColumnInfo(name = "story_id") val storyId: String,
+    @ColumnInfo(name = "character_id") val characterId: String
+)
+
 // ---------- Local user state (not shipped, created empty) ----------
 
 @Entity(tableName = "saved_entry")
@@ -378,6 +455,18 @@ data class CharacterSummary(
     @ColumnInfo(name = "sort_order") val sortOrder: Int,
     val reflection: String?,
     val prayer: String?
+)
+
+data class StorySummary(
+    val id: String,
+    val title: String,
+    val testament: String,
+    @ColumnInfo(name = "book_group") val bookGroup: String,
+    @ColumnInfo(name = "story_type") val storyType: String,
+    val summary: String,
+    val moral: String,
+    val reflection: String,
+    @ColumnInfo(name = "sort_order") val sortOrder: Int
 )
 
 // ---------- DAOs ----------
@@ -637,6 +726,57 @@ interface ContentDao {
         verseEnd: Int,
         translationId: String
     ): List<ScriptureVerse>
+
+    // ---------- Stories ----------
+
+    /** [language] selects translated title/summary/moral/reflection the same way [characters] does. */
+    @Query(
+        """
+        SELECT s.id, s.testament, s.book_group, s.story_type, s.sort_order,
+               COALESCE(t.title, s.title) AS title,
+               COALESCE(t.summary, s.summary) AS summary,
+               COALESCE(t.moral, s.moral) AS moral,
+               COALESCE(t.reflection, s.reflection) AS reflection
+        FROM story s
+        LEFT JOIN story_translation t ON t.story_id = s.id AND t.language = :language
+        ORDER BY s.sort_order
+        """
+    )
+    fun stories(language: String): Flow<List<StorySummary>>
+
+    @Query("SELECT * FROM story_verse_ref WHERE story_id = :storyId ORDER BY position")
+    suspend fun verseRefsForStory(storyId: String): List<StoryVerseRef>
+
+    /** Characters linked to this story (curated, capped at 10), for the detail screen's "Related Characters" row. [language] resolves name/intro the same way [characters] does. */
+    @Query(
+        """
+        SELECT c.id, COALESCE(t.name, c.name) AS name, COALESCE(t.intro, c.intro) AS intro,
+               c.category, c.sort_order, c.reflection, c.prayer
+        FROM story_character_link l
+        JOIN character c ON c.id = l.character_id
+        LEFT JOIN character_translation t ON t.character_id = c.id AND t.language = :language
+        WHERE l.story_id = :storyId
+        ORDER BY c.sort_order
+        """
+    )
+    suspend fun charactersForStory(storyId: String, language: String): List<CharacterSummary>
+
+    /** Stories linked to this character -- not surfaced in the UI yet, but ready for a future "Stories about them" section on the Characters tab. */
+    @Query(
+        """
+        SELECT s.id, s.testament, s.book_group, s.story_type, s.sort_order,
+               COALESCE(t.title, s.title) AS title,
+               COALESCE(t.summary, s.summary) AS summary,
+               COALESCE(t.moral, s.moral) AS moral,
+               COALESCE(t.reflection, s.reflection) AS reflection
+        FROM story_character_link l
+        JOIN story s ON s.id = l.story_id
+        LEFT JOIN story_translation t ON t.story_id = s.id AND t.language = :language
+        WHERE l.character_id = :characterId
+        ORDER BY s.sort_order
+        """
+    )
+    suspend fun storiesForCharacter(characterId: String, language: String): List<StorySummary>
 }
 
 /** Bulk inserts used once, on first launch, to hydrate the bundled content. */
@@ -704,6 +844,28 @@ interface SeedDao {
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertReadingCitations(items: List<ReadingCitation>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertStories(items: List<Story>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertStoryTranslations(items: List<StoryTranslation>)
+
+    // StoryVerseRef and StoryCharacterLink key on a bare autoincrement id
+    // with no natural-key constraint, same as CharacterVerseRef/
+    // ReadingCitation -- clear before insert on every reseed so duplicates
+    // never accumulate.
+    @Query("DELETE FROM story_verse_ref")
+    suspend fun clearStoryVerseRefs()
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertStoryVerseRefs(items: List<StoryVerseRef>)
+
+    @Query("DELETE FROM story_character_link")
+    suspend fun clearStoryCharacterLinks()
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertStoryCharacterLinks(items: List<StoryCharacterLink>)
 }
 
 @Database(
@@ -714,9 +876,10 @@ interface SeedDao {
         SavedEntry::class, ViewHistory::class, ScriptureVerse::class,
         BibleCharacter::class, CharacterTranslation::class, CharacterVerseRef::class,
         BibleBookmark::class, CharacterVerseRefTranslation::class, CharacterOfDay::class,
-        DailyReading::class, ReadingCitation::class
+        DailyReading::class, ReadingCitation::class,
+        Story::class, StoryVerseRef::class, StoryTranslation::class, StoryCharacterLink::class
     ],
-    version = 11,
+    version = 12,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {

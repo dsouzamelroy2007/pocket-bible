@@ -7,6 +7,7 @@
     <string name="nav_saved">Saved</string>
     <string name="nav_characters">Personalities</string>
     <string name="nav_daily">Daily Readings &amp; Reflection</string>
+    <string name="nav_stories">Stories</string>
 
     <!-- Language switcher -->
     <string name="language_button">Language</string>
@@ -83,6 +84,35 @@
     <string name="character_category_kingdom">Kingdom Era</string>
     <string name="character_category_prophets">Prophets</string>
     <string name="character_category_post_exile">Post-Exile &amp; Deuterocanon</string>
+
+    <!-- Stories tab -->
+    <string name="story_title">Stories</string>
+    <string name="story_subtitle">Bible stories and parables, retold plainly, with a moral for every age.</string>
+    <string name="story_search_placeholder">Search by title or moral</string>
+    <string name="story_no_matches">No stories match that search.</string>
+    <string name="story_none_yet">Stories are on their way — check back soon.</string>
+    <string name="story_moral_heading">The Moral</string>
+    <string name="story_reflection_heading">For Reflection</string>
+    <string name="story_related_characters_heading">Related Characters</string>
+    <string name="story_testament_all">All</string>
+    <string name="story_testament_ot">Old Testament</string>
+    <string name="story_testament_nt">New Testament</string>
+    <string name="story_type_all">All Types</string>
+    <string name="story_type_narrative">Narrative</string>
+    <string name="story_type_parable">Parable</string>
+    <string name="story_type_miracle">Miracle</string>
+    <string name="story_book_group_pentateuch">Pentateuch</string>
+    <string name="story_book_group_historical">Historical</string>
+    <string name="story_book_group_wisdom">Wisdom</string>
+    <string name="story_book_group_prophets">Prophets</string>
+    <string name="story_book_group_deuterocanonical">Deuterocanonical</string>
+    <string name="story_book_group_infancy">Infancy Narratives</string>
+    <string name="story_book_group_ministry_miracles">Ministry &amp; Miracles</string>
+    <string name="story_book_group_parables">Parables</string>
+    <string name="story_book_group_teachings_encounters">Teachings &amp; Encounters</string>
+    <string name="story_book_group_passion_resurrection">Passion &amp; Resurrection</string>
+    <string name="story_book_group_acts">Acts of the Apostles</string>
+    <string name="story_book_group_revelation">Revelation</string>
 
     <!-- About & Sources -->
     <string name="about_title">About &amp; Sources</string>

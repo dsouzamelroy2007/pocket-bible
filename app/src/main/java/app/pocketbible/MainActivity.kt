@@ -8,10 +8,12 @@ import androidx.appcompat.app.AppCompatDelegate
 import androidx.compose.foundation.layout.padding
 import androidx.core.os.LocaleListCompat
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.AutoStories
 import androidx.compose.material.icons.filled.CalendarToday
 import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.MenuBook
 import androidx.compose.material.icons.filled.People
+import androidx.compose.material.icons.outlined.AutoStories
 import androidx.compose.material.icons.outlined.CalendarToday
 import androidx.compose.material.icons.outlined.FavoriteBorder
 import androidx.compose.material.icons.outlined.MenuBook
@@ -46,6 +48,8 @@ import app.pocketbible.ui.characters.CharactersScreen
 import app.pocketbible.ui.home.HomeScreen
 import app.pocketbible.ui.reading.DailyReadingScreen
 import app.pocketbible.ui.saved.SavedScreen
+import app.pocketbible.ui.stories.StoriesScreen
+import app.pocketbible.ui.stories.StoryDetailScreen
 import app.pocketbible.ui.theme.PocketBibleTheme
 import app.pocketbible.ui.verse.VerseScreen
 import kotlinx.coroutines.launch
@@ -105,6 +109,7 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
     val currentRoute = backStack?.destination?.route
     val bibleRoutes = setOf("bible", "bible_reader")
     val characterRoutes = setOf("characters", "character_detail")
+    val storyRoutes = setOf("stories", "story_detail")
 
     Scaffold(
         bottomBar = {
@@ -152,6 +157,17 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                         )
                     },
                     label = { NavLabel(stringResource(R.string.nav_daily)) }
+                )
+                NavigationBarItem(
+                    selected = currentRoute in storyRoutes,
+                    onClick = { navController.navigate("stories") { launchSingleTop = true } },
+                    icon = {
+                        Icon(
+                            if (currentRoute in storyRoutes) Icons.Filled.AutoStories else Icons.Outlined.AutoStories,
+                            contentDescription = null
+                        )
+                    },
+                    label = { NavLabel(stringResource(R.string.nav_stories)) }
                 )
             }
         }
@@ -235,6 +251,31 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     character = character,
                     verses = verses,
                     onBack = { navController.popBackStack() }
+                )
+            }
+            composable("stories") {
+                val stories by viewModel.stories.collectAsState()
+                StoriesScreen(
+                    stories = stories,
+                    onStorySelected = {
+                        viewModel.selectStory(it)
+                        navController.navigate("story_detail")
+                    }
+                )
+            }
+            composable("story_detail") {
+                val story by viewModel.selectedStory.collectAsState()
+                val verses by viewModel.storyVerses.collectAsState()
+                val relatedCharacters by viewModel.storyCharacters.collectAsState()
+                StoryDetailScreen(
+                    story = story,
+                    verses = verses,
+                    relatedCharacters = relatedCharacters,
+                    onBack = { navController.popBackStack() },
+                    onCharacterSelected = {
+                        viewModel.selectCharacter(it)
+                        navController.navigate("character_detail")
+                    }
                 )
             }
             composable("bible") {
