@@ -1,5 +1,5 @@
 {
-  "_note": "Stories tab (Phase 6). 89 of 146 authored -- all 5 OT batches plus Infancy and Ministry & Miracles complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
+  "_note": "Stories tab (Phase 6). 111 of 146 authored -- all 5 OT batches plus Infancy, Ministry & Miracles, and Parables complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
   "stories": [
     {
       "id": "creation-of-the-world",
@@ -1939,6 +1939,446 @@
           "verse_start": 1,
           "chapter_end": 17,
           "verse_end": 8
+        }
+      ]
+    },
+    {
+      "id": "the-sower",
+      "title": "The Sower",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus told a parable of a farmer scattering seed, some of which fell on a hard path and was eaten by birds, some on rocky ground where it sprang up quickly but withered without roots, some among thorns that choked it, and some on good soil that produced a great harvest -- thirty, sixty, even a hundred times what was sown. He ended by saying, “He who has ears to hear, let him hear.”",
+      "moral": "Receptiveness of the heart shapes what the word can actually grow into.",
+      "reflection": "The sower in this parable doesn't sort the ground before scattering seed -- the same generous sowing happens everywhere, regardless of what kind of soil it lands on. What determines the outcome isn't the seed or the sower but the condition of the ground receiving it, an invitation to examine one's own heart rather than blame the message. Jesus leaves the parable itself unexplained to the crowd, ending simply with a call to actually listen -- proof in itself of which kind of soil is hearing it.",
+      "sort_order": 90,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 9
+        }
+      ]
+    },
+    {
+      "id": "the-mustard-seed",
+      "title": "The Mustard Seed",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus compared the Kingdom of Heaven to a tiny mustard seed, smaller than any other seed a person might plant, that grows into a plant so large it becomes like a tree, big enough for birds to build nests in its branches.",
+      "moral": "Small beginnings can grow into something vast beyond what their size suggested.",
+      "reflection": "A mustard seed's size compared to its eventual growth is genuinely surprising -- nothing about it looks impressive going in. Jesus' choice of image suggests the Kingdom doesn't need to start big or look powerful to eventually become something that shelters many. The detail of birds nesting in its branches echoes Old Testament imagery of great kingdoms sheltering nations under their shade, only here it starts from something almost too small to notice.",
+      "sort_order": 91,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 13,
+          "verse_start": 31,
+          "chapter_end": 13,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "id": "the-weeds-among-the-wheat",
+      "title": "The Weeds Among the Wheat",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus told of a man who sowed good wheat in his field, but an enemy secretly sowed weeds among it while everyone slept. When the weeds appeared alongside the wheat, the servants offered to pull them out, but the owner told them to let both grow together until harvest, so the wheat wouldn't be uprooted along with the weeds -- only then would the weeds be gathered and burned, and the wheat brought safely into the barn.",
+      "moral": "Patience with imperfection until the right time to sort it prevents doing more harm than good.",
+      "reflection": "The servants' instinct to immediately root out the weeds is understandable, but the owner sees a risk they don't -- pulling up weeds too early could destroy the good wheat growing right alongside them. This parable pushes back against the temptation to judge and separate good from bad prematurely, insisting that some sorting only belongs to the harvest, not to anyone in the middle of the growing season. It's a patience that trusts the outcome will eventually be made right, even while good and bad visibly coexist for a while.",
+      "sort_order": 92,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 13,
+          "verse_start": 24,
+          "chapter_end": 13,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "id": "the-hidden-treasure-and-pearl",
+      "title": "The Hidden Treasure & Pearl",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus compared the Kingdom of Heaven to treasure hidden in a field, which a man found and, overjoyed, sold everything he owned to buy that field. He also compared it to a merchant searching for fine pearls, who, upon finding one flawless pearl, sold everything he had to purchase it.",
+      "moral": "Real worth is worth giving up everything else for.",
+      "reflection": "Both men in these twin parables respond the same way to something of surpassing value -- not reluctant sacrifice, but joyful, decisive action to obtain it. Neither treasure was earned through years of searching in the first story; it was simply found, suggesting that recognizing the Kingdom's worth matters more than how one comes across it. The willingness to sell “all that he had” in both cases makes the same point twice: nothing else compares in value to what's actually being offered.",
+      "sort_order": 93,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 13,
+          "verse_start": 44,
+          "chapter_end": 13,
+          "verse_end": 46
+        }
+      ]
+    },
+    {
+      "id": "the-good-samaritan",
+      "title": "The Good Samaritan",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "A lawyer asked Jesus what he needed to do to inherit eternal life, and after affirming that loving God and neighbor was the answer, he pressed Jesus to define who counted as his neighbor. Jesus responded with a story: a man traveling from Jerusalem to Jericho was beaten, robbed, and left half dead, and both a priest and a Levite passed by on the other side without helping him. But a Samaritan -- someone from a group despised by Jews -- stopped, tended his wounds, and paid for his care at an inn, promising to cover any further cost. Jesus asked which of the three had been a neighbor to the injured man, and when the lawyer answered, “the one who showed mercy,” Jesus told him, “Go and do likewise.”",
+      "moral": "Neighbor-love crosses every expected boundary of race, religion, and social status.",
+      "reflection": "The priest and Levite's failure to help isn't explained, but it likely involves religious concerns about ritual purity -- a reminder that rule-keeping can sometimes get in the way of the very compassion the rules were meant to protect. Jesus deliberately makes the hero of the story a Samaritan, someone his Jewish audience would have viewed with real hostility, forcing the lawyer to admit that mercy came from exactly the person he'd least expect. By ending with “go and do likewise” rather than a definition of neighbor, Jesus turns an abstract legal question into a direct, personal command to act.",
+      "sort_order": 94,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 10,
+          "verse_start": 25,
+          "chapter_end": 10,
+          "verse_end": 37
+        }
+      ]
+    },
+    {
+      "id": "the-prodigal-son",
+      "title": "The Prodigal Son",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "A younger son demanded his inheritance early, left home, and squandered it all on reckless living until a famine left him feeding pigs and longing to eat their food. Coming to his senses, he decided to return home and beg to be treated as a hired servant rather than a son -- but while he was still far off, his father saw him, ran to him, and embraced him, restoring him fully with a robe, ring, sandals, and a celebration feast. The older son, who had stayed and worked faithfully the whole time, refused to join the celebration, resentful that his father had never thrown him such a party -- but his father reassured him that everything he had was still his, and that celebrating his brother's return, someone who was dead and is now alive, was simply right.",
+      "moral": "Unconditional welcome home meets even wasted love, while resentful faithfulness can miss the joy right beside it.",
+      "reflection": "The father in this story doesn't wait for an apology, a plan, or proof of change before running to meet his returning son -- his welcome comes before the son even finishes his rehearsed confession. The older son's anger is its own kind of tragedy: years of dutiful service haven't given him the same joyful relationship with his father that the younger son discovers the moment he comes home broken and empty-handed. Jesus leaves the ending open, never telling us whether the older brother goes in to the party -- an invitation left for every listener to answer for themselves.",
+      "sort_order": 95,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 15,
+          "verse_start": 11,
+          "chapter_end": 15,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "id": "the-lost-sheep",
+      "title": "The Lost Sheep",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus asked which shepherd, having a hundred sheep and losing just one, wouldn't leave the ninety-nine to go search for the one that wandered off, and then, finding it, carry it home rejoicing and call together friends to celebrate. He explained that there is more joy in heaven over one repentant sinner than over ninety-nine righteous people who don't need to repent.",
+      "moral": "God's relentless search for the one who wandered doesn't stop until it's found.",
+      "reflection": "The shepherd's decision to leave ninety-nine sheep unattended to search for one seems reckless by ordinary accounting, but the parable insists this is exactly the kind of disproportionate love God has for each individual person. The joy at the sheep's return isn't muted or businesslike -- it's a full celebration, calling friends together over something an outside observer might see as a minor recovery. Jesus tells this parable in response to religious leaders grumbling that he welcomes sinners, turning their criticism into the very point of the story.",
+      "sort_order": 96,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 15,
+          "verse_start": 3,
+          "chapter_end": 15,
+          "verse_end": 7
+        }
+      ]
+    },
+    {
+      "id": "the-lost-coin",
+      "title": "The Lost Coin",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus asked what woman, having ten silver coins and losing one, wouldn't light a lamp, sweep her whole house, and search carefully until she found it, then call her friends together to celebrate finding what was lost. He said there is the same kind of joy in the presence of God's angels over one repentant sinner.",
+      "moral": "Even one small, forgotten thing matters enough to search for thoroughly.",
+      "reflection": "The woman's search is methodical and thorough -- lighting a lamp, sweeping every corner -- showing real effort spent on recovering something worth far less than a lost sheep in the previous parable. Told right alongside the lost sheep, this parable doubles down on the same point from a different angle: God's attention isn't reserved only for large or dramatic losses, but extends even to what might seem small or easily overlooked. The celebration afterward, again shared with friends, insists that recovering what was lost is always worth genuine joy, not quiet relief alone.",
+      "sort_order": 97,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 15,
+          "verse_start": 8,
+          "chapter_end": 15,
+          "verse_end": 10
+        }
+      ]
+    },
+    {
+      "id": "the-rich-fool",
+      "title": "The Rich Fool",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus told of a rich man whose land produced such an abundant harvest that he didn't have room to store it all, so he decided to tear down his barns and build bigger ones, planning to relax and enjoy his accumulated wealth for years to come. But God told him that very night his life would be demanded of him, and all he had stored up would go to someone else. Jesus concluded that this is what happens to anyone who stores up treasure for themselves but isn't rich toward God.",
+      "moral": "Security built on possessions alone is an illusion that can end without warning.",
+      "reflection": "The rich man's plan is entirely reasonable by ordinary financial logic -- he's simply preparing for a comfortable, secure future -- yet the story exposes how little control he actually has over whether he'll live to enjoy any of it. His conversation is entirely with himself throughout the parable (“I will... my crops... my barns... my soul”), with no room in his planning for God or for anyone else. Jesus' closing line, about being rich toward God rather than for oneself, redirects the entire question of security away from accumulated wealth toward a different kind of investment altogether.",
+      "sort_order": 98,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 12,
+          "verse_start": 16,
+          "chapter_end": 12,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "id": "the-rich-man-and-lazarus",
+      "title": "The Rich Man and Lazarus",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus told of a rich man who lived in luxury every day while a poor, sore-covered beggar named Lazarus lay at his gate longing even for the crumbs from his table. Both men died -- Lazarus was carried by angels to rest beside Abraham, while the rich man ended up in torment, and from there he begged Abraham to send Lazarus to cool his tongue with a drop of water, but Abraham explained that a great, uncrossable gulf now separated them, and that their situations from life had simply been reversed. The rich man then begged for someone to warn his five living brothers, but Abraham said they already had Moses and the prophets to listen to -- and if they wouldn't listen to those, they wouldn't be persuaded even by someone risen from the dead.",
+      "moral": "Indifference to suffering at your own gate has consequences that outlast this life.",
+      "reflection": "The rich man never actually does anything cruel to Lazarus in this story -- his failure is one of indifference, simply not noticing the suffering literally at his own doorstep every day. Even in torment, the rich man still treats Lazarus as someone who should serve him, asking Abraham to send him on an errand rather than ever addressing Lazarus directly himself. Abraham's final line, about people not being persuaded even by someone risen from the dead, is a striking, almost eerie foreshadowing of how many would later respond to Jesus' own resurrection.",
+      "sort_order": 99,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 16,
+          "verse_start": 19,
+          "chapter_end": 16,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "id": "the-pharisee-and-the-tax-collector",
+      "title": "The Pharisee and the Tax Collector",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus told a parable to people confident in their own righteousness: two men went to the temple to pray, a Pharisee and a tax collector. The Pharisee thanked God that he wasn't like other sinful people, listing his own fasting and tithing as proof of his righteousness, while the tax collector, standing at a distance and unable even to look up, simply beat his chest and said, “God, be merciful to me, a sinner!” Jesus said it was the tax collector, not the Pharisee, who went home right with God, since whoever exalts himself will be humbled, but whoever humbles himself will be exalted.",
+      "moral": "Humility before God outweighs self-righteous comparison to others.",
+      "reflection": "The Pharisee's prayer isn't really addressed to God at all in substance -- it's a list of his own accomplishments, measured against other people he considers beneath him. The tax collector, by contrast, doesn't compare himself to anyone; his entire prayer is an honest admission of need with nothing to boast about. Jesus' verdict reverses the expected outcome completely, favoring honest humility over confident religious performance, however impressive that performance might look from the outside.",
+      "sort_order": 100,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 18,
+          "verse_start": 9,
+          "chapter_end": 18,
+          "verse_end": 14
+        }
+      ]
+    },
+    {
+      "id": "the-wise-and-foolish-builders",
+      "title": "The Wise and Foolish Builders",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus said that everyone who hears his words and acts on them is like a wise man who built his house on solid rock -- when storms, floods, and wind came, the house stood firm. But everyone who hears his words and doesn't act on them is like a foolish man who built his house on sand -- when the same storm came, the house collapsed completely.",
+      "moral": "Acting on what's heard, not just hearing it, is what actually determines whether it holds up.",
+      "reflection": "Both builders hear exactly the same words -- the difference between them isn't knowledge, it's whether that knowledge gets acted on before the storm arrives. The storm itself doesn't discriminate between the two houses; it tests them both equally, and it's the foundation laid beforehand, not effort during the crisis, that determines the outcome. Jesus places this parable right at the end of the Sermon on the Mount, making clear that hearing his teaching is meant to lead somewhere, not simply be admired or agreed with.",
+      "sort_order": 101,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 7,
+          "verse_start": 24,
+          "chapter_end": 7,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "id": "the-wise-and-foolish-virgins",
+      "title": "The Wise and Foolish Virgins",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus compared the Kingdom of Heaven to ten bridesmaids who took their lamps to go meet a bridegroom, five wise and five foolish. The wise brought extra oil for their lamps, but the foolish did not, and when the bridegroom was delayed and finally arrived at midnight, the foolish virgins' lamps were going out. They rushed off to buy more oil, but while they were gone, the bridegroom arrived, and those who were ready went in with him to the feast, and the door was shut; when the others returned and asked to be let in, the bridegroom said he didn't know them. Jesus concluded by telling his listeners to stay watchful, since they don't know the day or hour he will come.",
+      "moral": "Staying prepared for what you can't predict the timing of matters more than good intentions in the moment.",
+      "reflection": "All ten virgins fall asleep waiting, wise and foolish alike -- the difference between them isn't vigilance in staying awake but preparation made well before the waiting even began. The foolish virgins' oil can't simply be borrowed at the last minute; each person's readiness turns out to be something that can't be transferred from someone else in the final moment. The closed door at the end is a stark image, underlining that some opportunities, once missed, aren't available to make up for afterward.",
+      "sort_order": 102,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 25,
+          "verse_start": 1,
+          "chapter_end": 25,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "id": "the-talents",
+      "title": "The Talents",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "A man going on a journey entrusted his money to three servants according to their ability, five talents to one, two to another, and one to the last. The servants with five and two talents both invested and doubled what they were given, but the servant with one talent buried his in the ground out of fear. When the master returned, he praised and rewarded the two who had multiplied their talents, but condemned the fearful servant as wicked and lazy, taking away his one talent and giving it to the servant who now had ten, and casting the unprofitable servant out into darkness.",
+      "moral": "What's entrusted to you is meant to be risked and grown, not buried out of fear.",
+      "reflection": "The servant with one talent isn't punished for having less to start with -- he's punished for doing nothing at all with what he was actually given, out of a fear-driven, distorted view of his master's character. The two faithful servants receive the exact same praise regardless of how much they started with, five talents or two -- faithfulness, not raw quantity produced, is what's actually being measured. This parable pushes hard against playing it safe with what's been entrusted to us, insisting that fear of failure isn't a good enough reason to risk nothing at all.",
+      "sort_order": 103,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 25,
+          "verse_start": 14,
+          "chapter_end": 25,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "id": "workers-in-the-vineyard",
+      "title": "Workers in the Vineyard",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "A landowner hired workers for his vineyard early in the morning, agreeing to pay them a denarius for the day, and then went out again at the third, sixth, ninth, and even eleventh hour, hiring more workers each time, including some who had been standing idle all day with no work. At the end of the day, he paid everyone the same wage, starting with the last hired, and the workers who had labored since morning grumbled that those who worked only one hour were paid the same as they were. The landowner replied that he had done them no wrong, since he paid exactly what was agreed, and that it was his right to be generous with what belonged to him.",
+      "moral": "Generosity that isn't measured by others' sense of fairness can still be entirely just.",
+      "reflection": "The workers hired last didn't do anything to deserve equal pay except be available when the landowner came looking for them -- their wage is pure gift, not something calculated by hours worked. The grumbling of the early workers reveals something uncomfortable: their real complaint isn't that they were treated unfairly, but that someone else was treated better than strict fairness required. The landowner's closing question, “is your eye evil, because I am good?”, names exactly what's happening -- resentment at someone else's undeserved good fortune, even when one's own wage was never actually shortchanged.",
+      "sort_order": 104,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 20,
+          "verse_start": 1,
+          "chapter_end": 20,
+          "verse_end": 16
+        }
+      ]
+    },
+    {
+      "id": "the-unforgiving-servant",
+      "title": "The Unforgiving Servant",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "When Peter asked how many times he should forgive someone who sinned against him, suggesting seven times, Jesus answered, “seventy times seven,” then told a parable: a king forgave a servant an enormous, unpayable debt of ten thousand talents when the servant begged for patience. That same servant then went out and violently demanded repayment from a fellow servant who owed him a much smaller sum, refusing mercy and having him thrown into prison. When the king heard what had happened, he was furious, calling the servant wicked for not extending the same mercy he had just received, and handed him over to be tortured until he could repay everything.",
+      "moral": "Forgiveness received obligates forgiveness given.",
+      "reflection": "The gap between the two debts in this parable is enormous by design -- ten thousand talents versus a hundred denarii -- making the forgiven servant's refusal to extend even a small mercy look especially harsh once we see it clearly. Jesus tells this story in direct response to a question about limits on forgiveness, and his answer, seventy times seven, isn't really a number to count to but a way of saying the counting itself should stop. The king's anger at the end isn't really about the unpaid debt anymore -- it's about the servant completely missing what his own forgiveness was supposed to teach him.",
+      "sort_order": 105,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 18,
+          "verse_start": 21,
+          "chapter_end": 18,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "id": "the-good-shepherd",
+      "title": "The Good Shepherd",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus described himself as the good shepherd who enters by the gate, whose sheep recognize and follow his voice because they know him, unlike a stranger or thief they would flee from. He said that thieves come only to steal, kill, and destroy, but he came to give life abundantly; unlike a hired hand who abandons the sheep when danger comes because he doesn't truly own them, the good shepherd lays down his life for the sheep. Jesus also spoke of other sheep not yet part of this fold that he must also bring in, so that all would become one flock with one shepherd, and he said no one takes his life from him -- he lays it down willingly, with the power to take it up again.",
+      "moral": "A leader who lays down everything for those in his care is different from one who merely manages them.",
+      "reflection": "The contrast Jesus draws is sharp: a hired hand protects his own safety first and abandons the sheep the moment real danger appears, while the good shepherd's defining trait is willingly giving up his own life for theirs. His mention of “other sheep not of this fold” points beyond Israel to a wider flock still to be gathered, hinting at a mission that would eventually reach the whole world. Jesus' insistence that no one takes his life from him, that he lays it down and takes it up by his own authority, turns what will look like defeat on the cross into something entirely under his own control.",
+      "sort_order": 106,
+      "verse_refs": [
+        {
+          "book_id": "jn",
+          "chapter_start": 10,
+          "verse_start": 1,
+          "chapter_end": 10,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "id": "the-wedding-feast",
+      "title": "The Wedding Feast",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus told of a king who prepared a wedding feast for his son and sent servants to call the invited guests, but they refused to come, some ignoring the invitation entirely and others even mistreating and killing the servants who brought it. Enraged, the king destroyed those murderers and sent his servants out to the street corners instead, inviting anyone they could find, good and bad alike, until the wedding hall was full. But when the king came in and saw a guest not wearing proper wedding clothing, he had him bound and thrown out into the darkness, concluding, “many are called, but few chosen.”",
+      "moral": "An open invitation still carries real cost for those who refuse or disregard it.",
+      "reflection": "The original guests' refusal isn't just indifference -- some actively mistreat and kill the messengers, escalating what starts as a simple wedding invitation into open rebellion against the king. The king's response, inviting anyone found in the streets regardless of their background, shows an invitation that widens dramatically once the expected guests reject it. The detail about wedding clothing at the end is easy to miss, but it suggests that being invited isn't the same as actually being prepared to belong at the feast once you arrive.",
+      "sort_order": 107,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 22,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 14
+        }
+      ]
+    },
+    {
+      "id": "the-persistent-widow",
+      "title": "The Persistent Widow",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus told a parable about the need to always pray and never give up: a widow kept coming to an unjust judge, who neither feared God nor respected people, demanding he grant her justice against her adversary. He refused for a long time, but eventually gave in, reasoning that even though he didn't care about justice, the widow's persistence would wear him down if he didn't act. Jesus then asked how much more surely God, who is nothing like this unjust judge, will bring justice to his own people who cry out to him day and night.",
+      "moral": "Persevering in prayer without losing heart honors the character of a God far better than any unjust judge.",
+      "reflection": "Jesus builds the argument here from the lesser to the greater -- if even a corrupt, uncaring judge eventually responds to persistence, how much more will a genuinely good God respond to those who keep crying out to him. The widow has no power or leverage of her own; her only tool is refusing to stop asking, which turns out to be enough. Jesus' closing question, wondering whether he will find faith on earth when he returns, connects this parable to the challenge of persevering in trust over a long, uncertain wait.",
+      "sort_order": 108,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 18,
+          "verse_end": 8
+        }
+      ]
+    },
+    {
+      "id": "the-two-sons",
+      "title": "The Two Sons",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus asked which of two sons truly obeyed their father: one who initially refused to work in the vineyard but later changed his mind and went, or one who agreed readily but never actually went. When the religious leaders answered correctly that the first son had done his father's will, Jesus told them that tax collectors and prostitutes were entering God's Kingdom ahead of them, since those sinners had believed John the Baptist's call to repentance while the religious leaders had not, even after seeing it happen.",
+      "moral": "What's actually done matters more than what's promised.",
+      "reflection": "The second son's polite, immediate agreement looks better on the surface, but it's entirely empty since he never follows through -- while the first son's initial refusal, though disrespectful, ends in real obedience. Jesus aims this parable directly at religious leaders confident in their own standing, using it to explain why people they considered obvious sinners were responding to God's call better than they were. The comparison isn't really about which son said the right words first, but about which one's actions eventually lined up with what was actually asked of him.",
+      "sort_order": 109,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 21,
+          "verse_start": 28,
+          "chapter_end": 21,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "id": "the-wicked-tenants",
+      "title": "The Wicked Tenants",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus told of a landowner who planted a vineyard, leased it to tenant farmers, and went away. When harvest time came, he sent servants to collect his share of the fruit, but the tenants beat, killed, and stoned them, and did the same to a second group of servants sent later. Finally the owner sent his own son, assuming the tenants would respect him, but instead they killed him too, hoping to seize his inheritance for themselves. Jesus asked what the owner would do to those tenants, and his listeners answered that he would destroy them and give the vineyard to others who would actually give him his fruit -- and Jesus applied this directly to the religious leaders listening, who recognized he was speaking about them.",
+      "moral": "Rejecting the very one sent to bless you doesn't remove the responsibility that was entrusted to you.",
+      "reflection": "The tenants' escalating violence, worse with each group of messengers sent, shows a hostility that has nothing to do with any actual grievance against the owner -- it's simply refusal to give up what they've decided belongs to them alone. Sending the son, expecting respect where servants had failed, sets up the most direct parallel in any of Jesus' parables to his own coming rejection and death at the hands of the very people he came to. The religious leaders' own recognition that Jesus is describing them is telling -- the parable lands exactly as intended, even though it doesn't lead them to repentance.",
+      "sort_order": 110,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 21,
+          "verse_start": 33,
+          "chapter_end": 21,
+          "verse_end": 46
+        }
+      ]
+    },
+    {
+      "id": "the-barren-fig-tree",
+      "title": "The Barren Fig Tree",
+      "testament": "nt",
+      "book_group": "parables",
+      "story_type": "parable",
+      "summary": "Jesus told of a man who came looking for fruit on a fig tree planted in his vineyard for three years running and found none, so he told the vineyard keeper to cut it down since it was wasting the soil. But the keeper asked for one more year, promising to dig around the tree and fertilize it, saying that if it then bore fruit, it could stay, but if not, it could be cut down after that.",
+      "moral": "Patient mercy gives one more chance to bear fruit before judgment comes.",
+      "reflection": "Three years of no fruit is a legitimate reason to give up on the tree, yet the vineyard keeper asks for exactly the kind of patience the owner hadn't planned on extending on his own. The extra care promised -- digging around the roots, adding fertilizer -- shows that the extension isn't just a delay but an active investment meant to actually help the tree finally produce something. This short parable holds real urgency and real mercy together: judgment is coming, but not before every reasonable effort has been made to help fruit actually grow.",
+      "sort_order": 111,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 13,
+          "verse_start": 6,
+          "chapter_end": 13,
+          "verse_end": 9
         }
       ]
     }
