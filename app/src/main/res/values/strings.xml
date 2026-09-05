@@ -6,7 +6,7 @@
     <string name="nav_read">Bible</string>
     <string name="nav_saved">Saved</string>
     <string name="nav_characters">Personalities</string>
-    <string name="nav_daily">Readings &amp; Reflection</string>
+    <string name="nav_daily">Readings &amp;\nReflection</string>
     <string name="nav_stories">Stories</string>
 
     <!-- Language switcher -->

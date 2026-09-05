@@ -16,6 +16,7 @@ import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.windowInsetsPadding
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.core.os.LocaleListCompat
 import androidx.compose.material.icons.Icons
@@ -106,7 +107,7 @@ private fun NavLabel(text: String) {
         text,
         style = MaterialTheme.typography.labelSmall,
         textAlign = TextAlign.Center,
-        maxLines = 1,
+        maxLines = 2,
         overflow = TextOverflow.Ellipsis
     )
 }
@@ -174,75 +175,84 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
 
     Scaffold(
         bottomBar = {
-            Row(
+            Column(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .height(80.dp)
                     .background(NavigationBarDefaults.containerColor)
+                    .windowInsetsPadding(NavigationBarDefaults.windowInsets)
             ) {
-                // Topics and Bible get a bit less than an equal 1/5 share each,
-                // and Personalities a bit more, so its label -- the longest of
-                // the five in most languages -- has room to stay on one line.
-                WeightedNavItem(
-                    weight = 0.85f,
-                    selected = currentRoute == "home" || currentRoute == "verse" || currentRoute == null,
-                    onClick = { navController.navigate("home") { launchSingleTop = true } },
-                    icon = {
-                        Icon(
-                            if (currentRoute == "verse") Icons.Filled.Favorite else Icons.Outlined.FavoriteBorder,
-                            contentDescription = null
-                        )
-                    },
-                    label = { NavLabel(stringResource(R.string.nav_topics)) }
-                )
-                WeightedNavItem(
-                    weight = 0.85f,
-                    selected = currentRoute in bibleRoutes,
-                    onClick = { navController.navigate("bible") { launchSingleTop = true } },
-                    icon = {
-                        Icon(
-                            if (currentRoute in bibleRoutes) Icons.Filled.MenuBook else Icons.Outlined.MenuBook,
-                            contentDescription = null
-                        )
-                    },
-                    label = { NavLabel(stringResource(R.string.nav_read)) }
-                )
-                WeightedNavItem(
-                    weight = 1.3f,
-                    selected = currentRoute in characterRoutes,
-                    onClick = { navController.navigate("characters") { launchSingleTop = true } },
-                    icon = {
-                        Icon(
-                            if (currentRoute in characterRoutes) Icons.Filled.People else Icons.Outlined.People,
-                            contentDescription = null
-                        )
-                    },
-                    label = { NavLabel(stringResource(R.string.nav_characters)) }
-                )
-                WeightedNavItem(
-                    weight = 1.0f,
-                    selected = currentRoute == "daily",
-                    onClick = { navController.navigate("daily") { launchSingleTop = true } },
-                    icon = {
-                        Icon(
-                            if (currentRoute == "daily") Icons.Filled.CalendarToday else Icons.Outlined.CalendarToday,
-                            contentDescription = null
-                        )
-                    },
-                    label = { NavLabel(stringResource(R.string.nav_daily)) }
-                )
-                WeightedNavItem(
-                    weight = 1.0f,
-                    selected = currentRoute in storyRoutes,
-                    onClick = { navController.navigate("stories") { launchSingleTop = true } },
-                    icon = {
-                        Icon(
-                            if (currentRoute in storyRoutes) Icons.Filled.AutoStories else Icons.Outlined.AutoStories,
-                            contentDescription = null
-                        )
-                    },
-                    label = { NavLabel(stringResource(R.string.nav_stories)) }
-                )
+                Row(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .height(80.dp)
+                ) {
+                    // Weights (sum to 5, same total width as 5 equal 1/5 shares):
+                    // Topics/Bible 0.9 each, Personalities 1.2 (the longest label,
+                    // forced onto one line), Readings & Reflection and Stories back
+                    // to a normal-or-better 1.0 each -- "Readings &\nReflection" is a
+                    // deliberate two-line label (see nav_daily), so it doesn't need
+                    // the extra width Personalities does.
+                    WeightedNavItem(
+                        weight = 0.9f,
+                        selected = currentRoute == "home" || currentRoute == "verse" || currentRoute == null,
+                        onClick = { navController.navigate("home") { launchSingleTop = true } },
+                        icon = {
+                            Icon(
+                                if (currentRoute == "verse") Icons.Filled.Favorite else Icons.Outlined.FavoriteBorder,
+                                contentDescription = null
+                            )
+                        },
+                        label = { NavLabel(stringResource(R.string.nav_topics)) }
+                    )
+                    WeightedNavItem(
+                        weight = 0.9f,
+                        selected = currentRoute in bibleRoutes,
+                        onClick = { navController.navigate("bible") { launchSingleTop = true } },
+                        icon = {
+                            Icon(
+                                if (currentRoute in bibleRoutes) Icons.Filled.MenuBook else Icons.Outlined.MenuBook,
+                                contentDescription = null
+                            )
+                        },
+                        label = { NavLabel(stringResource(R.string.nav_read)) }
+                    )
+                    WeightedNavItem(
+                        weight = 1.2f,
+                        selected = currentRoute in characterRoutes,
+                        onClick = { navController.navigate("characters") { launchSingleTop = true } },
+                        icon = {
+                            Icon(
+                                if (currentRoute in characterRoutes) Icons.Filled.People else Icons.Outlined.People,
+                                contentDescription = null
+                            )
+                        },
+                        label = { NavLabel(stringResource(R.string.nav_characters)) }
+                    )
+                    WeightedNavItem(
+                        weight = 1.0f,
+                        selected = currentRoute == "daily",
+                        onClick = { navController.navigate("daily") { launchSingleTop = true } },
+                        icon = {
+                            Icon(
+                                if (currentRoute == "daily") Icons.Filled.CalendarToday else Icons.Outlined.CalendarToday,
+                                contentDescription = null
+                            )
+                        },
+                        label = { NavLabel(stringResource(R.string.nav_daily)) }
+                    )
+                    WeightedNavItem(
+                        weight = 1.0f,
+                        selected = currentRoute in storyRoutes,
+                        onClick = { navController.navigate("stories") { launchSingleTop = true } },
+                        icon = {
+                            Icon(
+                                if (currentRoute in storyRoutes) Icons.Filled.AutoStories else Icons.Outlined.AutoStories,
+                                contentDescription = null
+                            )
+                        },
+                        label = { NavLabel(stringResource(R.string.nav_stories)) }
+                    )
+                }
             }
         }
     ) { padding ->
