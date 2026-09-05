@@ -276,7 +276,7 @@ handling, and the privacy-policy rewrite.
   except Phase 4's opt-in/send path must still work with no network),
   and the closed-testing checklist v1 already went through.
 
-### Phase 6 — Bible Stories & Parables: 146 stories, all ages — **infrastructure done, content not started**
+### Phase 6 — Bible Stories & Parables: 146 stories, all ages — **6A + 6B done, 6C (character links) remaining**
 
 Added after the original 5-phase plan, at the user's request: a new
 Stories tab covering 146 stories and parables spanning the full 73-book
@@ -312,18 +312,23 @@ ever needed again for reference.
   reflection, and a "Related Characters" row that navigates into the
   existing Characters tab.
 - **6A — Infrastructure (done)**: entities, DAOs, seeding, and the full
-  UI wired end to end against `content/stories.json`, which currently
-  ships with `"stories": []` — zero rows, so the tab is live and fully
-  functional (search, filters, empty-state messaging) with nothing
-  authored yet.
-- **6B — Content (not started)**: author all 146 stories' summary/moral/
-  reflection, in 11 batches (one per `book_group`), same non-negotiable
-  discipline as lectionary reflections — pull the real resolved
-  scripture text first, write from that, never from memory. Same
-  commit-per-batch rhythm as the lectionary's monthly batches.
+  UI wired end to end against `content/stories.json`.
+- **6B — Content (done, 146/146)**: authored in 11 batches (one per
+  `book_group`), same non-negotiable discipline as lectionary
+  reflections — pull the real resolved scripture text first, read it,
+  write summary/moral/reflection from that, never from memory. One real
+  gap hit and handled: this app's bundled WEB-C Daniel is chapters 1-12
+  only, so Susanna (Dan 13) and Bel and the Dragon (Dan 14) cite the
+  real location but won't resolve to text — written from the
+  well-known Catholic narrative instead, same as the lectionary's own
+  Daniel-3-canticle gap, covered gracefully by the app's existing
+  verse-unavailable fallback. Final counts by `book_group`: Pentateuch
+  29, Historical 25, Wisdom 1, Prophets 5, Deuterocanonical 5, Infancy
+  9, Ministry & Miracles 15, Parables 22, Teachings & Encounters 9,
+  Passion & Resurrection 13, Acts 10, Revelation 3.
 - **6C — Character cross-links (not started)**: one pass over all
-  `BibleCharacter` rows once 6B content exists, curating up to 10 story
-  links each by narrative significance.
+  `BibleCharacter` rows now that 6B content exists, curating up to 10
+  story links each by narrative significance.
 
 ## License
 
