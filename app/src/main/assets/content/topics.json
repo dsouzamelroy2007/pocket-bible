@@ -1,5 +1,5 @@
 {
-  "_note": "Curated 'topics' content (feelings/passages/entries), independent of the Read tab's scripture files. Passages tied to the original 14 topics were checked against a real WEB-CE source during authoring. The 13 topics added later (happy, jealous, lust, love, pride, unforgiving, depression, boredom, betrayal, insecurity, greed, impatience, discontent) use verses recalled from memory rather than copied from a checked source -- common, well-known verses, believed accurate, but per this project's own policy on bulk-generated scripture text, not yet verified the way the rest of this file was; worth a spot-check against ebible.org's eng-web-c. 'daily_passages' cycles through all 41 primary passages by simple rotation, not 366 independently-curated picks. UPDATE (verse variety): every one of the 27 topics now has at least 4 entries (up from 2 for the original 14, 1 for the 13 added later), so repeatedly tapping 'Another' surfaces at least 4 distinct passages before it cycles back to the first. Same caveat as the previous update applies to all of these new passages too: recalled from memory during authoring, common/well-known verses, believed accurate, but not verified against a checked WEB-CE source the way the original 28 were -- worth a spot-check before wide release. 'daily_passages' now cycles through all primary passages currently defined. PHASE 2 COMPLETE: the rotation is gone -- all 366 days now have their own genuinely distinct, real WEB-C verse (366 distinct passages, 108 originally curated for the 27+1 feelings plus 258 added for this calendar, drawn broadly across Psalms, Proverbs, the Gospels, Acts, Revelation, the Pauline and general epistles, the minor prophets, wisdom literature, and a few historical-book/Torah verses). Every verse's text was fetched programmatically from the bundled scripture/web-c files, never retyped from memory. Verse of the Day already resolves per-language automatically via MainViewModel.resolvedPassage() for any UI language with real bundled scripture (currently English and German) -- extending that to the other 6 languages means importing their own scripture translations, a separate pre-existing Roadmap item, not part of this pass.",
+  "_note": "Curated 'topics' content (feelings/passages/entries), independent of the Read tab's scripture files. Passages tied to the original 14 topics were checked against a real WEB-CE source during authoring. The 13 topics added later (happy, jealous, lust, love, pride, unforgiving, depression, boredom, betrayal, insecurity, greed, impatience, discontent) use verses recalled from memory rather than copied from a checked source -- common, well-known verses, believed accurate, but per this project's own policy on bulk-generated scripture text, not yet verified the way the rest of this file was; worth a spot-check against ebible.org's eng-web-c. 'daily_passages' cycles through all 41 primary passages by simple rotation, not 366 independently-curated picks. UPDATE (verse variety): every one of the 27 topics now has at least 4 entries (up from 2 for the original 14, 1 for the 13 added later), so repeatedly tapping 'Another' surfaces at least 4 distinct passages before it cycles back to the first. Same caveat as the previous update applies to all of these new passages too: recalled from memory during authoring, common/well-known verses, believed accurate, but not verified against a checked WEB-CE source the way the original 28 were -- worth a spot-check before wide release. 'daily_passages' now cycles through all primary passages currently defined. PHASE 2 COMPLETE: the rotation is gone -- all 366 days now have their own genuinely distinct, real WEB-C verse (366 distinct passages, 108 originally curated for the 27+1 feelings plus 258 added for this calendar, drawn broadly across Psalms, Proverbs, the Gospels, Acts, Revelation, the Pauline and general epistles, the minor prophets, wisdom literature, and a few historical-book/Torah verses). Every verse's text was fetched programmatically from the bundled scripture/web-c files, never retyped from memory. Verse of the Day already resolves per-language automatically via MainViewModel.resolvedPassage() for any UI language with real bundled scripture (currently English and German) -- extending that to the other 6 languages means importing their own scripture translations, a separate pre-existing Roadmap item, not part of this pass. PHASE 3 IN PROGRESS (verse count per feeling 4->10): user asked for 10 relevant verses per feeling (up from 4) plus longer, more meaningful prayers, translated into all 6 non-English UI languages. Batch 1 done: fear, anxiety, grief, temptation, lonely now each have 10 entries (6 new each, real verses resolved from scripture/web-c before writing, never from memory; new passages added to the shared passages pool, existing ones reused where already present from the 366-day calendar). Prayers on new entries run noticeably longer than the original 2-sentence style (roughly 3 sentences, ~55-75 words) per the user's request. All 6 language files (fr/de/it/hi/mr/pt) have matching entry_translations for every new entry -- verified 1:1 with the English entries, no gaps. Remaining: 23 feelings still at their original count (22 at 4, suffering at 1) -- continue in further batches the same way: pick real, distinct, relevant verses not already used for that feeling, resolve exact text from scripture/web-c, write reflection+prayer, add to entries/entry_passages/passages, translate into all 6 languages, verify entry-translation parity before bumping content_version.",
   "feelings": [
     {
       "id": "fear",
@@ -5548,6 +5548,201 @@
       "pull_quote": null,
       "reference_display": "Revelation 7:17",
       "reference_alt": null
+    },
+    {
+      "id": "web-c:deut:31:8",
+      "translation_id": "web-c",
+      "book_id": "deut",
+      "chapter_start": 31,
+      "chapter_end": 31,
+      "verse_start": 8,
+      "verse_end": 8,
+      "text": "The LORD himself is who goes before you. He will be with you. He will not fail you nor forsake you. Don’t be afraid. Don’t be discouraged.”",
+      "pull_quote": "He will not fail you nor forsake you.",
+      "reference_display": "Deuteronomy 31:8",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:43:1",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 43,
+      "chapter_end": 43,
+      "verse_start": 1,
+      "verse_end": 2,
+      "text": "But now the LORD who created you, Jacob, and he who formed you, Israel, says: “Don’t be afraid, for I have redeemed you. I have called you by your name. You are mine. When you pass through the waters, I will be with you, and through the rivers, they will not overflow you. When you walk through the fire, you will not be burned, and flame will not scorch you.",
+      "pull_quote": "Don't be afraid, for I have redeemed you.",
+      "reference_display": "Isaiah 43:1-2",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:91:4",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 91,
+      "chapter_end": 91,
+      "verse_start": 4,
+      "verse_end": 5,
+      "text": "He will cover you with his feathers. Under his wings you will take refuge. His faithfulness is your shield and rampart. You shall not be afraid of the terror by night, nor of the arrow that flies by day,",
+      "pull_quote": "You shall not be afraid of the terror by night.",
+      "reference_display": "Psalm 91:4-5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mt:6:25",
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 25,
+      "verse_end": 27,
+      "text": "Therefore I tell you, don’t be anxious for your life: what you will eat, or what you will drink; nor yet for your body, what you will wear. Isn’t life more than food, and the body more than clothing? See the birds of the sky, that they don’t sow, neither do they reap, nor gather into barns. Your heavenly Father feeds them. Aren’t you of much more value than they? “Which of you by being anxious, can add one moment to his lifespan?",
+      "pull_quote": "Isn't life more than food, and the body more than clothing?",
+      "reference_display": "Matthew 6:25-27",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:61:1",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 61,
+      "chapter_end": 61,
+      "verse_start": 1,
+      "verse_end": 3,
+      "text": "The Lord the LORD’s Spirit is on me, because the LORD has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives and release to those who are bound, to proclaim the year of the LORD’s favor and the day of vengeance of our God, to comfort all who mourn, to provide for those who mourn in Zion, to give to them a garland for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness, that they may be called trees of righteousness, the planting of the LORD, that he may be glorified.",
+      "pull_quote": "To comfort all who mourn.",
+      "reference_display": "Isaiah 61:1-3",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:56:8",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 56,
+      "chapter_end": 56,
+      "verse_start": 8,
+      "verse_end": 8,
+      "text": "You count my wanderings. You put my tears into your container. Aren’t they in your book?",
+      "pull_quote": "You put my tears into your container.",
+      "reference_display": "Psalm 56:8",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1the:4:13",
+      "translation_id": "web-c",
+      "book_id": "1the",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 13,
+      "verse_end": 14,
+      "text": "But we don’t want you to be ignorant, brothers, concerning those who have fallen asleep, so that you don’t grieve like the rest, who have no hope. For if we believe that Jesus died and rose again, even so God will bring with him those who have fallen asleep in Jesus.",
+      "pull_quote": "So that you don't grieve like the rest, who have no hope.",
+      "reference_display": "1 Thessalonians 4:13-14",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:gal:6:1",
+      "translation_id": "web-c",
+      "book_id": "gal",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "Brothers, even if a man is caught in some fault, you who are spiritual must restore such a one in a spirit of gentleness, looking to yourself so that you also aren’t tempted.",
+      "pull_quote": "Looking to yourself so that you also aren't tempted.",
+      "reference_display": "Galatians 6:1",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:2pet:2:9",
+      "translation_id": "web-c",
+      "book_id": "2pet",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 9,
+      "verse_end": 9,
+      "text": "then the Lord knows how to deliver the godly out of temptation and to keep the unrighteous under punishment for the day of judgment,",
+      "pull_quote": "The Lord knows how to deliver the godly out of temptation.",
+      "reference_display": "2 Peter 2:9",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:eph:6:11",
+      "translation_id": "web-c",
+      "book_id": "eph",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 11,
+      "verse_end": 11,
+      "text": "Put on the whole armor of God, that you may be able to stand against the wiles of the devil.",
+      "pull_quote": "That you may be able to stand against the wiles of the devil.",
+      "reference_display": "Ephesians 6:11",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1pet:5:8",
+      "translation_id": "web-c",
+      "book_id": "1pet",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 8,
+      "verse_end": 9,
+      "text": "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour. Withstand him steadfast in your faith, knowing that your brothers who are in the world are undergoing the same sufferings.",
+      "pull_quote": "Your adversary, the devil, walks around like a roaring lion.",
+      "reference_display": "1 Peter 5:8-9",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:25:16",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 25,
+      "chapter_end": 25,
+      "verse_start": 16,
+      "verse_end": 16,
+      "text": "Turn to me, and have mercy on me, for I am desolate and afflicted.",
+      "pull_quote": "Turn to me, and have mercy on me.",
+      "reference_display": "Psalm 25:16",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:139:7",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 139,
+      "chapter_end": 139,
+      "verse_start": 7,
+      "verse_end": 10,
+      "text": "Where could I go from your Spirit? Or where could I flee from your presence? If I ascend up into heaven, you are there. If I make my bed in Sheol, behold, you are there! If I take the wings of the dawn, and settle in the uttermost parts of the sea, even there your hand will lead me, and your right hand will hold me.",
+      "pull_quote": "Where could I flee from your presence?",
+      "reference_display": "Psalm 139:7-10",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jn:14:16",
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "chapter_start": 14,
+      "chapter_end": 14,
+      "verse_start": 16,
+      "verse_end": 17,
+      "text": "I will pray to the Father, and he will give you another Counselor, that he may be with you forever: the Spirit of truth, whom the world can’t receive, for it doesn’t see him and doesn’t know him. You know him, for he lives with you and will be in you.",
+      "pull_quote": "That he may be with you forever.",
+      "reference_display": "John 14:16-17",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:27:10",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 27,
+      "chapter_end": 27,
+      "verse_start": 10,
+      "verse_end": 10,
+      "text": "When my father and my mother forsake me, then the LORD will take me up.",
+      "pull_quote": "The LORD will take me up.",
+      "reference_display": "Psalm 27:10",
+      "reference_alt": null
     }
   ],
   "entries": [
@@ -6858,6 +7053,366 @@
       "saint_quote": null,
       "saint_attribution": null,
       "liturgical_season": null
+    },
+    {
+      "id": "fear-ps-56-3",
+      "feeling_id": "fear",
+      "reflection": "David doesn't pretend the fear isn't there -- he names it plainly, \"when I am afraid,\" as something that will happen again, not a one-time failure of faith. The verse doesn't wait for the fear to pass before choosing where to put his trust; the two exist in the same breath. Trust here isn't the opposite of fear so much as what fear gets handed to instead of being carried alone.",
+      "prayer": "Lord, I am afraid right now, and I don't want to pretend otherwise. Take this fear from my hands before it takes root in my chest, and give me somewhere honest to put my trust instead. Even if the fear doesn't leave completely tonight, let it not be the only thing I'm holding onto.",
+      "intensity": "acute",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "fear-isa-43-1",
+      "feeling_id": "fear",
+      "reflection": "God doesn't promise Israel a life without deep water or fire -- he promises to be present in both, so that neither one overwhelms or consumes. The command \"don't be afraid\" isn't detached from the reason given right alongside it: you are mine, called by name, already redeemed. Fear loses some of its power once it's clear whose you are before it's clear what you're facing.",
+      "prayer": "Lord, before I ask you to remove what I'm afraid of, help me remember that I am already yours, called by name, not a stranger you happened upon. Walk with me through this water or this fire rather than lifting me out of it before I've learned you're really there. Let being yours matter more tonight than being safe.",
+      "intensity": "steady",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "fear-deut-31-8",
+      "feeling_id": "fear",
+      "reflection": "Moses says this to Joshua on the edge of a task that could easily undo him -- leading a whole people into a land he's never governed. The order matters: God goes before, then is with, then promises not to abandon, and only after all three does the command \"don't be afraid\" arrive. Courage here is downstream of being accompanied, not a substitute for it.",
+      "prayer": "Lord, go ahead of me into whatever is waiting on the other side of today, and don't let me walk into it as though I'm the first one there. Stay with me in the parts I can't prepare for, and don't let me mistake your quiet for your absence. Steady what discouragement wants to unsettle in me.",
+      "intensity": "steady",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "fear-isa-41-13",
+      "feeling_id": "fear",
+      "reflection": "The image is deliberately physical and immediate -- not a distant assurance but a hand actually holding another hand. Isaiah doesn't describe God pointing the way from far off; he describes God gripping tightly enough that letting go isn't really a live option. The help promised here is companionship first, solutions second.",
+      "prayer": "Lord, hold onto me the way this verse says you do, especially in the parts of today I'd rather not face alone. I don't need every answer right now -- I need to know your hand hasn't let go of mine. Help me, however that help needs to look, and let me feel steadied enough to keep moving.",
+      "intensity": "steady",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "fear-ps-91-4",
+      "feeling_id": "fear",
+      "reflection": "The psalm names the very specific fears that keep people awake -- the terror by night, the danger that comes without warning in daylight -- rather than speaking only in generalities. The picture of refuge under wings is deliberately small and close, not a fortress far away but a covering near enough to feel. Faithfulness itself becomes the shield, something proven over time rather than promised only once.",
+      "prayer": "Lord, cover me the way this psalm describes -- close, near enough to actually feel sheltered, not just told I should feel safe. Take the terror that comes at night and the danger I can't see coming in daylight, and be a shield between me and both. Let your faithfulness, proven before, be enough reason to trust it again tonight.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "fear-1jo-4-18",
+      "feeling_id": "fear",
+      "reflection": "John links fear specifically to punishment -- the kind of fear that expects to be judged and found wanting. Perfect love doesn't coexist with that particular fear; it displaces it, the way light doesn't share a room with darkness so much as end it. This isn't a command to stop being afraid by willpower, but a description of what actually happens as love becomes more complete.",
+      "prayer": "Lord, where my fear is really a fear of being judged and found wanting, let your love answer that directly instead of just calming my nerves. I don't want to manage this fear forever -- I want it genuinely displaced by knowing I'm loved without condition. Grow that love in me until there's less and less room left for this fear to live.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "anxiety-mt-6-25",
+      "feeling_id": "anxiety",
+      "reflection": "Jesus doesn't dismiss the practical worries themselves -- food, drink, clothing are real needs -- but questions whether anxiety actually adds anything useful to solving them. The birds he points to next aren't idle; they're simply not carrying a worry that was never going to change the outcome anyway. Life being more than food isn't a denial of the need, just a reminder of what anxiety tends to shrink our attention down to.",
+      "prayer": "Lord, you already know what I need before I've finished worrying about it, so let me actually believe that instead of just reciting it. Loosen the grip anxiety has on my attention today, especially on the ordinary things I keep rehearsing that I can't control anyway. Remind me there's more to this life than the list of things I'm afraid of running out of.",
+      "intensity": "acute",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "anxiety-mt-6-34",
+      "feeling_id": "anxiety",
+      "reflection": "Jesus isn't promising tomorrow will be easy -- he says plainly it will have its own trouble. What he's addressing is the habit of borrowing that trouble early, carrying two days' weight inside one day's hours. Today's portion is hard enough without also being asked to hold what belongs to a day that hasn't arrived yet.",
+      "prayer": "Lord, keep me inside today instead of letting my mind keep sprinting ahead into tomorrow's problems before they've even arrived. Give me enough strength for what's actually in front of me right now, and help me leave tomorrow's portion where it belongs, in your hands and not mine yet. Don't let me carry two days of weight in the hours of just one.",
+      "intensity": "acute",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "anxiety-ps-55-22",
+      "feeling_id": "anxiety",
+      "reflection": "The word \"cast\" suggests a real, decisive action, not a gradual easing -- something thrown rather than slowly set down. David doesn't say the burden disappears, only that it's no longer his alone to carry; sustaining is an ongoing verb, ongoing support rather than a single rescue. Being \"not moved\" doesn't mean untouched by trouble, but not shaken loose from a foundation that holds regardless.",
+      "prayer": "Lord, I want to actually cast this onto you rather than just talk about doing it while quietly holding on. Sustain me through what today's anxiety keeps circling back to, in whatever practical way that needs to look. Keep me from being shaken loose, even if I can still feel the weight of what's happening around me.",
+      "intensity": "steady",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "anxiety-pr-12-25",
+      "feeling_id": "anxiety",
+      "reflection": "Proverbs treats anxiety as a literal weight, something with mass that presses a heart down and slows it. The remedy offered is almost startlingly ordinary -- not a theological argument, just a kind word, spoken or received. It's a reminder that comfort for anxiety doesn't always need to be profound to be real; sometimes it just needs to arrive.",
+      "prayer": "Lord, lift some of this weight off my heart today, even if it comes through something as small as one kind word from someone I wasn't expecting. Help me notice the ordinary kindness that's already around me instead of only the weight I'm carrying. And let me be that kind word for someone else who's carrying their own today.",
+      "intensity": "steady",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "anxiety-isa-26-3",
+      "feeling_id": "anxiety",
+      "reflection": "The peace promised here is conditional not on circumstances lining up but on where the mind is fixed -- steadfast, staying rather than wandering back to every worry. Isaiah doesn't describe peace as the absence of reasons to be anxious, but as what happens to a mind that keeps returning its trust to the same place. Perfect peace, in that sense, is less a feeling that arrives and more a direction repeatedly chosen.",
+      "prayer": "Lord, keep my mind steadfast on you today, because I know how quickly it wanders back to every worry the moment I stop paying attention. I'm not asking for every anxious circumstance to resolve -- I'm asking for the peace that comes from trusting you inside them. Keep bringing my thoughts back to you, as many times as it takes today.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "anxiety-ps-34-4",
+      "feeling_id": "anxiety",
+      "reflection": "David describes this in the past tense, as something that already happened to him, not a theory about what God might do. Seeking comes first in the verse, before the answer and before the deliverance -- the fears weren't removed instantly on their own, but in the course of an actual search for God. It's a testimony offered so someone else afraid right now has reason to start seeking too.",
+      "prayer": "Lord, I'm seeking you in the middle of this anxiety, the way David did, and I'm asking you to answer the way you answered him. Deliver me from these fears, not necessarily by removing what I'm afraid of, but by meeting me while I'm afraid of it. Let this be something I can look back on and tell someone else about one day.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grief-ps-147-3",
+      "feeling_id": "grief",
+      "reflection": "The psalm pairs two images together -- healing and binding up -- the way a wound actually gets tended, not instantly closed but dressed and given time. It doesn't specify how long the healing takes, only that it's this God's particular work, aimed at hearts broken enough to need it. Grief isn't treated here as something to move past quickly, but as an injury worth the care of being properly bound.",
+      "prayer": "Lord, my heart feels broken right now, and I need you to actually bind it up rather than just tell me it will be fine eventually. Be patient with how slowly this is healing, and don't let me rush myself past grief that still needs tending. Do the kind of careful, unhurried work in me that this verse describes.",
+      "intensity": "acute",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grief-jn-11-35",
+      "feeling_id": "grief",
+      "reflection": "Two words, and yet they carry enormous weight -- Jesus, standing at Lazarus's tomb, already knowing he's about to raise him from the dead, still weeps. This isn't a failure of faith or a lapse before the miracle; it's grief that's allowed to exist fully even alongside real hope. If Jesus wept knowing the ending, grief doesn't require pretending you don't know that God is good.",
+      "prayer": "Lord, thank you that you wept, because it tells me my own tears aren't a sign that I'm doing this wrong. Let me grieve honestly today without feeling like I have to rush toward hope before I'm ready. And when I am ready, meet me there the way you met Mary and Martha, still crying alongside them.",
+      "intensity": "acute",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grief-2cor-1-3",
+      "feeling_id": "grief",
+      "reflection": "Paul describes comfort as something that doesn't stop with the person who first receives it -- it's given so it can be passed along to someone else in their own affliction later. This doesn't ask grief to have a purpose it doesn't have yet, only points out that comfort received rarely stays only in one place. Being comforted now might quietly be preparing you to comfort someone else you haven't met yet.",
+      "prayer": "Lord, comfort me in this grief the way only you really can, not with easy answers but with your actual presence. I'm not ready to think about helping anyone else with their pain right now, so please don't rush me there. But when I am ready, let what you've done for me become something I can genuinely offer someone else.",
+      "intensity": "steady",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grief-isa-61-1",
+      "feeling_id": "grief",
+      "reflection": "Isaiah's list is a series of exchanges, each one naming exactly what's being traded -- ashes for a garland, mourning for oil, heaviness for praise -- not a denial that ashes and mourning and heaviness are real. Every image assumes the grief came first and was genuine before anything gets exchanged. The exchange doesn't happen on a schedule Isaiah names; it's promised, not timed.",
+      "prayer": "Lord, I'm holding ashes right now, and I'm not asking you to pretend they aren't there. When the time is right, trade this heaviness for something lighter, this mourning for real joy, the way this promise describes. Until then, be patient with me while I'm still sitting in what's genuinely hard.",
+      "intensity": "steady",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grief-ps-56-8",
+      "feeling_id": "grief",
+      "reflection": "The psalmist imagines something almost tender in its specificity -- tears collected, wanderings counted, nothing about this grief going unnoticed or unrecorded. It's a strange comfort, maybe, to think of sorrow being kept somewhere rather than simply passing unmarked, but that's the claim: nothing here is wasted or invisible to God. Grief witnessed this closely doesn't have to carry the added weight of feeling unseen.",
+      "prayer": "Lord, thank you for noticing tears I thought no one was counting. Let me feel truly seen in this grief instead of like I'm carrying it alone in the dark. Keep what I'm going through in your book, even the parts I haven't found words for yet.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grief-1the-4-13",
+      "feeling_id": "grief",
+      "reflection": "Paul doesn't tell the Thessalonians not to grieve -- he's specific that the difference is grieving without hope, not grieving at all. The comparison he draws is careful: because Jesus rose, those who died in him aren't lost the way grief without hope assumes. This doesn't make the grief itself smaller, only gives it a floor that doesn't give way completely.",
+      "prayer": "Lord, let me grieve honestly, the way this passage assumes I still will, without demanding I feel nothing. But hold me up with the hope Paul describes here, the hope that this isn't the end of the story for the one I'm grieving. Don't let my sorrow become the kind that has nowhere left to stand.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "temptation-jas-4-7",
+      "feeling_id": "temptation",
+      "reflection": "James puts submission before resistance, as if resisting temptation well depends first on being rightly aligned with God rather than starting with willpower alone. The promise that the devil will flee isn't vague -- it's a direct response to actual resistance, not merely wishing the temptation away. Fleeing suggests temptation itself isn't as fixed or permanent as it feels in the moment.",
+      "prayer": "Lord, I want to actually submit to you before I try to resist what's tempting me right now, because I know my own willpower runs out fast. Give me the strength to resist rather than negotiate with this, and let it genuinely flee the way this verse promises. Keep me close enough to you that resisting doesn't feel like it's all up to me.",
+      "intensity": "acute",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "temptation-gal-6-1",
+      "feeling_id": "temptation",
+      "reflection": "Paul's warning is aimed at the person doing the restoring as much as the one who fell -- a reminder that watching someone else's failure doesn't make you immune to the same one. Gentleness is specified, not because the fault doesn't matter, but because harshness tends to blind the person offering it to their own vulnerability. Nobody in this verse is positioned as safely above temptation.",
+      "prayer": "Lord, keep me humble about my own vulnerability to this, even while I'm trying to help or judge someone else who's struggling. Restore me gently where I've already fallen, and help me offer that same gentleness rather than superiority to others. Don't let me think I'm above the very thing I'm tempted by right now.",
+      "intensity": "steady",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "temptation-2pet-2-9",
+      "feeling_id": "temptation",
+      "reflection": "Peter states this as something God simply knows how to do -- not a hope or a possibility but a settled competence, drawn from examples earlier in the passage of people who were actually delivered. The confidence here isn't in the person facing temptation but in God's demonstrated skill at rescue. Knowing how implies experience, not a first attempt.",
+      "prayer": "Lord, I'm trusting that you know how to deliver me out of this, even when I don't know how to get myself out of it. Do what you've already shown you know how to do, the way you did for others before me. Don't let this temptation be the one time your rescue doesn't reach.",
+      "intensity": "steady",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "temptation-ps-119-11",
+      "feeling_id": "temptation",
+      "reflection": "The psalmist describes preparation done ahead of time, before the moment of temptation arrives -- the word already hidden, already stored, not searched for under pressure. Sin here is framed relationally, against a person rather than only a rule broken, which changes what's at stake in resisting it. Hiding the word isn't passive; it's an active safeguard placed before it's needed.",
+      "prayer": "Lord, help me store your word in my heart now, before I need it in the exact moment I'm being pulled toward this sin. Let what I've already hidden there rise up when I need it, faster than I can think my way out of trouble. Remind me this is against you, not just a rule, so I have real reason to resist.",
+      "intensity": "steady",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "temptation-eph-6-11",
+      "feeling_id": "temptation",
+      "reflection": "Paul's instruction is to put on the whole armor, not just the pieces that feel relevant to today's particular struggle -- the picture assumes vulnerability wherever something is left uncovered. \"Wiles\" suggests something more like strategy than brute force, a temptation aimed carefully rather than randomly. Standing, not winning outright, is the goal named here -- holding your ground is itself the victory in view.",
+      "prayer": "Lord, help me put on the whole armor you've given, not just the parts that feel useful for today's temptation, because I don't always know where I'm exposed. Give me strength to simply stand where I am rather than retreat or fall, even if standing is all I can manage right now. Protect the places I don't even realize are vulnerable.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "temptation-1pet-5-8",
+      "feeling_id": "temptation",
+      "reflection": "Peter's warning names the danger clearly rather than softening it -- a lion actively seeking, not a distant or theoretical threat. But the instruction that follows isn't panic; it's watchfulness and sobriety, a clear-eyed alertness rather than fear. Withstanding is done in faith, not in personal strength alone, which is the only reason standing steadfast against something this real is possible at all.",
+      "prayer": "Lord, help me stay alert and clear-headed instead of drifting into the kind of carelessness that makes me easy to catch. I know this temptation isn't harmless, so give me the steadfast faith Peter describes to withstand it rather than face it in my own strength. Keep me watchful without letting that watchfulness turn into fear.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lonely-heb-13-5",
+      "feeling_id": "lonely",
+      "reflection": "The promise arrives attached to a warning about the love of money, as if the writer already anticipated that loneliness and lack often push people toward filling the gap with something else instead. The double negative behind \"in no way\" and \"in any way\" is deliberately emphatic, almost overstated, as if ordinary language wasn't strong enough for how absolute this promise is meant to be. Contentment is possible here not because circumstances are enough, but because God's presence is being named as more permanent than they are.",
+      "prayer": "Lord, when loneliness makes me reach for something else to fill the space, remind me first that you have promised never to leave. Help me actually believe the strength of that promise instead of just knowing the words. Teach me contentment that comes from your presence being enough, even on the nights it doesn't feel like it.",
+      "intensity": "acute",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lonely-ps-25-16",
+      "feeling_id": "lonely",
+      "reflection": "David doesn't try to explain his loneliness away or reason himself out of it; he names it plainly -- desolate, afflicted -- and turns that naming directly into a request. There's no pretense here that faith means not feeling isolated; the prayer exists precisely because the feeling is real. Mercy is asked for, not earned, which means the loneliness itself doesn't need to be resolved first before God turns toward him.",
+      "prayer": "Lord, I am lonely, and I don't want to dress that up as anything less honest than David's own words. Turn toward me the way he asked you to turn toward him, and have mercy on me in the middle of feeling this desolate. I'm not asking to have earned your attention first -- I'm just asking for it now.",
+      "intensity": "acute",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lonely-ps-139-7",
+      "feeling_id": "lonely",
+      "reflection": "The psalmist runs through the most extreme possibilities he can imagine -- the highest heaven, the depths, the far edges of the sea -- and finds God already present at every single one. This isn't presented as constraining or inescapable in a threatening sense, but as the deepest possible answer to isolation: there is nowhere solitude can take you that outruns God's presence. Loneliness, this severe, still can't actually put you anywhere alone.",
+      "prayer": "Lord, when loneliness convinces me I've drifted somewhere even you can't reach, remind me of what this psalm actually says. There is no place I could go, no depth low enough, where your presence hasn't already arrived first. Let that truth actually reach the isolated part of me tonight, not just my head.",
+      "intensity": "steady",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lonely-ps-23-4",
+      "feeling_id": "lonely",
+      "reflection": "This is one of the most familiar verses in Scripture, but its comfort depends on a specific detail easy to miss -- the valley is being walked through, not lived in permanently, and it's walked with someone rather than alone. The rod and staff are tools for guiding and protecting, ordinary shepherd's equipment rather than dramatic rescue, which makes the comfort feel steady rather than sudden. Fear loses its grip not because the valley disappears, but because of who is confirmed to be walking through it too.",
+      "prayer": "Lord, walk this valley with me, however long it turns out to be, because I don't think I can walk it convincingly alone. Let your presence be as real and near to me as a shepherd's rod and staff actually in hand. Take the fear that wants to grow in this loneliness and replace it with the comfort of knowing you're here.",
+      "intensity": "steady",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lonely-jn-14-16",
+      "feeling_id": "lonely",
+      "reflection": "Jesus makes this promise to disciples who are about to feel his physical absence acutely -- he is leaving, and he answers that coming loss with the promise of a presence that will last forever rather than temporarily. \"Another Counselor\" implies continuity, not a lesser replacement, someone of the same kind stepping into an ongoing role. Forever is the specific word used here, directly answering the kind of loneliness that fears every good presence eventually leaves.",
+      "prayer": "Lord, thank you that you didn't leave your disciples, or me, without real presence when things changed. Let the Spirit you promised be as near and real to me tonight as this loneliness feels. Remind me forever is the actual word you used, not just a temporary comfort until something better comes along.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lonely-ps-27-10",
+      "feeling_id": "lonely",
+      "reflection": "David names the most fundamental human relationships he can imagine failing -- not strangers or acquaintances, but father and mother -- and still finds God's welcome underneath even that. This isn't necessarily describing David's own literal experience so much as naming the worst-case loneliness a person can imagine, the loss of the people who are supposed to be there no matter what. Even there, being taken up is promised, not merely tolerated.",
+      "prayer": "Lord, on the days loneliness makes me feel like even the people closest to me have drifted away, remind me you take up what's been forsaken. I don't need every relationship repaired tonight to know I'm not actually alone. Be the one who takes me up when it feels like everyone else has let go.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
     }
   ],
   "entry_passages": [
@@ -7518,6 +8073,186 @@
     {
       "entry_id": "suffering-ro-5-3",
       "passage_id": "web-c:ro:5:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "fear-ps-56-3",
+      "passage_id": "web-c:ps:56:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "fear-isa-43-1",
+      "passage_id": "web-c:isa:43:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "fear-deut-31-8",
+      "passage_id": "web-c:deut:31:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "fear-isa-41-13",
+      "passage_id": "web-c:isa:41:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "fear-ps-91-4",
+      "passage_id": "web-c:ps:91:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "fear-1jo-4-18",
+      "passage_id": "web-c:1jo:4:18",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "anxiety-mt-6-25",
+      "passage_id": "web-c:mt:6:25",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "anxiety-mt-6-34",
+      "passage_id": "web-c:mt:6:34",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "anxiety-ps-55-22",
+      "passage_id": "web-c:ps:55:22",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "anxiety-pr-12-25",
+      "passage_id": "web-c:pr:12:25",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "anxiety-isa-26-3",
+      "passage_id": "web-c:isa:26:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "anxiety-ps-34-4",
+      "passage_id": "web-c:ps:34:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grief-ps-147-3",
+      "passage_id": "web-c:ps:147:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grief-jn-11-35",
+      "passage_id": "web-c:jn:11:35",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grief-2cor-1-3",
+      "passage_id": "web-c:2cor:1:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grief-isa-61-1",
+      "passage_id": "web-c:isa:61:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grief-ps-56-8",
+      "passage_id": "web-c:ps:56:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grief-1the-4-13",
+      "passage_id": "web-c:1the:4:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "temptation-jas-4-7",
+      "passage_id": "web-c:jas:4:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "temptation-gal-6-1",
+      "passage_id": "web-c:gal:6:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "temptation-2pet-2-9",
+      "passage_id": "web-c:2pet:2:9",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "temptation-ps-119-11",
+      "passage_id": "web-c:ps:119:11",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "temptation-eph-6-11",
+      "passage_id": "web-c:eph:6:11",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "temptation-1pet-5-8",
+      "passage_id": "web-c:1pet:5:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lonely-heb-13-5",
+      "passage_id": "web-c:heb:13:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lonely-ps-25-16",
+      "passage_id": "web-c:ps:25:16",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lonely-ps-139-7",
+      "passage_id": "web-c:ps:139:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lonely-ps-23-4",
+      "passage_id": "web-c:ps:23:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lonely-jn-14-16",
+      "passage_id": "web-c:jn:14:16",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lonely-ps-27-10",
+      "passage_id": "web-c:ps:27:10",
       "position": 0,
       "role": "primary"
     }
