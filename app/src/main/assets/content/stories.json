@@ -1,5 +1,5 @@
 {
-  "_note": "Stories tab (Phase 6). 74 of 146 authored -- all 5 OT batches plus Infancy complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
+  "_note": "Stories tab (Phase 6). 89 of 146 authored -- all 5 OT batches plus Infancy and Ministry & Miracles complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
   "stories": [
     {
       "id": "creation-of-the-world",
@@ -1639,6 +1639,306 @@
           "verse_start": 41,
           "chapter_end": 2,
           "verse_end": 52
+        }
+      ]
+    },
+    {
+      "id": "the-baptism-of-jesus",
+      "title": "The Baptism of Jesus",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "narrative",
+      "summary": "Jesus came from Galilee to the Jordan River to be baptized by John, though John tried to stop him, insisting he himself needed to be baptized by Jesus instead. Jesus told him to allow it, since it was fitting to fulfill all righteousness this way. As soon as Jesus came up out of the water, the heavens opened, the Spirit of God descended on him like a dove, and a voice from heaven declared, “This is my beloved Son, with whom I am well pleased.”",
+      "moral": "Solidarity and identity affirmed publicly can prepare someone for the mission still ahead.",
+      "reflection": "Jesus doesn't need this baptism of repentance the way everyone else at the Jordan does, yet he insists on receiving it anyway, standing in solidarity with the very people he came to save. The moment is marked by all three persons of the Trinity together -- the Son baptized, the Spirit descending, the Father's voice from heaven -- a rare, concentrated glimpse of who Jesus actually is right before his public ministry begins. This affirmation comes before Jesus has done anything yet in his ministry, a reminder that identity and belovedness aren't earned by accomplishment.",
+      "sort_order": 75,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 3,
+          "verse_start": 13,
+          "chapter_end": 3,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "id": "the-temptation-in-the-wilderness",
+      "title": "The Temptation in the Wilderness",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "narrative",
+      "summary": "After being baptized, Jesus was led by the Spirit into the wilderness, where he fasted forty days and was then tempted by the devil three times: first to turn stones into bread to satisfy his hunger, then to throw himself from the temple to test God's protection, and finally to worship the devil in exchange for all the kingdoms of the world. Each time, Jesus responded by quoting Scripture rather than acting on his own power or desire, and after the third temptation, the devil left him, and angels came to attend to him.",
+      "moral": "Resisting shortcuts to a true calling keeps that calling intact.",
+      "reflection": "Each temptation offers Jesus a real shortcut to something he will eventually have anyway -- food, protection, authority over the nations -- just without the suffering his actual mission will require. Jesus answers every temptation with Scripture rather than his own reasoning, showing where his strength in the moment actually comes from. The devil's departure isn't described as permanent; Luke's version notes he left “until an opportune time,” a reminder that resisting temptation once doesn't mean it's gone for good.",
+      "sort_order": 76,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "id": "calling-of-the-first-disciples",
+      "title": "Calling of the First Disciples",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "narrative",
+      "summary": "After teaching a crowd from Simon Peter's boat, Jesus told him to go out into deeper water and let down his nets, even though Peter and his partners had fished all night and caught nothing. Peter obeyed despite his doubts, and the catch was so enormous that the nets began to break and both boats nearly sank under the weight of the fish. Overwhelmed, Peter fell at Jesus' knees, calling himself a sinful man, but Jesus told him not to be afraid, since from now on he would be catching people instead of fish. Peter, James, and John brought their boats to shore and left everything behind to follow Jesus.",
+      "moral": "Immediate, costly response to being called can outweigh even a night of exhausting failure.",
+      "reflection": "Peter's obedience here doesn't come from confidence that the plan will work -- he's already exhausted from a fruitless night and says as much -- yet he tries again simply because Jesus asked him to. The overwhelming catch isn't really the point of the story; it's what convinces Peter that this man asking him to follow has authority worth trusting completely. Leaving “everything” behind, including a boat now full of the most valuable catch of their lives, shows how thoroughly this encounter reordered their priorities in a single moment.",
+      "sort_order": 77,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 5,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "id": "water-into-wine-at-cana",
+      "title": "Water into Wine at Cana",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "miracle",
+      "summary": "At a wedding celebration in Cana, the wine ran out, and Jesus' mother told him about the problem, though he replied that his time had not yet come. She told the servants simply to do whatever he told them, and Jesus had them fill six large stone jars with water, then draw some out and take it to the master of the feast. The water had become wine, and remarkably good wine, so much so that the master of the feast complimented the bridegroom for saving the best wine for last. This was the first of Jesus' signs, and it revealed his glory, leading his disciples to believe in him.",
+      "moral": "Quiet generosity meeting an ordinary need can be the first sign of something much bigger at work.",
+      "reflection": "Jesus' first public miracle isn't a dramatic healing or a cosmic sign -- it's solving an embarrassing, mundane problem at a wedding, quietly and without fanfare, since only the servants know what actually happened. Mary's simple instruction to the servants, “whatever he says to you, do it,” is the last recorded words of hers in the Gospels, and it's advice that works. The abundance and quality of the wine Jesus provides -- better than what the host himself supplied -- hints at the kind of generous, overflowing goodness that will characterize his whole ministry.",
+      "sort_order": 78,
+      "verse_refs": [
+        {
+          "book_id": "jn",
+          "chapter_start": 2,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "id": "the-calming-of-the-storm",
+      "title": "The Calming of the Storm",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "miracle",
+      "summary": "As Jesus and his disciples crossed the Sea of Galilee by boat in the evening, a violent windstorm arose, filling the boat with water while Jesus, exhausted, slept through it on a cushion in the stern. Terrified, the disciples woke him, asking if he cared that they were about to die, and Jesus stood up, rebuked the wind, and said to the sea, “Peace! Be still!” -- and the wind ceased and the sea became completely calm. Jesus then asked his disciples why they were so afraid and had so little faith, and they were left in awe, asking one another, “Who then is this, that even the wind and the sea obey him?”",
+      "moral": "Peace is possible even in real danger, when it's met with genuine faith.",
+      "reflection": "Jesus' sleep through a storm violent enough to terrify experienced fishermen isn't carelessness -- it shows a trust so complete he doesn't need to be awake and controlling the situation to be safe in it. His rebuke isn't only directed at the storm; his question to the disciples, about their fear and lack of faith, suggests the real issue wasn't only the wind and waves but what they believed about who was in the boat with them. The disciples' question afterward, wondering who this man really is, is the honest response anyone might have after watching creation itself obey a simple command.",
+      "sort_order": 79,
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter_start": 4,
+          "verse_start": 35,
+          "chapter_end": 4,
+          "verse_end": 41
+        }
+      ]
+    },
+    {
+      "id": "the-beheading-of-john-the-baptist",
+      "title": "The Beheading of John the Baptist",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "narrative",
+      "summary": "Herod the tetrarch had imprisoned John the Baptist for publicly condemning his unlawful marriage to his brother's wife, Herodias, and though Herod feared the crowds who considered John a prophet, Herodias wanted him dead. At Herod's birthday banquet, Herodias's daughter danced and so pleased Herod that he swore an oath to give her anything she asked; prompted by her mother, she requested John's head on a platter. Though grieved, Herod, unwilling to break his oath in front of his guests, had John beheaded in prison, and his head was brought to the girl and given to her mother. John's disciples came, took his body, and buried it, then went and told Jesus.",
+      "moral": "Pride and the fear of losing face can lead someone to commit an evil they know is wrong.",
+      "reflection": "Herod's grief at the request shows he knows exactly what he's about to do is wrong, yet his concern for how he'll look in front of his guests outweighs his conscience. This is a story with no miracle and no rescue -- John, the very forerunner who prepared the way for Jesus, is killed for simply telling the truth to a powerful man who didn't want to hear it. John's disciples' final act, quietly burying his body and then going straight to tell Jesus, shows where their grief naturally led them next -- toward the very one John had spent his life pointing to.",
+      "sort_order": 80,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 14,
+          "verse_start": 1,
+          "chapter_end": 14,
+          "verse_end": 12
+        }
+      ]
+    },
+    {
+      "id": "feeding-of-the-5000",
+      "title": "Feeding of the 5,000",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "miracle",
+      "summary": "After hearing of John the Baptist's death, Jesus withdrew by boat to a deserted place, but crowds followed him on foot, and rather than sending them away, he had compassion on them and healed their sick. As evening came and the disciples urged him to dismiss the hungry crowd, Jesus told them to give the people something to eat themselves, and when they said they only had five loaves and two fish, he took what little they had, blessed it, and had the disciples distribute it. Everyone ate until they were full, and twelve baskets of leftovers were gathered, even though about five thousand men, plus women and children, had been fed.",
+      "moral": "Small offerings, given to God, become more than enough.",
+      "reflection": "Jesus doesn't multiply the food from nothing -- he starts with what the disciples already have, however inadequate it looks against the size of the need. His instruction, “you give them something to eat,” puts real responsibility on the disciples before the miracle even happens, rather than simply doing everything himself while they watch. The twelve baskets of leftovers, one for each disciple to carry, suggest a generosity that doesn't just barely meet the need but overflows well past it.",
+      "sort_order": 81,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 14,
+          "verse_start": 13,
+          "chapter_end": 14,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "id": "jesus-walks-on-water",
+      "title": "Jesus Walks on Water",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "miracle",
+      "summary": "After feeding the crowd, Jesus sent his disciples ahead by boat while he went up a mountain alone to pray. Late that night, with the boat far from shore and battling strong wind and waves, Jesus came to them walking on the water, and the terrified disciples thought he was a ghost until he told them, “It is I. Don't be afraid.” Peter asked to come to him on the water, and Jesus called him out, and Peter walked on the water too -- until he noticed the wind and grew afraid, beginning to sink, crying out for Jesus to save him. Jesus immediately caught him, gently asking why he had doubted, and once they climbed into the boat together, the wind stopped, and the disciples worshiped him as the Son of God.",
+      "moral": "Faith wavers when focus shifts from Christ to the danger around us.",
+      "reflection": "Peter's brief walk on the water is remarkable both for how far his faith carried him and for how quickly it faltered once his attention shifted from Jesus to the wind. Jesus doesn't scold Peter for sinking so much as ask a genuine question -- “why did you doubt?” -- inviting reflection rather than shame. His hand is there the instant Peter cries out, immediate and without hesitation, a picture of exactly how close rescue is even in the middle of a failure of faith.",
+      "sort_order": 82,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 14,
+          "verse_start": 22,
+          "chapter_end": 14,
+          "verse_end": 33
+        }
+      ]
+    },
+    {
+      "id": "healing-of-the-paralyzed-man",
+      "title": "Healing of the Paralyzed Man",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "miracle",
+      "summary": "When Jesus was teaching in a crowded house in Capernaum, four men carrying a paralyzed friend couldn't get through the crowd, so they climbed onto the roof, dug through it, and lowered their friend down on his mat right in front of Jesus. Seeing their faith, Jesus told the paralyzed man that his sins were forgiven, which some scribes silently considered blasphemy, since only God can forgive sins. Knowing their thoughts, Jesus asked which was easier to say -- that sins are forgiven, or to command a paralyzed man to walk -- and then told the man to get up, take his mat, and go home, which he immediately did in front of the astonished crowd.",
+      "moral": "Friends' persistence brings someone to healing they couldn't reach on their own.",
+      "reflection": "The paralyzed man never says a word in this story -- it's entirely his friends' persistence, tearing a hole in someone's roof rather than giving up, that brings him into Jesus' presence. Jesus responds to their faith, not just the paralyzed man's own, showing that intercession on someone else's behalf genuinely matters. The healing itself is almost secondary to the forgiveness that comes first, proving through a visible miracle an invisible authority the scribes couldn't otherwise verify.",
+      "sort_order": 83,
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter_start": 2,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 12
+        }
+      ]
+    },
+    {
+      "id": "the-centurions-servant",
+      "title": "The Centurion's Servant",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "miracle",
+      "summary": "A Roman centurion in Capernaum approached Jesus, asking him to heal his servant who was paralyzed and suffering terribly. When Jesus offered to come to his house, the centurion replied that he wasn't worthy to have Jesus under his roof, and that Jesus need only say the word, since the centurion himself understood authority -- he could simply give an order and it would be carried out. Jesus marveled at this, saying he hadn't found such great faith even in Israel, and told the centurion to go, that it would be done for him as he believed; the servant was healed at that very hour.",
+      "moral": "Faith without needing to see is still recognized and rewarded.",
+      "reflection": "The centurion's faith is striking precisely because of who he is -- a Roman military officer, an outsider to Israel's faith, who nonetheless grasps something about Jesus' authority that even Jesus' own people often missed. His comparison to his own chain of command is simple but profound: if his own word moves soldiers to act, how much more can Jesus' word alone accomplish healing from a distance. Jesus' amazement at this man's faith, and his willingness to heal without even entering the house, shows that real faith was never limited to Israel's own borders.",
+      "sort_order": 84,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 8,
+          "verse_start": 5,
+          "chapter_end": 8,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "id": "jairus-daughter-woman-with-the-hemorrhage",
+      "title": "Jairus' Daughter / Woman with the Hemorrhage",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "miracle",
+      "summary": "Jairus, a synagogue ruler, begged Jesus to come heal his dying daughter, and as Jesus went with him through the crowded streets, a woman who had suffered from constant bleeding for twelve years, having spent everything on doctors with no relief, touched Jesus' clothes from behind, believing that alone would heal her -- and it did, instantly. Jesus, feeling power go out from him, asked who had touched him, and the trembling woman came forward and told him the whole truth; Jesus told her that her faith had made her well. While he was still speaking, messengers arrived saying Jairus's daughter had already died, but Jesus told Jairus not to be afraid, only to believe, and went to the house, where he took the girl by the hand and said, “Talitha cumi” -- “Girl, get up!” -- and she immediately rose and walked, to everyone's astonishment.",
+      "moral": "Faith reaches out even in desperation, against social expectation, and against apparent hopelessness.",
+      "reflection": "Both the woman and Jairus interrupt Jesus' urgent journey to heal a dying child, yet Jesus stops fully for each of them rather than rushing past the woman's quiet, desperate faith. Her condition would have made her ritually unclean and socially isolated for twelve years, yet she risks reaching out in a crowd rather than approaching openly, and Jesus draws her into the open anyway, naming her “daughter.” The news of the girl's death arrives exactly at the moment it seems delay has cost Jairus everything, yet Jesus' response, “don't be afraid, only believe,” shows that even apparent hopelessness isn't the final word when he's involved.",
+      "sort_order": 85,
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter_start": 5,
+          "verse_start": 21,
+          "chapter_end": 5,
+          "verse_end": 43
+        }
+      ]
+    },
+    {
+      "id": "the-raising-of-lazarus",
+      "title": "The Raising of Lazarus",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "miracle",
+      "summary": "When his close friend Lazarus fell seriously ill, Jesus deliberately delayed his arrival, telling his disciples the sickness was for God's glory, and by the time he reached Bethany, Lazarus had already been dead four days. Martha met Jesus first, grieving but still confident God would give him whatever he asked, and Jesus told her, “I am the resurrection and the life. He who believes in me will still live, even if he dies.” When Mary came out weeping, along with the mourners around her, Jesus himself was deeply moved and wept. At the tomb, despite Martha's warning about the smell after four days, Jesus had the stone removed, prayed aloud, and then called out, “Lazarus, come out!” -- and Lazarus walked out of the tomb, still wrapped in his burial cloths, alive.",
+      "moral": "Grief held together with real hope in resurrection doesn't cancel either one.",
+      "reflection": "Jesus' own tears at Lazarus's tomb are striking, since he already knows he's about to raise him from the dead -- grief and hope aren't shown here as opposites that cancel each other out. His deliberate delay in coming isn't indifference; it sets up a miracle so undeniable, four days dead rather than freshly passed, that no one could later claim Lazarus had merely been resuscitated from a coma. This miracle becomes the direct trigger for the events leading to Jesus' own death, since it's the sign that finally convinces the religious authorities he must be stopped -- his gift of life to Lazarus sets in motion the giving of his own.",
+      "sort_order": 86,
+      "verse_refs": [
+        {
+          "book_id": "jn",
+          "chapter_start": 11,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 44
+        }
+      ]
+    },
+    {
+      "id": "the-ten-lepers",
+      "title": "The Ten Lepers",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "miracle",
+      "summary": "As Jesus traveled toward Jerusalem, ten men suffering from leprosy called out to him from a distance, begging for mercy, and he told them simply to go show themselves to the priests, as the law required for anyone declared healed. As they went, obeying before they had actually seen any change, all ten were healed. But only one of them, a Samaritan, turned back to thank Jesus, praising God loudly and falling at his feet. Jesus asked where the other nine were, since only this foreigner had returned to give glory to God, and told the man that his faith had made him well.",
+      "moral": "Gratitude is rarer, and more noticed, than the miracle itself.",
+      "reflection": "All ten lepers show real faith by obeying Jesus' instruction before they see any evidence it worked, walking toward the priests while still visibly sick. Only one returns to say thank you, and pointedly, he's the outsider -- a Samaritan, someone the other nine might not have expected to model gratitude better than they did. Jesus' question, “where are the nine?”, isn't really about the missing thanks for his own sake, so much as a gentle observation of how easily a miracle can be received and then simply moved past without a second thought.",
+      "sort_order": 87,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 17,
+          "verse_start": 11,
+          "chapter_end": 17,
+          "verse_end": 19
+        }
+      ]
+    },
+    {
+      "id": "blind-bartimaeus",
+      "title": "Blind Bartimaeus",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "miracle",
+      "summary": "As Jesus was leaving Jericho with a large crowd, a blind beggar named Bartimaeus heard that Jesus was passing by and began shouting, “Jesus, son of David, have mercy on me!” Many in the crowd told him to be quiet, but he only shouted louder, until Jesus stopped and called for him to be brought over. Asked what he wanted, Bartimaeus simply said, “that I may see again,” and Jesus told him his faith had healed him. Immediately he received his sight and followed Jesus on the road.",
+      "moral": "Persistence in crying out, despite being told to be quiet, can bring you exactly to where Jesus stops.",
+      "reflection": "Bartimaeus's persistence in the face of a crowd actively trying to silence him is the most striking detail in this short story -- he refuses to let other people's discomfort keep him from the one chance he has. Jesus' simple question, “what do you want me to do for you?”, gives Bartimaeus the dignity of naming his own need rather than assuming it, even though his blindness is obvious to everyone. His immediate response afterward, following Jesus on the road rather than going his own way now that he's healed, suggests his healing was never separate from wanting to actually follow Jesus.",
+      "sort_order": 88,
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter_start": 10,
+          "verse_start": 46,
+          "chapter_end": 10,
+          "verse_end": 52
+        }
+      ]
+    },
+    {
+      "id": "the-transfiguration",
+      "title": "The Transfiguration",
+      "testament": "nt",
+      "book_group": "ministry_miracles",
+      "story_type": "miracle",
+      "summary": "Jesus took Peter, James, and John up a high mountain, and before them he was transfigured -- his face shone like the sun and his clothes became dazzling white. Moses and Elijah appeared, talking with him, and Peter, overwhelmed, offered to build three shelters for them. While he was still speaking, a bright cloud overshadowed them, and a voice from the cloud said, “This is my beloved Son, in whom I am well pleased. Listen to him.” The disciples fell to the ground in fear, and when Jesus touched them and told them to get up, they looked up to see no one but Jesus alone.",
+      "moral": "A glimpse of glory can sustain someone through the hard road that follows.",
+      "reflection": "Moses and Elijah, representing the Law and the Prophets, appear alongside Jesus, showing that everything Israel's Scriptures had pointed toward was standing right there, fulfilled in him. The voice from the cloud repeats almost exactly what was said at Jesus' baptism, but adds a command this time -- “listen to him” -- right as Jesus is about to begin teaching his disciples plainly about his coming suffering and death. This mountaintop moment comes just before the road turns hard, giving Peter, James, and John a glimpse of glory to hold onto through everything that follows in Jerusalem.",
+      "sort_order": 89,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 17,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 8
         }
       ]
     }
