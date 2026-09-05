@@ -1,5 +1,5 @@
 {
-  "_note": "Stories tab (Phase 6). 65 of 146 authored -- Pentateuch, Historical, Wisdom & Prophets, and Deuterocanonical batches complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
+  "_note": "Stories tab (Phase 6). 74 of 146 authored -- all 5 OT batches plus Infancy complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
   "stories": [
     {
       "id": "creation-of-the-world",
@@ -1452,6 +1452,193 @@
           "verse_start": 20,
           "chapter_end": 7,
           "verse_end": 29
+        }
+      ]
+    },
+    {
+      "id": "the-annunciation",
+      "title": "The Annunciation",
+      "testament": "nt",
+      "book_group": "infancy",
+      "story_type": "narrative",
+      "summary": "The angel Gabriel appeared to a young woman named Mary in Nazareth, greeting her as highly favored and telling her not to be afraid, since God had chosen her to conceive and give birth to a son named Jesus, who would be called the Son of the Most High and reign forever. When Mary asked how this could happen since she was a virgin, Gabriel explained that the Holy Spirit would come upon her, and reassured her that her relative Elizabeth, thought to be barren, was also expecting a son -- proof that nothing is impossible for God. Mary answered simply, “Behold, the servant of the Lord; let it be done to me according to your word,” and the angel left her.",
+      "moral": "Trusting God's word, even in something impossible to fully understand, opens the door to what he wants to do.",
+      "reflection": "Mary's question, “how can this be,” isn't doubt -- it's an honest question from someone taking the angel's word completely seriously, and Gabriel answers it directly rather than brushing it aside. Her final answer is remarkably brief given the enormity of what's being asked of her: no negotiation, no delay, just a willing yes. Christians have long seen Mary's “let it be done to me” as the moment that reverses Eve's “no” in the garden -- trust replacing doubt at the very start of the story of salvation.",
+      "sort_order": 66,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 1,
+          "verse_start": 26,
+          "chapter_end": 1,
+          "verse_end": 38
+        }
+      ]
+    },
+    {
+      "id": "the-visitation",
+      "title": "The Visitation",
+      "testament": "nt",
+      "book_group": "infancy",
+      "story_type": "narrative",
+      "summary": "After learning she would bear the Messiah, Mary hurried to visit her relative Elizabeth, who was also unexpectedly pregnant in her old age. The moment Mary greeted her, the baby in Elizabeth's womb leaped for joy, and Elizabeth, filled with the Holy Spirit, cried out in blessing, recognizing that Mary was carrying “my Lord.” Mary responded with a song of praise, the Magnificat, celebrating a God who lifts up the humble, fills the hungry, and keeps his promises to Israel across every generation. Mary stayed with Elizabeth about three months before returning home.",
+      "moral": "Joy shared between two people trusting God together can overflow even before anything visible has happened yet.",
+      "reflection": "Neither woman's pregnancy makes any sense by ordinary standards -- one too old, one unmarried -- yet both recognize immediately what God is doing in the other, without needing proof beyond a leaping baby and a filled heart. Mary's song echoes Hannah's prayer from centuries earlier almost word for word, showing how deeply she knew her own people's scriptures even as a young woman. The Magnificat isn't quiet or modest praise -- it's a bold declaration that God is actively overturning the world's usual order, favoring the lowly over the powerful.",
+      "sort_order": 67,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 1,
+          "verse_start": 39,
+          "chapter_end": 1,
+          "verse_end": 56
+        }
+      ]
+    },
+    {
+      "id": "birth-of-john-the-baptist",
+      "title": "Birth of John the Baptist",
+      "testament": "nt",
+      "book_group": "infancy",
+      "story_type": "narrative",
+      "summary": "When Elizabeth gave birth to her son, her neighbors expected him to be named after his father Zacharias, but Elizabeth insisted his name would be John, exactly as the angel had commanded. When Zacharias, who had been unable to speak since doubting the angel's announcement months earlier, confirmed the name in writing, his voice returned immediately, and he began praising God. Filled with the Holy Spirit, Zacharias prophesied over his infant son, blessing God for raising up salvation for Israel and telling John that he would go before the Lord to prepare his way, giving people knowledge of salvation through the forgiveness of their sins.",
+      "moral": "A promise kept exactly as given can restore what silence and doubt had taken away.",
+      "reflection": "Zacharias's silence throughout Elizabeth's pregnancy was itself a consequence of doubting the angel's word -- and it's only when he obediently confirms the name John, exactly as commanded, that his voice returns. His prophecy over John isn't really about John at all in the end -- it turns quickly to praising the “horn of salvation” God is raising up through David's house, meaning Jesus, still unborn. This whole scene sets up John's entire life's purpose before he's even a day old: to prepare the way for someone greater than himself.",
+      "sort_order": 68,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 1,
+          "verse_start": 57,
+          "chapter_end": 1,
+          "verse_end": 80
+        }
+      ]
+    },
+    {
+      "id": "the-birth-of-jesus",
+      "title": "The Birth of Jesus",
+      "testament": "nt",
+      "book_group": "infancy",
+      "story_type": "narrative",
+      "summary": "A Roman census required everyone to register in their ancestral town, so Joseph traveled with the very pregnant Mary from Nazareth to Bethlehem, the city of David, because he belonged to David's family line. While they were there, the time came for Mary to give birth, and she had her firstborn son, wrapped him in cloth, and laid him in a manger, since there was no room for them in the inn.",
+      "moral": "God's arrival in the world came in humility, not power or comfort.",
+      "reflection": "The birth of the Messiah, the event the whole Old Testament had been anticipating, happens with almost no fanfare -- a young couple far from home, an overcrowded town, and a feeding trough for a bed. Even the reason Jesus is born in Bethlehem is entirely ordinary on the surface, a tax registration Joseph had no choice but to comply with, yet it fulfills what the prophets had said centuries earlier about the Messiah's birthplace. This quiet, unremarkable-looking beginning turns out to be the hinge point of the entire story Scripture has been telling.",
+      "sort_order": 69,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 2,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 7
+        }
+      ]
+    },
+    {
+      "id": "the-shepherds-and-the-angels",
+      "title": "The Shepherds and the Angels",
+      "testament": "nt",
+      "book_group": "infancy",
+      "story_type": "narrative",
+      "summary": "On the night Jesus was born, shepherds keeping watch over their flocks outside Bethlehem were suddenly confronted by an angel and the glory of the Lord shining around them, and they were terrified. The angel told them not to be afraid, announcing good news of great joy -- a Savior had been born in David's city -- and gave them a sign: they would find the baby wrapped in cloth and lying in a manger. Suddenly a whole multitude of angels appeared, praising God and singing, “Glory to God in the highest, on earth peace, good will toward men.” The shepherds hurried to Bethlehem, found everything exactly as the angel had said, and left telling everyone they met, glorifying and praising God for what they had seen.",
+      "moral": "Good news given first to the overlooked shows exactly who God's arrival was really for.",
+      "reflection": "Shepherds were among the lowest-regarded workers in first-century society, yet they're the very first people told about the Messiah's birth -- before priests, before scholars, before anyone with status or standing. The sign the angel gives them is deliberately humble: not a palace or a throne, but a manger, matching the ordinary lowliness of the shepherds who receive the message. Their immediate response, rushing to see for themselves and then telling everyone afterward, is exactly the pattern good news is meant to follow -- received, verified, and then shared without holding back.",
+      "sort_order": 70,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 2,
+          "verse_start": 8,
+          "chapter_end": 2,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "id": "the-visit-of-the-magi",
+      "title": "The Visit of the Magi",
+      "testament": "nt",
+      "book_group": "infancy",
+      "story_type": "narrative",
+      "summary": "Wise men from the East, having seen a star signaling the birth of a new king, traveled to Jerusalem asking where to find him, alarming King Herod, who secretly gathered them to learn the star's timing and sent them to Bethlehem under the pretense of wanting to worship the child himself. The star led the magi directly to the house where Jesus was, and they were overjoyed, falling down to worship him and presenting gifts of gold, frankincense, and myrrh. Warned in a dream not to report back to Herod, they returned home by a different route, avoiding his trap.",
+      "moral": "Seeking truth persistently, even across a great distance, can lead to real worship.",
+      "reflection": "The magi are outsiders in every sense -- foreigners, likely astrologers, with no claim on Israel's promises -- yet they recognize and pursue the sign of the Messiah's birth more diligently than Herod's own religious experts, who knew the prophecy but never went to see for themselves. Their gifts carry meaning beyond simple wealth: gold for a king, frankincense for worship, myrrh that foreshadows the death this child would one day die. Herod's scheming contrasts sharply with the magi's simple joy -- one seeks the child to destroy him, the others to worship him.",
+      "sort_order": 71,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 2,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 12
+        }
+      ]
+    },
+    {
+      "id": "the-flight-into-egypt",
+      "title": "The Flight into Egypt",
+      "testament": "nt",
+      "book_group": "infancy",
+      "story_type": "narrative",
+      "summary": "Warned in a dream that Herod intended to kill the child, Joseph fled by night with Mary and Jesus into Egypt, staying there until Herod died, fulfilling the ancient prophecy, “Out of Egypt I called my son.” Once Herod was dead, an angel again told Joseph in a dream it was safe to return, but hearing that Herod's son Archelaus now ruled in his father's place, Joseph was afraid to go back to Judea and instead settled the family in Nazareth in Galilee, fulfilling another prophecy that the Messiah would be called a Nazarene.",
+      "moral": "Trusting guidance in danger and displacement can lead safely through what looks like exile.",
+      "reflection": "Joseph doesn't hesitate or ask for more information before fleeing in the middle of the night with his young family -- he simply obeys the warning he's given, twice, without complaint recorded either time. The child destined to save his people begins his own life as a refugee, fleeing violence in his own homeland, a detail that has resonated with displaced people throughout history ever since. Even this flight and eventual return end up fulfilling prophecy, showing that nothing in this frightening chapter, however chaotic it looked in the moment, was outside of God's plan.",
+      "sort_order": 72,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 2,
+          "verse_start": 13,
+          "chapter_end": 2,
+          "verse_end": 15
+        },
+        {
+          "book_id": "mt",
+          "chapter_start": 2,
+          "verse_start": 19,
+          "chapter_end": 2,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "id": "the-presentation-in-the-temple",
+      "title": "The Presentation in the Temple",
+      "testament": "nt",
+      "book_group": "infancy",
+      "story_type": "narrative",
+      "summary": "Following Jewish law, Mary and Joseph brought the infant Jesus to the temple in Jerusalem to present him to the Lord and offer the sacrifice required for a firstborn son. There they encountered Simeon, a devout man who had been promised by the Holy Spirit that he would not die before seeing the Messiah; taking Jesus into his arms, Simeon praised God, declaring he could now depart in peace, since he had seen God's promised salvation -- though he also warned Mary that a sword would pierce her own soul because of this child. Anna, an elderly prophetess who had spent decades in constant prayer and fasting at the temple, also recognized Jesus and began telling everyone looking for Israel's redemption about him.",
+      "moral": "Patient, lifelong waiting can be rewarded in a single unforgettable moment.",
+      "reflection": "Both Simeon and Anna have spent what sounds like their entire lives waiting for this exact moment, and Luke makes a point of showing that their patience wasn't wasted -- recognition comes not to the powerful but to two elderly people who never stopped watching and praying. Simeon's warning to Mary is the first hint in the Gospels that this child's life will bring both glory and real suffering, a shadow already falling over the joy of this presentation. Anna's response is immediate and active: the moment she recognizes Jesus, she starts telling others, unable to keep the news of what she's witnessed to herself.",
+      "sort_order": 73,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 2,
+          "verse_start": 22,
+          "chapter_end": 2,
+          "verse_end": 38
+        }
+      ]
+    },
+    {
+      "id": "jesus-in-the-temple-at-twelve",
+      "title": "Jesus in the Temple at Twelve",
+      "testament": "nt",
+      "book_group": "infancy",
+      "story_type": "narrative",
+      "summary": "During a family trip to Jerusalem for Passover, the twelve-year-old Jesus stayed behind in the city without his parents realizing it, and Mary and Joseph traveled a full day before discovering he wasn't with the group. They searched anxiously for three days before finding him in the temple, sitting among the teachers, listening and asking questions that amazed everyone who heard him. When his worried mother asked why he had treated them this way, Jesus replied, “Didn't you know that I must be in my Father's house?” though his parents didn't fully understand what he meant. He then returned home with them and was obedient to them, growing in wisdom and stature as he did.",
+      "moral": "Growing understanding of a deeper calling doesn't erase the ordinary obedience owed along the way.",
+      "reflection": "This is the only story in the Gospels about Jesus' childhood beyond his infancy, and it shows a boy already aware of a unique relationship with God as Father, startling even to his own parents. His question to Mary and Joseph isn't disrespectful -- it reveals a self-understanding beginning to surface, even while he still goes home afterward and remains obedient to them for years to come. Luke's closing note, that Jesus grew in wisdom and stature and favor, is a quiet reminder that even the Son of God's early life included the same ordinary, gradual growth every child experiences.",
+      "sort_order": 74,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 2,
+          "verse_start": 41,
+          "chapter_end": 2,
+          "verse_end": 52
         }
       ]
     }
