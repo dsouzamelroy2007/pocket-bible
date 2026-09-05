@@ -10,6 +10,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.FilterChip
@@ -17,6 +18,7 @@ import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -28,6 +30,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import app.pocketbible.R
 import app.pocketbible.data.StorySummary
 
@@ -137,16 +140,16 @@ fun StoriesScreen(
                 StoryRow(story, onClick = { onStorySelected(story) })
             }
         } else {
+            var isFirstVisibleGroup = true
             BOOK_GROUP_ORDER.forEach { (groupCode, labelRes) ->
                 val inGroup = grouped[groupCode]
                 if (!inGroup.isNullOrEmpty()) {
+                    val topPadding = if (isFirstVisibleGroup) 0.dp else 28.dp
+                    isFirstVisibleGroup = false
                     item {
-                        Text(
+                        BookGroupHeader(
                             stringResource(labelRes),
-                            style = MaterialTheme.typography.labelLarge,
-                            fontWeight = FontWeight.Medium,
-                            color = MaterialTheme.colorScheme.primary,
-                            modifier = Modifier.padding(top = 12.dp, bottom = 4.dp)
+                            modifier = Modifier.padding(top = topPadding, bottom = 12.dp)
                         )
                     }
                     items(inGroup, key = { it.id }) { story ->
@@ -156,6 +159,30 @@ fun StoriesScreen(
             }
         }
         item { Spacer(Modifier.height(20.dp)) }
+    }
+}
+
+/**
+ * A book-group divider ("Pentateuch", "Historical", ...) styled as a filled
+ * banner rather than plain text, so it reads unmistakably as a section break
+ * rather than blending in with the per-story type label (also small and
+ * primary-colored) directly below it.
+ */
+@Composable
+private fun BookGroupHeader(text: String, modifier: Modifier = Modifier) {
+    Surface(
+        color = MaterialTheme.colorScheme.secondaryContainer,
+        shape = RoundedCornerShape(10.dp),
+        modifier = modifier.fillMaxWidth()
+    ) {
+        Text(
+            text.uppercase(),
+            style = MaterialTheme.typography.titleSmall,
+            fontWeight = FontWeight.Bold,
+            letterSpacing = 1.2.sp,
+            color = MaterialTheme.colorScheme.onSecondaryContainer,
+            modifier = Modifier.padding(horizontal = 14.dp, vertical = 8.dp)
+        )
     }
 }
 
