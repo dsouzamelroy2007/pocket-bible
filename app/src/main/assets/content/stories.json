@@ -1,5 +1,5 @@
 {
-  "_note": "Stories tab (Phase 6). 120 of 146 authored -- all 5 OT batches plus Infancy, Ministry & Miracles, Parables, and Teachings & Encounters complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
+  "_note": "Stories tab (Phase 6). 133 of 146 authored -- all 5 OT batches plus Infancy, Ministry & Miracles, Parables, Teachings & Encounters, and Passion & Resurrection complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
   "stories": [
     {
       "id": "creation-of-the-world",
@@ -2566,6 +2566,266 @@
           "verse_start": 16,
           "chapter_end": 19,
           "verse_end": 22
+        }
+      ]
+    },
+    {
+      "id": "the-triumphal-entry",
+      "title": "The Triumphal Entry",
+      "testament": "nt",
+      "book_group": "passion_resurrection",
+      "story_type": "narrative",
+      "summary": "As Jesus approached Jerusalem, he sent two disciples to bring him a donkey and its colt, fulfilling the prophecy that Zion's King would come humbly, riding on a donkey. Great crowds spread their cloaks and palm branches on the road before him, shouting, “Hosanna to the son of David! Blessed is he who comes in the name of the Lord!” As he entered Jerusalem, the whole city was stirred, asking who he was, and the crowds answered that this was Jesus, the prophet from Nazareth.",
+      "moral": "Fickle acclaim can turn quickly, and it doesn't determine who someone truly is.",
+      "reflection": "The crowd's enthusiastic welcome, palm branches and shouted praise, will within days turn into a crowd calling for Jesus' crucifixion -- a stark reminder of how quickly public opinion can shift when someone's actual mission doesn't match what people expected. Jesus deliberately chooses a donkey rather than a warhorse, fulfilling ancient prophecy about a humble king rather than a conquering one, quietly redefining what kind of king he actually came to be. Even the city's own uncertainty, asking “Who is this?”, shows that recognition and true understanding aren't the same thing.",
+      "sort_order": 121,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 21,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "id": "cleansing-of-the-temple",
+      "title": "Cleansing of the Temple",
+      "testament": "nt",
+      "book_group": "passion_resurrection",
+      "story_type": "narrative",
+      "summary": "Entering the temple, Jesus drove out those buying and selling there, overturning the money changers' tables, and declared that his Father's house, meant to be a house of prayer, had been turned into a den of robbers. He then healed the blind and the lame who came to him there, and when children in the temple cried out “Hosanna to the son of David,” the indignant chief priests and scribes questioned him about it -- but Jesus defended the children's praise, quoting Scripture that God had ordained praise even from the mouths of infants.",
+      "moral": "Righteous anger defending what's meant to be sacred can coexist with tender compassion for the vulnerable.",
+      "reflection": "Jesus' anger in this scene isn't uncontrolled rage -- it's a deliberate, targeted response to commerce that had displaced the temple's actual purpose as a place of prayer. Immediately after this dramatic confrontation, he turns to heal the blind and lame, showing that his zeal for what's right doesn't crowd out his compassion for people in need. The religious leaders' irritation at children's simple praise, compared to Jesus' defense of it, contrasts two very different postures toward worship -- one guarded and controlling, the other open to praise from anyone, however small or unqualified they seem.",
+      "sort_order": 122,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 21,
+          "verse_start": 12,
+          "chapter_end": 21,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "id": "the-woman-with-the-alabaster-jar",
+      "title": "The Woman with the Alabaster Jar",
+      "testament": "nt",
+      "book_group": "passion_resurrection",
+      "story_type": "narrative",
+      "summary": "While Jesus was eating at a house in Bethany, a woman broke open an alabaster jar of extremely expensive perfume and poured it over his head. Some of those present were indignant, criticizing the waste and arguing the perfume could have been sold to help the poor instead. But Jesus defended her, saying she had done a beautiful thing for him, anointing his body in advance for his burial, and that wherever the gospel would be preached throughout the world, her act would be remembered and told in her honor.",
+      "moral": "Extravagant love, given without holding back, is recognized and honored even when others call it wasteful.",
+      "reflection": "The criticism the woman receives sounds reasonable on the surface -- her perfume really was worth a small fortune, and the poor really did need help -- yet Jesus sees something the critics miss: an act of devotion that had its own kind of urgency and meaning right then. His comment that she anointed his body in advance for burial suggests she understood, in some intuitive way, what was coming for Jesus before his own disciples fully grasped it. Jesus' promise that her act would be remembered wherever the gospel was preached has proven remarkably true -- this unnamed woman's extravagant gift is still told and honored today.",
+      "sort_order": 123,
+      "verse_refs": [
+        {
+          "book_id": "mk",
+          "chapter_start": 14,
+          "verse_start": 3,
+          "chapter_end": 14,
+          "verse_end": 9
+        }
+      ]
+    },
+    {
+      "id": "the-last-supper",
+      "title": "The Last Supper",
+      "testament": "nt",
+      "book_group": "passion_resurrection",
+      "story_type": "narrative",
+      "summary": "On the night before his death, Jesus gathered with his twelve disciples to eat the Passover meal, and during the meal he told them one of them would betray him, causing great sorrow and each disciple asking, “It isn't me, is it, Lord?” Jesus then took bread, gave thanks, broke it, and gave it to them saying, “Take, eat; this is my body,” and took a cup of wine, saying it was his blood of the new covenant, poured out for many for the forgiveness of sins. After singing a hymn together, they went out to the Mount of Olives.",
+      "moral": "Self-giving love embodied in bread broken and shared becomes a lasting way to remember and receive it.",
+      "reflection": "Jesus shares this meal knowing full well that one of the very people eating with him will betray him within hours, yet he doesn't exclude Judas from the table or the bread and cup. His words over the bread and wine transform an ordinary Passover meal into something new -- his own body and blood given for the forgiveness of sins, a meal meant to be repeated and remembered ever since. The disciples' sorrowful question, each asking if it might be himself, shows an honest willingness to examine their own hearts rather than assume the worst only about someone else.",
+      "sort_order": 124,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 26,
+          "verse_start": 17,
+          "chapter_end": 26,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "id": "gethsemane",
+      "title": "Gethsemane",
+      "testament": "nt",
+      "book_group": "passion_resurrection",
+      "story_type": "narrative",
+      "summary": "After the Last Supper, Jesus went with his disciples to the garden of Gethsemane, taking Peter, James, and John further with him while he prayed, telling them his soul was overwhelmed with sorrow. He prayed that if possible, the cup of suffering ahead of him might pass, but added, “not what I desire, but what you desire.” Three times he returned to find his disciples asleep instead of watching with him, and after the third time of prayer, he told them the hour had come and his betrayer was near.",
+      "moral": "Honest struggle in surrendering one's own will to God's is real prayer, not a failure of faith.",
+      "reflection": "Jesus' prayer here is remarkably honest -- he doesn't pretend to want what's coming, asking directly that the cup pass from him if there's any other way, before ultimately surrendering to the Father's will anyway. His disciples' repeated falling asleep, despite his direct request for their support, foreshadows the abandonment that's about to come from all of them in different ways. This scene shows that surrender to God's will doesn't require pretending the cost isn't real -- Jesus models both genuine anguish and genuine obedience held together in the same prayer.",
+      "sort_order": 125,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 26,
+          "verse_start": 36,
+          "chapter_end": 26,
+          "verse_end": 46
+        }
+      ]
+    },
+    {
+      "id": "peters-denial",
+      "title": "Peter's Denial",
+      "testament": "nt",
+      "book_group": "passion_resurrection",
+      "story_type": "narrative",
+      "summary": "While Jesus was being questioned inside, Peter sat outside in the courtyard, and three different people identified him as one of Jesus' followers. Each time, Peter denied it more forcefully, finally cursing and swearing that he didn't know the man at all. Immediately after his third denial, a rooster crowed, and Peter remembered Jesus' prediction that he would deny him three times before the rooster crowed -- and he went out and wept bitterly.",
+      "moral": "Failure met not with immediate rejection but eventual restoration is part of the larger story.",
+      "reflection": "Peter had confidently insisted just hours earlier that he would never deny Jesus, even if it meant dying with him, making his collapse under much smaller pressure -- a servant girl's simple question -- especially painful to read. His bitter weeping shows real conscience and grief, not indifference, the moment he realizes what he's actually done. This isn't the last word on Peter in the Gospels; his failure here becomes the very thing Jesus later meets with direct, personal restoration, rather than permanent rejection.",
+      "sort_order": 126,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 26,
+          "verse_start": 69,
+          "chapter_end": 26,
+          "verse_end": 75
+        }
+      ]
+    },
+    {
+      "id": "the-crucifixion",
+      "title": "The Crucifixion",
+      "testament": "nt",
+      "book_group": "passion_resurrection",
+      "story_type": "narrative",
+      "summary": "Jesus was crucified at Golgotha between two criminals, and those who passed by mocked him, along with the religious leaders, daring him to save himself if he was truly the Son of God. Darkness covered the land from noon until three in the afternoon, and Jesus cried out, “My God, my God, why have you forsaken me?” before crying out again and giving up his spirit. At that moment, the temple curtain tore in two from top to bottom, the earth shook, and the centurion and those guarding Jesus, terrified by what they had witnessed, declared, “Truly this was the Son of God!”",
+      "moral": "Love that endures mockery and abandonment to the very end still accomplishes what it came to do.",
+      "reflection": "Jesus' cry of abandonment, quoting Psalm 22, is one of the rawest moments in all of Scripture -- even the Son of God experiences the full weight of what feels like separation from the Father in this moment. The temple curtain tearing from top to bottom, not bottom to top, signals that this is God's own action, not human destruction -- the barrier between God and people torn open from heaven's side. Even a pagan Roman centurion, someone with no religious stake in Jesus at all, is moved to recognize the truth that Jesus' own people had just finished mocking.",
+      "sort_order": 127,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 27,
+          "verse_start": 33,
+          "chapter_end": 27,
+          "verse_end": 54
+        }
+      ]
+    },
+    {
+      "id": "the-resurrection",
+      "title": "The Resurrection",
+      "testament": "nt",
+      "book_group": "passion_resurrection",
+      "story_type": "miracle",
+      "summary": "At dawn on the first day of the week, Mary Magdalene and another Mary came to see Jesus' tomb, and a great earthquake occurred as an angel descended, rolled away the stone, and sat on it, terrifying the guards. The angel told the women not to be afraid, since Jesus had risen just as he said, and instructed them to quickly tell the disciples he was going ahead of them to Galilee. As they hurried away with fear and great joy, Jesus himself met them on the road, and they fell down and worshiped him, and he told them not to be afraid but to tell his followers to go to Galilee to see him.",
+      "moral": "Death does not have the final word.",
+      "reflection": "The women are the first witnesses to the resurrection, sent by an angel to carry the most important news in human history to the male disciples who were still in hiding -- a striking reversal of expected roles in that culture. Their response, fear mixed with great joy, captures exactly how overwhelming this moment must have been, too big to process with only one emotion. Jesus' first words to them, “don't be afraid,” echo the same reassurance given at his birth and throughout his ministry, now spoken from the other side of death itself.",
+      "sort_order": 128,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 28,
+          "verse_start": 1,
+          "chapter_end": 28,
+          "verse_end": 10
+        }
+      ]
+    },
+    {
+      "id": "the-road-to-emmaus",
+      "title": "The Road to Emmaus",
+      "testament": "nt",
+      "book_group": "passion_resurrection",
+      "story_type": "narrative",
+      "summary": "Two disciples walking to the village of Emmaus, discouraged and confused after Jesus' crucifixion, were joined by a stranger who asked what they were discussing, not realizing it was Jesus himself, since they were kept from recognizing him. They explained their crushed hope that Jesus had been the one to redeem Israel, and the stranger, calling them slow to believe the prophets, explained from the Scriptures how the Christ had to suffer before entering his glory. When they reached Emmaus and urged him to stay for the evening, he sat down to eat with them, and as he broke the bread, their eyes were suddenly opened and they recognized him -- and he vanished. They immediately returned to Jerusalem, realizing their hearts had been burning within them the whole time he was explaining the Scriptures.",
+      "moral": "Christ recognized in the breaking of bread, after the fact, reveals a presence that was there all along.",
+      "reflection": "These two disciples spend the whole journey with the risen Jesus without recognizing him, showing that his presence isn't always obvious even to those who know him well and are actively looking for hope. It's in the ordinary, familiar act of breaking bread together that recognition finally comes, suggesting that Christ's presence is often found in shared, everyday moments rather than dramatic displays. Their retrospective realization, that their hearts were burning the whole time Scripture was being explained to them, is a reminder that meaningful encounters aren't always recognized until after they've already happened.",
+      "sort_order": 129,
+      "verse_refs": [
+        {
+          "book_id": "lk",
+          "chapter_start": 24,
+          "verse_start": 13,
+          "chapter_end": 24,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "id": "doubting-thomas",
+      "title": "Doubting Thomas",
+      "testament": "nt",
+      "book_group": "passion_resurrection",
+      "story_type": "narrative",
+      "summary": "Thomas, one of the twelve, wasn't present when the risen Jesus first appeared to the other disciples, and when they told him, “We have seen the Lord!”, he insisted he wouldn't believe unless he could see and touch Jesus' wounds himself. A week later, Jesus appeared again, this time with Thomas present, and invited him to touch his hands and side directly, telling him not to doubt but believe. Thomas responded immediately, “My Lord and my God!”, and Jesus told him that those who believe without seeing are especially blessed.",
+      "moral": "Blessed are those who believe without needing to see.",
+      "reflection": "Thomas's doubt isn't treated as shameful in this story -- Jesus doesn't scold him for his skepticism, he simply gives him exactly the evidence he asked for, meeting his doubt with patience rather than rebuke. Thomas's confession, “my Lord and my God,” is one of the clearest declarations of Jesus' full divinity anywhere in the Gospels, coming from the very disciple who had demanded the most proof. Jesus' closing blessing on those who believe without seeing looks forward to every reader of this Gospel who wasn't there in the room -- a blessing meant for exactly this situation.",
+      "sort_order": 130,
+      "verse_refs": [
+        {
+          "book_id": "jn",
+          "chapter_start": 20,
+          "verse_start": 24,
+          "chapter_end": 20,
+          "verse_end": 29
+        }
+      ]
+    },
+    {
+      "id": "peters-miraculous-catch-and-restoration",
+      "title": "Peter's Miraculous Catch & Restoration",
+      "testament": "nt",
+      "book_group": "passion_resurrection",
+      "story_type": "miracle",
+      "summary": "After the resurrection, several disciples went fishing together but caught nothing all night, until a figure on the shore, unrecognized at first, told them to cast their net on the other side of the boat -- and they caught so many fish they couldn't haul the net in. Recognizing it was the Lord, Peter jumped into the water to reach Jesus, who had already prepared breakfast for them on the shore. After they ate, Jesus asked Peter three times whether he loved him, and each time, after Peter answered yes, Jesus told him to feed and tend his sheep -- mirroring Peter's earlier three denials with a threefold restoration and commission, before telling Peter simply, “Follow me.”",
+      "moral": "Even a threefold failure can be met with an equally deliberate, personal restoration.",
+      "reflection": "The miraculous catch of fish deliberately echoes the very first calling of Peter as a fisherman years earlier, bookending his discipleship with the same kind of overwhelming, undeserved abundance. Jesus asking Peter the same question three times, matching his three denials exactly, isn't cruelty -- it's a careful, intentional undoing of Peter's earlier failure, giving him the chance to answer rightly as many times as he had answered wrongly. The commission that follows each answer, “feed my sheep,” turns Peter's restoration into a renewed calling, not just forgiveness, before Jesus repeats the very first words he ever said to him: “Follow me.”",
+      "sort_order": 131,
+      "verse_refs": [
+        {
+          "book_id": "jn",
+          "chapter_start": 21,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 19
+        }
+      ]
+    },
+    {
+      "id": "the-great-commission",
+      "title": "The Great Commission",
+      "testament": "nt",
+      "book_group": "passion_resurrection",
+      "story_type": "narrative",
+      "summary": "The eleven disciples went to a mountain in Galilee where Jesus had told them to meet him, and when they saw him, they worshiped him, though some still doubted. Jesus told them that all authority in heaven and on earth had been given to him, and commanded them to go and make disciples of all nations, baptizing them in the name of the Father, Son, and Holy Spirit, and teaching them to obey everything he had commanded. He promised to be with them always, even to the end of the age.",
+      "moral": "Every believer is sent, not just a spectator to what Jesus accomplished.",
+      "reflection": "The presence of doubt even among this small group of disciples, right at the moment Jesus is commissioning them for the most important mission in history, is a striking honesty in the text -- faith and lingering doubt existing side by side, without one canceling the mission out. Jesus' authority, claimed here as covering both heaven and earth, is what grounds the command that follows -- the mission isn't launched on the disciples' own confidence, but on his authority backing them. His final promise, to be with them always until the end of the age, means the commission was never meant to be carried out alone.",
+      "sort_order": 132,
+      "verse_refs": [
+        {
+          "book_id": "mt",
+          "chapter_start": 28,
+          "verse_start": 16,
+          "chapter_end": 28,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "id": "the-ascension",
+      "title": "The Ascension",
+      "testament": "nt",
+      "book_group": "passion_resurrection",
+      "story_type": "miracle",
+      "summary": "Luke records that after his resurrection, Jesus appeared to his apostles over forty days, giving many convincing proofs he was alive and speaking about the Kingdom of God. He told them not to leave Jerusalem but to wait for the Holy Spirit, and when they asked if he was now restoring Israel's kingdom, he told them it wasn't for them to know God's timing, but that they would receive power and become his witnesses to the ends of the earth. As they watched, Jesus was lifted up and a cloud took him from their sight, and two angels appeared, telling them that Jesus would return in the same way they had seen him go.",
+      "moral": "Looking forward in mission matters more than staring at what's gone.",
+      "reflection": "The disciples' question about restoring Israel's kingdom shows they're still thinking in fairly narrow, immediate political terms, even after forty days of resurrection appearances and teaching about God's Kingdom. Jesus redirects their attention away from timelines they can't know toward a mission they actually can carry out -- witnessing to the ends of the earth, empowered by the Spirit still to come. The angels' gentle correction, asking why they're still staring at the sky, nudges the disciples (and every reader since) toward the same conclusion: the appropriate response to Jesus' departure is active mission, not passive waiting.",
+      "sort_order": 133,
+      "verse_refs": [
+        {
+          "book_id": "acts",
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 1,
+          "verse_end": 11
         }
       ]
     }
