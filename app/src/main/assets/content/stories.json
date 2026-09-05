@@ -1,5 +1,5 @@
 {
-  "_note": "Stories tab (Phase 6). COMPLETE -- all 146 of 146 stories authored (see .github/ABOUT.md Phase 6 for the full plan). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
+  "_note": "Stories tab (Phase 6). COMPLETE -- all 146 of 146 stories authored (see .github/ABOUT.md Phase 6 for the full plan). Gap fixed: web-c's dan.json was re-imported from eBible.org's WEB (Catholic) epub (eng-web-c), which includes the Greek-Septuagint additions -- Susanna (Dan 13) and Bel and the Dragon (Dan 14) now resolve, as does the Song of the Three Young Men inserted into ch.3 (old 3:24-30 is now 3:91-97; the lectionary's own Daniel 3 canticle citations, previously an unresolvable gap, now resolve too). Both stories' summary/reflection were written from the well-established Catholic narrative before the fix and have not been rewritten, but their verse cards now show real text instead of the fallback. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
   "stories": [
     {
       "id": "creation-of-the-world",
@@ -1242,7 +1242,14 @@
           "chapter_start": 3,
           "verse_start": 8,
           "chapter_end": 3,
-          "verse_end": 30
+          "verse_end": 23
+        },
+        {
+          "book_id": "dan",
+          "chapter_start": 3,
+          "verse_start": 91,
+          "chapter_end": 3,
+          "verse_end": 97
         }
       ]
     },

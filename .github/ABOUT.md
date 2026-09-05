@@ -196,12 +196,15 @@ change for 2028, 2029, etc.:
 3. `python3 tools/verify_lectionary_year.py <year>` — flags citations
    whose verse range doesn't fully exist in the bundled WEB text. Most
    flags are harmless (a psalm's sung-heading offset — the app's verse
-   lookup already truncates gracefully, never errors); a genuine content
-   gap (most commonly Daniel 3's deuterocanonical canticle, since this
-   app's bundled Daniel is Hebrew-canon only) just needs noting in the
-   year's `_note` field and in that day's reflection (ground it in the
-   other readings / the well-known story rather than quoting text this
-   app doesn't have).
+   lookup already truncates gracefully, never errors). Daniel's
+   deuterocanonical content (the ch. 3 canticle, chs. 13-14) resolves
+   correctly as of the `dan.json` re-import described below — if a
+   flag ever points there again, treat it as a real regression, not an
+   expected gap. Esther's Greek additions are still not bundled (see
+   below), so a citation into those would still need the old workaround:
+   note it in the year's `_note` field and ground that day's reflection
+   in the other readings / the well-known story rather than quoting text
+   this app doesn't have.
 4. Author reflections in monthly batches, same process each time: pull
    that month's real resolved text first (join the day's refs against
    `content/scripture/web-c/*.json`), read it, write each reflection
@@ -317,15 +320,39 @@ ever needed again for reference.
   `book_group`), same non-negotiable discipline as lectionary
   reflections — pull the real resolved scripture text first, read it,
   write summary/moral/reflection from that, never from memory. One real
-  gap hit and handled: this app's bundled WEB-C Daniel is chapters 1-12
-  only, so Susanna (Dan 13) and Bel and the Dragon (Dan 14) cite the
-  real location but won't resolve to text — written from the
-  well-known Catholic narrative instead, same as the lectionary's own
-  Daniel-3-canticle gap, covered gracefully by the app's existing
-  verse-unavailable fallback. Final counts by `book_group`: Pentateuch
-  29, Historical 25, Wisdom 1, Prophets 5, Deuterocanonical 5, Infancy
-  9, Ministry & Miracles 15, Parables 22, Teachings & Encounters 9,
-  Passion & Resurrection 13, Acts 10, Revelation 3.
+  gap hit during authoring, since fixed (see "Daniel re-import" below):
+  this app's bundled WEB-C Daniel was chapters 1-12 only, so Susanna
+  (Dan 13) and Bel and the Dragon (Dan 14) cited the real location but
+  wouldn't resolve to text — written from the well-known Catholic
+  narrative instead. Both stories now resolve real verse text; their
+  summary/reflection prose hasn't been revisited since it wasn't wrong,
+  just written without the source text in hand. Final counts by
+  `book_group`: Pentateuch 29, Historical 25, Wisdom 1, Prophets 5,
+  Deuterocanonical 5, Infancy 9, Ministry & Miracles 15, Parables 22,
+  Teachings & Encounters 9, Passion & Resurrection 13, Acts 10,
+  Revelation 3.
+- **Daniel re-import (done)**: `content/scripture/web-c/dan.json` was
+  re-sourced from eBible.org's `eng-web-c.epub` ("World English Bible,
+  Catholic edition") instead of the original `engweb.epub` ("WEB
+  Classic") — the Catholic edition includes the Greek-Septuagint
+  additions the Classic edition omits: the Song of the Three Young Men
+  inserted into ch. 3 (vv. 24-90; the old vv. 24-30 are now vv. 91-97),
+  and chs. 13 (Susanna) and 14 (Bel and the Dragon). This fixed both the
+  6B Susanna/Bel gap and a pre-existing, independently-discovered gap:
+  the 2026/2027 lectionary already cited the Daniel 3 canticle (e.g.
+  3:34-43, 3:52-56 — the real USCCB citations) anticipating this content,
+  and those citations were silently unresolvable until now. The two
+  editions' wording differs stylistically in ~30-40% of verses per
+  chapter in chs. 1-12 (synonym/punctuation-level, never doctrinal) —
+  accepted as the cost of a real fix rather than a permanent gap.
+  `characters.json`'s two citations into the old ch. 3 numbering (the
+  "fourth figure" / "without the smell of smoke" captions) were updated
+  from vv. 25/27 to vv. 92/94; `stories.json`'s "The Fiery Furnace" was
+  split into two verse_refs (3:8-23, 3:91-97) to skip over the canticle
+  it doesn't reference. Esther's own Greek additions (`ESG` in the
+  Catholic epub) are a full retranslation with different numbering
+  throughout, not an addition — deliberately left unfixed; still a
+  known gap.
 - **6C — Character cross-links (not started)**: one pass over all
   `BibleCharacter` rows now that 6B content exists, curating up to 10
   story links each by narrative significance.
