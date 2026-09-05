@@ -1,5 +1,5 @@
 {
-  "_note": "Stories tab (Phase 6). 60 of 146 authored -- Pentateuch, Historical, Wisdom & Prophets batches complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
+  "_note": "Stories tab (Phase 6). 65 of 146 authored -- Pentateuch, Historical, Wisdom & Prophets, and Deuterocanonical batches complete (see .github/ABOUT.md Phase 6 for the full plan and remaining batch order). Known gap: Susanna (Dan 13) and Bel and the Dragon (Dan 14) verse_refs cite the real Catholic-canon location, but this app's bundled WEB-C Daniel is chapters 1-12 only (same known gap as the lectionary's Daniel 3 canticle -- see content/lectionary's own notes) -- the app's existing 'not available in this language yet' fallback covers it gracefully; both stories' summary/reflection were written from the well-established Catholic narrative rather than quoted text. Each entry: id, title, testament (\"ot\"/\"nt\"), book_group, story_type (narrative/parable/miracle), summary, moral, reflection, sort_order, verse_refs (book_id/chapter_start/verse_start/chapter_end/verse_end, citations only -- resolved live from scripture_verse), and an optional character_ids array (curated links, capped at 10 per character, authored in Phase 6C).",
   "stories": [
     {
       "id": "creation-of-the-world",
@@ -1317,6 +1317,141 @@
           "verse_start": 1,
           "chapter_end": 4,
           "verse_end": 11
+        }
+      ]
+    },
+    {
+      "id": "tobits-journey-and-healing",
+      "title": "Tobit's Journey and Healing",
+      "testament": "ot",
+      "book_group": "deuterocanonical",
+      "story_type": "miracle",
+      "summary": "Tobit, a devout but now blind Israelite exile, sent his son Tobias on a long journey to collect money owed to him, and Tobias was guided, unknowingly, by the angel Raphael disguised as a traveling companion named Azarias. Along the way, a huge fish attacked Tobias in the river, and at Raphael's instruction, Tobias caught it and kept its heart, liver, and gall bladder, since the angel explained these could drive away evil spirits and heal blindness. After Tobias completed his journey, married, and returned home, he used the fish's gall to anoint his father's eyes, and the white films that had blinded Tobit peeled away, restoring his sight. Before leaving them, Raphael revealed his true identity as one of God's holy angels, sent because their prayers and quiet faithfulness had been noticed by God all along.",
+      "moral": "Faithfulness in small kindnesses is often guided by more than we can see at the time.",
+      "reflection": "Tobit and Tobias never realize their traveling companion is an angel until the very end -- God's guidance through this whole journey is present but hidden, working through what looks like an ordinary companion and an ordinary fish. Raphael's own explanation of his role, that he carried their prayers and remembered their good deeds, suggests that faithfulness done quietly, with no audience, is exactly the kind God pays closest attention to. The healing itself comes through something as unglamorous as fish gall -- a reminder that God's provision doesn't need to look impressive to be real.",
+      "sort_order": 61,
+      "verse_refs": [
+        {
+          "book_id": "tob",
+          "chapter_start": 6,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 9
+        },
+        {
+          "book_id": "tob",
+          "chapter_start": 11,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 15
+        },
+        {
+          "book_id": "tob",
+          "chapter_start": 12,
+          "verse_start": 6,
+          "chapter_end": 12,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "id": "judith-saves-bethulia",
+      "title": "Judith Saves Bethulia",
+      "testament": "ot",
+      "book_group": "deuterocanonical",
+      "story_type": "narrative",
+      "summary": "When the Assyrian general Holofernes besieged her city of Bethulia and its people were on the verge of surrendering, the widow Judith rebuked the elders for setting a deadline on God's help and declared she would act, though she wouldn't say how. She dressed in her finest clothes and went to the enemy camp, winning Holofernes' trust and admiration with her beauty and clever words over several days. On the final night, alone with the drunken Holofernes in his tent, Judith prayed for strength, then took his own sword and beheaded him with two blows. She carried his head back to Bethulia in a food bag, and when the terrified city saw the proof, they rejoiced, and the leaderless Assyrian army fled in panic the next morning.",
+      "moral": "Courage and faith in the face of overwhelming force can turn near-certain defeat into deliverance.",
+      "reflection": "Judith refuses to let her people's fear set a deadline on God's rescue, insisting on trusting God's timing rather than despair. Her plan requires real personal risk and composure -- days spent in an enemy camp, alone with a powerful general, trusting her own resolve and God's protection rather than any weapon. Her victory speech afterward gives credit entirely to God, “who has destroyed our enemies by my hand” -- she sees herself as an instrument, not the hero of her own story.",
+      "sort_order": 62,
+      "verse_refs": [
+        {
+          "book_id": "jdt",
+          "chapter_start": 8,
+          "verse_start": 32,
+          "chapter_end": 8,
+          "verse_end": 35
+        },
+        {
+          "book_id": "jdt",
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "id": "susanna-and-the-elders",
+      "title": "Susanna and the Elders",
+      "testament": "ot",
+      "book_group": "deuterocanonical",
+      "story_type": "narrative",
+      "summary": "Susanna, a virtuous and beautiful wife, was secretly watched by two respected elders who lusted after her and conspired to corner her alone in her garden. When she refused their advances, they publicly accused her of adultery with a young man, and since two witnesses agreed, the assembly believed them and condemned Susanna to death, despite her innocence. As she was being led away, a young man named Daniel objected to the unjust haste of the judgment and demanded the two elders be questioned separately. When their accounts of the tree under which the supposed encounter happened contradicted each other, their lie was exposed, and the elders were put to death in Susanna's place, while Susanna's reputation and innocence were fully restored.",
+      "moral": "Integrity under false accusation can hold firm until the truth is finally uncovered.",
+      "reflection": "Susanna chooses death over a false confession, refusing to protect herself with a lie even when the entire community has turned against her -- real integrity held under the worst possible pressure. Daniel's insistence on questioning the witnesses separately is a simple, almost obvious method that no one else in the crowd thought to demand, showing how easily a community can be swept along by confident false testimony. The story ends with the truth surfacing not through a miracle, but through patient, careful cross-examination -- a reminder that justice sometimes just requires someone willing to ask the right question.",
+      "sort_order": 63,
+      "verse_refs": [
+        {
+          "book_id": "dan",
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 64
+        }
+      ]
+    },
+    {
+      "id": "bel-and-the-dragon",
+      "title": "Bel and the Dragon",
+      "testament": "ot",
+      "book_group": "deuterocanonical",
+      "story_type": "narrative",
+      "summary": "In Babylon, King Cyrus worshiped an idol called Bel and believed the god ate the food offerings left for it every night, but Daniel suspected trickery and, with the king's permission, secretly scattered ashes on the temple floor before it was sealed for the night. In the morning, footprints in the ashes revealed that the priests and their families had been sneaking in through a hidden door to eat the offerings themselves, exposing Bel as powerless and the priests as frauds. In a separate incident, Daniel also refused to worship a great living dragon the Babylonians revered as a god, instead feeding it a mixture that caused it to burst open, proving it was no god at all -- actions that provoked the king's furious subjects, who demanded Daniel be thrown into a den of lions, from which he emerged unharmed after seven days.",
+      "moral": "Exposing what's false often just takes patient observation rather than open confrontation.",
+      "reflection": "Daniel doesn't argue theology with the king about whether Bel is real -- he simply proposes a test anyone could verify, letting the evidence speak for itself. Both stories share the same pattern: what looked like undeniable divine power turns out, on close inspection, to be nothing more than a clever trick or an ordinary creature. Daniel's willingness to challenge popular religious belief at real personal risk, twice in this short account, shows a consistency of conviction that runs through every story told about him.",
+      "sort_order": 64,
+      "verse_refs": [
+        {
+          "book_id": "dan",
+          "chapter_start": 14,
+          "verse_start": 1,
+          "chapter_end": 14,
+          "verse_end": 42
+        }
+      ]
+    },
+    {
+      "id": "the-maccabean-revolt-and-martyrs",
+      "title": "The Maccabean Revolt & Martyrs",
+      "testament": "ot",
+      "book_group": "deuterocanonical",
+      "story_type": "narrative",
+      "summary": "When the king's officers came to the town of Modin demanding that Jews sacrifice to pagan gods, the elderly priest Mattathias refused publicly, declaring that he and his family would keep the covenant of their ancestors no matter what other nations did. When a fellow Jew stepped forward to comply, Mattathias's anger flared, and he killed both the man and the king's officer at the altar, then fled into the mountains with his sons, calling anyone loyal to God's law to follow him -- the spark that lit the Maccabean revolt. Separately, seven brothers and their mother were arrested and ordered to eat forbidden food in violation of their law; one by one, each brother refused and was killed, while their mother, watching each death, encouraged every one of them in turn to stay faithful rather than save himself, trusting that the God who first gave them life could give it back again.",
+      "moral": "Costly fidelity to conscience, even when it demands everything, can inspire a whole people to keep faith.",
+      "reflection": "Mattathias's public refusal at Modin isn't calculated politics -- it's a spontaneous, zealous reaction to seeing his people's covenant betrayed in front of him, and it costs him his home and safety immediately. The mother's courage in 2 Maccabees is almost harder to read than her sons' -- she watches each child die while still finding the strength to encourage the next one, trusting in a resurrection none of them will see in this life. Both stories insist that some things are worth more than survival itself, a conviction that would go on to shape Jewish identity for centuries afterward.",
+      "sort_order": 65,
+      "verse_refs": [
+        {
+          "book_id": "1macc",
+          "chapter_start": 2,
+          "verse_start": 15,
+          "chapter_end": 2,
+          "verse_end": 28
+        },
+        {
+          "book_id": "2macc",
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 7,
+          "verse_end": 2
+        },
+        {
+          "book_id": "2macc",
+          "chapter_start": 7,
+          "verse_start": 20,
+          "chapter_end": 7,
+          "verse_end": 29
         }
       ]
     }
