@@ -16,6 +16,7 @@ import app.pocketbible.data.PassageWithRole
 import app.pocketbible.data.ScriptureVerse
 import app.pocketbible.data.StorySummary
 import app.pocketbible.data.Translation
+import app.pocketbible.ui.bible.CitationFragment
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -40,10 +41,20 @@ data class CharacterVerseDisplay(
     val verses: List<ScriptureVerse>
 )
 
-/** One reading role ("first_reading"/"psalm"/"second_reading"/"gospel") for today, its citation, and the real resolved text for the current translation -- empty if that translation doesn't have the cited book/chapter(s) yet. */
+/**
+ * One reading role ("first_reading"/"psalm"/"second_reading"/"gospel") for
+ * today, its citation, and the real resolved text for the current
+ * translation -- empty if that translation doesn't have the cited
+ * book/chapter(s) yet. [bookId]/[fragments] are kept (rather than trusting
+ * [citationDisplay] alone, which is always the bundled English string) so
+ * the UI can render the citation localized via `localizedCitationDisplay`,
+ * the same book-id-plus-numbers tradeoff [CharacterVerseDisplay] already makes.
+ */
 data class ResolvedReading(
     val role: String,
     val citationDisplay: String,
+    val bookId: String,
+    val fragments: List<CitationFragment>,
     val text: String
 )
 
@@ -231,7 +242,13 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
                     repo.versesForRange(ref.bookId, ref.chapterStart, ref.verseStart, ref.chapterEnd, ref.verseEnd, translationId)
                         .joinToString(" ") { it.text }
                 }
-                ResolvedReading(role = role, citationDisplay = sorted.first().citationDisplay, text = perRange.joinToString(" "))
+                ResolvedReading(
+                    role = role,
+                    citationDisplay = sorted.first().citationDisplay,
+                    bookId = sorted.first().bookId,
+                    fragments = sorted.map { CitationFragment(it.chapterStart, it.verseStart, it.chapterEnd, it.verseEnd) },
+                    text = perRange.joinToString(" ")
+                )
             }
             .sortedBy { READING_ROLE_ORDER.indexOf(it.role) }
     }

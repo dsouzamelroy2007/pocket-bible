@@ -84,7 +84,7 @@
     <string name="verse_short_prayer">Ein kurzes Gebet</string>
     <string name="verse_saved">Gespeichert</string>
     <string name="verse_save">Speichern</string>
-    <string name="verse_another">Ein anderer</string>
+    <string name="verse_another">Anderer Vers</string>
 
     <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">Genesis</string>
@@ -160,4 +160,42 @@
     <string name="book_3jo">3 Johannes</string>
     <string name="book_jude">Judas</string>
     <string name="book_rev">Offenbarung</string>
+    <string name="character_prayer_heading">Ein Gebet</string>
+    <string name="character_reflection_heading">Zum Nachdenken</string>
+    <string name="nav_daily">Lesungen &amp;\nBesinnung</string>
+    <string name="nav_stories">Geschichten</string>
+    <string name="reading_date_picker_cancel">Abbrechen</string>
+    <string name="reading_date_picker_confirm">OK</string>
+    <string name="reading_next_day">Nächster Tag</string>
+    <string name="reading_previous_day">Vorheriger Tag</string>
+    <string name="reading_today">Zu heute springen</string>
+    <string name="story_book_group_acts">Apostelgeschichte</string>
+    <string name="story_book_group_deuterocanonical">Deuterokanonisch</string>
+    <string name="story_book_group_historical">Geschichtsbücher</string>
+    <string name="story_book_group_infancy">Kindheitsgeschichten</string>
+    <string name="story_book_group_ministry_miracles">Wirken &amp; Wunder</string>
+    <string name="story_book_group_parables">Gleichnisse</string>
+    <string name="story_book_group_passion_resurrection">Passion &amp; Auferstehung</string>
+    <string name="story_book_group_pentateuch">Pentateuch</string>
+    <string name="story_book_group_prophets">Propheten</string>
+    <string name="story_book_group_revelation">Offenbarung</string>
+    <string name="story_book_group_teachings_encounters">Lehren &amp; Begegnungen</string>
+    <string name="story_book_group_wisdom">Weisheit</string>
+    <string name="story_moral_heading">Die Lehre</string>
+    <string name="story_no_matches">Keine Geschichten passen zu dieser Suche.</string>
+    <string name="story_none_yet">Geschichten sind unterwegs — schau bald wieder vorbei.</string>
+    <string name="story_reflection_heading">Zum Nachdenken</string>
+    <string name="story_related_characters_heading">Verwandte Persönlichkeiten</string>
+    <string name="story_scripture_heading">Bibelstellen</string>
+    <string name="story_scripture_scroll_hint">Die Bibelstellen zu dieser Geschichte stehen am Ende — scrolle nach unten.</string>
+    <string name="story_search_placeholder">Nach Titel oder Lehre suchen</string>
+    <string name="story_subtitle">Biblische Geschichten und Gleichnisse, schlicht erzählt, mit einer Lehre für jedes Alter.</string>
+    <string name="story_testament_all">Alle</string>
+    <string name="story_testament_nt">Neues Testament</string>
+    <string name="story_testament_ot">Altes Testament</string>
+    <string name="story_title">Geschichten</string>
+    <string name="story_type_all">Alle Arten</string>
+    <string name="story_type_miracle">Wunder</string>
+    <string name="story_type_narrative">Erzählung</string>
+    <string name="story_type_parable">Gleichnis</string>
 </resources>

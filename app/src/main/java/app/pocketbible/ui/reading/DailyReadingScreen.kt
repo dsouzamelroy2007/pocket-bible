@@ -41,6 +41,8 @@ import app.pocketbible.R
 import app.pocketbible.data.DailyReading
 import app.pocketbible.data.Passage
 import app.pocketbible.ui.ResolvedReading
+import app.pocketbible.ui.bible.localizedCitationDisplay
+import app.pocketbible.ui.bible.localizedReference
 import java.time.Instant
 import java.time.LocalDate
 import java.time.ZoneOffset
@@ -110,7 +112,7 @@ fun DailyReadingScreen(
                     )
                     Spacer(Modifier.height(6.dp))
                     Text(
-                        verse.referenceDisplay,
+                        localizedReference(verse.bookId, verse.chapterStart, verse.verseStart, verse.verseEnd),
                         style = MaterialTheme.typography.labelSmall,
                         color = MaterialTheme.colorScheme.onTertiaryContainer
                     )
@@ -208,7 +210,7 @@ fun DailyReadingScreen(
                         }
                         Spacer(Modifier.height(6.dp))
                         Text(
-                            reading.citationDisplay,
+                            localizedCitationDisplay(reading.bookId, reading.fragments),
                             style = MaterialTheme.typography.labelSmall,
                             color = MaterialTheme.colorScheme.onPrimaryContainer
                         )

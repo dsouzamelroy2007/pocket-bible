@@ -102,3 +102,51 @@ fun localizedBookNameById(bookId: String): String {
     val resId = BOOK_NAME_RES[bookId]
     return if (resId != null) stringResource(resId) else bookId
 }
+
+private fun verseRangeLabel(verseStart: Int, verseEnd: Int): String =
+    if (verseStart == verseEnd) "$verseStart" else "$verseStart–$verseEnd"
+
+/**
+ * A single-range scripture reference like "Psalm 34:5" or "Genesis 3:8-10",
+ * with the book name localized -- for content (Topics passages, verse of
+ * day) that stores a bundled English `reference_display` string but also
+ * keeps book id/chapter/verse numbers, the same tradeoff [CharacterVerseDisplay]
+ * already makes. Numbers themselves aren't translated (matching how the
+ * Read tab and Characters tab already render chapter:verse).
+ */
+@Composable
+fun localizedReference(bookId: String, chapter: Int, verseStart: Int, verseEnd: Int): String =
+    "${localizedBookNameById(bookId)} $chapter:${verseRangeLabel(verseStart, verseEnd)}"
+
+/** One verse range within a (possibly multi-fragment) citation -- see [localizedCitationDisplay]. */
+data class CitationFragment(
+    val chapterStart: Int,
+    val verseStart: Int,
+    val chapterEnd: Int,
+    val verseEnd: Int
+)
+
+/**
+ * A citation that may be made of several verse fragments in one chapter
+ * (e.g. "Psalm 67:2-3, 5, 6, 8") or include a genuine cross-chapter span
+ * (e.g. "1 John 1:5-2:2"), book name localized. The chapter number is only
+ * repeated when it changes between fragments, matching how these lectionary
+ * citations are normally written.
+ */
+@Composable
+fun localizedCitationDisplay(bookId: String, fragments: List<CitationFragment>): String {
+    if (fragments.isEmpty()) return localizedBookNameById(bookId)
+    var currentChapter: Int? = null
+    val parts = fragments.map { f ->
+        if (f.chapterStart != f.chapterEnd) {
+            currentChapter = f.chapterEnd
+            "${f.chapterStart}:${f.verseStart}–${f.chapterEnd}:${f.verseEnd}"
+        } else if (currentChapter != f.chapterStart) {
+            currentChapter = f.chapterStart
+            "${f.chapterStart}:${verseRangeLabel(f.verseStart, f.verseEnd)}"
+        } else {
+            verseRangeLabel(f.verseStart, f.verseEnd)
+        }
+    }
+    return "${localizedBookNameById(bookId)} ${parts.joinToString(", ")}"
+}

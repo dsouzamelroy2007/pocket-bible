@@ -84,7 +84,7 @@
     <string name="verse_short_prayer">एक छोटी प्रार्थना</string>
     <string name="verse_saved">जतन केले</string>
     <string name="verse_save">जतन करा</string>
-    <string name="verse_another">दुसरे एक</string>
+    <string name="verse_another">दुसरे वचन</string>
 
     <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">उत्पत्ती</string>
@@ -160,4 +160,42 @@
     <string name="book_3jo">3 योहान</string>
     <string name="book_jude">यहूदा</string>
     <string name="book_rev">प्रकटीकरण</string>
+    <string name="character_prayer_heading">एक प्रार्थना</string>
+    <string name="character_reflection_heading">चिंतनासाठी</string>
+    <string name="nav_daily">वाचन &amp;\nचिंतन</string>
+    <string name="nav_stories">कथा</string>
+    <string name="reading_date_picker_cancel">रद्द करा</string>
+    <string name="reading_date_picker_confirm">ठीक आहे</string>
+    <string name="reading_next_day">पुढचा दिवस</string>
+    <string name="reading_previous_day">मागचा दिवस</string>
+    <string name="reading_today">आजवर जा</string>
+    <string name="story_book_group_acts">प्रेषितांची कृत्ये</string>
+    <string name="story_book_group_deuterocanonical">द्वितीयक प्रामाणिक पुस्तके</string>
+    <string name="story_book_group_historical">ऐतिहासिक</string>
+    <string name="story_book_group_infancy">बालपणीच्या कथा</string>
+    <string name="story_book_group_ministry_miracles">सेवाकार्य आणि चमत्कार</string>
+    <string name="story_book_group_parables">बोधकथा</string>
+    <string name="story_book_group_passion_resurrection">दुःखसहन आणि पुनरुत्थान</string>
+    <string name="story_book_group_pentateuch">पंचग्रंथ (मोशेची पुस्तके)</string>
+    <string name="story_book_group_prophets">संदेष्टे</string>
+    <string name="story_book_group_revelation">प्रकटीकरण</string>
+    <string name="story_book_group_teachings_encounters">शिकवणी आणि भेटी</string>
+    <string name="story_book_group_wisdom">ज्ञानसाहित्य</string>
+    <string name="story_moral_heading">बोध</string>
+    <string name="story_no_matches">या शोधाशी जुळणारी कोणतीही कथा नाही.</string>
+    <string name="story_none_yet">कथा लवकरच येत आहेत — पुन्हा तपासा.</string>
+    <string name="story_reflection_heading">चिंतनासाठी</string>
+    <string name="story_related_characters_heading">संबंधित व्यक्तिमत्त्वे</string>
+    <string name="story_scripture_heading">शास्त्र संदर्भ</string>
+    <string name="story_scripture_scroll_hint">या कथेचे शास्त्र संदर्भ शेवटी आहेत — खाली स्क्रोल करा.</string>
+    <string name="story_search_placeholder">शीर्षक किंवा बोधाने शोधा</string>
+    <string name="story_subtitle">बायबलमधील कथा आणि बोधकथा, सोप्या भाषेत पुन्हा सांगितलेल्या, प्रत्येक वयासाठी एका बोधासह.</string>
+    <string name="story_testament_all">सर्व</string>
+    <string name="story_testament_nt">नवा करार</string>
+    <string name="story_testament_ot">जुना करार</string>
+    <string name="story_title">कथा</string>
+    <string name="story_type_all">सर्व प्रकार</string>
+    <string name="story_type_miracle">चमत्कार</string>
+    <string name="story_type_narrative">कथन</string>
+    <string name="story_type_parable">बोधकथा</string>
 </resources>

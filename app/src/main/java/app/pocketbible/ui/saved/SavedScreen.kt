@@ -21,6 +21,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import app.pocketbible.R
 import app.pocketbible.data.EntrySummary
+import app.pocketbible.ui.bible.localizedReference
 
 @Composable
 fun SavedScreen(saved: List<EntrySummary>, modifier: Modifier = Modifier) {
@@ -45,7 +46,7 @@ fun SavedScreen(saved: List<EntrySummary>, modifier: Modifier = Modifier) {
                 Text(entry.passageText, style = MaterialTheme.typography.bodyMedium, fontStyle = FontStyle.Italic)
                 Spacer(Modifier.height(4.dp))
                 Text(
-                    entry.referenceDisplay,
+                    localizedReference(entry.bookId, entry.chapter, entry.verseStart, entry.verseEnd),
                     style = MaterialTheme.typography.labelSmall,
                     color = MaterialTheme.colorScheme.secondary
                 )

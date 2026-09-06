@@ -84,7 +84,7 @@
     <string name="verse_short_prayer">Una breve preghiera</string>
     <string name="verse_saved">Salvato</string>
     <string name="verse_save">Salva</string>
-    <string name="verse_another">Un altro</string>
+    <string name="verse_another">Un altro versetto</string>
 
     <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">Genesi</string>
@@ -160,4 +160,42 @@
     <string name="book_3jo">3 Giovanni</string>
     <string name="book_jude">Giuda</string>
     <string name="book_rev">Apocalisse</string>
+    <string name="character_prayer_heading">Una preghiera</string>
+    <string name="character_reflection_heading">Per la riflessione</string>
+    <string name="nav_daily">Letture &amp;\nRiflessione</string>
+    <string name="nav_stories">Racconti</string>
+    <string name="reading_date_picker_cancel">Annulla</string>
+    <string name="reading_date_picker_confirm">OK</string>
+    <string name="reading_next_day">Giorno successivo</string>
+    <string name="reading_previous_day">Giorno precedente</string>
+    <string name="reading_today">Vai a oggi</string>
+    <string name="story_book_group_acts">Atti degli Apostoli</string>
+    <string name="story_book_group_deuterocanonical">Deuterocanonico</string>
+    <string name="story_book_group_historical">Storico</string>
+    <string name="story_book_group_infancy">Racconti dell\'infanzia</string>
+    <string name="story_book_group_ministry_miracles">Ministero e miracoli</string>
+    <string name="story_book_group_parables">Parabole</string>
+    <string name="story_book_group_passion_resurrection">Passione e Risurrezione</string>
+    <string name="story_book_group_pentateuch">Pentateuco</string>
+    <string name="story_book_group_prophets">Profeti</string>
+    <string name="story_book_group_revelation">Apocalisse</string>
+    <string name="story_book_group_teachings_encounters">Insegnamenti e incontri</string>
+    <string name="story_book_group_wisdom">Sapienza</string>
+    <string name="story_moral_heading">La morale</string>
+    <string name="story_no_matches">Nessun racconto corrisponde a questa ricerca.</string>
+    <string name="story_none_yet">I racconti stanno arrivando — torna presto a controllare.</string>
+    <string name="story_reflection_heading">Per la riflessione</string>
+    <string name="story_related_characters_heading">Personalità correlate</string>
+    <string name="story_scripture_heading">Riferimenti biblici</string>
+    <string name="story_scripture_scroll_hint">I riferimenti biblici di questo racconto sono alla fine — scorri verso il basso.</string>
+    <string name="story_search_placeholder">Cerca per titolo o morale</string>
+    <string name="story_subtitle">Racconti e parabole bibliche, raccontati in modo semplice, con una morale per ogni età.</string>
+    <string name="story_testament_all">Tutti</string>
+    <string name="story_testament_nt">Nuovo Testamento</string>
+    <string name="story_testament_ot">Antico Testamento</string>
+    <string name="story_title">Racconti</string>
+    <string name="story_type_all">Tutti i tipi</string>
+    <string name="story_type_miracle">Miracolo</string>
+    <string name="story_type_narrative">Racconto</string>
+    <string name="story_type_parable">Parabola</string>
 </resources>

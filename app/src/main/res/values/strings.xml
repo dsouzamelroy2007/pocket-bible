@@ -34,7 +34,7 @@
     <string name="reading_none_today">No readings loaded for this date yet.</string>
     <string name="reading_previous_day">Previous day</string>
     <string name="reading_next_day">Next day</string>
-    <string name="reading_today">Today</string>
+    <string name="reading_today">Jump to Today</string>
     <string name="reading_date_picker_confirm">OK</string>
     <string name="reading_date_picker_cancel">Cancel</string>
 
@@ -130,7 +130,7 @@
     <string name="verse_short_prayer">A short prayer</string>
     <string name="verse_saved">Saved</string>
     <string name="verse_save">Save</string>
-    <string name="verse_another">Another</string>
+    <string name="verse_another">Another Verse</string>
 
     <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">Genesis</string>
