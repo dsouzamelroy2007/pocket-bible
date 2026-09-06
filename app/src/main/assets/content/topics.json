@@ -6926,6 +6926,175 @@
       "pull_quote": "There is nothing better for a man than that he should eat and drink, and make his soul enjoy good in his labor.",
       "reference_display": "Ecclesiastes 2:24",
       "reference_alt": null
+    },
+    {
+      "id": "web-c:hab:2:3",
+      "translation_id": "web-c",
+      "book_id": "hab",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 3,
+      "verse_end": 3,
+      "text": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it, because it will surely come. It won’t delay.",
+      "pull_quote": "Though it takes time, wait for it, because it will surely come.",
+      "reference_display": "Habakkuk 2:3",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:lam:3:25",
+      "translation_id": "web-c",
+      "book_id": "lam",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 25,
+      "verse_end": 26,
+      "text": "The LORD is good to those who wait for him, to the soul who seeks him. It is good that a man should hope and quietly wait for the salvation of the LORD.",
+      "pull_quote": "The LORD is good to those who wait for him, to the soul who seeks him.",
+      "reference_display": "Lamentations 3:25-26",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jas:1:3",
+      "translation_id": "web-c",
+      "book_id": "jas",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 3,
+      "verse_end": 4,
+      "text": "knowing that the testing of your faith produces endurance. Let endurance have its perfect work, that you may be perfect and complete, lacking in nothing.",
+      "pull_quote": "The testing of your faith produces endurance.",
+      "reference_display": "James 1:3-4",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:16:5",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 16,
+      "chapter_end": 16,
+      "verse_start": 5,
+      "verse_end": 6,
+      "text": "The LORD assigned my portion and my cup. You made my lot secure. The lines have fallen to me in pleasant places. Yes, I have a good inheritance.",
+      "pull_quote": "The lines have fallen to me in pleasant places. Yes, I have a good inheritance.",
+      "reference_display": "Psalm 16:5-6",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:eccl:5:19",
+      "translation_id": "web-c",
+      "book_id": "eccl",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 19,
+      "verse_end": 19,
+      "text": "Every man also to whom God has given riches and wealth, and has given him power to eat of it, and to take his portion, and to rejoice in his labor—this is the gift of God.",
+      "pull_quote": "Power to eat of it, and to take his portion, and to rejoice in his labor—this is the gift of God.",
+      "reference_display": "Ecclesiastes 5:19",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:30:8",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 30,
+      "chapter_end": 30,
+      "verse_start": 8,
+      "verse_end": 9,
+      "text": "Remove far from me falsehood and lies. Give me neither poverty nor riches. Feed me with the food that is needful for me, lest I be full, deny you, and say, ‘Who is the LORD?’ or lest I be poor, and steal, and so dishonor the name of my God.",
+      "pull_quote": "Give me neither poverty nor riches. Feed me with the food that is needful for me.",
+      "reference_display": "Proverbs 30:8-9",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:lk:3:14",
+      "translation_id": "web-c",
+      "book_id": "lk",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 14,
+      "verse_end": 14,
+      "text": "Soldiers also asked him, saying, “What about us? What must we do?” He said to them, “Extort from no one by violence, neither accuse anyone wrongfully. Be content with your wages.”",
+      "pull_quote": "Extort from no one by violence, neither accuse anyone wrongfully. Be content with your wages.",
+      "reference_display": "Luke 3:14",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:131:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 131,
+      "chapter_end": 131,
+      "verse_start": 1,
+      "verse_end": 2,
+      "text": "The LORD, my heart isn’t arrogant, nor my eyes lofty; nor do I concern myself with great matters, or things too wonderful for me. Surely I have stilled and quieted my soul, like a weaned child with his mother, like a weaned child is my soul within me.",
+      "pull_quote": "I have stilled and quieted my soul, like a weaned child with his mother.",
+      "reference_display": "Psalm 131:1-2",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1pet:4:12",
+      "translation_id": "web-c",
+      "book_id": "1pet",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 12,
+      "verse_end": 13,
+      "text": "Beloved, don’t be astonished at the fiery trial which has come upon you to test you, as though a strange thing happened to you. But because you are partakers of Christ’s sufferings, rejoice, that at the revelation of his glory you also may rejoice with exceeding joy.",
+      "pull_quote": "Because you are partakers of Christ's sufferings, rejoice.",
+      "reference_display": "1 Peter 4:12-13",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1pet:5:10",
+      "translation_id": "web-c",
+      "book_id": "1pet",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 10,
+      "verse_end": 10,
+      "text": "But may the God of all grace, who called you to his eternal glory by Christ Jesus, after you have suffered a little while, perfect, establish, strengthen, and settle you.",
+      "pull_quote": "After you have suffered a little while, perfect, establish, strengthen, and settle you.",
+      "reference_display": "1 Peter 5:10",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:phil:1:29",
+      "translation_id": "web-c",
+      "book_id": "phil",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 29,
+      "verse_end": 29,
+      "text": "Because it has been granted to you on behalf of Christ, not only to believe in him, but also to suffer on his behalf,",
+      "pull_quote": "It has been granted to you on behalf of Christ, not only to believe in him, but also to suffer on his behalf.",
+      "reference_display": "Philippians 1:29",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:34:18-19",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 34,
+      "chapter_end": 34,
+      "verse_start": 18,
+      "verse_end": 19,
+      "text": "The LORD is near to those who have a broken heart, and saves those who have a crushed spirit. Many are the afflictions of the righteous, but the LORD delivers him out of them all.",
+      "pull_quote": "The LORD is near to those who have a broken heart, and saves those who have a crushed spirit.",
+      "reference_display": "Psalm 34:18-19",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:53:3",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 53,
+      "chapter_end": 53,
+      "verse_start": 3,
+      "verse_end": 5,
+      "text": "He was despised and rejected by men, a man of suffering and acquainted with disease. He was despised as one from whom men hide their face; and we didn’t respect him. Surely he has borne our sickness and carried our suffering; yet we considered him plagued, struck by God, and afflicted. But he was pierced for our transgressions. He was crushed for our iniquities. The punishment that brought our peace was on him; and by his wounds we are healed.",
+      "pull_quote": "By his wounds we are healed.",
+      "reference_display": "Isaiah 53:3-5",
+      "reference_alt": null
     }
   ],
   "entries": [
@@ -10036,6 +10205,174 @@
       "saint_quote": null,
       "saint_attribution": null,
       "liturgical_season": null
+    },
+    {
+      "id": "impatient-hab-2-3",
+      "feeling_id": "impatient",
+      "reflection": "Habakkuk had already cried out about injustice going unaddressed before this answer came, and the answer is not a timeline but a character reference: the vision will not prove false, even though it takes time. \"Wait for it\" is given as a legitimate response, not a consolation prize handed to someone who couldn't get a faster answer. The certainty attached to \"it will surely come\" is what makes the waiting bearable, not the length of the wait itself.",
+      "prayer": "Lord, I've been asking, like Habakkuk did, why things I'm waiting on seem to be taking so long. Let me hold onto what you told him: that the vision is for its appointed time, and it will not prove false, even though it takes time. Give me the kind of certainty that makes waiting bearable, not because I know when, but because I know it will surely come.",
+      "intensity": "steady",
+      "depth_order": 5
+    },
+    {
+      "id": "impatient-ps-27-14",
+      "feeling_id": "impatient",
+      "reflection": "The command to wait is not softened by explanation; it stands alone, repeated at the start and end of the verse, framing everything between. Strength and courage of heart are named as what waiting requires, not what waiting produces afterward — implying that this kind of waiting is itself an active, demanding thing rather than passive delay. The repetition itself performs the very patience it's asking for.",
+      "prayer": "Lord, I want to obey this simple command even though it's hard: wait for you. Give me the strength and courage of heart this verse asks for, since waiting well is clearly not passive but takes real effort. Let me say this to myself as many times as I need to today — wait for the Lord — until it starts to settle into me.",
+      "intensity": "acute",
+      "depth_order": 6
+    },
+    {
+      "id": "impatient-isa-40-31",
+      "feeling_id": "impatient",
+      "reflection": "The image moves in an unexpected order — mounting up with wings first, then running, then simply walking — suggesting that the most ordinary, unglamorous kind of endurance is actually the hardest and comes last. Waiting for the Lord is presented as the source of renewed strength, not the drain on it, reversing how impatience usually experiences delay. Walking without fainting may be the least dramatic promise in the whole verse, and also the most needed one.",
+      "prayer": "Lord, renew my strength as I wait for you, the way this verse promises, even if what I need most today isn't soaring but just walking without fainting. Some days call for mounting up, some for running, and some just for putting one foot in front of the other — meet me in whichever one this is. Let waiting for you be the source of my strength, not the thing draining it.",
+      "intensity": "settled",
+      "depth_order": 7
+    },
+    {
+      "id": "impatient-lam-3-25-26",
+      "feeling_id": "impatient",
+      "reflection": "This comes right after the famous verses about mercies being new every morning, and it extends that same logic to waiting itself — the Lord is good to those who wait for him, not just to those who receive quickly. \"Quietly wait\" adds a texture impatience resists most: not just waiting, but waiting without noise or agitation. Calling this good rather than merely tolerable reframes quiet waiting as itself a form of receiving something.",
+      "prayer": "Lord, I want to believe that you are good to those who wait for you, not just to those who get quick answers. Teach me to quietly wait for your salvation, since I know my instinct is to make noise about how long this is taking. Let this season of waiting itself be something good, not just a gap before the good thing starts.",
+      "intensity": "steady",
+      "depth_order": 8
+    },
+    {
+      "id": "impatient-jas-1-3-4",
+      "feeling_id": "impatient",
+      "reflection": "James doesn't frame testing as something to escape quickly but as something that produces a specific outcome — endurance — if it's allowed to finish its work. \"Let endurance have its perfect work\" implies endurance can be interrupted before it's done, which is exactly what impatience tends to do. The goal named, being complete and lacking nothing, is bigger than just getting through the trial faster.",
+      "prayer": "Lord, I know my instinct is to want this testing to be over as fast as possible, but James says the testing of my faith produces endurance if I let it finish. Help me let endurance have its perfect work in me instead of cutting it short out of impatience. I want to come out of this complete and lacking nothing, not just done with it sooner.",
+      "intensity": "acute",
+      "depth_order": 9
+    },
+    {
+      "id": "impatient-gal-6-9",
+      "feeling_id": "impatient",
+      "reflection": "Paul's warning is specifically about weariness in doing good, not about doing good itself becoming wrong — the danger he names is giving up right before the harvest season arrives. \"Due season\" acknowledges that there is a real, appointed time for the reward, which is different from an indefinite, open-ended wait. The whole verse hinges on one small conditional: if we don't give up, which makes not giving up the entire battle.",
+      "prayer": "Lord, I'm weary in doing good, and I know the real danger right now isn't that I'll stop believing but that I'll give up right before the due season arrives. Help me not grow weary, trusting that I really will reap if I don't give up. Keep me from quitting in the exact season when the harvest was about to come.",
+      "intensity": "chronic",
+      "depth_order": 10
+    },
+    {
+      "id": "discontent-heb-13-5",
+      "feeling_id": "discontent",
+      "reflection": "The command to be content is grounded immediately in a promise, not left as a bare instruction to just feel differently — \"for he has said\" ties contentment directly to God's own words about never leaving or forsaking. Freedom from the love of money is framed less as financial discipline and more as a byproduct of trusting that specific promise. Contentment here isn't manufactured by willpower; it's a natural response to being sure of something else.",
+      "prayer": "Lord, help me be content with what I have, not by forcing myself to feel satisfied, but by actually believing what you've said — that you will never leave me or forsake me. Free me from the love of money and all the ways I try to secure myself apart from that promise. Let my contentment be a response to your presence, not a discipline I'm gritting my teeth through.",
+      "intensity": "chronic",
+      "depth_order": 5
+    },
+    {
+      "id": "discontent-ps-16-5-6",
+      "feeling_id": "discontent",
+      "reflection": "The psalmist doesn't describe his portion as objectively the best available; he describes it as assigned and secured by the Lord, which changes how he can regard it. \"The lines have fallen to me in pleasant places\" borrows the language of land allotment, presenting his particular life circumstances as a deliberate inheritance rather than a random draw. Calling it \"a good inheritance\" is a declared conviction, not a neutral report.",
+      "prayer": "Lord, you assigned my portion and my cup, and you made my lot secure, even in the parts of my life I'm tempted to see as random or unfair. Help me say with the psalmist that the lines have fallen to me in pleasant places and that I have a good inheritance. Change how I see what's actually in front of me instead of what I imagine someone else's portion to be.",
+      "intensity": "settled",
+      "depth_order": 6
+    },
+    {
+      "id": "discontent-eccl-5-19",
+      "feeling_id": "discontent",
+      "reflection": "The Preacher, after cataloging so much that is frustrating and hard to make sense of, names something narrow and specific as a gift: the power to actually enjoy what one has, not just possess it. This is not the gift of wealth itself but the gift of being able to rejoice in one's labor, which the book elsewhere suggests many people who have riches still lack. Naming enjoyment itself as something given by God rather than assumed makes discontent, in part, a failure to receive a gift already offered.",
+      "prayer": "Lord, give me what this verse calls the gift of God — not just riches or wealth, but the power to actually enjoy what I have and rejoice in my labor. I don't want to be someone who has plenty but still can't receive it as good. Let me notice and accept this gift today instead of assuming it will come from having more.",
+      "intensity": "steady",
+      "depth_order": 7
+    },
+    {
+      "id": "discontent-pr-30-8-9",
+      "feeling_id": "discontent",
+      "reflection": "Agur's prayer asks for neither poverty nor riches, refusing to treat wealth as an unqualified good or poverty as an unqualified evil — both are named as spiritual risks. Fullness could lead to denying God, scarcity could lead to stealing and dishonoring God's name; the prayer asks to be kept from both temptations at once. This is a request for exactly enough, a category discontent rarely knows how to want.",
+      "prayer": "Lord, teach me to pray like Agur did — not for riches, in case they make me forget you, and not for poverty, in case it makes me dishonor your name some other way. Feed me with the food that is needful for me, no more and no less. Help me actually want exactly enough, since I know how easily I drift toward wanting more.",
+      "intensity": "settled",
+      "depth_order": 8
+    },
+    {
+      "id": "discontent-lk-3-14",
+      "feeling_id": "discontent",
+      "reflection": "John's answer to the soldiers is strikingly specific and practical, not a general call to spiritual detachment — don't extort, don't accuse falsely, and be content with your wages. Discontent here is tied directly to the temptation toward taking more than is owed, whether through force or manipulation. \"Be content with your wages\" is aimed at people in a position of some power, making the instruction about restraint rather than resignation.",
+      "prayer": "Lord, like the soldiers asking John what they should do, I'm asking you the same thing about my own discontent. Keep me from taking more than is mine by force, manipulation, or false accusation, whatever form that takes in my life. Help me actually be content with what I'm rightly owed instead of always reaching past it.",
+      "intensity": "acute",
+      "depth_order": 9
+    },
+    {
+      "id": "discontent-ps-131-1-2",
+      "feeling_id": "discontent",
+      "reflection": "The psalmist's posture is not achievement but stilling — he does not claim to have never wanted great or wonderful things, only that he has quieted his soul the way a weaned child is quieted, no longer needing what it once demanded. The comparison to a weaned child is deliberately unflattering to pride, since weaning is itself a kind of loss the child eventually stops protesting. This is contentment as a settled, practiced calm rather than a triumphant conclusion.",
+      "prayer": "Lord, my heart doesn't need to be arrogant, and my eyes don't need to be lofty, reaching for great matters and things too wonderful for me. Help me still and quiet my soul like a weaned child with its mother, no longer demanding what I've been asked to let go of. Let my soul actually become like that weaned child within me, at rest instead of straining.",
+      "intensity": "settled",
+      "depth_order": 10
+    },
+    {
+      "id": "suffering-2cor-4-16-18",
+      "feeling_id": "suffering",
+      "reflection": "Paul names decay and affliction plainly, without minimizing them, even while insisting on an inward renewal happening at the same time — the two are described as simultaneous, not sequential. Calling the affliction \"light\" and \"for the moment\" is only credible next to what he sets against it: an eternal weight of glory, a phrase heavy with the very weight the affliction lacks. The instruction to look at what is unseen rather than what is seen names exactly where suffering pulls the eyes by default.",
+      "prayer": "Lord, my outward person is decaying in ways I can't deny, but let my inward person be renewed day by day even in the middle of that. Help me hold what Paul held — that this affliction, however heavy it feels, is light and momentary next to the eternal weight of glory it's working in me. Keep my eyes on what is unseen and eternal, not just on what's visibly falling apart.",
+      "intensity": "chronic",
+      "depth_order": 2
+    },
+    {
+      "id": "suffering-1pet-4-12-13",
+      "feeling_id": "suffering",
+      "reflection": "Peter tells his readers not to be astonished by the fiery trial, treating surprise itself as a problem to correct — suffering is named as expected, not a strange interruption to normal Christian life. The command to rejoice is tied specifically to being partakers of Christ's sufferings, not to the suffering being good in itself. This reframes the trial as participation in something rather than a random misfortune landing on an innocent bystander.",
+      "prayer": "Lord, help me not be astonished at this fiery trial, as though something strange were happening to me, even though it feels strange and hard. Let me actually believe that I'm a partaker of Christ's sufferings in this, not just an unlucky bystander. Give me some measure of the rejoicing Peter describes, small as it might be right now.",
+      "intensity": "acute",
+      "depth_order": 3
+    },
+    {
+      "id": "suffering-1pet-5-10",
+      "feeling_id": "suffering",
+      "reflection": "The suffering here is explicitly named as \"a little while,\" set against four strong verbs describing what God will do afterward: perfect, establish, strengthen, settle. This isn't a vague promise that things will get better eventually; it names specific, deliberate work God does using the suffering as its occasion, not despite it. The God doing this work is identified first as \"the God of all grace,\" grounding the whole promise in his character before naming what he'll do.",
+      "prayer": "Lord, you are the God of all grace, and you called me to your eternal glory through Christ Jesus — let me hold onto that first, before anything else. After I have suffered a little while, perfect, establish, strengthen, and settle me, just as you promised through Peter. Let this suffering actually be the little while it's named as, not the whole story.",
+      "intensity": "steady",
+      "depth_order": 4
+    },
+    {
+      "id": "suffering-phil-1-29",
+      "feeling_id": "suffering",
+      "reflection": "Paul places suffering for Christ's sake in the same sentence, and the same verb of granting, as believing in him — both are described as given, not just permitted or endured. This is a hard verse to sit with honestly, since it resists treating suffering as purely an intrusion to be survived rather than something with its own place in a life of faith. It doesn't explain away the pain of suffering; it insists there is more happening in it than randomness.",
+      "prayer": "Lord, this is a hard truth to pray, but I want to be honest with it: it has been granted to me, on Christ's behalf, not only to believe in him but also to suffer for his sake. I don't fully understand how suffering can be a gift, but I trust that you do. Help me hold this without pretending the pain isn't real, and without believing it's meaningless either.",
+      "intensity": "chronic",
+      "depth_order": 5
+    },
+    {
+      "id": "suffering-2cor-1-3-4",
+      "feeling_id": "suffering",
+      "reflection": "God is named here specifically as \"the Father of mercies and God of all comfort,\" titles chosen for this exact context of affliction rather than generic praise. The comfort Paul describes has a stated purpose beyond the person receiving it — so that they may be able to comfort others, meaning the suffering itself becomes material for a later gift to someone else. This doesn't make the affliction good, but it does insist that nothing in it is entirely wasted.",
+      "prayer": "Lord, be to me what this verse names you as — the Father of mercies and the God of all comfort — right here in my affliction. Comfort me the way you promise, and let me trust that this comfort is being prepared, even now, to eventually reach someone else through me. I don't need to see how yet; I just need to receive the comfort you're offering today.",
+      "intensity": "steady",
+      "depth_order": 6
+    },
+    {
+      "id": "suffering-ps-34-18-19",
+      "feeling_id": "suffering",
+      "reflection": "The psalmist doesn't say the righteous are spared affliction — he says explicitly that their afflictions are many, refusing to promise a suffering-free life to those who are faithful. What's promised instead is nearness: the Lord is near to the brokenhearted, close in the crushing, not only present after it's over. The final clause, that the Lord delivers him out of them all, comes after the affliction is fully acknowledged, not instead of it.",
+      "prayer": "Lord, you are near to the brokenhearted, and you save those who have a crushed spirit — be near to me now, in whatever way I need that nearness today. I know my afflictions are many, just as this verse says of the righteous, but let me trust that you deliver out of them all in your time. Don't let me mistake your nearness for absence just because the affliction hasn't lifted yet.",
+      "intensity": "acute",
+      "depth_order": 7
+    },
+    {
+      "id": "suffering-isa-53-3-5",
+      "feeling_id": "suffering",
+      "reflection": "This description of the suffering servant refuses to soften what happened to him — despised, rejected, acquainted with disease, pierced, crushed — language that stays specific rather than abstract. The turn at the end, \"by his wounds we are healed,\" locates the healing precisely inside the wounds themselves, not somewhere after or apart from them. For anyone suffering, this passage offers something rare: a God who has been through exactly this kind of rejection and pain, not one observing it from a safe distance.",
+      "prayer": "Lord, you were despised and rejected, a man of suffering and acquainted with disease, pierced for our transgressions and crushed for our iniquities. I bring my own suffering to you knowing you don't observe it from a distance, because you've carried something like it yourself. Let your wounds be where my healing actually comes from, not from the absence of my own wounds.",
+      "intensity": "chronic",
+      "depth_order": 8
+    },
+    {
+      "id": "suffering-job-23-10",
+      "feeling_id": "suffering",
+      "reflection": "Job says this in the middle of his suffering, not after it's resolved, which makes the confidence in it striking rather than easy — he cannot find God in his search, yet he trusts that God knows the way he takes. \"Tried\" carries the image of refining, suggesting the suffering has a purpose connected to what comes out the other side, gold rather than ash. This is a statement of trust made without the comfort of already knowing the outcome, offered from inside the trial itself.",
+      "prayer": "Lord, like Job, I can't always see you clearly or make sense of what I'm going through, but I trust that you know the way that I take. When I have been tried, let me come out like gold, refined rather than destroyed by this. I'm saying this while I'm still in it, not after it's resolved, because that's the kind of trust Job showed.",
+      "intensity": "steady",
+      "depth_order": 9
+    },
+    {
+      "id": "suffering-ro-8-18",
+      "feeling_id": "suffering",
+      "reflection": "Paul makes an explicit comparison, weighing present sufferings against future glory and finding them, by his own careful consideration, not worthy to be compared. This is not a denial that the sufferings are real or heavy; it's a claim about relative weight made by someone who elsewhere describes his own sufferings in vivid, specific terms. Ending the topic's expanded verse set on this note places the whole category of suffering inside a larger frame without erasing what it costs in the present.",
+      "prayer": "Lord, I consider, with Paul, that the sufferings of this present time are not worthy to be compared with the glory that will be revealed in me — even though right now the suffering feels like the only thing I can see clearly. I'm not pretending it's light; I'm trusting that what's coming outweighs it by more than I can currently imagine. Hold me in that trust until the glory itself is what I'm seeing instead.",
+      "intensity": "settled",
+      "depth_order": 10
     }
   ],
   "entry_passages": [
@@ -11596,6 +11933,132 @@
     {
       "entry_id": "greedy-2cor-9-6-7",
       "passage_id": "web-c:2cor:9:6",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "impatient-hab-2-3",
+      "passage_id": "web-c:hab:2:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "impatient-ps-27-14",
+      "passage_id": "web-c:ps:27:14",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "impatient-isa-40-31",
+      "passage_id": "web-c:isa:40:31",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "impatient-lam-3-25-26",
+      "passage_id": "web-c:lam:3:25",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "impatient-jas-1-3-4",
+      "passage_id": "web-c:jas:1:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "impatient-gal-6-9",
+      "passage_id": "web-c:gal:6:9",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discontent-heb-13-5",
+      "passage_id": "web-c:heb:13:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discontent-ps-16-5-6",
+      "passage_id": "web-c:ps:16:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discontent-eccl-5-19",
+      "passage_id": "web-c:eccl:5:19",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discontent-pr-30-8-9",
+      "passage_id": "web-c:pr:30:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discontent-lk-3-14",
+      "passage_id": "web-c:lk:3:14",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discontent-ps-131-1-2",
+      "passage_id": "web-c:ps:131:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "suffering-2cor-4-16-18",
+      "passage_id": "web-c:2cor:4:16",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "suffering-1pet-4-12-13",
+      "passage_id": "web-c:1pet:4:12",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "suffering-1pet-5-10",
+      "passage_id": "web-c:1pet:5:10",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "suffering-phil-1-29",
+      "passage_id": "web-c:phil:1:29",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "suffering-2cor-1-3-4",
+      "passage_id": "web-c:2cor:1:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "suffering-ps-34-18-19",
+      "passage_id": "web-c:ps:34:18-19",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "suffering-isa-53-3-5",
+      "passage_id": "web-c:isa:53:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "suffering-job-23-10",
+      "passage_id": "web-c:job:23:10",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "suffering-ro-8-18",
+      "passage_id": "web-c:ro:8:18",
       "position": 0,
       "role": "primary"
     }
