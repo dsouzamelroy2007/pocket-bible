@@ -7851,6 +7851,188 @@
       "pull_quote": "Accept one another, even as Christ also accepted you.",
       "reference_display": "Romans 15:7",
       "reference_alt": null
+    },
+    {
+      "id": "web-c:1cor:14:33",
+      "translation_id": "web-c",
+      "book_id": "1cor",
+      "chapter_start": 14,
+      "chapter_end": 14,
+      "verse_start": 33,
+      "verse_end": 33,
+      "text": "for God is not a God of confusion but of peace, as in all the assemblies of the saints.",
+      "pull_quote": "God is not a God of confusion but of peace.",
+      "reference_display": "1 Corinthians 14:33",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jer:10:23",
+      "translation_id": "web-c",
+      "book_id": "jer",
+      "chapter_start": 10,
+      "chapter_end": 10,
+      "verse_start": 23,
+      "verse_end": 23,
+      "text": "The LORD, I know that the way of man is not in himself. It is not in man who walks to direct his steps.",
+      "pull_quote": "The way of man is not in himself. It is not in man who walks to direct his steps.",
+      "reference_display": "Jeremiah 10:23",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:42:16",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 42,
+      "chapter_end": 42,
+      "verse_start": 16,
+      "verse_end": 16,
+      "text": "I will bring the blind by a way that they don’t know. I will lead them in paths that they don’t know. I will make darkness light before them, and crooked places straight. I will do these things, and I will not forsake them.",
+      "pull_quote": "I will bring the blind by a way that they don't know. I will lead them in paths that they don't know.",
+      "reference_display": "Isaiah 42:16",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:73:16",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 73,
+      "chapter_end": 73,
+      "verse_start": 16,
+      "verse_end": 17,
+      "text": "When I tried to understand this, it was too painful for me— until I entered God’s sanctuary, and considered their latter end.",
+      "pull_quote": "When I tried to understand this, it was too painful for me -- until I entered God's sanctuary.",
+      "reference_display": "Psalm 73:16-17",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:eccl:8:17",
+      "translation_id": "web-c",
+      "book_id": "eccl",
+      "chapter_start": 8,
+      "chapter_end": 8,
+      "verse_start": 17,
+      "verse_end": 17,
+      "text": "then I saw all the work of God, that man can’t find out the work that is done under the sun, because however much a man labors to seek it out, yet he won’t find it. Yes even though a wise man thinks he can comprehend it, he won’t be able to find it.",
+      "pull_quote": "Man can't find out the work that is done under the sun.",
+      "reference_display": "Ecclesiastes 8:17",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1cor:13:12",
+      "translation_id": "web-c",
+      "book_id": "1cor",
+      "chapter_start": 13,
+      "chapter_end": 13,
+      "verse_start": 12,
+      "verse_end": 12,
+      "text": "For now we see in a mirror, dimly, but then face to face. Now I know in part, but then I will know fully, even as I was also fully known.",
+      "pull_quote": "Now we see in a mirror, dimly, but then face to face.",
+      "reference_display": "1 Corinthians 13:12",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:hab:1:2",
+      "translation_id": "web-c",
+      "book_id": "hab",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 2,
+      "verse_end": 3,
+      "text": "The LORD, how long will I cry, and you will not hear? I cry out to you “Violence!” and will you not save? Why do you show me iniquity, and look at perversity? For destruction and violence are before me. There is strife, and contention rises up.",
+      "pull_quote": "How long will I cry, and you will not hear?",
+      "reference_display": "Habakkuk 1:2-3",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jn:13:7",
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "chapter_start": 13,
+      "chapter_end": 13,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "Jesus answered him, “You don’t know what I am doing now, but you will understand later.”",
+      "pull_quote": "You don't know what I am doing now, but you will understand later.",
+      "reference_display": "John 13:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:lk:18:13",
+      "translation_id": "web-c",
+      "book_id": "lk",
+      "chapter_start": 18,
+      "chapter_end": 18,
+      "verse_start": 13,
+      "verse_end": 13,
+      "text": "But the tax collector, standing far away, wouldn’t even lift up his eyes to heaven, but beat his chest, saying, ‘God, be merciful to me, a sinner!’",
+      "pull_quote": "God, be merciful to me, a sinner!",
+      "reference_display": "Luke 18:13",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:lk:15:18",
+      "translation_id": "web-c",
+      "book_id": "lk",
+      "chapter_start": 15,
+      "chapter_end": 15,
+      "verse_start": 18,
+      "verse_end": 19,
+      "text": "I will get up and go to my father, and will tell him, “Father, I have sinned against heaven and in your sight. I am no more worthy to be called your son. Make me as one of your hired servants.” ’",
+      "pull_quote": "Father, I have sinned against heaven and in your sight.",
+      "reference_display": "Luke 15:18-19",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:51:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 51,
+      "chapter_end": 51,
+      "verse_start": 1,
+      "verse_end": 2,
+      "text": "Have mercy on me, God, according to your loving kindness. According to the multitude of your tender mercies, blot out my transgressions. Wash me thoroughly from my iniquity. Cleanse me from my sin.",
+      "pull_quote": "Blot out my transgressions. Wash me thoroughly from my iniquity.",
+      "reference_display": "Psalm 51:1-2",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:neh:9:17",
+      "translation_id": "web-c",
+      "book_id": "neh",
+      "chapter_start": 9,
+      "chapter_end": 9,
+      "verse_start": 17,
+      "verse_end": 17,
+      "text": "and refused to obey. They weren’t mindful of your wonders that you did among them, but hardened their neck, and in their rebellion appointed a captain to return to their bondage. But you are a God ready to pardon, gracious and merciful, slow to anger, and abundant in loving kindness, and didn’t forsake them.",
+      "pull_quote": "You are a God ready to pardon, gracious and merciful, slow to anger.",
+      "reference_display": "Nehemiah 9:17",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:acts:3:19",
+      "translation_id": "web-c",
+      "book_id": "acts",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 19,
+      "verse_end": 19,
+      "text": "“Repent therefore, and turn again, that your sins may be blotted out, so that there may come times of refreshing from the presence of the Lord,",
+      "pull_quote": "Repent therefore, and turn again, that your sins may be blotted out.",
+      "reference_display": "Acts 3:19",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:43:25",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 43,
+      "chapter_end": 43,
+      "verse_start": 25,
+      "verse_end": 25,
+      "text": "I, even I, am he who blots out your transgressions for my own sake; and I will not remember your sins.",
+      "pull_quote": "I am he who blots out your transgressions for my own sake; and I will not remember your sins.",
+      "reference_display": "Isaiah 43:25",
+      "reference_alt": null
     }
   ],
   "entries": [
@@ -11529,6 +11711,166 @@
       "prayer": "Lord, let me accept others the way you accepted me, not conditionally or reluctantly but genuinely, the way this verse describes. And let me also receive that same acceptance for myself, from you and from the people you've put around me. Let how we receive each other actually reflect your glory, the way this verse says it should.",
       "intensity": "settled",
       "depth_order": 10
+    },
+    {
+      "id": "confused-1cor-14-33",
+      "feeling_id": "confused",
+      "reflection": "Paul names God's nature directly here: not a God of confusion, but of peace, a statement about God's own character rather than a promise about circumstances always making sense. This appears in a passage about orderly worship, but the principle reaches further -- wherever real confusion sits, it isn't something God is the author of, even when he allows it to remain for a while. Naming this distinction matters: confusion isn't necessarily a sign of God's absence or displeasure, just not something that originates with him.",
+      "prayer": "Lord, you are not a God of confusion, but of peace, and I need to hold onto that even in the middle of not understanding what's happening. This confusion I feel isn't coming from you, even if you haven't cleared it up yet. Be the peace underneath this confusion, even before the confusion itself lifts.",
+      "intensity": "acute",
+      "depth_order": 1
+    },
+    {
+      "id": "confused-pr-20-24",
+      "feeling_id": "confused",
+      "reflection": "The question is asked almost rhetorically -- how can a man understand his own way -- as if the answer is simply that he can't, not fully, not from the inside of his own steps. Steps being \"from the Lord\" locates the actual direction-setting somewhere outside the person walking, which explains why the walker himself often can't see the whole shape of the path. This isn't presented as a problem to solve but as an honest description of what it's like to be a person walking a path someone else is actually authoring.",
+      "prayer": "Lord, my steps are from you, and maybe that's exactly why I can't fully understand my own way from where I'm standing inside it. I don't need to solve this confusion by seeing the whole path at once. Let me trust the one authoring my steps, even without being able to read the whole map myself.",
+      "intensity": "acute",
+      "depth_order": 2
+    },
+    {
+      "id": "confused-jer-10-23",
+      "feeling_id": "confused",
+      "reflection": "Jeremiah states this almost as settled knowledge -- \"I know\" -- that a person's way isn't in himself, that walking itself doesn't include the ability to direct one's own steps. This isn't despair about human capability; it's a clear-eyed statement about where direction actually comes from, offered almost as relief rather than complaint. Confusion about one's own path might simply be evidence this was never supposed to be self-directed in the first place.",
+      "prayer": "Lord, like Jeremiah, let me know this clearly: that my way isn't in myself, and I was never meant to direct my own steps alone. My confusion about my own path might just be honest confirmation of that, not a personal failure. Direct my steps yourself, since that was always where direction was supposed to come from.",
+      "intensity": "acute",
+      "depth_order": 3
+    },
+    {
+      "id": "confused-isa-55-8-9",
+      "feeling_id": "confused",
+      "reflection": "God states the difference between his thoughts and human thoughts using the largest available image -- the heavens above the earth -- refusing to shrink the gap down to something manageable or easily bridged. This isn't offered as a rebuke; it comes in the middle of a chapter full of invitation and generous promise, the gap in understanding coexisting with genuine welcome. Confusion about God's ways, in this light, isn't a failure of faith but an accurate read of the actual distance being described.",
+      "prayer": "Lord, your thoughts are not my thoughts, and your ways are not my ways, as high above mine as the heavens are above the earth. I don't need to close that gap myself just to feel like I understand what you're doing. Let me hold my confusion honestly, right alongside the invitation you keep extending in spite of it.",
+      "intensity": "steady",
+      "depth_order": 4
+    },
+    {
+      "id": "confused-isa-42-16",
+      "feeling_id": "confused",
+      "reflection": "The image is specifically of blind people led by a way they don't know, paths they don't know -- confusion about the route isn't hidden or denied, it's built into the very description of what's happening. The promise isn't that the way will suddenly become known to the one walking it; it's that God himself will do the leading, darkness made light and crooked places straight along the way. Not forsaking them is named as part of the same promise, tying not being confused-and-alone to not being led-and-abandoned.",
+      "prayer": "Lord, lead me by a way I don't know, the way you promise here, since I clearly don't know it myself right now. I don't need the path to make sense to me first; I need you to actually be doing the leading. Make the darkness light and the crooked places straight as we go, and don't forsake me in the parts I still can't see.",
+      "intensity": "steady",
+      "depth_order": 5
+    },
+    {
+      "id": "confused-ps-73-16-17",
+      "feeling_id": "confused",
+      "reflection": "Asaph names the exact moment his confusion became unbearable -- trying to understand why the wicked seemed to prosper -- and the exact place it started to resolve, not through an argument but by entering God's sanctuary. The resolution isn't described as new information received; it's a change of vantage point, considering their end from inside God's presence rather than from the confusing view outside it. This suggests some confusion resolves less through explanation and more through proximity.",
+      "prayer": "Lord, when I try to understand some things on my own, it's too painful, exactly like it was for Asaph. Let me bring this confusion into your sanctuary instead of trying to reason my way out of it alone. Change my vantage point the way you changed his, even before you change what I actually understand.",
+      "intensity": "steady",
+      "depth_order": 6
+    },
+    {
+      "id": "confused-eccl-8-17",
+      "feeling_id": "confused",
+      "reflection": "The Preacher states plainly that a person, however hard they labor to seek it out, will not find the full work of God done under the sun -- even the wise person who thinks he has comprehended it hasn't actually. This isn't presented as a temporary gap waiting to be closed with more effort; it's named as a real limit to human understanding, however much labor is applied to it. Naming a limit this directly can be its own kind of relief, permission to stop demanding of oneself an understanding that was never actually available.",
+      "prayer": "Lord, I've labored to seek out and understand things that this verse says I simply won't fully find, however wise I try to be about it. Let me stop treating my confusion as a personal failure to work hard enough at understanding. Give me peace with the real limit named here, instead of exhausting myself trying to push past it alone.",
+      "intensity": "steady",
+      "depth_order": 7
+    },
+    {
+      "id": "confused-1cor-13-12",
+      "feeling_id": "confused",
+      "reflection": "Paul's image of seeing \"in a mirror, dimly\" names partial, distorted vision as the normal current condition, not a special affliction to be embarrassed about -- everyone is looking through the same dim glass. The promised change is specific: face to face, knowing fully as he is also fully known, a future clarity contrasted honestly against present limitation rather than pretending the limitation isn't real. Being \"fully known\" even now, in the midst of only partly knowing, offers something steady to hold onto in the meantime.",
+      "prayer": "Lord, I know in part right now, seeing only dimly, like looking in a clouded mirror, and I don't need to pretend my sight is clearer than it is. I'm holding onto the promise that one day I'll know fully, even as I'm already fully known by you right now. Let being fully known by you be enough steadiness while my own knowing stays only partial.",
+      "intensity": "settled",
+      "depth_order": 8
+    },
+    {
+      "id": "confused-hab-1-2-3",
+      "feeling_id": "confused",
+      "reflection": "Habakkuk's confusion is directed straight at God, not softened into something more polite -- how long will I cry and you will not hear, why do you show me iniquity and look at perversity. He doesn't wait to have his confusion resolved before naming it this directly; the questions themselves open the book, unanswered for some time yet. Scripture preserving this raw, confused address to God suggests it's a legitimate way to begin a conversation with him, not something to clean up first.",
+      "prayer": "Lord, like Habakkuk, I have real questions I don't fully understand the answers to -- how long, and why do you allow what I'm seeing right now. I'm not going to wait until I've resolved my confusion before bringing it straight to you. Let this raw, unanswered questioning be a real beginning of prayer, not something I need to tidy up first.",
+      "intensity": "settled",
+      "depth_order": 9
+    },
+    {
+      "id": "confused-jn-13-7",
+      "feeling_id": "confused",
+      "reflection": "Jesus's answer to Peter's confusion doesn't explain what he's doing; it simply promises understanding will come later, asking for trust across the gap rather than closing the gap immediately. This is a specific, personal promise made to someone in the exact moment of not understanding, not a general statement about eventual clarity someday for everyone. The confusion Peter feels is treated as reasonable and expected, not a failure of faith needing correction before Jesus will continue.",
+      "prayer": "Lord Jesus, I don't understand what you're doing right now, and I want to hear you say to me what you said to Peter -- that I'll understand later, even though I don't now. Let me trust across this gap instead of demanding it close before I'll follow. Give me Peter's kind of confused-but-still-present faith, staying close even without full understanding.",
+      "intensity": "settled",
+      "depth_order": 10
+    },
+    {
+      "id": "forgiveness-lk-18-13",
+      "feeling_id": "forgiveness",
+      "reflection": "The tax collector's prayer is short, physical, and entirely without self-justification -- standing far off, not lifting his eyes, beating his chest, asking simply for mercy and naming himself plainly as a sinner. He doesn't list circumstances or compare himself favorably to anyone else in this prayer; the whole request is compressed into one honest sentence. Jesus commends this prayer specifically for its lack of pretense, not for its eloquence or length.",
+      "prayer": "Lord, be merciful to me, a sinner, the way the tax collector prayed, without decorating this request with excuses or comparisons to anyone else. I don't need a longer or more impressive prayer than this one. Let this short, honest sentence be enough, the way you said it was enough for him.",
+      "intensity": "acute",
+      "depth_order": 1
+    },
+    {
+      "id": "forgiveness-lk-15-18-19",
+      "feeling_id": "forgiveness",
+      "reflection": "The son rehearses his confession before he ever reaches his father, planning specific words: I have sinned against heaven and in your sight, I am no longer worthy to be called your son. He doesn't minimize what he's done or soften the language when he imagines saying it out loud; the confession he prepares is completely unflattering to himself. This is what seeking forgiveness looks like from the inside, before any reassurance has arrived -- honest, specific, and not yet knowing how it will be received.",
+      "prayer": "Lord, like the son planning his words on the road home, let me say plainly: I have sinned against heaven and in your sight, and I'm not asking to be treated as though I hadn't. I don't know yet exactly how this will be received, but let me bring the honest words anyway, before any reassurance arrives. I am coming home to you, whatever place you have for me.",
+      "intensity": "acute",
+      "depth_order": 2
+    },
+    {
+      "id": "forgiveness-ps-51-1-2",
+      "feeling_id": "forgiveness",
+      "reflection": "David's opening request is grounded entirely in God's own character -- according to your loving kindness, according to the multitude of your tender mercies -- not in any argument about his own deserving. The verbs are strong and thorough: blot out, wash thoroughly, cleanse, no request for a partial or gentle fix. This is one of scripture's most direct models for asking forgiveness: appeal to who God is, not to any case that can be made for oneself.",
+      "prayer": "Lord, have mercy on me according to your loving kindness, not according to anything I could argue for myself. Blot out my transgressions, wash me thoroughly, cleanse me from my sin -- I'm not asking for a partial fix. Let me pray this the way David did, appealing entirely to your character and not my own record.",
+      "intensity": "acute",
+      "depth_order": 3
+    },
+    {
+      "id": "forgiveness-2chr-7-14",
+      "feeling_id": "forgiveness",
+      "reflection": "The promise lists specific actions before the forgiveness: humbling, praying, seeking God's face, turning from wicked ways -- forgiveness isn't described as automatic or unconditional here, but as a real response to a real turning. God's response is equally specific: hear, forgive, heal, three distinct actions rather than one vague blessing. This gives seeking forgiveness actual shape, something to do rather than only something to feel.",
+      "prayer": "Lord, let me actually do what this verse describes -- humble myself, pray, seek your face, and turn from whatever wicked way I've been walking in. I'm not asking for forgiveness while staying exactly where I was; I want to actually turn. Hear from heaven, forgive this sin, and heal whatever it's damaged, the way you promised here.",
+      "intensity": "steady",
+      "depth_order": 4
+    },
+    {
+      "id": "forgiveness-pr-28-13",
+      "feeling_id": "forgiveness",
+      "reflection": "The proverb sets up a direct contrast: concealing sin doesn't lead to prospering, but confessing and renouncing it leads to mercy -- concealment and confession are named as opposite strategies with opposite outcomes. \"Renounces\" adds something beyond confession alone; naming the sin isn't enough by itself, there's also a turning away built into the verse. This makes seeking forgiveness an active, two-part movement -- telling the truth about it, and also actually letting it go.",
+      "prayer": "Lord, I don't want to conceal what I've done, since this proverb says that path doesn't lead anywhere good. Let me confess this plainly and also renounce it, not just name it and then keep holding on. I want the mercy this verse promises to those who do both.",
+      "intensity": "steady",
+      "depth_order": 5
+    },
+    {
+      "id": "forgiveness-jas-5-16",
+      "feeling_id": "forgiveness",
+      "reflection": "James addresses confession as something done to one another, not only privately to God -- a communal practice, not a solitary one. The stated purpose is healing, tying confession to something practical and relational rather than only a private transaction of guilt for pardon. The insistent prayer of a righteous person is named as powerfully effective right alongside this instruction, suggesting confession and prayer for one another work together, not as separate, unrelated practices.",
+      "prayer": "Lord, help me not keep this only between us privately when it would help to confess it to someone else too, the way this verse describes. I want the healing that comes with that kind of honesty, not just quiet relief. Let someone's insistent prayer for me be part of how you work in this, alongside whatever I bring to you myself.",
+      "intensity": "steady",
+      "depth_order": 6
+    },
+    {
+      "id": "forgiveness-neh-9-17",
+      "feeling_id": "forgiveness",
+      "reflection": "This verse comes right after naming real rebellion -- refusing to obey, hardening their neck, appointing a leader to go back into bondage -- yet the description of God that follows doesn't hedge or qualify: ready to pardon, gracious and merciful, slow to anger, abundant in loving kindness. \"Ready\" is a strong word, describing God's posture as prepared and willing rather than needing to be convinced or worn down. This comes right after real rebellion is named, not instead of naming it.",
+      "prayer": "Lord, I've been like the people in this verse, refusing and hardening my heart in ways I don't want to minimize. But you are a God ready to pardon, gracious and merciful, slow to anger, and abundant in loving kindness -- ready, not needing to be talked into it. Let me come to you trusting that readiness, exactly as directly as this verse describes it.",
+      "intensity": "steady",
+      "depth_order": 7
+    },
+    {
+      "id": "forgiveness-ps-32-1-2",
+      "feeling_id": "forgiveness",
+      "reflection": "The psalm opens with blessing, not confession -- describing the state of having already been forgiven before walking through how it happened, disobedience forgiven, sin covered, iniquity not imputed. \"Blessed\" is repeated, naming forgiveness itself as a source of genuine happiness, not merely relief from a bad feeling. \"No deceit\" in the spirit at the end ties the blessedness to honesty, someone no longer needing to hide or pretend now that the thing itself has been dealt with.",
+      "prayer": "Lord, let me actually feel the blessedness this psalm describes, not just relief but real happiness in having my disobedience forgiven and my sin covered. I don't want to keep any deceit in my spirit now that this has been dealt with by you. Let me live like someone who is actually blessed, not just someone quietly let off the hook.",
+      "intensity": "settled",
+      "depth_order": 8
+    },
+    {
+      "id": "forgiveness-acts-3-19",
+      "feeling_id": "forgiveness",
+      "reflection": "Peter's instruction pairs repentance with a specific promise -- sins blotted out, and times of refreshing coming from the Lord's presence -- forgiveness described not just as debt cancelled but as something that actively refreshes afterward. \"Turn again\" implies a return to a direction previously left, not starting from nothing. The refreshing is tied specifically to God's presence, suggesting what follows forgiveness isn't just a clean slate but actual closeness restored.",
+      "prayer": "Lord, let me repent and turn again, the way this verse describes, trusting that my sins can actually be blotted out, not just managed or excused. I want the times of refreshing that come from your presence afterward, not just relief from guilt. Bring me back into that closeness, not just a clean record.",
+      "intensity": "settled",
+      "depth_order": 9
+    },
+    {
+      "id": "forgiveness-isa-43-25",
+      "feeling_id": "forgiveness",
+      "reflection": "God names himself as the one who blots out transgressions, doing it \"for my own sake\" -- the reason given isn't the person's worthiness or effort but something rooted in God's own character and purposes. \"I will not remember your sins\" is a striking claim, not merely forgiving but choosing not to hold the memory of it against the person going forward. This verse locates the entire basis for forgiveness outside the person being forgiven, in God's own initiative from beginning to end.",
+      "prayer": "Lord, you are the one who blots out my transgressions, for your own sake, not because I've earned it or proven myself worthy. You say you will not remember my sins, and I want to actually believe that instead of assuming you're keeping a quiet record anyway. Let this forgiveness rest entirely on your initiative, the way this verse describes, not on anything I still have to accomplish.",
+      "intensity": "settled",
+      "depth_order": 10
     }
   ],
   "entry_passages": [
@@ -13515,6 +13857,126 @@
     {
       "entry_id": "rejected-ro-15-7",
       "passage_id": "web-c:ro:15:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "confused-1cor-14-33",
+      "passage_id": "web-c:1cor:14:33",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "confused-pr-20-24",
+      "passage_id": "web-c:pr:20:24",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "confused-jer-10-23",
+      "passage_id": "web-c:jer:10:23",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "confused-isa-55-8-9",
+      "passage_id": "web-c:isa:55:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "confused-isa-42-16",
+      "passage_id": "web-c:isa:42:16",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "confused-ps-73-16-17",
+      "passage_id": "web-c:ps:73:16",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "confused-eccl-8-17",
+      "passage_id": "web-c:eccl:8:17",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "confused-1cor-13-12",
+      "passage_id": "web-c:1cor:13:12",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "confused-hab-1-2-3",
+      "passage_id": "web-c:hab:1:2",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "confused-jn-13-7",
+      "passage_id": "web-c:jn:13:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "forgiveness-lk-18-13",
+      "passage_id": "web-c:lk:18:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "forgiveness-lk-15-18-19",
+      "passage_id": "web-c:lk:15:18",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "forgiveness-ps-51-1-2",
+      "passage_id": "web-c:ps:51:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "forgiveness-2chr-7-14",
+      "passage_id": "web-c:2chr:7:14",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "forgiveness-pr-28-13",
+      "passage_id": "web-c:pr:28:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "forgiveness-jas-5-16",
+      "passage_id": "web-c:jas:5:16",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "forgiveness-neh-9-17",
+      "passage_id": "web-c:neh:9:17",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "forgiveness-ps-32-1-2",
+      "passage_id": "web-c:ps:32:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "forgiveness-acts-3-19",
+      "passage_id": "web-c:acts:3:19",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "forgiveness-isa-43-25",
+      "passage_id": "web-c:isa:43:25",
       "position": 0,
       "role": "primary"
     }
