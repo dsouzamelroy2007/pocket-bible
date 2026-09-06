@@ -1,0 +1,75 @@
+{
+  "language": "pt",
+  "story_translations": [
+    {
+      "story_id": "creation-of-the-world",
+      "title": "A Criação do Mundo",
+      "summary": "No princípio, Deus criou tudo -- a luz e as trevas, o céu e o mar, a terra e cada planta e ser vivo -- simplesmente falando cada parte à existência. Em seis dias, ele formou um mundo cheio de bondade: a luz separada das trevas, as águas reunidas em mares, a terra a brotar de plantas, o sol e a lua estabelecidos para marcar as estações, aves e peixes e toda espécie de criatura, e finalmente, o homem e a mulher, feitos à própria imagem de Deus e encarregados de cuidar de tudo o resto. Quando a obra ficou concluída, Deus contemplou tudo o que tinha feito e viu que era muito bom. No sétimo dia, Deus descansou, e santificou aquele dia de descanso.",
+      "moral": "O mundo e todos nele foram feitos de propósito, por um Deus que os chamou de bons.",
+      "reflection": "Gênesis não explica como a criação aconteceu -- insiste no porquê: tudo existe porque Deus quis, e ele se comprazeu no que tinha feito. Ser feito \"à imagem de Deus\" significa que cada pessoa carrega um tipo de dignidade que mais nada na criação tem, algo a lembrar nos dias que não parecem nada bons. E o descanso de Deus no sétimo dia é, ele próprio, um presente -- um ritmo de trabalho e descanso incorporado na criação desde o início, não algo acrescentado depois como uma reflexão tardia."
+    },
+    {
+      "story_id": "adam-and-eve-the-fall",
+      "title": "Adão e Eva / A Queda",
+      "summary": "Deus colocou o primeiro homem num jardim no Éden, dando-lhe toda árvore para comer, exceto uma -- a árvore do conhecimento do bem e do mal, que traria a morte no dia em que dela comesse. Vendo que o homem precisava de uma companheira, Deus formou a primeira mulher da sua própria costela, e os dois viviam juntos sem vergonha. Uma serpente, mais astuta do que qualquer outra criatura, convenceu a mulher de que comer o fruto proibido a tornaria sábia como Deus em vez de trazer a morte, e ela comeu, depois deu ao marido, e ele também comeu. Os olhos de ambos se abriram -- não para a sabedoria, mas para a vergonha -- e se esconderam de Deus, que os encontrou, os confrontou, e pronunciou as consequências: dor, luta e morte entraram no mundo, e os dois foram expulsos do jardim, embora Deus os tenha ainda vestido com as próprias mãos antes de partirem.",
+      "moral": "Um pequeno ato de desobediência, escolher confiar numa mentira em vez da palavra de Deus, mudou tudo.",
+      "reflection": "O primeiro pecado não foi realmente sobre um fruto -- foi sobre confiar numa promessa diferente da própria palavra de Deus. O que é fácil de perder é que, mesmo no julgamento, Deus ainda cuida de Adão e Eva: ele mesmo lhes faz roupas, e até a sua maldição sobre a serpente carrega o primeiro sinal de um resgate ainda por vir, \"ele te esmagará a cabeça\". A vergonha fez Adão e Eva se esconderem de Deus, mas Deus veio procurá-los mesmo assim -- um padrão que percorre o resto da Bíblia."
+    },
+    {
+      "story_id": "cain-and-abel",
+      "title": "Caim e Abel",
+      "summary": "Os dois primeiros filhos de Adão e Eva, Caim e Abel, trouxeram cada um uma oferta a Deus -- Abel deu o melhor do seu rebanho, e Caim deu das suas colheitas. Deus aceitou a oferta de Abel mas não a de Caim, e Caim ficou furioso, embora Deus o tivesse avisado de que o pecado estava à espreita à sua porta e podia ser dominado. Em vez disso, Caim atraiu o irmão para um campo e o matou. Quando Deus perguntou onde estava Abel, Caim mentiu, perguntando: \"Sou eu o guardião do meu irmão?\" Deus já conhecia a verdade -- o sangue de Abel clamava desde o solo -- e amaldiçoou Caim a vaguear pela terra, embora também tenha colocado nele um sinal protetor para que ninguém o matasse em retaliação.",
+      "moral": "O ciúme não controlado pode crescer até se tornar algo muito pior do que a ferida original.",
+      "reflection": "O aviso de Deus a Caim é quase terno: o pecado é real e está próximo, mas não tem de vencer -- \"tu deves dominá-lo\". A tragédia de Caim é que ele ouviu o aviso e mesmo assim escolheu a ira. Mesmo depois do assassinato, a justiça de Deus vem acompanhada de misericórdia -- Caim é punido, mas também protegido, um lembrete de que a resposta de Deus ao pecado raramente é só punição."
+    },
+    {
+      "story_id": "noahs-ark-and-the-flood",
+      "title": "A Arca de Noé e o Dilúvio",
+      "summary": "Quando a terra se tinha tornado profundamente corrupta e violenta, Deus decidiu enviar um dilúvio, mas encontrou um homem justo, Noé, e disse-lhe para construir um navio enorme para a sua família e dois de cada espécie de animal. Noé obedeceu a cada detalhe que Deus lhe deu, e quando o navio ficou pronto, as águas do dilúvio vieram e cobriram toda a terra, destruindo tudo o mais que respirava. Depois que a água finalmente começou a baixar, Noé enviou um corvo e depois uma pomba para testar se a terra estava seca, e quando a pomba voltou com uma folha fresca de oliveira, ele soube que a vida podia recomeçar. Noé, a sua família e todos os animais deixaram o navio, e Deus fez uma aliança de nunca mais destruir a terra por um dilúvio, colocando um arco-íris no céu como sinal dessa promessa.",
+      "moral": "A obediência fiel, mesmo a instruções estranhas, pode ser exatamente o que salva uma vida.",
+      "reflection": "Construir um barco gigantesco em terra firme, para um dilúvio que ninguém jamais tinha visto, deve ter parecido absurdo a todos os que observavam Noé trabalhar -- e ainda assim a Escritura diz simplesmente que ele fez tudo o que Deus lhe ordenou. A história do dilúvio não termina com mais julgamento, mas com uma promessa: o arco-íris é Deus a comprometer-se com a misericórdia, um sinal destinado a que Deus se lembre tanto quanto para que as pessoas o vejam. Mesmo depois de recomeçar, a história admite que as pessoas ainda são capazes do mal -- mas a aliança de Deus permanece assim mesmo."
+    },
+    {
+      "story_id": "tower-of-babel",
+      "title": "A Torre de Babel",
+      "summary": "Depois do dilúvio, a humanidade se estabeleceu junta num só lugar e, falando uma única língua, decidiu construir uma grande cidade e uma torre que alcançasse os céus, esperando fazer um nome para si e evitar ser espalhada por toda a terra. Deus desceu para ver o que estavam construindo, e, vendo que a sua unidade estava sendo usada para desafiá-lo em vez de honrá-lo, confundiu a sua língua para que já não se entendessem uns aos outros. Incapazes de continuar a trabalhar juntos, as pessoas abandonaram a torre e se espalharam por toda a face da terra, e o lugar foi chamado Babel, porque ali Deus confundiu a sua língua.",
+      "moral": "O orgulho que busca o lugar de Deus, em vez de confiar nele, acaba por espalhar aquilo que tentava manter unido.",
+      "reflection": "Os construtores de Babel queriam segurança e um legado nos seus próprios termos -- \"façamos um nome para nós\" -- em vez de confiar no nome e na bênção que Deus já tinha prometido dar. É uma história curta com um longo eco: a unidade não é automaticamente boa se aquilo a que ela visa é a autoglorificação em vez de Deus. A dispersão que se segue também não é o fim da história -- o chamado posterior de Deus a Abraão começa a obra de reunir novamente as nações, desta vez através da bênção em vez do orgulho."
+    },
+    {
+      "story_id": "call-of-abram",
+      "title": "O Chamado de Abrão",
+      "summary": "Deus disse a Abrão para deixar a sua terra, os seus parentes e a casa do seu pai por uma terra que Deus lhe mostraria, prometendo fazer dele uma grande nação, abençoá-lo, e fazer dele uma bênção para toda família na terra. Abrão, com setenta e cinco anos, obedeceu sem saber exatamente para onde ia, levando consigo a sua mulher Sarai, o seu sobrinho Ló, e toda a sua casa para a terra de Canaã. Quando chegou, Deus apareceu-lhe novamente e prometeu a terra à sua descendência, e Abrão construiu altares e invocou o nome do SENHOR em cada lugar onde parava.",
+      "moral": "A fé verdadeira muitas vezes significa avançar antes de conseguir ver todo o caminho.",
+      "reflection": "A obediência de Abrão é notável sobretudo pelo que não inclui: nenhum argumento, nenhuma exigência de mais detalhes, apenas partir. A promessa que Deus faz aqui -- que todas as famílias da terra serão abençoadas através de Abrão -- é fácil de ler rapidamente, mas é a semente de tudo o que se segue nas Escrituras, até Cristo. O hábito de Abrão de construir um altar em cada lugar onde parava também merece atenção: ele marcava cada passo de uma jornada incerta com adoração, não apenas com movimento."
+    },
+    {
+      "story_id": "abraham-and-lot-separate",
+      "title": "Abraão e Ló se Separam",
+      "summary": "Abrão e o seu sobrinho Ló tinham-se tornado tão ricos em gado que a terra já não conseguia sustentar as duas famílias juntas, e surgiu conflito entre os seus pastores. Em vez de lutar pela melhor terra, Abrão deu a Ló a primeira escolha, e Ló escolheu a planície exuberante e bem irrigada do Jordão perto de Sodoma, enquanto Abrão ficou em Canaã. Depois que Ló partiu, Deus reafirmou a sua promessa a Abrão, dizendo-lhe para olhar em todas as direções, pois toda a terra que conseguisse ver pertenceria para sempre à sua descendência.",
+      "moral": "Escolher a paz em vez da vantagem pessoal não te custa o que Deus prometeu.",
+      "reflection": "Abrão tinha todo o direito, como parente mais velho, de escolher primeiro a melhor terra -- em vez disso, deixou Ló escolher, confiando mais na promessa de Deus do que na sua própria pretensão à melhor parte. A escolha de Ló, feita puramente pelo que parecia bom aos olhos, prepara silenciosamente problemas por vir, já que ele acaba vivendo perto de Sodoma. A generosidade de Abrão aqui não é ingênua; é confiança de que a bênção de Deus não depende de agarrar o melhor negócio para si mesmo."
+    },
+    {
+      "story_id": "sodom-and-gomorrah",
+      "title": "Sodoma e Gomorra",
+      "summary": "Quando Deus revelou que estava prestes a julgar Sodoma e Gomorra pela sua grande maldade, Abraão intercedeu corajosamente, pedindo a Deus que poupasse as cidades se ao menos um pequeno número de justos pudesse ser encontrado ali -- e Deus concordou, até chegar a apenas dez. Dois anjos chegaram a Sodoma e foram acolhidos por Ló, mas naquela noite os homens da cidade cercaram a casa exigindo abusar dos visitantes, e os anjos os feriram com cegueira e insistiram para que Ló fugisse com a sua família antes da destruição da cidade. Ló hesitou, mas os anjos o puxaram, a ele, à sua mulher e às suas duas filhas, para fora da cidade, avisando-os para não olharem para trás -- mas enquanto fogo e enxofre choviam sobre Sodoma e Gomorra, a mulher de Ló olhou para trás e se tornou uma estátua de sal.",
+      "moral": "A misericórdia de Deus busca arduamente os justos, mas o resgate ainda exige realmente partir quando é oferecido.",
+      "reflection": "A negociação de Abraão com Deus não é desrespeitosa -- é intercessão verdadeira, e Deus leva a sério cada pedido, até chegar a dez justos. A tragédia é que nem mesmo dez puderam ser encontrados. A própria hesitação de Ló em partir, e o olhar fatal da sua mulher para trás, são um aviso silencioso sobre quão difícil é realmente largar uma vida, mesmo uma perigosa, uma vez que o resgate é oferecido."
+    },
+    {
+      "story_id": "hagar-and-ishmael",
+      "title": "Agar e Ismael",
+      "summary": "Quando Sarai permaneceu sem filhos, ela deu a sua serva Agar a Abrão para gerar um filho em seu lugar, mas assim que Agar concebeu, a tensão entre as duas mulheres cresceu tanto que Agar fugiu para o deserto. Ali, o anjo do SENHOR a encontrou junto a uma fonte, disse-lhe para voltar e se submeter a Sarai, e prometeu que o seu filho Ismael se tornaria uma grande nação. Anos depois, depois que Sara finalmente teve o seu próprio filho Isaque, ela mandou Agar e Ismael embora para sempre; sozinha no deserto com a água esgotada, Agar chorou, acreditando que o seu filho ia morrer -- até que Deus ouviu o menino chorar, abriu-lhe os olhos para ver um poço de água, e repetiu a sua promessa de que Ismael se tornaria uma grande nação.",
+      "moral": "Deus vê e provê para as pessoas que todos os outros descartaram.",
+      "reflection": "Agar é a única pessoa em Gênesis a dar um nome a Deus -- \"um Deus que vê\" -- e é precisamente porque ela experimenta, duas vezes, ser vista por Deus quando mais ninguém olhava por ela. A sua história situa-se desconfortavelmente ao lado da de Abraão e Sara, mas insiste que a aliança de Deus com uma família não significa que ele seja indiferente a todos fora dela. Ambas as vezes em que Agar está no seu ponto mais baixo, no deserto sem nada, Deus a encontra ali -- não removendo a dificuldade, mas aparecendo bem no meio dela."
+    },
+    {
+      "story_id": "the-binding-of-isaac",
+      "title": "O Sacrifício de Isaque",
+      "summary": "Deus pôs Abraão à prova dizendo-lhe para sacrificar o seu amado filho Isaque como holocausto num monte na terra de Moriá. Abraão obedeceu sem protestar, e quando levantou a faca sobre o seu filho amarrado, um anjo gritou para o deter, dizendo que a sua disposição para obedecer, mesmo nisso, tinha provado o seu temor a Deus. Abraão ergueu os olhos e viu um carneiro preso por perto num arbusto, e o ofereceu em lugar de Isaque, chamando aquele lugar de \"O SENHOR Proverá\". Deus então renovou a sua promessa de aliança a Abraão nos termos mais fortes até então, jurando por si mesmo abençoar a descendência de Abraão além de toda contagem.",
+      "moral": "Confiar em Deus com aquilo que mais amas, mesmo quando não faz sentido, é recebido com a sua própria provisão.",
+      "reflection": "Esta é uma das histórias mais difíceis de toda a Bíblia para se deter, e deve ser mesmo -- pede-se a Abraão que confie em Deus com a própria promessa que Deus lhe tinha feito. O que Abraão diz a Isaque a caminho do monte, \"Deus proverá\", revela-se exatamente verdadeiro, não como um clichê reconfortante mas como o desfecho literal. Os cristãos há muito veem nesta história uma sombra do que o próprio Deus faria um dia -- oferecendo o seu próprio Filho amado, não detido no último momento, nas colinas dessa mesma região."
+    }
+  ]
+}
