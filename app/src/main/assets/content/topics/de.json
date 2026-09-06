@@ -140,6 +140,41 @@
       "feeling_id": "suffering",
       "label": "Leidend",
       "description": "Für Härten, die noch keinen erkennbaren Sinn ergeben haben."
+    },
+    {
+      "feeling_id": "ashamed",
+      "label": "Beschämt",
+      "description": "Für wenn es nicht das ist, was du getan hast, sondern wer du glaubst zu sein, das dich den Blick nicht heben lässt."
+    },
+    {
+      "feeling_id": "sad",
+      "label": "Traurig",
+      "description": "Für die gewöhnliche Schwere, die keinen so großen Namen hat wie Trauer."
+    },
+    {
+      "feeling_id": "discouraged",
+      "label": "Entmutigt",
+      "description": "Für wenn die Anstrengung immer mehr kostet, als sie wert zu sein scheint."
+    },
+    {
+      "feeling_id": "hopeless",
+      "label": "Hoffnungslos",
+      "description": "Für wenn du aufgehört hast zu erwarten, dass sich wirklich etwas ändert."
+    },
+    {
+      "feeling_id": "rejected",
+      "label": "Abgelehnt",
+      "description": "Für den, der vor einer Tür stehen bleibt, die jemand anderes geschlossen hat."
+    },
+    {
+      "feeling_id": "confused",
+      "label": "Verwirrt",
+      "description": "Für wenn du nicht mehr sagen kannst, welche Richtung wirklich vorwärts ist."
+    },
+    {
+      "feeling_id": "forgiveness",
+      "label": "Auf der Suche nach Vergebung",
+      "description": "Für das Tragen von etwas, das du getan hast, und nicht zu wissen, wie du es ablegen sollst."
     }
   ],
   "entry_translations": [
@@ -1542,6 +1577,156 @@
       "entry_id": "suffering-ro-8-18",
       "reflection": "Paulus zieht einen ausdrücklichen Vergleich, wiegt gegenwärtiges Leiden gegen zukünftige Herrlichkeit ab und findet es, nach seiner eigenen sorgfältigen Überlegung, nicht wert, damit verglichen zu werden. Dies ist keine Verleugnung, dass das Leiden real oder schwer ist; es ist eine Aussage über relatives Gewicht, gemacht von jemandem, der andernorts sein eigenes Leiden in lebendigen, konkreten Worten beschreibt. Das erweiterte Versverzeichnis dieses Themas mit dieser Note zu beenden, stellt die ganze Kategorie des Leidens in einen größeren Rahmen, ohne zu löschen, was sie in der Gegenwart kostet.",
       "prayer": "Herr, ich halte, mit Paulus, dafür, dass die Leiden der gegenwärtigen Zeit nicht wert sind, verglichen zu werden mit der Herrlichkeit, die an mir offenbart werden soll -- auch wenn das Leiden gerade jetzt das Einzige zu sein scheint, was ich klar sehen kann. Ich behaupte nicht, dass es leicht ist; ich vertraue, dass das, was kommt, es um mehr überwiegt, als ich mir jetzt vorstellen kann. Halte mich in diesem Vertrauen, bis die Herrlichkeit selbst das ist, was ich stattdessen sehe."
+    },
+    {
+      "entry_id": "ashamed-gen-3-8-10",
+      "reflection": "Dies ist der allererste Fall von Scham in der Schrift -- unmittelbar nach der ersten Sünde ist der Impuls nicht, Gott gegenüber Reue auszudrücken, sondern sich vor ihm zu verstecken. Adams eigene Erklärung ist aufschlussreich: er nennt Nacktsein und Angst als Grund, Scham erzeugt Angst und Angst erzeugt Verbergen in einem Atemzug. Gottes Frage „Wo bist du?“ ist keine Information, die er braucht; es ist eine Einladung ins Offene, gerichtet an jemanden, der sich bereits versteckt. Diese Gründungsszene benennt etwas, das Scham seither jedem antut: sie bewegt Menschen weg von genau der Gegenwart, die tatsächlich helfen könnte.",
+      "prayer": "Herr, wie Adam kenne ich den Instinkt, mich vor dir zu verstecken, sobald ich mich bloßgestellt fühle, obwohl mich vor dir zu verstecken mich noch nie sicherer gemacht hat. Du fragst „wo bist du“ nicht, weil du es nicht weißt, sondern um mich aus einem Versteck herauszurufen, das ich selbst gewählt habe. Gib mir den Mut, mit dir ins Offene zu treten, auch wenn alles in mir noch zwischen den Bäumen verborgen bleiben will."
+    },
+    {
+      "entry_id": "ashamed-heb-12-2",
+      "reflection": "Der Vers sagt nicht, dass Jesus Scham erspart blieb; er sagt, dass er das Kreuz gerade dadurch ertrug, dass er dessen Schande verachtete, sie als etwas behandelnd, das zu durchschauen ist, nicht als etwas, das ihn festhalten könnte. Die Freude, die vor ihm lag, wird als sein Grund genannt, nicht die Abwesenheit der Schande selbst -- er ging hindurch, nicht darum herum. Das macht ihn zu jemandem, den Scham wirklich berührt hat, nicht zu einem fernen Beispiel für jemanden, der sie nie fühlen musste.",
+      "prayer": "Herr Jesus, du hast die Schande des Kreuzes nicht übersprungen; du hast sie ertragen und verachtet und dich geweigert, ihr das letzte Wort über dich zu lassen. Lass mich zu dir aufschauen, wie dieser Vers es beschreibt, meine Augen auf dich richtend statt auf das fixiert zu bleiben, wofür ich mich schäme. Gib mir etwas von derselben Fähigkeit, über diese Scham hinaus zu der Freude zu sehen, die du auch vor mich gestellt hast."
+    },
+    {
+      "entry_id": "ashamed-lk-15-20",
+      "reflection": "Der Vater sieht den Sohn „während er noch weit entfernt war“, was bedeutet, dass er Ausschau hielt, und er läuft, bevor der Sohn die Strecke zu Ende gegangen ist, die Scham ihn hätte kriechen lassen. Nichts im Text deutet darauf hin, dass der Vater zuerst das vorbereitete Geständnis des Sohnes brauchte; Mitgefühl und die Umarmung kommen, bevor ein einziges Wort gewechselt wird. Der Kuss landet auf jemandem, der noch bedeckt ist mit was auch immer das ferne Land an Scham auf ihm hinterlassen hat -- Wiederherstellung wartet nicht darauf, dass er sich zuerst sauber macht.",
+      "prayer": "Vater, ich muss nicht die ganze Strecke gehen, die mir die Scham sagt, dass ich sie schulde, bevor du mir entgegenläufst -- dieser Vers sagt, du hast schon nach mir Ausschau gehalten, bevor ich mich überhaupt umgedreht hatte. Lass mich glauben, dass dein Mitgefühl vor meiner Erklärung kommt, nicht danach. Triff mich, während ich noch weit entfernt bin, genau so wie ich bin, so wie du ihn getroffen hast."
+    },
+    {
+      "entry_id": "ashamed-ps-25-2-3",
+      "reflection": "Davids Bitte ist konkret -- nicht nur Hilfe, sondern konkret nicht beschämt zu werden, und konkret seine Feinde nicht über ihn triumphieren zu lassen. Er erweitert das Versprechen in der nächsten Zeile über sich selbst hinaus: niemand, der auf Gott wartet, wird beschämt, eine allgemeine Regel, die er persönlich auf seine eigene besondere Angst anwendet. Die Scham, die er benennt, ist öffentlich und relational, verbunden damit, wie Feinde ihn sehen würden, nicht nur ein privates inneres Gefühl.",
+      "prayer": "Herr, ich habe auf dich vertraut, also lass mich nicht beschämt werden, so wie David darum bat, nicht beschämt zu werden. Ich weiß, das geht nicht nur darum, wie ich mich innerlich fühle -- es geht darum, was passiert, wenn ich auf dich warte, statt zu versuchen, mich selbst zu verteidigen. Lass es für mich wahr sein, so wie David sagt, dass es für jeden wahr ist, der auf dich wartet."
+    },
+    {
+      "entry_id": "ashamed-ps-34-5",
+      "reflection": "Der Vers verbindet zwei Dinge eng miteinander: zu Gott aufschauen und ein strahlendes, unbeschämtes Gesicht haben -- eines bringt das andere im selben Atemzug hervor. Er beschreibt nicht Scham, die besser verwaltet oder versteckt wird; er beschreibt Gesichter, die niemals mit Scham bedeckt sein werden, ein völlig anderes Ergebnis als Bewältigung. Das Aufschauen kommt zuerst im Satz, was nahelegt, dass die Strahlkraft eine Reaktion ist, nicht etwas, das durch direkte Arbeit an der Scham erreicht wird.",
+      "prayer": "Herr, ich möchte zu dir aufschauen, wie dieser Vers es beschreibt, und mein Gesicht möge strahlen statt bedeckt zu sein mit der Scham, die ich ständig selbst zu bewältigen versuche. Ich glaube nicht, dass ich das reparieren kann, indem ich das, wofür ich mich schäme, noch stärker anstarre; lass mich stattdessen dich anschauen. Wende mein Gesicht dir zu, bis was auch immer diese Scham über mich gelegt hat, sich hebt."
+    },
+    {
+      "entry_id": "ashamed-ro-10-11",
+      "reflection": "Paulus zitiert ein älteres Versprechen und wendet es als feststehende, gegenwärtige Wahrheit an: wer glaubt, wird nicht enttäuscht oder beschämt werden -- keine Einschränkung dazu, wie sehr er vor dem Glauben versagt hat. Das Wort umfasst sowohl den alltäglichen Stich der Verlegenheit als auch etwas Tieferes: die Angst, dass sich das Vertrauen auf Gott als töricht herausstellen könnte. Paulus setzt den ganzen Vers auf den Glauben, nicht auf die Bilanz des Gläubigen.",
+      "prayer": "Herr, ich glaube an dich, und dieser Vers sagt, das bedeutet, dass ich nicht beschämt werde -- nicht wegen irgendetwas an mir, sondern wegen dem, was du versprochen hast. Lass das auch für die Teile meiner Geschichte wahr sein, für die ich mich am meisten schäme. Ich will nicht, dass mein Vertrauen auf dich davon abhängt, zuerst zu beweisen, dass ich es verdiene, nicht beschämt zu werden."
+    },
+    {
+      "entry_id": "ashamed-2tim-1-12",
+      "reflection": "Paulus schreibt dies aus dem Gefängnis, leidend für das Evangelium, und sagt trotzdem klar „ich schäme mich nicht“ -- die Scham, die er zurückweist, ist nicht eingebildet, denn Gefangenschaft für den eigenen Glauben trug in seiner Welt echte gesellschaftliche Schande. Sein Grund ist konkret: nicht dass seine Umstände gut sind, sondern dass er weiß, wem er geglaubt hat, und überzeugt ist, dass Gott bewahren kann, was ihm anvertraut wurde. Das Vertrauen ruht ganz auf Gottes Fähigkeit, etwas sicher zu bewahren, nicht auf Paulus' eigener Bilanz oder gegenwärtigem Komfort.",
+      "prayer": "Herr, wie Paulus möchte ich sagen, dass ich mich nicht schäme, auch in Umständen, die mir jeden Grund dazu geben würden. Lass mein Vertrauen darauf ruhen, dich zu kennen und zu glauben, dass du bewahren kannst, was ich dir anvertraut habe, nicht auf irgendetwas an meiner eigenen Situation, das beeindruckend aussieht. Überzeuge mich, wie Paulus überzeugt war, bis ganz nach unten."
+    },
+    {
+      "entry_id": "ashamed-isa-61-7",
+      "reflection": "Das Versprechen löscht die Geschichte der Scham nicht aus; es antwortet ihr direkt, mit „anstatt“-Sprache, die genau benennt, was ersetzt wird. Doppelter Anteil und ewige Freude sind die konkrete Umkehrung, die angeboten wird, kein vager allgemeiner Segen -- das zielt genau auf die gerade benannte Scham und Schande. Die Sprache von Land und Erbe macht dies konkret und dauerhaft, kein vorübergehendes Gefühl, dass es besser wird.",
+      "prayer": "Herr, du versprichst, anstatt Scham einen doppelten Anteil, und anstatt Schande, Freude -- lass genau diesen Austausch geschehen in welchem Teil meines Lebens auch immer noch alte Scham trägt. Ich brauche nicht, dass die Scham weggeredet wird; ich brauche, dass das, was du versprichst, sie tatsächlich ersetzt. Lass das ewige Freude sein, nicht nur vorübergehende Erleichterung."
+    },
+    {
+      "entry_id": "ashamed-joel-2-26-27",
+      "reflection": "Das Versprechen wiederholt sich fast wortwörtlich -- „mein Volk wird nie wieder enttäuscht sein“ erscheint zweimal in zwei Versen, als müsste der Punkt mehr als einmal gesagt werden, um geglaubt zu werden. Es ist mit gewöhnlicher Versorgung verbunden, reichlich zu essen zu haben und satt zu sein, was die Beseitigung der Scham in etwas so Konkretem wie Nahrung verankert statt in einem abstrakten Gefühl. Zu wissen, dass Gott „mitten unter“ seinem Volk ist, wird als Teil dessen genannt, was die Enttäuschung beendet, die Gegenwart selbst tut einen Teil der Arbeit.",
+      "prayer": "Herr, du versprichst, dass dein Volk nie wieder beschämt werden wird -- zweimal gesagt, als hättest du gewusst, dass ich es mehr als einmal hören müsste. Lass deine Gegenwart mitten unter mir ein Teil dessen sein, was dies tatsächlich beendet, nicht nur sich ändernde Umstände. Ich möchte wissen, dass du bei mir bist, wie dieses Versprechen es beschreibt, und lass das genug sein."
+    },
+    {
+      "entry_id": "ashamed-zeph-3-19-20",
+      "reflection": "Gott benennt genau, was er mit Scham tun wird, die sich über die ganze Erde ausgebreitet hat: sie in Lob und Ehre verwandeln unter all den Völkern, die sie einst gesehen haben. Das ist keine leise, private Umkehrung -- sie geschieht „vor euren Augen“, bezeugt, so öffentlich wie die Scham selbst war. Der Abschnitt endet mit wiederhergestelltem Glück, was bedeutet, dass die Umkehrung total ist, keine teilweise Erleichterung von einem Teil dessen, was verloren wurde.",
+      "prayer": "Herr, du sagst, du wirst Scham, die überall bekannt war, in Lob und Ehre verwandeln unter genau den Völkern, die sie gesehen haben. Lass mich dir die Teile meiner Scham anvertrauen, die sich zu öffentlich oder zu bekannt anfühlten, um jemals umgekehrt zu werden. Stelle wieder her, was mich diese Scham gekostet hat, direkt vor meinen Augen, wie du es versprochen hast."
+    },
+    {
+      "entry_id": "sad-ps-13-1-2",
+      "reflection": "Davids vier „wie lange“-Fragen häufen sich an, ohne eine Pause für eine Antwort dazwischen, Kummer, der ausdrücklich als täglich benannt wird, nicht ein einzelner schlechter Moment. Er bewegt sich in diesen zwei Versen nicht schnell über die Fragen hinaus zu einer Lösung; der Kummer bekommt sein volles, wiederholtes Wort, bevor sonst etwas im Psalm geschieht. Kummer als etwas zu benennen, das „in meinem Herzen jeden Tag“ getragen wird, behandelt gewöhnlichen, wiederkehrenden Kummer als wert, direkt zu Gott gebracht zu werden, nicht nur Trauer auf Krisenniveau.",
+      "prayer": "Herr, wie lange -- das frage ich mit David, über diesen Kummer, der Tag für Tag zurückkommt und keinen dramatischen Grund braucht, um echt zu sein. Ich werde nicht daran vorbeieilen, ihn zu benennen, nur um entschlossener zu klingen, als ich bin. Begegne mir in diesen wiederholten Fragen, genauso wie du David in seinen begegnet bist."
+    },
+    {
+      "entry_id": "sad-jn-16-20-22",
+      "reflection": "Jesus verspricht seinen Nachfolgern nicht, dass sie Kummer vermeiden werden; er verspricht, dass der konkrete Kummer, den sie gleich fühlen werden, sich in Freude verwandeln wird, und benutzt eine Frau in den Wehen als Bild -- echter Schmerz, der ein echtes Ende hat. Der Vergleich ist sorgfältig: sobald das Kind geboren ist, vergisst sie nicht, dass die Angst geschah, aber sie bleibt auch nicht davon definiert. Er endet mit dem Versprechen von Freude, die niemand wegnehmen kann, eine Beständigkeit, die dieser Kummer selbst nicht hat.",
+      "prayer": "Herr, du hast deinen Nachfolgern klar gesagt, dass sie traurig sein würden, und ich möchte nicht so tun, als wäre meine eigene Traurigkeit irgendwie anders oder schlimmer als das, was du bereits verstanden hast. Lass diese Traurigkeit wie die Wehen sein, die du beschrieben hast -- echt, aber nicht das Ende der Geschichte. Ich halte an der Freude fest, die du versprochen hast, dass niemand sie wegnehmen kann, auch während dieser Kummer noch da ist."
+    },
+    {
+      "entry_id": "sad-ps-137-1-2",
+      "reflection": "Das Bild ist schroff und physisch: sich an einen Fluss setzen, weinen, und Harfen aufhängen, die normalerweise gespielt würden -- die Instrumente selbst zum Schweigen gebracht durch die Größe dessen, woran man sich erinnert. Das ist Heimweh und Verlust ausgedrückt durch Abwesenheit, Lieder, die nicht gesungen werden, statt Lieder, die den Kummer direkt benennen. Der Psalm eilt nicht vom Sitzen-und-Weinen zu einer Lektion; er lässt das Bild einfach stehen.",
+      "prayer": "Herr, manchmal sieht Traurigkeit so aus -- einfach dasitzen und weinen, ohne dass etwas in mir gerade singen möchte. Ich werde kein Lied erzwingen, das ich nicht habe; lass mich meine Harfe für jetzt aufhängen, wie dieser Psalm es tut, ohne so zu tun als ob. Begegne mir an diesem Fluss, in der Stille, bevor ich bereit bin, wieder irgendetwas zu spielen."
+    },
+    {
+      "entry_id": "sad-pr-15-13",
+      "reflection": "Das Sprichwort verbindet das sichtbare Gesicht mit dem unsichtbaren Geist, Fröhlichkeit und Gebrochenheit beide gezeigt durch dasselbe Merkmal, was nahelegt, dass ein schmerzendes Herz nicht ordentlich im Inneren verborgen bleibt. Es moralisiert nicht darüber, warum das Herz schmerzt; es beobachtet einfach die Verbindung als wahr und benennt, was ein „gebrochener Geist“ tut, ohne in diesem Vers eine Lösung vorzuschreiben. Die Schlichtheit der Beobachtung ist selbst eine Art Erlaubnis, Traurigkeit zu bemerken, ohne sie sofort lösen zu müssen.",
+      "prayer": "Herr, dieses Sprichwort sagt, ein schmerzendes Herz bricht den Geist, und ich weiß, meines hat auf Weisen geschmerzt, die ich nicht immer auf meinem Gesicht habe zeigen lassen. Ich brauche keine Fröhlichkeit zu erzwingen, die ich gerade nicht habe. Sei einfach nahe bei meinem Geist, während er gebrochen ist, bevor ich überhaupt eine Antwort habe, wie ich ihn heilen soll."
+    },
+    {
+      "entry_id": "sad-eccl-3-4",
+      "reflection": "Der Prediger stellt Weinen und Trauern in dieselbe strukturierte Liste wie Lachen und Tanzen, jedes mit „einer Zeit“ gleichen Gewichts und keiner Entschuldigung an eines der beiden angehängt. Das ist nicht Traurigkeit als Versagen, fröhlich zu sein; es ist Traurigkeit, benannt als eine von mehreren festgelegten Jahreszeiten, in ihrem Moment ebenso legitim wie ihr Gegenteil. Das Listenformat selbst argumentiert dagegen, von einer Jahreszeit zur nächsten zu eilen, bevor ihre Zeit vorbei ist.",
+      "prayer": "Herr, du hast in dieser Liste Platz gemacht für eine Zeit zu weinen und eine Zeit zu trauern, direkt neben einer Zeit zu lachen und zu tanzen, und ich möchte meine eigene Weinsaison nicht als etwas behandeln, wofür man sich schämen muss. Lass mich glauben, dass diese Zeit auch ihren Platz hat, ohne so zu tun, als wäre es schon Zeit zu tanzen. Wenn sich die Jahreszeit wirklich wendet, lass mich es tatsächlich bemerken."
+    },
+    {
+      "entry_id": "sad-ps-71-20-21",
+      "reflection": "Der Psalmist leugnet nicht, dass die Nöte viele und bitter waren, und tut nicht so, als hätte Gott ihn davor bewahrt -- er sagt klar „du hast uns gezeigt“ die Nöte, was sie der zulassenden Hand Gottes zuschreibt. Was er als Nächstes bittet, ist nicht das Auslöschen dessen, was geschah, sondern eine Zunahme von Ehre und Trost „wieder“, eine Sprache, die annimmt, dass er es vorher hatte und es wiederhergestellt bekommen kann. Aus den „Tiefen der Erde“ heraufgeholt zu werden, erkennt an, wie tief die Traurigkeit ihn tatsächlich hinabgezogen hat.",
+      "prayer": "Herr, du hast mir Nöte gezeigt, die viele und bitter erschienen, und ich werde nicht so tun, als wären sie nicht echt gewesen, nur um dankbarer zu klingen. Hol mich wieder herauf, von wo auch immer mich diese Traurigkeit hingebracht hat, wie es dieser Psalm bittet. Vermehre meinen Trost wieder, denn ich weiß, ich hatte ihn schon einmal und kann dir jetzt dafür vertrauen."
+    },
+    {
+      "entry_id": "sad-hab-3-17-18",
+      "reflection": "Der Prophet listet jede einzelne Versorgungsquelle auf, die gleichzeitig versagt -- Feigenbaum, Weinstöcke, Olive, Felder, Herden, Ställe -- ein erschöpfendes Bild des Verlusts, ohne etwas von der Liste zurückzuhalten. Das „doch“, das folgt, löscht nichts davon aus; die Freude, die er wählt, geschieht in voller Sicht jeder gescheiterten Ernte und jedes leeren Stalls, nicht nachdem sie gelöst sind. Das ist Freude, positioniert als eine Entscheidung, getroffen innerhalb der Traurigkeit, kein Gefühl, das darauf wartet, dass die Traurigkeit zuerst endet.",
+      "prayer": "Herr, wie Habakuk kann ich alles auflisten, was gerade zu scheitern scheint, und nichts davon verschwindet nur weil ich es dir bringe. Aber lass mich trotzdem sagen „doch ich will mich freuen“, nicht weil die Traurigkeit weg ist, sondern weil du trotzdem der Gott meines Heils bist. Sei meine Freude mitten darin, nicht nur auf der anderen Seite davon."
+    },
+    {
+      "entry_id": "sad-ps-30-11-12",
+      "reflection": "Die Verben sind aktiv und vollständig -- Trauer in Tanz verwandelt, Sacktuch entfernt, mit Freude bekleidet -- beschrieben als Dinge, die dem Psalmisten bereits geschehen sind, keine Hoffnung für später. Der genannte Zweck ist konkret: damit sein Herz singt und nicht schweigt, was die ganze Umkehrung mit Lob verbindet statt nur mit persönlicher Erleichterung. Schweigen wird als die zu vermeidende Alternative benannt, was nahelegt, dass unbehandelte Traurigkeit zu einem Herzen tendiert, das ganz aufhört zu singen.",
+      "prayer": "Herr, verwandle meine Trauer in Tanz, wie du es für den Psalmisten getan hast, und entferne welches Sacktuch auch immer mich diese Traurigkeit hat tragen lassen. Ich möchte nicht, dass mein Herz unter dieser Last verstummt. Bekleide mich mit Freude, damit ich dir wirklich danken kann, nicht nur leise aufhöre zu leiden."
+    },
+    {
+      "entry_id": "sad-ps-126-5-6",
+      "reflection": "Das Bild verbindet Säen und Weinen zu einer einzigen fortlaufenden Handlung -- weinend hinausgehen, während man noch Samen zum Pflanzen trägt, ohne zu warten, dass die Traurigkeit vergeht, bevor man etwas Produktives tut. Die Freude, die bei der Rückkehr versprochen wird, löscht das frühere Weinen nicht aus dem Bericht; beide werden in denselben zwei Versen als Teil eines ganzen Bildes gehalten. „Garben“ am Ende zu tragen zeigt, dass die Tränen nicht verschwendet waren; etwas Echtes wuchs genau aus der Jahreszeit, die am kummervollsten schien.",
+      "prayer": "Herr, lass mich weinend hinausgehen, wenn das ist, was heute verlangt wird, immer noch tragend, was du mir zu pflanzen gegeben hast, auch während ich traurig bin. Ich vertraue, dass dieses Säen in Tränen nicht verschwendet ist, und dass Freude damit kommt, wie es dieser Psalm verspricht. Lass mich eines Tages zurückkommen und Garben tragen, die genau aus dieser schweren Jahreszeit gewachsen sind."
+    },
+    {
+      "entry_id": "sad-isa-51-11",
+      "reflection": "Der Vers benennt sowohl Kummer als auch Seufzen ausdrücklich, als würde er erwarten, dass Traurigkeit sich in mehr als einer Form zeigt -- ausgesprochener Kummer und die leisere, wortlose Art. „Werden entfliehen“ ist ein starkes Bild, Traurigkeit dargestellt als etwas, das ganz davonläuft, statt langsam zu verblassen oder auf ein erträgliches Niveau heruntergemanagt zu werden. Die versprochene ewige Freude wird nicht so beschrieben, als käme sie neben anhaltendem Kummer an; der Text zeichnet einen echten Abschied, keine dauerhafte Koexistenz.",
+      "prayer": "Herr, du versprichst, dass Kummer und Seufzen entfliehen werden, sowohl die Traurigkeit, die ich laut benennen kann, als auch die Art, die sich nur als ein Seufzer zeigt, den ich nicht ganz erklären kann. Ich möchte glauben, dass das ein echter Abschied ist, den du beschreibst, nicht nur Traurigkeit, die leiser wird. Lass ewige Freude das sein, was tatsächlich übrig bleibt, wenn dieser Kummer geht."
+    },
+    {
+      "entry_id": "discouraged-num-21-4-5",
+      "reflection": "Der Text benennt die genaue Ursache mit ungewöhnlicher Direktheit: die Seele des Volkes war „sehr entmutigt wegen des Weges“ -- nicht wegen einer einzelnen Krise, sondern weil die Straße selbst zu lange gedauert hatte. Was folgt, ist aufschlussreich: ihre Entmutigung verwandelt sich sofort in Reden gegen Gott und Mose, Beschwerde wird zum Ventil für Erschöpfung, mit der sie sonst nicht wussten umzugehen. Das ist Entmutigung ehrlich dargestellt, Beschwerden inklusive, nicht geglättet zu etwas Geistlicherem.",
+      "prayer": "Herr, wie das Volk in der Wüste bin ich entmutigt wegen der Länge dieser Reise, nicht wegen einer bestimmten Katastrophe. Ich weiß, meine Entmutigung will sich in Beschwerde verwandeln wie ihre, und ich möchte nicht so tun, als wäre dieser Impuls nicht da. Begegne mir ehrlich auf diesem langen Weg, bevor sich meine Entmutigung in etwas verwandelt, das ich bereuen werde gesagt zu haben."
+    },
+    {
+      "entry_id": "discouraged-neh-4-14",
+      "reflection": "Nehemia reagiert auf die Angst des Volkes nicht, indem er leugnet, dass die Bedrohung real ist; er betrachtet die tatsächliche Gefahr und sagt ihnen dann konkret, sich an den Herrn zu erinnern statt an die Größe dessen, was gegen sie ist. Die Anweisung zu „kämpfen“ kommt erst nach dem Erinnern, nicht davor -- Mut wird hier dargestellt als etwas, das daraus folgt, wo die Aufmerksamkeit zuerst hingelegt wird. Er benennt genau, wen sie beschützen -- Brüder, Söhne, Töchter, Frauen, Häuser -- was die entmutigende Arbeit konkret und persönlich macht, nicht abstrakt.",
+      "prayer": "Herr, wie die Bauleute, die echten Bedrohungen gegenüberstanden, während sie versuchten, deine Arbeit zu tun, muss ich mich an dich erinnern, bevor ich irgendeinen Mut finden kann weiterzumachen. Hilf mir, ehrlich zu betrachten, was mich tatsächlich entmutigt, so wie Nehemia die echte Bedrohung betrachtete, ohne so zu tun, als gäbe es sie nicht. Dann lass mich mich erinnern, dass du groß und furchtgebietend bist, und lass das sein, was mich zurück zur Arbeit bewegt."
+    },
+    {
+      "entry_id": "discouraged-josh-1-9",
+      "reflection": "Der Befehl beginnt mit einer Frage, die annimmt, dass Josua die Antwort schon kennt -- „habe ich dir nicht geboten?“ -- und behandelt Mut als etwas bereits Gegebenes, nicht etwas, das Josua aus dem Nichts erzeugen muss. Stärke und Mut werden befohlen, nicht nur gewünscht, zusammen mit einer direkten Anweisung, keine Angst zu haben und nicht mutlos zu sein, was genau die Gefühle benennt, die Entmutigung erzeugt. Der gegebene Grund ist Gegenwart, nicht Umstände: Gott ist mit ihm, wohin er auch geht, nicht nur dort, wo die Dinge schon gut laufen.",
+      "prayer": "Herr, du hast Josua befohlen, stark und mutig zu sein, nicht sich zuerst so zu fühlen -- lass diesen Befehl auch für mich gelten, genau dort, wo ich entmutigt bin. Lass mich nicht ängstlich oder mutlos sein, auch wenn beides gerade nahe scheint. Ich halte an dem Grund fest, den du ihm gegeben hast: dass du mit mir bist, wohin ich auch gehe, nicht nur wo es leicht ist."
+    },
+    {
+      "entry_id": "discouraged-2cor-4-1",
+      "reflection": "Paulus verbindet das Nicht-Aufgeben direkt mit bereits empfangener Barmherzigkeit -- „wie wir Barmherzigkeit erlangt haben“ -- als käme der Widerstand gegen Entmutigung aus der Erinnerung an das, was bereits gegeben wurde, nicht aus dem Erzeugen frischer Willenskraft. Der Dienst selbst wird als Grund genannt, warum er überhaupt aufgeben könnte; harte, anhaltende Arbeit ist genau das, was einen Menschen mit der Zeit zermürbt. Seine Schlussfolgerung ist kurz und zuversichtlich: „wir werden nicht müde“, als feststehende Tatsache formuliert, nicht als hoffnungsvolle Aspiration.",
+      "prayer": "Herr, wie Paulus lass mich in welchem Dienst oder welcher Arbeit auch immer du mir gegeben hast nicht aufgeben, mich an die Barmherzigkeit erinnernd, die ich schon von dir erhalten habe, als Grund, warum ich weitermachen kann. Diese Arbeit ist wirklich schwer, und ich werde nicht so tun, als würde sie mich nicht mitnehmen. Aber lass deine Barmherzigkeit genug sein, um mich davon abzuhalten aufzugeben."
+    },
+    {
+      "entry_id": "discouraged-heb-12-3",
+      "reflection": "Der Autor weist speziell auf Jesus hin, der Feindseligkeit von Sündern erduldete, als Vorbild dafür, nicht müde zu werden oder in der Seele matt zu werden -- die Abhilfe gegen Entmutigung ist, jemand anderes Ausdauer zu bedenken, nicht nur allein durchzubeißen. „Matt werden in euren Seelen“ benennt Entmutigung als etwas Tieferes als körperliche Müdigkeit, ein inneres Aufgeben, das der Autor ernst genug nimmt, um direkt davor zu warnen. Ihn zu bedenken wird als aktiver Widerstand gegen dieses innere Ermatten dargestellt, nicht als passiver Trost.",
+      "prayer": "Herr Jesus, lass mich bedenken, wie du solche Feindseligkeit gegen dich selbst ertragen hast, damit ich nicht müde werde oder in meiner eigenen Seele matt werde, wie dieser Vers warnt. Meine Entmutigung ist mehr als nur körperliche Müdigkeit, und ich brauche mehr als Ruhe, um ihr zu antworten. Gib mir die Art von Ausdauer, die davon kommt, wirklich dich anzuschauen, nicht nur selbst härter zu versuchen."
+    },
+    {
+      "entry_id": "discouraged-heb-12-12-13",
+      "reflection": "Die Bilder sind physisch und konkret -- herabhängende Hände, schwache Knie -- der Körper selbst dargestellt, wie er Entmutigung zeigt, bevor Worte es tun. Die Anweisung, die Hände zu heben und die Knie zu stärken, ist aktiv, nicht nur ein Wunsch, dass Entmutigung von selbst vergeht. „Macht gerade Bahn für eure Füße“ erweitert die Fürsorge über die entmutigte Person hinaus, darauf, wie ihr Weg das Lahme in der Nähe beeinflussen könnte, das Heilmittel der Entmutigung verbunden mit der größeren Gemeinschaft um sie herum.",
+      "prayer": "Herr, meine Hände fühlen sich an, als würden sie herabhängen, und meine Knie fühlen sich schwach an, genau wie dieser Vers beschreibt, dass sich Entmutigung im Körper zeigt. Hebe, was in mir herabhängt, und stärke, was schwach ist, nicht nur meine Gefühle, sondern meine tatsächliche Fähigkeit weiterzugehen. Mache meinen Weg gerade genug, dass meine eigene Entmutigung nicht am Ende jemanden verletzt, der in der Nähe geht."
+    },
+    {
+      "entry_id": "discouraged-ps-31-24",
+      "reflection": "Der Befehl, stark zu sein und Mut zu fassen, richtet sich speziell an „alle, die auf den Herrn hoffen“, was den Mut direkt damit verbindet, worauf die Hoffnung gesetzt ist, statt ihn als allgemeine Ermutigung anzubieten, die jedem zur Verfügung steht. Es ist das Herz, dem gesagt wird, Mut zu fassen, nicht nur das äußere Verhalten -- eine innere Stärkung, nicht bloß eine Zurschaustellung von Zuversicht. Das kommt ganz am Ende eines Psalms, der zuvor durch echte Not gegangen ist, Mut kommt als letztes Wort, nicht als erstes.",
+      "prayer": "Herr, ich möchte stark sein und mein Herz Mut fassen lassen, wie es dieser Vers für alle beschreibt, die auf dich hoffen. Lass meine Hoffnung auf dich konkret das sein, was mein Herz stärkt, nicht nur eine Entschlossenheit, mutiger zu fühlen. Das war heute ein schwerer Psalm zu beten, aber lass Mut wirklich das letzte Wort sein, so wie es für den Psalmisten war."
+    },
+    {
+      "entry_id": "discouraged-2chr-15-7",
+      "reflection": "Die Anweisung verbindet Stärke mit einer konkreten praktischen Warnung -- lasst eure Hände nicht schlaff werden -- die genau die körperliche Haltung benennt, die Entmutigung erzeugt, Hände, die aufhören zu arbeiten. Das angehängte Versprechen ist direkt: die Arbeit selbst wird belohnt werden, was fortgesetzte Anstrengung mit einem Ergebnis verbindet, statt die Ermutigung ohne genannten Grund zu lassen. Das richtet sich an Menschen, die bereits mitten in einer langen Reformbemühung sind, nicht an Menschen, die gerade erst frisch anfangen.",
+      "prayer": "Herr, lass meine Hände nicht schlaff werden bei der Arbeit, die du mir gegeben hast, auch wenn Entmutigung mich einfach aufhören lassen will zu arbeiten. Ich vertraue darauf, dass diese Arbeit belohnt wird, wie es dieser Vers verspricht, auch wenn ich noch nicht sehen kann wie. Halte mich gerade jetzt mitten darin stark, nicht nur am Anfang, als es leichter war."
+    },
+    {
+      "entry_id": "discouraged-1cor-15-58",
+      "reflection": "Paulus' Anweisung kommt mit einem Grund, der direkt im selben Satz angehängt ist: Arbeit im Herrn ist „nicht vergeblich“, was bedeutet, dass die Entmutigung darüber, ob Anstrengung sinnlos ist, konkret beantwortet wird, nicht nur weggeschickt. „Fest“ und „unerschütterlich“ sind starke, bewusste Worte, die eine gewählte und gehaltene Haltung beschreiben, statt ein Gefühl, das automatisch auftaucht. Er nennt seine Leser „geliebte Brüder“ direkt vor dieser Anweisung und rahmt den ganzen Befehl innerhalb einer Beziehung statt reiner Verpflichtung.",
+      "prayer": "Herr, ich möchte fest und unerschütterlich sein in der Arbeit, die du mir gegeben hast, vertrauend, dass meine Arbeit in dir nicht vergeblich ist, auch an Tagen, an denen es sinnlos erscheint. Lass diese Anweisung mich so erreichen, wie Paulus es meinte -- nicht als Druck, sondern als etwas, das zu jemandem gesagt wird, den du liebst. Halte mich überfließend in dieser Arbeit, statt mich leise zurückzuziehen."
+    },
+    {
+      "entry_id": "discouraged-phil-1-6",
+      "reflection": "Paulus äußert seine Zuversicht über eine bestimmte Sache -- dass der, der das Werk begonnen hat, es vollenden wird -- und verortet die Garantie in Gottes Durchhaltevermögen, nicht darin, wie die Arbeit gerade aussieht oder sich anfühlt. „In eben dieser Zuversicht“ legt nahe, dass er sich diese eine Gewissheit bewusst ausgesucht hat, statt vagen allgemeinen Optimismus anzubieten. Der genannte Zeitrahmen, „bis zum Tag Jesu Christi“, dehnt das Versprechen weit über welche entmutigende Phase auch immer die Arbeit gerade ist.",
+      "prayer": "Herr, ich halte an dieser einen Sache fest, deren sich Paulus sicher war: dass du, der ein gutes Werk in mir begonnen hat, es vollenden wirst, auch wenn es sich gerade nicht annähernd fertig anfühlt. Lass meine Entmutigung darüber, wie unvollendet das alles aussieht, kein Beweis gegen dein Versprechen sein. Arbeite weiter an dem, was du begonnen hast, bis zur vollen Vollendung, wie fern dieser Tag auch noch sein mag."
     }
   ]
 }

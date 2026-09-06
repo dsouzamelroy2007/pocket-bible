@@ -788,6 +788,216 @@
           "weight": 0.8
         }
       ]
+    },
+    {
+      "id": "ashamed",
+      "label": "Ashamed",
+      "icon": "ti-eye-off",
+      "category": "moral",
+      "description": "For when it's not what you did but who you think you are that won't let you look up.",
+      "sort_order": 29,
+      "aliases": [
+        {
+          "alias": "shame",
+          "weight": 1.0
+        },
+        {
+          "alias": "embarrassed",
+          "weight": 0.7
+        },
+        {
+          "alias": "disgraced",
+          "weight": 0.8
+        },
+        {
+          "alias": "can't forgive myself",
+          "weight": 0.7
+        },
+        {
+          "alias": "want to hide",
+          "weight": 0.8
+        }
+      ]
+    },
+    {
+      "id": "sad",
+      "label": "Sad",
+      "icon": "ti-mood-sad",
+      "category": "distress",
+      "description": "For the ordinary heaviness that doesn't have a name as big as grief.",
+      "sort_order": 30,
+      "aliases": [
+        {
+          "alias": "sad",
+          "weight": 1.0
+        },
+        {
+          "alias": "down",
+          "weight": 0.8
+        },
+        {
+          "alias": "blue",
+          "weight": 0.7
+        },
+        {
+          "alias": "unhappy",
+          "weight": 0.8
+        },
+        {
+          "alias": "low",
+          "weight": 0.6
+        }
+      ]
+    },
+    {
+      "id": "discouraged",
+      "label": "Discouraged",
+      "icon": "ti-trending-down",
+      "category": "distress",
+      "description": "For when the effort keeps costing more than it seems to be worth.",
+      "sort_order": 31,
+      "aliases": [
+        {
+          "alias": "discouraged",
+          "weight": 1.0
+        },
+        {
+          "alias": "want to quit",
+          "weight": 0.9
+        },
+        {
+          "alias": "losing heart",
+          "weight": 0.9
+        },
+        {
+          "alias": "demotivated",
+          "weight": 0.7
+        },
+        {
+          "alias": "giving up",
+          "weight": 0.8
+        }
+      ]
+    },
+    {
+      "id": "hopeless",
+      "label": "Hopeless",
+      "icon": "ti-moon",
+      "category": "distress",
+      "description": "For when you've stopped expecting anything to actually change.",
+      "sort_order": 32,
+      "aliases": [
+        {
+          "alias": "hopeless",
+          "weight": 1.0
+        },
+        {
+          "alias": "despair",
+          "weight": 0.9
+        },
+        {
+          "alias": "no point",
+          "weight": 0.8
+        },
+        {
+          "alias": "nothing will change",
+          "weight": 0.8
+        },
+        {
+          "alias": "given up",
+          "weight": 0.7
+        }
+      ]
+    },
+    {
+      "id": "rejected",
+      "label": "Rejected",
+      "icon": "ti-door-off",
+      "category": "relational",
+      "description": "For being the one left standing outside a door someone else closed.",
+      "sort_order": 33,
+      "aliases": [
+        {
+          "alias": "rejected",
+          "weight": 1.0
+        },
+        {
+          "alias": "turned away",
+          "weight": 0.8
+        },
+        {
+          "alias": "excluded",
+          "weight": 0.8
+        },
+        {
+          "alias": "not wanted",
+          "weight": 0.9
+        },
+        {
+          "alias": "left out",
+          "weight": 0.7
+        }
+      ]
+    },
+    {
+      "id": "confused",
+      "label": "Confused",
+      "icon": "ti-arrows-shuffle",
+      "category": "spiritual",
+      "description": "For when you can't tell anymore which way is actually forward.",
+      "sort_order": 34,
+      "aliases": [
+        {
+          "alias": "confused",
+          "weight": 1.0
+        },
+        {
+          "alias": "don't understand",
+          "weight": 0.8
+        },
+        {
+          "alias": "lost",
+          "weight": 0.7
+        },
+        {
+          "alias": "mixed up",
+          "weight": 0.6
+        },
+        {
+          "alias": "unclear",
+          "weight": 0.6
+        }
+      ]
+    },
+    {
+      "id": "forgiveness",
+      "label": "Seeking forgiveness",
+      "icon": "ti-eraser",
+      "category": "desire",
+      "description": "For carrying something you did and don't know how to put down.",
+      "sort_order": 35,
+      "aliases": [
+        {
+          "alias": "seeking forgiveness",
+          "weight": 1.0
+        },
+        {
+          "alias": "forgive me",
+          "weight": 0.9
+        },
+        {
+          "alias": "repentance",
+          "weight": 0.8
+        },
+        {
+          "alias": "asking for forgiveness",
+          "weight": 0.9
+        },
+        {
+          "alias": "want to be forgiven",
+          "weight": 0.8
+        }
+      ]
     }
   ],
   "passages": [
@@ -7095,6 +7305,292 @@
       "pull_quote": "By his wounds we are healed.",
       "reference_display": "Isaiah 53:3-5",
       "reference_alt": null
+    },
+    {
+      "id": "web-c:gen:3:8",
+      "translation_id": "web-c",
+      "book_id": "gen",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 8,
+      "verse_end": 10,
+      "text": "They heard the LORD God’s voice walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden. The LORD God called to the man, and said to him, “Where are you?” The man said, “I heard your voice in the garden, and I was afraid, because I was naked; so I hid myself.”",
+      "pull_quote": "I heard your voice in the garden, and I was afraid, because I was naked; so I hid myself.",
+      "reference_display": "Genesis 3:8-10",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:34:5",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 34,
+      "chapter_end": 34,
+      "verse_start": 5,
+      "verse_end": 5,
+      "text": "They looked to him, and were radiant. Their faces shall never be covered with shame.",
+      "pull_quote": "They looked to him, and were radiant. Their faces shall never be covered with shame.",
+      "reference_display": "Psalm 34:5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:25:2",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 25,
+      "chapter_end": 25,
+      "verse_start": 2,
+      "verse_end": 3,
+      "text": "My God, I have trusted in you. Don’t let me be shamed. Don’t let my enemies triumph over me. Yes, no one who waits for you will be shamed. They will be shamed who deal treacherously without cause.",
+      "pull_quote": "No one who waits for you will be shamed.",
+      "reference_display": "Psalm 25:2-3",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:61:7",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 61,
+      "chapter_end": 61,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "Instead of your shame you will have double. Instead of dishonor, they will rejoice in their portion. Therefore in their land they will possess double. Everlasting joy will be to them.",
+      "pull_quote": "Instead of your shame you will have double.",
+      "reference_display": "Isaiah 61:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:zeph:3:19",
+      "translation_id": "web-c",
+      "book_id": "zeph",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 19,
+      "verse_end": 20,
+      "text": "Behold, at that time I will deal with all those who afflict you; and I will save those who are lame and gather those who were driven away. I will give them praise and honor, whose shame has been in all the earth. At that time I will bring you in, and at that time I will gather you; for I will give you honor and praise among all the peoples of the earth when I restore your fortunes before your eyes, says the LORD.",
+      "pull_quote": "I will give them praise and honor, whose shame has been in all the earth.",
+      "reference_display": "Zephaniah 3:19-20",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:joel:2:26",
+      "translation_id": "web-c",
+      "book_id": "joel",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 26,
+      "verse_end": 27,
+      "text": "You will have plenty to eat and be satisfied, and will praise the name of the LORD, your God, who has dealt wondrously with you; and my people will never again be disappointed. You will know that I am among Israel, and that I am the LORD, your God, and there is no one else; and my people will never again be disappointed.",
+      "pull_quote": "My people will never again be disappointed.",
+      "reference_display": "Joel 2:26-27",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ro:10:11",
+      "translation_id": "web-c",
+      "book_id": "ro",
+      "chapter_start": 10,
+      "chapter_end": 10,
+      "verse_start": 11,
+      "verse_end": 11,
+      "text": "For the Scripture says, “Whoever believes in him will not be disappointed.”",
+      "pull_quote": "Whoever believes in him will not be disappointed.",
+      "reference_display": "Romans 10:11",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:2tim:1:12",
+      "translation_id": "web-c",
+      "book_id": "2tim",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 12,
+      "verse_end": 12,
+      "text": "For this cause I also suffer these things. Yet I am not ashamed, for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day.",
+      "pull_quote": "I am not ashamed, for I know him whom I have believed.",
+      "reference_display": "2 Timothy 1:12",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:heb:12:2",
+      "translation_id": "web-c",
+      "book_id": "heb",
+      "chapter_start": 12,
+      "chapter_end": 12,
+      "verse_start": 2,
+      "verse_end": 2,
+      "text": "looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God.",
+      "pull_quote": "Who for the joy that was set before him endured the cross, despising its shame.",
+      "reference_display": "Hebrews 12:2",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:13:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 13,
+      "chapter_end": 13,
+      "verse_start": 1,
+      "verse_end": 2,
+      "text": "How long, the LORD? Will you forget me forever? How long will you hide your face from me? How long shall I take counsel in my soul, having sorrow in my heart every day? How long shall my enemy triumph over me?",
+      "pull_quote": "How long shall I take counsel in my soul, having sorrow in my heart every day?",
+      "reference_display": "Psalm 13:1-2",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:eccl:3:4",
+      "translation_id": "web-c",
+      "book_id": "eccl",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 4,
+      "verse_end": 4,
+      "text": "a time to weep, and a time to laugh; a time to mourn, and a time to dance;",
+      "pull_quote": "A time to weep, and a time to laugh; a time to mourn, and a time to dance.",
+      "reference_display": "Ecclesiastes 3:4",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:15:13",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 15,
+      "chapter_end": 15,
+      "verse_start": 13,
+      "verse_end": 13,
+      "text": "A glad heart makes a cheerful face, but an aching heart breaks the spirit.",
+      "pull_quote": "A glad heart makes a cheerful face, but an aching heart breaks the spirit.",
+      "reference_display": "Proverbs 15:13",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jn:16:20",
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "chapter_start": 16,
+      "chapter_end": 16,
+      "verse_start": 20,
+      "verse_end": 22,
+      "text": "Most certainly I tell you that you will weep and lament, but the world will rejoice. You will be sorrowful, but your sorrow will be turned into joy. A woman, when she gives birth, has sorrow because her time has come. But when she has delivered the child, she doesn’t remember the anguish any more, for the joy that a human being is born into the world. Therefore you now have sorrow, but I will see you again, and your heart will rejoice, and no one will take your joy away from you.",
+      "pull_quote": "You will be sorrowful, but your sorrow will be turned into joy.",
+      "reference_display": "John 16:20-22",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:51:11",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 51,
+      "chapter_end": 51,
+      "verse_start": 11,
+      "verse_end": 11,
+      "text": "Those ransomed by the LORD will return, and come with singing to Zion. Everlasting joy shall be on their heads. They will obtain gladness and joy. Sorrow and sighing shall flee away.",
+      "pull_quote": "Sorrow and sighing shall flee away.",
+      "reference_display": "Isaiah 51:11",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:71:20",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 71,
+      "chapter_end": 71,
+      "verse_start": 20,
+      "verse_end": 21,
+      "text": "You, who have shown us many and bitter troubles, you will let me live. You will bring us up again from the depths of the earth. Increase my honor and comfort me again.",
+      "pull_quote": "You will bring us up again from the depths of the earth.",
+      "reference_display": "Psalm 71:20-21",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:137:1",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 137,
+      "chapter_end": 137,
+      "verse_start": 1,
+      "verse_end": 2,
+      "text": "By the rivers of Babylon, there we sat down. Yes, we wept, when we remembered Zion. On the willows in that land, we hung up our harps.",
+      "pull_quote": "By the rivers of Babylon, there we sat down. Yes, we wept, when we remembered Zion.",
+      "reference_display": "Psalm 137:1-2",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:num:21:4",
+      "translation_id": "web-c",
+      "book_id": "num",
+      "chapter_start": 21,
+      "chapter_end": 21,
+      "verse_start": 4,
+      "verse_end": 5,
+      "text": "They traveled from Mount Hor by the way to the Red Sea, to go around the land of Edom. The soul of the people was very discouraged because of the journey. The people spoke against God and against Moses: “Why have you brought us up out of Egypt to die in the wilderness? For there is no bread, there is no water, and our soul loathes this disgusting food!”",
+      "pull_quote": "The soul of the people was very discouraged because of the journey.",
+      "reference_display": "Numbers 21:4-5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:2chr:15:7",
+      "translation_id": "web-c",
+      "book_id": "2chr",
+      "chapter_start": 15,
+      "chapter_end": 15,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "But you be strong! Don’t let your hands be slack, for your work will be rewarded.”",
+      "pull_quote": "Don't let your hands be slack, for your work will be rewarded.",
+      "reference_display": "2 Chronicles 15:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:neh:4:14",
+      "translation_id": "web-c",
+      "book_id": "neh",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 14,
+      "verse_end": 14,
+      "text": "I looked, and rose up, and said to the nobles, to the rulers, and to the rest of the people, “Don’t be afraid of them! Remember the Lord, who is great and awesome, and fight for your brothers, your sons, your daughters, your wives, and your houses.”",
+      "pull_quote": "Don't be afraid of them! Remember the Lord, and fight.",
+      "reference_display": "Nehemiah 4:14",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:2cor:4:1",
+      "translation_id": "web-c",
+      "book_id": "2cor",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "Therefore, seeing we have this ministry, even as we obtained mercy, we don’t faint.",
+      "pull_quote": "Seeing we have this ministry, even as we obtained mercy, we don't faint.",
+      "reference_display": "2 Corinthians 4:1",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:heb:12:3",
+      "translation_id": "web-c",
+      "book_id": "heb",
+      "chapter_start": 12,
+      "chapter_end": 12,
+      "verse_start": 3,
+      "verse_end": 3,
+      "text": "For consider him who has endured such contradiction of sinners against himself, that you don’t grow weary, fainting in your souls.",
+      "pull_quote": "Consider him who has endured such contradiction, that you don't grow weary, fainting in your souls.",
+      "reference_display": "Hebrews 12:3",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:heb:12:12",
+      "translation_id": "web-c",
+      "book_id": "heb",
+      "chapter_start": 12,
+      "chapter_end": 12,
+      "verse_start": 12,
+      "verse_end": 13,
+      "text": "Therefore lift up the hands that hang down and the feeble knees, and make straight paths for your feet, so what is lame may not be dislocated, but rather be healed.",
+      "pull_quote": "Lift up the hands that hang down and the feeble knees.",
+      "reference_display": "Hebrews 12:12-13",
+      "reference_alt": null
     }
   ],
   "entries": [
@@ -10373,6 +10869,246 @@
       "prayer": "Lord, I consider, with Paul, that the sufferings of this present time are not worthy to be compared with the glory that will be revealed in me — even though right now the suffering feels like the only thing I can see clearly. I'm not pretending it's light; I'm trusting that what's coming outweighs it by more than I can currently imagine. Hold me in that trust until the glory itself is what I'm seeing instead.",
       "intensity": "settled",
       "depth_order": 10
+    },
+    {
+      "id": "ashamed-gen-3-8-10",
+      "feeling_id": "ashamed",
+      "reflection": "This is the very first instance of shame in scripture -- immediately after the first sin, the impulse isn't remorse expressed to God but hiding from him. Adam's own explanation is telling: he names being naked and being afraid as the reason, shame producing fear and fear producing concealment in one breath. God's question \"Where are you?\" isn't information he needs; it's an invitation into the open, addressed to someone already hiding. This founding scene names something shame does to everyone since: it makes people move away from the very presence that could actually help.",
+      "prayer": "Lord, like Adam I know the instinct to hide from you the moment I feel exposed, though hiding from you has never once made me safer. You ask \"where are you\" not because you don't know, but to call me out of a hiding place I chose myself. Give me the courage to step out into the open with you, even though everything in me still wants to stay concealed among the trees.",
+      "intensity": "acute",
+      "depth_order": 1
+    },
+    {
+      "id": "ashamed-heb-12-2",
+      "feeling_id": "ashamed",
+      "reflection": "The verse doesn't say Jesus was spared shame; it says he endured the cross specifically by despising its shame, treating it as something to see through rather than something that could hold him. The joy set before him is named as his reason, not the absence of the shame itself -- he went through it, not around it. This makes him someone shame has genuinely touched, not a distant example of someone who never had to feel it.",
+      "prayer": "Lord Jesus, you didn't skip the shame of the cross; you endured it and despised it, refusing to let it have the final word over you. Let me look to you the way this verse describes, fixing my eyes on you rather than staying fixed on what I'm ashamed of. Give me some of that same ability to see past this shame toward whatever joy you have set before me too.",
+      "intensity": "acute",
+      "depth_order": 2
+    },
+    {
+      "id": "ashamed-lk-15-20",
+      "feeling_id": "ashamed",
+      "reflection": "The father sees the son \"while he was still far off,\" meaning he was watching, and he runs before the son has finished walking the distance shame would have made him crawl through. Nothing in the text suggests the father needed the son's prepared confession first; compassion and the embrace come before a single word is exchanged. The kiss lands on someone still covered in whatever shame the far country left on him -- restoration doesn't wait for him to clean up first.",
+      "prayer": "Father, I don't have to walk the whole distance shame tells me I owe before you'll run to meet me -- this verse says you were watching for me before I even finished turning around. Let me believe that your compassion comes before my explanation, not after it. Meet me while I'm still far off, exactly as I am, the way you met him.",
+      "intensity": "acute",
+      "depth_order": 3
+    },
+    {
+      "id": "ashamed-ps-25-2-3",
+      "feeling_id": "ashamed",
+      "reflection": "David's request is specific -- not just help, but specifically not being put to shame, and specifically not letting his enemies triumph over him. He widens the promise beyond himself in the next line: no one who waits for God will be shamed, a general rule he's applying personally to his own particular fear. The shame he names is public and relational, tied to how enemies would see him, not just a private inner feeling.",
+      "prayer": "Lord, I have trusted in you, so let me not be shamed the way David asked not to be. I know this isn't only about how I feel inside -- it's about what happens when I wait on you instead of trying to defend myself. Let it be true for me the way David says it is for everyone who waits for you.",
+      "intensity": "steady",
+      "depth_order": 4
+    },
+    {
+      "id": "ashamed-ps-34-5",
+      "feeling_id": "ashamed",
+      "reflection": "The verse ties two things together tightly: looking to God and having a radiant, unashamed face -- one produces the other in the same breath. It doesn't describe shame being managed or hidden better; it describes faces that shall never be covered with shame at all, an entirely different outcome than coping. The looking comes first in the sentence, suggesting the radiance is a response, not something achieved by working on the shame directly.",
+      "prayer": "Lord, I want to look to you the way this verse describes, and let my face be radiant instead of covered in the shame I keep trying to manage on my own. I don't think I can fix this by staring at what shames me harder; let me look at you instead. Turn my face toward you until whatever covering this shame put over me lifts.",
+      "intensity": "steady",
+      "depth_order": 5
+    },
+    {
+      "id": "ashamed-ro-10-11",
+      "feeling_id": "ashamed",
+      "reflection": "Paul is quoting an older promise and applying it as a settled, present-tense truth: whoever believes will not be disappointed or put to shame -- no qualifier about how badly they've failed before believing. The word covers both the everyday sting of embarrassment and something deeper: the fear that trusting God will turn out to have been foolish. Paul stakes the whole verse on belief, not on the believer's track record.",
+      "prayer": "Lord, I believe in you, and this verse says that means I will not be put to shame -- not because of anything about me, but because of what you promised. Let that be true even for the parts of my story I'm most embarrassed by. I don't want my trust in you to depend on first proving I deserve not to be ashamed.",
+      "intensity": "steady",
+      "depth_order": 6
+    },
+    {
+      "id": "ashamed-2tim-1-12",
+      "feeling_id": "ashamed",
+      "reflection": "Paul writes this from prison, suffering for the gospel, and still says plainly \"I am not ashamed\" -- the shame he's refusing isn't imaginary, since imprisonment for one's faith carried real social disgrace in his world. His reason is specific: not that his circumstances are good, but that he knows whom he has believed and is persuaded God can guard what's been entrusted to him. The confidence rests entirely on God's ability to hold something safely, not on Paul's own record or present comfort.",
+      "prayer": "Lord, like Paul, I want to say I am not ashamed, even in circumstances that would give me every reason to be. Let my confidence rest on knowing you and trusting that you're able to guard what I've entrusted to you, not on anything about my own situation looking impressive. Persuade me the way Paul was persuaded, all the way down.",
+      "intensity": "steady",
+      "depth_order": 7
+    },
+    {
+      "id": "ashamed-isa-61-7",
+      "feeling_id": "ashamed",
+      "reflection": "The promise doesn't erase the shame's history; it answers it directly, with \"instead of\" language that names the exact thing being replaced. Double portion and everlasting joy are the specific reversal offered, not a vague general blessing -- this is aimed precisely at the shame and dishonor just named. The land and inheritance language makes this concrete and lasting, not a passing feeling of being better.",
+      "prayer": "Lord, you promise instead of shame, a double portion, and instead of dishonor, rejoicing -- let that exact exchange happen in whatever part of my life still carries old shame. I don't need the shame explained away; I need what you promise to actually replace it. Let this be everlasting joy, not just a temporary relief.",
+      "intensity": "settled",
+      "depth_order": 8
+    },
+    {
+      "id": "ashamed-joel-2-26-27",
+      "feeling_id": "ashamed",
+      "reflection": "The promise repeats itself almost word for word -- \"my people will never again be disappointed\" appears twice in two verses, as if the point needs saying more than once to be believed. It's tied to ordinary provision, plenty to eat and being satisfied, grounding the removal of shame in something as concrete as food rather than an abstract feeling. Knowing God is \"among\" his people is named as part of what ends the disappointment, presence itself doing some of the work.",
+      "prayer": "Lord, you promise that your people will never again be put to shame -- said twice, like you knew I'd need to hear it more than once. Let your presence among me be part of what actually ends this, not just circumstances changing. I want to know you are with me the way this promise describes, and let that be enough.",
+      "intensity": "settled",
+      "depth_order": 9
+    },
+    {
+      "id": "ashamed-zeph-3-19-20",
+      "feeling_id": "ashamed",
+      "reflection": "God names exactly what he'll do with shame that has spread across the whole earth: turn it into praise and honor among all the peoples who once saw it. This isn't a quiet, private undoing -- it happens \"before your eyes,\" witnessed, as public as the shame itself was. The passage ends with restored fortunes, meaning the reversal is total, not partial relief from part of what was lost.",
+      "prayer": "Lord, you say you will turn shame that has been known everywhere into praise and honor among the very people who saw it. Let me trust you with the parts of my shame that felt too public or too known to ever be reversed. Restore what this shame has cost me, right before my eyes, the way you promised.",
+      "intensity": "settled",
+      "depth_order": 10
+    },
+    {
+      "id": "sad-ps-13-1-2",
+      "feeling_id": "sad",
+      "reflection": "David's four \"how long\" questions pile up without a pause for an answer between them, sorrow that's specifically named as daily, not a single bad moment. He doesn't move past the questions quickly into resolution within these two verses; the sadness gets its full, repetitive say before anything else happens in the psalm. Naming sorrow as something carried \"in my heart every day\" treats ordinary, recurring sadness as worth bringing to God directly, not just crisis-level grief.",
+      "prayer": "Lord, how long -- I ask that with David, about this sorrow that comes back day after day and doesn't need a dramatic reason to be real. I'm not going to rush past naming it just to sound more resolved than I am. Meet me in these repeated questions, the same way you met David in his.",
+      "intensity": "acute",
+      "depth_order": 1
+    },
+    {
+      "id": "sad-jn-16-20-22",
+      "feeling_id": "sad",
+      "reflection": "Jesus doesn't promise his followers will avoid sorrow; he promises the specific sorrow they're about to feel will turn into joy, using a woman in labor as the picture -- real pain that has a real end. The comparison is careful: once the child is born, she doesn't forget the anguish happened, but she doesn't remain defined by it either. He ends by promising joy no one can take away, a permanence this sadness itself doesn't have.",
+      "prayer": "Lord, you told your followers plainly that they would be sorrowful, and I don't want to pretend my own sadness is somehow different or worse than what you already understood. Let this sadness be like the labor you described -- real, but not the end of the story. I'm holding onto that joy you promised no one can take away, even while this sorrow is still here.",
+      "intensity": "acute",
+      "depth_order": 2
+    },
+    {
+      "id": "sad-ps-137-1-2",
+      "feeling_id": "sad",
+      "reflection": "The image is stark and physical: sitting down by a river, weeping, and hanging up harps that would normally be played -- the instruments themselves silenced by the size of what's being remembered. This is homesickness and loss expressed through absence, songs that don't get sung rather than songs that name the grief directly. The psalm doesn't rush the sitting-and-weeping into a lesson; it just lets the picture stand.",
+      "prayer": "Lord, sometimes sadness looks like this -- just sitting down and weeping, with nothing in me wanting to sing right now. I'm not going to force a song I don't have; let me hang up my harp for now, the way this psalm does, without pretending. Meet me by this river, in the quiet, before I'm ready to play anything again.",
+      "intensity": "acute",
+      "depth_order": 3
+    },
+    {
+      "id": "sad-pr-15-13",
+      "feeling_id": "sad",
+      "reflection": "The proverb links the visible face to the invisible spirit, cheerfulness and brokenness both shown through the same feature, suggesting an aching heart isn't something that stays neatly hidden inside. It doesn't moralize about why the heart aches; it simply observes the connection as true, naming what a \"broken spirit\" does without prescribing a fix in this verse. The plainness of the observation is its own kind of permission to notice sadness without immediately needing to solve it.",
+      "prayer": "Lord, this proverb says an aching heart breaks the spirit, and I know mine has been aching in ways I haven't always let show on my face. I don't need to force cheerfulness I don't have right now. Just be near to my spirit while it's broken, before I have any answer for how to mend it.",
+      "intensity": "steady",
+      "depth_order": 4
+    },
+    {
+      "id": "sad-eccl-3-4",
+      "feeling_id": "sad",
+      "reflection": "The Preacher places weeping and mourning in the same structured list as laughing and dancing, each given \"a time\" with equal weight and no apology attached to either. This isn't sadness as a failure to be joyful; it's sadness named as one appointed season among several, as legitimate in its moment as its opposite. The list format itself argues against rushing from one season into the next before its time is done.",
+      "prayer": "Lord, you made room in this list for a time to weep and a time to mourn, right alongside a time to laugh and dance, and I don't want to treat my own weeping season as something to be embarrassed about. Let me trust that this time has its place too, without pretending it's already time to dance. When the season does turn, let me actually notice it turning.",
+      "intensity": "steady",
+      "depth_order": 5
+    },
+    {
+      "id": "sad-ps-71-20-21",
+      "feeling_id": "sad",
+      "reflection": "The psalmist doesn't deny the troubles were many and bitter, and doesn't pretend God spared him from them -- he says plainly \"you have shown us\" the troubles, crediting them to God's allowing hand. What he asks for next isn't the erasing of what happened but an increase of honor and comfort \"again,\" language that assumes he had it before and can have it restored. Being brought up \"from the depths\" acknowledges how low the sadness actually took him.",
+      "prayer": "Lord, you have shown me troubles that felt many and bitter, and I'm not going to pretend they weren't real just to sound more grateful. Bring me up again from wherever this sadness has taken me, the way this psalm asks. Increase my comfort again, since I know I've had it before and can trust you for it now.",
+      "intensity": "steady",
+      "depth_order": 6
+    },
+    {
+      "id": "sad-hab-3-17-18",
+      "feeling_id": "sad",
+      "reflection": "The prophet lists every single source of provision failing at once -- fig tree, vines, olive, fields, flocks, herds -- an exhaustive picture of loss with nothing held back from the list. The \"yet\" that follows doesn't erase any of it; the rejoicing he chooses happens in full view of every failed harvest and empty stall, not after they're resolved. This is joy positioned as a decision made inside the sadness, not a feeling that waits for the sadness to end first.",
+      "prayer": "Lord, like Habakkuk, I can list out everything that currently feels like it's failing, and none of it disappears just because I bring it to you. But let me still say \"yet I will rejoice,\" not because the sadness is gone, but because you are still the God of my salvation regardless. Be my joy in the middle of this, not just on the other side of it.",
+      "intensity": "steady",
+      "depth_order": 7
+    },
+    {
+      "id": "sad-ps-30-11-12",
+      "feeling_id": "sad",
+      "reflection": "The verbs are active and complete -- mourning turned into dancing, sackcloth removed, clothed with gladness -- described as things that have already happened to the psalmist, not a hope for later. The stated purpose is specific: so that his heart may sing and not be silent, tying the whole reversal to praise rather than just personal relief. Silence is named as the alternative being avoided, suggesting sadness left unaddressed tends toward a heart that stops singing altogether.",
+      "prayer": "Lord, turn my mourning into dancing the way you did for the psalmist, and remove whatever sackcloth this sadness has had me wearing. I don't want my heart to go silent under the weight of this. Clothe me with gladness so I can genuinely give thanks to you, not just quietly stop hurting.",
+      "intensity": "settled",
+      "depth_order": 8
+    },
+    {
+      "id": "sad-ps-126-5-6",
+      "feeling_id": "sad",
+      "reflection": "The image ties sowing and weeping into a single ongoing action -- going out weeping while still carrying seed to plant, not waiting for the sadness to pass before doing anything productive. The joy promised at the return doesn't erase the earlier weeping from the account; both are held in the same two verses as part of one whole picture. Carrying \"sheaves\" at the end shows the tears weren't wasted; something real grew out of exactly the season that felt most sorrowful.",
+      "prayer": "Lord, let me go out weeping if that's what today requires, still carrying what you've given me to plant even while I'm sad. I trust that this sowing in tears isn't wasted, and that joy is coming with it, the way this psalm promises. Let me come back one day carrying sheaves that grew out of exactly this hard season.",
+      "intensity": "settled",
+      "depth_order": 9
+    },
+    {
+      "id": "sad-isa-51-11",
+      "feeling_id": "sad",
+      "reflection": "The verse names both sorrow and sighing specifically, as if anticipating that sadness shows up in more than one form -- spoken grief and the quieter, wordless kind. \"Flee away\" is a strong image, sadness pictured as something that runs off entirely rather than fading slowly or being managed down to a tolerable level. The everlasting joy promised isn't described as arriving alongside lingering sorrow; the text pictures a genuine departure, not a permanent coexistence.",
+      "prayer": "Lord, you promise that sorrow and sighing will flee away, both the sadness I can name out loud and the kind that only shows up as a sigh I can't quite explain. I want to believe that's a real departure you're describing, not just sadness getting quieter. Let everlasting joy be what's actually left when this sorrow goes.",
+      "intensity": "settled",
+      "depth_order": 10
+    },
+    {
+      "id": "discouraged-num-21-4-5",
+      "feeling_id": "discouraged",
+      "reflection": "The text names the exact cause with unusual directness: the people's soul was \"very discouraged because of the journey\" -- not because of a single crisis but because the road itself had gone on too long. What follows is telling: their discouragement immediately turns into speaking against God and Moses, complaint becoming the outlet for exhaustion they didn't otherwise know what to do with. This is discouragement pictured honestly, complaints and all, not smoothed over into something more spiritual-sounding.",
+      "prayer": "Lord, like the people in the wilderness, I'm discouraged because of how long this journey has gone on, not because of any one specific disaster. I know my discouragement wants to turn into complaint the way theirs did, and I don't want to pretend that impulse isn't there. Meet me honestly in this long road, before my discouragement turns into something I'll regret saying.",
+      "intensity": "acute",
+      "depth_order": 1
+    },
+    {
+      "id": "discouraged-neh-4-14",
+      "feeling_id": "discouraged",
+      "reflection": "Nehemiah doesn't respond to the people's fear with denial that the threat is real; he looks at the actual danger, then tells them specifically to remember the Lord instead of the size of what's against them. The instruction to \"fight\" comes only after remembering, not before -- courage here is pictured as something that follows from where attention is placed first. He names exactly who they're protecting -- brothers, sons, daughters, wives, houses -- making the discouraging work concrete and personal, not abstract.",
+      "prayer": "Lord, like the builders facing real threats while trying to do your work, I need to remember you before I can find any courage to keep going. Help me look at what's actually discouraging me honestly, the way Nehemiah looked at the real threat, without pretending it away. Then let me remember you're great and awesome, and let that be what moves me back into the work.",
+      "intensity": "acute",
+      "depth_order": 2
+    },
+    {
+      "id": "discouraged-josh-1-9",
+      "feeling_id": "discouraged",
+      "reflection": "The command opens with a question that assumes Joshua already knows the answer -- \"haven't I commanded you?\" -- treating courage as something already given, not something Joshua has to generate from nothing. Strength and courage are commanded, not just wished for, alongside a direct instruction not to be afraid or dismayed, naming the exact feelings discouragement produces. The reason given is presence, not circumstances: God is with him wherever he goes, not only where things are already going well.",
+      "prayer": "Lord, you commanded Joshua to be strong and courageous, not to feel like it first -- let that command be for me too right where I am discouraged. Don't let me be afraid or dismayed, even though both of those feel close right now. I'm holding onto the reason you gave him: that you are with me wherever I go, not just wherever it's easy.",
+      "intensity": "acute",
+      "depth_order": 3
+    },
+    {
+      "id": "discouraged-2cor-4-1",
+      "feeling_id": "discouraged",
+      "reflection": "Paul ties not fainting directly to mercy already received -- \"even as we obtained mercy\" -- as if the discouragement-resistance comes from remembering what he's already been given, not from generating fresh willpower. The ministry itself is named as the reason he could faint in the first place; hard, ongoing work is exactly what wears a person down over time. His conclusion is short and confident: \"we don't faint,\" stated as settled fact rather than hopeful aspiration.",
+      "prayer": "Lord, like Paul, let me not faint in whatever ministry or work you've given me, remembering the mercy I've already obtained from you as the reason I can keep going. This work is genuinely hard, and I'm not going to pretend it isn't wearing on me. But let your mercy be enough to keep me from giving up on it.",
+      "intensity": "steady",
+      "depth_order": 4
+    },
+    {
+      "id": "discouraged-heb-12-3",
+      "feeling_id": "discouraged",
+      "reflection": "The writer points specifically to Jesus enduring hostility from sinners as the model for not growing weary or fainting in soul -- the remedy for discouragement is considering someone else's endurance, not just gritting through alone. \"Fainting in your souls\" names discouragement as something deeper than physical tiredness, an inner giving-up the writer takes seriously enough to warn against directly. Considering him is presented as active resistance to that inner fainting, not passive comfort.",
+      "prayer": "Lord Jesus, let me consider how you endured such hostility against yourself, so that I don't grow weary or faint in my own soul the way this verse warns against. My discouragement is more than just physical tiredness, and I need more than rest to answer it. Give me the kind of endurance that comes from actually looking at you, not just trying harder on my own.",
+      "intensity": "steady",
+      "depth_order": 5
+    },
+    {
+      "id": "discouraged-heb-12-12-13",
+      "feeling_id": "discouraged",
+      "reflection": "The images are physical and specific -- hands that hang down, feeble knees -- the body itself pictured as showing discouragement before words do. The instruction to lift the hands and strengthen the knees is active, not just a wish that discouragement would pass on its own. \"Make straight paths for your feet\" extends the care beyond the discouraged person alone, to how their path might affect what is lame nearby, discouragement's remedy tied to the wider community around it.",
+      "prayer": "Lord, my hands feel like they're hanging down and my knees feel weak, exactly the way this verse describes discouragement showing up in the body. Lift up what's hanging down in me and strengthen what's feeble, not just my feelings but my actual capacity to keep moving. Make my path straight enough that my own discouragement doesn't end up wounding anyone walking near me.",
+      "intensity": "steady",
+      "depth_order": 6
+    },
+    {
+      "id": "discouraged-ps-31-24",
+      "feeling_id": "discouraged",
+      "reflection": "The command to be strong and take courage is addressed specifically to \"all who hope in the Lord,\" tying the courage directly to where hope is placed rather than offering it as a general encouragement available to anyone. The heart is what's told to take courage, not just the outward behavior -- an inner strengthening, not merely a performance of confidence. This comes at the very end of a psalm that has moved through real trouble earlier, courage arriving as the last word rather than the first.",
+      "prayer": "Lord, I want to be strong and let my heart take courage, the way this verse describes for everyone who hopes in you. Let my hope in you be specifically what strengthens my heart, not just a determination to feel braver. This has been a hard psalm to pray through today, but let courage genuinely be the last word, the way it was for the psalmist.",
+      "intensity": "steady",
+      "depth_order": 7
+    },
+    {
+      "id": "discouraged-2chr-15-7",
+      "feeling_id": "discouraged",
+      "reflection": "The instruction pairs being strong with a specific practical warning -- don't let your hands be slack -- naming exactly the physical posture discouragement produces, hands that stop working. The promise attached is direct: the work itself will be rewarded, tying continued effort to an outcome rather than leaving it as encouragement with no stated reason. This is addressed to people already in the middle of a long reform effort, not people just starting out fresh.",
+      "prayer": "Lord, don't let my hands be slack in the work you've given me, even though discouragement makes me want to just stop working. I'm trusting that this work will be rewarded, the way this verse promises, even when I can't see how yet. Keep me strong specifically in the middle of this, not just at the beginning when it was easier.",
+      "intensity": "settled",
+      "depth_order": 8
+    },
+    {
+      "id": "discouraged-1cor-15-58",
+      "feeling_id": "discouraged",
+      "reflection": "Paul's instruction comes with a reason attached directly in the same sentence: labor in the Lord is \"not in vain,\" meaning the discouragement of wondering whether effort is pointless is answered specifically, not just told to go away. \"Steadfast\" and \"immovable\" are strong, deliberate words, describing a stance chosen and held rather than a feeling that shows up automatically. He calls his readers \"beloved brothers\" right before this instruction, framing the whole command inside relationship rather than pure obligation.",
+      "prayer": "Lord, I want to be steadfast and immovable in the work you've given me, trusting that my labor in you is not in vain, even on days it feels pointless. Let this instruction land on me the way Paul meant it -- not as pressure, but as something spoken to someone you love. Keep me abounding in this work instead of quietly stepping back from it.",
+      "intensity": "settled",
+      "depth_order": 9
+    },
+    {
+      "id": "discouraged-phil-1-6",
+      "feeling_id": "discouraged",
+      "reflection": "Paul states his confidence about a specific thing -- that the one who began the work will complete it -- locating the guarantee in God's follow-through, not in how the work currently looks or feels. \"Being confident of this very thing\" suggests he's picked this one assurance out deliberately, not offering vague general optimism. The timeline given, \"until the day of Jesus Christ,\" stretches the promise far beyond whatever discouraging stage the work is in right now.",
+      "prayer": "Lord, I'm holding onto this one thing Paul was confident about: that you who began a good work in me will complete it, even though right now it doesn't feel close to finished. Let my discouragement about how unfinished this all looks not be evidence against your promise. Keep working what you started, all the way to completion, however far off that day still is.",
+      "intensity": "settled",
+      "depth_order": 10
     }
   ],
   "entry_passages": [
@@ -12059,6 +12795,186 @@
     {
       "entry_id": "suffering-ro-8-18",
       "passage_id": "web-c:ro:8:18",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "ashamed-gen-3-8-10",
+      "passage_id": "web-c:gen:3:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "ashamed-heb-12-2",
+      "passage_id": "web-c:heb:12:2",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "ashamed-lk-15-20",
+      "passage_id": "web-c:lk:15:20",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "ashamed-ps-25-2-3",
+      "passage_id": "web-c:ps:25:2",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "ashamed-ps-34-5",
+      "passage_id": "web-c:ps:34:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "ashamed-ro-10-11",
+      "passage_id": "web-c:ro:10:11",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "ashamed-2tim-1-12",
+      "passage_id": "web-c:2tim:1:12",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "ashamed-isa-61-7",
+      "passage_id": "web-c:isa:61:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "ashamed-joel-2-26-27",
+      "passage_id": "web-c:joel:2:26",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "ashamed-zeph-3-19-20",
+      "passage_id": "web-c:zeph:3:19",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "sad-ps-13-1-2",
+      "passage_id": "web-c:ps:13:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "sad-jn-16-20-22",
+      "passage_id": "web-c:jn:16:20",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "sad-ps-137-1-2",
+      "passage_id": "web-c:ps:137:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "sad-pr-15-13",
+      "passage_id": "web-c:pr:15:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "sad-eccl-3-4",
+      "passage_id": "web-c:eccl:3:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "sad-ps-71-20-21",
+      "passage_id": "web-c:ps:71:20",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "sad-hab-3-17-18",
+      "passage_id": "web-c:hab:3:17",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "sad-ps-30-11-12",
+      "passage_id": "web-c:ps:30:11",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "sad-ps-126-5-6",
+      "passage_id": "web-c:ps:126:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "sad-isa-51-11",
+      "passage_id": "web-c:isa:51:11",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discouraged-num-21-4-5",
+      "passage_id": "web-c:num:21:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discouraged-neh-4-14",
+      "passage_id": "web-c:neh:4:14",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discouraged-josh-1-9",
+      "passage_id": "web-c:josh:1:9",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discouraged-2cor-4-1",
+      "passage_id": "web-c:2cor:4:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discouraged-heb-12-3",
+      "passage_id": "web-c:heb:12:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discouraged-heb-12-12-13",
+      "passage_id": "web-c:heb:12:12",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discouraged-ps-31-24",
+      "passage_id": "web-c:ps:31:24",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discouraged-2chr-15-7",
+      "passage_id": "web-c:2chr:15:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discouraged-1cor-15-58",
+      "passage_id": "web-c:1cor:15:58",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "discouraged-phil-1-6",
+      "passage_id": "web-c:phil:1:6",
       "position": 0,
       "role": "primary"
     }

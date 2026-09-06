@@ -140,6 +140,41 @@
       "feeling_id": "suffering",
       "label": "Sofferente",
       "description": "Per la difficoltà che non ha ancora assunto un senso visibile."
+    },
+    {
+      "feeling_id": "ashamed",
+      "label": "Vergognoso/a",
+      "description": "Per quando non è ciò che hai fatto ma chi pensi di essere a non lasciarti alzare lo sguardo."
+    },
+    {
+      "feeling_id": "sad",
+      "label": "Triste",
+      "description": "Per la pesantezza ordinaria che non ha un nome grande quanto il lutto."
+    },
+    {
+      "feeling_id": "discouraged",
+      "label": "Scoraggiato/a",
+      "description": "Per quando lo sforzo continua a costare più di quanto sembri valere."
+    },
+    {
+      "feeling_id": "hopeless",
+      "label": "Disperato/a",
+      "description": "Per quando hai smesso di aspettarti che qualcosa cambi davvero."
+    },
+    {
+      "feeling_id": "rejected",
+      "label": "Rifiutato/a",
+      "description": "Per essere quello lasciato fuori da una porta che qualcun altro ha chiuso."
+    },
+    {
+      "feeling_id": "confused",
+      "label": "Confuso/a",
+      "description": "Per quando non riesci più a capire quale direzione sia davvero avanti."
+    },
+    {
+      "feeling_id": "forgiveness",
+      "label": "In cerca di perdono",
+      "description": "Per portare qualcosa che hai fatto senza sapere come posarlo."
     }
   ],
   "entry_translations": [
@@ -1542,6 +1577,156 @@
       "entry_id": "suffering-ro-8-18",
       "reflection": "Paolo fa un confronto esplicito, pesando le sofferenze presenti contro la gloria futura e trovandole, secondo la sua stessa attenta considerazione, non degne di essere paragonate. Questo non è una negazione che le sofferenze siano reali o pesanti; è un'affermazione sul peso relativo fatta da qualcuno che altrove descrive le proprie sofferenze in termini vividi e concreti. Terminare l'insieme di versetti ampliato del tema su questa nota colloca l'intera categoria della sofferenza in una cornice più grande senza cancellare ciò che costa nel presente.",
       "prayer": "Signore, ritengo, con Paolo, che le sofferenze del tempo presente non siano degne di essere paragonate alla gloria che sarà rivelata in me -- anche se proprio ora la sofferenza sembra l'unica cosa che riesco a vedere chiaramente. Non fingo che sia leggera; confido che ciò che viene la superi di più di quanto riesca ora a immaginare. Tienimi in questa fiducia finché la gloria stessa non sarà ciò che vedo al suo posto."
+    },
+    {
+      "entry_id": "ashamed-gen-3-8-10",
+      "reflection": "Questo è il primissimo caso di vergogna nella Scrittura -- immediatamente dopo il primo peccato, l'istinto non è esprimere rimorso a Dio ma nascondersi da lui. La spiegazione stessa di Adamo è rivelatrice: nomina l'essere nudo e l'avere paura come motivo, la vergogna che produce paura e la paura che produce occultamento in un solo respiro. La domanda di Dio \"Dove sei?\" non è un'informazione di cui ha bisogno; è un invito ad uscire allo scoperto, rivolto a qualcuno già nascosto. Questa scena fondativa nomina qualcosa che la vergogna fa a tutti da allora: allontana le persone proprio dalla presenza che potrebbe realmente aiutare.",
+      "prayer": "Signore, come Adamo conosco l'istinto di nascondermi da te nel momento in cui mi sento esposto, anche se nascondermi da te non mi ha mai reso più sicuro. Tu chiedi \"dove sei\" non perché non lo sai, ma per chiamarmi fuori da un nascondiglio che ho scelto io stesso. Dammi il coraggio di uscire allo scoperto con te, anche se tutto in me vuole ancora restare nascosto tra gli alberi."
+    },
+    {
+      "entry_id": "ashamed-heb-12-2",
+      "reflection": "Il versetto non dice che Gesù fu risparmiato dalla vergogna; dice che sopportò la croce proprio disprezzandone la vergogna, trattandola come qualcosa da attraversare con lo sguardo piuttosto che qualcosa che potesse trattenerlo. La gioia posta davanti a lui è nominata come il suo motivo, non l'assenza della vergogna stessa -- vi passò attraverso, non intorno. Questo lo rende qualcuno che la vergogna ha davvero toccato, non un esempio lontano di chi non ha mai dovuto sentirla.",
+      "prayer": "Signore Gesù, non hai saltato la vergogna della croce; l'hai sopportata e disprezzata, rifiutandoti di lasciarle avere l'ultima parola su di te. Fammi guardare a te come descrive questo versetto, fissando i miei occhi su di te invece di restare fissato su ciò di cui mi vergogno. Dammi un po' di quella stessa capacità di vedere oltre questa vergogna verso qualunque gioia tu abbia posto davanti anche a me."
+    },
+    {
+      "entry_id": "ashamed-lk-15-20",
+      "reflection": "Il padre vede il figlio \"mentre era ancora lontano\", il che significa che stava aspettando, e corre prima che il figlio finisca di percorrere la distanza che la vergogna lo avrebbe fatto strisciare. Nulla nel testo suggerisce che il padre avesse bisogno prima della confessione preparata del figlio; la compassione e l'abbraccio arrivano prima che sia scambiata una sola parola. Il bacio atterra su qualcuno ancora coperto di qualunque vergogna il paese lontano gli avesse lasciato addosso -- la restaurazione non aspetta che lui si ripulisca prima.",
+      "prayer": "Padre, non devo percorrere tutta la distanza che la vergogna mi dice di dover fare prima che tu corra verso di me -- questo versetto dice che mi stavi già aspettando prima ancora che finissi di girarmi. Fammi credere che la tua compassione viene prima della mia spiegazione, non dopo. Incontrami mentre sono ancora lontano, esattamente come sono, come hai incontrato lui."
+    },
+    {
+      "entry_id": "ashamed-ps-25-2-3",
+      "reflection": "La richiesta di Davide è specifica -- non solo aiuto, ma specificamente non essere svergognato, e specificamente non lasciare che i suoi nemici trionfino su di lui. Allarga la promessa oltre se stesso nella riga successiva: nessuno che aspetta Dio sarà svergognato, una regola generale che applica personalmente alla sua paura particolare. La vergogna che nomina è pubblica e relazionale, legata a come i nemici lo avrebbero visto, non solo un sentimento interiore privato.",
+      "prayer": "Signore, ho confidato in te, quindi non lasciare che io sia svergognato come Davide chiese di non esserlo. So che questo non riguarda solo come mi sento dentro -- riguarda cosa succede quando aspetto te invece di cercare di difendermi da solo. Che sia vero per me come Davide dice che lo è per chiunque ti aspetta."
+    },
+    {
+      "entry_id": "ashamed-ps-34-5",
+      "reflection": "Il versetto lega strettamente due cose: guardare verso Dio e avere un volto radioso e senza vergogna -- una produce l'altra nello stesso respiro. Non descrive la vergogna gestita o nascosta meglio; descrive volti che non saranno mai coperti di vergogna del tutto, un esito completamente diverso dal far fronte. Il guardare viene prima nella frase, suggerendo che la radiosità sia una risposta, non qualcosa ottenuto lavorando direttamente sulla vergogna.",
+      "prayer": "Signore, voglio guardare a te come descrive questo versetto, e che il mio volto sia radioso invece di coperto dalla vergogna che continuo a cercare di gestire da solo. Non credo di poter risolvere questo fissando più intensamente ciò di cui mi vergogno; fammi guardare te invece. Volgi il mio volto verso di te finché qualunque velo questa vergogna abbia posto su di me si sollevi."
+    },
+    {
+      "entry_id": "ashamed-ro-10-11",
+      "reflection": "Paolo cita una promessa più antica e la applica come verità stabilita, al presente: chiunque crede non sarà deluso o svergognato -- nessuna condizione su quanto abbia fallito prima di credere. La parola copre sia la puntura quotidiana dell'imbarazzo sia qualcosa di più profondo: la paura che fidarsi di Dio si riveli essere stato sciocco. Paolo scommette l'intero versetto sulla fede, non sul curriculum del credente.",
+      "prayer": "Signore, credo in te, e questo versetto dice che significa che non sarò svergognato -- non per qualcosa che riguarda me, ma per quello che hai promesso. Che sia vero anche per le parti della mia storia di cui mi vergogno di più. Non voglio che la mia fiducia in te dipenda dal dover prima dimostrare di meritare di non essere svergognato."
+    },
+    {
+      "entry_id": "ashamed-2tim-1-12",
+      "reflection": "Paolo scrive questo dal carcere, soffrendo per il vangelo, e dice comunque chiaramente \"non mi vergogno\" -- la vergogna che rifiuta non è immaginaria, poiché la prigionia per la propria fede portava vera disgrazia sociale nel suo mondo. Il suo motivo è specifico: non che le sue circostanze siano buone, ma che sa in chi ha creduto ed è persuaso che Dio possa custodire ciò che gli è stato affidato. La fiducia riposa interamente sulla capacità di Dio di custodire qualcosa in sicurezza, non sul curriculum di Paolo o sul suo conforto presente.",
+      "prayer": "Signore, come Paolo voglio dire che non mi vergogno, anche in circostanze che mi darebbero ogni ragione per farlo. Che la mia fiducia riposi sul conoscerti e sul credere che tu sia capace di custodire ciò che ti ho affidato, non su nulla della mia situazione che sembri impressionante. Persuadimi come Paolo fu persuaso, fino in fondo."
+    },
+    {
+      "entry_id": "ashamed-isa-61-7",
+      "reflection": "La promessa non cancella la storia della vergogna; le risponde direttamente, con un linguaggio \"invece di\" che nomina esattamente ciò che viene sostituito. Doppia porzione e gioia eterna sono il rovesciamento specifico offerto, non una benedizione generale vaga -- questo mira precisamente alla vergogna e al disonore appena nominati. Il linguaggio di terra ed eredità rende questo concreto e duraturo, non un semplice sentimento passeggero di sentirsi meglio.",
+      "prayer": "Signore, tu prometti che invece della vergogna avrò una doppia porzione, e invece del disonore, gioia -- che avvenga esattamente questo scambio in qualunque parte della mia vita porti ancora vecchia vergogna. Non ho bisogno che la vergogna sia spiegata via; ho bisogno che ciò che prometti la sostituisca davvero. Che questa sia gioia eterna, non solo sollievo temporaneo."
+    },
+    {
+      "entry_id": "ashamed-joel-2-26-27",
+      "reflection": "La promessa si ripete quasi parola per parola -- \"il mio popolo non sarà mai più deluso\" appare due volte in due versetti, come se il punto avesse bisogno di essere detto più di una volta per essere creduto. È legata alla provvidenza ordinaria, avere cibo in abbondanza ed essere saziati, radicando l'eliminazione della vergogna in qualcosa di concreto come il cibo piuttosto che in un sentimento astratto. Sapere che Dio è \"in mezzo\" al suo popolo è nominato come parte di ciò che pone fine alla delusione, la presenza stessa che fa parte del lavoro.",
+      "prayer": "Signore, prometti che il tuo popolo non sarà mai più svergognato -- detto due volte, come se sapessi che avrei avuto bisogno di sentirlo più di una volta. Che la tua presenza in mezzo a me sia parte di ciò che pone fine davvero a questo, non solo il cambiamento delle circostanze. Voglio sapere che sei con me come descrive questa promessa, e che questo basti."
+    },
+    {
+      "entry_id": "ashamed-zeph-3-19-20",
+      "reflection": "Dio nomina esattamente cosa farà della vergogna che si è diffusa su tutta la terra: trasformarla in lode e onore tra tutti i popoli che una volta l'hanno vista. Questo non è un rovesciamento silenzioso e privato -- accade \"davanti ai vostri occhi\", testimoniato, pubblico quanto lo era la vergogna stessa. Il passo termina con le sorti restaurate, il che significa che il rovesciamento è totale, non un sollievo parziale di una parte di ciò che è stato perso.",
+      "prayer": "Signore, tu dici che trasformerai la vergogna conosciuta ovunque in lode e onore tra proprio i popoli che l'hanno vista. Fammi affidarti le parti della mia vergogna che sembravano troppo pubbliche o troppo conosciute per essere mai rovesciate. Restaura ciò che questa vergogna mi è costata, proprio davanti ai miei occhi, come hai promesso."
+    },
+    {
+      "entry_id": "sad-ps-13-1-2",
+      "reflection": "Le quattro domande \"fino a quando\" di Davide si accumulano senza una pausa per una risposta tra loro, un dolore specificamente nominato come quotidiano, non un singolo momento negativo. Non passa rapidamente dalle domande a una risoluzione in questi due versetti; il dolore ottiene la sua piena parola ripetitiva prima che accada qualsiasi altra cosa nel salmo. Nominare il dolore come qualcosa portato \"nel cuore ogni giorno\" tratta la tristezza ordinaria e ricorrente come degna di essere portata direttamente a Dio, non solo il lutto di livello crisi.",
+      "prayer": "Signore, fino a quando -- lo chiedo con Davide, riguardo a questo dolore che ritorna giorno dopo giorno e non ha bisogno di una ragione drammatica per essere reale. Non correrò oltre nominandolo solo per sembrare più risolto di quanto sia. Incontrami in queste domande ripetute, allo stesso modo in cui hai incontrato Davide nelle sue."
+    },
+    {
+      "entry_id": "sad-jn-16-20-22",
+      "reflection": "Gesù non promette ai suoi discepoli che eviteranno il dolore; promette che il dolore specifico che stanno per provare si trasformerà in gioia, usando una donna nel travaglio come immagine -- vero dolore che ha una vera fine. Il paragone è attento: una volta nato il bambino, lei non dimentica che l'angoscia sia avvenuta, ma non ne resta nemmeno definita. Conclude promettendo una gioia che nessuno può togliere, una permanenza che questa tristezza stessa non ha.",
+      "prayer": "Signore, hai detto chiaramente ai tuoi discepoli che sarebbero stati addolorati, e non voglio fingere che la mia stessa tristezza sia in qualche modo diversa o peggiore di quanto tu già comprendessi. Che questa tristezza sia come il travaglio che hai descritto -- reale, ma non la fine della storia. Mi aggrappo a quella gioia che hai promesso che nessuno può togliermi, anche mentre questo dolore è ancora qui."
+    },
+    {
+      "entry_id": "sad-ps-137-1-2",
+      "reflection": "L'immagine è cruda e fisica: sedersi vicino a un fiume, piangere, e appendere arpe che normalmente sarebbero suonate -- gli strumenti stessi messi a tacere dalla grandezza di ciò che viene ricordato. Questa è nostalgia e perdita espresse attraverso l'assenza, canzoni che non vengono cantate piuttosto che canzoni che nominano il dolore direttamente. Il salmo non affretta il sedersi-e-piangere verso una lezione; lascia semplicemente che l'immagine resti.",
+      "prayer": "Signore, a volte la tristezza è così -- solo sedersi e piangere, senza nulla in me che voglia cantare in questo momento. Non forzerò una canzone che non ho; lascia che appenda la mia arpa per ora, come fa questo salmo, senza fingere. Incontrami vicino a questo fiume, nel silenzio, prima che sia pronto a suonare di nuovo qualcosa."
+    },
+    {
+      "entry_id": "sad-pr-15-13",
+      "reflection": "Il proverbio collega il volto visibile allo spirito invisibile, allegria e rottura entrambe mostrate attraverso lo stesso tratto, suggerendo che un cuore dolente non rimane ordinatamente nascosto dentro. Non moraleggia sul perché il cuore duole; osserva semplicemente il legame come vero, nominando cosa fa uno \"spirito abbattuto\" senza prescrivere una soluzione in questo versetto. La semplicità dell'osservazione è essa stessa una sorta di permesso di notare la tristezza senza dover immediatamente risolverla.",
+      "prayer": "Signore, questo proverbio dice che un cuore dolente abbatte lo spirito, e so che il mio ha sofferto in modi che non ho sempre lasciato trasparire sul volto. Non ho bisogno di forzare un'allegria che non ho in questo momento. Sii semplicemente vicino al mio spirito mentre è abbattuto, prima ancora che io abbia una risposta su come guarirlo."
+    },
+    {
+      "entry_id": "sad-eccl-3-4",
+      "reflection": "Il Predicatore colloca il pianto e il lutto nella stessa lista strutturata di ridere e danzare, ognuno con \"un tempo\" di uguale peso e nessuna scusa allegata all'uno o all'altro. Questa non è tristezza come fallimento nell'essere gioiosi; è tristezza nominata come una stagione designata tra diverse, legittima nel suo momento quanto il suo opposto. Il formato della lista stesso argomenta contro l'affrettarsi da una stagione all'altra prima che il suo tempo sia finito.",
+      "prayer": "Signore, hai fatto spazio in questa lista per un tempo di piangere e un tempo di fare lutto, proprio accanto a un tempo di ridere e danzare, e non voglio trattare la mia stessa stagione di pianto come qualcosa di cui vergognarmi. Fammi credere che anche questo tempo ha il suo posto, senza fingere che sia già tempo di danzare. Quando la stagione davvero cambierà, fammelo notare veramente."
+    },
+    {
+      "entry_id": "sad-ps-71-20-21",
+      "reflection": "Il salmista non nega che le difficoltà siano state molte e amare, e non finge che Dio lo abbia risparmiato da esse -- dice chiaramente \"ci hai mostrato\" le difficoltà, attribuendole alla mano permissiva di Dio. Ciò che chiede dopo non è la cancellazione di ciò che è accaduto ma un aumento di onore e conforto \"di nuovo\", un linguaggio che presuppone che li avesse prima e possa averli restaurati. Essere fatto risalire \"dagli abissi della terra\" riconosce quanto in basso la tristezza lo abbia davvero portato.",
+      "prayer": "Signore, mi hai mostrato difficoltà che sono sembrate molte e amare, e non fingerò che non fossero reali solo per sembrare più grato. Fammi risalire di nuovo da qualunque luogo mi abbia portato questa tristezza, come chiede questo salmo. Aumenta di nuovo il mio conforto, poiché so di averlo già avuto e posso fidarmi di te per questo ora."
+    },
+    {
+      "entry_id": "sad-hab-3-17-18",
+      "reflection": "Il profeta elenca ogni singola fonte di provvidenza che fallisce contemporaneamente -- fico, viti, olivo, campi, greggi, mandrie -- un quadro esaustivo di perdita senza trattenere nulla dalla lista. Il \"tuttavia\" che segue non cancella nulla di tutto ciò; la gioia che sceglie avviene alla piena vista di ogni raccolto fallito e ogni stalla vuota, non dopo che sono risolti. Questa è gioia posizionata come una decisione presa dentro la tristezza, non un sentimento che aspetta prima che la tristezza finisca.",
+      "prayer": "Signore, come Abacuc, posso elencare tutto ciò che al momento sembra fallire, e nulla di ciò scompare solo perché te lo porto. Ma lasciami dire comunque \"tuttavia gioirò\", non perché la tristezza sia sparita, ma perché tu sei comunque il Dio della mia salvezza indipendentemente. Sii la mia gioia in mezzo a questo, non solo dall'altra parte."
+    },
+    {
+      "entry_id": "sad-ps-30-11-12",
+      "reflection": "I verbi sono attivi e completi -- il lutto trasformato in danza, il sacco rimosso, vestito di letizia -- descritti come cose già accadute al salmista, non una speranza per dopo. Lo scopo dichiarato è specifico: affinché il suo cuore canti e non taccia, legando l'intero rovesciamento alla lode piuttosto che al semplice sollievo personale. Il silenzio è nominato come l'alternativa da evitare, suggerendo che la tristezza lasciata irrisolta tende verso un cuore che smette del tutto di cantare.",
+      "prayer": "Signore, trasforma il mio lutto in danza come hai fatto per il salmista, e rimuovi qualunque sacco questa tristezza mi abbia fatto indossare. Non voglio che il mio cuore taccia sotto il peso di questo. Vestimi di letizia così da poterti davvero rendere grazie, non solo smettere silenziosamente di soffrire."
+    },
+    {
+      "entry_id": "sad-ps-126-5-6",
+      "reflection": "L'immagine lega semina e pianto in un'unica azione continua -- uscire piangendo mentre si porta ancora il seme da piantare, senza aspettare che la tristezza passi prima di fare qualcosa di produttivo. La gioia promessa al ritorno non cancella il pianto precedente dal racconto; entrambi sono tenuti negli stessi due versetti come parte di un'unica immagine intera. Portare \"covoni\" alla fine mostra che le lacrime non sono state sprecate; qualcosa di reale è cresciuto esattamente dalla stagione che sembrava più dolorosa.",
+      "prayer": "Signore, fammi uscire piangendo se è ciò che oggi richiede, portando ancora ciò che mi hai dato da piantare anche mentre sono triste. Confido che questo seminare tra le lacrime non sia sprecato, e che la gioia arrivi con esso, come promette questo salmo. Fammi tornare un giorno portando covoni cresciuti esattamente da questa stagione difficile."
+    },
+    {
+      "entry_id": "sad-isa-51-11",
+      "reflection": "Il versetto nomina sia il dolore che il sospiro specificamente, come se anticipasse che la tristezza si manifesti in più di una forma -- dolore espresso e il tipo più silenzioso, senza parole. \"Fuggiranno\" è un'immagine forte, la tristezza raffigurata come qualcosa che scappa via del tutto piuttosto che svanire lentamente o essere gestita fino a un livello tollerabile. La gioia eterna promessa non è descritta come arrivante accanto a un dolore persistente; il testo raffigura una vera partenza, non una coesistenza permanente.",
+      "prayer": "Signore, prometti che il dolore e il sospiro fuggiranno, sia la tristezza che posso nominare ad alta voce sia quella che si manifesta solo come un sospiro che non riesco a spiegare del tutto. Voglio credere che sia una vera partenza quella che descrivi, non solo tristezza che diventa più silenziosa. Che la gioia eterna sia ciò che realmente resta quando questo dolore se ne va."
+    },
+    {
+      "entry_id": "discouraged-num-21-4-5",
+      "reflection": "Il testo nomina la causa esatta con insolita franchezza: l'anima del popolo era \"molto scoraggiata a causa del viaggio\" -- non a causa di una singola crisi ma perché la strada stessa si era protratta troppo. Ciò che segue è rivelatore: il loro scoraggiamento si trasforma immediatamente in parole contro Dio e Mosè, la lamentela che diventa lo sfogo di un esaurimento che altrimenti non sapevano come gestire. Questo è lo scoraggiamento raffigurato onestamente, lamentele comprese, non addolcito in qualcosa di più spirituale.",
+      "prayer": "Signore, come il popolo nel deserto, sono scoraggiato a causa di quanto sia durato questo viaggio, non a causa di un disastro specifico. So che il mio scoraggiamento vuole trasformarsi in lamentela come il loro, e non voglio fingere che quell'impulso non ci sia. Incontrami onestamente in questa lunga strada, prima che il mio scoraggiamento si trasformi in qualcosa di cui mi pentirò di aver detto."
+    },
+    {
+      "entry_id": "discouraged-neh-4-14",
+      "reflection": "Neemia non risponde alla paura del popolo negando che la minaccia sia reale; guarda il pericolo effettivo, poi dice loro specificamente di ricordare il Signore invece della grandezza di ciò che è contro di loro. L'istruzione di \"combattere\" arriva solo dopo il ricordare, non prima -- il coraggio qui è raffigurato come qualcosa che segue da dove viene posta prima l'attenzione. Nomina esattamente chi stanno proteggendo -- fratelli, figli, figlie, mogli, case -- rendendo il lavoro scoraggiante concreto e personale, non astratto.",
+      "prayer": "Signore, come i costruttori che affrontavano minacce reali mentre cercavano di fare il tuo lavoro, ho bisogno di ricordarmi di te prima di poter trovare qualsiasi coraggio per continuare. Aiutami a guardare onestamente ciò che mi scoraggia davvero, come Neemia guardò la minaccia reale, senza fingere che non esista. Poi fammi ricordare che sei grande e terribile, e che questo sia ciò che mi riporta al lavoro."
+    },
+    {
+      "entry_id": "discouraged-josh-1-9",
+      "reflection": "Il comando si apre con una domanda che presuppone che Giosuè conosca già la risposta -- \"non te l'ho comandato?\" -- trattando il coraggio come qualcosa già dato, non qualcosa che Giosuè deve generare dal nulla. Forza e coraggio sono comandati, non solo augurati, insieme a un'istruzione diretta di non avere paura né essere scoraggiato, nominando esattamente i sentimenti che lo scoraggiamento produce. La ragione data è la presenza, non le circostanze: Dio è con lui ovunque vada, non solo dove le cose vanno già bene.",
+      "prayer": "Signore, hai comandato a Giosuè di essere forte e coraggioso, non di sentirsi tale prima -- che questo comando sia anche per me proprio dove sono scoraggiato. Non lasciare che io abbia paura o sia scoraggiato, anche se entrambi sembrano vicini in questo momento. Mi aggrappo alla ragione che gli hai dato: che sei con me ovunque vada, non solo dove è facile."
+    },
+    {
+      "entry_id": "discouraged-2cor-4-1",
+      "reflection": "Paolo lega il non venire meno direttamente alla misericordia già ricevuta -- \"come abbiamo ricevuto misericordia\" -- come se la resistenza allo scoraggiamento venisse dal ricordare ciò che è già stato dato, non dal generare nuova forza di volontà. Il ministero stesso è nominato come la ragione per cui potrebbe venire meno in primo luogo; il lavoro difficile e continuo è esattamente ciò che logora una persona nel tempo. La sua conclusione è breve e sicura: \"non ci scoraggiamo\", dichiarata come fatto stabilito piuttosto che aspirazione speranzosa.",
+      "prayer": "Signore, come Paolo, fammi non venire meno in qualunque ministero o lavoro tu mi abbia dato, ricordando la misericordia che ho già ricevuto da te come ragione per cui posso continuare. Questo lavoro è davvero difficile, e non fingerò che non mi stia logorando. Ma che la tua misericordia sia sufficiente per impedirmi di arrendermi."
+    },
+    {
+      "entry_id": "discouraged-heb-12-3",
+      "reflection": "L'autore indica specificamente Gesù che sopporta l'ostilità dei peccatori come il modello per non stancarsi o venire meno nell'anima -- il rimedio allo scoraggiamento è considerare la resistenza di qualcun altro, non solo resistere da soli a denti stretti. \"Venire meno nelle vostre anime\" nomina lo scoraggiamento come qualcosa di più profondo della stanchezza fisica, un cedimento interiore che l'autore prende abbastanza sul serio da avvertire direttamente. Considerarlo è presentato come resistenza attiva a quel cedimento interiore, non conforto passivo.",
+      "prayer": "Signore Gesù, fammi considerare come hai sopportato tale ostilità contro te stesso, così che io non mi stanchi o venga meno nella mia anima come avverte questo versetto. Il mio scoraggiamento è più della semplice stanchezza fisica, e ho bisogno di più del riposo per rispondergli. Dammi il tipo di resistenza che viene dal guardare davvero te, non solo dal provarci più duramente da solo."
+    },
+    {
+      "entry_id": "discouraged-heb-12-12-13",
+      "reflection": "Le immagini sono fisiche e specifiche -- mani che pendono, ginocchia deboli -- il corpo stesso raffigurato mentre mostra lo scoraggiamento prima delle parole. L'istruzione di sollevare le mani e rafforzare le ginocchia è attiva, non solo un desiderio che lo scoraggiamento passi da solo. \"Fate sentieri diritti per i vostri piedi\" estende la cura oltre la persona scoraggiata da sola, a come il suo cammino potrebbe influenzare ciò che è zoppo nelle vicinanze, il rimedio dello scoraggiamento legato alla comunità più ampia intorno.",
+      "prayer": "Signore, le mie mani sembrano pendere e le mie ginocchia sembrano deboli, esattamente come descrive questo versetto lo scoraggiamento che si manifesta nel corpo. Solleva ciò che pende in me e rafforza ciò che è debole, non solo i miei sentimenti ma la mia effettiva capacità di continuare a muovermi. Rendi il mio cammino abbastanza diritto che il mio stesso scoraggiamento non finisca per ferire qualcuno che cammina vicino."
+    },
+    {
+      "entry_id": "discouraged-ps-31-24",
+      "reflection": "Il comando di essere forti e prendere coraggio è rivolto specificamente a \"tutti voi che sperate nel Signore\", legando il coraggio direttamente a dove è posta la speranza piuttosto che offrirlo come incoraggiamento generale disponibile per chiunque. È il cuore a cui viene detto di prendere coraggio, non solo il comportamento esteriore -- un rafforzamento interiore, non semplicemente una messa in scena di fiducia. Questo arriva proprio alla fine di un salmo che si è mosso attraverso vere difficoltà prima, il coraggio arriva come ultima parola, non come prima.",
+      "prayer": "Signore, voglio essere forte e lasciare che il mio cuore prenda coraggio, come descrive questo versetto per tutti coloro che sperano in te. Che la mia speranza in te sia specificamente ciò che rafforza il mio cuore, non solo una determinazione a sentirmi più coraggioso. Questo è stato un salmo difficile da pregare oggi, ma che il coraggio sia davvero l'ultima parola, come lo fu per il salmista."
+    },
+    {
+      "entry_id": "discouraged-2chr-15-7",
+      "reflection": "L'istruzione abbina l'essere forti a un avvertimento pratico specifico -- non lasciate che le vostre mani siano deboli -- nominando esattamente la postura fisica che produce lo scoraggiamento, mani che smettono di lavorare. La promessa allegata è diretta: il lavoro stesso sarà ricompensato, legando lo sforzo continuo a un risultato piuttosto che lasciare l'incoraggiamento senza ragione dichiarata. Questo è rivolto a persone già nel mezzo di uno sforzo di riforma lungo, non a persone che stanno appena iniziando.",
+      "prayer": "Signore, non lasciare che le mie mani siano deboli nel lavoro che mi hai dato, anche se lo scoraggiamento mi fa venire voglia di smettere di lavorare del tutto. Confido che questo lavoro sarà ricompensato, come promette questo versetto, anche quando non riesco ancora a vedere come. Tienimi forte proprio nel mezzo di questo, non solo all'inizio quando era più facile."
+    },
+    {
+      "entry_id": "discouraged-1cor-15-58",
+      "reflection": "L'istruzione di Paolo arriva con una ragione allegata direttamente nella stessa frase: il lavoro nel Signore non è \"vano\", il che significa che lo scoraggiamento del chiedersi se lo sforzo sia inutile viene affrontato specificamente, non solo scacciato. \"Saldi\" e \"incrollabili\" sono parole forti e deliberate, che descrivono una posizione scelta e mantenuta piuttosto che un sentimento che appare automaticamente. Chiama i suoi lettori \"fratelli amati\" proprio prima di questa istruzione, incorniciando l'intero comando dentro la relazione piuttosto che il puro obbligo.",
+      "prayer": "Signore, voglio essere saldo e incrollabile nel lavoro che mi hai dato, confidando che il mio lavoro in te non è vano, anche nei giorni in cui sembra inutile. Che questa istruzione mi raggiunga come Paolo intendeva -- non come pressione, ma come qualcosa detto a qualcuno che ami. Tienimi abbondante in questo lavoro invece che ritirarmi silenziosamente."
+    },
+    {
+      "entry_id": "discouraged-phil-1-6",
+      "reflection": "Paolo dichiara la sua fiducia su una cosa specifica -- che colui che ha iniziato l'opera la completerà -- collocando la garanzia nella fedeltà di Dio a portare a termine, non in come il lavoro appare o si sente attualmente. \"Essendo fiducioso proprio di questo\" suggerisce che ha scelto questa assicurazione particolare deliberatamente, senza offrire un vago ottimismo generale. La linea temporale data, \"fino al giorno di Cristo Gesù\", estende la promessa ben oltre qualunque fase scoraggiante in cui si trovi ora il lavoro.",
+      "prayer": "Signore, mi aggrappo a questa unica cosa di cui Paolo era fiducioso: che tu, che hai iniziato una buona opera in me, la completerai, anche se in questo momento non sembra vicina alla fine. Che il mio scoraggiamento per quanto tutto questo sembri incompiuto non sia prova contro la tua promessa. Continua a lavorare ciò che hai iniziato, fino al pieno completamento, per quanto lontano sia ancora quel giorno."
     }
   ]
 }

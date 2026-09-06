@@ -140,6 +140,41 @@
       "feeling_id": "suffering",
       "label": "Souffrant(e)",
       "description": "Pour l'épreuve qui n'a pas encore pris de sens visible."
+    },
+    {
+      "feeling_id": "ashamed",
+      "label": "Honteux(se)",
+      "description": "Pour quand ce n'est pas ce que tu as fait, mais qui tu penses être, qui t'empêche de relever la tête."
+    },
+    {
+      "feeling_id": "sad",
+      "label": "Triste",
+      "description": "Pour la lourdeur ordinaire qui n'a pas de nom aussi grand que le deuil."
+    },
+    {
+      "feeling_id": "discouraged",
+      "label": "Découragé(e)",
+      "description": "Pour quand l'effort continue de coûter plus qu'il ne semble en valoir la peine."
+    },
+    {
+      "feeling_id": "hopeless",
+      "label": "Désespéré(e)",
+      "description": "Pour quand tu as cessé d'espérer que quoi que ce soit change vraiment."
+    },
+    {
+      "feeling_id": "rejected",
+      "label": "Rejeté(e)",
+      "description": "Pour être celui qui reste dehors devant une porte que quelqu'un d'autre a fermée."
+    },
+    {
+      "feeling_id": "confused",
+      "label": "Confus(e)",
+      "description": "Pour quand tu ne sais plus vraiment quelle direction est réellement l'avant."
+    },
+    {
+      "feeling_id": "forgiveness",
+      "label": "En quête de pardon",
+      "description": "Pour porter quelque chose que tu as fait et ne pas savoir comment le poser."
     }
   ],
   "entry_translations": [
@@ -1542,6 +1577,156 @@
       "entry_id": "suffering-ro-8-18",
       "reflection": "Paul fait une comparaison explicite, pesant les souffrances présentes contre la gloire future et les trouvant, selon sa propre considération attentive, sans commune mesure avec elle. Ce n'est pas un déni que les souffrances sont réelles ou lourdes ; c'est une affirmation sur un poids relatif faite par quelqu'un qui décrit ailleurs ses propres souffrances en termes vifs et précis. Terminer l'ensemble de versets élargi du sujet sur cette note place toute la catégorie de la souffrance dans un cadre plus large sans effacer ce qu'elle coûte au présent.",
       "prayer": "Seigneur, j'estime, avec Paul, que les souffrances du temps présent ne sont pas dignes d'être comparées à la gloire qui sera révélée en moi -- même si, en ce moment, la souffrance semble être la seule chose que je puisse voir clairement. Je ne prétends pas qu'elle est légère ; je fais confiance que ce qui vient l'emporte plus que je ne peux actuellement l'imaginer. Tiens-moi dans cette confiance jusqu'à ce que la gloire elle-même soit ce que je vois à la place."
+    },
+    {
+      "entry_id": "ashamed-gen-3-8-10",
+      "reflection": "C'est la toute première instance de honte dans l'Écriture -- immédiatement après le premier péché, l'instinct n'est pas d'exprimer des remords à Dieu mais de se cacher de lui. La propre explication d'Adam est révélatrice : il nomme le fait d'être nu et d'avoir peur comme raison, la honte produisant la peur et la peur produisant la dissimulation en un seul souffle. La question de Dieu « Où es-tu ? » n'est pas une information dont il a besoin ; c'est une invitation à sortir au grand jour, adressée à quelqu'un déjà caché. Cette scène fondatrice nomme quelque chose que la honte fait à tout le monde depuis : elle éloigne les gens de la présence même qui pourrait réellement aider.",
+      "prayer": "Seigneur, comme Adam, je connais cet instinct de me cacher de toi dès que je me sens exposé, même si me cacher de toi ne m'a jamais rendu plus en sécurité. Tu demandes « où es-tu » non pas parce que tu ne sais pas, mais pour m'appeler à sortir d'une cachette que j'ai choisie moi-même. Donne-moi le courage de sortir au grand jour avec toi, même si tout en moi veut encore rester caché parmi les arbres."
+    },
+    {
+      "entry_id": "ashamed-heb-12-2",
+      "reflection": "Le verset ne dit pas que Jésus a été épargné de la honte ; il dit qu'il a enduré la croix précisément en méprisant sa honte, la traitant comme quelque chose à traverser plutôt que quelque chose qui pouvait le retenir. La joie placée devant lui est nommée comme sa raison, non l'absence de la honte elle-même -- il l'a traversée, pas contournée. Cela fait de lui quelqu'un que la honte a réellement touché, pas un exemple lointain de quelqu'un qui n'a jamais eu à la ressentir.",
+      "prayer": "Seigneur Jésus, tu n'as pas évité la honte de la croix ; tu l'as endurée et méprisée, refusant de la laisser avoir le dernier mot sur toi. Laisse-moi te regarder comme ce verset le décrit, fixant mes yeux sur toi plutôt que de rester fixé sur ce dont j'ai honte. Donne-moi un peu de cette même capacité à voir au-delà de cette honte vers quelque joie que tu as placée devant moi aussi."
+    },
+    {
+      "entry_id": "ashamed-lk-15-20",
+      "reflection": "Le père voit le fils « alors qu'il était encore loin », ce qui veut dire qu'il guettait, et il court avant que le fils ait fini de parcourir la distance que la honte l'aurait fait ramper. Rien dans le texte ne suggère que le père avait besoin de la confession préparée du fils d'abord ; la compassion et l'étreinte viennent avant qu'un seul mot ne soit échangé. Le baiser atterrit sur quelqu'un encore couvert de toute la honte que le pays lointain lui avait laissée -- la restauration n'attend pas qu'il se nettoie d'abord.",
+      "prayer": "Père, je n'ai pas à parcourir toute la distance que la honte me dit que je dois avant que tu ne coures à ma rencontre -- ce verset dit que tu me guettais avant même que je finisse de me retourner. Laisse-moi croire que ta compassion vient avant mon explication, pas après. Rencontre-moi alors que je suis encore loin, exactement tel que je suis, comme tu l'as rencontré lui."
+    },
+    {
+      "entry_id": "ashamed-ps-25-2-3",
+      "reflection": "La demande de David est précise -- non seulement de l'aide, mais spécifiquement de ne pas être humilié, et spécifiquement de ne pas laisser ses ennemis triompher de lui. Il élargit la promesse au-delà de lui-même dans la ligne suivante : personne qui attend Dieu ne sera humilié, une règle générale qu'il applique personnellement à sa propre peur particulière. La honte qu'il nomme est publique et relationnelle, liée à la façon dont les ennemis le verraient, pas seulement un sentiment intérieur privé.",
+      "prayer": "Seigneur, j'ai mis ma confiance en toi, alors ne me laisse pas être humilié comme David a demandé de ne pas l'être. Je sais que cela ne concerne pas seulement ce que je ressens à l'intérieur -- c'est ce qui se passe quand j'attends sur toi au lieu d'essayer de me défendre moi-même. Que cela soit vrai pour moi comme David dit que ça l'est pour tous ceux qui t'attendent."
+    },
+    {
+      "entry_id": "ashamed-ps-34-5",
+      "reflection": "Le verset lie étroitement deux choses : regarder vers Dieu et avoir un visage radieux et sans honte -- l'un produit l'autre dans le même souffle. Il ne décrit pas la honte gérée ou mieux cachée ; il décrit des visages qui ne seront jamais couverts de honte du tout, un résultat entièrement différent que de faire face. Le regard vient en premier dans la phrase, suggérant que la radiance est une réponse, pas quelque chose obtenu en travaillant directement sur la honte.",
+      "prayer": "Seigneur, je veux regarder vers toi comme ce verset le décrit, et que mon visage soit radieux au lieu d'être couvert de la honte que j'essaie sans cesse de gérer moi-même. Je ne pense pas pouvoir régler cela en fixant plus intensément ce qui me fait honte ; laisse-moi te regarder toi à la place. Tourne mon visage vers toi jusqu'à ce que tout ce voile que cette honte a mis sur moi se lève."
+    },
+    {
+      "entry_id": "ashamed-ro-10-11",
+      "reflection": "Paul cite une promesse plus ancienne et l'applique comme une vérité établie, au présent : quiconque croit ne sera pas déçu ou humilié -- aucune qualification sur à quel point il a échoué avant de croire. Le mot couvre à la fois le piquant quotidien de l'embarras et quelque chose de plus profond : la peur que faire confiance à Dieu se révèle avoir été insensé. Paul mise tout le verset sur la foi, pas sur le passé du croyant.",
+      "prayer": "Seigneur, je crois en toi, et ce verset dit que cela signifie que je ne serai pas humilié -- pas à cause de quoi que ce soit en moi, mais à cause de ce que tu as promis. Que cela soit vrai même pour les parties de mon histoire dont j'ai le plus honte. Je ne veux pas que ma confiance en toi dépende du fait de prouver d'abord que je mérite de ne pas être humilié."
+    },
+    {
+      "entry_id": "ashamed-2tim-1-12",
+      "reflection": "Paul écrit cela depuis la prison, souffrant pour l'évangile, et dit quand même clairement « je n'ai pas honte » -- la honte qu'il refuse n'est pas imaginaire, puisque l'emprisonnement pour sa foi portait une vraie disgrâce sociale dans son monde. Sa raison est précise : non que ses circonstances soient bonnes, mais qu'il sait en qui il a cru et est persuadé que Dieu peut garder ce qui lui a été confié. La confiance repose entièrement sur la capacité de Dieu à garder quelque chose en sécurité, pas sur le propre bilan ou le confort présent de Paul.",
+      "prayer": "Seigneur, comme Paul, je veux dire que je n'ai pas honte, même dans des circonstances qui me donneraient toutes les raisons de l'avoir. Que ma confiance repose sur le fait de te connaître et de croire que tu es capable de garder ce que je t'ai confié, pas sur quoi que ce soit dans ma propre situation qui paraîtrait impressionnant. Persuade-moi comme Paul a été persuadé, jusqu'au bout."
+    },
+    {
+      "entry_id": "ashamed-isa-61-7",
+      "reflection": "La promesse n'efface pas l'histoire de la honte ; elle y répond directement, avec un langage « au lieu de » qui nomme exactement ce qui est remplacé. La double portion et la joie éternelle sont le renversement précis offert, pas une bénédiction générale vague -- cela vise précisément la honte et le déshonneur qui viennent d'être nommés. Le langage de terre et d'héritage rend cela concret et durable, pas un simple sentiment passager de mieux-être.",
+      "prayer": "Seigneur, tu promets qu'au lieu de la honte, il y aura une double portion, et qu'au lieu du déshonneur, il y aura de la réjouissance -- que cet échange exact se produise dans toute partie de ma vie qui porte encore une vieille honte. Je n'ai pas besoin que la honte soit expliquée ; j'ai besoin que ce que tu promets la remplace réellement. Que ce soit une joie éternelle, pas juste un soulagement temporaire."
+    },
+    {
+      "entry_id": "ashamed-joel-2-26-27",
+      "reflection": "La promesse se répète presque mot pour mot -- « mon peuple ne sera plus jamais déçu » apparaît deux fois en deux versets, comme si le point avait besoin d'être dit plus d'une fois pour être cru. Elle est liée à une provision ordinaire, avoir de quoi manger en abondance et être rassasié, ancrant l'élimination de la honte dans quelque chose d'aussi concret que la nourriture plutôt qu'un sentiment abstrait. Savoir que Dieu est « au milieu » de son peuple est nommé comme faisant partie de ce qui met fin à la déception, la présence elle-même faisant une partie du travail.",
+      "prayer": "Seigneur, tu promets que ton peuple ne sera plus jamais humilié -- dit deux fois, comme si tu savais que j'aurais besoin de l'entendre plus d'une fois. Que ta présence au milieu de moi fasse partie de ce qui met réellement fin à cela, pas seulement le changement de circonstances. Je veux savoir que tu es avec moi comme cette promesse le décrit, et que cela suffise."
+    },
+    {
+      "entry_id": "ashamed-zeph-3-19-20",
+      "reflection": "Dieu nomme exactement ce qu'il fera de la honte qui s'est répandue sur toute la terre : la transformer en louange et en honneur parmi tous les peuples qui l'ont autrefois vue. Ce n'est pas un renversement discret et privé -- cela se produit « sous vos yeux », vu, aussi public que la honte elle-même l'était. Le passage se termine par le rétablissement des fortunes, ce qui signifie que le renversement est total, pas un soulagement partiel d'une partie de ce qui a été perdu.",
+      "prayer": "Seigneur, tu dis que tu transformeras une honte connue partout en louange et en honneur parmi les peuples mêmes qui l'ont vue. Laisse-moi te faire confiance avec les parties de ma honte qui semblaient trop publiques ou trop connues pour jamais être renversées. Restaure ce que cette honte m'a coûté, juste sous mes yeux, comme tu l'as promis."
+    },
+    {
+      "entry_id": "sad-ps-13-1-2",
+      "reflection": "Les quatre questions « jusqu'à quand » de David s'accumulent sans pause pour une réponse entre elles, une tristesse spécifiquement nommée comme quotidienne, pas un seul mauvais moment. Il ne passe pas rapidement des questions à une résolution dans ces deux versets ; la tristesse obtient sa pleine parole répétitive avant que quoi que ce soit d'autre ne se passe dans le psaume. Nommer le chagrin comme quelque chose porté « dans mon cœur chaque jour » traite la tristesse ordinaire et récurrente comme méritant d'être apportée directement à Dieu, pas seulement le chagrin de niveau crise.",
+      "prayer": "Seigneur, jusqu'à quand -- je demande cela avec David, à propos de cette tristesse qui revient jour après jour et n'a pas besoin d'une raison dramatique pour être réelle. Je ne vais pas me précipiter au-delà de la nommer juste pour paraître plus résolu que je ne le suis. Rencontre-moi dans ces questions répétées, de la même façon que tu as rencontré David dans les siennes."
+    },
+    {
+      "entry_id": "sad-jn-16-20-22",
+      "reflection": "Jésus ne promet pas à ses disciples d'éviter le chagrin ; il promet que le chagrin spécifique qu'ils sont sur le point de ressentir se transformera en joie, utilisant une femme en travail comme image -- une vraie douleur qui a une vraie fin. La comparaison est soignée : une fois l'enfant né, elle n'oublie pas que l'angoisse a eu lieu, mais elle n'en reste pas non plus définie. Il termine en promettant une joie que personne ne peut enlever, une permanence que cette tristesse elle-même n'a pas.",
+      "prayer": "Seigneur, tu as dit clairement à tes disciples qu'ils seraient dans la tristesse, et je ne veux pas prétendre que ma propre tristesse est en quelque sorte différente ou pire que ce que tu comprenais déjà. Que cette tristesse soit comme le travail que tu as décrit -- réelle, mais pas la fin de l'histoire. Je m'accroche à cette joie que tu as promise que personne ne peut m'enlever, même pendant que ce chagrin est encore là."
+    },
+    {
+      "entry_id": "sad-ps-137-1-2",
+      "reflection": "L'image est brute et physique : s'asseoir près d'une rivière, pleurer, et suspendre des harpes qui seraient normalement jouées -- les instruments eux-mêmes réduits au silence par l'ampleur de ce dont on se souvient. C'est la nostalgie et la perte exprimées à travers l'absence, des chants qui ne sont pas chantés plutôt que des chants qui nomment le chagrin directement. Le psaume ne se précipite pas de l'assise-et-pleurs vers une leçon ; il laisse simplement l'image se tenir.",
+      "prayer": "Seigneur, parfois la tristesse ressemble à cela -- juste s'asseoir et pleurer, sans rien en moi qui veuille chanter en ce moment. Je ne vais pas forcer un chant que je n'ai pas ; laisse-moi suspendre ma harpe pour l'instant, comme le fait ce psaume, sans prétendre. Rencontre-moi près de cette rivière, dans le silence, avant que je sois prêt à jouer quoi que ce soit à nouveau."
+    },
+    {
+      "entry_id": "sad-pr-15-13",
+      "reflection": "Le proverbe relie le visage visible à l'esprit invisible, la gaieté et la brisure toutes deux montrées à travers le même trait, suggérant qu'un cœur qui souffre ne reste pas soigneusement caché à l'intérieur. Il ne moralise pas sur pourquoi le cœur souffre ; il observe simplement le lien comme vrai, nommant ce que fait un « esprit brisé » sans prescrire de solution dans ce verset. La simplicité de l'observation est elle-même une sorte de permission de remarquer la tristesse sans avoir immédiatement besoin de la résoudre.",
+      "prayer": "Seigneur, ce proverbe dit qu'un cœur qui souffre brise l'esprit, et je sais que le mien a souffert de façons que je n'ai pas toujours laissé paraître sur mon visage. Je n'ai pas besoin de forcer une gaieté que je n'ai pas en ce moment. Sois simplement proche de mon esprit pendant qu'il est brisé, avant même que j'aie une réponse pour le réparer."
+    },
+    {
+      "entry_id": "sad-eccl-3-4",
+      "reflection": "Le Prédicateur place les pleurs et le deuil dans la même liste structurée que le rire et la danse, chacun ayant « un temps » avec un poids égal et aucune excuse attachée à l'un ou l'autre. Ce n'est pas la tristesse comme échec à être joyeux ; c'est la tristesse nommée comme une saison désignée parmi plusieurs, aussi légitime dans son moment que son contraire. Le format de liste lui-même argumente contre le fait de se précipiter d'une saison à l'autre avant que son temps ne soit terminé.",
+      "prayer": "Seigneur, tu as fait de la place dans cette liste pour un temps de pleurer et un temps de mener deuil, juste à côté d'un temps de rire et de danser, et je ne veux pas traiter ma propre saison de pleurs comme quelque chose dont il faut avoir honte. Laisse-moi croire que ce temps a aussi sa place, sans prétendre que c'est déjà le temps de danser. Quand la saison tournera vraiment, laisse-moi le remarquer réellement."
+    },
+    {
+      "entry_id": "sad-ps-71-20-21",
+      "reflection": "Le psalmiste ne nie pas que les épreuves aient été nombreuses et amères, et ne prétend pas que Dieu l'en ait épargné -- il dit clairement « tu nous as montré » les épreuves, les attribuant à la main permissive de Dieu. Ce qu'il demande ensuite n'est pas d'effacer ce qui s'est passé mais d'augmenter l'honneur et le réconfort « à nouveau », un langage qui suppose qu'il les avait avant et peut les voir restaurés. Être ramené « des profondeurs de la terre » reconnaît à quel point la tristesse l'a réellement emmené bas.",
+      "prayer": "Seigneur, tu m'as montré des épreuves qui ont semblé nombreuses et amères, et je ne vais pas prétendre qu'elles n'étaient pas réelles juste pour paraître plus reconnaissant. Ramène-moi à nouveau d'où cette tristesse m'a emmené, comme le demande ce psaume. Augmente mon réconfort à nouveau, puisque je sais que je l'ai déjà eu et peux te faire confiance pour cela maintenant."
+    },
+    {
+      "entry_id": "sad-hab-3-17-18",
+      "reflection": "Le prophète liste chaque source de provision qui échoue en même temps -- figuier, vignes, olivier, champs, troupeaux, étables -- une image exhaustive de perte sans rien retenir de la liste. Le « pourtant » qui suit n'efface rien de tout cela ; la réjouissance qu'il choisit se produit sous la pleine vue de chaque récolte échouée et chaque étable vide, pas après leur résolution. C'est la joie positionnée comme une décision prise à l'intérieur de la tristesse, pas un sentiment qui attend que la tristesse se termine d'abord.",
+      "prayer": "Seigneur, comme Habacuc, je peux énumérer tout ce qui semble actuellement échouer, et rien de cela ne disparaît juste parce que je te l'apporte. Mais laisse-moi quand même dire « pourtant je me réjouirai », non parce que la tristesse a disparu, mais parce que tu es toujours le Dieu de mon salut quoi qu'il arrive. Sois ma joie au milieu de cela, pas seulement de l'autre côté."
+    },
+    {
+      "entry_id": "sad-ps-30-11-12",
+      "reflection": "Les verbes sont actifs et complets -- le deuil transformé en danse, le sac retiré, revêtu d'allégresse -- décrits comme des choses déjà arrivées au psalmiste, pas un espoir pour plus tard. Le but énoncé est précis : afin que son cœur chante et ne se taise pas, liant tout le renversement à la louange plutôt qu'au simple soulagement personnel. Le silence est nommé comme l'alternative à éviter, suggérant que la tristesse laissée sans réponse tend vers un cœur qui cesse complètement de chanter.",
+      "prayer": "Seigneur, transforme mon deuil en danse comme tu l'as fait pour le psalmiste, et retire tout le sac que cette tristesse m'a fait porter. Je ne veux pas que mon cœur se taise sous le poids de cela. Revêts-moi d'allégresse pour que je puisse vraiment te rendre grâce, pas seulement arrêter tranquillement de souffrir."
+    },
+    {
+      "entry_id": "sad-ps-126-5-6",
+      "reflection": "L'image lie les semailles et les pleurs en une seule action continue -- sortir en pleurant tout en portant encore la semence à planter, sans attendre que la tristesse passe avant de faire quoi que ce soit de productif. La joie promise au retour n'efface pas les pleurs antérieurs du récit ; les deux sont tenus dans les mêmes deux versets comme faisant partie d'une seule image entière. Porter des « gerbes » à la fin montre que les larmes n'ont pas été gaspillées ; quelque chose de réel a poussé exactement de la saison qui semblait la plus douloureuse.",
+      "prayer": "Seigneur, laisse-moi sortir en pleurant si c'est ce que demande aujourd'hui, portant encore ce que tu m'as donné à planter même en étant triste. Je crois que semer dans les larmes n'est pas gaspillé, et que la joie vient avec, comme le promet ce psaume. Laisse-moi revenir un jour en portant des gerbes qui ont poussé exactement de cette saison difficile."
+    },
+    {
+      "entry_id": "sad-isa-51-11",
+      "reflection": "Le verset nomme à la fois le chagrin et les soupirs spécifiquement, comme s'il anticipait que la tristesse se manifeste sous plus d'une forme -- le chagrin exprimé et le genre plus silencieux, sans mots. « S'enfuiront » est une image forte, la tristesse dépeinte comme quelque chose qui s'enfuit entièrement plutôt que de s'estomper lentement ou d'être ramenée à un niveau tolérable. La joie éternelle promise n'est pas décrite comme arrivant à côté d'un chagrin persistant ; le texte dépeint un véritable départ, pas une coexistence permanente.",
+      "prayer": "Seigneur, tu promets que le chagrin et les soupirs s'enfuiront, à la fois la tristesse que je peux nommer à voix haute et celle qui ne se manifeste que comme un soupir que je ne peux pas tout à fait expliquer. Je veux croire que c'est un vrai départ que tu décris, pas juste une tristesse qui devient plus silencieuse. Que la joie éternelle soit ce qui reste réellement quand ce chagrin partira."
+    },
+    {
+      "entry_id": "discouraged-num-21-4-5",
+      "reflection": "Le texte nomme la cause exacte avec une franchise inhabituelle : l'âme du peuple était « très découragée à cause du chemin » -- pas à cause d'une seule crise mais parce que la route elle-même avait trop duré. Ce qui suit est révélateur : leur découragement se transforme immédiatement en paroles contre Dieu et Moïse, la plainte devenant l'exutoire d'un épuisement qu'ils ne savaient pas gérer autrement. C'est le découragement dépeint honnêtement, plaintes comprises, pas lissé en quelque chose de plus spirituel.",
+      "prayer": "Seigneur, comme le peuple dans le désert, je suis découragé à cause de la durée de ce voyage, pas à cause d'un désastre spécifique. Je sais que mon découragement veut se transformer en plainte comme le leur, et je ne veux pas prétendre que cette impulsion n'est pas là. Rencontre-moi honnêtement dans cette longue route, avant que mon découragement ne se transforme en quelque chose que je regretterai d'avoir dit."
+    },
+    {
+      "entry_id": "discouraged-neh-4-14",
+      "reflection": "Néhémie ne répond pas à la peur du peuple en niant que la menace est réelle ; il regarde le danger réel, puis leur dit spécifiquement de se souvenir du Seigneur au lieu de la taille de ce qui est contre eux. L'instruction de « combattre » ne vient qu'après le souvenir, pas avant -- le courage ici est dépeint comme quelque chose qui découle de l'endroit où l'attention est d'abord placée. Il nomme exactement qui ils protègent -- frères, fils, filles, femmes, maisons -- rendant le travail décourageant concret et personnel, pas abstrait.",
+      "prayer": "Seigneur, comme les bâtisseurs face à de vraies menaces en essayant de faire ton travail, j'ai besoin de me souvenir de toi avant de pouvoir trouver le courage de continuer. Aide-moi à regarder honnêtement ce qui me décourage réellement, comme Néhémie a regardé la vraie menace, sans faire semblant qu'elle n'existe pas. Puis laisse-moi me souvenir que tu es grand et redoutable, et que ce soit ce qui me ramène au travail."
+    },
+    {
+      "entry_id": "discouraged-josh-1-9",
+      "reflection": "Le commandement s'ouvre sur une question qui suppose que Josué connaît déjà la réponse -- « ne t'ai-je pas commandé ? » -- traitant le courage comme quelque chose déjà donné, pas quelque chose que Josué doit générer à partir de rien. Force et courage sont commandés, pas seulement souhaités, aux côtés d'une instruction directe de ne pas avoir peur ni être découragé, nommant exactement les sentiments que produit le découragement. La raison donnée est la présence, pas les circonstances : Dieu est avec lui partout où il va, pas seulement là où les choses vont déjà bien.",
+      "prayer": "Seigneur, tu as commandé à Josué d'être fort et courageux, pas de le ressentir d'abord -- que ce commandement soit aussi pour moi, exactement là où je suis découragé. Ne me laisse pas avoir peur ni être découragé, même si les deux semblent proches en ce moment. Je m'accroche à la raison que tu lui as donnée : que tu es avec moi partout où je vais, pas seulement là où c'est facile."
+    },
+    {
+      "entry_id": "discouraged-2cor-4-1",
+      "reflection": "Paul lie le fait de ne pas faiblir directement à la miséricorde déjà reçue -- « comme nous avons obtenu miséricorde » -- comme si la résistance au découragement venait du souvenir de ce qui a déjà été donné, pas de la génération d'une nouvelle volonté. Le ministère lui-même est nommé comme la raison pour laquelle il pourrait faiblir en premier lieu ; un travail difficile et continu est exactement ce qui use une personne avec le temps. Sa conclusion est courte et confiante : « nous ne faiblissons pas », énoncée comme un fait établi plutôt qu'une aspiration pleine d'espoir.",
+      "prayer": "Seigneur, comme Paul, que je ne faiblisse pas dans le ministère ou le travail que tu m'as donné, me souvenant de la miséricorde que j'ai déjà obtenue de toi comme raison de continuer. Ce travail est vraiment difficile, et je ne vais pas prétendre qu'il ne m'use pas. Mais que ta miséricorde suffise à m'empêcher d'abandonner."
+    },
+    {
+      "entry_id": "discouraged-heb-12-3",
+      "reflection": "L'auteur pointe spécifiquement vers Jésus endurant l'hostilité des pécheurs comme le modèle pour ne pas se lasser ou faiblir dans l'âme -- le remède au découragement est de considérer l'endurance de quelqu'un d'autre, pas seulement de tenir seul par les dents. « Faiblir dans vos âmes » nomme le découragement comme quelque chose de plus profond que la fatigue physique, un abandon intérieur que l'auteur prend assez au sérieux pour avertir directement. Le considérer est présenté comme une résistance active à cet abandon intérieur, pas un simple réconfort passif.",
+      "prayer": "Seigneur Jésus, laisse-moi considérer comment tu as enduré une telle hostilité contre toi-même, afin que je ne me lasse pas ou ne faiblisse pas dans mon âme comme ce verset le met en garde. Mon découragement est plus que de la simple fatigue physique, et j'ai besoin de plus que du repos pour y répondre. Donne-moi le genre d'endurance qui vient de vraiment te regarder, pas seulement d'essayer plus fort par moi-même."
+    },
+    {
+      "entry_id": "discouraged-heb-12-12-13",
+      "reflection": "Les images sont physiques et précises -- des mains qui pendent, des genoux affaiblis -- le corps lui-même dépeint comme montrant le découragement avant les mots. L'instruction de relever les mains et de raffermir les genoux est active, pas simplement un souhait que le découragement passe de lui-même. « Rendez droits les chemins pour vos pieds » étend le soin au-delà de la personne découragée seule, à la façon dont son chemin pourrait affecter ce qui est boiteux à proximité, le remède au découragement lié à la communauté plus large qui l'entoure.",
+      "prayer": "Seigneur, mes mains semblent pendre et mes genoux semblent faibles, exactement comme ce verset décrit le découragement se manifestant dans le corps. Relève ce qui pend en moi et raffermis ce qui est faible, pas seulement mes sentiments mais ma capacité réelle à continuer d'avancer. Rends mon chemin assez droit pour que mon propre découragement ne finisse pas par blesser quelqu'un qui marche à proximité."
+    },
+    {
+      "entry_id": "discouraged-ps-31-24",
+      "reflection": "Le commandement d'être fort et de prendre courage est adressé spécifiquement à « tous ceux qui espèrent en l'Éternel », liant le courage directement à l'endroit où l'espoir est placé plutôt que de l'offrir comme un encouragement général disponible pour n'importe qui. C'est le cœur qui est appelé à prendre courage, pas seulement le comportement extérieur -- un renforcement intérieur, pas simplement une performance de confiance. Cela vient à la toute fin d'un psaume qui a traversé de vraies épreuves plus tôt, le courage arrivant comme le dernier mot plutôt que le premier.",
+      "prayer": "Seigneur, je veux être fort et laisser mon cœur prendre courage, comme le décrit ce verset pour tous ceux qui espèrent en toi. Que mon espoir en toi soit spécifiquement ce qui renforce mon cœur, pas juste une détermination à me sentir plus courageux. Ce psaume a été difficile à prier aujourd'hui, mais que le courage soit vraiment le dernier mot, comme il l'a été pour le psalmiste."
+    },
+    {
+      "entry_id": "discouraged-2chr-15-7",
+      "reflection": "L'instruction associe être fort à un avertissement pratique précis -- ne laisse pas tes mains devenir lâches -- nommant exactement la posture physique que produit le découragement, des mains qui cessent de travailler. La promesse attachée est directe : le travail lui-même sera récompensé, liant l'effort continu à un résultat plutôt que de laisser l'encouragement sans raison énoncée. Cela s'adresse à des gens déjà au milieu d'un long effort de réforme, pas à des gens qui commencent tout juste.",
+      "prayer": "Seigneur, ne laisse pas mes mains devenir lâches dans le travail que tu m'as donné, même si le découragement me donne envie d'arrêter de travailler tout simplement. Je fais confiance que ce travail sera récompensé, comme le promet ce verset, même quand je ne peux pas encore voir comment. Garde-moi fort spécifiquement au milieu de cela, pas seulement au début quand c'était plus facile."
+    },
+    {
+      "entry_id": "discouraged-1cor-15-58",
+      "reflection": "L'instruction de Paul vient avec une raison attachée directement dans la même phrase : le travail dans le Seigneur n'est « pas vain », ce qui signifie que le découragement de se demander si l'effort est inutile est répondu spécifiquement, pas simplement écarté. « Ferme » et « inébranlable » sont des mots forts et délibérés, décrivant une posture choisie et maintenue plutôt qu'un sentiment qui apparaît automatiquement. Il appelle ses lecteurs « frères bien-aimés » juste avant cette instruction, encadrant tout le commandement à l'intérieur d'une relation plutôt que d'une pure obligation.",
+      "prayer": "Seigneur, je veux être ferme et inébranlable dans le travail que tu m'as donné, croyant que mon travail en toi n'est pas vain, même les jours où il semble inutile. Laisse cette instruction m'atteindre comme Paul le voulait -- non comme une pression, mais comme quelque chose dit à quelqu'un que tu aimes. Garde-moi abondant dans ce travail au lieu de m'en retirer discrètement."
+    },
+    {
+      "entry_id": "discouraged-phil-1-6",
+      "reflection": "Paul exprime sa confiance à propos d'une chose précise -- que celui qui a commencé l'œuvre l'achèvera -- situant la garantie dans la fidélité de Dieu à aller jusqu'au bout, pas dans l'apparence ou le ressenti actuel du travail. « Étant confiant de cela même » suggère qu'il a choisi cette assurance particulière délibérément, sans offrir un optimisme général vague. Le délai donné, « jusqu'au jour de Jésus-Christ », étend la promesse bien au-delà de quelque stade décourageant où se trouve le travail en ce moment.",
+      "prayer": "Seigneur, je m'accroche à cette seule chose dont Paul était confiant : que toi qui as commencé une bonne œuvre en moi, tu l'achèveras, même si en ce moment cela ne semble pas près d'être fini. Que mon découragement face à tout cet inachevé ne soit pas une preuve contre ta promesse. Continue à travailler ce que tu as commencé, jusqu'à l'achèvement complet, aussi loin que soit encore ce jour."
     }
   ]
 }
