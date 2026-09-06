@@ -6029,6 +6029,214 @@
       "pull_quote": "He turned back, glorifying God with a loud voice.",
       "reference_display": "Luke 17:15-16",
       "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:3:6",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 6,
+      "verse_end": 6,
+      "text": "In all your ways acknowledge him, and he will make your paths straight.",
+      "pull_quote": "He will make your paths straight.",
+      "reference_display": "Proverbs 3:6",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:30:21",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 30,
+      "chapter_end": 30,
+      "verse_start": 21,
+      "verse_end": 21,
+      "text": "and when you turn to the right hand, and when you turn to the left, your ears will hear a voice behind you, saying, “This is the way. Walk in it.”",
+      "pull_quote": "This is the way. Walk in it.",
+      "reference_display": "Isaiah 30:21",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:25:9",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 25,
+      "chapter_end": 25,
+      "verse_start": 9,
+      "verse_end": 9,
+      "text": "He will guide the humble in justice. He will teach the humble his way.",
+      "pull_quote": "He will guide the humble in justice.",
+      "reference_display": "Psalm 25:9",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jn:16:13",
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "chapter_start": 16,
+      "chapter_end": 16,
+      "verse_start": 13,
+      "verse_end": 13,
+      "text": "However, when he, the Spirit of truth, has come, he will guide you into all truth, for he will not speak from himself; but whatever he hears, he will speak. He will declare to you things that are coming.",
+      "pull_quote": "He will guide you into all truth.",
+      "reference_display": "John 16:13",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:58:11",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 58,
+      "chapter_end": 58,
+      "verse_start": 11,
+      "verse_end": 11,
+      "text": "and the LORD will guide you continually, satisfy your soul in dry places, and make your bones strong. You will be like a watered garden, and like a spring of water whose waters don’t fail.",
+      "pull_quote": "The LORD will guide you continually.",
+      "reference_display": "Isaiah 58:11",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:53:5",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 53,
+      "chapter_end": 53,
+      "verse_start": 5,
+      "verse_end": 5,
+      "text": "But he was pierced for our transgressions. He was crushed for our iniquities. The punishment that brought our peace was on him; and by his wounds we are healed.",
+      "pull_quote": "By his wounds we are healed.",
+      "reference_display": "Isaiah 53:5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ro:8:18",
+      "translation_id": "web-c",
+      "book_id": "ro",
+      "chapter_start": 8,
+      "chapter_end": 8,
+      "verse_start": 18,
+      "verse_end": 18,
+      "text": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us.",
+      "pull_quote": "Not worthy to be compared with the glory which will be revealed.",
+      "reference_display": "Romans 8:18",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:143:4",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 143,
+      "chapter_end": 143,
+      "verse_start": 4,
+      "verse_end": 4,
+      "text": "Therefore my spirit is overwhelmed within me. My heart within me is desolate.",
+      "pull_quote": "My spirit is overwhelmed within me.",
+      "reference_display": "Psalm 143:4",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:42:5",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 42,
+      "chapter_end": 42,
+      "verse_start": 5,
+      "verse_end": 5,
+      "text": "Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him for the saving help of his presence.",
+      "pull_quote": "Hope in God! For I shall still praise him.",
+      "reference_display": "Psalm 42:5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:titus:2:13",
+      "translation_id": "web-c",
+      "book_id": "titus",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 13,
+      "verse_end": 13,
+      "text": "looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ,",
+      "pull_quote": "Looking for the blessed hope.",
+      "reference_display": "Titus 2:13",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:39:7",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 39,
+      "chapter_end": 39,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "Now, Lord, what do I wait for? My hope is in you.",
+      "pull_quote": "My hope is in you.",
+      "reference_display": "Psalm 39:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jn:14:1",
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "chapter_start": 14,
+      "chapter_end": 14,
+      "verse_start": 1,
+      "verse_end": 3,
+      "text": "“Don’t let your heart be troubled. Believe in God. Believe also in me. In my Father’s house are many homes. If it weren’t so, I would have told you. I am going to prepare a place for you. If I go and prepare a place for you, I will come again and will receive you to myself; that where I am, you may be there also.",
+      "pull_quote": "Don't let your heart be troubled.",
+      "reference_display": "John 14:1-3",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:126:3",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 126,
+      "chapter_end": 126,
+      "verse_start": 3,
+      "verse_end": 3,
+      "text": "The LORD has done great things for us, and we are glad.",
+      "pull_quote": "The LORD has done great things for us, and we are glad.",
+      "reference_display": "Psalm 126:3",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:4:7",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "You have put gladness in my heart, more than when their grain and their new wine are increased.",
+      "pull_quote": "You have put gladness in my heart.",
+      "reference_display": "Psalm 4:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:hab:3:17",
+      "translation_id": "web-c",
+      "book_id": "hab",
+      "chapter_start": 3,
+      "chapter_end": 3,
+      "verse_start": 17,
+      "verse_end": 18,
+      "text": "For even though the fig tree doesn’t flourish, nor fruit be in the vines, the labor of the olive fails, the fields yield no food, the flocks are cut off from the fold, and there is no herd in the stalls, yet I will rejoice in the LORD. I will be joyful in the God of my salvation!",
+      "pull_quote": "I will rejoice in the LORD.",
+      "reference_display": "Habakkuk 3:17-18",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1pet:1:8",
+      "translation_id": "web-c",
+      "book_id": "1pet",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 8,
+      "verse_end": 8,
+      "text": "whom, not having known, you love. In him, though now you don’t see him, yet believing, you rejoice greatly with joy that is unspeakable and full of glory,",
+      "pull_quote": "You rejoice greatly with joy that is unspeakable.",
+      "reference_display": "1 Peter 1:8",
+      "reference_alt": null
     }
   ],
   "entries": [
@@ -8059,6 +8267,366 @@
       "saint_quote": null,
       "saint_attribution": null,
       "liturgical_season": null
+    },
+    {
+      "id": "guidance-pr-3-6",
+      "feeling_id": "guidance",
+      "reflection": "This verse completes the thought right before it -- trust, then acknowledge God in every way, and the promise follows directly: paths made straight. \"All your ways\" leaves no area exempted, not just the major decisions but the ordinary daily ones too. The straightening isn't described as instant; it's a result that follows a practiced, continual acknowledgment, not a one-time request.",
+      "prayer": "Lord, I want to acknowledge you in all my ways today, not just the big decision I'm anxious about but the small ordinary ones too. Make my paths straight the way this verse promises, even if I can't see very far down the road yet. Help this be a continual habit of trust, not just a single request I make and move on from.",
+      "intensity": "steady",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guidance-isa-30-21",
+      "feeling_id": "guidance",
+      "reflection": "Isaiah describes guidance as something heard rather than seen, a voice from behind rather than a light shown ahead -- an unusual direction for guidance to come from. The specificity of \"when you turn to the right hand, and when you turn to the left\" suggests this voice speaks into the actual moment of decision, not just in advance. It's guidance that corrects course rather than only mapping it out beforehand.",
+      "prayer": "Lord, let me hear your voice behind me the way Isaiah describes, correcting my course even after I've already started moving. I don't always know in advance which way to turn, so speak into the actual moment, not just before it. Help me stay tuned to your voice instead of my own guessing.",
+      "intensity": "steady",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guidance-ps-25-9",
+      "feeling_id": "guidance",
+      "reflection": "The psalm specifically ties guidance to humility, not intelligence or effort -- it's the humble who are guided and taught, a quality of posture rather than a level of skill. Being taught \"his way\" suggests guidance here is less a single answer to a single question and more an ongoing education in how God works. Humility is presented as the actual condition guidance requires, not a nice addition to it.",
+      "prayer": "Lord, make me humble enough to actually be guided today, instead of insisting I already know the way. Teach me your way the way this psalm describes, patiently and over time, not just handing me one quick answer. Help me want to be taught more than I want to be right.",
+      "intensity": "steady",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guidance-jn-16-13",
+      "feeling_id": "guidance",
+      "reflection": "Jesus promises the Spirit specifically as a guide into truth, not merely information but truth as something walked into over time. The Spirit is described as not speaking on his own initiative, but relaying what he hears -- guidance here is relational and ongoing, not a single transmission handed down once. \"All truth\" is a large promise, suggesting the guidance in view is comprehensive, not limited to one question at a time.",
+      "prayer": "Lord, send your Spirit to guide me into truth the way you promised, not just answers to my immediate questions but a real, ongoing relationship with what's true. I don't need to figure everything out today -- I need to keep being guided, day by day. Let me trust the Spirit's guidance even when it takes time to become clear.",
+      "intensity": "settled",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guidance-isa-58-11",
+      "feeling_id": "guidance",
+      "reflection": "The guidance promised here is continual, paired with images of nourishment in dry places and strength in the bones -- guidance that sustains a person, not just directs them. The comparison to a watered garden and an unfailing spring suggests reliability over time, a source that doesn't run dry even under difficult conditions. Guidance and provision are treated together here, as though one without the other would be incomplete.",
+      "prayer": "Lord, guide me continually, the way this verse promises, not just for today's decision but for the dry seasons still ahead. Satisfy my soul in the parts of my life that feel like dry places right now. Let me be like a watered garden, sustained by you even when the conditions around me are difficult.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guidance-pr-16-9",
+      "feeling_id": "guidance",
+      "reflection": "The proverb doesn't dismiss human planning -- the heart genuinely plans its course -- but places the LORD's direction over the actual steps taken, the concrete movement rather than the abstract intention. This suggests guidance works alongside a person's own planning rather than replacing it entirely, correcting and directing the walking-out of a plan. Even a well-laid plan still depends on something beyond itself to actually direct where the steps land.",
+      "prayer": "Lord, I have plans for how I think this should go, and I'm not going to pretend I don't. But direct my actual steps, the way this proverb says you do, even when they end up different from what I planned. Help me hold my own plans loosely enough that your direction can still move them.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hurt-isa-53-5",
+      "feeling_id": "hurt",
+      "reflection": "The prophecy names wounds specifically as the means of healing, an arrangement that runs backward from how healing usually works -- someone else's wounding becomes the source of another's wholeness. This isn't abstract theology detached from real pain; it's built entirely around real, physical suffering, described in unflinching terms. Whatever hurt is being carried now, this verse insists it isn't unfamiliar or unanswered territory for God.",
+      "prayer": "Lord, you know wounds firsthand, the way this verse describes, so meet me in this hurt rather than at a distance from it. Let your wounds be the source of my healing, the way this prophecy promises, even though I don't understand exactly how that works. Don't let this pain go unanswered, even if the healing takes time to arrive.",
+      "intensity": "acute",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hurt-gen-50-20",
+      "feeling_id": "hurt",
+      "reflection": "Joseph says this directly to the brothers who caused his suffering, naming their intent plainly as evil without softening it, while also naming what God did with it without minimizing the wrong. Both things are true in the same sentence: real evil was intended, and God meant it for good, saving many lives in the process. This isn't a demand to see the good immediately; it's Joseph's own retrospective words, spoken from the other side of years of suffering.",
+      "prayer": "Lord, I don't understand yet what good could come from what was done to me, and I'm not asking to see it today. But like Joseph, let me trust that you can work even through real, intended harm, without pretending the harm itself was anything other than wrong. Save something through this, even if I can't see what yet.",
+      "intensity": "acute",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hurt-ps-55-12-14",
+      "feeling_id": "hurt",
+      "reflection": "David names a specific, sharper kind of pain here -- not betrayal by an enemy, which he could have endured, but by a companion, someone he walked with in close fellowship. Naming the relationship explicitly, rather than keeping the hurt vague, seems to be part of how David processes it honestly in front of God. Some wounds hurt more precisely because of who caused them, and this psalm doesn't pretend otherwise.",
+      "prayer": "Lord, this hurts more because of who it came from, and I don't want to pretend it would hurt the same coming from a stranger. Let me be honest with you about exactly who caused this and how much it costs, the way David was honest. Meet me in the specific pain of this, not just a general sadness.",
+      "intensity": "steady",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hurt-col-3-13",
+      "feeling_id": "hurt",
+      "reflection": "Paul's instruction to bear with one another comes paired directly with forgiving, as if the two are meant to operate together -- patience for what's ongoing, forgiveness for what's already happened. The standard set is Christ's own forgiveness, a comparison that doesn't leave much room to argue the offense against oneself is too large to forgive. This isn't presented as easy, only as modeled on something that also wasn't easy.",
+      "prayer": "Lord, help me bear with the person who hurt me and forgive them the way you've forgiven me, even though I don't feel ready yet. I'm not asking to feel nothing about this -- I'm asking for the strength to forgive anyway. Let your own forgiveness of me be the model I actually follow, not just an ideal I admire from a distance.",
+      "intensity": "steady",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hurt-lk-6-27",
+      "feeling_id": "hurt",
+      "reflection": "Jesus's instruction escalates deliberately -- love, do good, bless, pray -- each one a step further than simply not retaliating, aimed specifically at enemies and those who mistreat. This isn't emotional denial of the hurt; praying for someone who mistreated you assumes the mistreatment was real enough to need addressing in prayer at all. The four actions given are concrete and active, not just an inward attitude adjustment.",
+      "prayer": "Lord, I don't feel like loving the person who hurt me right now, so start with the smallest of these -- let me at least pray for them honestly. Help me do good and bless where I'd rather withhold both. Grow this in me slowly if it has to be slow, but don't let me stop at simply avoiding revenge.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hurt-ro-8-18",
+      "feeling_id": "hurt",
+      "reflection": "Paul doesn't minimize present suffering to make this comparison work; he calls it real suffering, genuinely present, before setting it next to a glory he says outweighs it entirely. This isn't a denial that the hurt matters now -- it's a claim about proportion, that the hurt, however real, isn't the whole story or the final word. The comparison only makes sense if both things, the suffering and the glory, are taken with equal seriousness.",
+      "prayer": "Lord, this hurt is real, and I'm not going to minimize it just to feel like a better Christian. But let me hold it next to the glory Paul describes, not instead of the pain but alongside it. Help me believe this isn't the whole story, even on the days it feels like it is.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "overwhelmed-ps-143-4",
+      "feeling_id": "overwhelmed",
+      "reflection": "David uses the exact word many people would reach for themselves -- overwhelmed -- paired with a heart described as desolate, not exaggerated language but a precise description of where he actually is. There's no immediate resolution offered in this single verse; it simply names the condition without rushing past it. Scripture giving this exact feeling its own words seems to matter on its own, before any answer arrives.",
+      "prayer": "Lord, my spirit is overwhelmed within me right now, the exact word this psalm uses, and my heart feels as desolate as David's did. I'm not going to rush past naming this just to get to a tidier feeling faster. Meet me here, in the overwhelmed part, before you meet me anywhere else.",
+      "intensity": "acute",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "overwhelmed-ps-42-5",
+      "feeling_id": "overwhelmed",
+      "reflection": "The psalmist speaks to his own soul directly, as though it were a separate party needing to be addressed and questioned -- why are you in despair, why are you disturbed. This isn't dismissing the despair as unreasonable; it's engaging with it directly, asking it to account for itself. The turn toward hope comes in the same breath as the honest questioning, not after the despair has been fully resolved.",
+      "prayer": "Lord, like the psalmist, I need to ask my own soul why it's so disturbed right now, instead of just letting the disturbance run unquestioned. Help me put my hope in you even while the despair is still present, not waiting for it to fully lift first. Let me still find a way to praise you in the middle of this.",
+      "intensity": "acute",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "overwhelmed-ps-46-1",
+      "feeling_id": "overwhelmed",
+      "reflection": "The psalm doesn't call God a distant help but a very present one, specifically located in trouble rather than only available before or after it. Refuge and strength are named together, suggesting both shelter from what's overwhelming and the ability to keep standing within it. This verse doesn't promise the trouble will end quickly; it promises presence precisely inside it.",
+      "prayer": "Lord, be my refuge and my strength right now, very present in this trouble, not just something I'll find on the other side of it. I don't need the overwhelm to end immediately -- I need you here inside it with me. Let your presence be real enough to actually steady me.",
+      "intensity": "steady",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "overwhelmed-ps-34-17",
+      "feeling_id": "overwhelmed",
+      "reflection": "The verse describes a specific sequence: crying out, then God hearing, then deliverance -- each step following the last, not a vague general care but an active response to an active cry. \"All their troubles\" is a comprehensive promise, not limited to the kind of trouble that seems solvable. This isn't a claim that the righteous never feel overwhelmed, only that their cry doesn't go unheard when they are.",
+      "prayer": "Lord, I'm crying out to you right now, overwhelmed by more than I can carry. Hear me the way this verse promises you hear the righteous, and deliver me out of these troubles, all of them, not just the easy ones. Let this cry be the beginning of something moving, not words into silence.",
+      "intensity": "steady",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "overwhelmed-phil-4-13",
+      "feeling_id": "overwhelmed",
+      "reflection": "Paul writes this after describing learning contentment in both plenty and want, so the strength in view isn't a generic superpower but specifically the ability to endure whatever circumstance he's actually in. \"All things\" here means the full range Paul just described, not an unlimited promise detached from context. The strength comes from Christ, explicitly, not from Paul's own resilience or optimism.",
+      "prayer": "Lord, I can't do this in my own strength right now, so let me actually lean on the strength that comes through Christ, the way Paul describes. I don't need to feel capable on my own -- I need to be strengthened by you specifically. Help me get through what's overwhelming me today through you, not through pretending I'm fine.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "overwhelmed-2cor-4-8",
+      "feeling_id": "overwhelmed",
+      "reflection": "Paul's list works in pairs, each one naming real pressure alongside a limit to how far that pressure goes -- pressed, but not crushed; perplexed, but not despairing. This isn't a denial that the pressure is real; each first half of the pair is genuinely true. What's added is a boundary the pressure doesn't cross, a floor beneath the overwhelm that holds even under real weight.",
+      "prayer": "Lord, I am pressed on every side right now, and I'm not going to pretend otherwise. But hold the line this verse describes -- let me be pressed without being crushed, perplexed without falling into despair. Be the floor beneath this overwhelm that keeps it from becoming the end of me.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hopeful-ps-130-5",
+      "feeling_id": "hopeful",
+      "reflection": "The psalmist describes waiting as something his whole soul does, not a passive killing of time but an active posture directed at God specifically. Hope is placed in God's word, something spoken and reliable, rather than in circumstances changing or feelings improving. Waiting and hoping are treated as the same motion here, not two separate things happening side by side.",
+      "prayer": "Lord, I'm waiting for you today, not passively but with my whole soul the way this psalm describes. Let my hope rest in your word, something I can actually hold onto, rather than in circumstances that keep shifting. Teach me to wait well, not just to wait.",
+      "intensity": "steady",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hopeful-heb-6-19",
+      "feeling_id": "hopeful",
+      "reflection": "The writer compares hope to an anchor, an image chosen for stability in rough conditions rather than for speed or comfort -- an anchor's whole purpose is to hold firm when everything around it moves. This hope is described as entering into the innermost place, not staying on the surface but reaching somewhere secure and unshaken. Sure and steadfast are both used, doubling down on reliability rather than intensity of feeling.",
+      "prayer": "Lord, let this hope be an anchor for my soul today, the way this verse describes, holding me steady even while everything around me feels like rough water. I don't need the hope to feel intense -- I need it to be sure and steadfast, reaching somewhere secure. Anchor me in something that doesn't move even when I do.",
+      "intensity": "steady",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hopeful-titus-2-13",
+      "feeling_id": "hopeful",
+      "reflection": "Paul calls this hope \"blessed,\" an unusual pairing that frames hope itself as something good to hold, not merely a coping mechanism for hard times. The object of the hope is specific -- the appearing of Jesus -- not a vague optimism about things generally improving. Looking forward to something this concrete gives hope a direction and an endpoint, not just a general disposition.",
+      "prayer": "Lord, let me actually look forward to your appearing, the way Paul describes, instead of just hoping vaguely that things will get better somehow. Give this hope a real, specific direction, not just a feeling I'm trying to manufacture. Let it be blessed hope, something genuinely good to hold onto, not just a coping mechanism.",
+      "intensity": "settled",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hopeful-ro-12-12",
+      "feeling_id": "hopeful",
+      "reflection": "Paul links three things together in one breath -- rejoicing in hope, enduring in troubles, continuing steadfastly in prayer -- as though they're meant to function as a single practice rather than three separate instructions. Hope here doesn't wait for troubles to end before it starts rejoicing; it operates alongside endurance, in the same present tense as the troubles themselves. Prayer is the thread connecting the other two, sustained rather than occasional.",
+      "prayer": "Lord, let me rejoice in hope even while I'm still enduring troubles, not waiting for the troubles to end first. Help me stay steadfast in prayer as the thread that holds the hoping and the enduring together. Don't let me separate these into stages -- let them happen together, the way Paul describes.",
+      "intensity": "settled",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hopeful-ps-39-7",
+      "feeling_id": "hopeful",
+      "reflection": "The psalmist asks his own question and answers it in the same breath -- what do I wait for, my hope is in you -- ruling out every other possible answer before it's even given room to compete. This is a short verse, but it functions like a filter, narrowing down where hope could possibly be placed to a single, deliberate answer. Nothing else is named as a candidate worth waiting for.",
+      "prayer": "Lord, when I ask myself what I'm actually waiting for, let the answer be you, the way it was for the psalmist. Rule out every other place I might be tempted to put my hope instead. Let this be a settled answer, not one I have to keep re-deciding every time hope feels thin.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "hopeful-jn-14-1",
+      "feeling_id": "hopeful",
+      "reflection": "Jesus speaks these words right before his own death, to disciples who are about to lose him -- the hope offered here isn't detached from real, imminent loss, but spoken directly into it. The specific hope named is a place being prepared, a future reunion, not a vague reassurance that things will somehow work out. \"If it weren't so, I would have told you\" grounds the hope in Jesus's own honesty rather than in wishful thinking.",
+      "prayer": "Lord, don't let my heart be troubled the way you asked your disciples not to let theirs be troubled, even in the face of real loss. Let my hope rest on the specific place you're preparing, not a vague feeling that things will be fine. I trust that if it weren't true, you would have told me.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "joyful-ps-126-3",
+      "feeling_id": "joyful",
+      "reflection": "The psalm names joy as a direct response to something God has actually done, not joy sought for its own sake or manufactured through effort. \"Great things\" is specific enough to anchor the gladness in real events, not an abstract mood. Gladness here follows naturally from remembering, which suggests joy can be recovered by simply recalling what's already true rather than needing something new to happen.",
+      "prayer": "Lord, let me be glad today because of the great things you've actually done, not because I've talked myself into a good mood. Help me remember specifically what you've done for me, and let the gladness follow naturally from that memory. Don't let me wait for something new before I let myself feel this joy.",
+      "intensity": "steady",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "joyful-gal-5-22",
+      "feeling_id": "joyful",
+      "reflection": "Paul lists joy as fruit, not achievement -- something that grows from the Spirit's presence rather than something produced by willpower or circumstance. Fruit takes time and comes from being rooted in something else entirely; it isn't manufactured directly by effort aimed at the fruit itself. Joy appears second in this list, right after love, suggesting it's closely bound up with how love is actually lived out.",
+      "prayer": "Lord, grow joy in me the way fruit grows, from being rooted in your Spirit rather than something I manufacture through effort. I can't force this the way I'd force an achievement, so cultivate it in me instead. Let it come naturally out of love, the way this list suggests it does.",
+      "intensity": "steady",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "joyful-ps-4-7",
+      "feeling_id": "joyful",
+      "reflection": "David compares the gladness God has put in his heart to the joy of a plentiful harvest, but claims his own gladness surpasses even that -- a strong claim given how central harvest abundance was to a farming society's happiness. This gladness isn't tied to circumstances actually improving; it's described as something placed in the heart directly by God. The comparison suggests an internal joy that doesn't depend on external abundance to be real or complete.",
+      "prayer": "Lord, put gladness in my heart the way you did for David, a joy that doesn't depend on my circumstances actually improving first. Let this gladness be real even without the equivalent of a plentiful harvest in my own life right now. Make this joy something you place in me directly, not something I have to manufacture from good news.",
+      "intensity": "settled",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "joyful-hab-3-17",
+      "feeling_id": "joyful",
+      "reflection": "Habakkuk names total agricultural and economic collapse in specific, exhaustive detail -- no fig tree, no fruit, no olive, no food, no flocks, no herd -- before declaring he will rejoice anyway. This isn't joy because circumstances are good; it's joy that persists in spite of every single circumstance failing at once. The joy is specifically located in God himself, the God of his salvation, not in anything that could be lost.",
+      "prayer": "Lord, even if everything around me fails the way Habakkuk describes, let me still say what he said -- that I will rejoice in you. Let my joy be located in you specifically, not in circumstances that could all fail at once. Teach me this kind of joy now, before I ever have to test it against real loss.",
+      "intensity": "settled",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "joyful-1pet-1-8",
+      "feeling_id": "joyful",
+      "reflection": "Peter describes a joy directed at someone not currently seen, which makes it entirely dependent on belief rather than sight -- an unusual foundation for what he calls joy unspeakable and full of glory. This isn't a diminished joy because it's based on faith instead of sight; Peter's language suggests the opposite, an intensity that exceeds ordinary description. Believing without seeing is presented here as fully compatible with, even a direct source of, real joy.",
+      "prayer": "Lord, let me love you and rejoice in you even without seeing you, the way Peter describes his readers doing. I don't need to see clearly for this joy to be real and full, even unspeakable the way he describes it. Let believing be enough of a foundation for genuine joy today.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "joyful-ps-118-24",
+      "feeling_id": "joyful",
+      "reflection": "The psalm doesn't wait for the day to prove itself good before calling it made by God -- the declaration comes first, regardless of what the day has held so far. Rejoicing is presented as a response to God's making of the day itself, not to the day's particular contents. This is a short, repeatable verse, the kind meant to be said daily rather than saved for exceptionally good days.",
+      "prayer": "Lord, this is the day you have made, whether or not it's gone the way I hoped so far. Help me rejoice and be glad in it anyway, not because everything in it has been good but because you made it. Let me say this small, repeatable truth today and actually mean it.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
     }
   ],
   "entry_passages": [
@@ -9079,6 +9647,186 @@
     {
       "entry_id": "grateful-ps-92-1",
       "passage_id": "web-c:ps:92:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guidance-pr-3-6",
+      "passage_id": "web-c:pr:3:6",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guidance-isa-30-21",
+      "passage_id": "web-c:isa:30:21",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guidance-ps-25-9",
+      "passage_id": "web-c:ps:25:9",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guidance-jn-16-13",
+      "passage_id": "web-c:jn:16:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guidance-isa-58-11",
+      "passage_id": "web-c:isa:58:11",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guidance-pr-16-9",
+      "passage_id": "web-c:pr:16:9",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hurt-isa-53-5",
+      "passage_id": "web-c:isa:53:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hurt-gen-50-20",
+      "passage_id": "web-c:gen:50:20",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hurt-ps-55-12-14",
+      "passage_id": "web-c:ps:55:12",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hurt-col-3-13",
+      "passage_id": "web-c:col:3:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hurt-lk-6-27",
+      "passage_id": "web-c:lk:6:27",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hurt-ro-8-18",
+      "passage_id": "web-c:ro:8:18",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "overwhelmed-ps-143-4",
+      "passage_id": "web-c:ps:143:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "overwhelmed-ps-42-5",
+      "passage_id": "web-c:ps:42:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "overwhelmed-ps-46-1",
+      "passage_id": "web-c:ps:46:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "overwhelmed-ps-34-17",
+      "passage_id": "web-c:ps:34:17",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "overwhelmed-phil-4-13",
+      "passage_id": "web-c:phil:4:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "overwhelmed-2cor-4-8",
+      "passage_id": "web-c:2cor:4:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hopeful-ps-130-5",
+      "passage_id": "web-c:ps:130:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hopeful-heb-6-19",
+      "passage_id": "web-c:heb:6:19",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hopeful-titus-2-13",
+      "passage_id": "web-c:titus:2:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hopeful-ro-12-12",
+      "passage_id": "web-c:ro:12:12",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hopeful-ps-39-7",
+      "passage_id": "web-c:ps:39:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "hopeful-jn-14-1",
+      "passage_id": "web-c:jn:14:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "joyful-ps-126-3",
+      "passage_id": "web-c:ps:126:3",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "joyful-gal-5-22",
+      "passage_id": "web-c:gal:5:22",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "joyful-ps-4-7",
+      "passage_id": "web-c:ps:4:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "joyful-hab-3-17",
+      "passage_id": "web-c:hab:3:17",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "joyful-1pet-1-8",
+      "passage_id": "web-c:1pet:1:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "joyful-ps-118-24",
+      "passage_id": "web-c:ps:118:24",
       "position": 0,
       "role": "primary"
     }
