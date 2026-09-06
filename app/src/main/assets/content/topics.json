@@ -5743,6 +5743,292 @@
       "pull_quote": "The LORD will take me up.",
       "reference_display": "Psalm 27:10",
       "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:37:8",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 37,
+      "chapter_end": 37,
+      "verse_start": 8,
+      "verse_end": 8,
+      "text": "Cease from anger, and forsake wrath. Don’t fret; it leads only to evildoing.",
+      "pull_quote": "Cease from anger, and forsake wrath.",
+      "reference_display": "Psalm 37:8",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:pr:29:11",
+      "translation_id": "web-c",
+      "book_id": "pr",
+      "chapter_start": 29,
+      "chapter_end": 29,
+      "verse_start": 11,
+      "verse_end": 11,
+      "text": "A fool vents all of his anger, but a wise man brings himself under control.",
+      "pull_quote": "A wise man brings himself under control.",
+      "reference_display": "Proverbs 29:11",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:eccl:7:9",
+      "translation_id": "web-c",
+      "book_id": "eccl",
+      "chapter_start": 7,
+      "chapter_end": 7,
+      "verse_start": 9,
+      "verse_end": 9,
+      "text": "Don’t be hasty in your spirit to be angry, for anger rests in the bosom of fools.",
+      "pull_quote": "Anger rests in the bosom of fools.",
+      "reference_display": "Ecclesiastes 7:9",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jas:1:20",
+      "translation_id": "web-c",
+      "book_id": "jas",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 20,
+      "verse_end": 20,
+      "text": "for the anger of man doesn’t produce the righteousness of God.",
+      "pull_quote": "The anger of man doesn't produce the righteousness of God.",
+      "reference_display": "James 1:20",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:32:5",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 32,
+      "chapter_end": 32,
+      "verse_start": 5,
+      "verse_end": 5,
+      "text": "I acknowledged my sin to you. I didn’t hide my iniquity. I said, I will confess my transgressions to the LORD, and you forgave the iniquity of my sin. Selah.",
+      "pull_quote": "You forgave the iniquity of my sin.",
+      "reference_display": "Psalm 32:5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mic:7:19",
+      "translation_id": "web-c",
+      "book_id": "mic",
+      "chapter_start": 7,
+      "chapter_end": 7,
+      "verse_start": 19,
+      "verse_end": 19,
+      "text": "He will again have compassion on us. He will tread our iniquities under foot. You will cast all their sins into the depths of the sea.",
+      "pull_quote": "You will cast all their sins into the depths of the sea.",
+      "reference_display": "Micah 7:19",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:heb:10:22",
+      "translation_id": "web-c",
+      "book_id": "heb",
+      "chapter_start": 10,
+      "chapter_end": 10,
+      "verse_start": 22,
+      "verse_end": 22,
+      "text": "let’s draw near with a true heart in fullness of faith, having our hearts sprinkled from an evil conscience and having our body washed with pure water,",
+      "pull_quote": "Having our hearts sprinkled from an evil conscience.",
+      "reference_display": "Hebrews 10:22",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jn:8:10",
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "chapter_start": 8,
+      "chapter_end": 8,
+      "verse_start": 10,
+      "verse_end": 11,
+      "text": "Jesus, standing up, saw her and said, “Woman, where are your accusers? Did no one condemn you?” She said, “No one, Lord.” Jesus said, “Neither do I condemn you. Go your way. From now on, sin no more.”",
+      "pull_quote": "Neither do I condemn you. Go your way. From now on, sin no more.",
+      "reference_display": "John 8:10-11",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:51:7",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 51,
+      "chapter_end": 51,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "Purify me with hyssop, and I will be clean. Wash me, and I will be whiter than snow.",
+      "pull_quote": "Wash me, and I will be whiter than snow.",
+      "reference_display": "Psalm 51:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ro:8:33",
+      "translation_id": "web-c",
+      "book_id": "ro",
+      "chapter_start": 8,
+      "chapter_end": 8,
+      "verse_start": 33,
+      "verse_end": 34,
+      "text": "Who could bring a charge against God’s chosen ones? It is God who justifies. Who is he who condemns? It is Christ who died, yes rather, who was raised from the dead, who is at the right hand of God, who also makes intercession for us.",
+      "pull_quote": "It is God who justifies.",
+      "reference_display": "Romans 8:33-34",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mt:14:31",
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "chapter_start": 14,
+      "chapter_end": 14,
+      "verse_start": 31,
+      "verse_end": 31,
+      "text": "Immediately Jesus stretched out his hand, took hold of him, and said to him, “You of little faith, why did you doubt?”",
+      "pull_quote": "You of little faith, why did you doubt?",
+      "reference_display": "Matthew 14:31",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ro:4:20",
+      "translation_id": "web-c",
+      "book_id": "ro",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 20,
+      "verse_end": 21,
+      "text": "Yet, looking to the promise of God, he didn’t waver through unbelief, but grew strong through faith, giving glory to God, and being fully assured that what he had promised, he was also able to perform.",
+      "pull_quote": "He didn't waver through unbelief, but grew strong through faith.",
+      "reference_display": "Romans 4:20-21",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:hab:2:4",
+      "translation_id": "web-c",
+      "book_id": "hab",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 4,
+      "verse_end": 4,
+      "text": "Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.",
+      "pull_quote": "The righteous will live by his faith.",
+      "reference_display": "Habakkuk 2:4",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jn:11:40",
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "chapter_start": 11,
+      "chapter_end": 11,
+      "verse_start": 40,
+      "verse_end": 40,
+      "text": "Jesus said to her, “Didn’t I tell you that if you believed, you would see God’s glory?”",
+      "pull_quote": "If you believed, you would see God's glory.",
+      "reference_display": "John 11:40",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:2cor:5:7",
+      "translation_id": "web-c",
+      "book_id": "2cor",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "for we walk by faith, not by sight.",
+      "pull_quote": "We walk by faith, not by sight.",
+      "reference_display": "2 Corinthians 5:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:6:6",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 6,
+      "chapter_end": 6,
+      "verse_start": 6,
+      "verse_end": 6,
+      "text": "I am weary with my groaning. Every night I flood my bed. I drench my couch with my tears.",
+      "pull_quote": "I am weary with my groaning.",
+      "reference_display": "Psalm 6:6",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:55:6",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 55,
+      "chapter_end": 55,
+      "verse_start": 6,
+      "verse_end": 6,
+      "text": "I said, “Oh that I had wings like a dove! Then I would fly away, and be at rest.",
+      "pull_quote": "Oh that I had wings like a dove! Then I would fly away, and be at rest.",
+      "reference_display": "Psalm 55:6",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ex:33:14",
+      "translation_id": "web-c",
+      "book_id": "ex",
+      "chapter_start": 33,
+      "chapter_end": 33,
+      "verse_start": 14,
+      "verse_end": 14,
+      "text": "He said, “My presence will go with you, and I will give you rest.”",
+      "pull_quote": "My presence will go with you, and I will give you rest.",
+      "reference_display": "Exodus 33:14",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:103:2",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 103,
+      "chapter_end": 103,
+      "verse_start": 2,
+      "verse_end": 2,
+      "text": "Praise the LORD, my soul, and don’t forget all his benefits,",
+      "pull_quote": "Praise the LORD, my soul, and don't forget all his benefits.",
+      "reference_display": "Psalm 103:2",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1chr:16:34",
+      "translation_id": "web-c",
+      "book_id": "1chr",
+      "chapter_start": 16,
+      "chapter_end": 16,
+      "verse_start": 34,
+      "verse_end": 34,
+      "text": "Oh give thanks to the LORD, for he is good, for his loving kindness endures forever.",
+      "pull_quote": "Give thanks to the LORD, for he is good.",
+      "reference_display": "1 Chronicles 16:34",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:eph:5:20",
+      "translation_id": "web-c",
+      "book_id": "eph",
+      "chapter_start": 5,
+      "chapter_end": 5,
+      "verse_start": 20,
+      "verse_end": 20,
+      "text": "giving thanks always concerning all things in the name of our Lord Jesus Christ to God, even the Father;",
+      "pull_quote": "Giving thanks always concerning all things.",
+      "reference_display": "Ephesians 5:20",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:lk:17:15",
+      "translation_id": "web-c",
+      "book_id": "lk",
+      "chapter_start": 17,
+      "chapter_end": 17,
+      "verse_start": 15,
+      "verse_end": 16,
+      "text": "One of them, when he saw that he was healed, turned back, glorifying God with a loud voice. He fell on his face at Jesus’ feet, giving him thanks; and he was a Samaritan.",
+      "pull_quote": "He turned back, glorifying God with a loud voice.",
+      "reference_display": "Luke 17:15-16",
+      "reference_alt": null
     }
   ],
   "entries": [
@@ -7413,6 +7699,366 @@
       "saint_quote": null,
       "saint_attribution": null,
       "liturgical_season": null
+    },
+    {
+      "id": "angry-ps-37-8",
+      "feeling_id": "angry",
+      "reflection": "The psalm places anger and fretting side by side, treating them as the same family of reaction, both leading only toward evildoing rather than resolution. There's no argument here for why the anger might be justified or not -- the counsel is simply to lay it down before it leads somewhere worse. Ceasing is presented as a choice available in the moment, not something that has to wait for the trigger itself to be resolved.",
+      "prayer": "Lord, I am angry right now, and I can already feel where this could lead if I don't set it down. Help me cease from it before it turns into something I'll regret, even while what caused it might still be completely unresolved. Give me the strength to lay this aside instead of feeding it.",
+      "intensity": "acute",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "angry-pr-29-11",
+      "feeling_id": "angry",
+      "reflection": "Proverbs draws a sharp contrast between venting everything and bringing oneself under control, without pretending the angry feeling itself is the problem -- both the fool and the wise man presumably feel something. The difference is entirely in what happens next, whether the anger is released in full or held and governed. Control here isn't suppression so much as restraint exercised on purpose.",
+      "prayer": "Lord, I don't want to vent everything I'm feeling right now and call it honesty. Help me bring myself under control instead, not by pretending I'm not angry, but by choosing not to let it all out onto whoever is nearest. Give me the wisdom to hold this well instead of releasing it carelessly.",
+      "intensity": "acute",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "angry-eccl-7-9",
+      "feeling_id": "angry",
+      "reflection": "The Preacher's warning is about hastiness specifically -- not anger itself but the speed with which it's allowed to take over the spirit. Anger resting in the bosom of fools suggests it's not the feeling that marks foolishness, but making it a permanent resident rather than a passing visitor. Slowness, in this small proverb, is itself a form of wisdom.",
+      "prayer": "Lord, slow me down before this anger settles somewhere it shouldn't. I don't want it to rest and make itself at home in me the way this proverb warns against. Help me feel it honestly without letting it become the thing I carry around long after the moment that caused it has passed.",
+      "intensity": "steady",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "angry-jas-1-20",
+      "feeling_id": "angry",
+      "reflection": "James makes a striking claim: human anger, however justified it might feel, doesn't actually produce the righteousness of God. This isn't a denial that some anger responds to real wrong, only an observation that the anger itself isn't the tool that fixes it. Whatever righteous outcome is hoped for will need to come from somewhere other than the anger's own momentum.",
+      "prayer": "Lord, I want the outcome of this situation to be righteous, but I know my anger by itself won't produce that, no matter how justified it feels. Help me pursue what's right through some means other than just letting this anger run its course. Don't let me confuse the intensity of my feeling with the rightness of my response.",
+      "intensity": "steady",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "angry-ro-12-19",
+      "feeling_id": "angry",
+      "reflection": "Paul's instruction assumes the wrong being responded to might be entirely real -- he doesn't ask believers to pretend no offense occurred, only to leave the repaying of it to God rather than taking it up themselves. \"Give place to God's wrath\" suggests stepping back rather than stepping in, trusting that justice doesn't depend on personal retaliation to be real. Vengeance being God's isn't a denial that it's deserved, only a reassignment of who carries it out.",
+      "prayer": "Lord, I want to make this right myself, but help me give place to you instead of taking revenge into my own hands. I'm not asking you to ignore what happened -- I'm asking you to be the one who deals with it, not me. Help me step back far enough to actually let that be true.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "angry-pr-16-32",
+      "feeling_id": "angry",
+      "reflection": "The proverb compares two kinds of strength that aren't normally weighed against each other -- military conquest and self-governance -- and rules decisively in favor of the quieter one. Being slow to anger is framed as a genuine achievement, not a passive absence of feeling but an active accomplishment worth more than taking a city. Ruling one's own spirit is named as the harder, more valuable victory.",
+      "prayer": "Lord, help me see ruling my own spirit right now as a real victory, even though it won't look like one to anyone watching. I don't need to win this argument or come out on top to prove anything. Make me slow to anger today, and let that slowness be the strength I actually walk away with.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guilt-ps-32-5",
+      "feeling_id": "guilt",
+      "reflection": "David doesn't describe a slow unburdening but a decisive act -- acknowledging, not hiding, saying plainly that he would confess. The forgiveness that follows arrives immediately in the verse's structure, right on the heels of the confession, with no gap described for punishment or probation in between. Guilt carried in silence and guilt spoken aloud are treated here as two entirely different situations.",
+      "prayer": "Lord, I don't want to hide this anymore, the way David describes trying not to. I'm confessing this to you plainly, without dressing it up or explaining it away. Let your forgiveness meet me as quickly as it met him, right on the other side of finally saying it out loud.",
+      "intensity": "acute",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guilt-mic-7-19",
+      "feeling_id": "guilt",
+      "reflection": "Micah's imagery is deliberately final -- sins trodden underfoot, cast into depths a person could never retrieve anything from. This isn't a partial or provisional removal; the sea's depths are used precisely because nothing thrown there is coming back up. Compassion is named as the reason behind the action, not a technicality or a loophole, but God's actual disposition toward the guilty.",
+      "prayer": "Lord, take this guilt and do with it what this verse describes -- tread it underfoot, cast it somewhere I can never retrieve it from again. I don't want to keep fishing this back out of the depths where you've already thrown it. Let your compassion be the reason I can finally leave it there.",
+      "intensity": "acute",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guilt-heb-10-22",
+      "feeling_id": "guilt",
+      "reflection": "The writer pairs an inward cleansing -- hearts sprinkled from an evil conscience -- with an outward one, the body washed with pure water, as if guilt needs to be addressed at both levels to actually draw near. A conscience isn't just corrected here; it's called evil, plainly, before it's described as being cleansed. Drawing near is only possible after that specific problem has been dealt with, not around it.",
+      "prayer": "Lord, sprinkle my heart clean from the conscience that keeps accusing me, the way this verse describes. I want to draw near to you in full assurance of faith, not hovering at a distance because I still feel disqualified. Wash whatever needs washing, inside as much as anything visible on the outside.",
+      "intensity": "steady",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guilt-jn-8-10",
+      "feeling_id": "guilt",
+      "reflection": "Jesus's question to the woman is almost rhetorical -- he already knows no one condemned her, since he's the one who sent her accusers away moments earlier. His own answer, \"neither do I condemn you,\" comes from the one person actually qualified to condemn her, which makes the refusal mean something the accusers' silence couldn't. The instruction that follows, to sin no more, comes after the acquittal, not as its condition.",
+      "prayer": "Lord, let me hear you say what you said to her -- that you don't condemn me either, even though you're the only one who actually could. I don't want to wait until I've cleaned myself up first to believe that's true. Help me go from here different, the way she did, because I was forgiven first, not the other way around.",
+      "intensity": "steady",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guilt-ps-51-7",
+      "feeling_id": "guilt",
+      "reflection": "David asks for something entirely done to him, not something he accomplishes himself -- purify me, wash me, both passive verbs directed at God as the actor. The comparison to snow is total, not a partial whitening but a complete transformation from whatever state came before. This is a request made from someone who clearly knows he cannot produce this cleanness on his own.",
+      "prayer": "Lord, purify me, the way David asked to be purified, because I know I can't scrub this clean myself no matter how hard I try. Wash me until there's nothing left of this guilt showing, not just managed or hidden but actually gone. Do the part of this that only you can do.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "guilt-ro-8-33-34",
+      "feeling_id": "guilt",
+      "reflection": "Paul phrases this as a legal scene with no one left standing to prosecute -- God himself is the one who justifies, and Christ, who could have condemned, instead died and was raised for the accused. The rhetorical questions don't need answers because none exist; there is no valid charge left once God has already ruled in the defendant's favor. Guilt that keeps arguing its case here is arguing against a verdict already settled.",
+      "prayer": "Lord, when guilt tries to bring a charge against me again, remind me that you're the one who justifies, and no other verdict has any standing next to that. I don't need to keep re-litigating something you've already settled. Let this be finished the way Paul describes it as finished, not something I keep reopening on my own.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "doubt-mt-14-31",
+      "feeling_id": "doubt",
+      "reflection": "Peter's doubt happens in the middle of an already miraculous act -- he was walking on water when the wind made him afraid and he began to sink. Jesus's question isn't rhetorical scorn; it comes attached to an immediate, physical rescue, his hand reaching out before any explanation is demanded. Doubt here doesn't disqualify Peter from being caught; it's simply the reason the catching was needed.",
+      "prayer": "Lord, I'm sinking a little right now, the way Peter did when he noticed the wind instead of you. Reach out and catch me the way you caught him, before you ask me anything about why I doubted. I'd rather be pulled up doubting than never have stepped out of the boat at all.",
+      "intensity": "acute",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "doubt-lk-1-37",
+      "feeling_id": "doubt",
+      "reflection": "The angel says this to Mary immediately after describing something that, by any ordinary measure, seemed impossible for her specific circumstances. The statement isn't a general platitude about God's power in the abstract; it's aimed directly at her particular doubt, her particular impossible thing. Nothing spoken by God is impossible doesn't erase the strangeness of what's being asked, only insists the strangeness isn't a barrier.",
+      "prayer": "Lord, the thing I'm doubting right now feels impossible by every ordinary measure I have. Speak to my specific doubt the way the angel spoke to Mary's, not just in general terms but aimed right at what I actually can't see how you'd do. Help me trust that nothing you've spoken is impossible, even this.",
+      "intensity": "acute",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "doubt-ro-4-20",
+      "feeling_id": "doubt",
+      "reflection": "Paul's description of Abraham doesn't pretend the promise wasn't genuinely hard to believe -- his own body and Sarah's were long past the age this promise required. Wavering is named as a real possibility Abraham could have chosen but didn't; growing strong through faith is presented as an active process, not an instant, effortless certainty. Giving glory to God happens in the choosing, before the promise is even fulfilled.",
+      "prayer": "Lord, like Abraham, I'm looking at a promise that seems to run against everything I can currently see. Help me not waver through unbelief, even though wavering would be an understandable response to my circumstances. Grow me strong through faith the way he grew, in the waiting, not just once the answer finally arrives.",
+      "intensity": "steady",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "doubt-hab-2-4",
+      "feeling_id": "doubt",
+      "reflection": "Habakkuk sets up a contrast between a soul that's puffed up and unrighteous, and the righteous person, whose defining characteristic is simply that they live by faith. Living by faith isn't described as a single decision but an ongoing way of existing, a daily posture rather than a one-time leap. It's a short verse, but it names faith as the mechanism of an entire life, not just an answer to a momentary crisis of doubt.",
+      "prayer": "Lord, let me live by faith the way this verse describes, not just believe by faith in a single moment and then go back to my own resources. I don't want to be puffed up and self-reliant when doubt makes that feel safer. Make faith the ongoing way I live, today and on the days after this doubt has passed.",
+      "intensity": "steady",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "doubt-jn-11-40",
+      "feeling_id": "doubt",
+      "reflection": "Jesus asks Martha this question before Lazarus is raised, tying belief directly to what she's about to witness rather than treating them as unrelated. He doesn't rebuke her doubt so much as remind her of something he'd already told her, as if the promise had simply slipped from view under the weight of grief. Seeing God's glory is presented as conditioned on believing first, not the other way around.",
+      "prayer": "Lord, remind me, like you reminded Martha, of what you've already told me, because I think I've let doubt make me forget it. Help me believe before I see, trusting that the glory is still coming even though I can't see how yet. Don't let my grief or my doubt erase a promise you already made me.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "doubt-2cor-5-7",
+      "feeling_id": "doubt",
+      "reflection": "Paul states this almost in passing, as a settled principle rather than something still being argued for -- the walking, the ongoing daily movement of life, happens by faith, with sight explicitly ruled out as the basis. This doesn't mean sight is bad or faith is blind, only that faith is built for exactly the terrain sight can't cover. Doubt often wants proof before it will move; this verse describes moving before the proof arrives.",
+      "prayer": "Lord, I keep wanting to see before I'll walk, but you've made it clear that faith, not sight, is how this actually works. Help me take the next step today even without being able to see where it leads. Let walking by faith be something I actually do, not just a phrase I know.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "weary-isa-40-29",
+      "feeling_id": "weary",
+      "reflection": "Isaiah specifically targets the weak and those with no might, not the generally capable person who's simply had a long day -- this promise is aimed at genuine depletion, not mild inconvenience. Power and strength are given, not summoned from some reserve the tired person is expected to find in themselves. The verse assumes there's nothing left to draw on internally before it describes God supplying it externally.",
+      "prayer": "Lord, I have no might left of my own right now, and I'm not pretending otherwise. Give me power the way this verse says you give it, to those who have genuinely run out. Increase the strength I don't have, because I can't manufacture it myself tonight.",
+      "intensity": "acute",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "weary-ps-6-6",
+      "feeling_id": "weary",
+      "reflection": "David doesn't soften the language of his exhaustion -- weary with groaning, a bed flooded, a couch drenched with tears, images of a body and a night both overwhelmed by sorrow. This is weariness with a specific cause named directly, grief rather than generic tiredness, and it's allowed to be described in full, physical detail. Nothing here rushes toward resolution; the verse simply names how bad the night has been.",
+      "prayer": "Lord, my weariness tonight feels as physical as David describes his -- worn out from grief, not just from a long day. I'm not going to pretend this is smaller than it is. Meet me in this flooded, drenched kind of tired, and be present even before anything gets better.",
+      "intensity": "acute",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "weary-2cor-4-16",
+      "feeling_id": "weary",
+      "reflection": "Paul acknowledges an outward decay happening in real time, not a temporary setback but an ongoing process -- and sets an equally ongoing renewal against it, happening on the inside at the same pace. Not fainting doesn't mean not feeling the decay; it means having something else sustaining underneath it that the decay can't touch. Renewal here is daily, matched to the daily wearing down rather than a one-time fix.",
+      "prayer": "Lord, my outward self feels like it's decaying a little more each day, and I'm not going to pretend it isn't. Renew my inward self at the same pace, every single day, so I don't faint under the weight of what's wearing down. Let there be something in me growing even while something else is fading.",
+      "intensity": "steady",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "weary-ps-55-6",
+      "feeling_id": "weary",
+      "reflection": "David's wish for wings isn't really about literal flight; it's the specific fantasy of exhaustion, the desire to simply be elsewhere, away from whatever is wearing him down. He doesn't act on it or pretend it's a real plan -- it's named honestly as a longing for rest, admitted rather than acted out. Even unfulfilled, saying the wish out loud seems to be part of what the psalm offers him.",
+      "prayer": "Lord, some days I wish I could just fly away from all of this, the way David wished for a dove's wings. I'm not asking you to make that happen -- I'm asking you to hear the wish honestly, the way this psalm lets him say it out loud. Give me the rest I'm actually looking for, even if it doesn't come by leaving.",
+      "intensity": "steady",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "weary-mt-11-29",
+      "feeling_id": "weary",
+      "reflection": "Jesus offers a yoke, of all things, as the answer to weariness -- not the removal of all work, but a particular kind of work done alongside him rather than alone. Learning from him is part of the invitation, not just resting but being taught something in the process. Rest for the soul, specifically, is what's promised, distinct from simply having less to do.",
+      "prayer": "Lord, teach me to take your yoke instead of trying to carry everything the way I have been. I don't need every task removed -- I need the particular rest for my soul that you're offering here. Let me learn from you in this, gentle and humble, instead of wearing myself out trying to prove something.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "weary-ex-33-14",
+      "feeling_id": "weary",
+      "reflection": "Moses had just asked God directly not to send the people onward without his own presence going with them -- this promise is God's answer to that specific request. Presence and rest are linked directly in the same sentence, as though rest without that presence wasn't really being offered as an option. The rest promised isn't a pause from the journey but something carried along within it.",
+      "prayer": "Lord, go with me the way you promised to go with Moses, because I don't want rest that comes from anywhere except your presence. Let your presence be what actually rests me, not a break from the journey but something real inside it. Don't send me onward without you, even when I'm this tired.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grateful-ps-103-2",
+      "feeling_id": "grateful",
+      "reflection": "David addresses his own soul directly, as though gratitude needs to be actively summoned rather than simply arriving on its own -- \"praise the LORD, my soul,\" a command given to himself. The warning not to forget implies forgetting is the real danger, not ingratitude as a decision but simple forgetfulness about what's already been given. Remembering benefits, specifically, is treated as an act worth doing on purpose.",
+      "prayer": "Lord, like David, I need to speak to my own soul today and remind it not to forget what you've already done. Help me actually remember your benefits instead of letting them slip past unnoticed the way they usually do. Let gratitude be something I choose to practice, not just a feeling I wait to arrive.",
+      "intensity": "steady",
+      "depth_order": 5,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grateful-1chr-16-34",
+      "feeling_id": "grateful",
+      "reflection": "This refrain -- give thanks, for he is good, for his loving kindness endures forever -- appears again and again throughout Israel's worship, repeated so often it becomes almost a reflex rather than a fresh realization each time. The reason given for thanks isn't circumstantial; it's God's own character and his loving kindness's endurance, true regardless of how the day itself went. Repetition here isn't hollow; it's rehearsal of something true enough to bear saying constantly.",
+      "prayer": "Lord, let me give thanks today for who you are, not just for how today happened to go. Your loving kindness endures whether or not I remembered to notice it, so help me notice it now. Let this thanks become as steady a habit in me as it clearly was meant to be.",
+      "intensity": "steady",
+      "depth_order": 6,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grateful-eph-5-20",
+      "feeling_id": "grateful",
+      "reflection": "Paul's instruction is strikingly total -- thanks given always, concerning all things, with no exceptions carved out for the circumstances that don't seem to warrant it. This isn't gratitude only for the good and pleasant; it's a posture applied across the whole range of what happens. The thanks is directed specifically to God the Father in Jesus's name, giving it a particular addressee rather than being vague appreciation into the air.",
+      "prayer": "Lord, help me give thanks always, concerning all things, not just the parts of today that were easy to be grateful for. I know that's a high bar, so meet me in the effort of it rather than expecting me to arrive there instantly. Let my thanks be specifically to you, not just a general good feeling I can't name the source of.",
+      "intensity": "settled",
+      "depth_order": 7,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grateful-jas-1-17",
+      "feeling_id": "grateful",
+      "reflection": "James traces every good and perfect gift back to a single source, the Father of lights, deliberately excluding the possibility that good things simply happen on their own. The description of God as unchanging, without variation or shifting shadow, means the source of good gifts isn't inconsistent or moody about giving them. Gratitude, in this light, is really just accurate accounting of where things actually came from.",
+      "prayer": "Lord, help me trace the good things in my life back to you, the way James says every good gift really does come from you. You don't change or shift like the things you've given me sometimes do, so let my gratitude rest on something as steady as you are. Thank you for being the actual source, even of the gifts I forget to credit to you.",
+      "intensity": "settled",
+      "depth_order": 8,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grateful-lk-17-15",
+      "feeling_id": "grateful",
+      "reflection": "Of the ten lepers healed in this story, only one returns, and Luke makes a point of describing exactly what that return looked like -- turning back, glorifying God loudly, falling at Jesus's feet. The nine who didn't return presumably still received the same healing; gratitude wasn't a condition of the gift, only of what came after receiving it. This one man's response is held up precisely because it wasn't the default.",
+      "prayer": "Lord, let me be the one who turns back, the way only one of the ten did, instead of just taking the gift and moving on with my life. I don't want gratitude to be the rare exception in how I respond to what you've done for me. Help me fall down in thanks as loudly and openly as he did.",
+      "intensity": "settled",
+      "depth_order": 9,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "grateful-ps-92-1",
+      "feeling_id": "grateful",
+      "reflection": "The psalm calls giving thanks and singing praise \"a good thing,\" a strikingly understated way to describe worship, as if its goodness is simply self-evident and doesn't need elaborate justification. Addressing God as \"Most High\" places the thanks in the context of who's actually being thanked, not a vague gratitude floating without an object. Singing is specified alongside thanks, suggesting gratitude here is meant to be expressed, not just felt privately.",
+      "prayer": "Lord, it's a good thing to give you thanks, exactly as simply as this psalm says it, so let me not overcomplicate it. Let my gratitude actually reach you, addressed to you as Most High, not just a private feeling I keep to myself. Give me a reason to sing today, and let this thanks be part of what I sing.",
+      "intensity": "settled",
+      "depth_order": 10,
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
     }
   ],
   "entry_passages": [
@@ -8253,6 +8899,186 @@
     {
       "entry_id": "lonely-ps-27-10",
       "passage_id": "web-c:ps:27:10",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "angry-ps-37-8",
+      "passage_id": "web-c:ps:37:8",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "angry-pr-29-11",
+      "passage_id": "web-c:pr:29:11",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "angry-eccl-7-9",
+      "passage_id": "web-c:eccl:7:9",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "angry-jas-1-20",
+      "passage_id": "web-c:jas:1:20",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "angry-ro-12-19",
+      "passage_id": "web-c:ro:12:19",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "angry-pr-16-32",
+      "passage_id": "web-c:pr:16:32",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guilt-ps-32-5",
+      "passage_id": "web-c:ps:32:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guilt-mic-7-19",
+      "passage_id": "web-c:mic:7:19",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guilt-heb-10-22",
+      "passage_id": "web-c:heb:10:22",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guilt-jn-8-10",
+      "passage_id": "web-c:jn:8:10",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guilt-ps-51-7",
+      "passage_id": "web-c:ps:51:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "guilt-ro-8-33-34",
+      "passage_id": "web-c:ro:8:33",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "doubt-mt-14-31",
+      "passage_id": "web-c:mt:14:31",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "doubt-lk-1-37",
+      "passage_id": "web-c:lk:1:37",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "doubt-ro-4-20",
+      "passage_id": "web-c:ro:4:20",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "doubt-hab-2-4",
+      "passage_id": "web-c:hab:2:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "doubt-jn-11-40",
+      "passage_id": "web-c:jn:11:40",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "doubt-2cor-5-7",
+      "passage_id": "web-c:2cor:5:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "weary-isa-40-29",
+      "passage_id": "web-c:isa:40:29",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "weary-ps-6-6",
+      "passage_id": "web-c:ps:6:6",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "weary-2cor-4-16",
+      "passage_id": "web-c:2cor:4:16",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "weary-ps-55-6",
+      "passage_id": "web-c:ps:55:6",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "weary-mt-11-29",
+      "passage_id": "web-c:mt:11:29",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "weary-ex-33-14",
+      "passage_id": "web-c:ex:33:14",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grateful-ps-103-2",
+      "passage_id": "web-c:ps:103:2",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grateful-1chr-16-34",
+      "passage_id": "web-c:1chr:16:34",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grateful-eph-5-20",
+      "passage_id": "web-c:eph:5:20",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grateful-jas-1-17",
+      "passage_id": "web-c:jas:1:17",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grateful-lk-17-15",
+      "passage_id": "web-c:lk:17:15",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "grateful-ps-92-1",
+      "passage_id": "web-c:ps:92:1",
       "position": 0,
       "role": "primary"
     }
