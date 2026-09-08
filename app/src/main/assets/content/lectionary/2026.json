@@ -22320,7 +22320,8 @@
               "chapter_end": 19,
               "verse_end": 5
             }
-          ]
+          ],
+          "refrain": "Their message goes out through all the earth."
         },
         {
           "role": "gospel",
@@ -22726,7 +22727,8 @@
               "chapter_end": 23,
               "verse_end": 6
             }
-          ]
+          ],
+          "refrain": "The Lord is my shepherd; there is nothing I shall want."
         },
         {
           "role": "second_reading",
@@ -22753,6 +22755,20 @@
               "verse_end": 40
             }
           ]
+        },
+        {
+          "role": "acclamation",
+          "citation_display": "Matthew 25:34",
+          "refs": [
+            {
+              "book_id": "mt",
+              "chapter_start": 25,
+              "verse_start": 34,
+              "chapter_end": 25,
+              "verse_end": 34
+            }
+          ],
+          "refrain": "Alleluia, alleluia."
         }
       ],
       "reflection": "Wisdom insists that \"the souls of the righteous are in the hand of God, and no torment will touch them\" -- what looks like disaster to human eyes is, in God's sight, peace. Today's feast of All Souls turns the Church's attention to the faithful departed, praying them toward the fullness of that peace, trusting Paul's confidence that \"while we were yet sinners, Christ died for us\" and that this reconciling love doesn't stop working at death. Jesus promises that of all the Father has given him, he will \"lose nothing, but will raise it up at the last day\" -- a promise that reaches every soul entrusted to him, including those now only remembered in prayer. Wisdom's peace, Paul's reconciling love, and Jesus' promise to lose nothing together are exactly what the Church asks for the dead today: not that they be forgotten, but that they be fully received."
@@ -23428,7 +23444,8 @@
               "chapter_end": 37,
               "verse_end": 29
             }
-          ]
+          ],
+          "refrain": "The salvation of the just comes from the Lord."
         },
         {
           "role": "gospel",
@@ -23442,6 +23459,20 @@
               "verse_end": 10
             }
           ]
+        },
+        {
+          "role": "acclamation",
+          "citation_display": "John 14:23",
+          "refs": [
+            {
+              "book_id": "jn",
+              "chapter_start": 14,
+              "verse_start": 23,
+              "chapter_end": 14,
+              "verse_end": 23
+            }
+          ],
+          "refrain": "Alleluia, alleluia."
         }
       ],
       "reflection": "Paul instructs Titus on sound teaching for every generation, grounded in the fact that \"the grace of God has appeared, bringing salvation to all,\" training believers to live soberly and righteously while awaiting Christ's return. Jesus tells his disciples that even after doing everything commanded, they should simply say, \"we are unworthy servants, we have done our duty\" -- no room for self-congratulation in ordinary obedience. Paul's picture of grace training an entire community across every age and role, and Jesus' insistence that faithful service doesn't earn special credit, both locate real virtue in quiet, unglamorous consistency rather than in dramatic achievement. What grace produces, in both readings, looks less like heroism and more like simply doing, faithfully, whatever was asked."
@@ -23496,7 +23527,8 @@
               "chapter_end": 23,
               "verse_end": 6
             }
-          ]
+          ],
+          "refrain": "The Lord is my shepherd; there is nothing I shall want."
         },
         {
           "role": "gospel",
@@ -23510,6 +23542,20 @@
               "verse_end": 19
             }
           ]
+        },
+        {
+          "role": "acclamation",
+          "citation_display": "1 Thessalonians 5:18",
+          "refs": [
+            {
+              "book_id": "1the",
+              "chapter_start": 5,
+              "verse_start": 18,
+              "chapter_end": 5,
+              "verse_end": 18
+            }
+          ],
+          "refrain": "Alleluia, alleluia."
         }
       ],
       "reflection": "Paul reminds Titus that \"we ourselves were once foolish, disobedient, deceived,\" saved not by anything we did but by God's mercy alone, poured out richly through the Holy Spirit. Ten lepers cry out to Jesus for mercy and are healed, but only one -- a Samaritan, an outsider by every category that mattered -- turns back to give thanks, and Jesus asks, \"where are the nine?\" Paul's reminder that salvation was never earned in the first place, and Jesus' pointed question about the nine who didn't return, both expose how easily a gift, once received, can simply be taken for granted. The one leper who came back, aware of exactly what he'd been given, is the model both readings are quietly asking for: gratitude that actually returns to say thank you."
@@ -24089,7 +24135,8 @@
               "chapter_end": 150,
               "verse_end": 6
             }
-          ]
+          ],
+          "refrain": "Holy, holy, holy Lord, mighty God!"
         },
         {
           "role": "gospel",
@@ -24103,6 +24150,20 @@
               "verse_end": 28
             }
           ]
+        },
+        {
+          "role": "acclamation",
+          "citation_display": "See John 15:16",
+          "refs": [
+            {
+              "book_id": "jn",
+              "chapter_start": 15,
+              "verse_start": 16,
+              "chapter_end": 15,
+              "verse_end": 16
+            }
+          ],
+          "refrain": "Alleluia, alleluia."
         }
       ],
       "reflection": "John is caught up through an open door in heaven, and sees a throne surrounded by twenty-four elders and four living creatures, endlessly crying, \"holy, holy, holy.\" Jesus tells the parable of a nobleman who entrusts money to his servants before departing, only to find on his return that they've used what he gave them very differently -- some faithfully, one not at all. John's vision of heaven's endless, undistracted worship and Jesus' parable of servants held accountable for what they did with what they were given both press toward the same reality: everything currently entrusted to us is being lived out in view of a throne that doesn't go away just because it's presently unseen. The worship John glimpses in heaven is exactly the horizon Jesus' parable assumes his servants are meant to be living toward."
@@ -24330,7 +24391,8 @@
               "chapter_end": 144,
               "verse_end": 10
             }
-          ]
+          ],
+          "refrain": "Blessed be the Lord, my Rock!"
         },
         {
           "role": "gospel",
@@ -24344,6 +24406,20 @@
               "verse_end": 40
             }
           ]
+        },
+        {
+          "role": "acclamation",
+          "citation_display": "See 2 Timothy 1:10",
+          "refs": [
+            {
+              "book_id": "2tim",
+              "chapter_start": 1,
+              "verse_start": 10,
+              "chapter_end": 1,
+              "verse_end": 10
+            }
+          ],
+          "refrain": "Alleluia, alleluia."
         }
       ],
       "reflection": "John sees two witnesses given extraordinary power to prophesy, only to be overcome and killed by the beast -- and yet, after three and a half days, raised again before the eyes of their enemies. The Sadducees try to trap Jesus with an absurd hypothetical about levirate marriage and the resurrection, and Jesus answers plainly that those counted worthy of the age to come \"can no longer die, for they are like the angels, and are children of the resurrection.\" John's witnesses raised after apparent defeat and Jesus' direct defense of the resurrection against clever but ultimately empty objections both insist that death does not get the final word, however convincingly it seems to for a while. What the Sadducees tried to reduce to an absurd puzzle, John's vision shows lived out concretely: God does not leave his faithful witnesses in the ground."
@@ -24508,7 +24584,8 @@
               "chapter_end": 24,
               "verse_end": 6
             }
-          ]
+          ],
+          "refrain": "Lord, this is the people that longs to see your face."
         },
         {
           "role": "gospel",
@@ -24522,6 +24599,27 @@
               "verse_end": 4
             }
           ]
+        },
+        {
+          "role": "acclamation",
+          "citation_display": "Matthew 24:42a, 44",
+          "refs": [
+            {
+              "book_id": "mt",
+              "chapter_start": 24,
+              "verse_start": 42,
+              "chapter_end": 24,
+              "verse_end": 42
+            },
+            {
+              "book_id": "mt",
+              "chapter_start": 24,
+              "verse_start": 44,
+              "chapter_end": 24,
+              "verse_end": 44
+            }
+          ],
+          "refrain": "Alleluia, alleluia."
         }
       ],
       "reflection": "John sees the Lamb standing on Mount Zion with the redeemed, singing a new song no one else could learn, blameless and following the Lamb wherever he goes. Jesus watches a poor widow put two small coins into the temple treasury and declares that she has given more than all the wealthy donors combined, because she gave \"out of her poverty... all she had to live on.\" John's vision of the redeemed following the Lamb without reservation, and the widow's total, unhesitating gift of everything she had, both describe the same completeness of devotion -- nothing important held back. What made the widow's small gift greater than the rich donors' abundance is exactly what made the redeemed in John's vision able to sing a song no one else could learn: they gave the whole of what they had, not merely what was easy to spare."
@@ -25092,7 +25190,8 @@
               "chapter_end": 19,
               "verse_end": 11
             }
-          ]
+          ],
+          "refrain": "The judgments of the Lord are true, and all of them are just"
         },
         {
           "role": "gospel",
@@ -25106,6 +25205,20 @@
               "verse_end": 22
             }
           ]
+        },
+        {
+          "role": "acclamation",
+          "citation_display": "Matthew 4:19",
+          "refs": [
+            {
+              "book_id": "mt",
+              "chapter_start": 4,
+              "verse_start": 19,
+              "chapter_end": 4,
+              "verse_end": 19
+            }
+          ],
+          "refrain": "Alleluia, alleluia."
         }
       ],
       "reflection": "Paul writes that \"everyone who calls on the name of the Lord will be saved,\" but asks how anyone can call on someone they haven't heard about, or hear without a preacher sent to tell them. Today's feast of St Andrew the Apostle shows exactly this chain in action: Jesus calls two fishermen by the Sea of Galilee, \"come after me, and I will make you fish for people,\" and Andrew, one of the first called, immediately leaves his nets to follow. Paul's insistence that faith comes by hearing, and hearing by someone actually being sent, finds its very first link in Andrew's own quiet obedience -- leaving his nets the moment he was called, so that the message could keep being carried forward from him to others. What Paul describes as a whole chain of hearing and sending starts, in the Gospel, with one ordinary fisherman simply saying yes and walking away from his nets."
@@ -25298,7 +25411,8 @@
               "chapter_end": 118,
               "verse_end": 27
             }
-          ]
+          ],
+          "refrain": "Blessed is he who comes in the name of the Lord"
         },
         {
           "role": "gospel",
@@ -25319,6 +25433,20 @@
               "verse_end": 27
             }
           ]
+        },
+        {
+          "role": "acclamation",
+          "citation_display": "Isaiah 55:6",
+          "refs": [
+            {
+              "book_id": "isa",
+              "chapter_start": 55,
+              "verse_start": 6,
+              "chapter_end": 55,
+              "verse_end": 6
+            }
+          ],
+          "refrain": "Alleluia, alleluia."
         }
       ],
       "reflection": "Isaiah sings of a strong city whose gates open for the righteous nation that keeps faith, promising perfect peace to whoever trusts steadfastly in the LORD. Jesus warns that not everyone who calls him Lord will enter the Kingdom, but only the one who hears his words and acts on them -- like a wise man who builds his house on rock rather than sand. Today's feast of Francis Xavier, who carried the gospel across Asia at enormous personal cost, embodies exactly this kind of house built on rock: faith not merely professed but actually lived out under real pressure. Isaiah's promise of steadfast peace for those who trust, and Jesus' image of a house that survives the storm because it was built on the right foundation, both describe a faith tested and proven, not just spoken."
@@ -25869,7 +25997,8 @@
               "chapter_end": 145,
               "verse_end": 13
             }
-          ]
+          ],
+          "refrain": "The Lord is gracious and merciful; slow to anger, and of great kindness."
         },
         {
           "role": "gospel",
@@ -25883,6 +26012,20 @@
               "verse_end": 15
             }
           ]
+        },
+        {
+          "role": "acclamation",
+          "citation_display": "See Isaiah 45:8",
+          "refs": [
+            {
+              "book_id": "isa",
+              "chapter_start": 45,
+              "verse_start": 8,
+              "chapter_end": 45,
+              "verse_end": 8
+            }
+          ],
+          "refrain": "Alleluia, alleluia."
         }
       ],
       "reflection": "Isaiah hears God say, \"do not be afraid, I will help you... your Redeemer is the Holy One of Israel,\" turning the poor and needy's thirst into springs of water in the wilderness. Jesus tells the crowd that among those born of women, none is greater than John the Baptist, and yet the least in the Kingdom of Heaven is greater still -- John himself being, if they're willing to receive it, the promised Elijah. Isaiah's God who takes hold of the fearful by the hand, and Jesus' honoring of John as the greatest of the old order while still pointing past him to something greater still coming, both describe a hope that keeps building on what came before rather than discarding it. John's own greatness, in Jesus' own words, was always in service of pointing toward someone greater than himself."
@@ -26268,7 +26411,8 @@
               "chapter_end": 34,
               "verse_end": 23
             }
-          ]
+          ],
+          "refrain": "The Lord hears the cry of the poor."
         },
         {
           "role": "gospel",
@@ -27335,7 +27479,8 @@
               "chapter_end": 124,
               "verse_end": 8
             }
-          ]
+          ],
+          "refrain": "Our soul has been rescued like a bird from the fowler's snare."
         },
         {
           "role": "gospel",
@@ -27534,7 +27679,8 @@
               "chapter_end": 96,
               "verse_end": 13
             }
-          ]
+          ],
+          "refrain": "Let the heavens be glad and the earth rejoice!"
         },
         {
           "role": "gospel",
@@ -27548,6 +27694,27 @@
               "verse_end": 18
             }
           ]
+        },
+        {
+          "role": "acclamation",
+          "citation_display": "John 1:14a, 12a",
+          "refs": [
+            {
+              "book_id": "jn",
+              "chapter_start": 1,
+              "verse_start": 14,
+              "chapter_end": 1,
+              "verse_end": 14
+            },
+            {
+              "book_id": "jn",
+              "chapter_start": 1,
+              "verse_start": 12,
+              "chapter_end": 1,
+              "verse_end": 12
+            }
+          ],
+          "refrain": "Alleluia, alleluia."
         }
       ],
       "reflection": "John warns that the last hour has come, and that many antichrists have already appeared -- deceivers who never truly belonged, revealed by the fact that they eventually left. On this final day of the calendar year, the Church returns to John's Gospel prologue once more: \"in the beginning was the Word... and the Word became flesh and dwelt among us, full of grace and truth.\" John's warning about deception even within the community of believers, read alongside the same Prologue that opened Advent's fulfillment on Christmas Day, brackets the whole year just past with the same anchor: whatever else has shifted or proven false, the Word remains, full of grace and truth, unchanged since before the world began. As one year ends and another begins, both readings insist that the deepest reality was never in question -- it's already been declared, in the beginning, and it still holds."
