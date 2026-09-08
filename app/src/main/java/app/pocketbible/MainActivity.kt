@@ -187,11 +187,11 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                         .height(80.dp)
                 ) {
                     // Weights (sum to 5, same total width as 5 equal 1/5 shares):
-                    // Topics/Bible 0.9 each, Personalities 1.2 (the longest label,
-                    // forced onto one line), Readings & Reflection and Stories back
-                    // to a normal-or-better 1.0 each -- "Readings &\nReflection" is a
+                    // Topics/Bible 0.9 each, Readings & Reflection and Stories a
+                    // normal-or-better 1.0 each -- "Readings &\nReflection" is a
                     // deliberate two-line label (see nav_daily), so it doesn't need
-                    // the extra width Personalities does.
+                    // the extra width Personalities does, which gets 1.2 (the
+                    // longest label, forced onto one line).
                     WeightedNavItem(
                         weight = 0.9f,
                         selected = currentRoute == "home" || currentRoute == "verse" || currentRoute == null,
@@ -217,18 +217,6 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                         label = { NavLabel(stringResource(R.string.nav_read)) }
                     )
                     WeightedNavItem(
-                        weight = 1.2f,
-                        selected = currentRoute in characterRoutes,
-                        onClick = { navController.navigate("characters") { launchSingleTop = true } },
-                        icon = {
-                            Icon(
-                                if (currentRoute in characterRoutes) Icons.Filled.People else Icons.Outlined.People,
-                                contentDescription = null
-                            )
-                        },
-                        label = { NavLabel(stringResource(R.string.nav_characters)) }
-                    )
-                    WeightedNavItem(
                         weight = 1.0f,
                         selected = currentRoute == "daily",
                         onClick = { navController.navigate("daily") { launchSingleTop = true } },
@@ -239,6 +227,18 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                             )
                         },
                         label = { NavLabel(stringResource(R.string.nav_daily)) }
+                    )
+                    WeightedNavItem(
+                        weight = 1.2f,
+                        selected = currentRoute in characterRoutes,
+                        onClick = { navController.navigate("characters") { launchSingleTop = true } },
+                        icon = {
+                            Icon(
+                                if (currentRoute in characterRoutes) Icons.Filled.People else Icons.Outlined.People,
+                                contentDescription = null
+                            )
+                        },
+                        label = { NavLabel(stringResource(R.string.nav_characters)) }
                     )
                     WeightedNavItem(
                         weight = 1.0f,
