@@ -2,8 +2,364 @@
   "language": "de",
   "refrain_translations": [
     {
+      "refrain_id": "alleluia",
+      "text": "Halleluja."
+    },
+    {
       "refrain_id": "alleluia_alleluia",
       "text": "Halleluja, Halleluja."
+    },
+    {
+      "refrain_id": "behave_like_god_as_his_very",
+      "text": "Verhaltet euch wie Gottes geliebte Kinder."
+    },
+    {
+      "refrain_id": "blessed_are_all_who_wait_for",
+      "text": "Selig, wer auf den Herrn wartet."
+    },
+    {
+      "refrain_id": "blessed_are_they_who_follow_the",
+      "text": "Selig, die dem Gesetz des Herrn folgen!"
+    },
+    {
+      "refrain_id": "blessed_are_those_who_fear_the",
+      "text": "Selig, wer den Herrn fürchtet und auf seinen Wegen geht."
+    },
+    {
+      "refrain_id": "blessed_are_those_who_fear_the_2",
+      "text": "Selig, wer den Herrn fürchtet."
+    },
+    {
+      "refrain_id": "blessed_be_the_lord_my_rock",
+      "text": "Gepriesen sei der Herr, mein Fels!"
+    },
+    {
+      "refrain_id": "blessed_be_the_lord_the_god",
+      "text": "Gepriesen sei der Herr, der Gott Israels; er hat sein Volk besucht."
+    },
+    {
+      "refrain_id": "blessed_is_he_who_comes_in",
+      "text": "Gesegnet sei er, der kommt im Namen des Herrn!"
+    },
+    {
+      "refrain_id": "blessed_the_man_who_fears_the",
+      "text": "Selig der Mann, der den Herrn fürchtet."
+    },
+    {
+      "refrain_id": "blessed_the_people_the_lord_has",
+      "text": "Selig das Volk, das der Herr sich zum Erbe erwählt hat."
+    },
+    {
+      "refrain_id": "do_not_forget_the_works_of",
+      "text": "Vergiss nicht die Taten des Herrn!"
+    },
+    {
+      "refrain_id": "exult_you_just_in_the_lord",
+      "text": "Jubelt, ihr Gerechten, im Herrn! Singt ihm ein neues Lied."
+    },
+    {
+      "refrain_id": "for_ever_i_will_sing_the",
+      "text": "Ich will die Huld des Herrn ewig besingen."
+    },
+    {
+      "refrain_id": "give_thanks_to_the_lord_for",
+      "text": "Danket dem Herrn, denn er ist gütig."
+    },
+    {
+      "refrain_id": "give_the_lord_glory_and_honor",
+      "text": "Gebt dem Herrn Ehre und Macht."
+    },
+    {
+      "refrain_id": "go_out_to_all_the_world",
+      "text": "Geht hinaus in die ganze Welt und verkündet die frohe Botschaft."
+    },
+    {
+      "refrain_id": "great_and_wonderful_are_all_your",
+      "text": "Groß und wunderbar sind deine Werke, Herr, du allmächtiger Gott!"
+    },
+    {
+      "refrain_id": "guide_me_lord_along_the_everlasting",
+      "text": "Führe mich, Herr, auf dem ewigen Weg."
+    },
+    {
+      "refrain_id": "guide_me_lord_in_the_way",
+      "text": "Führe mich, Herr, auf dem Weg deiner Gebote."
+    },
+    {
+      "refrain_id": "here_god_lives_among_his_people",
+      "text": "Hier wohnt Gott mitten unter seinem Volk."
+    },
+    {
+      "refrain_id": "holy_holy_holy_lord_mighty_god",
+      "text": "Heilig, heilig, heilig ist der Herr, der allmächtige Gott!"
+    },
+    {
+      "refrain_id": "how_lovely_is_your_dwelling_place",
+      "text": "Wie liebenswert ist deine Wohnung, Herr der Heerscharen!"
+    },
+    {
+      "refrain_id": "how_sweet_to_my_taste_is",
+      "text": "Wie süß ist mir dein Wort, süßer als Honig meinem Mund!"
+    },
+    {
+      "refrain_id": "i_believe_that_i_shall_see",
+      "text": "Ich glaube fest, dass ich die Güte des Herrn schauen werde im Land der Lebenden."
+    },
+    {
+      "refrain_id": "i_love_you_lord_my_strength",
+      "text": "Ich liebe dich, Herr, meine Stärke."
+    },
+    {
+      "refrain_id": "i_shall_live_in_the_house",
+      "text": "Im Haus des Herrn darf ich wohnen für alle Zeit."
+    },
+    {
+      "refrain_id": "i_will_praise_you_lord_in",
+      "text": "Ich will dich loben, Herr, in der Versammlung deines Volkes."
+    },
+    {
+      "refrain_id": "i_will_seat_the_victor_beside",
+      "text": "Wer siegt, den werde ich neben mir auf meinem Thron sitzen lassen."
+    },
+    {
+      "refrain_id": "i_will_walk_in_the_presence",
+      "text": "Ich werde wandeln vor dem Angesicht des Herrn im Land der Lebenden."
+    },
+    {
+      "refrain_id": "if_today_you_hear_his_voice",
+      "text": "Heute, wenn ihr seine Stimme hört, verhärtet eure Herzen nicht."
+    },
+    {
+      "refrain_id": "in_every_age_o_lord_you",
+      "text": "Herr, du bist unsere Zuflucht von Geschlecht zu Geschlecht."
+    },
+    {
+      "refrain_id": "in_the_sight_of_the_angels",
+      "text": "Vor den Engeln will ich dir singen, Herr."
+    },
+    {
+      "refrain_id": "incline_your_ear_to_me_and",
+      "text": "Neige mir dein Ohr zu und höre auf mein Wort."
+    },
+    {
+      "refrain_id": "into_your_hands_o_lord_i",
+      "text": "Herr, in deine Hände lege ich meinen Geist."
+    },
+    {
+      "refrain_id": "justice_shall_flourish_in_his_time",
+      "text": "In seinen Tagen erblühe die Gerechtigkeit und Fülle des Friedens auf ewig."
+    },
+    {
+      "refrain_id": "lead_me_in_your_justice_lord",
+      "text": "Herr, leite mich in deiner Gerechtigkeit."
+    },
+    {
+      "refrain_id": "let_my_prayer_come_before_you",
+      "text": "Herr, lass mein Gebet zu dir kommen."
+    },
+    {
+      "refrain_id": "let_the_clouds_rain_down_the",
+      "text": "Tauet, ihr Himmel, den Gerechten; die Erde bringe den Retter hervor."
+    },
+    {
+      "refrain_id": "let_the_heavens_be_glad_and",
+      "text": "Der Himmel freue sich, es juble die Erde!"
+    },
+    {
+      "refrain_id": "let_us_go_rejoicing_to_the",
+      "text": "Voll Freude gingen wir zum Haus des Herrn."
+    },
+    {
+      "refrain_id": "let_your_mercy_come_to_me",
+      "text": "Herr, lass deine Huld über mich kommen."
+    },
+    {
+      "refrain_id": "lift_up_your_heads_and_see",
+      "text": "Richtet euch auf und erhebt eure Häupter, denn eure Erlösung ist nahe."
+    },
+    {
+      "refrain_id": "listen_to_me_daughter_see_and",
+      "text": "Höre, Tochter, sieh her und neige dein Ohr."
+    },
+    {
+      "refrain_id": "lord_let_us_see_your_kindness",
+      "text": "Herr, zeig uns deine Huld und schenke uns dein Heil."
+    },
+    {
+      "refrain_id": "lord_let_your_face_shine_on",
+      "text": "Herr, lass dein Angesicht über mir leuchten."
+    },
+    {
+      "refrain_id": "lord_make_us_turn_to_you",
+      "text": "Herr, lass uns zu dir umkehren; lass dein Angesicht leuchten, so ist uns geholfen."
+    },
+    {
+      "refrain_id": "lord_this_is_the_people_that",
+      "text": "Herr, das ist das Geschlecht, das nach dir fragt."
+    },
+    {
+      "refrain_id": "lord_when_your_glory_appears_my",
+      "text": "Ich aber will schauen dein Antlitz in Gerechtigkeit, satt werden am Anblick deiner Herrlichkeit."
+    },
+    {
+      "refrain_id": "marana_tha_come_lord_jesus",
+      "text": "Marana tha! Komm, Herr Jesus!"
+    },
+    {
+      "refrain_id": "my_heart_exults_in_the_lord",
+      "text": "Mein Herz frohlockt im Herrn, meinem Retter."
+    },
+    {
+      "refrain_id": "my_mouth_shall_be_filled_with",
+      "text": "Mein Mund soll deines Lobes voll sein, und ich will deine Herrlichkeit besingen."
+    },
+    {
+      "refrain_id": "my_soul_is_thirsting_for_the",
+      "text": "Meine Seele dürstet nach dem lebendigen Gott."
+    },
+    {
+      "refrain_id": "my_soul_is_thirsting_for_you",
+      "text": "Gott, du bist mein Gott, meine Seele dürstet nach dir."
+    },
+    {
+      "refrain_id": "my_soul_rejoices_in_my_god",
+      "text": "Meine Seele freut sich an meinem Gott."
+    },
+    {
+      "refrain_id": "o_bless_the_lord_my_soul",
+      "text": "Preise den Herrn, meine Seele!"
+    },
+    {
+      "refrain_id": "our_god_will_come_to_save",
+      "text": "Unser Gott kommt, um uns zu retten!"
+    },
+    {
+      "refrain_id": "our_soul_has_been_rescued_like",
+      "text": "Unsre Seele ist entronnen wie ein Vogel dem Netz des Vogelstellers."
+    },
+    {
+      "refrain_id": "remember_your_mercies_o_lord",
+      "text": "Gedenke, Herr, deiner Barmherzigkeit."
+    },
+    {
+      "refrain_id": "sing_to_the_lord_a_new",
+      "text": "Singt dem Herrn ein neues Lied, denn er hat Wunder getan."
+    },
+    {
+      "refrain_id": "teach_me_your_ways_o_lord",
+      "text": "Herr, lehre mich deine Wege."
+    },
+    {
+      "refrain_id": "the_earth_is_full_of_the",
+      "text": "Die Erde ist voll der Güte des Herrn."
+    },
+    {
+      "refrain_id": "the_judgments_of_the_lord_are",
+      "text": "Die Urteile des Herrn sind wahrhaftig, gerecht sind sie alle miteinander."
+    },
+    {
+      "refrain_id": "the_lord_comes_to_judge_the",
+      "text": "Der Herr kommt, um die Erde zu richten."
+    },
+    {
+      "refrain_id": "the_lord_has_made_known_his",
+      "text": "Der Herr hat sein Heil bekanntgemacht."
+    },
+    {
+      "refrain_id": "the_lord_hears_the_cry_of",
+      "text": "Der Herr hört auf die Armen."
+    },
+    {
+      "refrain_id": "the_lord_is_gracious_and_merciful",
+      "text": "Der Herr ist gnädig und barmherzig, langmütig und reich an Güte."
+    },
+    {
+      "refrain_id": "the_lord_is_just_in_all",
+      "text": "Der Herr ist gerecht auf allen seinen Wegen."
+    },
+    {
+      "refrain_id": "the_lord_is_kind_and_merciful",
+      "text": "Der Herr ist gütig und barmherzig, langmütig und reich an Erbarmen."
+    },
+    {
+      "refrain_id": "the_lord_is_my_light_and",
+      "text": "Der Herr ist mein Licht und mein Heil."
+    },
+    {
+      "refrain_id": "the_lord_is_my_shepherd_there",
+      "text": "Der Herr ist mein Hirt, nichts wird mir fehlen."
+    },
+    {
+      "refrain_id": "the_lord_is_near_to_all",
+      "text": "Der Herr ist nahe allen, die ihn anrufen."
+    },
+    {
+      "refrain_id": "the_lord_made_us_we_belong",
+      "text": "Der Herr hat uns gemacht, wir gehören ihm."
+    },
+    {
+      "refrain_id": "the_lord_speaks_of_peace_to",
+      "text": "Der Herr verkündet Frieden seinem Volk."
+    },
+    {
+      "refrain_id": "the_lord_will_remember_his_covenant",
+      "text": "Der Herr gedenkt seines Bundes auf ewig."
+    },
+    {
+      "refrain_id": "the_salvation_of_the_just_comes",
+      "text": "Vom Herrn kommt das Heil der Gerechten."
+    },
+    {
+      "refrain_id": "the_vineyard_of_the_lord_is",
+      "text": "Der Weinberg des Herrn ist das Haus Israel."
+    },
+    {
+      "refrain_id": "the_waters_of_the_river_gladden",
+      "text": "Ein Strom mit seinen Armen erfreut die Stadt Gottes, die heilige Wohnung des Höchsten."
+    },
+    {
+      "refrain_id": "their_message_goes_out_through_all",
+      "text": "Ihre Botschaft geht hinaus über die ganze Erde."
+    },
+    {
+      "refrain_id": "those_who_are_victorious_i_will",
+      "text": "Wer siegt, dem werde ich zu essen geben vom Baum des Lebens."
+    },
+    {
+      "refrain_id": "those_who_follow_you_lord_will",
+      "text": "Wer dir nachfolgt, Herr, wird das Licht des Lebens haben."
+    },
+    {
+      "refrain_id": "to_the_lord_belongs_the_earth",
+      "text": "Dem Herrn gehört die Erde und was sie erfüllt."
+    },
+    {
+      "refrain_id": "to_you_lord_i_will_offer",
+      "text": "Dir will ich ein Opfer des Lobes bringen, Herr."
+    },
+    {
+      "refrain_id": "we_are_his_people_the_sheep",
+      "text": "Wir sind sein Volk und die Herde seiner Weide."
+    },
+    {
+      "refrain_id": "with_delight_i_rejoice_in_the",
+      "text": "Ich freue mich hoch am Herrn."
+    },
+    {
+      "refrain_id": "you_are_the_highest_honor_of",
+      "text": "Du bist der höchste Ruhm unseres Volkes."
+    },
+    {
+      "refrain_id": "you_have_given_your_son_rule",
+      "text": "Du hast deinen Sohn eingesetzt über die Werke deiner Hände."
+    },
+    {
+      "refrain_id": "you_will_draw_water_joyfully_from",
+      "text": "Ihr werdet Wasser schöpfen mit Freuden aus den Quellen des Heils."
+    },
+    {
+      "refrain_id": "your_word_o_lord_is_a",
+      "text": "Dein Wort ist meinem Fuß eine Leuchte, Herr."
     }
   ]
 }

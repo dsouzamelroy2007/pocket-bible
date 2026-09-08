@@ -17529,7 +17529,8 @@
               "verse_end": 14
             }
           ],
-          "refrain": "The Lord is just in all his ways."
+          "refrain": "The Lord is just in all his ways.",
+          "refrain_id": "the_lord_is_just_in_all"
         },
         {
           "role": "gospel",
@@ -17606,7 +17607,8 @@
               "verse_end": 21
             }
           ],
-          "refrain": "Blessed the people the Lord has chosen to be his own."
+          "refrain": "Blessed the people the Lord has chosen to be his own.",
+          "refrain_id": "blessed_the_people_the_lord_has"
         },
         {
           "role": "gospel",
@@ -17683,7 +17685,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "To the Lord belongs the earth and all that fills it."
+          "refrain": "To the Lord belongs the earth and all that fills it.",
+          "refrain_id": "to_the_lord_belongs_the_earth"
         },
         {
           "role": "gospel",
@@ -17767,7 +17770,8 @@
               "verse_end": 40
             }
           ],
-          "refrain": "The salvation of the just comes from the Lord."
+          "refrain": "The salvation of the just comes from the Lord.",
+          "refrain_id": "the_salvation_of_the_just_comes"
         },
         {
           "role": "gospel",
@@ -17844,7 +17848,8 @@
               "verse_end": 21
             }
           ],
-          "refrain": "The Lord is near to all who call upon him."
+          "refrain": "The Lord is near to all who call upon him.",
+          "refrain_id": "the_lord_is_near_to_all"
         },
         {
           "role": "gospel",
@@ -17921,7 +17926,8 @@
               "verse_end": 9
             }
           ],
-          "refrain": "If today you hear his voice, harden not your hearts."
+          "refrain": "If today you hear his voice, harden not your hearts.",
+          "refrain_id": "if_today_you_hear_his_voice"
         },
         {
           "role": "second_reading",
@@ -18011,7 +18017,8 @@
               "verse_end": 12
             }
           ],
-          "refrain": "Lead me in your justice, Lord."
+          "refrain": "Lead me in your justice, Lord.",
+          "refrain_id": "lead_me_in_your_justice_lord"
         },
         {
           "role": "gospel",
@@ -18081,7 +18088,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "With delight I rejoice in the Lord."
+          "refrain": "With delight I rejoice in the Lord.",
+          "refrain_id": "with_delight_i_rejoice_in_the"
         },
         {
           "role": "gospel",
@@ -18150,7 +18158,8 @@
               "verse_end": 17
             }
           ],
-          "refrain": "Listen to me, daughter; see and bend your ear."
+          "refrain": "Listen to me, daughter; see and bend your ear.",
+          "refrain_id": "listen_to_me_daughter_see_and"
         },
         {
           "role": "gospel",
@@ -18234,7 +18243,8 @@
               "verse_end": 24
             }
           ],
-          "refrain": "Guide me, Lord, along the everlasting way."
+          "refrain": "Guide me, Lord, along the everlasting way.",
+          "refrain_id": "guide_me_lord_along_the_everlasting"
         },
         {
           "role": "gospel",
@@ -18325,7 +18335,8 @@
               "verse_end": 12
             }
           ],
-          "refrain": "How lovely is your dwelling place, Lord, mighty God!"
+          "refrain": "How lovely is your dwelling place, Lord, mighty God!",
+          "refrain_id": "how_lovely_is_your_dwelling_place"
         },
         {
           "role": "gospel",
@@ -18402,7 +18413,8 @@
               "verse_end": 18
             }
           ],
-          "refrain": "To you, Lord, I will offer a sacrifice of praise."
+          "refrain": "To you, Lord, I will offer a sacrifice of praise.",
+          "refrain_id": "to_you_lord_i_will_offer"
         },
         {
           "role": "gospel",
@@ -18486,7 +18498,8 @@
               "verse_end": 12
             }
           ],
-          "refrain": "The Lord is kind and merciful, slow to anger, and rich in compassion."
+          "refrain": "The Lord is kind and merciful, slow to anger, and rich in compassion.",
+          "refrain_id": "the_lord_is_kind_and_merciful"
         },
         {
           "role": "second_reading",
@@ -18583,7 +18596,8 @@
               "verse_end": 38
             }
           ],
-          "refrain": "Do not forget the works of the Lord!"
+          "refrain": "Do not forget the works of the Lord!",
+          "refrain_id": "do_not_forget_the_works_of"
         },
         {
           "role": "second_reading",
@@ -18672,7 +18686,8 @@
               "verse_end": 5
             }
           ],
-          "refrain": "We are his people: the sheep of his flock."
+          "refrain": "We are his people: the sheep of his flock.",
+          "refrain_id": "we_are_his_people_the_sheep"
         },
         {
           "role": "gospel",
@@ -18741,7 +18756,8 @@
               "verse_end": 22
             }
           ],
-          "refrain": "Blessed the people the Lord has chosen to be his own."
+          "refrain": "Blessed the people the Lord has chosen to be his own.",
+          "refrain_id": "blessed_the_people_the_lord_has"
         },
         {
           "role": "gospel",
@@ -18825,7 +18841,8 @@
               "verse_end": 28
             }
           ],
-          "refrain": "Give thanks to the Lord, for he is good."
+          "refrain": "Give thanks to the Lord, for he is good.",
+          "refrain_id": "give_thanks_to_the_lord_for"
         },
         {
           "role": "gospel",
@@ -18909,7 +18926,8 @@
               "verse_end": 15
             }
           ],
-          "refrain": "Lord, when your glory appears, my joy will be full."
+          "refrain": "Lord, when your glory appears, my joy will be full.",
+          "refrain_id": "lord_when_your_glory_appears_my"
         },
         {
           "role": "gospel",
@@ -18986,7 +19004,8 @@
               "verse_end": 14
             }
           ],
-          "refrain": "I will walk in the presence of God, in the light of the living."
+          "refrain": "I will walk in the presence of God, in the light of the living.",
+          "refrain_id": "i_will_walk_in_the_presence"
         },
         {
           "role": "gospel",
@@ -19063,7 +19082,8 @@
               "verse_end": 18
             }
           ],
-          "refrain": "The Lord is near to all who call upon him."
+          "refrain": "The Lord is near to all who call upon him.",
+          "refrain_id": "the_lord_is_near_to_all"
         },
         {
           "role": "second_reading",
@@ -19160,7 +19180,8 @@
               "verse_end": 5
             }
           ],
-          "refrain": "Their message goes out through all the earth."
+          "refrain": "Their message goes out through all the earth.",
+          "refrain_id": "their_message_goes_out_through_all"
         },
         {
           "role": "gospel",
@@ -19250,7 +19271,8 @@
               "verse_end": 44
             }
           ],
-          "refrain": "Guide me, Lord, in the way of your commands."
+          "refrain": "Guide me, Lord, in the way of your commands.",
+          "refrain_id": "guide_me_lord_in_the_way"
         },
         {
           "role": "gospel",
@@ -19348,7 +19370,8 @@
               "verse_end": 163
             }
           ],
-          "refrain": "Your word, O Lord, is a lamp for my feet."
+          "refrain": "Your word, O Lord, is a lamp for my feet.",
+          "refrain_id": "your_word_o_lord_is_a"
         },
         {
           "role": "gospel",
@@ -19439,7 +19462,8 @@
               "verse_end": 17
             }
           ],
-          "refrain": "In every age, O Lord, you have been our refuge."
+          "refrain": "In every age, O Lord, you have been our refuge.",
+          "refrain_id": "in_every_age_o_lord_you"
         },
         {
           "role": "gospel",
@@ -19516,7 +19540,8 @@
               "verse_end": 4
             }
           ],
-          "refrain": "Blessed be the Lord, my Rock!"
+          "refrain": "Blessed be the Lord, my Rock!",
+          "refrain_id": "blessed_be_the_lord_my_rock"
         },
         {
           "role": "gospel",
@@ -19607,7 +19632,8 @@
               "verse_end": 17
             }
           ],
-          "refrain": "In every age, O Lord, you have been our refuge."
+          "refrain": "In every age, O Lord, you have been our refuge.",
+          "refrain_id": "in_every_age_o_lord_you"
         },
         {
           "role": "gospel",
@@ -19684,7 +19710,8 @@
               "verse_end": 9
             }
           ],
-          "refrain": "Remember your mercies, O Lord."
+          "refrain": "Remember your mercies, O Lord.",
+          "refrain_id": "remember_your_mercies_o_lord"
         },
         {
           "role": "second_reading",
@@ -19774,7 +19801,8 @@
               "verse_end": 7
             }
           ],
-          "refrain": "Incline your ear to me and hear my word."
+          "refrain": "Incline your ear to me and hear my word.",
+          "refrain_id": "incline_your_ear_to_me_and"
         },
         {
           "role": "gospel",
@@ -19858,7 +19886,8 @@
               "verse_end": 5
             }
           ],
-          "refrain": "In the sight of the angels I will sing your praises, Lord."
+          "refrain": "In the sight of the angels I will sing your praises, Lord.",
+          "refrain_id": "in_the_sight_of_the_angels"
         },
         {
           "role": "gospel",
@@ -19942,7 +19971,8 @@
               "verse_end": 15
             }
           ],
-          "refrain": "Let my prayer come before you, Lord."
+          "refrain": "Let my prayer come before you, Lord.",
+          "refrain_id": "let_my_prayer_come_before_you"
         },
         {
           "role": "gospel",
@@ -20019,7 +20049,8 @@
               "verse_end": 14
             }
           ],
-          "refrain": "I believe that I shall see the good things of the Lord in the land of the living."
+          "refrain": "I believe that I shall see the good things of the Lord in the land of the living.",
+          "refrain_id": "i_believe_that_i_shall_see"
         },
         {
           "role": "gospel",
@@ -20117,7 +20148,8 @@
               "verse_end": 14
             }
           ],
-          "refrain": "Guide me, Lord, along the everlasting way."
+          "refrain": "Guide me, Lord, along the everlasting way.",
+          "refrain_id": "guide_me_lord_along_the_everlasting"
         },
         {
           "role": "gospel",
@@ -20236,7 +20268,8 @@
               "verse_end": 130
             }
           ],
-          "refrain": "Lord, let your face shine on me."
+          "refrain": "Lord, let your face shine on me.",
+          "refrain_id": "lord_let_your_face_shine_on"
         },
         {
           "role": "gospel",
@@ -20327,7 +20360,8 @@
               "verse_end": 20
             }
           ],
-          "refrain": "The vineyard of the Lord is the house of Israel."
+          "refrain": "The vineyard of the Lord is the house of Israel.",
+          "refrain_id": "the_vineyard_of_the_lord_is"
         },
         {
           "role": "second_reading",
@@ -20424,7 +20458,8 @@
               "verse_end": 10
             }
           ],
-          "refrain": "Alleluia."
+          "refrain": "Alleluia.",
+          "refrain_id": "alleluia"
         },
         {
           "role": "gospel",
@@ -20501,7 +20536,8 @@
               "verse_end": 15
             }
           ],
-          "refrain": "Guide me, Lord, along the everlasting way."
+          "refrain": "Guide me, Lord, along the everlasting way.",
+          "refrain_id": "guide_me_lord_along_the_everlasting"
         },
         {
           "role": "gospel",
@@ -20578,7 +20614,8 @@
               "verse_end": 2
             }
           ],
-          "refrain": "Go out to all the world, and tell the Good News."
+          "refrain": "Go out to all the world, and tell the Good News.",
+          "refrain_id": "go_out_to_all_the_world"
         },
         {
           "role": "gospel",
@@ -20655,7 +20692,8 @@
               "verse_end": 75
             }
           ],
-          "refrain": "Blessed be the Lord, the God of Israel; he has come to his people."
+          "refrain": "Blessed be the Lord, the God of Israel; he has come to his people.",
+          "refrain_id": "blessed_be_the_lord_the_god"
         },
         {
           "role": "gospel",
@@ -20732,7 +20770,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "The Lord will remember his covenant for ever."
+          "refrain": "The Lord will remember his covenant for ever.",
+          "refrain_id": "the_lord_will_remember_his_covenant"
         },
         {
           "role": "gospel",
@@ -20809,7 +20848,8 @@
               "verse_end": 7
             }
           ],
-          "refrain": "Alleluia."
+          "refrain": "Alleluia.",
+          "refrain_id": "alleluia"
         },
         {
           "role": "gospel",
@@ -20893,7 +20933,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "I shall live in the house of the Lord all the days of my life."
+          "refrain": "I shall live in the house of the Lord all the days of my life.",
+          "refrain_id": "i_shall_live_in_the_house"
         },
         {
           "role": "second_reading",
@@ -21011,7 +21052,8 @@
               "verse_end": 7
             }
           ],
-          "refrain": "Alleluia, alleluia."
+          "refrain": "Alleluia, alleluia.",
+          "refrain_id": "alleluia_alleluia"
         },
         {
           "role": "gospel",
@@ -21109,7 +21151,8 @@
               "verse_end": 48
             }
           ],
-          "refrain": "Let your mercy come to me, O Lord."
+          "refrain": "Let your mercy come to me, O Lord.",
+          "refrain_id": "let_your_mercy_come_to_me"
         },
         {
           "role": "gospel",
@@ -21193,7 +21236,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "Those who follow you, Lord, will have the light of life."
+          "refrain": "Those who follow you, Lord, will have the light of life.",
+          "refrain_id": "those_who_follow_you_lord_will"
         },
         {
           "role": "gospel",
@@ -21277,7 +21321,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "The Lord has made known his salvation."
+          "refrain": "The Lord has made known his salvation.",
+          "refrain_id": "the_lord_has_made_known_his"
         },
         {
           "role": "gospel",
@@ -21354,7 +21399,8 @@
               "verse_end": 13
             }
           ],
-          "refrain": "Blessed the people the Lord has chosen to be his own."
+          "refrain": "Blessed the people the Lord has chosen to be his own.",
+          "refrain_id": "blessed_the_people_the_lord_has"
         },
         {
           "role": "gospel",
@@ -21431,7 +21477,8 @@
               "verse_end": 7
             }
           ],
-          "refrain": "You have given your Son rule over the works of your hands."
+          "refrain": "You have given your Son rule over the works of your hands.",
+          "refrain_id": "you_have_given_your_son_rule"
         },
         {
           "role": "gospel",
@@ -21536,7 +21583,8 @@
               "verse_end": 10
             }
           ],
-          "refrain": "Give the Lord glory and honor."
+          "refrain": "Give the Lord glory and honor.",
+          "refrain_id": "give_the_lord_glory_and_honor"
         },
         {
           "role": "second_reading",
@@ -21640,7 +21688,8 @@
               "verse_end": 5
             }
           ],
-          "refrain": "The Lord made us, we belong to him."
+          "refrain": "The Lord made us, we belong to him.",
+          "refrain_id": "the_lord_made_us_we_belong"
         },
         {
           "role": "gospel",
@@ -21717,7 +21766,8 @@
               "verse_end": 14
             }
           ],
-          "refrain": "The Lord speaks of peace to his people."
+          "refrain": "The Lord speaks of peace to his people.",
+          "refrain_id": "the_lord_speaks_of_peace_to"
         },
         {
           "role": "gospel",
@@ -21794,7 +21844,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "You will draw water joyfully from the springs of salvation."
+          "refrain": "You will draw water joyfully from the springs of salvation.",
+          "refrain_id": "you_will_draw_water_joyfully_from"
         },
         {
           "role": "gospel",
@@ -21885,7 +21936,8 @@
               "verse_end": 19
             }
           ],
-          "refrain": "The earth is full of the goodness of the Lord."
+          "refrain": "The earth is full of the goodness of the Lord.",
+          "refrain_id": "the_earth_is_full_of_the"
         },
         {
           "role": "gospel",
@@ -21962,7 +22014,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "Lord, this is the people that longs to see your face."
+          "refrain": "Lord, this is the people that longs to see your face.",
+          "refrain_id": "lord_this_is_the_people_that"
         },
         {
           "role": "gospel",
@@ -22039,7 +22092,8 @@
               "verse_end": 5
             }
           ],
-          "refrain": "Let us go rejoicing to the house of the Lord."
+          "refrain": "Let us go rejoicing to the house of the Lord.",
+          "refrain_id": "let_us_go_rejoicing_to_the"
         },
         {
           "role": "gospel",
@@ -22123,7 +22177,8 @@
               "verse_end": 51
             }
           ],
-          "refrain": "I love you, Lord, my strength."
+          "refrain": "I love you, Lord, my strength.",
+          "refrain_id": "i_love_you_lord_my_strength"
         },
         {
           "role": "second_reading",
@@ -22220,7 +22275,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "Behave like God as his very dear children."
+          "refrain": "Behave like God as his very dear children.",
+          "refrain_id": "behave_like_god_as_his_very"
         },
         {
           "role": "gospel",
@@ -22304,7 +22360,8 @@
               "verse_end": 5
             }
           ],
-          "refrain": "Blessed are those who fear the Lord."
+          "refrain": "Blessed are those who fear the Lord.",
+          "refrain_id": "blessed_are_those_who_fear_the_2"
         },
         {
           "role": "gospel",
@@ -22374,7 +22431,8 @@
               "verse_end": 5
             }
           ],
-          "refrain": "Their message goes out through all the earth."
+          "refrain": "Their message goes out through all the earth.",
+          "refrain_id": "their_message_goes_out_through_all"
         },
         {
           "role": "gospel",
@@ -22436,7 +22494,8 @@
               "verse_end": 10
             }
           ],
-          "refrain": "Blessed be the Lord, my Rock!"
+          "refrain": "Blessed be the Lord, my Rock!",
+          "refrain_id": "blessed_be_the_lord_my_rock"
         },
         {
           "role": "gospel",
@@ -22520,7 +22579,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "Alleluia."
+          "refrain": "Alleluia.",
+          "refrain_id": "alleluia"
         },
         {
           "role": "gospel",
@@ -22597,7 +22657,8 @@
               "verse_end": 5
             }
           ],
-          "refrain": "My soul is thirsting for the living God."
+          "refrain": "My soul is thirsting for the living God.",
+          "refrain_id": "my_soul_is_thirsting_for_the"
         },
         {
           "role": "gospel",
@@ -22688,7 +22749,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "Lord, this is the people that longs to see your face."
+          "refrain": "Lord, this is the people that longs to see your face.",
+          "refrain_id": "lord_this_is_the_people_that"
         },
         {
           "role": "second_reading",
@@ -22785,7 +22847,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "The Lord is my shepherd; there is nothing I shall want."
+          "refrain": "The Lord is my shepherd; there is nothing I shall want.",
+          "refrain_id": "the_lord_is_my_shepherd_there"
         },
         {
           "role": "second_reading",
@@ -22882,7 +22945,8 @@
               "verse_end": 32
             }
           ],
-          "refrain": "I will praise you, Lord, in the assembly of your people."
+          "refrain": "I will praise you, Lord, in the assembly of your people.",
+          "refrain_id": "i_will_praise_you_lord_in"
         },
         {
           "role": "gospel",
@@ -22959,7 +23023,8 @@
               "verse_end": 14
             }
           ],
-          "refrain": "The Lord is my light and my salvation."
+          "refrain": "The Lord is my light and my salvation.",
+          "refrain_id": "the_lord_is_my_light_and"
         },
         {
           "role": "gospel",
@@ -23036,7 +23101,8 @@
               "verse_end": 7
             }
           ],
-          "refrain": "Alleluia."
+          "refrain": "Alleluia.",
+          "refrain_id": "alleluia"
         },
         {
           "role": "gospel",
@@ -23113,7 +23179,8 @@
               "verse_end": 5
             }
           ],
-          "refrain": "Let us go rejoicing to the house of the Lord."
+          "refrain": "Let us go rejoicing to the house of the Lord.",
+          "refrain_id": "let_us_go_rejoicing_to_the"
         },
         {
           "role": "gospel",
@@ -23197,7 +23264,8 @@
               "verse_end": 9
             }
           ],
-          "refrain": "Blessed the man who fears the Lord."
+          "refrain": "Blessed the man who fears the Lord.",
+          "refrain_id": "blessed_the_man_who_fears_the"
         },
         {
           "role": "gospel",
@@ -23281,7 +23349,8 @@
               "verse_end": 8
             }
           ],
-          "refrain": "My soul is thirsting for you, O Lord my God."
+          "refrain": "My soul is thirsting for you, O Lord my God.",
+          "refrain_id": "my_soul_is_thirsting_for_you"
         },
         {
           "role": "second_reading",
@@ -23392,7 +23461,8 @@
               "verse_end": 9
             }
           ],
-          "refrain": "The waters of the river gladden the city of God, the holy dwelling of the Most High!"
+          "refrain": "The waters of the river gladden the city of God, the holy dwelling of the Most High!",
+          "refrain_id": "the_waters_of_the_river_gladden"
         },
         {
           "role": "second_reading",
@@ -23510,7 +23580,8 @@
               "verse_end": 29
             }
           ],
-          "refrain": "The salvation of the just comes from the Lord."
+          "refrain": "The salvation of the just comes from the Lord.",
+          "refrain_id": "the_salvation_of_the_just_comes"
         },
         {
           "role": "gospel",
@@ -23594,7 +23665,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "The Lord is my shepherd; there is nothing I shall want."
+          "refrain": "The Lord is my shepherd; there is nothing I shall want.",
+          "refrain_id": "the_lord_is_my_shepherd_there"
         },
         {
           "role": "gospel",
@@ -23671,7 +23743,8 @@
               "verse_end": 10
             }
           ],
-          "refrain": "Alleluia."
+          "refrain": "Alleluia.",
+          "refrain_id": "alleluia"
         },
         {
           "role": "gospel",
@@ -23769,7 +23842,8 @@
               "verse_end": 18
             }
           ],
-          "refrain": "Blessed are they who follow the law of the Lord!"
+          "refrain": "Blessed are they who follow the law of the Lord!",
+          "refrain_id": "blessed_are_they_who_follow_the"
         },
         {
           "role": "gospel",
@@ -23846,7 +23920,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "Blessed the man who fears the Lord."
+          "refrain": "Blessed the man who fears the Lord.",
+          "refrain_id": "blessed_the_man_who_fears_the"
         },
         {
           "role": "gospel",
@@ -23937,7 +24012,8 @@
               "verse_end": 5
             }
           ],
-          "refrain": "Blessed are those who fear the Lord."
+          "refrain": "Blessed are those who fear the Lord.",
+          "refrain_id": "blessed_are_those_who_fear_the_2"
         },
         {
           "role": "second_reading",
@@ -24048,7 +24124,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "Those who are victorious I will feed from the tree of life."
+          "refrain": "Those who are victorious I will feed from the tree of life.",
+          "refrain_id": "those_who_are_victorious_i_will"
         },
         {
           "role": "gospel",
@@ -24132,7 +24209,8 @@
               "verse_end": 5
             }
           ],
-          "refrain": "I will seat the victor beside me on my throne."
+          "refrain": "I will seat the victor beside me on my throne.",
+          "refrain_id": "i_will_seat_the_victor_beside"
         },
         {
           "role": "gospel",
@@ -24209,7 +24287,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "Holy, holy, holy Lord, mighty God!"
+          "refrain": "Holy, holy, holy Lord, mighty God!",
+          "refrain_id": "holy_holy_holy_lord_mighty_god"
         },
         {
           "role": "gospel",
@@ -24293,7 +24372,8 @@
               "verse_end": 9
             }
           ],
-          "refrain": "Alleluia."
+          "refrain": "Alleluia.",
+          "refrain_id": "alleluia"
         },
         {
           "role": "gospel",
@@ -24391,7 +24471,8 @@
               "verse_end": 131
             }
           ],
-          "refrain": "How sweet to my taste is your promise!"
+          "refrain": "How sweet to my taste is your promise!",
+          "refrain_id": "how_sweet_to_my_taste_is"
         },
         {
           "role": "gospel",
@@ -24468,7 +24549,8 @@
               "verse_end": 10
             }
           ],
-          "refrain": "Blessed be the Lord, my Rock!"
+          "refrain": "Blessed be the Lord, my Rock!",
+          "refrain_id": "blessed_be_the_lord_my_rock"
         },
         {
           "role": "gospel",
@@ -24552,7 +24634,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "The Lord is my shepherd; there is nothing I shall want."
+          "refrain": "The Lord is my shepherd; there is nothing I shall want.",
+          "refrain_id": "the_lord_is_my_shepherd_there"
         },
         {
           "role": "second_reading",
@@ -24663,7 +24746,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "Lord, this is the people that longs to see your face."
+          "refrain": "Lord, this is the people that longs to see your face.",
+          "refrain_id": "lord_this_is_the_people_that"
         },
         {
           "role": "gospel",
@@ -24747,7 +24831,8 @@
               "verse_end": 13
             }
           ],
-          "refrain": "The Lord comes to judge the earth."
+          "refrain": "The Lord comes to judge the earth.",
+          "refrain_id": "the_lord_comes_to_judge_the"
         },
         {
           "role": "gospel",
@@ -24831,7 +24916,8 @@
               "verse_end": 9
             }
           ],
-          "refrain": "Great and wonderful are all your works, Lord, mighty God!"
+          "refrain": "Great and wonderful are all your works, Lord, mighty God!",
+          "refrain_id": "great_and_wonderful_are_all_your"
         },
         {
           "role": "gospel",
@@ -25010,7 +25096,8 @@
               "verse_end": 8
             }
           ],
-          "refrain": "Here God lives among his people."
+          "refrain": "Here God lives among his people.",
+          "refrain_id": "here_god_lives_among_his_people"
         },
         {
           "role": "gospel",
@@ -25087,7 +25174,8 @@
               "verse_end": 7
             }
           ],
-          "refrain": "Marana tha! Come, Lord Jesus!"
+          "refrain": "Marana tha! Come, Lord Jesus!",
+          "refrain_id": "marana_tha_come_lord_jesus"
         },
         {
           "role": "gospel",
@@ -25178,7 +25266,8 @@
               "verse_end": 19
             }
           ],
-          "refrain": "Lord, make us turn to you; let us see your face and we shall be saved."
+          "refrain": "Lord, make us turn to you; let us see your face and we shall be saved.",
+          "refrain_id": "lord_make_us_turn_to_you"
         },
         {
           "role": "second_reading",
@@ -25275,7 +25364,8 @@
               "verse_end": 11
             }
           ],
-          "refrain": "The judgments of the Lord are true, and all of them are just"
+          "refrain": "The judgments of the Lord are true, and all of them are just",
+          "refrain_id": "the_judgments_of_the_lord_are"
         },
         {
           "role": "gospel",
@@ -25359,7 +25449,8 @@
               "verse_end": 17
             }
           ],
-          "refrain": "Justice shall flourish in his time, and fullness of peace for ever."
+          "refrain": "Justice shall flourish in his time, and fullness of peace for ever.",
+          "refrain_id": "justice_shall_flourish_in_his_time"
         },
         {
           "role": "gospel",
@@ -25428,7 +25519,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "I shall live in the house of the Lord all the days of my life."
+          "refrain": "I shall live in the house of the Lord all the days of my life.",
+          "refrain_id": "i_shall_live_in_the_house"
         },
         {
           "role": "gospel",
@@ -25497,7 +25589,8 @@
               "verse_end": 27
             }
           ],
-          "refrain": "Blessed is he who comes in the name of the Lord"
+          "refrain": "Blessed is he who comes in the name of the Lord",
+          "refrain_id": "blessed_is_he_who_comes_in"
         },
         {
           "role": "gospel",
@@ -25581,7 +25674,8 @@
               "verse_end": 14
             }
           ],
-          "refrain": "The Lord is my light and my salvation."
+          "refrain": "The Lord is my light and my salvation.",
+          "refrain_id": "the_lord_is_my_light_and"
         },
         {
           "role": "gospel",
@@ -25650,7 +25744,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "Blessed are all who wait for the Lord."
+          "refrain": "Blessed are all who wait for the Lord.",
+          "refrain_id": "blessed_are_all_who_wait_for"
         },
         {
           "role": "gospel",
@@ -25741,7 +25836,8 @@
               "verse_end": 14
             }
           ],
-          "refrain": "Lord, let us see your kindness, and grant us your salvation."
+          "refrain": "Lord, let us see your kindness, and grant us your salvation.",
+          "refrain_id": "lord_let_us_see_your_kindness"
         },
         {
           "role": "second_reading",
@@ -25845,7 +25941,8 @@
               "verse_end": 14
             }
           ],
-          "refrain": "Our God will come to save us!"
+          "refrain": "Our God will come to save us!",
+          "refrain_id": "our_god_will_come_to_save"
         },
         {
           "role": "gospel",
@@ -25914,7 +26011,8 @@
               "verse_end": 4
             }
           ],
-          "refrain": "Sing to the Lord a new song, for he has done marvelous deeds."
+          "refrain": "Sing to the Lord a new song, for he has done marvelous deeds.",
+          "refrain_id": "sing_to_the_lord_a_new"
         },
         {
           "role": "second_reading",
@@ -26018,7 +26116,8 @@
               "verse_end": 10
             }
           ],
-          "refrain": "O bless the Lord, my soul!"
+          "refrain": "O bless the Lord, my soul!",
+          "refrain_id": "o_bless_the_lord_my_soul"
         },
         {
           "role": "gospel",
@@ -26087,7 +26186,8 @@
               "verse_end": 13
             }
           ],
-          "refrain": "The Lord is gracious and merciful; slow to anger, and of great kindness."
+          "refrain": "The Lord is gracious and merciful; slow to anger, and of great kindness.",
+          "refrain_id": "the_lord_is_gracious_and_merciful"
         },
         {
           "role": "gospel",
@@ -26171,7 +26271,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "Those who follow you, Lord, will have the light of life."
+          "refrain": "Those who follow you, Lord, will have the light of life.",
+          "refrain_id": "those_who_follow_you_lord_will"
         },
         {
           "role": "gospel",
@@ -26226,7 +26327,8 @@
               "verse_end": 19
             }
           ],
-          "refrain": "You are the highest honor of our race."
+          "refrain": "You are the highest honor of our race.",
+          "refrain_id": "you_are_the_highest_honor_of"
         },
         {
           "role": "gospel",
@@ -26295,7 +26397,8 @@
               "verse_end": 54
             }
           ],
-          "refrain": "My soul rejoices in my God."
+          "refrain": "My soul rejoices in my God.",
+          "refrain_id": "my_soul_rejoices_in_my_god"
         },
         {
           "role": "second_reading",
@@ -26406,7 +26509,8 @@
               "verse_end": 9
             }
           ],
-          "refrain": "Teach me your ways, O Lord."
+          "refrain": "Teach me your ways, O Lord.",
+          "refrain_id": "teach_me_your_ways_o_lord"
         },
         {
           "role": "gospel",
@@ -26504,7 +26608,8 @@
               "verse_end": 23
             }
           ],
-          "refrain": "The Lord hears the cry of the poor."
+          "refrain": "The Lord hears the cry of the poor.",
+          "refrain_id": "the_lord_hears_the_cry_of"
         },
         {
           "role": "gospel",
@@ -26587,7 +26692,8 @@
               "verse_end": 14
             }
           ],
-          "refrain": "Let the clouds rain down the Just One, and the earth bring forth a Savior."
+          "refrain": "Let the clouds rain down the Just One, and the earth bring forth a Savior.",
+          "refrain_id": "let_the_clouds_rain_down_the"
         },
         {
           "role": "gospel",
@@ -26678,7 +26784,8 @@
               "verse_end": 17
             }
           ],
-          "refrain": "Justice shall flourish in his time, and fullness of peace for ever."
+          "refrain": "Justice shall flourish in his time, and fullness of peace for ever.",
+          "refrain_id": "justice_shall_flourish_in_his_time"
         },
         {
           "role": "gospel",
@@ -26740,7 +26847,8 @@
               "verse_end": 19
             }
           ],
-          "refrain": "Justice shall flourish in his time, and fullness of peace for ever."
+          "refrain": "Justice shall flourish in his time, and fullness of peace for ever.",
+          "refrain_id": "justice_shall_flourish_in_his_time"
         },
         {
           "role": "gospel",
@@ -26809,7 +26917,8 @@
               "verse_end": 17
             }
           ],
-          "refrain": "My mouth shall be filled with your praise, and I will sing your glory!"
+          "refrain": "My mouth shall be filled with your praise, and I will sing your glory!",
+          "refrain_id": "my_mouth_shall_be_filled_with"
         },
         {
           "role": "gospel",
@@ -26899,7 +27008,8 @@
               "verse_end": 29
             }
           ],
-          "refrain": "For ever I will sing the goodness of the Lord."
+          "refrain": "For ever I will sing the goodness of the Lord.",
+          "refrain_id": "for_ever_i_will_sing_the"
         },
         {
           "role": "second_reading",
@@ -26989,7 +27099,8 @@
               "verse_end": 21
             }
           ],
-          "refrain": "Exult, you just, in the Lord! Sing to him a new song."
+          "refrain": "Exult, you just, in the Lord! Sing to him a new song.",
+          "refrain_id": "exult_you_just_in_the_lord"
         },
         {
           "role": "gospel",
@@ -27058,7 +27169,8 @@
               "verse_end": 8
             }
           ],
-          "refrain": "My heart exults in the Lord, my Savior."
+          "refrain": "My heart exults in the Lord, my Savior.",
+          "refrain_id": "my_heart_exults_in_the_lord"
         },
         {
           "role": "gospel",
@@ -27134,7 +27246,8 @@
               "verse_end": 14
             }
           ],
-          "refrain": "Lift up your heads and see; your redemption is near at hand."
+          "refrain": "Lift up your heads and see; your redemption is near at hand.",
+          "refrain_id": "lift_up_your_heads_and_see"
         },
         {
           "role": "gospel",
@@ -27224,7 +27337,8 @@
               "verse_end": 29
             }
           ],
-          "refrain": "For ever I will sing the goodness of the Lord."
+          "refrain": "For ever I will sing the goodness of the Lord.",
+          "refrain_id": "for_ever_i_will_sing_the"
         },
         {
           "role": "gospel",
@@ -27388,7 +27502,8 @@
               "verse_end": 17
             }
           ],
-          "refrain": "Into your hands, O Lord, I commend my spirit."
+          "refrain": "Into your hands, O Lord, I commend my spirit.",
+          "refrain_id": "into_your_hands_o_lord_i"
         },
         {
           "role": "gospel",
@@ -27479,7 +27594,8 @@
               "verse_end": 5
             }
           ],
-          "refrain": "Blessed are those who fear the Lord and walk in his ways."
+          "refrain": "Blessed are those who fear the Lord and walk in his ways.",
+          "refrain_id": "blessed_are_those_who_fear_the"
         },
         {
           "role": "second_reading",
@@ -27576,7 +27692,8 @@
               "verse_end": 8
             }
           ],
-          "refrain": "Our soul has been rescued like a bird from the fowler's snare."
+          "refrain": "Our soul has been rescued like a bird from the fowler's snare.",
+          "refrain_id": "our_soul_has_been_rescued_like"
         },
         {
           "role": "gospel",
@@ -27638,7 +27755,8 @@
               "verse_end": 6
             }
           ],
-          "refrain": "Let the heavens be glad and the earth rejoice!"
+          "refrain": "Let the heavens be glad and the earth rejoice!",
+          "refrain_id": "let_the_heavens_be_glad_and"
         },
         {
           "role": "gospel",
@@ -27715,7 +27833,8 @@
               "verse_end": 10
             }
           ],
-          "refrain": "Let the heavens be glad and the earth rejoice!"
+          "refrain": "Let the heavens be glad and the earth rejoice!",
+          "refrain_id": "let_the_heavens_be_glad_and"
         },
         {
           "role": "gospel",
@@ -27777,7 +27896,8 @@
               "verse_end": 13
             }
           ],
-          "refrain": "Let the heavens be glad and the earth rejoice!"
+          "refrain": "Let the heavens be glad and the earth rejoice!",
+          "refrain_id": "let_the_heavens_be_glad_and"
         },
         {
           "role": "gospel",

@@ -2,8 +2,364 @@
   "language": "pt",
   "refrain_translations": [
     {
+      "refrain_id": "alleluia",
+      "text": "Aleluia."
+    },
+    {
       "refrain_id": "alleluia_alleluia",
       "text": "Aleluia, aleluia."
+    },
+    {
+      "refrain_id": "behave_like_god_as_his_very",
+      "text": "Comportai-vos como filhos muito amados de Deus."
+    },
+    {
+      "refrain_id": "blessed_are_all_who_wait_for",
+      "text": "Bem-aventurados todos os que esperam no Senhor."
+    },
+    {
+      "refrain_id": "blessed_are_they_who_follow_the",
+      "text": "Bem-aventurados os que seguem a lei do Senhor!"
+    },
+    {
+      "refrain_id": "blessed_are_those_who_fear_the",
+      "text": "Bem-aventurados os que temem o Senhor e andam em seus caminhos."
+    },
+    {
+      "refrain_id": "blessed_are_those_who_fear_the_2",
+      "text": "Bem-aventurados os que temem o Senhor."
+    },
+    {
+      "refrain_id": "blessed_be_the_lord_my_rock",
+      "text": "Bendito seja o Senhor, minha rocha!"
+    },
+    {
+      "refrain_id": "blessed_be_the_lord_the_god",
+      "text": "Bendito seja o Senhor, Deus de Israel, porque visitou o seu povo."
+    },
+    {
+      "refrain_id": "blessed_is_he_who_comes_in",
+      "text": "Bendito o que vem em nome do Senhor!"
+    },
+    {
+      "refrain_id": "blessed_the_man_who_fears_the",
+      "text": "Feliz o homem que teme o Senhor."
+    },
+    {
+      "refrain_id": "blessed_the_people_the_lord_has",
+      "text": "Feliz o povo que o Senhor escolheu para si por herança."
+    },
+    {
+      "refrain_id": "do_not_forget_the_works_of",
+      "text": "Não te esqueças das obras do Senhor!"
+    },
+    {
+      "refrain_id": "exult_you_just_in_the_lord",
+      "text": "Exultai, ó justos, no Senhor! Cantai-lhe um cântico novo."
+    },
+    {
+      "refrain_id": "for_ever_i_will_sing_the",
+      "text": "Cantarei para sempre a bondade do Senhor."
+    },
+    {
+      "refrain_id": "give_thanks_to_the_lord_for",
+      "text": "Dai graças ao Senhor porque ele é bom."
+    },
+    {
+      "refrain_id": "give_the_lord_glory_and_honor",
+      "text": "Dai ao Senhor glória e honra."
+    },
+    {
+      "refrain_id": "go_out_to_all_the_world",
+      "text": "Ide por todo o mundo e anunciai a Boa Nova."
+    },
+    {
+      "refrain_id": "great_and_wonderful_are_all_your",
+      "text": "Grandes e admiráveis são as tuas obras, Senhor, Deus todo-poderoso!"
+    },
+    {
+      "refrain_id": "guide_me_lord_along_the_everlasting",
+      "text": "Guia-me, Senhor, pelo caminho eterno."
+    },
+    {
+      "refrain_id": "guide_me_lord_in_the_way",
+      "text": "Guia-me, Senhor, pelo caminho dos teus mandamentos."
+    },
+    {
+      "refrain_id": "here_god_lives_among_his_people",
+      "text": "Aqui Deus habita no meio do seu povo."
+    },
+    {
+      "refrain_id": "holy_holy_holy_lord_mighty_god",
+      "text": "Santo, santo, santo é o Senhor, Deus do universo!"
+    },
+    {
+      "refrain_id": "how_lovely_is_your_dwelling_place",
+      "text": "Como são amáveis as tuas moradas, Senhor dos exércitos!"
+    },
+    {
+      "refrain_id": "how_sweet_to_my_taste_is",
+      "text": "Como é doce ao meu paladar a tua promessa!"
+    },
+    {
+      "refrain_id": "i_believe_that_i_shall_see",
+      "text": "Creio que hei de ver a bondade do Senhor na terra dos viventes."
+    },
+    {
+      "refrain_id": "i_love_you_lord_my_strength",
+      "text": "Eu te amo, Senhor, minha força."
+    },
+    {
+      "refrain_id": "i_shall_live_in_the_house",
+      "text": "Habitarei na casa do Senhor por longos dias."
+    },
+    {
+      "refrain_id": "i_will_praise_you_lord_in",
+      "text": "Eu te louvarei, Senhor, na assembleia do teu povo."
+    },
+    {
+      "refrain_id": "i_will_seat_the_victor_beside",
+      "text": "Ao vencedor darei que se assente comigo no meu trono."
+    },
+    {
+      "refrain_id": "i_will_walk_in_the_presence",
+      "text": "Andarei na presença do Senhor na terra dos viventes."
+    },
+    {
+      "refrain_id": "if_today_you_hear_his_voice",
+      "text": "Se hoje ouvirdes a voz do Senhor, não fecheis o vosso coração."
+    },
+    {
+      "refrain_id": "in_every_age_o_lord_you",
+      "text": "Senhor, tu tens sido o nosso refúgio de geração em geração."
+    },
+    {
+      "refrain_id": "in_the_sight_of_the_angels",
+      "text": "Diante dos anjos cantarei os teus louvores, Senhor."
+    },
+    {
+      "refrain_id": "incline_your_ear_to_me_and",
+      "text": "Inclina para mim o teu ouvido, escuta as minhas palavras."
+    },
+    {
+      "refrain_id": "into_your_hands_o_lord_i",
+      "text": "Nas tuas mãos, Senhor, entrego o meu espírito."
+    },
+    {
+      "refrain_id": "justice_shall_flourish_in_his_time",
+      "text": "Em seus dias florescerá a justiça e a abundância da paz para sempre."
+    },
+    {
+      "refrain_id": "lead_me_in_your_justice_lord",
+      "text": "Guia-me, Senhor, na tua justiça."
+    },
+    {
+      "refrain_id": "let_my_prayer_come_before_you",
+      "text": "Chegue à tua presença, Senhor, a minha oração."
+    },
+    {
+      "refrain_id": "let_the_clouds_rain_down_the",
+      "text": "Destilai, ó céus, o Justo, e a terra produza o Salvador."
+    },
+    {
+      "refrain_id": "let_the_heavens_be_glad_and",
+      "text": "Alegrem-se os céus e exulte a terra!"
+    },
+    {
+      "refrain_id": "let_us_go_rejoicing_to_the",
+      "text": "Com alegria iremos à casa do Senhor."
+    },
+    {
+      "refrain_id": "let_your_mercy_come_to_me",
+      "text": "Venha sobre mim, Senhor, a tua misericórdia."
+    },
+    {
+      "refrain_id": "lift_up_your_heads_and_see",
+      "text": "Erguei a cabeça, porque a vossa redenção está próxima."
+    },
+    {
+      "refrain_id": "listen_to_me_daughter_see_and",
+      "text": "Ouve, filha, olha e inclina o teu ouvido."
+    },
+    {
+      "refrain_id": "lord_let_us_see_your_kindness",
+      "text": "Mostra-nos, Senhor, a tua misericórdia e dá-nos a tua salvação."
+    },
+    {
+      "refrain_id": "lord_let_your_face_shine_on",
+      "text": "Senhor, faze resplandecer sobre mim o teu rosto."
+    },
+    {
+      "refrain_id": "lord_make_us_turn_to_you",
+      "text": "Fazei resplandecer sobre nós, Senhor, o vosso rosto, e seremos salvos."
+    },
+    {
+      "refrain_id": "lord_this_is_the_people_that",
+      "text": "Senhor, este é o povo que procura a tua face."
+    },
+    {
+      "refrain_id": "lord_when_your_glory_appears_my",
+      "text": "Ao despertar, Senhor, hei de contemplar a tua face e saciar-me com a tua glória."
+    },
+    {
+      "refrain_id": "marana_tha_come_lord_jesus",
+      "text": "Maranathá! Vem, Senhor Jesus!"
+    },
+    {
+      "refrain_id": "my_heart_exults_in_the_lord",
+      "text": "O meu coração exulta no Senhor, meu Salvador."
+    },
+    {
+      "refrain_id": "my_mouth_shall_be_filled_with",
+      "text": "A minha boca proclamará o teu louvor, e cantarei a tua glória!"
+    },
+    {
+      "refrain_id": "my_soul_is_thirsting_for_the",
+      "text": "A minha alma tem sede de Deus, do Deus vivo."
+    },
+    {
+      "refrain_id": "my_soul_is_thirsting_for_you",
+      "text": "A minha alma tem sede de ti, Senhor meu Deus."
+    },
+    {
+      "refrain_id": "my_soul_rejoices_in_my_god",
+      "text": "A minha alma se alegra no meu Deus."
+    },
+    {
+      "refrain_id": "o_bless_the_lord_my_soul",
+      "text": "Bendize, ó minha alma, ao Senhor!"
+    },
+    {
+      "refrain_id": "our_god_will_come_to_save",
+      "text": "O nosso Deus vem para nos salvar!"
+    },
+    {
+      "refrain_id": "our_soul_has_been_rescued_like",
+      "text": "A nossa alma escapou como um pássaro do laço do caçador."
+    },
+    {
+      "refrain_id": "remember_your_mercies_o_lord",
+      "text": "Lembra-te, Senhor, da tua misericórdia."
+    },
+    {
+      "refrain_id": "sing_to_the_lord_a_new",
+      "text": "Cantai ao Senhor um cântico novo, porque ele fez maravilhas."
+    },
+    {
+      "refrain_id": "teach_me_your_ways_o_lord",
+      "text": "Ensina-me, Senhor, os teus caminhos."
+    },
+    {
+      "refrain_id": "the_earth_is_full_of_the",
+      "text": "A terra está cheia da bondade do Senhor."
+    },
+    {
+      "refrain_id": "the_judgments_of_the_lord_are",
+      "text": "Os juízos do Senhor são verdadeiros e justos, todos eles."
+    },
+    {
+      "refrain_id": "the_lord_comes_to_judge_the",
+      "text": "O Senhor vem para julgar a terra."
+    },
+    {
+      "refrain_id": "the_lord_has_made_known_his",
+      "text": "O Senhor deu a conhecer a sua salvação."
+    },
+    {
+      "refrain_id": "the_lord_hears_the_cry_of",
+      "text": "O Senhor ouve o clamor dos pobres."
+    },
+    {
+      "refrain_id": "the_lord_is_gracious_and_merciful",
+      "text": "O Senhor é clemente e misericordioso, tardio em irar-se e cheio de bondade."
+    },
+    {
+      "refrain_id": "the_lord_is_just_in_all",
+      "text": "O Senhor é justo em todos os seus caminhos."
+    },
+    {
+      "refrain_id": "the_lord_is_kind_and_merciful",
+      "text": "O Senhor é bom e misericordioso, tardio em irar-se e cheio de compaixão."
+    },
+    {
+      "refrain_id": "the_lord_is_my_light_and",
+      "text": "O Senhor é minha luz e minha salvação."
+    },
+    {
+      "refrain_id": "the_lord_is_my_shepherd_there",
+      "text": "O Senhor é o meu pastor, nada me faltará."
+    },
+    {
+      "refrain_id": "the_lord_is_near_to_all",
+      "text": "O Senhor está perto de todos os que o invocam."
+    },
+    {
+      "refrain_id": "the_lord_made_us_we_belong",
+      "text": "O Senhor nos fez, e a ele pertencemos."
+    },
+    {
+      "refrain_id": "the_lord_speaks_of_peace_to",
+      "text": "O Senhor fala de paz para o seu povo."
+    },
+    {
+      "refrain_id": "the_lord_will_remember_his_covenant",
+      "text": "O Senhor se lembrará da sua aliança para sempre."
+    },
+    {
+      "refrain_id": "the_salvation_of_the_just_comes",
+      "text": "A salvação dos justos vem do Senhor."
+    },
+    {
+      "refrain_id": "the_vineyard_of_the_lord_is",
+      "text": "A vinha do Senhor é a casa de Israel."
+    },
+    {
+      "refrain_id": "the_waters_of_the_river_gladden",
+      "text": "As águas de um rio alegram a cidade de Deus, a santa morada do Altíssimo."
+    },
+    {
+      "refrain_id": "their_message_goes_out_through_all",
+      "text": "A sua mensagem se espalha por toda a terra."
+    },
+    {
+      "refrain_id": "those_who_are_victorious_i_will",
+      "text": "Ao vencedor darei a comer da árvore da vida."
+    },
+    {
+      "refrain_id": "those_who_follow_you_lord_will",
+      "text": "Quem te segue, Senhor, terá a luz da vida."
+    },
+    {
+      "refrain_id": "to_the_lord_belongs_the_earth",
+      "text": "Ao Senhor pertence a terra e tudo o que ela contém."
+    },
+    {
+      "refrain_id": "to_you_lord_i_will_offer",
+      "text": "A ti, Senhor, oferecerei um sacrifício de louvor."
+    },
+    {
+      "refrain_id": "we_are_his_people_the_sheep",
+      "text": "Nós somos o seu povo, o rebanho do seu pasto."
+    },
+    {
+      "refrain_id": "with_delight_i_rejoice_in_the",
+      "text": "Exulto profundamente no Senhor."
+    },
+    {
+      "refrain_id": "you_are_the_highest_honor_of",
+      "text": "Tu és a maior honra da nossa raça."
+    },
+    {
+      "refrain_id": "you_have_given_your_son_rule",
+      "text": "Puseste o teu Filho sobre as obras das tuas mãos."
+    },
+    {
+      "refrain_id": "you_will_draw_water_joyfully_from",
+      "text": "Com alegria haveis de tirar água das fontes da salvação."
+    },
+    {
+      "refrain_id": "your_word_o_lord_is_a",
+      "text": "A tua palavra é lâmpada para os meus pés, Senhor."
     }
   ]
 }

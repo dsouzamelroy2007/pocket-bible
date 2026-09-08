@@ -2,8 +2,364 @@
   "language": "mr",
   "refrain_translations": [
     {
+      "refrain_id": "alleluia",
+      "text": "अल्लेलुया."
+    },
+    {
       "refrain_id": "alleluia_alleluia",
       "text": "अल्लेलुया, अल्लेलुया."
+    },
+    {
+      "refrain_id": "behave_like_god_as_his_very",
+      "text": "देवाच्या अत्यंत प्रिय मुलांप्रमाणे वागा."
+    },
+    {
+      "refrain_id": "blessed_are_all_who_wait_for",
+      "text": "धन्य आहेत ते सर्व जे प्रभूची वाट पाहतात."
+    },
+    {
+      "refrain_id": "blessed_are_they_who_follow_the",
+      "text": "धन्य आहेत ते जे प्रभूच्या नियमशास्त्राप्रमाणे चालतात!"
+    },
+    {
+      "refrain_id": "blessed_are_those_who_fear_the",
+      "text": "धन्य आहेत ते जे प्रभूचे भय बाळगतात आणि त्याच्या मार्गांनी चालतात."
+    },
+    {
+      "refrain_id": "blessed_are_those_who_fear_the_2",
+      "text": "धन्य आहेत ते जे प्रभूचे भय बाळगतात."
+    },
+    {
+      "refrain_id": "blessed_be_the_lord_my_rock",
+      "text": "धन्य असो प्रभू, माझा खडक!"
+    },
+    {
+      "refrain_id": "blessed_be_the_lord_the_god",
+      "text": "धन्य असो प्रभू, इस्राएलचा देव, कारण तो आपल्या लोकांकडे आला आहे."
+    },
+    {
+      "refrain_id": "blessed_is_he_who_comes_in",
+      "text": "धन्य असो जो प्रभूच्या नावाने येतो!"
+    },
+    {
+      "refrain_id": "blessed_the_man_who_fears_the",
+      "text": "धन्य आहे तो मनुष्य जो प्रभूचे भय बाळगतो."
+    },
+    {
+      "refrain_id": "blessed_the_people_the_lord_has",
+      "text": "धन्य आहे तो लोकसमुदाय ज्याला प्रभूने आपला वारसा म्हणून निवडले आहे."
+    },
+    {
+      "refrain_id": "do_not_forget_the_works_of",
+      "text": "प्रभूच्या कृत्यांचा विसर पडू देऊ नका!"
+    },
+    {
+      "refrain_id": "exult_you_just_in_the_lord",
+      "text": "हे नीतिमानांनो, प्रभूमध्ये आनंद करा! त्याला नवीन गीत गा."
+    },
+    {
+      "refrain_id": "for_ever_i_will_sing_the",
+      "text": "मी सर्वकाळ प्रभूच्या चांगुलपणाचे गीत गाईन."
+    },
+    {
+      "refrain_id": "give_thanks_to_the_lord_for",
+      "text": "प्रभूचे आभार माना, कारण तो चांगला आहे."
+    },
+    {
+      "refrain_id": "give_the_lord_glory_and_honor",
+      "text": "प्रभूला गौरव आणि सन्मान द्या."
+    },
+    {
+      "refrain_id": "go_out_to_all_the_world",
+      "text": "सर्व जगात जा आणि सुवार्ता सांगा."
+    },
+    {
+      "refrain_id": "great_and_wonderful_are_all_your",
+      "text": "हे प्रभू, सर्वसमर्थ देवा, तुझी कृत्ये महान आणि अद्भुत आहेत!"
+    },
+    {
+      "refrain_id": "guide_me_lord_along_the_everlasting",
+      "text": "हे प्रभू, मला सनातन मार्गावर ने."
+    },
+    {
+      "refrain_id": "guide_me_lord_in_the_way",
+      "text": "हे प्रभू, मला तुझ्या आज्ञांच्या मार्गावर ने."
+    },
+    {
+      "refrain_id": "here_god_lives_among_his_people",
+      "text": "येथे देव आपल्या लोकांमध्ये वास करतो."
+    },
+    {
+      "refrain_id": "holy_holy_holy_lord_mighty_god",
+      "text": "पवित्र, पवित्र, पवित्र आहे प्रभू, सर्वसमर्थ देव!"
+    },
+    {
+      "refrain_id": "how_lovely_is_your_dwelling_place",
+      "text": "हे सर्वसमर्थ प्रभू, तुझे निवासस्थान किती सुंदर आहे!"
+    },
+    {
+      "refrain_id": "how_sweet_to_my_taste_is",
+      "text": "तुझे वचन माझ्या मुखाला किती गोड लागते!"
+    },
+    {
+      "refrain_id": "i_believe_that_i_shall_see",
+      "text": "माझा विश्वास आहे की मी जिवंतांच्या देशात प्रभूचे चांगुलपण पाहीन."
+    },
+    {
+      "refrain_id": "i_love_you_lord_my_strength",
+      "text": "हे प्रभू, माझ्या सामर्थ्या, मी तुझ्यावर प्रेम करतो."
+    },
+    {
+      "refrain_id": "i_shall_live_in_the_house",
+      "text": "मी माझ्या आयुष्यभर प्रभूच्या घरात राहीन."
+    },
+    {
+      "refrain_id": "i_will_praise_you_lord_in",
+      "text": "हे प्रभू, मी तुझ्या लोकांच्या मंडळीत तुझी स्तुती करीन."
+    },
+    {
+      "refrain_id": "i_will_seat_the_victor_beside",
+      "text": "जो विजयी होईल, त्याला मी माझ्या सिंहासनावर माझ्याबरोबर बसवीन."
+    },
+    {
+      "refrain_id": "i_will_walk_in_the_presence",
+      "text": "मी जिवंतांच्या प्रकाशात, देवाच्या समक्ष चालेन."
+    },
+    {
+      "refrain_id": "if_today_you_hear_his_voice",
+      "text": "आज जर तुम्ही त्याची वाणी ऐकाल, तर आपली अंतःकरणे कठीण करू नका."
+    },
+    {
+      "refrain_id": "in_every_age_o_lord_you",
+      "text": "हे प्रभू, तू युगानुयुगे आमचा आश्रय आहेस."
+    },
+    {
+      "refrain_id": "in_the_sight_of_the_angels",
+      "text": "हे प्रभू, देवदूतांसमोर मी तुझे गुणगान गाईन."
+    },
+    {
+      "refrain_id": "incline_your_ear_to_me_and",
+      "text": "तुझा कान माझ्याकडे झुकव आणि माझे शब्द ऐक."
+    },
+    {
+      "refrain_id": "into_your_hands_o_lord_i",
+      "text": "हे प्रभू, मी माझा आत्मा तुझ्या हाती सोपवतो."
+    },
+    {
+      "refrain_id": "justice_shall_flourish_in_his_time",
+      "text": "त्याच्या काळात नीतिमत्ता फुलेल आणि सर्वकाळ शांतीची विपुलता राहील."
+    },
+    {
+      "refrain_id": "lead_me_in_your_justice_lord",
+      "text": "हे प्रभू, मला तुझ्या नीतिमत्त्वाने चालव."
+    },
+    {
+      "refrain_id": "let_my_prayer_come_before_you",
+      "text": "हे प्रभू, माझी प्रार्थना तुझ्यापर्यंत पोहोचो."
+    },
+    {
+      "refrain_id": "let_the_clouds_rain_down_the",
+      "text": "हे आकाशांनो, नीतिमानाचा वर्षाव करा, आणि पृथ्वीने तारणाराला उगवू द्या."
+    },
+    {
+      "refrain_id": "let_the_heavens_be_glad_and",
+      "text": "आकाशांनी आनंद करावा आणि पृथ्वीने उल्हास करावा!"
+    },
+    {
+      "refrain_id": "let_us_go_rejoicing_to_the",
+      "text": "आपण आनंदाने प्रभूच्या घरी जाऊ."
+    },
+    {
+      "refrain_id": "let_your_mercy_come_to_me",
+      "text": "हे प्रभू, तुझी दया माझ्यावर येवो."
+    },
+    {
+      "refrain_id": "lift_up_your_heads_and_see",
+      "text": "आपले डोके वर करा आणि पाहा; तुमचे तारण जवळ आले आहे."
+    },
+    {
+      "refrain_id": "listen_to_me_daughter_see_and",
+      "text": "हे कन्ये, ऐक, पाहा आणि आपला कान लाव."
+    },
+    {
+      "refrain_id": "lord_let_us_see_your_kindness",
+      "text": "हे प्रभू, आम्हांला तुझी दया दाखव आणि आम्हांला तुझे तारण दे."
+    },
+    {
+      "refrain_id": "lord_let_your_face_shine_on",
+      "text": "हे प्रभू, तुझे मुख माझ्यावर प्रकाशित कर."
+    },
+    {
+      "refrain_id": "lord_make_us_turn_to_you",
+      "text": "हे प्रभू, आम्हांला तुझ्याकडे वळव; तुझे मुख प्रकाशित कर, म्हणजे आमचे तारण होईल."
+    },
+    {
+      "refrain_id": "lord_this_is_the_people_that",
+      "text": "हे प्रभू, हीच ती पिढी आहे जी तुझे मुख शोधते."
+    },
+    {
+      "refrain_id": "lord_when_your_glory_appears_my",
+      "text": "हे प्रभू, जेव्हा तुझे वैभव प्रकट होईल, तेव्हा माझा आनंद पूर्ण होईल."
+    },
+    {
+      "refrain_id": "marana_tha_come_lord_jesus",
+      "text": "मराना था! हे प्रभू येशू, ये!"
+    },
+    {
+      "refrain_id": "my_heart_exults_in_the_lord",
+      "text": "माझे हृदय माझ्या तारणारा प्रभूमध्ये आनंद करते."
+    },
+    {
+      "refrain_id": "my_mouth_shall_be_filled_with",
+      "text": "माझे तोंड तुझ्या स्तुतीने भरून जाईल, आणि मी तुझे वैभव गाईन!"
+    },
+    {
+      "refrain_id": "my_soul_is_thirsting_for_the",
+      "text": "माझा जीव जिवंत देवासाठी तहानलेला आहे."
+    },
+    {
+      "refrain_id": "my_soul_is_thirsting_for_you",
+      "text": "हे प्रभू माझ्या देवा, माझा जीव तुझ्यासाठी तहानलेला आहे."
+    },
+    {
+      "refrain_id": "my_soul_rejoices_in_my_god",
+      "text": "माझा जीव माझ्या देवामध्ये आनंद करतो."
+    },
+    {
+      "refrain_id": "o_bless_the_lord_my_soul",
+      "text": "हे माझ्या जिवा, प्रभूला धन्यवाद दे!"
+    },
+    {
+      "refrain_id": "our_god_will_come_to_save",
+      "text": "आमचा देव आम्हांला वाचवण्यासाठी येईल!"
+    },
+    {
+      "refrain_id": "our_soul_has_been_rescued_like",
+      "text": "आमचा जीव पारध्याच्या जाळ्यातून पक्ष्याप्रमाणे सुटला आहे."
+    },
+    {
+      "refrain_id": "remember_your_mercies_o_lord",
+      "text": "हे प्रभू, तुझ्या दयेची आठवण ठेव."
+    },
+    {
+      "refrain_id": "sing_to_the_lord_a_new",
+      "text": "प्रभूसाठी नवीन गीत गा, कारण त्याने अद्भुत कृत्ये केली आहेत."
+    },
+    {
+      "refrain_id": "teach_me_your_ways_o_lord",
+      "text": "हे प्रभू, मला तुझे मार्ग शिकव."
+    },
+    {
+      "refrain_id": "the_earth_is_full_of_the",
+      "text": "पृथ्वी प्रभूच्या चांगुलपणाने भरलेली आहे."
+    },
+    {
+      "refrain_id": "the_judgments_of_the_lord_are",
+      "text": "प्रभूचे निर्णय खरे आहेत, आणि ते सर्व न्याय्य आहेत."
+    },
+    {
+      "refrain_id": "the_lord_comes_to_judge_the",
+      "text": "प्रभू पृथ्वीचा न्याय करण्यासाठी येत आहे."
+    },
+    {
+      "refrain_id": "the_lord_has_made_known_his",
+      "text": "प्रभूने आपले तारण प्रगट केले आहे."
+    },
+    {
+      "refrain_id": "the_lord_hears_the_cry_of",
+      "text": "प्रभू गरिबांचा आक्रोश ऐकतो."
+    },
+    {
+      "refrain_id": "the_lord_is_gracious_and_merciful",
+      "text": "प्रभू दयाळू आणि करुणामय आहे; रागावण्यास मंद आणि अत्यंत दयाळू आहे."
+    },
+    {
+      "refrain_id": "the_lord_is_just_in_all",
+      "text": "प्रभू आपल्या सर्व मार्गांत नीतिमान आहे."
+    },
+    {
+      "refrain_id": "the_lord_is_kind_and_merciful",
+      "text": "प्रभू कनवाळू आणि दयाळू आहे; रागावण्यास मंद आणि करुणेने समृद्ध आहे."
+    },
+    {
+      "refrain_id": "the_lord_is_my_light_and",
+      "text": "प्रभू माझा प्रकाश आणि माझे तारण आहे."
+    },
+    {
+      "refrain_id": "the_lord_is_my_shepherd_there",
+      "text": "प्रभू माझा मेंढपाळ आहे; मला काहीही उणे पडणार नाही."
+    },
+    {
+      "refrain_id": "the_lord_is_near_to_all",
+      "text": "प्रभू त्या सर्वांच्या जवळ आहे जे त्याला हाक मारतात."
+    },
+    {
+      "refrain_id": "the_lord_made_us_we_belong",
+      "text": "प्रभूने आम्हांला निर्माण केले, आम्ही त्याचेच आहोत."
+    },
+    {
+      "refrain_id": "the_lord_speaks_of_peace_to",
+      "text": "प्रभू आपल्या लोकांना शांतीबद्दल बोलतो."
+    },
+    {
+      "refrain_id": "the_lord_will_remember_his_covenant",
+      "text": "प्रभू सर्वकाळ आपल्या कराराची आठवण ठेवील."
+    },
+    {
+      "refrain_id": "the_salvation_of_the_just_comes",
+      "text": "नीतिमानांचे तारण प्रभूकडून येते."
+    },
+    {
+      "refrain_id": "the_vineyard_of_the_lord_is",
+      "text": "प्रभूचा द्राक्षमळा म्हणजे इस्राएलचे घराणे आहे."
+    },
+    {
+      "refrain_id": "the_waters_of_the_river_gladden",
+      "text": "नदीचे प्रवाह देवाच्या नगराला, परात्पराच्या पवित्र निवासस्थानाला आनंदित करतात!"
+    },
+    {
+      "refrain_id": "their_message_goes_out_through_all",
+      "text": "त्यांचा संदेश सर्व पृथ्वीभर पसरतो."
+    },
+    {
+      "refrain_id": "those_who_are_victorious_i_will",
+      "text": "जो विजयी होईल, त्याला मी जीवनाच्या झाडाचे फळ खायला देईन."
+    },
+    {
+      "refrain_id": "those_who_follow_you_lord_will",
+      "text": "हे प्रभू, जो तुझ्या मागे चालेल, त्याला जीवनाचा प्रकाश मिळेल."
+    },
+    {
+      "refrain_id": "to_the_lord_belongs_the_earth",
+      "text": "पृथ्वी आणि तिच्यातील सर्व काही प्रभूचे आहे."
+    },
+    {
+      "refrain_id": "to_you_lord_i_will_offer",
+      "text": "हे प्रभू, मी तुला स्तुतीचा यज्ञ अर्पण करीन."
+    },
+    {
+      "refrain_id": "we_are_his_people_the_sheep",
+      "text": "आम्ही त्याचे लोक आहोत, त्याच्या कुरणाची मेंढरे आहोत."
+    },
+    {
+      "refrain_id": "with_delight_i_rejoice_in_the",
+      "text": "मी प्रभूमध्ये अत्यंत आनंद करतो."
+    },
+    {
+      "refrain_id": "you_are_the_highest_honor_of",
+      "text": "तू आमच्या वंशाचा सर्वात मोठा गौरव आहेस."
+    },
+    {
+      "refrain_id": "you_have_given_your_son_rule",
+      "text": "तू आपल्या पुत्राला तुझ्या हातांच्या कृत्यांवर अधिकार दिला आहेस."
+    },
+    {
+      "refrain_id": "you_will_draw_water_joyfully_from",
+      "text": "तुम्ही आनंदाने तारणाच्या झऱ्यांतून पाणी भराल."
+    },
+    {
+      "refrain_id": "your_word_o_lord_is_a",
+      "text": "हे प्रभू, तुझे वचन माझ्या पावलांसाठी दिवा आहे."
     }
   ]
 }
