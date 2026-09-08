@@ -13,6 +13,8 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
+import androidx.compose.material.icons.filled.Bookmark
+import androidx.compose.material.icons.outlined.BookmarkBorder
 import androidx.compose.material3.AssistChip
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
@@ -43,17 +45,33 @@ fun StoryDetailScreen(
     relatedCharacters: List<CharacterSummary>,
     onBack: () -> Unit,
     onCharacterSelected: (CharacterSummary) -> Unit,
+    onToggleSave: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     Column(modifier.fillMaxSize()) {
         Row(
-            Modifier.padding(horizontal = 20.dp).padding(top = 16.dp),
+            Modifier.fillMaxWidth().padding(horizontal = 20.dp).padding(top = 16.dp),
             verticalAlignment = Alignment.CenterVertically
         ) {
             IconButton(onClick = onBack) {
                 Icon(Icons.Filled.ArrowBack, contentDescription = stringResource(R.string.read_back))
             }
-            Text(story?.title ?: "", style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Medium)
+            Text(
+                story?.title ?: "",
+                modifier = Modifier.weight(1f),
+                style = MaterialTheme.typography.titleLarge,
+                fontWeight = FontWeight.Medium
+            )
+            if (story != null) {
+                IconButton(onClick = onToggleSave) {
+                    Icon(
+                        if (story.isSaved) Icons.Filled.Bookmark else Icons.Outlined.BookmarkBorder,
+                        contentDescription = stringResource(
+                            if (story.isSaved) R.string.verse_saved else R.string.verse_save
+                        )
+                    )
+                }
+            }
         }
 
         LazyColumn(Modifier.padding(horizontal = 20.dp)) {

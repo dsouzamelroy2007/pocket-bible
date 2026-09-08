@@ -479,6 +479,14 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         }
     }
 
+    fun toggleSaveCurrentStory() {
+        val story = _selectedStory.value ?: return
+        viewModelScope.launch {
+            repo.toggleSaveStory(story.id, story.isSaved)
+            _selectedStory.value = story.copy(isSaved = !story.isSaved)
+        }
+    }
+
     /** Loads [story]'s verse citations (resolving real text for each range from the current translation) and its curated related characters. */
     fun selectStory(story: StorySummary) {
         _selectedStory.value = story

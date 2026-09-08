@@ -19,6 +19,11 @@ class ContentRepository(private val dao: ContentDao) {
         else dao.save(SavedEntry(entryId = entryId, savedAt = System.currentTimeMillis()))
     }
 
+    suspend fun toggleSaveStory(storyId: String, currentlySaved: Boolean) {
+        if (currentlySaved) dao.unsaveStory(storyId)
+        else dao.saveStory(SavedStory(storyId = storyId, savedAt = System.currentTimeMillis()))
+    }
+
     suspend fun recordView(entryId: String, feelingId: String) {
         dao.record(ViewHistory(entryId = entryId, feelingId = feelingId, viewedAt = System.currentTimeMillis()))
     }

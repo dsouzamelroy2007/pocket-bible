@@ -346,6 +346,12 @@ data class SavedEntry(
     val note: String? = null
 )
 
+@Entity(tableName = "saved_story")
+data class SavedStory(
+    @PrimaryKey @ColumnInfo(name = "story_id") val storyId: String,
+    @ColumnInfo(name = "saved_at") val savedAt: Long
+)
+
 @Entity(tableName = "view_history", indices = [Index("entry_id")])
 data class ViewHistory(
     @PrimaryKey(autoGenerate = true) val id: Long = 0,
@@ -498,7 +504,8 @@ data class StorySummary(
     val summary: String,
     val moral: String,
     val reflection: String,
-    @ColumnInfo(name = "sort_order") val sortOrder: Int
+    @ColumnInfo(name = "sort_order") val sortOrder: Int,
+    @ColumnInfo(name = "is_saved") val isSaved: Boolean = false
 )
 
 // ---------- DAOs ----------
@@ -779,13 +786,21 @@ interface ContentDao {
                COALESCE(t.title, s.title) AS title,
                COALESCE(t.summary, s.summary) AS summary,
                COALESCE(t.moral, s.moral) AS moral,
-               COALESCE(t.reflection, s.reflection) AS reflection
+               COALESCE(t.reflection, s.reflection) AS reflection,
+               ss.story_id IS NOT NULL AS is_saved
         FROM story s
         LEFT JOIN story_translation t ON t.story_id = s.id AND t.language = :language
+        LEFT JOIN saved_story ss ON ss.story_id = s.id
         ORDER BY s.sort_order
         """
     )
     fun stories(language: String): Flow<List<StorySummary>>
+
+    @Insert
+    suspend fun saveStory(saved: SavedStory)
+
+    @Query("DELETE FROM saved_story WHERE story_id = :storyId")
+    suspend fun unsaveStory(storyId: String)
 
     @Query("SELECT * FROM story_verse_ref WHERE story_id = :storyId ORDER BY position")
     suspend fun verseRefsForStory(storyId: String): List<StoryVerseRef>
@@ -923,9 +938,10 @@ interface SeedDao {
         BibleCharacter::class, CharacterTranslation::class, CharacterVerseRef::class,
         BibleBookmark::class, CharacterVerseRefTranslation::class, CharacterOfDay::class,
         DailyReading::class, ReadingCitation::class, RefrainTranslation::class,
-        Story::class, StoryVerseRef::class, StoryTranslation::class, StoryCharacterLink::class
+        Story::class, StoryVerseRef::class, StoryTranslation::class, StoryCharacterLink::class,
+        SavedStory::class
     ],
-    version = 14,
+    version = 15,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {
