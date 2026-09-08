@@ -93,34 +93,6 @@ fun DailyReadingScreen(
         )
         Spacer(Modifier.height(12.dp))
 
-        verseOfDay?.let { verse ->
-            Card(
-                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.tertiaryContainer),
-                modifier = Modifier.fillMaxWidth().padding(horizontal = 20.dp)
-            ) {
-                Column(Modifier.padding(14.dp)) {
-                    Text(
-                        stringResource(R.string.home_verse_of_day),
-                        style = MaterialTheme.typography.labelMedium,
-                        color = MaterialTheme.colorScheme.onTertiaryContainer
-                    )
-                    Spacer(Modifier.height(6.dp))
-                    Text(
-                        verse.pullQuote ?: verse.text,
-                        style = MaterialTheme.typography.bodyMedium,
-                        fontStyle = FontStyle.Italic,
-                        color = MaterialTheme.colorScheme.onTertiaryContainer
-                    )
-                    Spacer(Modifier.height(6.dp))
-                    Text(
-                        localizedReference(verse.bookId, verse.chapterStart, verse.verseStart, verse.verseEnd),
-                        style = MaterialTheme.typography.labelSmall,
-                        color = MaterialTheme.colorScheme.onTertiaryContainer
-                    )
-                }
-            }
-        }
-
         Row(
             Modifier.fillMaxWidth().padding(horizontal = 8.dp).padding(top = 8.dp),
             verticalAlignment = Alignment.CenterVertically
@@ -173,6 +145,35 @@ fun DailyReadingScreen(
 
         LazyColumn(Modifier.padding(horizontal = 20.dp)) {
             item { Spacer(Modifier.height(4.dp)) }
+            verseOfDay?.let { verse ->
+                item {
+                    Card(
+                        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.tertiaryContainer),
+                        modifier = Modifier.fillMaxWidth().padding(bottom = 10.dp)
+                    ) {
+                        Column(Modifier.padding(14.dp)) {
+                            Text(
+                                stringResource(R.string.home_verse_of_day),
+                                style = MaterialTheme.typography.labelMedium,
+                                color = MaterialTheme.colorScheme.onTertiaryContainer
+                            )
+                            Spacer(Modifier.height(6.dp))
+                            Text(
+                                verse.pullQuote ?: verse.text,
+                                style = MaterialTheme.typography.bodyMedium,
+                                fontStyle = FontStyle.Italic,
+                                color = MaterialTheme.colorScheme.onTertiaryContainer
+                            )
+                            Spacer(Modifier.height(6.dp))
+                            Text(
+                                localizedReference(verse.bookId, verse.chapterStart, verse.verseStart, verse.verseEnd),
+                                style = MaterialTheme.typography.labelSmall,
+                                color = MaterialTheme.colorScheme.onTertiaryContainer
+                            )
+                        }
+                    }
+                }
+            }
             if (dailyReading == null) {
                 item {
                     Text(

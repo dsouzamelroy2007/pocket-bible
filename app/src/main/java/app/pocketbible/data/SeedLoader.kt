@@ -42,6 +42,12 @@ import org.json.JSONObject
  *                         the Characters tab, capped at 10 per character).
  *   - story_translation entries, same fallback-to-English pattern as
  *                         character_translation
+ *   - refrain_translation entries, same fallback-to-English pattern,
+ *                         joined on a reading_citation's optional refrain_id
+ *                         (a stable id like "alleluia_alleluia") rather than
+ *                         its raw English refrain text -- see
+ *                         content/refrains/<language>.json and the
+ *                         "refrain_translations" manifest list
  *
  * Adding a book or a new translation/language is meant to be a matter of
  * dropping a new scripture/<translation_id>/<book_id>.json file (see
@@ -320,6 +326,7 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                     val role = reading.getString("role")
                     val citationDisplay = reading.getString("citation_display")
                     val refrain = if (reading.has("refrain")) reading.getString("refrain") else null
+                    val refrainId = if (reading.has("refrain_id")) reading.getString("refrain_id") else null
                     val refs = reading.optJSONArray("refs") ?: JSONArray()
                     for (p in 0 until refs.length()) {
                         val r = refs.getJSONObject(p)
@@ -333,7 +340,8 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                             chapterEnd = r.getInt("chapter_end"),
                             verseEnd = r.getInt("verse_end"),
                             position = p,
-                            refrain = refrain
+                            refrain = refrain,
+                            refrainId = refrainId
                         )
                     }
                 }
@@ -342,6 +350,22 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
         seedDao.insertDailyReadings(dailyReadings)
         seedDao.clearReadingCitations()
         seedDao.insertReadingCitations(readingCitations)
+
+        val refrainTranslations = mutableListOf<RefrainTranslation>()
+        val refrainTranslationFiles = manifest.optJSONArray("refrain_translations") ?: JSONArray()
+        for (i in 0 until refrainTranslationFiles.length()) {
+            val ref = refrainTranslationFiles.getJSONObject(i)
+            val file = readJson(ref.getString("path"))
+            val language = file.getString("language")
+            file.optJSONArray("refrain_translations")?.mapObjects { o ->
+                RefrainTranslation(
+                    refrainId = o.getString("refrain_id"),
+                    language = language,
+                    text = o.getString("text")
+                )
+            }?.let { refrainTranslations += it }
+        }
+        seedDao.insertRefrainTranslations(refrainTranslations)
 
         manifest.optString("stories", "").takeIf { it.isNotEmpty() }?.let { path ->
             val storiesFile = readJson(path)

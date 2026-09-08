@@ -237,7 +237,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         val date = _selectedReadingDate.value.format(DateTimeFormatter.ISO_LOCAL_DATE)
         _dailyReading.value = repo.dailyReading(date)
         val translationId = currentTranslationId()
-        _resolvedReadings.value = repo.readingCitations(date)
+        _resolvedReadings.value = repo.readingCitations(date, currentLanguage())
             .groupBy { it.role }
             .map { (role, refs) ->
                 val sorted = refs.sortedBy { it.position }

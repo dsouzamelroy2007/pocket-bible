@@ -80,7 +80,7 @@ class ContentRepository(private val dao: ContentDao) {
 
     suspend fun dailyReading(date: String): DailyReading? = dao.dailyReading(date)
 
-    suspend fun readingCitations(date: String): List<ReadingCitation> = dao.readingCitations(date)
+    suspend fun readingCitations(date: String, language: String): List<ReadingCitation> = dao.readingCitations(date, language)
 
     suspend fun earliestReadingDate(): String? = dao.earliestReadingDate()
 

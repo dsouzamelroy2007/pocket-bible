@@ -428,7 +428,27 @@ data class ReadingCitation(
     @ColumnInfo(name = "chapter_end") val chapterEnd: Int,
     @ColumnInfo(name = "verse_end") val verseEnd: Int,
     val position: Int,
-    val refrain: String? = null
+    val refrain: String? = null,
+    @ColumnInfo(name = "refrain_id") val refrainId: String? = null
+)
+
+/**
+ * A translated refrain, in one UI language, for a canonical refrain phrase
+ * (e.g. "Alleluia, alleluia.") identified by `refrainId` -- the same
+ * fallback-to-English pattern as `feeling_translation`, joined on a stable
+ * id rather than the raw English text so the lookup stays correct even if
+ * the English wording is later tweaked. `reading_citation.refrain` stays
+ * the English original and doubles as the fallback when no row exists here
+ * for the app's current language.
+ */
+@Entity(
+    tableName = "refrain_translation",
+    primaryKeys = ["refrain_id", "language"]
+)
+data class RefrainTranslation(
+    @ColumnInfo(name = "refrain_id") val refrainId: String,
+    val language: String,
+    val text: String
 )
 
 // ---------- Read models used by the UI ----------
@@ -701,8 +721,19 @@ interface ContentDao {
     @Query("SELECT * FROM daily_reading WHERE date = :date")
     suspend fun dailyReading(date: String): DailyReading?
 
-    @Query("SELECT * FROM reading_citation WHERE date = :date ORDER BY role, position")
-    suspend fun readingCitations(date: String): List<ReadingCitation>
+    @Query(
+        """
+        SELECT rc.id, rc.date, rc.role, rc.citation_display, rc.book_id, rc.chapter_start,
+            rc.verse_start, rc.chapter_end, rc.verse_end, rc.position, rc.refrain_id,
+            COALESCE(rt.text, rc.refrain) AS refrain
+        FROM reading_citation rc
+        LEFT JOIN refrain_translation rt
+            ON rt.refrain_id = rc.refrain_id AND rt.language = :language
+        WHERE rc.date = :date
+        ORDER BY rc.role, rc.position
+        """
+    )
+    suspend fun readingCitations(date: String, language: String): List<ReadingCitation>
 
     /** Earliest/latest date this app has any lectionary year loaded for, so the day picker can bound itself to real data instead of a hardcoded year. Null if none seeded yet. */
     @Query("SELECT MIN(date) FROM daily_reading")
@@ -858,6 +889,9 @@ interface SeedDao {
     suspend fun insertReadingCitations(items: List<ReadingCitation>)
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertRefrainTranslations(items: List<RefrainTranslation>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertStories(items: List<Story>)
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
@@ -888,10 +922,10 @@ interface SeedDao {
         SavedEntry::class, ViewHistory::class, ScriptureVerse::class,
         BibleCharacter::class, CharacterTranslation::class, CharacterVerseRef::class,
         BibleBookmark::class, CharacterVerseRefTranslation::class, CharacterOfDay::class,
-        DailyReading::class, ReadingCitation::class,
+        DailyReading::class, ReadingCitation::class, RefrainTranslation::class,
         Story::class, StoryVerseRef::class, StoryTranslation::class, StoryCharacterLink::class
     ],
-    version = 13,
+    version = 14,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {
