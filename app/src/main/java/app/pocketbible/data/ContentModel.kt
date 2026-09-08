@@ -391,16 +391,27 @@ data class DailyReading(
 
 /**
  * One citation (book/chapter/verse range) belonging to one reading role
- * ("first_reading", "psalm", "second_reading", "gospel") on one date.
- * Several rows can share a `date` + `role` -- a psalm citation like
- * "67:2-3, 5, 6, 8" is 4 rows, `position` 0-3 -- and `chapterStart` can
- * differ from `chapterEnd` for a genuine cross-chapter span like
- * "Isaiah 52:13-53:12". `citationDisplay` is the same human-readable
- * reference repeated on every row for that role (e.g. "Psalm 67:2-3, 5,
- * 6, 8") -- denormalized, same tradeoff `CharacterVerseRef.caption`
- * already makes, for the same reason: no real UI to show it once and
- * fan it out. No text is stored -- resolved live from scripture_verse,
- * same as everywhere else in this app.
+ * ("first_reading", "psalm", "second_reading", "acclamation", "gospel")
+ * on one date. Several rows can share a `date` + `role` -- a psalm
+ * citation like "67:2-3, 5, 6, 8" is 4 rows, `position` 0-3 -- and
+ * `chapterStart` can differ from `chapterEnd` for a genuine cross-chapter
+ * span like "Isaiah 52:13-53:12". `citationDisplay` is the same
+ * human-readable reference repeated on every row for that role (e.g.
+ * "Psalm 67:2-3, 5, 6, 8") -- denormalized, same tradeoff
+ * `CharacterVerseRef.caption` already makes, for the same reason: no
+ * real UI to show it once and fan it out. No text is stored -- resolved
+ * live from scripture_verse, same as everywhere else in this app.
+ *
+ * `refrain` is the spoken/sung refrain line repeated between stanzas
+ * (e.g. "R. Their message goes out through all the earth." for a psalm,
+ * or "Alleluia, alleluia." for the Gospel Acclamation) -- unlike the
+ * citation, this text doesn't resolve from scripture (it's a liturgical
+ * refrain, not always a verbatim Bible verse), so it's stored directly,
+ * repeated on every row for that role same as `citationDisplay`. Null
+ * when not known for that day's role -- the UI hides the refrain line
+ * (or, for "acclamation", the whole card, since that role's rows only
+ * exist on days a citation was actually resolved) rather than showing
+ * a blank.
  */
 @Entity(
     tableName = "reading_citation",
@@ -416,7 +427,8 @@ data class ReadingCitation(
     @ColumnInfo(name = "verse_start") val verseStart: Int,
     @ColumnInfo(name = "chapter_end") val chapterEnd: Int,
     @ColumnInfo(name = "verse_end") val verseEnd: Int,
-    val position: Int
+    val position: Int,
+    val refrain: String? = null
 )
 
 // ---------- Read models used by the UI ----------
@@ -879,7 +891,7 @@ interface SeedDao {
         DailyReading::class, ReadingCitation::class,
         Story::class, StoryVerseRef::class, StoryTranslation::class, StoryCharacterLink::class
     ],
-    version = 12,
+    version = 13,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {

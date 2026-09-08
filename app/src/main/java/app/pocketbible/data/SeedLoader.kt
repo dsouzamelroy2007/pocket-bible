@@ -319,6 +319,7 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                     val reading = readings.getJSONObject(k)
                     val role = reading.getString("role")
                     val citationDisplay = reading.getString("citation_display")
+                    val refrain = if (reading.has("refrain")) reading.getString("refrain") else null
                     val refs = reading.optJSONArray("refs") ?: JSONArray()
                     for (p in 0 until refs.length()) {
                         val r = refs.getJSONObject(p)
@@ -331,7 +332,8 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                             verseStart = r.getInt("verse_start"),
                             chapterEnd = r.getInt("chapter_end"),
                             verseEnd = r.getInt("verse_end"),
-                            position = p
+                            position = p,
+                            refrain = refrain
                         )
                     }
                 }

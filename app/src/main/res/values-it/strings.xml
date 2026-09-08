@@ -23,9 +23,11 @@
     <string name="reading_role_first_reading">Prima Lettura</string>
     <string name="reading_role_psalm">Salmo Responsoriale</string>
     <string name="reading_role_second_reading">Seconda Lettura</string>
+    <string name="reading_role_acclamation">Canto al Vangelo</string>
     <string name="reading_role_gospel">Vangelo</string>
     <string name="reading_text_unavailable">Non ancora disponibile in questa lingua.</string>
     <string name="reading_reflection_heading">Riflessione</string>
+    <string name="reading_refrain_prefix">R. %1$s</string>
     <string name="reading_none_today">Nessuna lettura caricata per la data odierna.</string>
 
     <string name="read_title">Bibbia</string>

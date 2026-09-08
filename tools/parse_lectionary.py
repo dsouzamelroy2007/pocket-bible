@@ -50,7 +50,7 @@ BOOK_NAME_TO_ID = {
     "leviticus": "lev", "luke": "lk", "malachi": "mal", "mark": "mk",
     "matthew": "mt", "micah": "mic", "nahum": "nah", "nehemiah": "neh",
     "numbers": "num", "obadiah": "obad",
-    "philippians": "phil", "phiippians": "phil",  # source typo, seen in the wild
+    "philippians": "phil", "phiippians": "phil", "phippians": "phil",  # source typos, seen in the wild
     "philemon": "phlm", "proverbs": "pr", "psalm": "ps", "psalms": "ps",
     "revelation": "rev", "romans": "ro", "ruth": "ruth", "sirach": "sir",
     "sirarch": "sir",  # source typo, seen in the wild
@@ -128,6 +128,13 @@ def parse_citation(citation: str):
     (e.g. Esther's lettered Greek-addition chapters).
     """
     citation = citation.split(" or ")[0].strip().rstrip(".")
+    # Gospel Acclamation citations on USCCB are sometimes prefixed "See "
+    # or "Cf. " (a loose paraphrase rather than a verbatim quote) -- the
+    # cited passage is still real and resolvable, so strip the prefix
+    # rather than failing to parse. Also normalize a stray non-breaking
+    # space (seen between book name and chapter:verse on some days).
+    citation = re.sub(r"^(?:see|cf\.?)\s+", "", citation, flags=re.IGNORECASE)
+    citation = citation.replace("\xa0", " ")
     m = _BOOK_RE.match(citation)
     if not m:
         return None, []

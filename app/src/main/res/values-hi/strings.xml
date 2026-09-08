@@ -23,9 +23,11 @@
     <string name="reading_role_first_reading">पहला पाठ</string>
     <string name="reading_role_psalm">प्रत्युत्तर स्तोत्र</string>
     <string name="reading_role_second_reading">दूसरा पाठ</string>
+    <string name="reading_role_acclamation">सुसमाचार से पहले आह्वान</string>
     <string name="reading_role_gospel">सुसमाचार</string>
     <string name="reading_text_unavailable">इस भाषा में अभी उपलब्ध नहीं है।</string>
     <string name="reading_reflection_heading">चिंतन</string>
+    <string name="reading_refrain_prefix">R. %1$s</string>
     <string name="reading_none_today">आज की तारीख के लिए अभी तक कोई पाठ लोड नहीं हुआ है।</string>
 
     <string name="read_title">बाइबिल</string>

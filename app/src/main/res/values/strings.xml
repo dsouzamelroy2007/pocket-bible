@@ -28,9 +28,11 @@
     <string name="reading_role_first_reading">First Reading</string>
     <string name="reading_role_psalm">Responsorial Psalm</string>
     <string name="reading_role_second_reading">Second Reading</string>
+    <string name="reading_role_acclamation">Gospel Acclamation</string>
     <string name="reading_role_gospel">Gospel</string>
     <string name="reading_text_unavailable">Not available in this language yet.</string>
     <string name="reading_reflection_heading">Reflection</string>
+    <string name="reading_refrain_prefix">R. %1$s</string>
     <string name="reading_none_today">No readings loaded for this date yet.</string>
     <string name="reading_previous_day">Previous day</string>
     <string name="reading_next_day">Next day</string>

@@ -63,6 +63,7 @@ private fun roleHeading(role: String): Int = when (role) {
     "first_reading" -> R.string.reading_role_first_reading
     "psalm" -> R.string.reading_role_psalm
     "second_reading" -> R.string.reading_role_second_reading
+    "acclamation" -> R.string.reading_role_acclamation
     "gospel" -> R.string.reading_role_gospel
     else -> R.string.reading_role_first_reading
 }
@@ -193,6 +194,16 @@ fun DailyReadingScreen(
                             fontWeight = FontWeight.Medium,
                             color = MaterialTheme.colorScheme.onPrimaryContainer
                         )
+                        if (reading.refrain != null) {
+                            Spacer(Modifier.height(4.dp))
+                            Text(
+                                stringResource(R.string.reading_refrain_prefix, reading.refrain),
+                                style = MaterialTheme.typography.bodyMedium,
+                                fontWeight = FontWeight.Medium,
+                                fontStyle = FontStyle.Italic,
+                                color = MaterialTheme.colorScheme.onPrimaryContainer
+                            )
+                        }
                         Spacer(Modifier.height(6.dp))
                         if (reading.text.isEmpty()) {
                             Text(

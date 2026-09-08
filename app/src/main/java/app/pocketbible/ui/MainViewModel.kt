@@ -42,20 +42,23 @@ data class CharacterVerseDisplay(
 )
 
 /**
- * One reading role ("first_reading"/"psalm"/"second_reading"/"gospel") for
- * today, its citation, and the real resolved text for the current
- * translation -- empty if that translation doesn't have the cited
+ * One reading role ("first_reading"/"psalm"/"second_reading"/"acclamation"/
+ * "gospel") for today, its citation, and the real resolved text for the
+ * current translation -- empty if that translation doesn't have the cited
  * book/chapter(s) yet. [bookId]/[fragments] are kept (rather than trusting
  * [citationDisplay] alone, which is always the bundled English string) so
  * the UI can render the citation localized via `localizedCitationDisplay`,
  * the same book-id-plus-numbers tradeoff [CharacterVerseDisplay] already makes.
+ * [refrain] is the spoken/sung refrain line (see [ReadingCitation.refrain]) --
+ * null when not known for that day/role.
  */
 data class ResolvedReading(
     val role: String,
     val citationDisplay: String,
     val bookId: String,
     val fragments: List<CitationFragment>,
-    val text: String
+    val text: String,
+    val refrain: String? = null
 )
 
 /** A story's citation paired with the real verse text, resolved for the current translation -- same shape as [CharacterVerseDisplay], but spans a chapter range (a story's reference can cross more than one chapter, e.g. "Genesis 1-2") rather than one chapter. */
@@ -68,7 +71,7 @@ data class StoryVerseDisplay(
     val verses: List<ScriptureVerse>
 )
 
-private val READING_ROLE_ORDER = listOf("first_reading", "psalm", "second_reading", "gospel")
+private val READING_ROLE_ORDER = listOf("first_reading", "psalm", "second_reading", "acclamation", "gospel")
 
 class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
@@ -247,7 +250,8 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
                     citationDisplay = sorted.first().citationDisplay,
                     bookId = sorted.first().bookId,
                     fragments = sorted.map { CitationFragment(it.chapterStart, it.verseStart, it.chapterEnd, it.verseEnd) },
-                    text = perRange.joinToString(" ")
+                    text = perRange.joinToString(" "),
+                    refrain = sorted.first().refrain
                 )
             }
             .sortedBy { READING_ROLE_ORDER.indexOf(it.role) }

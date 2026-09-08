@@ -23,9 +23,11 @@
     <string name="reading_role_first_reading">पहिले वाचन</string>
     <string name="reading_role_psalm">प्रतिसादात्मक स्तोत्र</string>
     <string name="reading_role_second_reading">दुसरे वाचन</string>
+    <string name="reading_role_acclamation">शुभवर्तमानापूर्वीचा जयघोष</string>
     <string name="reading_role_gospel">शुभवर्तमान</string>
     <string name="reading_text_unavailable">या भाषेत अद्याप उपलब्ध नाही.</string>
     <string name="reading_reflection_heading">मनन</string>
+    <string name="reading_refrain_prefix">R. %1$s</string>
     <string name="reading_none_today">आजच्या तारखेसाठी अद्याप कोणतीही वाचने लोड झालेली नाहीत.</string>
 
     <string name="read_title">बायबल</string>
