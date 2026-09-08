@@ -1,6 +1,7 @@
 package app.pocketbible.ui.reading
 
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -40,6 +41,7 @@ import androidx.compose.ui.unit.dp
 import app.pocketbible.R
 import app.pocketbible.data.DailyReading
 import app.pocketbible.data.Passage
+import app.pocketbible.ui.LanguageMenuButton
 import app.pocketbible.ui.ResolvedReading
 import app.pocketbible.ui.bible.localizedCitationDisplay
 import app.pocketbible.ui.bible.localizedReference
@@ -80,17 +82,25 @@ fun DailyReadingScreen(
     onNextDay: () -> Unit,
     onToday: () -> Unit,
     onDateSelected: (LocalDate) -> Unit,
+    onLanguageSelected: (String?) -> Unit,
     modifier: Modifier = Modifier
 ) {
     var showDatePicker by remember { mutableStateOf(false) }
 
     Column(modifier.fillMaxSize()) {
-        Text(
-            stringResource(R.string.reading_title),
-            style = MaterialTheme.typography.titleLarge,
-            fontWeight = FontWeight.Medium,
-            modifier = Modifier.padding(horizontal = 20.dp).padding(top = 16.dp)
-        )
+        Row(
+            Modifier.fillMaxWidth().padding(horizontal = 20.dp).padding(top = 16.dp),
+            horizontalArrangement = Arrangement.SpaceBetween,
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text(
+                stringResource(R.string.reading_title),
+                style = MaterialTheme.typography.titleLarge,
+                fontWeight = FontWeight.Medium,
+                modifier = Modifier.weight(1f)
+            )
+            LanguageMenuButton(onLanguageSelected = onLanguageSelected)
+        }
         Spacer(Modifier.height(12.dp))
 
         Row(

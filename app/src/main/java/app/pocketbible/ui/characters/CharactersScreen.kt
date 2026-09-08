@@ -1,7 +1,9 @@
 package app.pocketbible.ui.characters
 
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
@@ -20,6 +22,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
@@ -27,6 +30,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import app.pocketbible.R
 import app.pocketbible.data.CharacterSummary
+import app.pocketbible.ui.LanguageMenuButton
 
 /** Category codes in display order, mapped to their header string resource. */
 private val CATEGORY_ORDER: List<Pair<String, Int>> = listOf(
@@ -47,6 +51,7 @@ private val CATEGORY_ORDER: List<Pair<String, Int>> = listOf(
 fun CharactersScreen(
     characters: List<CharacterSummary>,
     onCharacterSelected: (CharacterSummary) -> Unit,
+    onLanguageSelected: (String?) -> Unit,
     modifier: Modifier = Modifier
 ) {
     var query by remember { mutableStateOf("") }
@@ -60,7 +65,15 @@ fun CharactersScreen(
     LazyColumn(modifier.padding(horizontal = 20.dp)) {
         item {
             Spacer(Modifier.height(16.dp))
-            Text(stringResource(R.string.character_title), style = MaterialTheme.typography.headlineSmall, fontWeight = FontWeight.Medium)
+            Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
+                Text(
+                    stringResource(R.string.character_title),
+                    modifier = Modifier.weight(1f),
+                    style = MaterialTheme.typography.headlineSmall,
+                    fontWeight = FontWeight.Medium
+                )
+                LanguageMenuButton(onLanguageSelected = onLanguageSelected)
+            }
             Spacer(Modifier.height(4.dp))
             Text(
                 stringResource(R.string.character_subtitle),

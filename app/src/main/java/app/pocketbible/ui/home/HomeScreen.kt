@@ -8,18 +8,14 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Info
-import androidx.compose.material.icons.filled.Language
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
-import androidx.compose.material3.DropdownMenu
-import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ElevatedCard
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
@@ -39,24 +35,8 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import app.pocketbible.R
 import app.pocketbible.data.Feeling
+import app.pocketbible.ui.LanguageMenuButton
 import app.pocketbible.ui.theme.categoryAccent
-
-/**
- * Language tag to native name, so each option stays findable regardless of
- * the app's current locale. `null` means "follow the system language" and
- * is rendered separately using [R.string.language_system_default].
- */
-private val APP_LANGUAGES: List<Pair<String?, String>> = listOf(
-    null to "",
-    "en" to "English",
-    "de" to "Deutsch",
-    "fr" to "Français",
-    "pt" to "Português",
-    "es" to "Español",
-    "hi" to "हिन्दी",
-    "it" to "Italiano",
-    "mr" to "मराठी"
-)
 
 @Composable
 fun HomeScreen(
@@ -177,28 +157,6 @@ fun HomeScreen(
         }
 
         Spacer(Modifier.height(24.dp))
-    }
-}
-
-@Composable
-private fun LanguageMenuButton(onLanguageSelected: (String?) -> Unit) {
-    var expanded by remember { mutableStateOf(false) }
-    val systemDefaultLabel = stringResource(R.string.language_system_default)
-    Box {
-        IconButton(onClick = { expanded = true }) {
-            Icon(Icons.Filled.Language, contentDescription = stringResource(R.string.language_button))
-        }
-        DropdownMenu(expanded = expanded, onDismissRequest = { expanded = false }) {
-            APP_LANGUAGES.forEach { (tag, nativeName) ->
-                DropdownMenuItem(
-                    text = { Text(if (tag == null) systemDefaultLabel else nativeName) },
-                    onClick = {
-                        expanded = false
-                        onLanguageSelected(tag)
-                    }
-                )
-            }
-        }
     }
 }
 

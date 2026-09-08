@@ -173,6 +173,15 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
     val characterRoutes = setOf("characters", "character_detail")
     val storyRoutes = setOf("stories", "story_detail")
 
+    // Hindi and Marathi labels are all short -- neither has a single long
+    // unbreakable word like "Personalities"/"Persönlichkeiten" -- so the
+    // extra weight tuned for Latin scripts (below) just leaves oversized
+    // gaps around the Characters tab for those two languages; give every
+    // tab an even share instead. The app recreate()s on every language
+    // switch, so this only needs to be read once per composition.
+    val language = AppCompatDelegate.getApplicationLocales().get(0)?.language
+    val evenNavWeights = language == "hi" || language == "mr"
+
     Scaffold(
         bottomBar = {
             Column(
@@ -193,7 +202,7 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     // the extra width Personalities does, which gets 1.2 (the
                     // longest label, forced onto one line).
                     WeightedNavItem(
-                        weight = 0.9f,
+                        weight = if (evenNavWeights) 1.0f else 0.9f,
                         selected = currentRoute == "home" || currentRoute == "verse" || currentRoute == null,
                         onClick = { navController.navigate("home") { launchSingleTop = true } },
                         icon = {
@@ -205,7 +214,7 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                         label = { NavLabel(stringResource(R.string.nav_topics)) }
                     )
                     WeightedNavItem(
-                        weight = 0.9f,
+                        weight = if (evenNavWeights) 1.0f else 0.9f,
                         selected = currentRoute in bibleRoutes,
                         onClick = { navController.navigate("bible") { launchSingleTop = true } },
                         icon = {
@@ -229,7 +238,7 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                         label = { NavLabel(stringResource(R.string.nav_daily)) }
                     )
                     WeightedNavItem(
-                        weight = 1.2f,
+                        weight = if (evenNavWeights) 1.0f else 1.2f,
                         selected = currentRoute in characterRoutes,
                         onClick = { navController.navigate("characters") { launchSingleTop = true } },
                         icon = {
@@ -294,7 +303,8 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     onPreviousDay = { viewModel.previousReadingDay() },
                     onNextDay = { viewModel.nextReadingDay() },
                     onToday = { viewModel.goToTodayReading() },
-                    onDateSelected = { viewModel.goToReadingDate(it) }
+                    onDateSelected = { viewModel.goToReadingDate(it) },
+                    onLanguageSelected = onLanguageSelected
                 )
             }
             composable("about") {
@@ -325,7 +335,8 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     onCharacterSelected = {
                         viewModel.selectCharacter(it)
                         navController.navigate("character_detail")
-                    }
+                    },
+                    onLanguageSelected = onLanguageSelected
                 )
             }
             composable("character_detail") {
@@ -344,7 +355,8 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     onStorySelected = {
                         viewModel.selectStory(it)
                         navController.navigate("story_detail")
-                    }
+                    },
+                    onLanguageSelected = onLanguageSelected
                 )
             }
             composable("story_detail") {
@@ -359,7 +371,8 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     onCharacterSelected = {
                         viewModel.selectCharacter(it)
                         navController.navigate("character_detail")
-                    }
+                    },
+                    onToggleSave = { viewModel.toggleSaveCurrentStory() }
                 )
             }
             composable("bible") {
@@ -384,7 +397,8 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                             if (viewModel.openBookmark(bookmark)) navController.navigate("bible_reader")
                         }
                     },
-                    onBookmarkDeleted = { viewModel.deleteBookmark(it.id) }
+                    onBookmarkDeleted = { viewModel.deleteBookmark(it.id) },
+                    onLanguageSelected = onLanguageSelected
                 )
             }
             composable("bible_reader") {
