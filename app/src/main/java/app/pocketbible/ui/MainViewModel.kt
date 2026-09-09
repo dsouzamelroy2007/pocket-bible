@@ -235,7 +235,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     /** Loads the selected date's Mass readings (if this app ships that date's lectionary year) and resolves each role's citation(s) to real text for the current translation. */
     private suspend fun loadDailyReading() {
         val date = _selectedReadingDate.value.format(DateTimeFormatter.ISO_LOCAL_DATE)
-        _dailyReading.value = repo.dailyReading(date)
+        _dailyReading.value = repo.dailyReading(date, currentLanguage())
         val translationId = currentTranslationId()
         _resolvedReadings.value = repo.readingCitations(date, currentLanguage())
             .groupBy { it.role }

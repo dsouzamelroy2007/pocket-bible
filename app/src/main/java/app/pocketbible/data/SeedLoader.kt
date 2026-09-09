@@ -48,6 +48,10 @@ import org.json.JSONObject
  *                         its raw English refrain text -- see
  *                         content/refrains/<language>.json and the
  *                         "refrain_translations" manifest list
+ *   - reflection_translation entries, same fallback-to-English pattern,
+ *                         joined on daily_reading's date -- see
+ *                         content/reflections/<year>/<language>.json and the
+ *                         "reflection_translations" manifest list
  *
  * Adding a book or a new translation/language is meant to be a matter of
  * dropping a new scripture/<translation_id>/<book_id>.json file (see
@@ -366,6 +370,22 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
             }?.let { refrainTranslations += it }
         }
         seedDao.insertRefrainTranslations(refrainTranslations)
+
+        val reflectionTranslations = mutableListOf<ReflectionTranslation>()
+        val reflectionTranslationFiles = manifest.optJSONArray("reflection_translations") ?: JSONArray()
+        for (i in 0 until reflectionTranslationFiles.length()) {
+            val ref = reflectionTranslationFiles.getJSONObject(i)
+            val file = readJson(ref.getString("path"))
+            val language = file.getString("language")
+            file.optJSONArray("reflections")?.mapObjects { o ->
+                ReflectionTranslation(
+                    date = o.getString("date"),
+                    language = language,
+                    reflection = o.getString("reflection")
+                )
+            }?.let { reflectionTranslations += it }
+        }
+        seedDao.insertReflectionTranslations(reflectionTranslations)
 
         manifest.optString("stories", "").takeIf { it.isNotEmpty() }?.let { path ->
             val storiesFile = readJson(path)

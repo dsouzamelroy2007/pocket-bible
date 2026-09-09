@@ -396,6 +396,22 @@ data class DailyReading(
 )
 
 /**
+ * A translated reflection, in one UI language, for one date -- same
+ * fallback-to-English pattern as `entry_translation`/`story_translation`.
+ * `daily_reading.reflection` stays the English original and doubles as
+ * the fallback when no row exists here for the app's current language.
+ */
+@Entity(
+    tableName = "reflection_translation",
+    primaryKeys = ["date", "language"]
+)
+data class ReflectionTranslation(
+    val date: String,
+    val language: String,
+    val reflection: String
+)
+
+/**
  * One citation (book/chapter/verse range) belonging to one reading role
  * ("first_reading", "psalm", "second_reading", "acclamation", "gospel")
  * on one date. Several rows can share a `date` + `role` -- a psalm
@@ -725,8 +741,15 @@ interface ContentDao {
 
     // ---------- Daily readings ----------
 
-    @Query("SELECT * FROM daily_reading WHERE date = :date")
-    suspend fun dailyReading(date: String): DailyReading?
+    @Query(
+        """
+        SELECT dr.date, dr.season, dr.usccb_link, COALESCE(rft.reflection, dr.reflection) AS reflection
+        FROM daily_reading dr
+        LEFT JOIN reflection_translation rft ON rft.date = dr.date AND rft.language = :language
+        WHERE dr.date = :date
+        """
+    )
+    suspend fun dailyReading(date: String, language: String): DailyReading?
 
     @Query(
         """
@@ -929,6 +952,9 @@ interface SeedDao {
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertStoryCharacterLinks(items: List<StoryCharacterLink>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertReflectionTranslations(items: List<ReflectionTranslation>)
 }
 
 @Database(
@@ -941,9 +967,9 @@ interface SeedDao {
         BibleBookmark::class, CharacterVerseRefTranslation::class, CharacterOfDay::class,
         DailyReading::class, ReadingCitation::class, RefrainTranslation::class,
         Story::class, StoryVerseRef::class, StoryTranslation::class, StoryCharacterLink::class,
-        SavedStory::class
+        SavedStory::class, ReflectionTranslation::class
     ],
-    version = 15,
+    version = 16,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {
