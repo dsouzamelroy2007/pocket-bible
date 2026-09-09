@@ -53,6 +53,8 @@
 
     <string name="saved_title">सहेजे गए</string>
     <string name="saved_empty">आपके सहेजे गए पद यहां दिखाई देते हैं और ऑफ़लाइन भी उपलब्ध रहते हैं।</string>
+    <string name="saved_stories_title">सहेजी गई कहानियां</string>
+    <string name="saved_stories_empty">आपकी सहेजी गई कहानियां यहां दिखाई देती हैं और ऑफ़लाइन भी उपलब्ध रहती हैं।</string>
 
     <!-- Personalities tab -->
     <string name="character_title">व्यक्तित्व</string>

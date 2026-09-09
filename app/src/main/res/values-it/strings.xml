@@ -53,6 +53,8 @@
 
     <string name="saved_title">Salvati</string>
     <string name="saved_empty">I versetti che salvi appariranno qui e resteranno disponibili offline.</string>
+    <string name="saved_stories_title">Storie salvate</string>
+    <string name="saved_stories_empty">Le storie che salvi appariranno qui e resteranno disponibili offline.</string>
 
     <!-- Personalities tab -->
     <string name="character_title">Personalità</string>

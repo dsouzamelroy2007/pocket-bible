@@ -65,6 +65,8 @@
     <!-- Saved tab -->
     <string name="saved_title">Saved</string>
     <string name="saved_empty">Verses you save appear here, and stay available offline.</string>
+    <string name="saved_stories_title">Saved Stories</string>
+    <string name="saved_stories_empty">Stories you save appear here, and stay available offline.</string>
 
     <!-- Characters tab -->
     <string name="character_title">Personalities</string>

@@ -49,6 +49,8 @@
 
     <string name="saved_title">Guardados</string>
     <string name="saved_empty">Los versículos que guardas aparecen aquí y siguen disponibles sin conexión.</string>
+    <string name="saved_stories_title">Historias guardadas</string>
+    <string name="saved_stories_empty">Las historias que guardas aparecen aquí y siguen disponibles sin conexión.</string>
 
     <string name="verse_no_entries">Todavía no hay entradas para %1$s.</string>
     <string name="verse_what_it_means">Lo que esto significa para ti</string>

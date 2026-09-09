@@ -5,7 +5,6 @@ import androidx.compose.material.icons.filled.Language
 import androidx.compose.material3.DropdownMenu
 import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
 import androidx.compose.material3.Text
 import androidx.compose.foundation.layout.Box
 import androidx.compose.runtime.Composable
@@ -38,9 +37,10 @@ private val APP_LANGUAGES: List<Pair<String?, String>> = listOf(
 fun LanguageMenuButton(onLanguageSelected: (String?) -> Unit) {
     var expanded by remember { mutableStateOf(false) }
     val systemDefaultLabel = stringResource(R.string.language_system_default)
+    val languageButtonLabel = stringResource(R.string.language_button)
     Box {
-        IconButton(onClick = { expanded = true }) {
-            Icon(Icons.Filled.Language, contentDescription = stringResource(R.string.language_button))
+        TooltipIconButton(text = languageButtonLabel, onClick = { expanded = true }) {
+            Icon(Icons.Filled.Language, contentDescription = languageButtonLabel)
         }
         DropdownMenu(expanded = expanded, onDismissRequest = { expanded = false }) {
             APP_LANGUAGES.forEach { (tag, nativeName) ->

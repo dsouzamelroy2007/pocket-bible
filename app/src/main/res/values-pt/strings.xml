@@ -53,6 +53,8 @@
 
     <string name="saved_title">Salvos</string>
     <string name="saved_empty">Os versículos que você salva aparecem aqui e continuam disponíveis offline.</string>
+    <string name="saved_stories_title">Histórias salvas</string>
+    <string name="saved_stories_empty">As histórias que você salva aparecem aqui e continuam disponíveis offline.</string>
 
     <string name="verse_no_entries">Ainda não há entradas para %1$s.</string>
     <string name="verse_what_it_means">O que isso significa para você</string>

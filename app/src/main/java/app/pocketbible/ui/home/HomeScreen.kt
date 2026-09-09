@@ -18,7 +18,6 @@ import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.ElevatedCard
 import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
@@ -36,6 +35,7 @@ import androidx.compose.ui.unit.dp
 import app.pocketbible.R
 import app.pocketbible.data.Feeling
 import app.pocketbible.ui.LanguageMenuButton
+import app.pocketbible.ui.TooltipIconButton
 import app.pocketbible.ui.theme.categoryAccent
 
 @Composable
@@ -67,11 +67,13 @@ fun HomeScreen(
                 style = MaterialTheme.typography.headlineSmall,
                 fontWeight = FontWeight.Medium
             )
-            IconButton(onClick = onSavedClicked) {
-                Icon(Icons.Filled.Bookmark, contentDescription = stringResource(R.string.nav_saved))
+            val savedLabel = stringResource(R.string.nav_saved)
+            TooltipIconButton(text = savedLabel, onClick = onSavedClicked) {
+                Icon(Icons.Filled.Bookmark, contentDescription = savedLabel)
             }
-            IconButton(onClick = onAboutClicked) {
-                Icon(Icons.Filled.Info, contentDescription = stringResource(R.string.about_title))
+            val aboutLabel = stringResource(R.string.about_title)
+            TooltipIconButton(text = aboutLabel, onClick = onAboutClicked) {
+                Icon(Icons.Filled.Info, contentDescription = aboutLabel)
             }
             LanguageMenuButton(onLanguageSelected = onLanguageSelected)
         }

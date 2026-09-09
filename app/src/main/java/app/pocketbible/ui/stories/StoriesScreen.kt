@@ -13,6 +13,7 @@ import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.FilterChip
 import androidx.compose.material3.FilterChipDefaults
@@ -37,6 +38,7 @@ import androidx.compose.ui.unit.sp
 import app.pocketbible.R
 import app.pocketbible.data.StorySummary
 import app.pocketbible.ui.LanguageMenuButton
+import app.pocketbible.ui.TooltipIconButton
 import app.pocketbible.ui.theme.CategoryAccent
 import app.pocketbible.ui.theme.storyTypeAccent
 import app.pocketbible.ui.theme.testamentAccent
@@ -46,6 +48,7 @@ fun StoriesScreen(
     stories: List<StorySummary>,
     onStorySelected: (StorySummary) -> Unit,
     onLanguageSelected: (String?) -> Unit,
+    onSavedStoriesClicked: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     var query by remember { mutableStateOf("") }
@@ -74,6 +77,10 @@ fun StoriesScreen(
                     style = MaterialTheme.typography.headlineSmall,
                     fontWeight = FontWeight.Medium
                 )
+                val savedStoriesLabel = stringResource(R.string.nav_saved)
+                TooltipIconButton(text = savedStoriesLabel, onClick = onSavedStoriesClicked) {
+                    Icon(Icons.Filled.Bookmark, contentDescription = savedStoriesLabel)
+                }
                 LanguageMenuButton(onLanguageSelected = onLanguageSelected)
             }
             Spacer(Modifier.height(4.dp))
@@ -240,7 +247,7 @@ private fun BookGroupHeader(text: String, modifier: Modifier = Modifier) {
 }
 
 @Composable
-private fun StoryRow(story: StorySummary, onClick: () -> Unit) {
+internal fun StoryRow(story: StorySummary, onClick: () -> Unit) {
     Column {
         Column(
             Modifier

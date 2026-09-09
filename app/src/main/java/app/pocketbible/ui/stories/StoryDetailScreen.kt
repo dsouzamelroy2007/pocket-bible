@@ -35,6 +35,7 @@ import app.pocketbible.R
 import app.pocketbible.data.CharacterSummary
 import app.pocketbible.data.StorySummary
 import app.pocketbible.ui.StoryVerseDisplay
+import app.pocketbible.ui.TooltipIconButton
 import app.pocketbible.ui.bible.localizedBookNameById
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalLayoutApi::class)
@@ -63,12 +64,11 @@ fun StoryDetailScreen(
                 fontWeight = FontWeight.Medium
             )
             if (story != null) {
-                IconButton(onClick = onToggleSave) {
+                val saveLabel = stringResource(if (story.isSaved) R.string.verse_saved else R.string.verse_save)
+                TooltipIconButton(text = saveLabel, onClick = onToggleSave) {
                     Icon(
                         if (story.isSaved) Icons.Filled.Bookmark else Icons.Outlined.BookmarkBorder,
-                        contentDescription = stringResource(
-                            if (story.isSaved) R.string.verse_saved else R.string.verse_save
-                        )
+                        contentDescription = saveLabel
                     )
                 }
             }

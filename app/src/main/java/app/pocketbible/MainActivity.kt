@@ -64,6 +64,7 @@ import app.pocketbible.ui.characters.CharactersScreen
 import app.pocketbible.ui.home.HomeScreen
 import app.pocketbible.ui.reading.DailyReadingScreen
 import app.pocketbible.ui.saved.SavedScreen
+import app.pocketbible.ui.stories.SavedStoriesScreen
 import app.pocketbible.ui.stories.StoriesScreen
 import app.pocketbible.ui.stories.StoryDetailScreen
 import app.pocketbible.ui.theme.PocketBibleTheme
@@ -171,7 +172,7 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
     val currentRoute = backStack?.destination?.route
     val bibleRoutes = setOf("bible", "bible_reader")
     val characterRoutes = setOf("characters", "character_detail")
-    val storyRoutes = setOf("stories", "story_detail")
+    val storyRoutes = setOf("stories", "story_detail", "saved_stories")
 
     // Hindi and Marathi labels are all short -- neither has a single long
     // unbreakable word like "Personalities"/"Persönlichkeiten" -- so the
@@ -356,7 +357,19 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                         viewModel.selectStory(it)
                         navController.navigate("story_detail")
                     },
-                    onLanguageSelected = onLanguageSelected
+                    onLanguageSelected = onLanguageSelected,
+                    onSavedStoriesClicked = { navController.navigate("saved_stories") }
+                )
+            }
+            composable("saved_stories") {
+                val stories by viewModel.stories.collectAsState()
+                SavedStoriesScreen(
+                    stories = stories.filter { it.isSaved },
+                    onBack = { navController.popBackStack() },
+                    onStorySelected = {
+                        viewModel.selectStory(it)
+                        navController.navigate("story_detail")
+                    }
                 )
             }
             composable("story_detail") {
