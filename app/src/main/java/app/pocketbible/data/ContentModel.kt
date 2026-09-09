@@ -826,10 +826,12 @@ interface ContentDao {
                COALESCE(t.title, s.title) AS title,
                COALESCE(t.summary, s.summary) AS summary,
                COALESCE(t.moral, s.moral) AS moral,
-               COALESCE(t.reflection, s.reflection) AS reflection
+               COALESCE(t.reflection, s.reflection) AS reflection,
+               ss.story_id IS NOT NULL AS is_saved
         FROM story_character_link l
         JOIN story s ON s.id = l.story_id
         LEFT JOIN story_translation t ON t.story_id = s.id AND t.language = :language
+        LEFT JOIN saved_story ss ON ss.story_id = s.id
         WHERE l.character_id = :characterId
         ORDER BY s.sort_order
         """
