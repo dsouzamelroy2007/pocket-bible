@@ -175,6 +175,11 @@
       "feeling_id": "forgiveness",
       "label": "En quête de pardon",
       "description": "Pour porter quelque chose que tu as fait et ne pas savoir comment le poser."
+    },
+    {
+      "feeling_id": "courage",
+      "label": "En quête de courage",
+      "description": "Pour quand tu sais ce que tu devrais faire, et qu'il te manque juste le cran de le faire."
     }
   ],
   "entry_translations": [
@@ -1927,6 +1932,56 @@
       "entry_id": "forgiveness-isa-43-25",
       "reflection": "Dieu se nomme lui-même comme celui qui efface les transgressions, le faisant \"pour lui-même\" -- la raison donnée n'est pas le mérite ou l'effort de la personne mais quelque chose enraciné dans le propre caractère et les propres desseins de Dieu. \"Je ne me souviendrai pas de tes péchés\" est une affirmation frappante, pas seulement pardonner mais choisir de ne pas retenir le souvenir de cela contre la personne à l'avenir. Ce verset situe toute la base du pardon en dehors de la personne pardonnée, dans la propre initiative de Dieu du début à la fin.",
       "prayer": "Seigneur, c'est toi qui effaces mes transgressions, pour toi-même, pas parce que je l'ai mérité ou que j'ai prouvé ma valeur. Tu dis que tu ne te souviendras pas de mes péchés, et je veux réellement croire cela au lieu de supposer que tu en gardes quand même un dossier discret. Laisse ce pardon reposer entièrement sur ton initiative, comme le décrit ce verset, pas sur quoi que ce soit que j'aie encore à accomplir."
+    },
+    {
+      "entry_id": "courage-josh-1-9",
+      "reflection": "Cet ordre survient juste après la mort de Moïse – Josué hérite de la direction d'une nation sans le temps de s'y habituer en douceur. Le courage n'est pas offert ici comme un encouragement mais donné comme un commandement, appuyé par une raison dans la phrase suivante même : non que la tâche à venir soit petite, mais que Dieu est présent partout où elle mène. L'ampleur de ce qui vient n'est jamais minimisée – seule l'est celle de qui t'accompagne.",
+      "prayer": "Seigneur, accompagne-moi dans ce que j'ai peur de commencer. Que ta présence me suffise comme raison."
+    },
+    {
+      "entry_id": "courage-deut-31-6",
+      "reflection": "Moïse dit cela à toute la nation, pas à Josué seul – le courage ici est communautaire, pas seulement une résolution privée qu'une seule personne doit rassembler. La promesse en dessous est précise : Dieu ne te fera pas défaut ni ne t'abandonnera, ce qui signifie que le courage demandé n'est pas une bravoure auto-générée mais une réponse à un compagnon qui s'est déjà engagé à rester.",
+      "prayer": "Donne-moi un courage qui vient de savoir que tu ne partiras pas, non de me convaincre moi-même que je n'ai pas peur."
+    },
+    {
+      "entry_id": "courage-esth-4-14",
+      "reflection": "Mardochée ne promet pas à Esther que prendre la parole sera sans danger – il lui dit clairement que le silence a lui aussi un coût, et que ce moment précis, avec sa fenêtre étroite et son risque réel, pourrait bien être exactement la raison pour laquelle elle se trouve à cette place. Le courage, dans cette histoire, n'est pas l'absence de danger ; c'est agir quand même parce que le moment exigeait d'elle quelque chose de précis que personne d'autre ne pouvait donner.",
+      "prayer": "Seigneur, si c'est le moment où tu m'as placé, donne-moi le cran de ne pas me taire."
+    },
+    {
+      "entry_id": "courage-1sam-17-37",
+      "reflection": "David ne marche pas vers Goliath sur la seule audace brute – il sort en se souvenant du lion et de l'ours, des délivrances passées précises qu'il peut réellement citer. Son courage repose sur des preuves : non pas persuadé d'être sans peur, mais raisonné à partir de ce que Dieu a déjà fait vers ce que Dieu peut refaire.",
+      "prayer": "Rappelle-moi ce à travers quoi tu m'as déjà porté, Seigneur, afin que je puisse affronter ce qui est devant moi maintenant."
+    },
+    {
+      "entry_id": "courage-1cor-16-13",
+      "reflection": "Paul empile quatre commandements courts – veillez, tenez ferme dans la foi, soyez courageux, soyez forts – comme si le courage n'était pas un seul sentiment à localiser mais une posture bâtie à partir de plusieurs disciplines ordinaires tenues ensemble. C'est moins un unique élan de bravoure qu'une position que tu choisis de tenir encore et encore, un impératif à la fois.",
+      "prayer": "Aide-moi à tenir bon aujourd'hui, Seigneur, une petite décision à la fois."
+    },
+    {
+      "entry_id": "courage-isa-41-13",
+      "reflection": "L'image est délibérément physique – non une assurance lointaine criée de loin mais une main tenant réellement une autre main. Dieu ne dit pas aux exilés d'Isaïe d'arrêter d'avoir peur par pure volonté ; il leur dit qui les tient, ce qui est précisément ce qui rend possible de lâcher la peur.",
+      "prayer": "Tiens ma main, Seigneur, surtout là où je ne peux pas encore la sentir."
+    },
+    {
+      "entry_id": "courage-hag-2-4",
+      "reflection": "Le peuple qui reconstruisait le temple le comparait, découragé, au plus grand qui avait été détruit – et la réponse de Dieu n'est pas de nier la comparaison mais de répéter « sois fort » trois fois à trois groupes différents, puis de l'ancrer dans une promesse déjà prouvée : le même Esprit qui était avec eux en quittant l'Égypte est avec eux maintenant. Le courage de continuer à travailler n'exige pas que le nouveau paraisse aussi impressionnant que l'ancien ; il exige la même présence qui les a menés jusqu'ici.",
+      "prayer": "Donne-moi la force de continuer à bâtir même quand cela paraît plus petit que je ne l'espérais, Seigneur."
+    },
+    {
+      "entry_id": "courage-mt-14-27",
+      "reflection": "Les disciples sont terrifiés parce qu'ils croient voir un fantôme – leur peur vient d'une mauvaise lecture de ce qui se trouve réellement devant eux. Jésus ne les raisonne pas pour qu'ils cessent d'avoir peur ; il s'identifie simplement, et la peur ne trouve de place pour partir qu'une fois qu'ils savent qui marche réellement vers eux sur l'eau.",
+      "prayer": "Jésus, aide-moi à voir clairement qui est réellement présent avec moi avant de décider de la peur qu'il faut avoir."
+    },
+    {
+      "entry_id": "courage-ps-118-6",
+      "reflection": "La question n'est pas une bravade rhétorique – c'est un véritable changement de proportion. Le psalmiste ne prétend pas que rien ne peut l'atteindre ; il affirme que tout ce qui peut l'atteindre compte moins que celui qui est déjà de son côté. Le courage se stabilise ici non en réduisant la menace mais en nommant, simplement, qui pèse plus lourd qu'elle.",
+      "prayer": "Seigneur, sois celui du côté duquel je me tiens, quoi qu'il arrive aujourd'hui."
+    },
+    {
+      "entry_id": "courage-ps-16-5",
+      "reflection": "Le psalmiste ne décrit pas une vie sans risque – il nomme une sécurité sous ses circonstances, qu'il n'a pas eu à s'assurer lui-même. C'est précisément ce genre de terrain stable qui rend une personne libre de risquer quelque chose en premier lieu : quand ton propre appui se sent déjà porté pour toi, tu as bien moins à perdre en t'avançant vers ce qui est difficile.",
+      "prayer": "Puisque mon terrain est déjà assuré en toi, Seigneur, laisse-moi dépenser mon courage généreusement, non avec prudence."
     }
   ]
 }

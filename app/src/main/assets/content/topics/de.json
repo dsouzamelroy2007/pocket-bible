@@ -175,6 +175,11 @@
       "feeling_id": "forgiveness",
       "label": "Auf der Suche nach Vergebung",
       "description": "Für das Tragen von etwas, das du getan hast, und nicht zu wissen, wie du es ablegen sollst."
+    },
+    {
+      "feeling_id": "courage",
+      "label": "Auf der Suche nach Mut",
+      "description": "Für wenn du weißt, was du tun solltest, und nur den Mut dazu brauchst."
     }
   ],
   "entry_translations": [
@@ -1927,6 +1932,56 @@
       "entry_id": "forgiveness-isa-43-25",
       "reflection": "Gott nennt sich selbst denjenigen, der Übertretungen tilgt, und tut es „um meinetwillen“ -- der genannte Grund ist nicht die Würdigkeit oder Anstrengung der Person, sondern etwas, das in Gottes eigenem Charakter und Absichten verwurzelt ist. „Ich werde deiner Sünden nicht gedenken“ ist eine auffallende Behauptung, nicht nur zu vergeben, sondern zu wählen, die Erinnerung daran der Person künftig nicht mehr vorzuhalten. Dieser Vers verortet die gesamte Grundlage der Vergebung außerhalb der vergebenen Person, in Gottes eigener Initiative von Anfang bis Ende.",
       "prayer": "Herr, du bist derjenige, der meine Übertretungen tilgt, um deinetwillen, nicht weil ich es verdient oder mich als würdig erwiesen habe. Du sagst, du wirst meiner Sünden nicht gedenken, und ich möchte das tatsächlich glauben, statt anzunehmen, dass du trotzdem heimlich Buch führst. Lass diese Vergebung ganz auf deiner Initiative ruhen, wie es dieser Vers beschreibt, nicht auf irgendetwas, das ich noch erreichen muss."
+    },
+    {
+      "entry_id": "courage-josh-1-9",
+      "reflection": "Dieser Auftrag ergeht direkt nachdem Mose gestorben ist – Josua übernimmt die Führung einer Nation, ohne Zeit, sich langsam hineinzufinden. Mut wird hier nicht als Ermutigung angeboten, sondern als Befehl gegeben, begründet im nächsten Satz: nicht weil die Aufgabe klein ist, sondern weil Gott gegenwärtig ist, wohin sie auch führt. Die Größe dessen, was bevorsteht, wird nie kleingeredet – nur die Größe dessen, der mitgeht.",
+      "prayer": "Herr, geh mit mir in das hinein, was zu beginnen ich mich fürchte. Lass deine Gegenwart Grund genug sein."
+    },
+    {
+      "entry_id": "courage-deut-31-6",
+      "reflection": "Mose spricht dies zur ganzen Nation, nicht nur zu Josua – Mut ist hier gemeinschaftlich, nicht nur ein privater Entschluss, den einer allein aufbringen muss. Die Verheißung dahinter ist konkret: Gott wird dich nicht versagen lassen noch verlassen, was bedeutet, dass der geforderte Mut kein selbst erzeugter Übermut ist, sondern eine Antwort auf einen Gefährten, der sich schon zum Bleiben verpflichtet hat.",
+      "prayer": "Gib mir Mut, der daher kommt, dass ich weiß, du gehst nicht weg, nicht daher, dass ich mich selbst überzeuge, furchtlos zu sein."
+    },
+    {
+      "entry_id": "courage-esth-4-14",
+      "reflection": "Mordechai verspricht Ester nicht, dass es sicher sein wird, sich zu Wort zu melden – er sagt ihr unverblümt, dass auch das Schweigen seinen eigenen Preis hat, und dass genau dieser Augenblick, mit seinem engen Zeitfenster und echtem Risiko, vielleicht genau der Grund ist, warum sie an dieser Stelle steht. Mut bedeutet in dieser Geschichte nicht die Abwesenheit von Gefahr; es bedeutet, trotzdem zu handeln, weil der Augenblick etwas Bestimmtes von ihr verlangte, das niemand sonst geben konnte.",
+      "prayer": "Herr, wenn dies der Augenblick ist, in den du mich gestellt hast, gib mir den Mut, nicht zu schweigen."
+    },
+    {
+      "entry_id": "courage-1sam-17-37",
+      "reflection": "David geht nicht allein aus rohem Nervenkitzel auf Goliat zu – er geht hinaus, während er sich an den Löwen und den Bären erinnert, konkrete vergangene Rettungen, auf die er tatsächlich verweisen kann. Sein Mut stützt sich auf Beweise: nicht in Furchtlosigkeit hineingeredet, sondern vorwärts geschlossen von dem, was Gott bereits getan hat, zu dem, was Gott wieder tun kann.",
+      "prayer": "Erinnere mich daran, wodurch du mich schon getragen hast, Herr, damit ich dem begegnen kann, was jetzt vor mir liegt."
+    },
+    {
+      "entry_id": "courage-1cor-16-13",
+      "reflection": "Paulus reiht vier kurze Befehle aneinander – wacht, steht fest im Glauben, seid mutig, seid stark – als wäre Mut kein einzelnes Gefühl, das man aufspüren muss, sondern eine Haltung, die aus mehreren gewöhnlichen Disziplinen gleichzeitig aufgebaut ist. Es ist weniger ein einzelner Ausbruch von Tapferkeit als eine Haltung, die du dich immer wieder entscheidest zu halten, ein Gebot nach dem anderen.",
+      "prayer": "Hilf mir, heute standzuhalten, Herr, eine kleine Entscheidung nach der anderen."
+    },
+    {
+      "entry_id": "courage-isa-41-13",
+      "reflection": "Das Bild ist bewusst körperlich – keine ferne Zusicherung, von weit her gerufen, sondern eine Hand, die tatsächlich eine andere Hand ergreift. Gott sagt Jesajas Verbannten nicht, sie sollten allein durch Willenskraft aufhören, Angst zu haben; er sagt ihnen, wer sie festhält, und genau das macht es möglich, die Angst überhaupt loszulassen.",
+      "prayer": "Halte meine Hand, Herr, besonders dort, wo ich sie noch nicht spüren kann."
+    },
+    {
+      "entry_id": "courage-hag-2-4",
+      "reflection": "Die Menschen, die den Tempel wiederaufbauten, verglichen ihn entmutigt mit dem prächtigeren, der zerstört worden war – und Gottes Antwort besteht nicht darin, den Vergleich zu leugnen, sondern dreimal 'seid stark' zu drei verschiedenen Gruppen zu sagen, und es dann in einer bereits bewiesenen Verheißung zu verankern: derselbe Geist, der mit ihnen war, als sie Ägypten verließen, ist jetzt bei ihnen. Der Mut, weiterzuarbeiten, verlangt nicht, dass das Neue so beeindruckend aussieht wie das Alte; er verlangt dieselbe Gegenwart, die sie überhaupt erst hierhergebracht hat.",
+      "prayer": "Gib mir Kraft, weiterzubauen, auch wenn es kleiner aussieht, als ich gehofft hatte, Herr."
+    },
+    {
+      "entry_id": "courage-mt-14-27",
+      "reflection": "Die Jünger sind entsetzt, weil sie glauben, ein Gespenst zu sehen – ihre Angst entsteht daraus, dass sie falsch deuten, was tatsächlich vor ihnen ist. Jesus redet ihnen die Angst nicht aus; er nennt einfach, wer er ist, und die Angst hat erst dann Raum zu weichen, wenn sie wissen, wer da tatsächlich auf sie zukommt, über das Wasser.",
+      "prayer": "Jesus, hilf mir, klar zu erkennen, wer wirklich bei mir ist, bevor ich entscheide, wie viel Angst angebracht ist."
+    },
+    {
+      "entry_id": "courage-ps-118-6",
+      "reflection": "Die Frage ist keine rhetorische Großspurigkeit – sie ist eine echte Verschiebung der Verhältnisse. Der Psalmist behauptet nicht, dass ihn nichts treffen kann; er behauptet, dass, was ihn auch treffen mag, weniger zählt als der, der schon auf seiner Seite steht. Mut setzt sich hier nicht durch, indem die Bedrohung verkleinert wird, sondern indem schlicht benannt wird, wer sie überwiegt.",
+      "prayer": "Herr, sei der, an dessen Seite ich stehe, was auch immer mich heute trifft."
+    },
+    {
+      "entry_id": "courage-ps-16-5",
+      "reflection": "Der Psalmist beschreibt kein Leben ohne Risiko – er benennt einen Grund unter seinen Umständen, den er sich nicht selbst sichern musste. Genau dieser gefestigte Boden ist es, der einen Menschen überhaupt erst frei macht, ein Risiko einzugehen: wenn dein eigener Halt sich schon getragen anfühlt, hast du weit weniger zu verlieren, wenn du auf etwas Schwieriges zugehst.",
+      "prayer": "Da mein Grund schon in dir sicher ist, Herr, lass mich meinen Mut großzügig einsetzen, nicht vorsichtig."
     }
   ]
 }

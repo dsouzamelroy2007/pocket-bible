@@ -175,6 +175,11 @@
       "feeling_id": "forgiveness",
       "label": "Buscando perdão",
       "description": "Para carregar algo que fizeste e não saber como deixar de carregar."
+    },
+    {
+      "feeling_id": "courage",
+      "label": "Buscando coragem",
+      "description": "Para quando sabes o que devias fazer, e só te falta a coragem para o fazer."
     }
   ],
   "entry_translations": [
@@ -1927,6 +1932,56 @@
       "entry_id": "forgiveness-isa-43-25",
       "reflection": "Deus nomeia-se a si mesmo como aquele que apaga as transgressões, fazendo-o \"por amor de mim mesmo\" -- a razão dada não é o mérito ou esforço da pessoa mas algo enraizado no próprio caráter e propósitos de Deus. \"Não me lembrarei dos teus pecados\" é uma afirmação impressionante, não apenas perdoar mas escolher não guardar a memória disso contra a pessoa daqui em diante. Este versículo localiza toda a base do perdão fora da pessoa perdoada, na própria iniciativa de Deus do princípio ao fim.",
       "prayer": "Senhor, és tu quem apaga as minhas transgressões, por amor de ti mesmo, não porque o mereci ou provei ser digno. Dizes que não te lembrarás dos meus pecados, e quero realmente acreditar nisso em vez de presumir que mantêns mesmo assim um registo silencioso. Deixa que este perdão repouse inteiramente na tua iniciativa, como este versículo descreve, não em nada que eu ainda tenha de realizar."
+    },
+    {
+      "entry_id": "courage-josh-1-9",
+      "reflection": "Esta ordem chega logo depois da morte de Moisés -- Josué herda a liderança de uma nação sem tempo para se habituar aos poucos. A coragem aqui não é oferecida como encorajamento, mas dada como ordem, apoiada numa razão na própria frase seguinte: não que a tarefa à frente seja pequena, mas que Deus está presente onde quer que ela conduza. O tamanho do que vem pela frente nunca é minimizado -- só o tamanho de quem te acompanha é que conta.",
+      "prayer": "Senhor, vai comigo naquilo que tenho medo de começar. Que a tua presença seja razão suficiente."
+    },
+    {
+      "entry_id": "courage-deut-31-6",
+      "reflection": "Moisés diz isto a toda a nação, não só a Josué -- a coragem aqui é comunitária, não apenas uma resolução privada que uma só pessoa tem de reunir sozinha. A promessa por trás é concreta: Deus não te falhará nem te abandonará, o que significa que a coragem pedida não é bravata autogerada mas resposta a um companheiro que já se comprometeu a ficar.",
+      "prayer": "Dá-me coragem que venha de saber que não te vais embora, não de me convencer a mim mesmo de que não tenho medo."
+    },
+    {
+      "entry_id": "courage-esth-4-14",
+      "reflection": "Mardoqueu não promete a Ester que falar será seguro -- diz-lhe claramente que o silêncio também tem o seu custo, e que este momento exato, com a sua janela estreita e o risco real, pode ser precisamente a razão pela qual ela está nessa posição. A coragem, nesta história, não é a ausência de perigo; é agir mesmo assim porque o momento exigia dela algo específico que mais ninguém podia dar.",
+      "prayer": "Senhor, se este é o momento em que me colocaste, dá-me a coragem de não ficar calado."
+    },
+    {
+      "entry_id": "courage-1sam-17-37",
+      "reflection": "Davi não caminha em direção a Golias apenas com audácia bruta -- sai lembrando-se do leão e do urso, libertações passadas concretas às quais pode realmente recorrer. A sua coragem assenta em provas: não convencido a não ter medo, mas raciocinado a partir do que Deus já fez para o que Deus pode voltar a fazer.",
+      "prayer": "Lembra-me aquilo através do qual já me carregaste, Senhor, para que eu possa enfrentar o que tenho agora à minha frente."
+    },
+    {
+      "entry_id": "courage-1cor-16-13",
+      "reflection": "Paulo empilha quatro ordens curtas -- vigiai, permanecei firmes na fé, sede corajosos, sede fortes -- como se a coragem não fosse um único sentimento a localizar mas uma postura construída a partir de várias disciplinas comuns mantidas ao mesmo tempo. É menos um único impulso de bravura e mais uma posição que continuas a escolher manter, um imperativo de cada vez.",
+      "prayer": "Ajuda-me a manter-me firme hoje, Senhor, uma pequena decisão de cada vez."
+    },
+    {
+      "entry_id": "courage-isa-41-13",
+      "reflection": "A imagem é deliberadamente física -- não uma garantia distante gritada de longe, mas uma mão a segurar de facto outra mão. Deus não diz aos exilados de Isaías para deixarem de ter medo por pura força de vontade; diz-lhes quem os segura, o que é precisamente o que torna possível largar o medo.",
+      "prayer": "Segura a minha mão, Senhor, especialmente onde ainda não consigo senti-la."
+    },
+    {
+      "entry_id": "courage-hag-2-4",
+      "reflection": "O povo que reconstruía o templo comparava-o, desanimado, ao mais grandioso que fora destruído -- e a resposta de Deus não é negar a comparação mas repetir 'sede fortes' três vezes a três grupos diferentes, e depois firmá-la numa promessa já provada: o mesmo Espírito que estava com eles ao saírem do Egito está com eles agora. A coragem para continuar a trabalhar não exige que o novo pareça tão impressionante como o antigo; exige a mesma presença que os trouxe até aqui.",
+      "prayer": "Dá-me força para continuar a construir mesmo quando parece mais pequeno do que eu esperava, Senhor."
+    },
+    {
+      "entry_id": "courage-mt-14-27",
+      "reflection": "Os discípulos ficam aterrorizados porque pensam estar a ver um fantasma -- o medo deles vem de interpretar mal o que está realmente diante deles. Jesus não os convence a deixar de ter medo; identifica-se simplesmente, e o medo só encontra espaço para partir quando eles sabem quem está de facto a caminhar até eles sobre a água.",
+      "prayer": "Jesus, ajuda-me a ver claramente quem está realmente presente comigo antes de decidir quanto medo ter."
+    },
+    {
+      "entry_id": "courage-ps-118-6",
+      "reflection": "A pergunta não é bravata retórica -- é uma verdadeira mudança de proporção. O salmista não afirma que nada o pode atingir; afirma que o que quer que o possa atingir importa menos do que aquele que já está do seu lado. A coragem assenta aqui não ao diminuir a ameaça, mas ao nomear, simplesmente, quem pesa mais do que ela.",
+      "prayer": "Senhor, sê tu aquele do lado de quem eu estou, aconteça o que acontecer hoje."
+    },
+    {
+      "entry_id": "courage-ps-16-5",
+      "reflection": "O salmista não descreve uma vida sem risco -- nomeia uma segurança debaixo das suas circunstâncias, que não teve de garantir por si mesmo. É precisamente esse tipo de terreno firme que liberta uma pessoa para arriscar algo, antes de mais nada: quando o teu próprio apoio já se sente sustentado por ti, tens muito menos a perder ao avançares para o que é difícil.",
+      "prayer": "Já que o meu terreno está seguro em ti, Senhor, deixa-me gastar a minha coragem com generosidade, não com cautela."
     }
   ]
 }

@@ -998,6 +998,44 @@
           "weight": 0.8
         }
       ]
+    },
+    {
+      "id": "courage",
+      "label": "Needing courage",
+      "icon": "ti-shield-check",
+      "category": "distress",
+      "description": "For when you know what you should do, and just need the nerve to do it.",
+      "sort_order": 36,
+      "aliases": [
+        {
+          "alias": "brave",
+          "weight": 1.0
+        },
+        {
+          "alias": "courageous",
+          "weight": 1.0
+        },
+        {
+          "alias": "need strength",
+          "weight": 0.9
+        },
+        {
+          "alias": "scared to act",
+          "weight": 0.8
+        },
+        {
+          "alias": "facing something hard",
+          "weight": 0.7
+        },
+        {
+          "alias": "need nerve",
+          "weight": 0.7
+        },
+        {
+          "alias": "afraid to speak up",
+          "weight": 0.6
+        }
+      ]
     }
   ],
   "passages": [
@@ -8033,6 +8071,84 @@
       "pull_quote": "I am he who blots out your transgressions for my own sake; and I will not remember your sins.",
       "reference_display": "Isaiah 43:25",
       "reference_alt": null
+    },
+    {
+      "id": "web-c:esth:4:14",
+      "translation_id": "web-c",
+      "book_id": "esth",
+      "chapter_start": 4,
+      "chapter_end": 4,
+      "verse_start": 14,
+      "verse_end": 14,
+      "text": "For if you remain silent now, then relief and deliverance will come to the Jews from another place, but you and your father’s house will perish. Who knows if you haven’t come to the kingdom for such a time as this?”",
+      "pull_quote": "Who knows if you haven’t come to the kingdom for such a time as this?",
+      "reference_display": "Esther 4:14",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1sam:17:37",
+      "translation_id": "web-c",
+      "book_id": "1sam",
+      "chapter_start": 17,
+      "chapter_end": 17,
+      "verse_start": 37,
+      "verse_end": 37,
+      "text": "David said, “The LORD, who delivered me out of the paw of the lion and out of the paw of the bear, will deliver me out of the hand of this Philistine.” Saul said to David, “Go! The LORD will be with you.”",
+      "pull_quote": "The LORD, who delivered me out of the paw of the lion and out of the paw of the bear, will deliver me out of the hand of this Philistine.",
+      "reference_display": "1 Samuel 17:37",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:1cor:16:13",
+      "translation_id": "web-c",
+      "book_id": "1cor",
+      "chapter_start": 16,
+      "chapter_end": 16,
+      "verse_start": 13,
+      "verse_end": 13,
+      "text": "Watch! Stand firm in the faith! Be courageous! Be strong!",
+      "pull_quote": "Stand firm in the faith! Be courageous! Be strong!",
+      "reference_display": "1 Corinthians 16:13",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:hag:2:4",
+      "translation_id": "web-c",
+      "book_id": "hag",
+      "chapter_start": 2,
+      "chapter_end": 2,
+      "verse_start": 4,
+      "verse_end": 5,
+      "text": "Yet now be strong, Zerubbabel,’ says the LORD. ‘Be strong, Joshua son of Jehozadak, the high priest. Be strong, all you people of the land,’ says the LORD, ‘and work, for I am with you,’ says the LORD of Armies. This is the word that I covenanted with you when you came out of Egypt, and my Spirit lived among you. ‘Don’t be afraid.’",
+      "pull_quote": "‘And work, for I am with you,’ says the LORD of Armies... ‘Don’t be afraid.’",
+      "reference_display": "Haggai 2:4-5",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mt:14:27",
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "chapter_start": 14,
+      "chapter_end": 14,
+      "verse_start": 27,
+      "verse_end": 27,
+      "text": "But immediately Jesus spoke to them, saying, “Cheer up! It is I! Don’t be afraid.”",
+      "pull_quote": "Cheer up! It is I! Don’t be afraid.",
+      "reference_display": "Matthew 14:27",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:118:6",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 118,
+      "chapter_end": 118,
+      "verse_start": 6,
+      "verse_end": 6,
+      "text": "The LORD is on my side. I will not be afraid. What can man do to me?",
+      "pull_quote": "The LORD is on my side. I will not be afraid.",
+      "reference_display": "Psalm 118:6",
+      "reference_alt": null
     }
   ],
   "entries": [
@@ -11871,6 +11987,126 @@
       "prayer": "Lord, you are the one who blots out my transgressions, for your own sake, not because I've earned it or proven myself worthy. You say you will not remember my sins, and I want to actually believe that instead of assuming you're keeping a quiet record anyway. Let this forgiveness rest entirely on your initiative, the way this verse describes, not on anything I still have to accomplish.",
       "intensity": "settled",
       "depth_order": 10
+    },
+    {
+      "id": "courage-josh-1-9",
+      "feeling_id": "courage",
+      "intensity": "acute",
+      "depth_order": 1,
+      "reflection": "This charge comes right after Moses dies -- Joshua inherits leadership of a nation with no time to ease into it. Courage here isn't offered as encouragement but given as a command, backed by a reason in the very next clause: not that the task ahead is small, but that God is present wherever it leads. The size of what's ahead never gets minimized -- only the size of who goes with you does.",
+      "prayer": "Lord, go with me into what I'm afraid to start. Let your presence be reason enough.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "courage-deut-31-6",
+      "feeling_id": "courage",
+      "intensity": "acute",
+      "depth_order": 2,
+      "reflection": "Moses speaks this to the whole nation, not to Joshua alone -- courage here is communal, not just a private resolve one person has to summon alone. The promise underneath it is specific: God will not fail you or forsake you, which means the courage asked for isn't self-generated bravado but a response to a companion who has already committed to staying.",
+      "prayer": "Give me courage that comes from knowing you won't leave, not from convincing myself I'm unafraid.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "courage-esth-4-14",
+      "feeling_id": "courage",
+      "intensity": "acute",
+      "depth_order": 3,
+      "reflection": "Mordecai doesn't promise Esther that speaking up will be safe -- he tells her plainly that silence has its own cost, and that this exact moment, narrow window and real risk together, might be exactly why she's positioned where she is. Courage, in this story, isn't the absence of danger; it's acting anyway because the moment asked something specific of her that no one else could give.",
+      "prayer": "Lord, if this is the moment you've placed me in, give me the nerve not to stay silent.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "courage-1sam-17-37",
+      "feeling_id": "courage",
+      "intensity": "steady",
+      "depth_order": 4,
+      "reflection": "David doesn't walk toward Goliath on raw nerve alone -- he walks out remembering the lion and the bear, specific past rescues he can actually point to. His courage is evidence-based: not talked into being fearless, but reasoned forward from what God has already done to what God can do again.",
+      "prayer": "Remind me what you've already carried me through, Lord, so I can face what's in front of me now.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "courage-1cor-16-13",
+      "feeling_id": "courage",
+      "intensity": "steady",
+      "depth_order": 5,
+      "reflection": "Paul stacks four short commands together -- watch, stand firm, be courageous, be strong -- as if courage isn't a single feeling to locate but a posture built out of several ordinary disciplines held at once. It's less a single burst of bravery and more a stance you keep choosing to hold, one imperative at a time.",
+      "prayer": "Help me hold my ground today, Lord, one small decision at a time.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "courage-isa-41-13",
+      "feeling_id": "courage",
+      "intensity": "steady",
+      "depth_order": 6,
+      "reflection": "The image is deliberately physical -- not a distant assurance shouted from far off but a hand actually gripping another hand. God doesn't tell Isaiah's exiles to stop being afraid through sheer willpower; he tells them who is holding on, which is what makes letting go of the fear possible at all.",
+      "prayer": "Hold my hand, Lord, especially where I can't yet feel it.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "courage-hag-2-4",
+      "feeling_id": "courage",
+      "intensity": "steady",
+      "depth_order": 7,
+      "reflection": "The people rebuilding the temple were comparing it, discouraged, to the grander one that had been destroyed -- and God's answer isn't to deny the comparison but to repeat 'be strong' three times to three different groups, then ground it in a promise already proven: the same Spirit that was with them leaving Egypt is with them now. Courage to keep working doesn't require the new thing to look as impressive as the old; it requires the same presence that got them here in the first place.",
+      "prayer": "Give me strength to keep building even when it looks smaller than I hoped, Lord.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "courage-mt-14-27",
+      "feeling_id": "courage",
+      "intensity": "steady",
+      "depth_order": 8,
+      "reflection": "The disciples are terrified because they think they're looking at a ghost -- their fear comes from misreading what's actually in front of them. Jesus doesn't argue them out of being afraid; he simply identifies himself, and the fear only has room to leave once they know who's actually walking toward them across the water.",
+      "prayer": "Jesus, help me see clearly who's actually present with me before I decide how afraid to be.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "courage-ps-118-6",
+      "feeling_id": "courage",
+      "intensity": "settled",
+      "depth_order": 9,
+      "reflection": "The question isn't rhetorical bravado -- it's a genuine shift in proportion. The psalmist doesn't claim nothing can touch him; he claims that whatever can touch him matters less than who's already on his side. Courage settles here not by shrinking the threat but by naming, plainly, who outweighs it.",
+      "prayer": "Lord, be the one whose side I stand on, whatever comes at me today.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "courage-ps-16-5",
+      "feeling_id": "courage",
+      "intensity": "settled",
+      "depth_order": 10,
+      "reflection": "The psalmist isn't describing a life free of risk -- he's naming a security underneath his circumstances, one he didn't have to secure for himself. That kind of settled ground is exactly what frees a person to risk something in the first place: when your own footing already feels held for you, you have far less left to lose by stepping toward what's hard.",
+      "prayer": "Since my ground is already secure in you, Lord, let me spend my courage generously, not carefully.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
     }
   ],
   "entry_passages": [
@@ -13977,6 +14213,66 @@
     {
       "entry_id": "forgiveness-isa-43-25",
       "passage_id": "web-c:isa:43:25",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "courage-josh-1-9",
+      "passage_id": "web-c:josh:1:9",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "courage-deut-31-6",
+      "passage_id": "web-c:deut:31:6",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "courage-esth-4-14",
+      "passage_id": "web-c:esth:4:14",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "courage-1sam-17-37",
+      "passage_id": "web-c:1sam:17:37",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "courage-1cor-16-13",
+      "passage_id": "web-c:1cor:16:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "courage-isa-41-13",
+      "passage_id": "web-c:isa:41:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "courage-hag-2-4",
+      "passage_id": "web-c:hag:2:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "courage-mt-14-27",
+      "passage_id": "web-c:mt:14:27",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "courage-ps-118-6",
+      "passage_id": "web-c:ps:118:6",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "courage-ps-16-5",
+      "passage_id": "web-c:ps:16:5",
       "position": 0,
       "role": "primary"
     }
