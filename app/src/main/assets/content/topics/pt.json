@@ -180,6 +180,16 @@
       "feeling_id": "courage",
       "label": "Buscando coragem",
       "description": "Para quando sabes o que devias fazer, e só te falta a coragem para o fazer."
+    },
+    {
+      "feeling_id": "lost",
+      "label": "Perdido(a)",
+      "description": "Para quando não sabes o que deves fazer com a tua vida."
+    },
+    {
+      "feeling_id": "unseen",
+      "label": "Invisível",
+      "description": "Para quando as pessoas à tua volta olham direito através de ti."
     }
   ],
   "entry_translations": [
@@ -1982,6 +1992,106 @@
       "entry_id": "courage-ps-16-5",
       "reflection": "O salmista não descreve uma vida sem risco -- nomeia uma segurança debaixo das suas circunstâncias, que não teve de garantir por si mesmo. É precisamente esse tipo de terreno firme que liberta uma pessoa para arriscar algo, antes de mais nada: quando o teu próprio apoio já se sente sustentado por ti, tens muito menos a perder ao avançares para o que é difícil.",
       "prayer": "Já que o meu terreno está seguro em ti, Senhor, deixa-me gastar a minha coragem com generosidade, não com cautela."
+    },
+    {
+      "entry_id": "lost-jer-29-13",
+      "reflection": "Deus não promete aos exilados de Jeremias uma resposta instantânea; promete o que acontece quando procuram de todo o coração, não verificando a meio de vez em quando. Sentir-se perdido vem muitas vezes de procurar a meio -- olhar de relance para uma dúzia de direções sem se comprometer o suficiente com uma única busca para realmente encontrar algo.",
+      "prayer": "Senhor, estou a procurar. Encontra-te comigo nisso, especialmente quando olho só com metade do coração."
+    },
+    {
+      "entry_id": "lost-gen-12-1",
+      "reflection": "Abrão não recebe um mapa -- recebe uma ordem para deixar o que lhe é familiar e ir para um lugar que Deus só lhe mostrará depois de já estar em movimento. A direção vem depois de a obediência começar, não antes; às vezes o caminho só se torna visível a meio da partida.",
+      "prayer": "Senhor, não tenho o mapa todo. Ajuda-me a dar o próximo passo mesmo assim."
+    },
+    {
+      "entry_id": "lost-lk-15-4",
+      "reflection": "A ovelha nesta história não encontra sozinha o caminho de volta -- é o pastor que deixa tudo o resto para ir procurá-la, e é o encontro do pastor, não a percepção da ovelha, que termina a história. Estar perdido, aqui, não é um fracasso moral a resolver sozinho; é uma condição que outra pessoa já está à procura de acabar.",
+      "prayer": "Senhor, vem encontrar-me onde me perdi. Não tenho de encontrar sozinho o meu caminho de volta."
+    },
+    {
+      "entry_id": "lost-pr-19-21",
+      "reflection": "O provérbio não diz que os planos de uma pessoa não valem nada -- diz que se multiplicam, muitos deles, enquanto um propósito ultrapassa silenciosamente todos os outros. Sentir-se perdido às vezes significa carregar demasiados planos concorrentes ao mesmo tempo, não ter nenhum; o alívio não está em inventar o plano certo mas em confiar que um propósito já está a prevalecer sob o ruído.",
+      "prayer": "Senhor, acalma os muitos planos no meu coração até que eu consiga ouvir aquele que é teu."
+    },
+    {
+      "entry_id": "lost-ps-37-23",
+      "reflection": "O salmo atribui o estabelecer dos passos de uma pessoa ao Senhor, não à própria clareza da pessoa sobre para onde vai. Este versículo sugere que é possível estar genuinamente contente com o teu caminho e ainda assim não compreender totalmente para onde cada passo conduz -- o estabelecer acontece abaixo da tua consciência, não porque o tenhas mapeado primeiro.",
+      "prayer": "Estabelece os meus passos, Senhor, mesmo aqueles cuja razão ainda não consigo ver."
+    },
+    {
+      "entry_id": "lost-eccl-3-11",
+      "reflection": "O Pregador nomeia duas coisas juntas: que Deus torna tudo belo no seu tempo, e que colocou a eternidade no coração humano de uma forma que nunca consegue captar totalmente toda a obra que Deus está a fazer. Sentir-se perdido pode ser menos um problema a resolver do que a dor honesta de um coração feito para a eternidade a tentar ver uma história contada só até meio.",
+      "prayer": "Senhor, ajuda-me a confiar no tempo cuja beleza ainda não consigo ver."
+    },
+    {
+      "entry_id": "lost-phil-3-13",
+      "reflection": "Paulo, mais avançado do que quase qualquer pessoa, ainda se descreve como não tendo alcançado -- a sua postura é esquecer o que fica para trás e esforçar-se pelo que está adiante, não já ter chegado à clareza. Não teres tudo resolvido não é sinal de que ficaste para trás; é a condição comum de qualquer pessoa que realmente ainda está a avançar.",
+      "prayer": "Senhor, ajuda-me a esquecer o que fica para trás e a continuar a esforçar-me pelo que ainda está adiante."
+    },
+    {
+      "entry_id": "lost-ps-23-1",
+      "reflection": "A afirmação é notavelmente simples -- porque o Senhor é pastor, nada falta -- dita antes de qualquer descrição de verdes pastagens ou caminhos retos. O sentido de direção, por outras palavras, não depende de já ver todo o percurso; assenta em quem está a guiar.",
+      "prayer": "Senhor, sê o meu pastor hoje. Que isso baste, mesmo antes de eu ver o caminho."
+    },
+    {
+      "entry_id": "lost-jn-14-6",
+      "reflection": "Jesus não oferece indicações para o caminho -- identifica-se a si mesmo como o caminho. Isso redefine o que significa estar perdido: não falhar em localizar um conjunto de instruções, mas a tarefa contínua de permanecer perto de uma pessoa, o que é um tipo de encontro diferente de ler bem um mapa.",
+      "prayer": "Jesus, sê tu o caminho para mim hoje, não apenas o destino que estou a tentar alcançar."
+    },
+    {
+      "entry_id": "lost-acts-17-28",
+      "reflection": "Paulo diz a pessoas que adoram um deus desconhecido que já vivem, se movem e existem precisamente naquele que ainda não reconhecem -- a sua procura não estava a acontecer no lugar errado, só sem um nome para o lugar onde já estavam. Sentir-se perdido nem sempre significa estar longe de Deus; às vezes significa ainda não reconhecer o chão onde já estás.",
+      "prayer": "Senhor, ajuda-me a reconhecer que já vivo e me movo em ti, mesmo quando me sinto longe."
+    },
+    {
+      "entry_id": "unseen-gen-16-13",
+      "reflection": "Agar é uma serva, expulsa para o deserto, tão negligenciada por todos os outros na história quanto uma pessoa pode ser -- e é precisamente ali, sozinha e não notada por nenhum ser humano, que ela dá a Deus um título que mais ninguém nas Escrituras usa antes dela: o Deus que vê. Ser invisível para todos os que deveriam tê-la notado não significava que era invisível para Deus; significava que foi ela a primeira a descobrir quem Deus realmente é.",
+      "prayer": "Senhor, sê o Deus que me vê, especialmente onde mais ninguém parece reparar em mim."
+    },
+    {
+      "entry_id": "unseen-lk-8-43",
+      "reflection": "A mulher toca no manto de Jesus esperando especificamente passar despercebida -- doze anos de ser negligenciada, rejeitada e impura ensinaram-lhe a esperar invisibilidade, mesmo no momento da sua cura. Jesus para mesmo assim toda a multidão, recusando-se a deixá-la escapar sem ser vista, e chama-lhe 'filha' diante de todos os que provavelmente nunca tinham usado essa palavra para ela.",
+      "prayer": "Jesus, não me deixes desaparecer na multidão. Chama-me pelo nome, mesmo quando tento não ser notado."
+    },
+    {
+      "entry_id": "unseen-jn-1-47",
+      "reflection": "Natanael fica surpreendido por Jesus saber alguma coisa sobre ele -- 'como me conheces?' -- e a resposta de Jesus não é uma afirmação genérica de onisciência mas uma memória específica: viu-o, sozinho, debaixo de uma árvore particular, antes de alguém os ter apresentado. Ser verdadeiramente conhecido, sugere este momento, não é abstrato; é que Jesus já tinha reparado no exato momento discreto em que pensavas que ninguém estava a olhar.",
+      "prayer": "Jesus, obrigado por já me teres visto antes de eu saber que devia procurar-te."
+    },
+    {
+      "entry_id": "unseen-mt-10-29",
+      "reflection": "Jesus escolhe o animal mais barato e mais negligenciado disponível no mercado -- dois pardais praticamente por nada -- e insiste que nem um deles cai sem a atenção do Pai. O argumento move-se da menor, menos notada criatura diretamente para o ouvinte: se tanta atenção vai para um pardal que ninguém valoriza, quanto mais para uma pessoa que Jesus diz valer mais do que muitos deles.",
+      "prayer": "Pai, se reparas quando um pardal cai, ajuda-me a confiar que reparas em mim."
+    },
+    {
+      "entry_id": "unseen-1sam-16-7",
+      "reflection": "Samuel está pronto para ungir o filho que parece adequado ao papel -- alto, impressionante, exatamente o que todos esperam de um rei -- e Deus para-o com uma única correção direta: ele não vê como os homens veem. Sentir-se invisível para as pessoas que te medem pela aparência, pelas conquistas ou pela estatura não significa que sejas realmente invisível; pode significar que estás a ser avaliado pelo único olhar que alguma vez mediu a coisa certa.",
+      "prayer": "Senhor, olha para o meu coração hoje, não para o que todos os outros estão a medir."
+    },
+    {
+      "entry_id": "unseen-ps-31-7",
+      "reflection": "O salmista não diz que Deus removeu a aflição antes de a nomear como vista -- diz que Deus a viu e conheceu a sua alma no meio de adversidades ainda a acontecer. Ser visto, aqui, não é a mesma promessa que ser imediatamente resgatado; é a garantia de que aquilo que carregas sozinho não está, de facto, sem testemunha.",
+      "prayer": "Senhor, tu viste a minha aflição. Que isso baste para me firmar agora."
+    },
+    {
+      "entry_id": "unseen-ps-139-13",
+      "reflection": "O salmista não localiza o seu valor em nada que tenha realizado ou na opinião de qualquer outra pessoa -- traça-o até ao momento de ter sido formado e tecido antes mesmo de poder fazer ou dizer fosse o que fosse. Ser feito de forma assombrosa e maravilhosa não é um estatuto que ganhas por seres notado; já é verdade sobre ti no ventre materno, muito antes de qualquer outra pessoa estar a olhar.",
+      "prayer": "Senhor, lembra-me que me conheceste e me formaste muito antes de alguém reparar que eu existia."
+    },
+    {
+      "entry_id": "unseen-isa-49-15",
+      "reflection": "Deus não promete apenas não esquecer -- oferece a imagem mais permanente disponível: o teu nome gravado nas palmas das suas próprias mãos, uma marca que teria de olhar constantemente, impossível de negligenciar por acidente. Até o amor de uma mãe, a comparação humana mais próxima que Isaías consegue encontrar, é oferecido apenas como o padrão que a própria memória de Deus excede.",
+      "prayer": "Senhor, obrigado por eu estar gravado nas tuas mãos, impossível para ti esquecer."
+    },
+    {
+      "entry_id": "unseen-lk-21-1",
+      "reflection": "Todos os outros no tesouro do templo estavam a observar as ofertas grandes e impressionantes a entrar -- Jesus é o único que volta a sua atenção para as duas pequenas moedas de uma pobre viúva e nomeia o que ela deu como maior do que tudo o resto junto. O que parecia, a qualquer outro observador, a oferta mais pequena e menos notável do dia era a única coisa que Jesus realmente via com clareza.",
+      "prayer": "Senhor, ajuda-me a confiar que aquilo que parece pequeno e despercebido para todos os outros, tu realmente vês com clareza."
+    },
+    {
+      "entry_id": "unseen-isa-62-4",
+      "reflection": "Isaías nomeia diretamente o título antigo -- Abandonada -- apenas para o substituir por um novo que não descreve o que o povo fez para merecer atenção, mas o que Deus já sente por eles: o seu deleite. A mudança de nome não é uma recompensa por se tornarem mais notados; é simplesmente Deus a declarar qual nome era verdadeiro desde sempre.",
+      "prayer": "Senhor, deixa-me ouvir-te chamar-me de amado, não abandonado, especialmente hoje."
     }
   ]
 }

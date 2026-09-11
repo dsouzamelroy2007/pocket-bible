@@ -180,6 +180,16 @@
       "feeling_id": "courage",
       "label": "En quête de courage",
       "description": "Pour quand tu sais ce que tu devrais faire, et qu'il te manque juste le cran de le faire."
+    },
+    {
+      "feeling_id": "lost",
+      "label": "Perdu(e)",
+      "description": "Pour quand tu ne sais pas ce que tu es censé faire de ta vie."
+    },
+    {
+      "feeling_id": "unseen",
+      "label": "Invisible",
+      "description": "Pour quand les gens autour de toi regardent droit à travers toi."
     }
   ],
   "entry_translations": [
@@ -1982,6 +1992,106 @@
       "entry_id": "courage-ps-16-5",
       "reflection": "Le psalmiste ne décrit pas une vie sans risque – il nomme une sécurité sous ses circonstances, qu'il n'a pas eu à s'assurer lui-même. C'est précisément ce genre de terrain stable qui rend une personne libre de risquer quelque chose en premier lieu : quand ton propre appui se sent déjà porté pour toi, tu as bien moins à perdre en t'avançant vers ce qui est difficile.",
       "prayer": "Puisque mon terrain est déjà assuré en toi, Seigneur, laisse-moi dépenser mon courage généreusement, non avec prudence."
+    },
+    {
+      "entry_id": "lost-jer-29-13",
+      "reflection": "Dieu ne promet pas aux exilés de Jérémie une réponse instantanée ; il promet ce qui arrive quand ils cherchent de tout leur cœur, et non à moitié, en vérifiant occasionnellement. Se sentir perdu vient souvent d'une recherche à moitié -- effleurer une dizaine de directions sans s'engager assez longtemps dans une seule recherche pour vraiment trouver quelque chose.",
+      "prayer": "Seigneur, je cherche. Rencontre-moi dans cette recherche, surtout quand je ne regarde qu'à moitié."
+    },
+    {
+      "entry_id": "lost-gen-12-1",
+      "reflection": "Abram ne reçoit pas de carte -- il reçoit un ordre de quitter ce qui lui est familier et d'aller vers un lieu que Dieu ne lui montrera qu'une fois déjà en mouvement. La direction vient après que l'obéissance commence, pas avant ; parfois le chemin ne devient visible qu'à mi-parcours du départ.",
+      "prayer": "Seigneur, je n'ai pas toute la carte. Aide-moi à faire le prochain pas quand même."
+    },
+    {
+      "entry_id": "lost-lk-15-4",
+      "reflection": "La brebis de cette histoire ne retrouve pas son propre chemin -- c'est le berger qui laisse tout le reste pour partir la chercher, et c'est la découverte du berger, non la prise de conscience de la brebis, qui termine l'histoire. Être perdu, ici, n'est pas un échec moral à réparer seul ; c'est une condition que quelqu'un d'autre cherche déjà à faire cesser.",
+      "prayer": "Seigneur, viens me trouver là où j'ai erré. Je n'ai pas à retrouver seul mon chemin."
+    },
+    {
+      "entry_id": "lost-pr-19-21",
+      "reflection": "Le proverbe ne dit pas que les propres plans d'une personne ne valent rien -- il dit qu'ils se multiplient, nombreux, tandis qu'un seul dessein surpasse tranquillement tous les autres. Se sentir perdu signifie parfois porter trop de plans concurrents à la fois, non en avoir aucun ; le soulagement ne consiste pas à inventer le bon plan mais à faire confiance qu'un dessein prévaut déjà sous le bruit.",
+      "prayer": "Seigneur, apaise les nombreux plans dans mon cœur jusqu'à ce que je puisse entendre celui qui est le tien."
+    },
+    {
+      "entry_id": "lost-ps-37-23",
+      "reflection": "Le psaume attribue l'affermissement des pas d'une personne au Seigneur, non à sa propre clairvoyance sur où elle se dirige. Ce verset suggère qu'il est possible de se réjouir sincèrement de son chemin tout en ne comprenant pas pleinement où chaque pas mène -- l'affermissement se produit en dessous de ta conscience, non parce que tu l'as cartographié en premier.",
+      "prayer": "Affermis mes pas, Seigneur, même ceux dont je ne vois pas encore la raison."
+    },
+    {
+      "entry_id": "lost-eccl-3-11",
+      "reflection": "Le Prédicateur nomme deux choses ensemble : que Dieu rend tout beau en son temps, et qu'il a mis l'éternité dans le cœur humain d'une manière qui ne peut jamais saisir pleinement toute l'œuvre que Dieu accomplit. Se sentir perdu est peut-être moins un problème à résoudre que la douleur honnête d'un cœur fait pour l'éternité essayant de voir une histoire seulement à moitié racontée.",
+      "prayer": "Seigneur, aide-moi à faire confiance au moment dont je ne vois pas encore la beauté."
+    },
+    {
+      "entry_id": "lost-phil-3-13",
+      "reflection": "Paul, plus avancé que presque quiconque, se décrit encore comme n'ayant pas atteint le but -- sa posture est d'oublier ce qui est derrière et de tendre vers ce qui est devant, pas d'être déjà arrivé à la clarté. Ne pas avoir tout compris n'est pas un signe que tu as pris du retard ; c'est la condition ordinaire de quiconque avance réellement encore.",
+      "prayer": "Seigneur, aide-moi à oublier ce qui est derrière moi et à continuer de tendre vers ce qui est encore devant."
+    },
+    {
+      "entry_id": "lost-ps-23-1",
+      "reflection": "L'affirmation est remarquablement simple -- parce que le Seigneur est un berger, rien ne manque -- énoncée avant toute description de verts pâturages ou de justes sentiers. Le sens de la direction, en d'autres termes, ne dépend pas du fait de déjà voir tout le trajet ; il repose sur celui qui guide.",
+      "prayer": "Seigneur, sois mon berger aujourd'hui. Que cela suffise, même avant que je voie le chemin."
+    },
+    {
+      "entry_id": "lost-jn-14-6",
+      "reflection": "Jésus n'offre pas des indications vers le chemin -- il s'identifie lui-même comme le chemin. Cela redéfinit ce que signifie être perdu : non pas échouer à localiser un ensemble d'instructions, mais la tâche continue de rester proche d'une personne, ce qui est une manière de trouver différente de bien lire une carte.",
+      "prayer": "Jésus, sois le chemin pour moi aujourd'hui, pas seulement la destination que j'essaie d'atteindre."
+    },
+    {
+      "entry_id": "lost-acts-17-28",
+      "reflection": "Paul dit aux gens qui adorent un dieu inconnu qu'ils vivent, se meuvent et existent déjà dans celui-là même qu'ils ne reconnaissent pas encore -- leur recherche ne se déroulait pas au mauvais endroit, simplement sans nom pour l'endroit où ils se trouvaient déjà. Se sentir perdu ne signifie pas toujours être loin de Dieu ; parfois cela signifie ne pas encore reconnaître le sol sur lequel tu te tiens déjà.",
+      "prayer": "Seigneur, aide-moi à reconnaître que je vis et me meus déjà en toi, même quand je me sens loin."
+    },
+    {
+      "entry_id": "unseen-gen-16-13",
+      "reflection": "Agar est une servante, chassée dans le désert, à peu près aussi négligée par tous les autres de l'histoire qu'une personne peut l'être -- et c'est précisément là, seule et remarquée par aucun être humain, qu'elle donne à Dieu un titre que personne d'autre dans l'Écriture n'utilise avant elle : le Dieu qui voit. Être invisible à tous ceux qui auraient dû la remarquer ne signifiait pas qu'elle était invisible à Dieu ; cela signifiait qu'elle fut la première à découvrir qui Dieu est réellement.",
+      "prayer": "Seigneur, sois le Dieu qui me voit, surtout là où personne d'autre ne semble me remarquer."
+    },
+    {
+      "entry_id": "unseen-lk-8-43",
+      "reflection": "La femme touche le manteau de Jésus en espérant précisément passer inaperçue -- douze ans d'être négligée, rejetée et impure lui ont appris à s'attendre à l'invisibilité, même au moment de sa guérison. Jésus arrête pourtant toute la foule, refusant de la laisser s'éclipser sans être vue, et l'appelle 'ma fille' devant tous ceux qui probablement n'avaient jamais utilisé ce mot pour elle.",
+      "prayer": "Jésus, ne me laisse pas disparaître dans la foule. Appelle-moi par mon nom, même quand j'essaie de ne pas être remarqué."
+    },
+    {
+      "entry_id": "unseen-jn-1-47",
+      "reflection": "Nathanaël est surpris que Jésus sache quoi que ce soit de lui -- 'comment me connais-tu ?' -- et la réponse de Jésus n'est pas une affirmation générique d'omniscience mais un souvenir précis : il l'a vu, seul, sous un arbre particulier, avant que quiconque ne les ait présentés. Être véritablement connu, suggère ce moment, n'est pas abstrait ; c'est que Jésus avait déjà remarqué le moment exact et sans éclat où tu pensais que personne ne regardait.",
+      "prayer": "Jésus, merci de m'avoir déjà vu avant même que je sache qu'il fallait te chercher."
+    },
+    {
+      "entry_id": "unseen-mt-10-29",
+      "reflection": "Jésus choisit l'animal le moins cher et le plus négligé disponible au marché -- deux moineaux pour presque rien -- et insiste sur le fait que pas un seul d'entre eux ne tombe sans l'attention du Père. L'argument se déplace de la plus petite créature, la moins remarquée, directement vers l'auditeur : si tant d'attention va à un moineau que personne ne valorise, combien plus à une personne que Jésus dit valoir plus que beaucoup d'entre eux.",
+      "prayer": "Père, si tu remarques un moineau qui tombe, aide-moi à croire que tu me remarques aussi."
+    },
+    {
+      "entry_id": "unseen-1sam-16-7",
+      "reflection": "Samuel est prêt à oindre le fils qui a l'apparence du rôle -- grand, impressionnant, exactement ce que tout le monde attend d'un roi -- et Dieu l'arrête d'une seule correction directe : il ne voit pas comme les hommes voient. Se sentir invisible pour les gens qui te mesurent sur l'apparence, la réussite ou la stature ne signifie pas que tu es réellement invisible ; cela peut signifier que tu es évalué par le seul regard qui ait jamais mesuré la bonne chose.",
+      "prayer": "Seigneur, regarde mon cœur aujourd'hui, pas ce que tout le monde mesure."
+    },
+    {
+      "entry_id": "unseen-ps-31-7",
+      "reflection": "Le psalmiste ne dit pas que Dieu a retiré l'affliction avant de la nommer comme vue -- il dit que Dieu l'a vue et a connu son âme au milieu d'adversités encore présentes. Être vu, ici, n'est pas la même promesse qu'être immédiatement secouru ; c'est l'assurance que ce que tu portes seul n'est en fait pas sans témoin.",
+      "prayer": "Seigneur, tu as vu mon affliction. Que cela suffise à m'affermir maintenant."
+    },
+    {
+      "entry_id": "unseen-ps-139-13",
+      "reflection": "Le psalmiste ne situe pas sa valeur dans quoi que ce soit qu'il ait accompli ou dans l'opinion de quiconque -- il la retrace jusqu'à avoir été formé et tissé avant même de pouvoir faire ou dire quoi que ce soit. Être merveilleusement et admirablement fait n'est pas un statut que tu gagnes en étant remarqué ; c'est déjà vrai de toi dans le sein d'une mère, bien avant que quiconque d'autre ne regarde.",
+      "prayer": "Seigneur, rappelle-moi que tu m'as connu et façonné bien avant que quiconque remarque que j'existais."
+    },
+    {
+      "entry_id": "unseen-isa-49-15",
+      "reflection": "Dieu ne promet pas seulement de ne pas oublier -- il offre l'image la plus permanente disponible : ton nom gravé dans la paume de ses propres mains, une marque qu'il devrait regarder constamment, impossible à négliger par accident. Même l'amour d'une mère, la comparaison humaine la plus proche qu'Isaïe puisse trouver, n'est offerte que comme la norme que le souvenir de Dieu lui-même dépasse.",
+      "prayer": "Seigneur, merci que je sois gravé sur tes mains, impossible pour toi d'oublier."
+    },
+    {
+      "entry_id": "unseen-lk-21-1",
+      "reflection": "Tous les autres au trésor du temple regardaient les dons grands et impressionnants entrer -- Jésus est le seul à tourner son attention vers les deux petites pièces d'une pauvre veuve et à nommer ce qu'elle a donné comme plus grand que tout le reste réuni. Ce qui semblait, à tout autre observateur, le don le plus petit et le moins remarquable de la journée était la seule chose que Jésus voyait réellement clairement.",
+      "prayer": "Seigneur, aide-moi à croire que ce qui semble petit et inaperçu à tous les autres, toi tu le vois réellement clairement."
+    },
+    {
+      "entry_id": "unseen-isa-62-4",
+      "reflection": "Isaïe nomme directement l'ancien titre -- Délaissée -- seulement pour le remplacer par un nouveau qui ne décrit pas ce que le peuple a fait pour mériter l'attention, mais ce que Dieu ressent déjà pour lui : son plaisir. Le renommage n'est pas une récompense pour être devenu plus remarquable ; c'est simplement Dieu déclarant quel nom était vrai depuis le début.",
+      "prayer": "Seigneur, fais que je t'entende m'appeler bien-aimé, non délaissé, surtout aujourd'hui."
     }
   ]
 }

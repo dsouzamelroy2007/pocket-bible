@@ -1036,6 +1036,74 @@
           "weight": 0.6
         }
       ]
+    },
+    {
+      "id": "lost",
+      "label": "Feeling lost",
+      "icon": "ti-map-off",
+      "category": "desire",
+      "description": "For when you don't know what you're supposed to be doing with your life.",
+      "sort_order": 37,
+      "aliases": [
+        {
+          "alias": "lost",
+          "weight": 1.0
+        },
+        {
+          "alias": "aimless",
+          "weight": 0.9
+        },
+        {
+          "alias": "no direction",
+          "weight": 0.9
+        },
+        {
+          "alias": "don't know my purpose",
+          "weight": 0.8
+        },
+        {
+          "alias": "drifting",
+          "weight": 0.7
+        },
+        {
+          "alias": "wandering",
+          "weight": 0.6
+        }
+      ]
+    },
+    {
+      "id": "unseen",
+      "label": "Feeling unseen",
+      "icon": "ti-ghost",
+      "category": "relational",
+      "description": "For when the people around you look right past you.",
+      "sort_order": 38,
+      "aliases": [
+        {
+          "alias": "invisible",
+          "weight": 1.0
+        },
+        {
+          "alias": "unnoticed",
+          "weight": 0.9
+        },
+        {
+          "alias": "overlooked",
+          "weight": 0.9
+        },
+        {
+          "alias": "ignored",
+          "weight": 0.8
+        },
+        {
+          "alias": "doesn't matter to anyone",
+          "weight": 0.7
+        },
+        {
+          "alias": "unappreciated",
+          "weight": 0.6
+        }
+      ]
     }
   ],
   "passages": [
@@ -8149,6 +8217,149 @@
       "pull_quote": "The LORD is on my side. I will not be afraid.",
       "reference_display": "Psalm 118:6",
       "reference_alt": null
+    },
+    {
+      "id": "web-c:jer:29:13",
+      "translation_id": "web-c",
+      "book_id": "jer",
+      "chapter_start": 29,
+      "chapter_end": 29,
+      "verse_start": 13,
+      "verse_end": 13,
+      "text": "You shall seek me and find me, when you search for me with all your heart.",
+      "pull_quote": "You shall seek me and find me, when you search for me with all your heart.",
+      "reference_display": "Jeremiah 29:13",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:gen:12:1",
+      "translation_id": "web-c",
+      "book_id": "gen",
+      "chapter_start": 12,
+      "chapter_end": 12,
+      "verse_start": 1,
+      "verse_end": 1,
+      "text": "Now the LORD said to Abram, “Leave your country, and your relatives, and your father’s house, and go to the land that I will show you.",
+      "pull_quote": "Leave your country... and go to the land that I will show you.",
+      "reference_display": "Genesis 12:1",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:lk:15:4",
+      "translation_id": "web-c",
+      "book_id": "lk",
+      "chapter_start": 15,
+      "chapter_end": 15,
+      "verse_start": 4,
+      "verse_end": 6,
+      "text": "“Which of you men, if you had one hundred sheep and lost one of them, wouldn’t leave the ninety-nine in the wilderness and go after the one that was lost, until he found it? When he has found it, he carries it on his shoulders, rejoicing. When he comes home, he calls together his friends and his neighbors, saying to them, ‘Rejoice with me, for I have found my sheep which was lost!’",
+      "pull_quote": "Rejoice with me, for I have found my sheep which was lost!",
+      "reference_display": "Luke 15:4-6",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:gen:16:13",
+      "translation_id": "web-c",
+      "book_id": "gen",
+      "chapter_start": 16,
+      "chapter_end": 16,
+      "verse_start": 13,
+      "verse_end": 13,
+      "text": "She called the name of the LORD who spoke to her, “You are a God who sees,” for she said, “Have I even stayed alive after seeing him?”",
+      "pull_quote": "You are a God who sees.",
+      "reference_display": "Genesis 16:13",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:lk:8:43",
+      "translation_id": "web-c",
+      "book_id": "lk",
+      "chapter_start": 8,
+      "chapter_end": 8,
+      "verse_start": 43,
+      "verse_end": 48,
+      "text": "A woman who had a flow of blood for twelve years, who had spent all her living on physicians and could not be healed by any, came behind him and touched the fringe of his cloak. Immediately the flow of her blood stopped. Jesus said, “Who touched me?” When all denied it, Peter and those with him said, “Master, the multitudes press and jostle you, and you say, ‘Who touched me?’” But Jesus said, “Someone did touch me, for I perceived that power has gone out of me.” When the woman saw that she was not hidden, she came trembling; and falling down before him declared to him in the presence of all the people the reason why she had touched him, and how she was healed immediately. He said to her, “Daughter, cheer up. Your faith has made you well. Go in peace.”",
+      "pull_quote": "Daughter, cheer up. Your faith has made you well. Go in peace.",
+      "reference_display": "Luke 8:43-48",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:jn:1:47",
+      "translation_id": "web-c",
+      "book_id": "jn",
+      "chapter_start": 1,
+      "chapter_end": 1,
+      "verse_start": 47,
+      "verse_end": 48,
+      "text": "Jesus saw Nathanael coming to him, and said about him, “Behold, an Israelite indeed, in whom is no deceit!” Nathanael said to him, “How do you know me?” Jesus answered him, “Before Philip called you, when you were under the fig tree, I saw you.”",
+      "pull_quote": "Before Philip called you, when you were under the fig tree, I saw you.",
+      "reference_display": "John 1:47-48",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:mt:10:29",
+      "translation_id": "web-c",
+      "book_id": "mt",
+      "chapter_start": 10,
+      "chapter_end": 10,
+      "verse_start": 29,
+      "verse_end": 31,
+      "text": "“Aren’t two sparrows sold for an assarion coin? Not one of them falls to the ground apart from your Father’s will. But the very hairs of your head are all numbered. Therefore don’t be afraid. You are of more value than many sparrows.",
+      "pull_quote": "You are of more value than many sparrows.",
+      "reference_display": "Matthew 10:29-31",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:ps:31:7",
+      "translation_id": "web-c",
+      "book_id": "ps",
+      "chapter_start": 31,
+      "chapter_end": 31,
+      "verse_start": 7,
+      "verse_end": 7,
+      "text": "I will be glad and rejoice in your loving kindness, for you have seen my affliction. You have known my soul in adversities.",
+      "pull_quote": "You have seen my affliction. You have known my soul in adversities.",
+      "reference_display": "Psalm 31:7",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:49:15",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 49,
+      "chapter_end": 49,
+      "verse_start": 15,
+      "verse_end": 16,
+      "text": "“Can a woman forget her nursing child, that she should not have compassion on the son of her womb? Yes, these may forget, yet I will not forget you! Behold, I have engraved you on the palms of my hands. Your walls are continually before me.",
+      "pull_quote": "I have engraved you on the palms of my hands.",
+      "reference_display": "Isaiah 49:15-16",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:lk:21:1",
+      "translation_id": "web-c",
+      "book_id": "lk",
+      "chapter_start": 21,
+      "chapter_end": 21,
+      "verse_start": 1,
+      "verse_end": 4,
+      "text": "He looked up and saw the rich people who were putting their gifts into the treasury. He saw a certain poor widow casting in two small brass coins. He said, “Truly I tell you, this poor widow put in more than all of them, for all these put in gifts for God from their abundance, but she, out of her poverty, put in all that she had to live on.”",
+      "pull_quote": "This poor widow put in more than all of them.",
+      "reference_display": "Luke 21:1-4",
+      "reference_alt": null
+    },
+    {
+      "id": "web-c:isa:62:4",
+      "translation_id": "web-c",
+      "book_id": "isa",
+      "chapter_start": 62,
+      "chapter_end": 62,
+      "verse_start": 4,
+      "verse_end": 4,
+      "text": "You will not be called Forsaken any more, nor will your land be called Desolate any more; but you will be called Hephzibah, and your land Beulah; for the LORD delights in you, and your land will be married.",
+      "pull_quote": "You will not be called Forsaken any more... for the LORD delights in you.",
+      "reference_display": "Isaiah 62:4",
+      "reference_alt": null
     }
   ],
   "entries": [
@@ -12107,6 +12318,246 @@
       "saint_quote": null,
       "saint_attribution": null,
       "liturgical_season": null
+    },
+    {
+      "id": "lost-jer-29-13",
+      "feeling_id": "lost",
+      "intensity": "acute",
+      "depth_order": 1,
+      "reflection": "God doesn't promise Jeremiah's exiles an instant answer; he promises what happens when they search with their whole heart, not half-heartedly checking in occasionally. Feeling lost often comes from searching halfway -- glancing at a dozen directions without committing to any one search long enough to actually find something.",
+      "prayer": "Lord, I'm searching. Meet me in it, especially when I only look with half my heart.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lost-gen-12-1",
+      "feeling_id": "lost",
+      "intensity": "acute",
+      "depth_order": 2,
+      "reflection": "Abram isn't given a map -- he's given a command to leave what's familiar and go toward a place God will only show him once he's already moving. The direction comes after the obedience starts, not before it; sometimes the way forward only becomes visible partway into the leaving.",
+      "prayer": "Lord, I don't have the whole map. Help me take the next step anyway.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lost-lk-15-4",
+      "feeling_id": "lost",
+      "intensity": "acute",
+      "depth_order": 3,
+      "reflection": "The sheep in this story doesn't find its own way back -- it's the shepherd who leaves everything else to go looking, and it's the shepherd's finding, not the sheep's realizing, that ends the story. Being lost, here, isn't a moral failure to fix alone; it's a condition someone else is already searching to end.",
+      "prayer": "Lord, come find me where I've wandered. I don't have to find my own way back alone.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lost-pr-19-21",
+      "feeling_id": "lost",
+      "intensity": "steady",
+      "depth_order": 4,
+      "reflection": "The proverb doesn't say a person's own plans are worthless -- it says they multiply, many of them, while one purpose quietly outlasts all the others. Feeling lost sometimes means holding too many competing plans at once, not having none; the relief isn't inventing the right plan but trusting one purpose is already prevailing underneath the noise.",
+      "prayer": "Lord, quiet the many plans in my heart until I can hear the one that's yours.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lost-ps-37-23",
+      "feeling_id": "lost",
+      "intensity": "steady",
+      "depth_order": 5,
+      "reflection": "The psalm credits the establishing of a person's steps to the LORD, not to the person's own clear-sightedness about where they're headed. It's possible, this verse suggests, to be genuinely delighted in your way and still not fully understand where each step is leading -- the establishing happens underneath your awareness, not because you mapped it first.",
+      "prayer": "Establish my steps, Lord, even the ones I can't yet see the reason for.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lost-eccl-3-11",
+      "feeling_id": "lost",
+      "intensity": "steady",
+      "depth_order": 6,
+      "reflection": "The Preacher names two things together: that God makes everything beautiful in its time, and that he's put eternity in the human heart in a way that can never fully grasp the whole work God is doing. Feeling lost may be less a problem to solve than the honest ache of a heart built for eternity trying to see a story only partway told.",
+      "prayer": "Lord, help me trust the timing I can't yet see the beauty in.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lost-phil-3-13",
+      "feeling_id": "lost",
+      "intensity": "steady",
+      "depth_order": 7,
+      "reflection": "Paul, further along than almost anyone, still describes himself as not having taken hold -- his posture is forgetting what's behind and straining toward what's ahead, not having already arrived at clarity. Not having it all figured out isn't a sign you've fallen behind; it's the ordinary condition of anyone actually still moving forward.",
+      "prayer": "Lord, help me forget what's behind me and keep straining toward what's still ahead.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lost-ps-23-1",
+      "feeling_id": "lost",
+      "intensity": "settled",
+      "depth_order": 8,
+      "reflection": "The claim is remarkably plain -- because the LORD is a shepherd, nothing is lacking -- stated before any description of green pastures or right paths follows. The sense of direction, in other words, doesn't depend on already seeing the whole route; it rests on who's doing the leading.",
+      "prayer": "Lord, be my shepherd today. Let that be enough, even before I see the path.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lost-jn-14-6",
+      "feeling_id": "lost",
+      "intensity": "settled",
+      "depth_order": 9,
+      "reflection": "Jesus doesn't offer directions to the way -- he identifies himself as the way itself. That reframes what it means to be lost: not failing to locate a set of instructions, but the ongoing task of staying close to a person, which is a different kind of finding than reading a map correctly.",
+      "prayer": "Jesus, be the way for me today, not just the destination I'm trying to reach.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "lost-acts-17-28",
+      "feeling_id": "lost",
+      "intensity": "settled",
+      "depth_order": 10,
+      "reflection": "Paul tells people who worship an unknown god that they already live and move and exist inside the very one they don't yet recognize -- their searching hasn't been happening in the wrong place, just without a name for where they already were. Feeling lost doesn't always mean being far from God; sometimes it means not yet recognizing the ground you're already standing on.",
+      "prayer": "Lord, help me recognize that I'm already living and moving in you, even when I feel far away.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unseen-gen-16-13",
+      "feeling_id": "unseen",
+      "intensity": "acute",
+      "depth_order": 1,
+      "reflection": "Hagar is a servant, cast out into the wilderness, about as overlooked by everyone else in the story as a person can be -- and it's precisely there, alone and unnoticed by any human being, that she names God with a title no one else in Scripture uses first: the God who sees. Being unseen by everyone who should have noticed her didn't mean she was unseen by God; it meant she was the one who discovered, before anyone else did, that this is who God actually is.",
+      "prayer": "Lord, be the God who sees me, especially where no one else seems to notice.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unseen-lk-8-43",
+      "feeling_id": "unseen",
+      "intensity": "acute",
+      "depth_order": 2,
+      "reflection": "The woman touches Jesus' cloak specifically hoping to go unnoticed -- twelve years of being overlooked, dismissed, and unclean have taught her to expect invisibility, even in the moment of her healing. Jesus stops the entire crowd anyway, refusing to let her slip away unseen, and calls her 'daughter' in front of everyone who had likely never once used that word for her.",
+      "prayer": "Jesus, don't let me disappear into the crowd. Call me by name, even when I'm trying not to be noticed.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unseen-jn-1-47",
+      "feeling_id": "unseen",
+      "intensity": "acute",
+      "depth_order": 3,
+      "reflection": "Nathanael is startled that Jesus knows anything about him at all -- 'how do you know me?' -- and Jesus' answer isn't a generic claim to omniscience but a specific memory: he saw him, alone, under a particular tree, before anyone had introduced them. Being truly known, this moment suggests, isn't abstract; it's Jesus already having noticed the exact, unremarkable moment you assumed no one was watching.",
+      "prayer": "Jesus, thank you that you already saw me before I knew to look for you.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unseen-mt-10-29",
+      "feeling_id": "unseen",
+      "intensity": "steady",
+      "depth_order": 4,
+      "reflection": "Jesus picks the cheapest, most overlooked animal available at market -- two sparrows for practically nothing -- and insists that not even one of them falls without the Father's attention. The argument moves from the smallest, least noticed creature to the listener directly: if that much attention goes to a sparrow no one values, how much more to a person Jesus says is worth more than many of them.",
+      "prayer": "Father, if you notice a sparrow falling, help me trust you notice me.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unseen-1sam-16-7",
+      "feeling_id": "unseen",
+      "intensity": "steady",
+      "depth_order": 5,
+      "reflection": "Samuel is ready to anoint the son who looks the part -- tall, impressive, exactly what everyone expects a king to look like -- and God stops him with a single, direct correction: he doesn't see the way people see. Feeling unseen by the people measuring you on appearance, achievement, or stature doesn't mean you're actually unseen; it may mean you're being evaluated by the only gaze that was ever measuring the right thing.",
+      "prayer": "Lord, look at my heart today, not what everyone else is measuring.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unseen-ps-31-7",
+      "feeling_id": "unseen",
+      "intensity": "steady",
+      "depth_order": 6,
+      "reflection": "The psalmist doesn't say God removed the affliction before naming it as seen -- he says God has seen it and known his soul in the middle of adversities still happening. Being seen, here, isn't the same promise as being immediately rescued; it's the assurance that whatever you're carrying alone is not, in fact, unwitnessed.",
+      "prayer": "Lord, you have seen my affliction. Let that be enough to steady me right now.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unseen-ps-139-13",
+      "feeling_id": "unseen",
+      "intensity": "steady",
+      "depth_order": 7,
+      "reflection": "The psalmist doesn't locate his worth in anything he's accomplished or anyone else's opinion -- he traces it all the way back to being formed and knit together before he could do or say anything at all. Being fearfully and wonderfully made isn't a status you earn by being noticed; it's already true of you in a mother's womb, long before anyone else was watching.",
+      "prayer": "Lord, remind me that you knew and made me long before anyone else noticed I existed.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unseen-isa-49-15",
+      "feeling_id": "unseen",
+      "intensity": "settled",
+      "depth_order": 8,
+      "reflection": "God doesn't just promise not to forget -- he offers the most permanent image available: your name engraved on the palms of his own hands, a mark he'd have to look at constantly, impossible to overlook by accident. Even a mother's love, the closest human comparison Isaiah can find, is offered only as the standard God's own remembering exceeds.",
+      "prayer": "Lord, thank you that I'm engraved on your hands, impossible for you to forget.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unseen-lk-21-1",
+      "feeling_id": "unseen",
+      "intensity": "settled",
+      "depth_order": 9,
+      "reflection": "Everyone else at the temple treasury was watching the large, impressive gifts go in -- Jesus is the only one who turns his attention to a poor widow's two small coins and names what she gave as greater than all the rest combined. What looked, to every other observer, like the smallest and least noteworthy gift of the day was the one thing Jesus actually saw clearly.",
+      "prayer": "Lord, help me trust that what feels small and unnoticed to everyone else, you actually see clearly.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
+    },
+    {
+      "id": "unseen-isa-62-4",
+      "feeling_id": "unseen",
+      "intensity": "settled",
+      "depth_order": 10,
+      "reflection": "Isaiah names the old title directly -- Forsaken -- only to replace it with a new one that describes not what the people did to earn attention, but what God already feels toward them: his delight. The renaming isn't a reward for becoming more noticeable; it's simply God declaring which name was true all along.",
+      "prayer": "Lord, let me hear you call me delighted-in, not forsaken, especially today.",
+      "ccc_reference": null,
+      "saint_quote": null,
+      "saint_attribution": null,
+      "liturgical_season": null
     }
   ],
   "entry_passages": [
@@ -14273,6 +14724,126 @@
     {
       "entry_id": "courage-ps-16-5",
       "passage_id": "web-c:ps:16:5",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lost-jer-29-13",
+      "passage_id": "web-c:jer:29:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lost-gen-12-1",
+      "passage_id": "web-c:gen:12:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lost-lk-15-4",
+      "passage_id": "web-c:lk:15:4",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lost-pr-19-21",
+      "passage_id": "web-c:pr:19:21",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lost-ps-37-23",
+      "passage_id": "web-c:ps:37:23",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lost-eccl-3-11",
+      "passage_id": "web-c:eccl:3:11",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lost-phil-3-13",
+      "passage_id": "web-c:phil:3:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lost-ps-23-1",
+      "passage_id": "web-c:ps:23:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lost-jn-14-6",
+      "passage_id": "web-c:jn:14:6",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "lost-acts-17-28",
+      "passage_id": "web-c:acts:17:28",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unseen-gen-16-13",
+      "passage_id": "web-c:gen:16:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unseen-lk-8-43",
+      "passage_id": "web-c:lk:8:43",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unseen-jn-1-47",
+      "passage_id": "web-c:jn:1:47",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unseen-mt-10-29",
+      "passage_id": "web-c:mt:10:29",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unseen-1sam-16-7",
+      "passage_id": "web-c:1sam:16:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unseen-ps-31-7",
+      "passage_id": "web-c:ps:31:7",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unseen-ps-139-13",
+      "passage_id": "web-c:ps:139:13",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unseen-isa-49-15",
+      "passage_id": "web-c:isa:49:15",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unseen-lk-21-1",
+      "passage_id": "web-c:lk:21:1",
+      "position": 0,
+      "role": "primary"
+    },
+    {
+      "entry_id": "unseen-isa-62-4",
+      "passage_id": "web-c:isa:62:4",
       "position": 0,
       "role": "primary"
     }

@@ -180,6 +180,16 @@
       "feeling_id": "courage",
       "label": "In cerca di coraggio",
       "description": "Per quando sai cosa dovresti fare, e ti manca solo il coraggio di farlo."
+    },
+    {
+      "feeling_id": "lost",
+      "label": "Perso/a",
+      "description": "Per quando non sai cosa dovresti fare della tua vita."
+    },
+    {
+      "feeling_id": "unseen",
+      "label": "Invisibile",
+      "description": "Per quando le persone intorno a te ti guardano dritto attraverso."
     }
   ],
   "entry_translations": [
@@ -1982,6 +1992,106 @@
       "entry_id": "courage-ps-16-5",
       "reflection": "Il salmista non descrive una vita priva di rischio – nomina una sicurezza sotto le sue circostanze, che non ha dovuto assicurarsi da solo. È proprio questo tipo di terreno stabile a rendere una persona libera di rischiare qualcosa, prima di tutto: quando il tuo stesso appoggio si sente già custodito per te, hai molto meno da perdere nel muoverti verso ciò che è difficile.",
       "prayer": "Poiché il mio terreno è già sicuro in te, Signore, lasciami spendere il mio coraggio con generosità, non con cautela."
+    },
+    {
+      "entry_id": "lost-jer-29-13",
+      "reflection": "Dio non promette agli esuli di Geremia una risposta istantanea; promette ciò che accade quando cercano con tutto il cuore, non controllando a metà di tanto in tanto. Sentirsi persi spesso deriva dal cercare a metà -- sfiorare una dozzina di direzioni senza impegnarsi abbastanza a lungo in un'unica ricerca per trovare davvero qualcosa.",
+      "prayer": "Signore, sto cercando. Incontrami in questo, specialmente quando guardo solo con metà cuore."
+    },
+    {
+      "entry_id": "lost-gen-12-1",
+      "reflection": "Ad Abramo non viene data una mappa -- gli viene dato un comando di lasciare ciò che gli è familiare e andare verso un luogo che Dio gli mostrerà solo una volta che sarà già in movimento. La direzione arriva dopo che l'obbedienza inizia, non prima; a volte la strada diventa visibile solo a metà del cammino.",
+      "prayer": "Signore, non ho tutta la mappa. Aiutami a fare comunque il prossimo passo."
+    },
+    {
+      "entry_id": "lost-lk-15-4",
+      "reflection": "La pecora in questa storia non trova da sola la via del ritorno -- è il pastore che lascia tutto il resto per andare a cercarla, ed è il ritrovamento del pastore, non la consapevolezza della pecora, a concludere la storia. Essere perduti, qui, non è un fallimento morale da risolvere da soli; è una condizione che qualcun altro sta già cercando di porre fine.",
+      "prayer": "Signore, vieni a trovarmi dove mi sono smarrito. Non devo ritrovare da solo la mia strada."
+    },
+    {
+      "entry_id": "lost-pr-19-21",
+      "reflection": "Il proverbio non dice che i piani di una persona non valgono nulla -- dice che si moltiplicano, molti di essi, mentre un unico proposito supera silenziosamente tutti gli altri. Sentirsi persi a volte significa portare troppi piani in competizione contemporaneamente, non averne nessuno; il sollievo non sta nell'inventare il piano giusto ma nel fidarsi che un proposito sta già prevalendo sotto il rumore.",
+      "prayer": "Signore, calma i molti piani nel mio cuore finché non riesca a sentire quello che è tuo."
+    },
+    {
+      "entry_id": "lost-ps-37-23",
+      "reflection": "Il salmo attribuisce lo stabilirsi dei passi di una persona al Signore, non alla propria chiara visione di dove sia diretta. Questo versetto suggerisce che è possibile essere davvero contenti del proprio cammino e comunque non capire pienamente dove porti ogni passo -- lo stabilirsi avviene sotto la tua consapevolezza, non perché tu l'abbia mappato prima.",
+      "prayer": "Stabilisci i miei passi, Signore, anche quelli di cui non vedo ancora la ragione."
+    },
+    {
+      "entry_id": "lost-eccl-3-11",
+      "reflection": "Il Predicatore nomina due cose insieme: che Dio rende ogni cosa bella a suo tempo, e che ha posto l'eternità nel cuore umano in un modo che non può mai afferrare completamente l'intera opera che Dio sta compiendo. Sentirsi persi è forse meno un problema da risolvere che il dolore onesto di un cuore fatto per l'eternità che cerca di vedere una storia raccontata solo a metà.",
+      "prayer": "Signore, aiutami a fidarmi del tempo di cui non vedo ancora la bellezza."
+    },
+    {
+      "entry_id": "lost-phil-3-13",
+      "reflection": "Paolo, più avanti di quasi chiunque altro, si descrive ancora come non avendo afferrato -- il suo atteggiamento è dimenticare ciò che sta dietro e protendersi verso ciò che sta davanti, non essere già arrivato alla chiarezza. Non avere tutto chiaro non è un segno che sei rimasto indietro; è la condizione ordinaria di chiunque stia effettivamente ancora andando avanti.",
+      "prayer": "Signore, aiutami a dimenticare ciò che è dietro di me e a continuare a protendermi verso ciò che è ancora davanti."
+    },
+    {
+      "entry_id": "lost-ps-23-1",
+      "reflection": "L'affermazione è notevolmente semplice -- poiché il Signore è un pastore, non manca nulla -- detta prima di qualsiasi descrizione di verdi pascoli o sentieri retti. Il senso della direzione, in altre parole, non dipende dal vedere già l'intero percorso; si fonda su chi sta guidando.",
+      "prayer": "Signore, sii il mio pastore oggi. Che questo basti, anche prima che io veda il sentiero."
+    },
+    {
+      "entry_id": "lost-jn-14-6",
+      "reflection": "Gesù non offre indicazioni verso la via -- si identifica lui stesso come la via. Questo ridefinisce cosa significhi essere perduti: non il fallire nel localizzare una serie di istruzioni, ma il compito continuo di rimanere vicini a una persona, che è un tipo di ritrovamento diverso dal leggere correttamente una mappa.",
+      "prayer": "Gesù, sii tu la via per me oggi, non solo la destinazione che sto cercando di raggiungere."
+    },
+    {
+      "entry_id": "lost-acts-17-28",
+      "reflection": "Paolo dice a persone che adorano un dio sconosciuto che già vivono, si muovono ed esistono proprio in colui che ancora non riconoscono -- la loro ricerca non stava avvenendo nel posto sbagliato, solo senza un nome per il luogo in cui già si trovavano. Sentirsi persi non significa sempre essere lontani da Dio; a volte significa non riconoscere ancora il terreno su cui già ci si trova.",
+      "prayer": "Signore, aiutami a riconoscere che vivo e mi muovo già in te, anche quando mi sento lontano."
+    },
+    {
+      "entry_id": "unseen-gen-16-13",
+      "reflection": "Agar è una serva, cacciata nel deserto, trascurata da tutti gli altri nella storia quanto una persona possa esserlo -- ed è proprio lì, sola e non notata da alcun essere umano, che dà a Dio un titolo che nessun altro nella Scrittura usa prima di lei: il Dio che vede. Essere invisibile a tutti coloro che avrebbero dovuto notarla non significava essere invisibile a Dio; significava che fu lei la prima a scoprire chi Dio realmente sia.",
+      "prayer": "Signore, sii il Dio che mi vede, specialmente dove nessun altro sembra notarmi."
+    },
+    {
+      "entry_id": "unseen-lk-8-43",
+      "reflection": "La donna tocca il mantello di Gesù sperando specificamente di passare inosservata -- dodici anni di essere trascurata, respinta e impura le hanno insegnato ad aspettarsi l'invisibilità, persino nel momento della sua guarigione. Gesù ferma comunque tutta la folla, rifiutandosi di lasciarla sfuggire inosservata, e la chiama 'figlia' davanti a tutti coloro che probabilmente non avevano mai usato quella parola per lei.",
+      "prayer": "Gesù, non lasciarmi scomparire nella folla. Chiamami per nome, anche quando cerco di non farmi notare."
+    },
+    {
+      "entry_id": "unseen-jn-1-47",
+      "reflection": "Natanaele è sorpreso che Gesù sappia qualcosa di lui -- 'come mi conosci?' -- e la risposta di Gesù non è un'affermazione generica di onniscienza ma un ricordo specifico: lo vide, solo, sotto un albero particolare, prima che qualcuno li avesse presentati. Essere veramente conosciuti, suggerisce questo momento, non è astratto; è che Gesù aveva già notato l'esatto momento insignificante in cui pensavi che nessuno stesse guardando.",
+      "prayer": "Gesù, grazie che mi hai già visto prima ancora che sapessi di doverti cercare."
+    },
+    {
+      "entry_id": "unseen-mt-10-29",
+      "reflection": "Gesù sceglie l'animale più economico e più trascurato disponibile al mercato -- due passeri praticamente per niente -- e insiste che nemmeno uno di essi cade senza l'attenzione del Padre. L'argomento si sposta dalla più piccola, meno notata creatura direttamente all'ascoltatore: se tanta attenzione va a un passero che nessuno valuta, quanto di più a una persona che Gesù dice valere più di molti di essi.",
+      "prayer": "Padre, se noti un passero che cade, aiutami a fidarmi che noti anche me."
+    },
+    {
+      "entry_id": "unseen-1sam-16-7",
+      "reflection": "Samuele è pronto a ungere il figlio che sembra adatto al ruolo -- alto, imponente, esattamente ciò che tutti si aspettano da un re -- e Dio lo ferma con un'unica correzione diretta: lui non vede come vedono gli uomini. Sentirsi invisibili alle persone che ti misurano sull'aspetto, sui risultati o sulla statura non significa essere realmente invisibili; può significare che sei valutato dall'unico sguardo che abbia mai misurato la cosa giusta.",
+      "prayer": "Signore, guarda il mio cuore oggi, non ciò che tutti gli altri stanno misurando."
+    },
+    {
+      "entry_id": "unseen-ps-31-7",
+      "reflection": "Il salmista non dice che Dio ha rimosso l'afflizione prima di nominarla come vista -- dice che Dio l'ha vista e ha conosciuto la sua anima nel mezzo di avversità ancora in corso. Essere visti, qui, non è la stessa promessa di essere immediatamente salvati; è la certezza che ciò che porti da solo non è, in realtà, senza testimone.",
+      "prayer": "Signore, tu hai visto la mia afflizione. Che questo basti a stabilizzarmi adesso."
+    },
+    {
+      "entry_id": "unseen-ps-139-13",
+      "reflection": "Il salmista non colloca il proprio valore in nulla che abbia compiuto o nell'opinione di qualcun altro -- lo fa risalire fino all'essere stato formato e intessuto prima ancora di poter fare o dire alcunché. Essere fatti in modo meraviglioso e stupendo non è uno status che guadagni essendo notato; è già vero di te nel grembo materno, molto prima che chiunque altro guardasse.",
+      "prayer": "Signore, ricordami che mi hai conosciuto e formato molto prima che chiunque altro notasse che esistevo."
+    },
+    {
+      "entry_id": "unseen-isa-49-15",
+      "reflection": "Dio non promette solo di non dimenticare -- offre l'immagine più permanente disponibile: il tuo nome inciso sui palmi delle sue stesse mani, un segno che dovrebbe guardare costantemente, impossibile da trascurare per errore. Persino l'amore di una madre, il paragone umano più vicino che Isaia possa trovare, è offerto solo come lo standard che il ricordo di Dio stesso supera.",
+      "prayer": "Signore, grazie che sono inciso sulle tue mani, impossibile per te dimenticarmi."
+    },
+    {
+      "entry_id": "unseen-lk-21-1",
+      "reflection": "Tutti gli altri al tesoro del tempio guardavano entrare i doni grandi e impressionanti -- Gesù è l'unico a rivolgere la sua attenzione alle due piccole monete di una povera vedova e a definire ciò che ha dato come maggiore di tutto il resto messo insieme. Ciò che sembrava, a ogni altro osservatore, il dono più piccolo e meno degno di nota della giornata era l'unica cosa che Gesù vedeva realmente con chiarezza.",
+      "prayer": "Signore, aiutami a fidarmi che ciò che sembra piccolo e non notato a tutti gli altri, tu lo vedi realmente con chiarezza."
+    },
+    {
+      "entry_id": "unseen-isa-62-4",
+      "reflection": "Isaia nomina direttamente il vecchio titolo -- Abbandonata -- solo per sostituirlo con uno nuovo che non descrive ciò che il popolo ha fatto per meritare attenzione, ma ciò che Dio già prova per loro: il suo compiacimento. Il rinominare non è una ricompensa per essere diventati più degni di nota; è semplicemente Dio che dichiara quale nome fosse vero fin dall'inizio.",
+      "prayer": "Signore, fammi sentire che mi chiami amato, non abbandonato, specialmente oggi."
     }
   ]
 }

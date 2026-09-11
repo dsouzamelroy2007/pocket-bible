@@ -180,6 +180,16 @@
       "feeling_id": "courage",
       "label": "Auf der Suche nach Mut",
       "description": "Für wenn du weißt, was du tun solltest, und nur den Mut dazu brauchst."
+    },
+    {
+      "feeling_id": "lost",
+      "label": "Orientierungslos",
+      "description": "Für wenn du nicht weißt, was du mit deinem Leben eigentlich tun sollst."
+    },
+    {
+      "feeling_id": "unseen",
+      "label": "Unsichtbar",
+      "description": "Für wenn die Menschen um dich herum direkt an dir vorbeischauen."
     }
   ],
   "entry_translations": [
@@ -1982,6 +1992,106 @@
       "entry_id": "courage-ps-16-5",
       "reflection": "Der Psalmist beschreibt kein Leben ohne Risiko – er benennt einen Grund unter seinen Umständen, den er sich nicht selbst sichern musste. Genau dieser gefestigte Boden ist es, der einen Menschen überhaupt erst frei macht, ein Risiko einzugehen: wenn dein eigener Halt sich schon getragen anfühlt, hast du weit weniger zu verlieren, wenn du auf etwas Schwieriges zugehst.",
       "prayer": "Da mein Grund schon in dir sicher ist, Herr, lass mich meinen Mut großzügig einsetzen, nicht vorsichtig."
+    },
+    {
+      "entry_id": "lost-jer-29-13",
+      "reflection": "Gott verspricht Jeremias Verbannten keine sofortige Antwort; er verspricht, was geschieht, wenn sie von ganzem Herzen suchen, nicht nur halbherzig hin und wieder nachschauen. Sich verloren zu fühlen kommt oft von halbherzigem Suchen -- ein Dutzend Richtungen streifen, ohne sich lange genug auf eine einzige Suche einzulassen, um wirklich etwas zu finden.",
+      "prayer": "Herr, ich suche. Begegne mir darin, besonders wenn ich nur mit halbem Herzen schaue."
+    },
+    {
+      "entry_id": "lost-gen-12-1",
+      "reflection": "Abram bekommt keine Karte -- er bekommt einen Befehl, das Vertraute zu verlassen und zu einem Ort zu gehen, den Gott ihm erst zeigen wird, wenn er sich schon in Bewegung gesetzt hat. Die Richtung kommt, nachdem der Gehorsam beginnt, nicht davor; manchmal wird der Weg erst sichtbar, wenn man bereits mittendrin ist im Aufbrechen.",
+      "prayer": "Herr, ich habe nicht die ganze Karte. Hilf mir, trotzdem den nächsten Schritt zu tun."
+    },
+    {
+      "entry_id": "lost-lk-15-4",
+      "reflection": "Das Schaf in dieser Geschichte findet nicht selbst den Weg zurück -- es ist der Hirte, der alles andere zurücklässt, um zu suchen, und es ist das Finden des Hirten, nicht die Einsicht des Schafes, das die Geschichte beendet. Verloren zu sein ist hier kein moralisches Versagen, das man allein beheben muss; es ist ein Zustand, den bereits jemand anderes zu beenden sucht.",
+      "prayer": "Herr, komm und finde mich, wo ich abgeirrt bin. Ich muss den Weg zurück nicht allein finden."
+    },
+    {
+      "entry_id": "lost-pr-19-21",
+      "reflection": "Das Sprichwort sagt nicht, dass die eigenen Pläne eines Menschen wertlos sind -- es sagt, dass sie sich vervielfachen, viele davon, während ein Vorsatz alle anderen leise überdauert. Sich verloren zu fühlen bedeutet manchmal, zu viele konkurrierende Pläne gleichzeitig zu halten, nicht keinen zu haben; die Erleichterung liegt nicht darin, den richtigen Plan zu erfinden, sondern darauf zu vertrauen, dass ein Vorsatz unter dem Lärm bereits die Oberhand behält.",
+      "prayer": "Herr, beruhige die vielen Pläne in meinem Herzen, bis ich den hören kann, der deiner ist."
+    },
+    {
+      "entry_id": "lost-ps-37-23",
+      "reflection": "Der Psalm schreibt die Festigung der Schritte eines Menschen dem HERRN zu, nicht der eigenen Klarsicht darüber, wohin es geht. Dieser Vers legt nahe, dass es möglich ist, sich wirklich an seinem Weg zu freuen und trotzdem nicht vollständig zu verstehen, wohin jeder Schritt führt -- die Festigung geschieht unterhalb deines Bewusstseins, nicht weil du sie zuerst kartiert hast.",
+      "prayer": "Festige meine Schritte, Herr, auch die, für die ich noch keinen Grund erkennen kann."
+    },
+    {
+      "entry_id": "lost-eccl-3-11",
+      "reflection": "Der Prediger nennt zwei Dinge zusammen: dass Gott alles schön macht zu seiner Zeit, und dass er dem menschlichen Herzen die Ewigkeit eingepflanzt hat, auf eine Weise, die das ganze Werk Gottes nie vollständig erfassen kann. Sich verloren zu fühlen ist vielleicht weniger ein zu lösendes Problem als der ehrliche Schmerz eines für die Ewigkeit gebauten Herzens, das versucht, eine Geschichte zu sehen, die erst zur Hälfte erzählt ist.",
+      "prayer": "Herr, hilf mir, dem Timing zu vertrauen, dessen Schönheit ich noch nicht sehen kann."
+    },
+    {
+      "entry_id": "lost-phil-3-13",
+      "reflection": "Paulus, weiter fortgeschritten als fast jeder andere, beschreibt sich selbst noch immer so, als hätte er es nicht ergriffen -- seine Haltung ist, das Vergangene zu vergessen und sich nach dem Kommenden auszustrecken, nicht bereits bei völliger Klarheit angekommen zu sein. Nicht alles durchschaut zu haben ist kein Zeichen, dass du zurückgefallen bist; es ist der gewöhnliche Zustand von jedem, der sich tatsächlich noch vorwärtsbewegt.",
+      "prayer": "Herr, hilf mir, das Vergangene zu vergessen und mich weiter nach dem Kommenden auszustrecken."
+    },
+    {
+      "entry_id": "lost-ps-23-1",
+      "reflection": "Die Aussage ist bemerkenswert schlicht -- weil der HERR ein Hirte ist, fehlt nichts -- ausgesprochen, bevor irgendeine Beschreibung von grünen Auen oder rechten Pfaden folgt. Das Gefühl von Richtung hängt, mit anderen Worten, nicht davon ab, bereits die ganze Route zu sehen; es ruht darauf, wer die Führung übernimmt.",
+      "prayer": "Herr, sei heute mein Hirte. Lass das genügen, noch bevor ich den Pfad sehe."
+    },
+    {
+      "entry_id": "lost-jn-14-6",
+      "reflection": "Jesus bietet keine Wegbeschreibung zum Weg an -- er identifiziert sich selbst als der Weg. Das definiert neu, was es bedeutet, verloren zu sein: nicht das Versagen, eine Reihe von Anweisungen zu finden, sondern die fortlaufende Aufgabe, einer Person nahe zu bleiben, was eine andere Art des Findens ist als eine Karte richtig zu lesen.",
+      "prayer": "Jesus, sei heute der Weg für mich, nicht nur das Ziel, das ich zu erreichen versuche."
+    },
+    {
+      "entry_id": "lost-acts-17-28",
+      "reflection": "Paulus sagt Menschen, die einen unbekannten Gott anbeten, dass sie bereits in genau dem leben, sich bewegen und existieren, den sie noch nicht erkennen -- ihr Suchen geschah nicht am falschen Ort, nur ohne einen Namen für den Ort, an dem sie sich schon befanden. Sich verloren zu fühlen bedeutet nicht immer, fern von Gott zu sein; manchmal bedeutet es, den Boden, auf dem man bereits steht, noch nicht zu erkennen.",
+      "prayer": "Herr, hilf mir zu erkennen, dass ich schon in dir lebe und mich bewege, selbst wenn ich mich fern fühle."
+    },
+    {
+      "entry_id": "unseen-gen-16-13",
+      "reflection": "Hagar ist eine Dienerin, in die Wüste verstoßen, von jedem anderen in der Geschichte so übersehen, wie ein Mensch nur übersehen werden kann -- und genau dort, allein und von keinem Menschen bemerkt, gibt sie Gott einen Titel, den vor ihr niemand sonst in der Schrift verwendet: der Gott, der sieht. Von allen übersehen zu werden, die sie hätten bemerken sollen, bedeutete nicht, dass Gott sie übersah; es bedeutete, dass sie als erste entdeckte, wer Gott tatsächlich ist.",
+      "prayer": "Herr, sei der Gott, der mich sieht, besonders dort, wo sonst niemand mich zu bemerken scheint."
+    },
+    {
+      "entry_id": "unseen-lk-8-43",
+      "reflection": "Die Frau berührt Jesu Gewand ausdrücklich in der Hoffnung, unbemerkt zu bleiben -- zwölf Jahre des Übersehenwerdens, der Zurückweisung und Unreinheit haben sie gelehrt, selbst im Augenblick ihrer Heilung Unsichtbarkeit zu erwarten. Jesus hält trotzdem die ganze Menge an, weigert sich, sie unbemerkt entkommen zu lassen, und nennt sie 'Tochter' vor allen, die dieses Wort wahrscheinlich noch nie für sie benutzt hatten.",
+      "prayer": "Jesus, lass mich nicht in der Menge verschwinden. Ruf mich beim Namen, auch wenn ich versuche, nicht bemerkt zu werden."
+    },
+    {
+      "entry_id": "unseen-jn-1-47",
+      "reflection": "Nathanael ist überrascht, dass Jesus überhaupt irgendetwas über ihn weiß -- 'woher kennst du mich?' -- und Jesu Antwort ist kein allgemeiner Anspruch auf Allwissenheit, sondern eine konkrete Erinnerung: er sah ihn, allein, unter einem bestimmten Baum, bevor jemand sie einander vorgestellt hatte. Wirklich gekannt zu sein ist, wie dieser Moment nahelegt, nichts Abstraktes; es ist, dass Jesus bereits genau den unauffälligen Moment bemerkt hatte, in dem du dachtest, niemand schaue zu.",
+      "prayer": "Jesus, danke, dass du mich schon gesehen hast, bevor ich wusste, dass ich nach dir suchen sollte."
+    },
+    {
+      "entry_id": "unseen-mt-10-29",
+      "reflection": "Jesus wählt das billigste, meist übersehene Tier, das auf dem Markt erhältlich ist -- zwei Spatzen für praktisch nichts -- und besteht darauf, dass nicht einer von ihnen fällt, ohne die Aufmerksamkeit des Vaters. Das Argument bewegt sich vom kleinsten, am wenigsten beachteten Geschöpf direkt zum Zuhörer: wenn so viel Aufmerksamkeit einem Spatz gilt, den niemand wertschätzt, wie viel mehr einer Person, von der Jesus sagt, sie sei mehr wert als viele von ihnen.",
+      "prayer": "Vater, wenn du bemerkst, wenn ein Spatz fällt, hilf mir zu vertrauen, dass du auch mich bemerkst."
+    },
+    {
+      "entry_id": "unseen-1sam-16-7",
+      "reflection": "Samuel ist bereit, den Sohn zu salben, der genau danach aussieht -- groß, beeindruckend, genau das, was jeder von einem König erwartet -- und Gott hält ihn mit einer einzigen, direkten Korrektur auf: er sieht nicht so, wie Menschen sehen. Sich von den Menschen, die dich nach Aussehen, Leistung oder Statur messen, übersehen zu fühlen, bedeutet nicht, dass du tatsächlich übersehen wirst; es kann bedeuten, dass du von dem einzigen Blick beurteilt wirst, der jemals das Richtige gemessen hat.",
+      "prayer": "Herr, schau heute auf mein Herz, nicht auf das, was alle anderen messen."
+    },
+    {
+      "entry_id": "unseen-ps-31-7",
+      "reflection": "Der Psalmist sagt nicht, dass Gott die Not entfernt hat, bevor er sie als gesehen benennt -- er sagt, dass Gott sie gesehen und seine Seele mitten in noch andauernden Widrigkeiten gekannt hat. Gesehen zu werden ist hier nicht dasselbe Versprechen wie sofort gerettet zu werden; es ist die Zusicherung, dass das, was du allein trägst, tatsächlich nicht unbezeugt bleibt.",
+      "prayer": "Herr, du hast meine Not gesehen. Lass das genügen, um mich jetzt zu festigen."
+    },
+    {
+      "entry_id": "unseen-ps-139-13",
+      "reflection": "Der Psalmist verortet seinen Wert nicht in irgendetwas, das er erreicht hat, oder in der Meinung anderer -- er verfolgt ihn zurück bis dahin, geformt und gewoben worden zu sein, bevor er überhaupt irgendetwas tun oder sagen konnte. Furchtbar und wunderbar gemacht zu sein ist kein Status, den du dir durch Bemerktwerden verdienst; es ist bereits wahr über dich im Mutterleib, lange bevor irgendjemand anderes zusah.",
+      "prayer": "Herr, erinnere mich daran, dass du mich kanntest und formtest, lange bevor irgendjemand sonst bemerkte, dass ich existiere."
+    },
+    {
+      "entry_id": "unseen-isa-49-15",
+      "reflection": "Gott verspricht nicht nur, nicht zu vergessen -- er bietet das dauerhafteste verfügbare Bild an: dein Name, eingraviert in die Handflächen seiner eigenen Hände, ein Zeichen, das er ständig ansehen müsste, unmöglich versehentlich zu übersehen. Selbst die Liebe einer Mutter, der nächste menschliche Vergleich, den Jesaja finden kann, wird nur als der Maßstab angeboten, den Gottes eigenes Erinnern übertrifft.",
+      "prayer": "Herr, danke, dass ich in deine Hände eingraviert bin, unmöglich für dich zu vergessen."
+    },
+    {
+      "entry_id": "unseen-lk-21-1",
+      "reflection": "Alle anderen am Tempelschatz beobachteten, wie die großen, beeindruckenden Gaben hineingelegt wurden -- Jesus ist der einzige, der seine Aufmerksamkeit den zwei kleinen Münzen einer armen Witwe zuwendet und benennt, was sie gab, als größer als alles Übrige zusammen. Was für jeden anderen Beobachter wie die kleinste und unbedeutendste Gabe des Tages aussah, war das eine, das Jesus tatsächlich klar sah.",
+      "prayer": "Herr, hilf mir zu vertrauen, dass du das, was allen anderen klein und unbemerkt vorkommt, tatsächlich klar siehst."
+    },
+    {
+      "entry_id": "unseen-isa-62-4",
+      "reflection": "Jesaja nennt den alten Titel direkt -- Verlassen -- nur um ihn durch einen neuen zu ersetzen, der nicht beschreibt, was die Menschen taten, um Aufmerksamkeit zu verdienen, sondern was Gott bereits für sie empfindet: sein Wohlgefallen. Die Umbenennung ist keine Belohnung dafür, auffälliger zu werden; es ist einfach Gott, der erklärt, welcher Name die ganze Zeit über wahr war.",
+      "prayer": "Herr, lass mich hören, wie du mich 'geliebt' nennst, nicht 'verlassen', besonders heute."
     }
   ]
 }
