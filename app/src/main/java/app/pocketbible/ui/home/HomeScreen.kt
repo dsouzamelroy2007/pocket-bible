@@ -2,9 +2,10 @@ package app.pocketbible.ui.home
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.IntrinsicSize
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
-import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
@@ -142,14 +143,14 @@ fun HomeScreen(
         Column(verticalArrangement = Arrangement.spacedBy(10.dp)) {
             feelings.chunked(2).forEach { rowFeelings ->
                 Row(
-                    Modifier.fillMaxWidth(),
+                    Modifier.fillMaxWidth().height(IntrinsicSize.Min),
                     horizontalArrangement = Arrangement.spacedBy(10.dp)
                 ) {
                     rowFeelings.forEach { feeling ->
                         FeelingCard(
                             feeling,
                             onClick = { onFeelingSelected(feeling) },
-                            modifier = Modifier.weight(1f)
+                            modifier = Modifier.weight(1f).fillMaxHeight()
                         )
                     }
                     if (rowFeelings.size == 1) {
@@ -169,12 +170,9 @@ private fun FeelingCard(feeling: Feeling, onClick: () -> Unit, modifier: Modifie
     ElevatedCard(
         onClick = onClick,
         colors = CardDefaults.elevatedCardColors(containerColor = accent.container),
-        modifier = modifier.fillMaxWidth().height(104.dp)
+        modifier = modifier.fillMaxWidth()
     ) {
-        Column(
-            Modifier.padding(12.dp).fillMaxSize(),
-            verticalArrangement = Arrangement.Center
-        ) {
+        Column(Modifier.padding(12.dp)) {
             Text(
                 feeling.label,
                 style = MaterialTheme.typography.titleSmall,
@@ -187,9 +185,7 @@ private fun FeelingCard(feeling: Feeling, onClick: () -> Unit, modifier: Modifie
             Text(
                 feeling.description,
                 style = MaterialTheme.typography.bodySmall,
-                color = accent.onContainer.copy(alpha = 0.75f),
-                maxLines = 2,
-                overflow = TextOverflow.Ellipsis
+                color = accent.onContainer.copy(alpha = 0.75f)
             )
         }
     }
