@@ -389,6 +389,74 @@ ever needed again for reference.
   `BibleCharacter` rows now that 6B content exists, curating up to 10
   story links each by narrative significance.
 
+## Adding a new feeling (Topics)
+
+Repeatable runbook for adding a 36th+ feeling to the Topics/Home grid,
+same process used for "Needing courage" (`courage`, added 2026-09-11) —
+each feeling ships with exactly 10 verse entries, all 6 languages.
+
+1. **Design the feeling.** Pick a short `id` (single word, e.g.
+   `courage`), a `label` (1-3 words, e.g. "Needing courage"), an icon
+   (`ti-*` Tabler name — currently unused by the UI but still populated
+   for future-proofing), a `category` (must be one of the 6 values
+   `categoryAccent()` in `ui/theme/*.kt` maps to a color — `distress`,
+   `moral`, `relational`, `spiritual`, `thanksgiving`, `desire` — an
+   unmapped category silently falls back to a neutral gray), and a
+   `description` (one sentence, second person, matching the existing
+   voice — "For when/for the..." — and never repeating the label's own
+   word, or the description just sounds redundant). `sort_order` = one
+   past the current max `sort_order` in `topics.json`'s `feelings`
+   array (the grid renders `ORDER BY sort_order`, so this is what places
+   it in an empty slot). Add 4-8 `aliases` with weights for search —
+   these stay English-only forever (see step 6), so lean on genuine
+   synonyms; the label/description themselves are already searchable
+   per-language automatically as of the 2026-09-11 search fix, so don't
+   bother aliasing the label's own words.
+2. **Pick 10 verses.** Reusing a verse another feeling already uses is
+   fine and already happens throughout the app (e.g. Joshua 1:9 backs
+   three different feelings) — check `entry_passages` in `topics.json`
+   for existing usage, and if found, write a genuinely different
+   reflection angled at this new feeling rather than echoing the
+   existing one. Aim for spread across Torah/History/Psalms/Prophets/
+   Gospel/Epistle rather than 10 verses from the same book.
+3. **Add any new passages.** For each verse whose `web-c:<book>:<ch>:
+   <verse>` id isn't already in `topics.json`'s `passages` array, pull
+   the *exact* WEB-CE text from `content/scripture/web-c/<book>.json`
+   (never paraphrase or invent scripture text) and append a full
+   passage record — `id`, `translation_id: "web-c"`, `book_id`,
+   `chapter_start`/`chapter_end`, `verse_start`/`verse_end`, `text`,
+   `pull_quote` (a short excerpt), `reference_display` (e.g. "Haggai
+   2:4-5"), `reference_alt: null`.
+4. **Write the 10 English entries.** Each needs: `id` (
+   `<feeling_id>-<book>-<chapter>-<verse>`), `intensity` (`acute` for
+   the first 2-3, `steady` for the middle 4, `settled` for the last
+   2-3 — the app sorts acute → steady → settled, then by
+   `depth_order`), `depth_order` (1-10), `reflection` (2-4 sentences:
+   what the passage says, a linking insight, a closing application —
+   see any existing entry in `topics.json` for the exact register),
+   `prayer` (1-2 sentences, second person, addressed to God/Jesus/Lord).
+   Leave `ccc_reference`/`saint_quote`/`saint_attribution`/
+   `liturgical_season` `null` unless one is a genuinely strong fit —
+   only ~3% of existing entries populate these.
+5. **Merge into `topics.json`**: append the feeling, the 10 entries, the
+   10 `entry_passages` (`position: 0, role: "primary"`), and any new
+   passages from step 3.
+6. **Translate into all 6 languages** (`de`, `fr`, `hi`, `it`, `mr`,
+   `pt`): the feeling's `label`/`description`, and each entry's
+   `reflection`/`prayer`, appended to `feeling_translations`/
+   `entry_translations` in each `content/topics/<lang>.json`. Match each
+   language's established quotation convention exactly — German „…"
+   (U+201E/U+201C), French « … » (with spaces), Italian «…» (no
+   spaces), Portuguese/Hindi/Marathi plain straight `"..."` escaped as
+   `\"` in the JSON. Aliases are never translated — `feelingsMatching()`
+   only ever queries the English `feeling_alias`/`feeling`/`description`
+   columns regardless of the app's current UI language.
+7. Bump `content_version` in `manifest.json`, `./gradlew assembleDebug`,
+   install, and spot-check on a device before committing: the new card
+   appears in the grid with its full untruncated description, and its
+   10 verses show up when tapped in at least English and one other
+   language.
+
 ## License
 
 See the repository for license information.
