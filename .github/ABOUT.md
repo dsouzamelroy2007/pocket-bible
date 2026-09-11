@@ -217,13 +217,46 @@ change for 2028, 2029, etc.:
    `manifest.json`'s `"lectionary"` array — **append, don't replace**;
    every prior year stays loaded too, so nothing breaks for a device
    that hasn't updated in a while.
-6. Bump `content_version`, `./gradlew assembleDebug`, spot-check the
-   Daily Readings tab on a device before committing.
-7. Start early: content authoring is the actual bottleneck (~365 days of
-   real writing), so begin the next year's batches a couple of months
-   before the calendar rolls over — the date picker will start offering
-   the new year's dates the moment its data is seeded, so a late start
-   means a live gap.
+6. Translate that month's English reflections into the app's other 6
+   languages (`de`, `fr`, `hi`, `it`, `mr`, `pt`) once they're written
+   and merged into the year's JSON — same mechanism as Topics
+   translations: a `ReflectionTranslation` Room entity keyed on
+   `[date, language]` (date is the natural key — one reflection per
+   date, no separate ID table needed), content files at
+   `content/reflections/<year>/<language>.json`
+   (`{"year": <year>, "language": "xx", "reflections": [{"date": "...",
+   "reflection": "..."}]}`), indexed via `manifest.json`'s
+   `reflection_translations` array (append `{"year": <year>,
+   "language": "xx", "path": "content/reflections/<year>/xx.json"}` for
+   each of the 6 languages, once). Batch discipline that worked well:
+   translate 7-10 dates at a time, all 6 languages per date together
+   (this keeps the reflection's fixed rhetorical pattern — reading A +
+   reading B + a linking-insight sentence + a closing sentence —
+   consistent across languages), write the batch as a Python module
+   (`TRANSLATIONS = {date: {lang: text}}`, see
+   `tools/merge_reflection_translations.py`'s docstring for the exact
+   shape), then run
+   `python3 tools/merge_reflection_translations.py <year> <batch_module> --path <dir the batch module lives in>`
+   — it validates every date has all 6 languages before writing
+   anything, and is safe to re-run (already-merged dates are skipped
+   per language, never duplicated). Match each language's quotation
+   convention exactly: German „…" (U+201E/U+201C), French « … » (with
+   spaces), Italian «…» (no spaces), Portuguese/Hindi/Marathi plain
+   straight `"..."` escaped as `\"` in the JSON. Bump `content_version`,
+   build, install, spot-check on a device, commit — one commit per
+   batch, same cadence as the English-authoring batches in step 4.
+   Parallelizing across months with background agents is possible but
+   shares this account's rate limit — expect to resume several agents
+   more than once rather than genuinely saving wall-clock time; doing
+   it serially, inline, in one session is often simpler to track.
+7. Bump `content_version`, `./gradlew assembleDebug`, spot-check the
+   Daily Readings tab on a device before committing (English content;
+   see step 6 for the translation build/commit cadence).
+8. Start early: content authoring is the actual bottleneck (~365 days of
+   real writing, ×6 more once translations are included), so begin the
+   next year's batches a couple of months before the calendar rolls
+   over — the date picker will start offering the new year's dates the
+   moment its data is seeded, so a late start means a live gap.
 
 ### Phase 4 — Daily notifications (email + WhatsApp)
 
@@ -438,24 +471,96 @@ each feeling ships with exactly 10 verse entries, all 6 languages.
    Leave `ccc_reference`/`saint_quote`/`saint_attribution`/
    `liturgical_season` `null` unless one is a genuinely strong fit —
    only ~3% of existing entries populate these.
-5. **Merge into `topics.json`**: append the feeling, the 10 entries, the
-   10 `entry_passages` (`position: 0, role: "primary"`), and any new
-   passages from step 3.
-6. **Translate into all 6 languages** (`de`, `fr`, `hi`, `it`, `mr`,
+5. **Translate into all 6 languages** (`de`, `fr`, `hi`, `it`, `mr`,
    `pt`): the feeling's `label`/`description`, and each entry's
-   `reflection`/`prayer`, appended to `feeling_translations`/
-   `entry_translations` in each `content/topics/<lang>.json`. Match each
-   language's established quotation convention exactly — German „…"
-   (U+201E/U+201C), French « … » (with spaces), Italian «…» (no
-   spaces), Portuguese/Hindi/Marathi plain straight `"..."` escaped as
-   `\"` in the JSON. Aliases are never translated — `feelingsMatching()`
-   only ever queries the English `feeling_alias`/`feeling`/`description`
-   columns regardless of the app's current UI language.
+   `reflection`/`prayer`. Match each language's established quotation
+   convention exactly — German „…" (U+201E/U+201C), French « … » (with
+   spaces), Italian «…» (no spaces), Portuguese/Hindi/Marathi plain
+   straight `"..."` escaped as `\"` in the JSON. Aliases are never
+   translated — `feelingsMatching()` only ever queries the English
+   `feeling_alias`/`feeling`/`description` columns regardless of the
+   app's current UI language.
+6. **Merge**: write everything from steps 1-5 as a single Python module
+   (typically in your scratchpad — see `tools/merge_topic_feeling.py`'s
+   docstring for the exact `FEELING`/`NEW_PASSAGES`/`ENTRIES`/
+   `FEELING_TRANSLATIONS`/`ENTRY_TRANSLATIONS` shape it expects), then
+   run `python3 tools/merge_topic_feeling.py <batch_module> --path <dir the batch module lives in>`
+   — it validates all 10 entries have all 6 languages present before
+   writing anything, appends the feeling/entries/passages/translations
+   into `topics.json` and the 6 `content/topics/<lang>.json` files, and
+   is safe to re-run (an already-merged feeling is skipped, never
+   duplicated).
 7. Bump `content_version` in `manifest.json`, `./gradlew assembleDebug`,
    install, and spot-check on a device before committing: the new card
    appears in the grid with its full untruncated description, and its
    10 verses show up when tapped in at least English and one other
    language.
+
+## Adding a new Biblical character
+
+Repeatable runbook for adding a 281st+ character to the Personalities
+tab, on top of Phase 1's 280 (see that section above for the existing
+category/villain-reconciliation context). Much lighter-weight than a
+Topics feeling — a character needs 3-6 verse citations, not 10 full
+entries, and translation is optional rather than expected (only
+114/280 existing characters have any translation at all; the app falls
+back to English per-field, so this is never a functional requirement).
+
+1. **Design the character.** Pick a short `id` (kebab-case, e.g.
+   `deborah` or `judas-iscariot`), a `name`, a `category` (must be one
+   of the 11 values the Personalities tab groups by — `central`,
+   `holy_family`, `apostles`, `early_church`, `women_and_others`,
+   `opposed_jesus`, `patriarchs`, `exodus_judges`, `kingdom`,
+   `prophets`, `post_exile` — see the `character_category_*` strings in
+   `values/strings.xml` for their display labels), and `sort_order`
+   (one past the current max in `characters.json`'s `characters`
+   array). Write a one-to-two sentence `intro`, third person, plain —
+   most characters stop there; only add `reflection`/`prayer` (longer,
+   second-person devotional content) if this character genuinely calls
+   for that treatment the way the ~26 existing villain-reconciliation
+   entries do (Judas, Cain, etc. — see any of those in `characters.json`
+   for the register). Set `requires_deuterocanon: true` only if a verse
+   citation below cites Tobit/Judith/Wisdom/Sirach/Baruch/1-2 Maccabees
+   or the Daniel/Esther Greek-addition chapters (see "Esther Greek
+   additions" above for that citation scheme) — the app gates these
+   characters behind a Deuterocanon-content setting.
+2. **Pick 3-6 verse citations** spanning the character's arc (first
+   appearance, a defining moment, their end/legacy) rather than
+   clustering in one chapter. These are citations only (`book_id`,
+   `chapter`, `verse_start`/`verse_end`, a short `caption`) — the verse
+   text itself is looked up live from the already-imported scripture
+   tables at render time, never typed here, so there's no WEB-CE text
+   to pull or verify (unlike Topics passages).
+3. **Translate, if you want to** (optional): the character's
+   `name`/`intro` into some or all of `de`/`fr`/`hi`/`it`/`mr`/`pt`, and
+   independently, any of the verse captions. Skipping this entirely is
+   completely fine and already true of 166/280 existing characters —
+   do it opportunistically, not as a blocker.
+4. **Merge**: write everything from steps 1-3 as a single Python module
+   (typically in your scratchpad — see `tools/merge_character.py`'s
+   docstring for the exact `CHARACTER`/`VERSE_REFS`/
+   `NAME_TRANSLATIONS`/`CAPTION_TRANSLATIONS` shape it expects, the
+   latter two optional), then run
+   `python3 tools/merge_character.py <batch_module> --path <dir the batch module lives in>`
+   — appends into `characters.json` and (only for languages you
+   provided) the `content/character_translations/<lang>.json` /
+   `content/character_verse_ref_translations/<lang>.json` files. Safe
+   to re-run — an already-merged character is skipped, never
+   duplicated.
+5. **Decide separately whether this character joins the 366-day
+   calendar.** Every one of the 366 `month_day` slots in
+   `characters.json`'s `character_of_day` array is already assigned to
+   some character (several characters repeat across multiple days to
+   fill the full year) — the merge tool deliberately does not touch
+   this array, since putting a new character into rotation means
+   consciously choosing which existing day's assignment to replace,
+   which is a content decision, not a mechanical one. A character with
+   no calendar day is still fully valid and reachable from the
+   Personalities tab's list and search.
+6. Bump `content_version` in `manifest.json`, `./gradlew assembleDebug`,
+   install, and spot-check on a device before committing: the new
+   character is findable by search on the Personalities tab and its
+   verse citations resolve to real text.
 
 ## License
 
