@@ -127,7 +127,8 @@ fun HomeScreen(
                                 feeling.description,
                                 style = MaterialTheme.typography.bodySmall,
                                 color = accent.onContainer.copy(alpha = 0.75f),
-                                maxLines = 1
+                                maxLines = 1,
+                                overflow = TextOverflow.Ellipsis
                             )
                         }
                     }
@@ -187,7 +188,8 @@ private fun FeelingCard(feeling: Feeling, onClick: () -> Unit, modifier: Modifie
                 feeling.description,
                 style = MaterialTheme.typography.bodySmall,
                 color = accent.onContainer.copy(alpha = 0.75f),
-                maxLines = 2
+                maxLines = 2,
+                overflow = TextOverflow.Ellipsis
             )
         }
     }

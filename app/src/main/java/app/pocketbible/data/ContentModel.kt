@@ -597,12 +597,26 @@ interface ContentDao {
     )
     suspend fun passagesForEntry(entryId: String): List<PassageWithRole>
 
-    /** Plain LIKE search for the prototype. Swap for FTS4 before production scale. */
+    /**
+     * Plain LIKE search for the prototype. Swap for FTS4 before production scale.
+     *
+     * Matches against curated synonyms in `feeling_alias` AND the feeling's own
+     * label/description -- without the latter, searching the exact word printed
+     * on a card (e.g. "Afraid", "Lonely") returned nothing for any feeling whose
+     * alias list didn't happen to also list that word as a synonym.
+     */
     @Query(
         """
-        SELECT DISTINCT feeling_id FROM feeling_alias
-        WHERE alias LIKE '%' || :query || '%'
-        ORDER BY weight DESC
+        SELECT feeling_id
+        FROM (
+            SELECT feeling_id, weight FROM feeling_alias
+            WHERE alias LIKE '%' || :query || '%'
+            UNION ALL
+            SELECT id AS feeling_id, 1.0 AS weight FROM feeling
+            WHERE label LIKE '%' || :query || '%' OR description LIKE '%' || :query || '%'
+        )
+        GROUP BY feeling_id
+        ORDER BY MAX(weight) DESC
         LIMIT 5
         """
     )
