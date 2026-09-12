@@ -195,6 +195,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     // ---------- Language ----------
 
     private var loadedLanguage: String? = null
+    private var loadedVerseDate: LocalDate? = null
 
     /** BCP-47 language of the in-app switcher, or the system's if "System default" is selected. */
     private fun currentLanguage(): String =
@@ -232,7 +233,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         return passage.copy(text = verses.sortedBy { it.verse }.joinToString(" ") { it.text }, pullQuote = null)
     }
 
-    /** Loads the selected date's Mass readings (if this app ships that date's lectionary year) and resolves each role's citation(s) to real text for the current translation. */
+    /** Loads the selected date's Mass readings (if this app ships that date's lectionary year) and resolves each role's citation(s) to real text for the current translation. Deliberately does NOT touch the verse-of-the-day card -- that always reflects the real calendar day regardless of which lectionary date is being browsed here; see ensureFreshForCurrentLanguage(). */
     private suspend fun loadDailyReading() {
         val date = _selectedReadingDate.value.format(DateTimeFormatter.ISO_LOCAL_DATE)
         _dailyReading.value = repo.dailyReading(date, currentLanguage())
@@ -269,30 +270,41 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
      */
     fun ensureFreshForCurrentLanguage() {
         val language = currentLanguage()
-        if (loadedLanguage == language) return
-        loadedLanguage = language
-        viewModelScope.launch { repo.feelings(language).collect { _feelings.value = it } }
-        viewModelScope.launch {
-            repo.savedEntries(language).collect { _saved.value = withResolvedPassageText(it) }
-        }
-        viewModelScope.launch {
-            repo.readableBooks(currentTranslationId()).collect { _readableBooks.value = it }
-        }
-        viewModelScope.launch {
-            val includeDeuterocanon = repo.translationIncludesDeuterocanon(language)
-            repo.characters(language, includeDeuterocanon).collect { _characters.value = it }
-        }
-        viewModelScope.launch { repo.stories(language).collect { _stories.value = it } }
-        _selectedFeeling.value?.let { feeling ->
+        val languageChanged = loadedLanguage != language
+        if (languageChanged) {
+            loadedLanguage = language
+            viewModelScope.launch { repo.feelings(language).collect { _feelings.value = it } }
             viewModelScope.launch {
-                _feelingEntries.value = withResolvedPassageText(repo.entriesForFeeling(feeling.id, language))
+                repo.savedEntries(language).collect { _saved.value = withResolvedPassageText(it) }
+            }
+            viewModelScope.launch {
+                repo.readableBooks(currentTranslationId()).collect { _readableBooks.value = it }
+            }
+            viewModelScope.launch {
+                val includeDeuterocanon = repo.translationIncludesDeuterocanon(language)
+                repo.characters(language, includeDeuterocanon).collect { _characters.value = it }
+            }
+            viewModelScope.launch { repo.stories(language).collect { _stories.value = it } }
+            _selectedFeeling.value?.let { feeling ->
+                viewModelScope.launch {
+                    _feelingEntries.value = withResolvedPassageText(repo.entriesForFeeling(feeling.id, language))
+                }
+            }
+            viewModelScope.launch { loadDailyReading() }
+        }
+
+        // Gated by date rather than the language guard above, so the verse
+        // actually advances if the process stays alive past midnight instead
+        // of freezing on whatever verse was current when the ViewModel (or
+        // the language) last changed.
+        val today = LocalDate.now()
+        if (languageChanged || loadedVerseDate != today) {
+            loadedVerseDate = today
+            viewModelScope.launch {
+                val monthDay = today.format(DateTimeFormatter.ofPattern("MM-dd"))
+                _verseOfDay.value = repo.verseOfDay(monthDay)?.let { resolvedPassage(it) }
             }
         }
-        viewModelScope.launch {
-            val monthDay = LocalDate.now().format(DateTimeFormatter.ofPattern("MM-dd"))
-            _verseOfDay.value = repo.verseOfDay(monthDay)?.let { resolvedPassage(it) }
-        }
-        viewModelScope.launch { loadDailyReading() }
     }
 
     init {

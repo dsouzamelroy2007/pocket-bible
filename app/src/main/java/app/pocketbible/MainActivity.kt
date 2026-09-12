@@ -40,8 +40,12 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
+import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.ui.platform.LocalLifecycleOwner
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.LifecycleEventObserver
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
@@ -166,6 +170,21 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
     // stay pinned to whatever language was current when they were first
     // collected. Cheap no-op once the language is already current.
     viewModel.ensureFreshForCurrentLanguage()
+
+    // Compose only recomposes AppScaffold when a State read here actually
+    // changes -- simply reopening the app after it sat backgrounded past
+    // midnight, with nothing else changing, would otherwise never re-run
+    // the line above and the verse-of-day would stay stuck on yesterday's.
+    // ON_RESUME forces the same freshness check every time the app returns
+    // to the foreground, so its date-changed check always gets a chance to fire.
+    val lifecycleOwner = LocalLifecycleOwner.current
+    DisposableEffect(lifecycleOwner) {
+        val observer = LifecycleEventObserver { _, event ->
+            if (event == Lifecycle.Event.ON_RESUME) viewModel.ensureFreshForCurrentLanguage()
+        }
+        lifecycleOwner.lifecycle.addObserver(observer)
+        onDispose { lifecycleOwner.lifecycle.removeObserver(observer) }
+    }
 
     val navController = rememberNavController()
     val backStack by navController.currentBackStackEntryAsState()
