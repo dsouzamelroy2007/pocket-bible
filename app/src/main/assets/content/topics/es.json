@@ -45,6 +45,36 @@
       "feeling_id": "weary",
       "label": "Agotado",
       "description": "Para cuando el esfuerzo solo no arregla lo cansado que estás."
+    },
+    {
+      "feeling_id": "grateful",
+      "label": "Agradecido",
+      "description": "Para los momentos que valen la pena detenerse a notar."
+    },
+    {
+      "feeling_id": "guidance",
+      "label": "Buscando guía",
+      "description": "Para decisiones que no te sientes listo para tomar solo."
+    },
+    {
+      "feeling_id": "hurt",
+      "label": "Herido",
+      "description": "Para cuando la elección de alguien más dejó una marca."
+    },
+    {
+      "feeling_id": "overwhelmed",
+      "label": "Abrumado",
+      "description": "Para cuando hay más en el plato de lo que hay lugar para contener."
+    },
+    {
+      "feeling_id": "hopeful",
+      "label": "Empezando de nuevo",
+      "description": "Para los nuevos comienzos, y el valor que hace falta para iniciar uno."
+    },
+    {
+      "feeling_id": "joyful",
+      "label": "Feliz",
+      "description": "Para los días que se sienten ligeros, y valen la pena notarse mientras duran."
     }
   ],
   "entry_translations": [
@@ -497,6 +527,306 @@
       "entry_id": "weary-ex-33-14",
       "reflection": "Moisés acababa de pedirle a Dios directamente que no enviara al pueblo hacia adelante sin que su propia presencia fuera con ellos -- esta promesa es la respuesta de Dios a esa petición específica. Presencia y descanso se vinculan directamente en la misma frase, como si el descanso sin esa presencia no se estuviera realmente ofreciendo como opción. El descanso prometido no es una pausa del camino sino algo llevado dentro de él.",
       "prayer": "Señor, ve conmigo como prometiste ir con Moisés, porque no quiero un descanso que venga de ningún otro lugar que no sea tu presencia. Que tu presencia sea lo que en verdad me descanse, no un respiro del camino sino algo real dentro de él. No me envíes hacia adelante sin ti, aunque esté tan cansado como ahora."
+    },
+    {
+      "entry_id": "grateful-1the-5-16",
+      "reflection": "Pablo no dice da gracias por todo, sino en todo -- una distinción que vale la pena conservar. No se te pide estar agradecido de que algo difícil sucediera, solo seguir buscando lo bueno incluso mientras sucede.",
+      "prayer": "Gracias, Señor, por esta misericordia específica de hoy. Mantén mis ojos abiertos a más."
+    },
+    {
+      "entry_id": "grateful-ps-118-1",
+      "reflection": "La razón que aquí se da no es tu circunstancia sino su carácter: él es bueno, y eso permanece haya ido bien o no el día. La gratitud anclada en quién es Dios dura más que la gratitud que depende de que las cosas salgan bien.",
+      "prayer": "Señor, te alabo por quién eres, no solo por lo que me has dado."
+    },
+    {
+      "entry_id": "grateful-ps-100-4",
+      "reflection": "Aquí la acción de gracias se describe como una entrada, no como una recompensa por haber llegado. La gratitud es la puerta misma, la manera ordinaria de acercarse a Dios y no un estado de ánimo especial reservado para los buenos días.",
+      "prayer": "Señor, hoy vengo a ti a través del agradecimiento, no rodeándolo."
+    },
+    {
+      "entry_id": "grateful-col-3-17",
+      "reflection": "La instrucción abarca todo, no solo los momentos obviamente espirituales -- palabras ordinarias y tareas ordinarias se incluyen en el mismo aliento que la adoración, si por debajo corre la gratitud.",
+      "prayer": "Señor, que incluso mis tareas ordinarias de hoy lleven algo de gratitud por debajo."
+    },
+    {
+      "entry_id": "grateful-ps-103-2",
+      "reflection": "David se dirige a su propia alma directamente, como si la gratitud necesitara ser convocada activamente y no simplemente llegar por sí sola -- \"bendice, alma mía, al SEÑOR\", una orden que se da a sí mismo. La advertencia de no olvidar implica que el olvido es el verdadero peligro, no la ingratitud como decisión sino el simple descuido de lo que ya se ha dado. Recordar los beneficios, específicamente, se trata como un acto que vale la pena hacer a propósito.",
+      "prayer": "Señor, como David, hoy necesito hablarle a mi propia alma y recordarle que no olvide lo que ya has hecho. Ayúdame a recordar de verdad tus beneficios en lugar de dejar que se me pasen desapercibidos como suele suceder. Que la gratitud sea algo que elijo practicar, no solo un sentimiento que espero que llegue."
+    },
+    {
+      "entry_id": "grateful-1chr-16-34",
+      "reflection": "Este estribillo -- dad gracias, porque él es bueno, porque su misericordia permanece para siempre -- aparece una y otra vez a lo largo de la adoración de Israel, repetido tantas veces que se vuelve casi un reflejo más que una toma de conciencia nueva cada vez. La razón dada para el agradecimiento no es circunstancial; es el carácter mismo de Dios y la permanencia de su misericordia, verdadera sin importar cómo haya ido el día. La repetición aquí no es hueca; es un ensayo de algo lo bastante verdadero para merecer decirse constantemente.",
+      "prayer": "Señor, déjame dar gracias hoy por quién eres, no solo por cómo resultó ser el día. Tu misericordia permanece sin importar si me acordé de notarla o no, así que ayúdame a notarla ahora. Que este agradecimiento se convierta en un hábito tan constante en mí como claramente estaba destinado a ser."
+    },
+    {
+      "entry_id": "grateful-eph-5-20",
+      "reflection": "La instrucción de Pablo es sorprendentemente total -- gracias dadas siempre, por todas las cosas, sin excepciones talladas para las circunstancias que no parecen merecerlas. Esto no es gratitud solo por lo bueno y agradable; es una postura aplicada a todo el rango de lo que sucede. El agradecimiento se dirige específicamente a Dios el Padre en el nombre de Jesús, dándole un destinatario concreto en lugar de ser una apreciación vaga lanzada al aire.",
+      "prayer": "Señor, ayúdame a dar gracias siempre, por todas las cosas, no solo por las partes de hoy que fueron fáciles de agradecer. Sé que ese es un listón alto, así que encuéntrame en el esfuerzo de intentarlo en lugar de esperar que llegue ahí al instante. Que mi agradecimiento sea específicamente para ti, y no solo un buen sentimiento general sin fuente que nombrar."
+    },
+    {
+      "entry_id": "grateful-jas-1-17",
+      "reflection": "Santiago rastrea todo don bueno y perfecto de vuelta a una sola fuente, el Padre de las luces, excluyendo deliberadamente la posibilidad de que las cosas buenas simplemente ocurran por sí solas. Describir a Dios como inmutable, sin variación ni sombra de cambio, significa que la fuente de los buenos regalos no es inconsistente ni caprichosa al darlos. La gratitud, bajo esta luz, es en realidad simplemente una contabilidad precisa de dónde vinieron las cosas.",
+      "prayer": "Señor, ayúdame a rastrear las cosas buenas de mi vida de vuelta a ti, como dice Santiago que en verdad viene de ti todo don bueno. Tú no cambias ni varías como a veces lo hacen las cosas que me has dado, así que deja que mi gratitud descanse en algo tan estable como tú. Gracias por ser la fuente real, incluso de los regalos que olvido acreditarte."
+    },
+    {
+      "entry_id": "grateful-lk-17-15",
+      "reflection": "De los diez leprosos sanados en esta historia, solo uno regresa, y Lucas se detiene a describir exactamente cómo fue ese regreso -- volviéndose, glorificando a Dios en voz alta, cayendo a los pies de Jesús. Los nueve que no regresaron presuntamente recibieron la misma sanación; la gratitud no fue una condición del regalo, solo de lo que vino después de recibirlo. La respuesta de este único hombre se resalta precisamente porque no fue lo habitual.",
+      "prayer": "Señor, déjame ser el que regresa, como hizo solo uno de los diez, en lugar de simplemente tomar el regalo y seguir con mi vida. No quiero que la gratitud sea la rara excepción en cómo respondo a lo que has hecho por mí. Ayúdame a caer en agradecimiento tan alto y abiertamente como él lo hizo."
+    },
+    {
+      "entry_id": "grateful-ps-92-1",
+      "reflection": "El salmo llama a dar gracias y cantar alabanzas \"algo bueno\", una manera sorprendentemente sencilla de describir la adoración, como si su bondad fuera simplemente evidente por sí misma y no necesitara una justificación elaborada. Dirigirse a Dios como \"Altísimo\" coloca el agradecimiento en el contexto de a quién realmente se está agradeciendo, no una gratitud vaga flotando sin objeto. El canto se especifica junto al agradecimiento, sugiriendo que aquí la gratitud está destinada a expresarse, no solo a sentirse en privado.",
+      "prayer": "Señor, es algo bueno darte gracias, tan sencillamente como lo dice este salmo, así que no lo complique más de la cuenta. Que mi gratitud de verdad te alcance, dirigida a ti como el Altísimo, no solo un sentimiento privado que guardo para mí. Dame una razón para cantar hoy, y que este agradecimiento sea parte de lo que canto."
+    },
+    {
+      "entry_id": "guidance-pr-3-5",
+      "reflection": "La instrucción no es no tener entendimiento, sino no apoyar todo el peso de una decisión solo en él. Reconocerlo en todos tus caminos es más amplio que orar antes de una gran elección -- es un hábito también en las pequeñas, para que la grande no te resulte desconocida.",
+      "prayer": "Señor, no veo el camino completo. Hazlo recto donde yo no puedo."
+    },
+    {
+      "entry_id": "guidance-jas-1-5",
+      "reflection": "Santiago promete que se dará sabiduría, y añade algo fácil de pasar por alto: sin reproche. No se te está regañando por no saber ya. Pedir se trata aquí como la manera ordinaria en que llega la sabiduría, no un último recurso para personas que deberían haberlo resuelto solas.",
+      "prayer": "Padre, me falta sabiduría para esto. Dámela generosamente, como prometiste."
+    },
+    {
+      "entry_id": "guidance-ps-32-8",
+      "reflection": "La promesa no es solo dirección sino atención -- se describe el ojo de Dios permaneciendo sobre ti mientras sucede la enseñanza, no un conjunto de instrucciones entregadas y dejadas para que las descifres solo.",
+      "prayer": "Señor, enséñame el camino que debo seguir, y sigue mirando mientras lo camino."
+    },
+    {
+      "entry_id": "guidance-ps-119-105",
+      "reflection": "Una lámpara para los pies ilumina el próximo paso, no todo el camino por delante. Ese es un tipo de guía más modesto que ver el sendero entero de una vez -- pero es suficiente para realmente seguir caminando.",
+      "prayer": "Señor, no necesito ver todo el camino. Solo ilumina el próximo paso."
+    },
+    {
+      "entry_id": "guidance-pr-3-6",
+      "reflection": "Este versículo completa el pensamiento justo anterior -- confía, luego reconoce a Dios en todo camino, y la promesa sigue directamente: sendas enderezadas. \"Todos tus caminos\" no deja ninguna área exenta, no solo las decisiones grandes sino también las ordinarias del día a día. El enderezar no se describe como instantáneo; es un resultado que sigue a un reconocimiento practicado y continuo, no una petición de una sola vez.",
+      "prayer": "Señor, quiero reconocerte hoy en todos mis caminos, no solo en la gran decisión que me tiene ansioso sino también en las pequeñas ordinarias. Endereza mis sendas como promete este versículo, aunque todavía no pueda ver muy lejos en el camino. Ayúdame a que esto sea un hábito continuo de confianza, no solo una petición única que hago y luego olvido."
+    },
+    {
+      "entry_id": "guidance-isa-30-21",
+      "reflection": "Isaías describe la guía como algo que se escucha más que se ve, una voz desde atrás en lugar de una luz mostrada delante -- una dirección inusual de la que viene la guía. La especificidad de \"cuando te vuelvas a la derecha o cuando te vuelvas a la izquierda\" sugiere que esta voz habla en el momento mismo de la decisión, no solo de antemano. Es una guía que corrige el rumbo en lugar de solo trazarlo con anticipación.",
+      "prayer": "Señor, déjame escuchar tu voz detrás de mí como lo describe Isaías, corrigiendo mi rumbo incluso después de que ya haya empezado a moverme. No siempre sé de antemano hacia dónde girar, así que habla en el momento mismo, no solo antes. Ayúdame a mantenerme atento a tu voz en lugar de a mis propias suposiciones."
+    },
+    {
+      "entry_id": "guidance-ps-25-9",
+      "reflection": "El salmo vincula específicamente la guía con la humildad, no con la inteligencia o el esfuerzo -- son los humildes quienes son guiados y enseñados, una cualidad de postura más que un nivel de habilidad. Ser enseñado \"su camino\" sugiere que aquí la guía es menos una sola respuesta a una sola pregunta y más una educación continua en cómo trabaja Dios. La humildad se presenta como la condición real que requiere la guía, no un añadido agradable a ella.",
+      "prayer": "Señor, hazme lo bastante humilde para de verdad ser guiado hoy, en lugar de insistir en que ya conozco el camino. Enséñame tu camino como describe este salmo, con paciencia y con el tiempo, no solo entregándome una respuesta rápida. Ayúdame a querer ser enseñado más de lo que quiero tener razón."
+    },
+    {
+      "entry_id": "guidance-jn-16-13",
+      "reflection": "Jesús promete al Espíritu específicamente como guía hacia la verdad, no solo información sino verdad como algo en lo que se entra caminando con el tiempo. Se describe al Espíritu no hablando por iniciativa propia, sino transmitiendo lo que oye -- aquí la guía es relacional y continua, no una sola transmisión entregada de una vez. \"Toda la verdad\" es una promesa grande, sugiriendo que la guía a la vista es integral, no limitada a una pregunta a la vez.",
+      "prayer": "Señor, envía tu Espíritu a guiarme hacia la verdad como prometiste, no solo respuestas a mis preguntas inmediatas sino una relación real y continua con lo que es verdadero. No necesito resolverlo todo hoy -- necesito seguir siendo guiado, día a día. Ayúdame a confiar en la guía del Espíritu aunque tarde en volverse clara."
+    },
+    {
+      "entry_id": "guidance-isa-58-11",
+      "reflection": "La guía que aquí se promete es continua, unida a imágenes de nutrición en lugares secos y fuerza en los huesos -- una guía que sostiene a la persona, no solo la dirige. La comparación con un huerto de riego y un manantial que no falla sugiere fiabilidad en el tiempo, una fuente que no se seca ni siquiera en condiciones difíciles. Guía y provisión se tratan juntas aquí, como si una sin la otra fuera incompleta.",
+      "prayer": "Señor, guíame continuamente, como promete este versículo, no solo para la decisión de hoy sino para las temporadas secas que aún están por delante. Sacia mi alma en las partes de mi vida que ahora mismo se sienten como lugares secos. Déjame ser como un huerto de riego, sostenido por ti incluso cuando las condiciones a mi alrededor son difíciles."
+    },
+    {
+      "entry_id": "guidance-pr-16-9",
+      "reflection": "El proverbio no descarta la planificación humana -- el corazón genuinamente planea su curso -- pero coloca la dirección del SEÑOR sobre los pasos realmente dados, el movimiento concreto y no la intención abstracta. Esto sugiere que la guía trabaja junto a la propia planificación de una persona en lugar de reemplazarla por completo, corrigiendo y dirigiendo la ejecución del plan. Incluso un plan bien trazado todavía depende de algo más allá de sí mismo para realmente dirigir dónde caen los pasos.",
+      "prayer": "Señor, tengo planes de cómo creo que esto debería ir, y no voy a fingir que no los tengo. Pero dirige mis pasos reales, como dice este proverbio que lo haces, incluso cuando terminan siendo distintos de lo que planeé. Ayúdame a sostener mis propios planes con la mano suelta, lo suficiente para que tu dirección todavía pueda moverlos."
+    },
+    {
+      "entry_id": "hurt-eph-4-32",
+      "reflection": "El perdón que aquí se te pide está modelado en uno que ya recibiste, no en uno que se espera que generes de la nada. Eso no lo hace instantáneo. Te da un lugar dónde empezar cuando tu propia bondad hacia la persona se siente seca.",
+      "prayer": "Señor, no tengo en mí para perdonar esto por mi cuenta. Préstame el tuyo."
+    },
+    {
+      "entry_id": "hurt-mt-6-14",
+      "reflection": "Cristo vincula tu perdón al de ellos de una manera incómoda de sostener. No es tanto una transacción como un espejo: la gracia que te niegas a extender es, en cierto sentido, gracia que te estás negando a recibir por completo.",
+      "prayer": "Padre, suaviza lo que se ha endurecido en mí hacia ellos."
+    },
+    {
+      "entry_id": "hurt-ps-147-3",
+      "reflection": "Las dos acciones nombradas -- sanar y vendar -- no son arreglos instantáneos sino el tipo de cuidado que una herida realmente necesita: atendida, envuelta, dada tiempo.",
+      "prayer": "Señor, venda lo que todavía está en carne viva en mí. No necesito que se sane hoy, solo que se atienda."
+    },
+    {
+      "entry_id": "hurt-ro-12-19",
+      "reflection": "Pablo no te pide que decidas que el mal no importó -- solo que le entregues a otro el resolverlo. La justicia todavía viene en camino; simplemente ya no es tu trabajo entregarla.",
+      "prayer": "Señor, te entrego lo que quiero resolver yo mismo. Es tuyo para tratarlo, no mío."
+    },
+    {
+      "entry_id": "hurt-isa-53-5",
+      "reflection": "La profecía nombra las heridas específicamente como el medio de sanación, un arreglo que funciona al revés de como suele funcionar la sanación -- la herida de otro se convierte en la fuente de la plenitud de alguien más. Esto no es teología abstracta separada del dolor real; está construida enteramente alrededor de sufrimiento real y físico, descrito en términos sin rodeos. Cualquier dolor que se esté cargando ahora, este versículo insiste en que no es un territorio ajeno ni sin respuesta para Dios.",
+      "prayer": "Señor, tú conoces las heridas de primera mano, como describe este versículo, así que encuéntrame en este dolor en lugar de a distancia de él. Que tus heridas sean la fuente de mi sanación, como promete esta profecía, aunque no entienda exactamente cómo funciona eso. No dejes que este dolor quede sin respuesta, aunque la sanación tarde en llegar."
+    },
+    {
+      "entry_id": "hurt-gen-50-20",
+      "reflection": "José les dice esto directamente a los hermanos que causaron su sufrimiento, nombrando claramente su intención como mala sin suavizarla, mientras también nombra lo que Dios hizo con ello sin minimizar el mal. Ambas cosas son verdad en la misma frase: se quiso un mal real, y Dios lo encaminó para bien, salvando muchas vidas en el proceso. Esto no es una exigencia de ver el bien de inmediato; son las propias palabras retrospectivas de José, dichas del otro lado de años de sufrimiento.",
+      "prayer": "Señor, todavía no entiendo qué bien podría salir de lo que me hicieron, y no te pido verlo hoy. Pero como José, déjame confiar en que puedes obrar incluso a través de un daño real e intencional, sin fingir que el daño en sí fue otra cosa que injusticia. Salva algo a través de esto, aunque todavía no pueda ver qué."
+    },
+    {
+      "entry_id": "hurt-ps-55-12-14",
+      "reflection": "David nombra aquí un tipo de dolor específico y más agudo -- no la traición de un enemigo, que podría haber soportado, sino de un compañero, alguien con quien caminaba en íntima compañía. Nombrar la relación explícitamente, en lugar de mantener el dolor vago, parece ser parte de cómo David lo procesa con honestidad delante de Dios. Algunas heridas duelen más precisamente por quién las causó, y este salmo no finge lo contrario.",
+      "prayer": "Señor, esto duele más por de dónde vino, y no quiero fingir que dolería igual si viniera de un extraño. Déjame ser honesto contigo sobre exactamente quién causó esto y cuánto cuesta, como fue honesto David. Encuéntrame en el dolor específico de esto, no solo en una tristeza general."
+    },
+    {
+      "entry_id": "hurt-col-3-13",
+      "reflection": "La instrucción de Pablo de soportarse unos a otros viene emparejada directamente con perdonar, como si las dos estuvieran destinadas a funcionar juntas -- paciencia para lo que continúa, perdón para lo que ya sucedió. El estándar establecido es el propio perdón de Cristo, una comparación que no deja mucho margen para argumentar que la ofensa contra uno mismo es demasiado grande para perdonar. Esto no se presenta como fácil, solo como modelado en algo que tampoco fue fácil.",
+      "prayer": "Señor, ayúdame a soportar a quien me hirió y a perdonarlo como tú me has perdonado a mí, aunque todavía no me sienta listo. No pido no sentir nada sobre esto -- pido la fuerza para perdonar de todos modos. Que tu propio perdón hacia mí sea el modelo que de verdad sigo, no solo un ideal que admiro a distancia."
+    },
+    {
+      "entry_id": "hurt-lk-6-27",
+      "reflection": "La instrucción de Jesús escala deliberadamente -- amar, hacer el bien, bendecir, orar -- cada una un paso más allá de simplemente no tomar represalias, dirigida específicamente a los enemigos y a quienes maltratan. Esto no es negación emocional del dolor; orar por alguien que te maltrató asume que el maltrato fue lo bastante real como para necesitar dirigirse a él en oración. Las cuatro acciones dadas son concretas y activas, no solo un ajuste interior de actitud.",
+      "prayer": "Señor, ahora mismo no tengo ganas de amar a quien me hirió, así que empieza con la más pequeña de estas cosas -- déjame al menos orar por ellos con honestidad. Ayúdame a hacer el bien y a bendecir donde preferiría negar ambas cosas. Haz crecer esto en mí despacio si tiene que ser despacio, pero no dejes que me quede solo en evitar la venganza."
+    },
+    {
+      "entry_id": "hurt-ro-8-18",
+      "reflection": "Pablo no minimiza el sufrimiento presente para que funcione esta comparación; lo llama sufrimiento real, genuinamente presente, antes de ponerlo junto a una gloria que dice que lo supera por completo. Esto no es negar que el dolor importe ahora -- es una afirmación sobre proporción, que el dolor, por real que sea, no es toda la historia ni la última palabra. La comparación solo tiene sentido si ambas cosas, el sufrimiento y la gloria, se toman con igual seriedad.",
+      "prayer": "Señor, este dolor es real, y no voy a minimizarlo solo para sentirme un mejor cristiano. Pero déjame sostenerlo junto a la gloria que describe Pablo, no en lugar del dolor sino al lado de él. Ayúdame a creer que esto no es toda la historia, incluso en los días en que se siente como si lo fuera."
+    },
+    {
+      "entry_id": "overwhelmed-ps-61-2",
+      "reflection": "David ora esto desde lo que llama el fin de la tierra -- tan lejos de la ayuda como puede imaginarse estar. No pide sentirse menos abrumado. Pide ser llevado a un lugar más alto que donde está, una petición que puedes hacer incluso a mitad del derrumbe.",
+      "prayer": "Señor, mi corazón está abrumado. Guíame a la roca que es más alta que yo."
+    },
+    {
+      "entry_id": "overwhelmed-mt-6-34",
+      "reflection": "Cristo no te dice que el futuro estará bien. Te dice que el mañana tiene su propio problema, y el de hoy ya es suficiente para cargar -- así que en realidad no se te exige cargar ambos a la vez, por mucho que se sienta así.",
+      "prayer": "Señor, ayúdame a quedarme en hoy. El mañana puede esperar hasta mañana."
+    },
+    {
+      "entry_id": "overwhelmed-ps-55-22",
+      "reflection": "Echar una carga es un movimiento decisivo, no un alivio gradual. El versículo dibuja un solo acto de soltar, seguido de que otro se hace cargo de sostener.",
+      "prayer": "Señor, pongo esto delante de ti ahora. Sostén lo que ya no puedo cargar."
+    },
+    {
+      "entry_id": "overwhelmed-2cor-12-9",
+      "reflection": "A Pablo no se le quita la fuerza que pidió; recibe una respuesta que replantea la debilidad misma como el lugar donde el poder de Dios realmente se muestra mejor.",
+      "prayer": "Señor, ahora mismo soy débil. Que ese sea exactamente el lugar donde se muestre tu fuerza."
+    },
+    {
+      "entry_id": "overwhelmed-ps-143-4",
+      "reflection": "David usa la palabra exacta que muchos buscarían para sí mismos -- abrumado -- unida a un corazón descrito como desolado, no un lenguaje exagerado sino una descripción precisa de dónde realmente está. En este único versículo no se ofrece una resolución inmediata; simplemente se nombra la condición sin apresurarse a pasarla por alto. Que la Escritura le dé a este sentimiento exacto sus propias palabras parece importar por sí mismo, antes de que llegue ninguna respuesta.",
+      "prayer": "Señor, mi espíritu está abrumado dentro de mí ahora mismo, la palabra exacta que usa este salmo, y mi corazón se siente tan desolado como el de David. No voy a apresurarme a pasar por alto el nombrar esto solo para llegar más rápido a un sentimiento más ordenado. Encuéntrame aquí, en la parte abrumada, antes de encontrarme en cualquier otro lugar."
+    },
+    {
+      "entry_id": "overwhelmed-ps-42-5",
+      "reflection": "El salmista le habla directamente a su propia alma, como si fuera una parte aparte que necesita ser interrogada y cuestionada -- por qué te abates, por qué te turbas. Esto no descarta el desánimo como irrazonable; lo enfrenta directamente, pidiéndole que se explique. El giro hacia la esperanza llega en el mismo aliento que el cuestionamiento honesto, no después de que el desánimo se haya resuelto por completo.",
+      "prayer": "Señor, como el salmista, necesito preguntarle a mi propia alma por qué está tan turbada ahora mismo, en lugar de dejar que la turbación siga sin cuestionar. Ayúdame a poner mi esperanza en ti incluso mientras el desánimo todavía está presente, sin esperar a que se levante del todo primero. Déjame todavía encontrar una manera de alabarte en medio de esto."
+    },
+    {
+      "entry_id": "overwhelmed-ps-46-1",
+      "reflection": "El salmo no llama a Dios una ayuda distante sino una muy presente, ubicada específicamente en la angustia y no solo disponible antes o después de ella. Refugio y fortaleza se nombran juntos, sugiriendo tanto amparo de lo abrumador como la capacidad de seguir en pie dentro de ello. Este versículo no promete que la angustia termine pronto; promete presencia precisamente dentro de ella.",
+      "prayer": "Señor, sé mi refugio y mi fortaleza ahora mismo, muy presente en esta angustia, no solo algo que encontraré al otro lado de ella. No necesito que lo abrumador termine de inmediato -- te necesito aquí adentro conmigo. Que tu presencia sea lo bastante real como para de verdad sostenerme."
+    },
+    {
+      "entry_id": "overwhelmed-ps-34-17",
+      "reflection": "El versículo describe una secuencia específica: clamar, luego Dios oír, luego liberación -- cada paso sigue al anterior, no un cuidado general y vago sino una respuesta activa a un clamor activo. \"Todas sus angustias\" es una promesa integral, no limitada al tipo de problema que parece resoluble. Esto no afirma que el justo nunca se sienta abrumado, solo que su clamor no queda sin ser oído cuando lo está.",
+      "prayer": "Señor, ahora mismo clamo a ti, abrumado por más de lo que puedo cargar. Escúchame como promete este versículo que escuchas al justo, y líbrame de estas angustias, todas ellas, no solo las fáciles. Que este clamor sea el comienzo de algo que se mueve, no palabras que caen en el silencio."
+    },
+    {
+      "entry_id": "overwhelmed-phil-4-13",
+      "reflection": "Pablo escribe esto después de describir haber aprendido a contentarse tanto en la abundancia como en la escasez, así que la fuerza a la vista no es un superpoder genérico sino específicamente la capacidad de resistir cualquier circunstancia en la que realmente esté. \"Todo\" aquí significa el rango completo que Pablo acaba de describir, no una promesa ilimitada separada del contexto. La fuerza viene de Cristo, explícitamente, no de la propia resiliencia u optimismo de Pablo.",
+      "prayer": "Señor, ahora mismo no puedo con esto con mis propias fuerzas, así que déjame de verdad apoyarme en la fuerza que viene por Cristo, como describe Pablo. No necesito sentirme capaz por mí mismo -- necesito ser fortalecido específicamente por ti. Ayúdame a atravesar lo que hoy me abruma a través de ti, no fingiendo que estoy bien."
+    },
+    {
+      "entry_id": "overwhelmed-2cor-4-8",
+      "reflection": "La lista de Pablo funciona en pares, cada uno nombrando presión real junto a un límite hasta dónde llega esa presión -- atribulados, mas no angustiados; en apuros, mas no desesperados. Esto no niega que la presión sea real; cada primera mitad del par es genuinamente cierta. Lo que se añade es una frontera que la presión no cruza, un suelo debajo de lo abrumador que se sostiene incluso bajo peso real.",
+      "prayer": "Señor, estoy presionado por todos lados ahora mismo, y no voy a fingir lo contrario. Pero sostén la línea que describe este versículo -- que sea presionado sin ser aplastado, en apuros sin caer en desesperación. Sé el suelo debajo de este agobio que evita que se convierta en mi final."
+    },
+    {
+      "entry_id": "hopeful-jer-29-11",
+      "reflection": "Esta promesa se dice a personas en exilio, no a personas a punto de ser rescatadas mañana. Los planes de Dios para ellos se despliegan a lo largo de décadas, no de la noche a la mañana -- un tipo de esperanza duradera, hecha para sobrevivir una larga espera y no un giro rápido.",
+      "prayer": "Señor, no conozco tu cronograma, pero confío en que existe uno. Dame esperanza para lo que viene."
+    },
+    {
+      "entry_id": "hopeful-lam-3-22",
+      "reflection": "Estas palabras están en medio de un libro sobre la destrucción de Jerusalén -- duelo y esperanza en la misma página. Que la misericordia se describa nueva cada mañana significa que el fracaso de ayer no disminuye el nuevo comienzo de hoy.",
+      "prayer": "Señor, gracias porque esta mañana no está atada a la de ayer. Encuéntrame nuevo hoy."
+    },
+    {
+      "entry_id": "hopeful-ro-15-13",
+      "reflection": "Aquí la esperanza se describe como algo que puede desbordar, no apenas durar -- abundante, no solo sobreviviente. Ese es un listón más alto que arreglárselas, y se ofrece como regalo en lugar de esfuerzo.",
+      "prayer": "Señor, lléname con más esperanza de la que necesito solo para pasar el día de hoy."
+    },
+    {
+      "entry_id": "hopeful-ro-8-28",
+      "reflection": "La afirmación no es que cada cosa individual sea buena, sino que todas están siendo trabajadas juntas hacia algo bueno -- una promesa sobre el patrón entero, no un veredicto todavía sobre ninguna pieza en particular.",
+      "prayer": "Señor, todavía no puedo ver el patrón completo. Ayúdame a confiar en que se está trabajando junto."
+    },
+    {
+      "entry_id": "hopeful-ps-130-5",
+      "reflection": "El salmista describe la espera como algo que hace toda su alma, no un matar el tiempo pasivo sino una postura activa dirigida específicamente hacia Dios. La esperanza se coloca en la palabra de Dios, algo dicho y confiable, en lugar de en que cambien las circunstancias o mejoren los sentimientos. Esperar y tener esperanza se tratan aquí como el mismo movimiento, no dos cosas separadas que suceden en paralelo.",
+      "prayer": "Señor, hoy te espero, no pasivamente sino con toda mi alma como describe este salmo. Que mi esperanza descanse en tu palabra, algo a lo que realmente puedo aferrarme, en lugar de en circunstancias que siguen cambiando. Enséñame a esperar bien, no solo a esperar."
+    },
+    {
+      "entry_id": "hopeful-heb-6-19",
+      "reflection": "El autor compara la esperanza con un ancla, una imagen elegida por su estabilidad en condiciones agitadas y no por velocidad o comodidad -- todo el propósito de un ancla es sostenerse firme cuando todo a su alrededor se mueve. Esta esperanza se describe entrando en el lugar más íntimo, no quedándose en la superficie sino alcanzando un lugar seguro e inmóvil. Se usan tanto \"segura\" como \"firme\", redoblando en fiabilidad más que en intensidad del sentimiento.",
+      "prayer": "Señor, que esta esperanza sea un ancla para mi alma hoy, como describe este versículo, sosteniéndome firme incluso cuando todo a mi alrededor se siente como aguas agitadas. No necesito que la esperanza se sienta intensa -- necesito que sea segura y firme, alcanzando un lugar seguro. Ánclame en algo que no se mueve aunque yo sí lo haga."
+    },
+    {
+      "entry_id": "hopeful-titus-2-13",
+      "reflection": "Pablo llama a esta esperanza \"bienaventurada\", una combinación inusual que enmarca la esperanza misma como algo bueno de sostener, no solo un mecanismo para sobrellevar tiempos difíciles. El objeto de la esperanza es específico -- la manifestación de Jesús -- no un optimismo vago sobre que las cosas mejoren en general. Anhelar algo tan concreto le da a la esperanza una dirección y un punto final, no solo una disposición general.",
+      "prayer": "Señor, déjame de verdad anhelar tu manifestación, como describe Pablo, en lugar de solo esperar vagamente que las cosas mejoren de alguna manera. Dale a esta esperanza una dirección real y específica, no solo un sentimiento que trato de fabricar. Que sea esperanza bienaventurada, algo genuinamente bueno para sostener, no solo un mecanismo para sobrellevar."
+    },
+    {
+      "entry_id": "hopeful-ro-12-12",
+      "reflection": "Pablo une tres cosas en un solo aliento -- gozosos en la esperanza, sufridos en la tribulación, constantes en la oración -- como si estuvieran destinadas a funcionar como una sola práctica en lugar de tres instrucciones separadas. Aquí la esperanza no espera a que terminen las angustias antes de empezar a regocijarse; opera junto a la perseverancia, en el mismo tiempo presente que las angustias mismas. La oración es el hilo que conecta las otras dos, sostenida en lugar de ocasional.",
+      "prayer": "Señor, déjame regocijarme en la esperanza incluso mientras todavía sufro angustias, sin esperar a que terminen primero. Ayúdame a mantenerme constante en la oración como el hilo que sostiene juntas la esperanza y la perseverancia. No dejes que separe esto en etapas -- que sucedan juntas, como describe Pablo."
+    },
+    {
+      "entry_id": "hopeful-ps-39-7",
+      "reflection": "El salmista hace su propia pregunta y la responde en el mismo aliento -- qué espero yo, mi esperanza está en ti -- descartando cualquier otra respuesta posible antes de que siquiera tenga espacio para competir. Es un versículo corto, pero funciona como un filtro, reduciendo dónde podría colocarse la esperanza a una única respuesta deliberada. Nada más se nombra como candidato que valga la pena esperar.",
+      "prayer": "Señor, cuando me pregunte qué estoy esperando en realidad, que la respuesta seas tú, como lo fue para el salmista. Descarta cualquier otro lugar donde pudiera sentirme tentado a poner mi esperanza en su lugar. Que esta sea una respuesta asentada, no una que tenga que volver a decidir cada vez que la esperanza se siente escasa."
+    },
+    {
+      "entry_id": "hopeful-jn-14-1",
+      "reflection": "Jesús dice estas palabras justo antes de su propia muerte, a discípulos a punto de perderlo -- la esperanza que aquí se ofrece no está separada de una pérdida real e inminente, sino dicha directamente en medio de ella. La esperanza específica que se nombra es un lugar siendo preparado, un reencuentro futuro, no una vaga garantía de que las cosas de algún modo saldrán bien. \"Si no fuera así, os lo habría dicho\" enraíza la esperanza en la propia honestidad de Jesús y no en un deseo ingenuo.",
+      "prayer": "Señor, no dejes que mi corazón se turbe, como pediste a tus discípulos que no dejaran turbarse el suyo, incluso frente a una pérdida real. Que mi esperanza descanse en el lugar específico que estás preparando, no en un sentimiento vago de que las cosas estarán bien. Confío en que si no fuera cierto, me lo habrías dicho."
+    },
+    {
+      "entry_id": "joyful-phil-4-4",
+      "reflection": "Pablo escribe esto desde una celda de prisión, lo cual significa que el mandato no está condicionado a que las circunstancias vayan bien. Aquí la alegría es algo elegido y repetido -- \"otra vez lo diré\" -- no un estado de ánimo que solo llega en su propio horario.",
+      "prayer": "Señor, gracias por esta alegría. Que eche raíces lo bastante profundas para sobrevivir los días en que no llega fácil."
+    },
+    {
+      "entry_id": "joyful-neh-8-10",
+      "reflection": "Esto se le dice a gente llorando por una ley redescubierta que había fallado en guardar. La alegría no se ofrece en lugar de la honestidad sobre ese fracaso -- se ofrece como la fuerza real para avanzar desde él.",
+      "prayer": "Señor, que tu gozo sea mi fuerza hoy, no solo mi estado de ánimo."
+    },
+    {
+      "entry_id": "joyful-ps-16-11",
+      "reflection": "El gozo aquí descrito no está atado a un evento o un logro sino a un lugar -- estar en la presencia de Dios. Eso lo hace disponible en los días ordinarios, no solo en los llenos de eventos.",
+      "prayer": "Señor, gracias por la plenitud de gozo que está simplemente en estar cerca de ti."
+    },
+    {
+      "entry_id": "joyful-jn-15-11",
+      "reflection": "Cristo dice esto en medio de una enseñanza difícil sobre podar y permanecer, no en un momento de celebración -- aquí el gozo está destinado a permanecer a través de la instrucción difícil, no solo después de ella.",
+      "prayer": "Jesús, que tu gozo permanezca en mí incluso a través de las partes más difíciles de seguirte."
+    },
+    {
+      "entry_id": "joyful-ps-126-3",
+      "reflection": "El salmo nombra el gozo como una respuesta directa a algo que Dios realmente ha hecho, no un gozo buscado por sí mismo o fabricado con esfuerzo. \"Grandes cosas\" es lo bastante específico para anclar la alegría en eventos reales, no en un estado de ánimo abstracto. La alegría aquí sigue naturalmente del recuerdo, lo cual sugiere que el gozo puede recuperarse simplemente recordando lo que ya es verdad en lugar de necesitar que suceda algo nuevo.",
+      "prayer": "Señor, que hoy esté alegre por las grandes cosas que en verdad has hecho, no porque me haya convencido a mí mismo de un buen humor. Ayúdame a recordar específicamente lo que has hecho por mí, y que la alegría siga naturalmente de ese recuerdo. No dejes que espere algo nuevo antes de permitirme sentir este gozo."
+    },
+    {
+      "entry_id": "joyful-gal-5-22",
+      "reflection": "Pablo enumera el gozo como fruto, no como logro -- algo que crece de la presencia del Espíritu y no algo producido por fuerza de voluntad o circunstancia. El fruto toma tiempo y viene de estar arraigado en otra cosa por completo; no se fabrica directamente con esfuerzo dirigido al fruto mismo. El gozo aparece segundo en esta lista, justo después del amor, sugiriendo que está estrechamente unido a cómo realmente se vive el amor.",
+      "prayer": "Señor, haz crecer el gozo en mí como crece el fruto, desde estar arraigado en tu Espíritu y no desde algo que fabrico con esfuerzo. No puedo forzar esto como forzaría un logro, así que cultívalo en mí en su lugar. Que venga naturalmente del amor, como sugiere esta lista que sucede."
+    },
+    {
+      "entry_id": "joyful-ps-4-7",
+      "reflection": "David compara la alegría que Dios ha puesto en su corazón con el gozo de una cosecha abundante, pero afirma que su propia alegría supera incluso eso -- una afirmación fuerte considerando cuán central era la abundancia de la cosecha para la felicidad de una sociedad agrícola. Esta alegría no está atada a que las circunstancias realmente mejoren; se describe como algo puesto directamente en el corazón por Dios. La comparación sugiere un gozo interno que no depende de la abundancia externa para ser real o completo.",
+      "prayer": "Señor, pon alegría en mi corazón como se la diste a David, un gozo que no dependa primero de que mis circunstancias realmente mejoren. Que esta alegría sea real incluso sin el equivalente de una cosecha abundante en mi propia vida ahora mismo. Haz de este gozo algo que tú colocas directamente en mí, no algo que tengo que fabricar a partir de buenas noticias."
+    },
+    {
+      "entry_id": "joyful-hab-3-17",
+      "reflection": "Habacuc nombra un colapso agrícola y económico total en detalle específico y exhaustivo -- ni higuera, ni fruto, ni olivo, ni alimento, ni rebaños, ni ganado -- antes de declarar que se regocijará de todos modos. Este no es gozo porque las circunstancias sean buenas; es gozo que persiste a pesar de que cada circunstancia falle a la vez. El gozo se ubica específicamente en Dios mismo, el Dios de su salvación, no en nada que pudiera perderse.",
+      "prayer": "Señor, aunque todo a mi alrededor fallara como describe Habacuc, que yo también pueda decir lo que él dijo -- que me regocijaré en ti. Que mi gozo se ubique específicamente en ti, no en circunstancias que todas podrían fallar a la vez. Enséñame este tipo de gozo ahora, antes de tener que ponerlo a prueba contra una pérdida real."
+    },
+    {
+      "entry_id": "joyful-1pet-1-8",
+      "reflection": "Pedro describe un gozo dirigido a alguien que no se ve actualmente, lo cual lo hace completamente dependiente de la fe y no de la vista -- un fundamento inusual para lo que llama gozo inefable y glorioso. Esto no es un gozo disminuido por basarse en la fe en lugar de la vista; el lenguaje de Pedro sugiere lo opuesto, una intensidad que excede la descripción ordinaria. Creer sin ver se presenta aquí como plenamente compatible con el gozo real, incluso como una fuente directa de él.",
+      "prayer": "Señor, déjame amarte y regocijarme en ti incluso sin verte, como describe Pedro que hacían sus lectores. No necesito ver con claridad para que este gozo sea real y pleno, incluso inefable como él lo describe. Que creer sea suficiente fundamento para un gozo genuino hoy."
+    },
+    {
+      "entry_id": "joyful-ps-118-24",
+      "reflection": "El salmo no espera a que el día demuestre ser bueno antes de llamarlo hecho por Dios -- la declaración viene primero, sin importar lo que el día haya traído hasta ahora. El regocijo se presenta como una respuesta a que Dios haya hecho el día en sí, no a su contenido particular. Es un versículo corto y repetible, del tipo destinado a decirse a diario y no a guardarse para días excepcionalmente buenos.",
+      "prayer": "Señor, este es el día que has hecho, haya ido o no como esperaba hasta ahora. Ayúdame a regocijarme y alegrarme en él de todos modos, no porque todo en él haya sido bueno sino porque tú lo hiciste. Déjame decir esta pequeña verdad repetible hoy y de verdad creerla."
     }
   ]
 }
