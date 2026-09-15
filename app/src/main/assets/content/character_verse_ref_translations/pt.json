@@ -4661,6 +4661,101 @@
       "character_id": "epaphroditus",
       "position": 2,
       "caption": "Arriscou a vida para completar o que os filipenses não podiam fazer por si mesmos"
+    },
+    {
+      "character_id": "phoebe",
+      "position": 0,
+      "caption": "\"Serva da igreja que está em Cencreia\""
+    },
+    {
+      "character_id": "phoebe",
+      "position": 1,
+      "caption": "\"Ela mesma tem sido de ajuda a muitos, e a mim mesmo\""
+    },
+    {
+      "character_id": "junia",
+      "position": 0,
+      "caption": "\"Notáveis entre os apóstolos, e que estavam em Cristo antes de mim\""
+    },
+    {
+      "character_id": "andronicus",
+      "position": 0,
+      "caption": "\"Meus parentes e meus companheiros de prisão... em Cristo antes de mim\""
+    },
+    {
+      "character_id": "erastus",
+      "position": 0,
+      "caption": "Enviado adiante por Paulo à Macedônia"
+    },
+    {
+      "character_id": "erastus",
+      "position": 1,
+      "caption": "\"O tesoureiro da cidade\""
+    },
+    {
+      "character_id": "erastus",
+      "position": 2,
+      "caption": "Permaneceu em Corinto"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 0,
+      "caption": "Acompanha Paulo em sua jornada"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 1,
+      "caption": "Enviado para contar aos efésios tudo sobre os assuntos de Paulo"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 2,
+      "caption": "\"Um irmão amado, um servo fiel\""
+    },
+    {
+      "character_id": "tychicus",
+      "position": 3,
+      "caption": "Enviado para substituir Tito em Creta"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 0,
+      "caption": "Acompanha Paulo desde a Ásia"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 1,
+      "caption": "Erroneamente presumido ter sido trazido ao Templo"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 2,
+      "caption": "Deixado doente em Mileto"
+    },
+    {
+      "character_id": "gaius",
+      "position": 0,
+      "caption": "Agarrado no tumulto em Éfeso ao lado de Aristarco"
+    },
+    {
+      "character_id": "gaius",
+      "position": 1,
+      "caption": "\"Meu anfitrião, e de toda a igreja\""
+    },
+    {
+      "character_id": "gaius",
+      "position": 2,
+      "caption": "Endereçado pessoalmente: \"o amado, a quem amo na verdade\""
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 0,
+      "caption": "Agarrado e espancado diante do tribunal"
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 1,
+      "caption": "Mencionado com Paulo como coautor da carta: \"o irmão Sóstenes\""
     }
   ]
 }

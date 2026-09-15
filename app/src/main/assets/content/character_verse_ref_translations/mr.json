@@ -4661,6 +4661,101 @@
       "character_id": "epaphroditus",
       "position": 2,
       "caption": "फिलिप्पैकर स्वतः जे करू शकत नव्हते ते पूर्ण करण्यासाठी आपला जीव धोक्यात घातला"
+    },
+    {
+      "character_id": "phoebe",
+      "position": 0,
+      "caption": "\"कंख्रियेच्या मंडळीची सेविका\""
+    },
+    {
+      "character_id": "phoebe",
+      "position": 1,
+      "caption": "\"तिने पुष्कळांची, आणि माझीही मदत केली आहे\""
+    },
+    {
+      "character_id": "junia",
+      "position": 0,
+      "caption": "\"प्रेषितांमध्ये प्रसिद्ध, जे माझ्याआधी ख्रिस्तात होते\""
+    },
+    {
+      "character_id": "andronicus",
+      "position": 0,
+      "caption": "\"माझे नातेवाईक आणि माझे सहकैदी... माझ्याआधी ख्रिस्तात\""
+    },
+    {
+      "character_id": "erastus",
+      "position": 0,
+      "caption": "पौलाकडून मासेदोनियात पुढे पाठवलेला"
+    },
+    {
+      "character_id": "erastus",
+      "position": 1,
+      "caption": "\"नगराचा खजिनदार\""
+    },
+    {
+      "character_id": "erastus",
+      "position": 2,
+      "caption": "करिंथमध्ये राहिला"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 0,
+      "caption": "आपल्या प्रवासात पौलासोबत जातो"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 1,
+      "caption": "पौलाच्या सर्व परिस्थितीबद्दल इफिसकरांना सांगण्यासाठी पाठवला"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 2,
+      "caption": "\"प्रिय बंधू, विश्वासू सेवक\""
+    },
+    {
+      "character_id": "tychicus",
+      "position": 3,
+      "caption": "क्रेतेत तीतला मुक्त करण्यासाठी पाठवला"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 0,
+      "caption": "आशियापासून पौलासोबत जातो"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 1,
+      "caption": "चुकीने असे गृहीत धरले गेले की त्याला मंदिरात आणले गेले होते"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 2,
+      "caption": "मिलेतसमध्ये आजारी सोडलेला"
+    },
+    {
+      "character_id": "gaius",
+      "position": 0,
+      "caption": "इफिसमधील दंग्यात अरिस्तार्खससोबत पकडलेला"
+    },
+    {
+      "character_id": "gaius",
+      "position": 1,
+      "caption": "\"माझा आणि संपूर्ण मंडळीचा यजमान\""
+    },
+    {
+      "character_id": "gaius",
+      "position": 2,
+      "caption": "वैयक्तिकरित्या संबोधित: \"प्रिय, ज्याच्यावर मी सत्यात प्रेम करतो\""
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 0,
+      "caption": "न्यायासनासमोर पकडला गेला आणि मारहाण झाली"
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 1,
+      "caption": "पौलासोबत पत्राचा सह-प्रेषक म्हणून नामोल्लेखित: \"बंधू सोस्थेनेस\""
     }
   ]
 }

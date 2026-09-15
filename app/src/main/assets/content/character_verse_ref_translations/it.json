@@ -4661,6 +4661,101 @@
       "character_id": "epaphroditus",
       "position": 2,
       "caption": "Rischiò la vita per completare ciò che i Filippesi non potevano fare da soli"
+    },
+    {
+      "character_id": "phoebe",
+      "position": 0,
+      "caption": "\"Serva della chiesa di Cencrea\""
+    },
+    {
+      "character_id": "phoebe",
+      "position": 1,
+      "caption": "\"Ella pure ha soccorso molti, e anche me stesso\""
+    },
+    {
+      "character_id": "junia",
+      "position": 0,
+      "caption": "\"Insigni tra gli apostoli, e che sono stati in Cristo prima di me\""
+    },
+    {
+      "character_id": "andronicus",
+      "position": 0,
+      "caption": "\"Miei parenti e miei compagni di prigionia... in Cristo prima di me\""
+    },
+    {
+      "character_id": "erastus",
+      "position": 0,
+      "caption": "Mandato avanti da Paolo in Macedonia"
+    },
+    {
+      "character_id": "erastus",
+      "position": 1,
+      "caption": "\"Il tesoriere della città\""
+    },
+    {
+      "character_id": "erastus",
+      "position": 2,
+      "caption": "Rimase a Corinto"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 0,
+      "caption": "Accompagna Paolo nel suo viaggio"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 1,
+      "caption": "Mandato a raccontare agli Efesini tutto ciò che riguarda Paolo"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 2,
+      "caption": "\"Un fratello amato, un servo fedele\""
+    },
+    {
+      "character_id": "tychicus",
+      "position": 3,
+      "caption": "Mandato a sollevare Tito a Creta"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 0,
+      "caption": "Accompagna Paolo dall'Asia"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 1,
+      "caption": "Erroneamente ritenuto essere stato portato nel Tempio"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 2,
+      "caption": "Lasciato malato a Mileto"
+    },
+    {
+      "character_id": "gaius",
+      "position": 0,
+      "caption": "Catturato durante la rivolta a Efeso insieme ad Aristarco"
+    },
+    {
+      "character_id": "gaius",
+      "position": 1,
+      "caption": "\"Mio ospite, e di tutta la chiesa\""
+    },
+    {
+      "character_id": "gaius",
+      "position": 2,
+      "caption": "Indirizzato personalmente: \"il diletto, che io amo nella verità\""
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 0,
+      "caption": "Catturato e picchiato davanti al tribunale"
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 1,
+      "caption": "Nominato con Paolo come co-mittente della lettera: \"il fratello Sostene\""
     }
   ]
 }

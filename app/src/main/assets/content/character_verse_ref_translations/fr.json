@@ -4661,6 +4661,101 @@
       "character_id": "epaphroditus",
       "position": 2,
       "caption": "Risqua sa vie pour accomplir ce que les Philippiens ne pouvaient faire eux-mêmes"
+    },
+    {
+      "character_id": "phoebe",
+      "position": 0,
+      "caption": "« Servante de l'Église de Cenchrées »"
+    },
+    {
+      "character_id": "phoebe",
+      "position": 1,
+      "caption": "« Elle a donné assistance à plusieurs, et à moi-même »"
+    },
+    {
+      "character_id": "junia",
+      "position": 0,
+      "caption": "« Distingués parmi les apôtres, et qui même ont été en Christ avant moi »"
+    },
+    {
+      "character_id": "andronicus",
+      "position": 0,
+      "caption": "« Mes parents et mes compagnons de captivité... en Christ avant moi »"
+    },
+    {
+      "character_id": "erastus",
+      "position": 0,
+      "caption": "Envoyé en avant par Paul en Macédoine"
+    },
+    {
+      "character_id": "erastus",
+      "position": 1,
+      "caption": "« Le trésorier de la ville »"
+    },
+    {
+      "character_id": "erastus",
+      "position": 2,
+      "caption": "Resté à Corinthe"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 0,
+      "caption": "Accompagne Paul dans son voyage"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 1,
+      "caption": "Envoyé pour raconter aux Éphésiens tout ce qui concerne Paul"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 2,
+      "caption": "« Un frère bien-aimé, un fidèle serviteur »"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 3,
+      "caption": "Envoyé pour relever Tite en Crète"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 0,
+      "caption": "Accompagne Paul depuis l'Asie"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 1,
+      "caption": "Faussement supposé avoir été amené dans le Temple"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 2,
+      "caption": "Laissé malade à Milet"
+    },
+    {
+      "character_id": "gaius",
+      "position": 0,
+      "caption": "Saisi lors de l'émeute à Éphèse aux côtés d'Aristarque"
+    },
+    {
+      "character_id": "gaius",
+      "position": 1,
+      "caption": "« Mon hôte, et celui de toute l'Église »"
+    },
+    {
+      "character_id": "gaius",
+      "position": 2,
+      "caption": "Adressé personnellement : « le bien-aimé, que j'aime dans la vérité »"
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 0,
+      "caption": "Saisi et battu devant le tribunal"
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 1,
+      "caption": "Nommé avec Paul comme co-expéditeur de la lettre : « Sosthène, le frère »"
     }
   ]
 }

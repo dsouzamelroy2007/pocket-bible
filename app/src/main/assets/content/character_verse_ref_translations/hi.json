@@ -4661,6 +4661,101 @@
       "character_id": "epaphroditus",
       "position": 2,
       "caption": "वह पूरा करने के लिए अपना जीवन जोखिम में डाला जो फिलिप्पी स्वयं नहीं कर सकते थे"
+    },
+    {
+      "character_id": "phoebe",
+      "position": 0,
+      "caption": "\"कैंख्रिया की कलीसिया की सेविका\""
+    },
+    {
+      "character_id": "phoebe",
+      "position": 1,
+      "caption": "\"उसने बहुतों की, और मेरी भी सहायता की है\""
+    },
+    {
+      "character_id": "junia",
+      "position": 0,
+      "caption": "\"प्रेरितों में प्रसिद्ध, जो मुझसे पहिले मसीह में थे\""
+    },
+    {
+      "character_id": "andronicus",
+      "position": 0,
+      "caption": "\"मेरे सम्बन्धी और मेरे सहबन्दी... मुझसे पहिले मसीह में\""
+    },
+    {
+      "character_id": "erastus",
+      "position": 0,
+      "caption": "पौलुस द्वारा मकिदुनिया में आगे भेजा गया"
+    },
+    {
+      "character_id": "erastus",
+      "position": 1,
+      "caption": "\"नगर का खजांची\""
+    },
+    {
+      "character_id": "erastus",
+      "position": 2,
+      "caption": "कुरिन्थुस में रह गया"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 0,
+      "caption": "अपनी यात्रा में पौलुस के साथ जाता है"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 1,
+      "caption": "इफिसियों को पौलुस के सब मामलों के बारे में बताने के लिए भेजा गया"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 2,
+      "caption": "\"प्रिय भाई, विश्वासयोग्य सेवक\""
+    },
+    {
+      "character_id": "tychicus",
+      "position": 3,
+      "caption": "क्रेते में तीतुस को राहत देने के लिए भेजा गया"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 0,
+      "caption": "आसिया से पौलुस के साथ जाता है"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 1,
+      "caption": "गलती से माना गया कि उसे मंदिर में लाया गया था"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 2,
+      "caption": "मीलेतुस में बीमार छोड़ दिया गया"
+    },
+    {
+      "character_id": "gaius",
+      "position": 0,
+      "caption": "इफिसुस के दंगे में अरिस्तर्खुस के साथ पकड़ा गया"
+    },
+    {
+      "character_id": "gaius",
+      "position": 1,
+      "caption": "\"मेरा और सारी कलीसिया का मेज़बान\""
+    },
+    {
+      "character_id": "gaius",
+      "position": 2,
+      "caption": "व्यक्तिगत रूप से सम्बोधित: \"प्रिय, जिससे मैं सत्य में प्रेम करता हूं\""
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 0,
+      "caption": "न्यायासन के सामने पकड़ा गया और पीटा गया"
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 1,
+      "caption": "पौलुस के साथ पत्र के सह-प्रेषक के रूप में नामित: \"भाई सोस्थिनेस\""
     }
   ]
 }

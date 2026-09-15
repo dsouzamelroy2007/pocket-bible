@@ -1251,6 +1251,46 @@
       "character_id": "epaphroditus",
       "name": "Épaphrodite",
       "intro": "Un messager envoyé par les Philippiens pour aider Paul, qui faillit mourir de maladie dans cet effort et que Paul loua pour avoir risqué sa vie « afin de suppléer à votre absence de service »."
+    },
+    {
+      "character_id": "phoebe",
+      "name": "Phœbé",
+      "intro": "Une diaconesse de l'Église de Cenchrées, à qui Paul confia le soin de porter sa lettre aux Romains -- cette même lettre qui la nomme et la recommande à sa fin."
+    },
+    {
+      "character_id": "junia",
+      "name": "Junia",
+      "intro": "Nommée par Paul parmi les apôtres, « distinguée parmi les apôtres » et emprisonnée avec lui -- un détail frappant, facile à négliger, dans un simple verset de salutation."
+    },
+    {
+      "character_id": "andronicus",
+      "name": "Andronicus",
+      "intro": "Un parent de Paul, emprisonné avec lui à un moment donné, et nommé avec Junia comme distingué parmi les apôtres et croyant avant Paul lui-même."
+    },
+    {
+      "character_id": "erastus",
+      "name": "Éraste",
+      "intro": "Un fonctionnaire de la ville -- le trésorier de Corinthe -- qui servit aux côtés de Paul et Timothée et dont on se souvient dans l'une des salutations finales de Paul."
+    },
+    {
+      "character_id": "tychicus",
+      "name": "Tychique",
+      "intro": "Un messager de confiance et « frère bien-aimé » que Paul envoya pour livrer ses lettres et porter des nouvelles de sa propre situation à plusieurs Églises."
+    },
+    {
+      "character_id": "trophimus",
+      "name": "Trophime",
+      "intro": "Un compagnon païen de Paul dont la présence avec lui à Jérusalem fut faussement supposée avoir souillé le Temple -- déclenchant l'émeute qui mena à l'arrestation de Paul."
+    },
+    {
+      "character_id": "gaius",
+      "name": "Gaïus",
+      "intro": "Un hôte généreux de Paul et « de toute l'Église », dont on se souvient avec affection dans plusieurs lettres de Paul pour son hospitalité."
+    },
+    {
+      "character_id": "sosthenes",
+      "name": "Sosthène",
+      "intro": "Un chef de synagogue battu par une foule en colère devant un officiel romain indifférent -- et, très probablement, le même Sosthène que Paul appelle plus tard « frère » dans sa lettre aux Corinthiens."
     }
   ]
 }

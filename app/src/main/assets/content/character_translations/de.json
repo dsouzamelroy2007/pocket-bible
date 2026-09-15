@@ -1251,6 +1251,46 @@
       "character_id": "epaphroditus",
       "name": "Epaphroditus",
       "intro": "Ein Bote, den die Philipper sandten, um Paulus zu helfen, der bei diesem Bemühen fast an einer Krankheit starb und den Paulus dafür lobte, sein Leben aufs Spiel zu setzen, „um euren Mangel an Dienst auszugleichen\"."
+    },
+    {
+      "character_id": "phoebe",
+      "name": "Phöbe",
+      "intro": "Eine Diakonin der Kirche in Kenchreä, der Paulus anvertraute, seinen Brief an die Römer zu überbringen -- eben den Brief, der sie an seinem Ende namentlich nennt und lobt."
+    },
+    {
+      "character_id": "junia",
+      "name": "Junia",
+      "intro": "Von Paulus unter den Aposteln genannt, „angesehen unter den Aposteln\" und mit ihm gefangen -- ein bemerkenswertes, leicht zu übersehendes Detail in einem einzigen Grußvers."
+    },
+    {
+      "character_id": "andronicus",
+      "name": "Andronikus",
+      "intro": "Ein Verwandter des Paulus, zu irgendeinem Zeitpunkt mit ihm gefangen, und zusammen mit Junia genannt als angesehen unter den Aposteln und Gläubigen vor Paulus selbst."
+    },
+    {
+      "character_id": "erastus",
+      "name": "Erastus",
+      "intro": "Ein Stadtbeamter -- der Schatzmeister von Korinth --, der zusammen mit Paulus und Timotheus diente und in einem von Paulus' Schlussgrüßen in Erinnerung gehalten wird."
+    },
+    {
+      "character_id": "tychicus",
+      "name": "Tychikus",
+      "intro": "Ein vertrauenswürdiger Bote und „geliebter Bruder\", den Paulus sandte, um seine Briefe zu überbringen und Nachrichten von seinen eigenen Umständen zu mehreren Kirchen zu tragen."
+    },
+    {
+      "character_id": "trophimus",
+      "name": "Trophimus",
+      "intro": "Ein heidnischer Gefährte des Paulus, dessen Anwesenheit bei ihm in Jerusalem fälschlicherweise angenommen wurde, den Tempel entweiht zu haben -- was den Aufruhr auslöste, der zu Paulus' Verhaftung führte."
+    },
+    {
+      "character_id": "gaius",
+      "name": "Gaius",
+      "intro": "Ein großzügiger Gastgeber des Paulus und „der ganzen Gemeinde\", der in mehreren Briefen des Paulus liebevoll für seine Gastfreundschaft in Erinnerung gehalten wird."
+    },
+    {
+      "character_id": "sosthenes",
+      "name": "Sosthenes",
+      "intro": "Ein Synagogenvorsteher, der von einer wütenden Menge vor einem gleichgültigen römischen Beamten geschlagen wurde -- und höchstwahrscheinlich derselbe Sosthenes, den Paulus später in seinem Brief an die Korinther „Bruder\" nennt."
     }
   ]
 }

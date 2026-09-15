@@ -4661,6 +4661,101 @@
       "character_id": "epaphroditus",
       "position": 2,
       "caption": "Setzte sein Leben aufs Spiel, um zu vollenden, was die Philipper selbst nicht tun konnten"
+    },
+    {
+      "character_id": "phoebe",
+      "position": 0,
+      "caption": "„Eine Dienerin der Gemeinde zu Kenchreä\""
+    },
+    {
+      "character_id": "phoebe",
+      "position": 1,
+      "caption": "„Sie hat auch vielen und mir selbst geholfen\""
+    },
+    {
+      "character_id": "junia",
+      "position": 0,
+      "caption": "„Angesehen unter den Aposteln, die auch vor mir in Christus waren\""
+    },
+    {
+      "character_id": "andronicus",
+      "position": 0,
+      "caption": "„Meine Verwandten und meine Mitgefangenen ... in Christus vor mir\""
+    },
+    {
+      "character_id": "erastus",
+      "position": 0,
+      "caption": "Von Paulus vorausgesandt nach Mazedonien"
+    },
+    {
+      "character_id": "erastus",
+      "position": 1,
+      "caption": "„Der Stadtkämmerer\""
+    },
+    {
+      "character_id": "erastus",
+      "position": 2,
+      "caption": "Blieb in Korinth"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 0,
+      "caption": "Begleitet Paulus auf seiner Reise"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 1,
+      "caption": "Gesandt, um den Ephesern alles über Paulus' Angelegenheiten zu berichten"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 2,
+      "caption": "„Ein geliebter Bruder, ein treuer Diener\""
+    },
+    {
+      "character_id": "tychicus",
+      "position": 3,
+      "caption": "Gesandt, um Titus auf Kreta zu entlasten"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 0,
+      "caption": "Begleitet Paulus von Asien aus"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 1,
+      "caption": "Fälschlicherweise angenommen, in den Tempel gebracht worden zu sein"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 2,
+      "caption": "Krank in Milet zurückgelassen"
+    },
+    {
+      "character_id": "gaius",
+      "position": 0,
+      "caption": "Beim Aufruhr in Ephesus zusammen mit Aristarchus ergriffen"
+    },
+    {
+      "character_id": "gaius",
+      "position": 1,
+      "caption": "„Mein Gastgeber, und der ganzen Gemeinde\""
+    },
+    {
+      "character_id": "gaius",
+      "position": 2,
+      "caption": "Persönlich angesprochen: „der Geliebte, den ich in Wahrheit liebe\""
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 0,
+      "caption": "Vor dem Richterstuhl ergriffen und geschlagen"
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 1,
+      "caption": "Zusammen mit Paulus als Mitabsender des Briefes genannt: „Sosthenes, der Bruder\""
     }
   ]
 }

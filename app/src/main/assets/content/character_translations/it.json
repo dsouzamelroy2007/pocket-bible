@@ -1251,6 +1251,46 @@
       "character_id": "epaphroditus",
       "name": "Epafrodito",
       "intro": "Un messaggero inviato dai Filippesi per aiutare Paolo, che rischiò di morire di malattia in quello sforzo e che Paolo lodò per aver rischiato la vita \"per supplire alla vostra mancanza di servizio\"."
+    },
+    {
+      "character_id": "phoebe",
+      "name": "Febe",
+      "intro": "Una diaconessa della chiesa di Cencrea, a cui Paolo affidò il compito di portare la sua lettera ai Romani -- proprio la lettera che la nomina e la raccomanda alla fine."
+    },
+    {
+      "character_id": "junia",
+      "name": "Giunia",
+      "intro": "Nominata da Paolo tra gli apostoli, \"insigne tra gli apostoli\" e imprigionata insieme a lui -- un dettaglio sorprendente, facile da trascurare, in un unico versetto di saluto."
+    },
+    {
+      "character_id": "andronicus",
+      "name": "Andronico",
+      "intro": "Un parente di Paolo, imprigionato con lui in qualche momento, e nominato insieme a Giunia come insigne tra gli apostoli e credente prima dello stesso Paolo."
+    },
+    {
+      "character_id": "erastus",
+      "name": "Erasto",
+      "intro": "Un funzionario cittadino -- il tesoriere di Corinto -- che servì insieme a Paolo e Timoteo ed è ricordato in uno dei saluti finali di Paolo."
+    },
+    {
+      "character_id": "tychicus",
+      "name": "Tichico",
+      "intro": "Un corriere fidato e \"fratello amato\" che Paolo mandò per consegnare le sue lettere e portare notizie delle proprie circostanze a diverse chiese."
+    },
+    {
+      "character_id": "trophimus",
+      "name": "Trofimo",
+      "intro": "Un compagno gentile di Paolo la cui presenza con lui a Gerusalemme fu erroneamente ritenuta aver contaminato il Tempio -- scatenando la rivolta che portò all'arresto di Paolo."
+    },
+    {
+      "character_id": "gaius",
+      "name": "Gaio",
+      "intro": "Un ospite generoso di Paolo e \"di tutta la chiesa\", ricordato con affetto in diverse lettere di Paolo per la sua ospitalità."
+    },
+    {
+      "character_id": "sosthenes",
+      "name": "Sostene",
+      "intro": "Un capo della sinagoga picchiato da una folla inferocita davanti a un funzionario romano indifferente -- e, molto probabilmente, lo stesso Sostene che Paolo chiama più tardi \"fratello\" nella sua lettera ai Corinzi."
     }
   ]
 }

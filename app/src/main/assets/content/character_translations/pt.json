@@ -1251,6 +1251,46 @@
       "character_id": "epaphroditus",
       "name": "Epafrodito",
       "intro": "Um mensageiro enviado pelos filipenses para ajudar Paulo, que quase morreu de doença nesse esforço e a quem Paulo elogiou por arriscar a vida \"para suprir o que faltava em vosso serviço\"."
+    },
+    {
+      "character_id": "phoebe",
+      "name": "Febe",
+      "intro": "Uma diaconisa da igreja em Cencreia, a quem Paulo confiou a tarefa de levar sua carta aos romanos -- a mesma carta que a menciona e a recomenda em seu encerramento."
+    },
+    {
+      "character_id": "junia",
+      "name": "Júnia",
+      "intro": "Mencionada por Paulo entre os apóstolos, \"notável entre os apóstolos\" e presa junto com ele -- um detalhe marcante, facilmente esquecido, em um único versículo de saudação."
+    },
+    {
+      "character_id": "andronicus",
+      "name": "Andrônico",
+      "intro": "Um parente de Paulo, preso com ele em algum momento, e mencionado junto com Júnia como notável entre os apóstolos e crente antes do próprio Paulo."
+    },
+    {
+      "character_id": "erastus",
+      "name": "Erasto",
+      "intro": "Um funcionário da cidade -- o tesoureiro de Corinto -- que serviu ao lado de Paulo e Timóteo e é lembrado em uma das saudações finais de Paulo."
+    },
+    {
+      "character_id": "tychicus",
+      "name": "Tíquico",
+      "intro": "Um mensageiro de confiança e \"irmão amado\" que Paulo enviou para entregar suas cartas e levar notícias de suas próprias circunstâncias a várias igrejas."
+    },
+    {
+      "character_id": "trophimus",
+      "name": "Trófimo",
+      "intro": "Um companheiro gentio de Paulo cuja presença com ele em Jerusalém foi erroneamente presumida ter profanado o Templo -- desencadeando o tumulto que levou à prisão de Paulo."
+    },
+    {
+      "character_id": "gaius",
+      "name": "Gaio",
+      "intro": "Um anfitrião generoso de Paulo e \"de toda a igreja\", lembrado com carinho em várias cartas de Paulo por sua hospitalidade."
+    },
+    {
+      "character_id": "sosthenes",
+      "name": "Sóstenes",
+      "intro": "Um líder de sinagoga espancado por uma multidão furiosa diante de um oficial romano indiferente -- e, muito provavelmente, o mesmo Sóstenes a quem Paulo chama depois de \"irmão\" em sua carta aos Coríntios."
     }
   ]
 }
