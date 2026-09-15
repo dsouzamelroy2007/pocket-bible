@@ -971,6 +971,46 @@
       "character_id": "tamar-daughter-of-david",
       "name": "Tamar (filha de Davi)",
       "intro": "A filha de Davi, agredida por seu próprio meio-irmão Amnom -- um crime que a devastou, ficou impune por seu pai, e desencadeou a eventual rebelião de seu irmão Absalão."
+    },
+    {
+      "character_id": "rehoboam",
+      "name": "Roboão",
+      "intro": "O filho de Salomão, cuja resposta áspera e arrogante ao pedido de alívio do povo dividiu em dois o reino unido de Israel -- uma divisão que nunca se curou."
+    },
+    {
+      "character_id": "jeroboam",
+      "name": "Jeroboão",
+      "intro": "O primeiro rei do reino dissidente do norte, que ergueu bezerros de ouro em Dã e Betel para impedir seu povo de voltar a adorar em Jerusalém -- um pecado pelo qual os reis posteriores foram repetidamente medidos."
+    },
+    {
+      "character_id": "asa",
+      "name": "Asa",
+      "intro": "Um rei de Judá lembrado por remover ídolos e buscar reformas durante a maior parte de seu reinado -- embora em sua doença final tenha buscado médicos em vez do SENHOR."
+    },
+    {
+      "character_id": "jehoshaphat",
+      "name": "Josafá",
+      "intro": "Um rei de Judá que enviou professores por toda a terra para instruir o povo na Lei, e cuja oração diante de um exército esmagador -- \"não sabemos o que fazer, mas os nossos olhos estão postos em ti\" -- se tornou um dos exemplos mais claros das Escrituras de confiança em crise."
+    },
+    {
+      "character_id": "josiah",
+      "name": "Josias",
+      "intro": "Um rei que subiu ao trono aos oito anos e, ao ouvir o Livro da Lei há muito perdido ser lido em voz alta, rasgou suas vestes e liderou a mais completa reforma religiosa da história de Judá."
+    },
+    {
+      "character_id": "hezekiah",
+      "name": "Ezequias",
+      "intro": "Um rei de Judá que derrubou os santuários idólatras, sobreviveu a um cerco assírio levando a carta ameaçadora direto ao Templo para orar sobre ela, e recebeu mais quinze anos de vida após uma oração em lágrimas durante uma doença fatal."
+    },
+    {
+      "character_id": "manasseh-king",
+      "name": "Manassés (rei)",
+      "intro": "O rei de Judá que reinou por mais tempo, cujos cinquenta e cinco anos começaram com a pior idolatria e derramamento de sangue que o reino já havia visto -- e terminaram, depois que o cativeiro na Babilônia o humilhou, em genuíno arrependimento."
+    },
+    {
+      "character_id": "uzziah",
+      "name": "Uzias",
+      "intro": "Um rei lembrado por cinquenta e dois anos de verdadeiro sucesso -- até que o orgulho o levou a queimar incenso no Templo ele mesmo, um ato sacerdotal reservado apenas aos sacerdotes, e foi atingido pela lepra por isso."
     }
   ]
 }

@@ -971,6 +971,46 @@
       "character_id": "tamar-daughter-of-david",
       "name": "Tamar (fille de David)",
       "intro": "La fille de David, agressée par son propre demi-frère Amnon -- un crime qui la dévasta, resta impuni par son père, et mit en mouvement la rébellion éventuelle de son frère Absalom."
+    },
+    {
+      "character_id": "rehoboam",
+      "name": "Roboam",
+      "intro": "Le fils de Salomon, dont la réponse dure et arrogante à la demande d'allègement du peuple divisa en deux le royaume uni d'Israël -- une division qui ne guérit jamais."
+    },
+    {
+      "character_id": "jeroboam",
+      "name": "Jéroboam",
+      "intro": "Le premier roi du royaume dissident du nord, qui érigea des veaux d'or à Dan et à Béthel pour empêcher son peuple de retourner adorer à Jérusalem -- un péché auquel les rois suivants furent à maintes reprises mesurés."
+    },
+    {
+      "character_id": "asa",
+      "name": "Asa",
+      "intro": "Un roi de Juda dont on se souvient pour avoir supprimé les idoles et poursuivi la réforme pendant la majeure partie de son règne -- bien que dans sa dernière maladie il ait cherché des médecins plutôt que l'ÉTERNEL."
+    },
+    {
+      "character_id": "jehoshaphat",
+      "name": "Josaphat",
+      "intro": "Un roi de Juda qui envoya des enseignants dans tout le pays pour instruire le peuple dans la Loi, et dont la prière face à une armée écrasante -- « nous ne savons que faire, mais nos yeux sont sur toi » -- devint l'un des exemples les plus clairs de l'Écriture de confiance en temps de crise."
+    },
+    {
+      "character_id": "josiah",
+      "name": "Josias",
+      "intro": "Un roi qui monta sur le trône à l'âge de huit ans et, en entendant lire à haute voix le Livre de la Loi longtemps perdu, déchira ses vêtements et mena la réforme religieuse la plus profonde de l'histoire de Juda."
+    },
+    {
+      "character_id": "hezekiah",
+      "name": "Ézéchias",
+      "intro": "Un roi de Juda qui abattit les hauts lieux idolâtres, survécut à un siège assyrien en portant la lettre menaçante droit au Temple pour prier à son sujet, et se vit accorder quinze années de vie supplémentaires après une prière en larmes durant une maladie mortelle."
+    },
+    {
+      "character_id": "manasseh-king",
+      "name": "Manassé (roi)",
+      "intro": "Le roi de Juda qui régna le plus longtemps, dont les cinquante-cinq années commencèrent par la pire idolâtrie et le pire massacre que le royaume ait jamais connus -- et se terminèrent, après que la captivité à Babylone l'ait humilié, par un véritable repentir."
+    },
+    {
+      "character_id": "uzziah",
+      "name": "Ozias",
+      "intro": "Un roi dont on se souvient pour cinquante-deux années de véritable succès -- jusqu'à ce que l'orgueil le conduise à brûler lui-même de l'encens dans le Temple, un acte sacerdotal réservé aux seuls prêtres, et il fut frappé de lèpre pour cela."
     }
   ]
 }

@@ -971,6 +971,46 @@
       "character_id": "tamar-daughter-of-david",
       "name": "Tamar (Tochter Davids)",
       "intro": "Davids Tochter, von ihrem eigenen Halbbruder Amnon vergewaltigt -- ein Verbrechen, das sie verwüstete, von ihrem Vater ungestraft blieb und die spätere Rebellion ihres Bruders Absalom in Gang setzte."
+    },
+    {
+      "character_id": "rehoboam",
+      "name": "Rehabeam",
+      "intro": "Salomos Sohn, dessen harte, arrogante Antwort auf die Bitte des Volkes um Erleichterung das vereinte Königreich Israel in zwei Teile spaltete -- eine Trennung, die nie heilte."
+    },
+    {
+      "character_id": "jeroboam",
+      "name": "Jerobeam",
+      "intro": "Der erste König des abtrünnigen Nordreichs, der in Dan und Bethel goldene Kälber aufstellte, um sein Volk davon abzuhalten, zur Anbetung nach Jerusalem zurückzukehren -- eine Sünde, an der spätere Könige wiederholt gemessen wurden."
+    },
+    {
+      "character_id": "asa",
+      "name": "Asa",
+      "intro": "Ein König von Juda, der dafür in Erinnerung bleibt, Götzen zu entfernen und den größten Teil seiner Regierungszeit Reformen zu verfolgen -- obwohl er in seiner letzten Krankheit Ärzte anstelle des HERRN suchte."
+    },
+    {
+      "character_id": "jehoshaphat",
+      "name": "Josaphat",
+      "intro": "Ein König von Juda, der Lehrer im ganzen Land aussandte, um das Volk im Gesetz zu unterrichten, und dessen Gebet vor einem überwältigenden Heer -- „wir wissen nicht, was wir tun sollen, aber unsere Augen sind auf dich gerichtet\" -- eines der klarsten Beispiele der Schrift für Vertrauen in der Krise wurde."
+    },
+    {
+      "character_id": "josiah",
+      "name": "Josia",
+      "intro": "Ein König, der im Alter von acht Jahren den Thron bestieg und, als er das lange verlorene Buch des Gesetzes vorlesen hörte, seine Gewänder zerriss und die gründlichste religiöse Reform in der Geschichte Judas anführte."
+    },
+    {
+      "character_id": "hezekiah",
+      "name": "Hiskia",
+      "intro": "Ein König von Juda, der götzendienerische Heiligtümer niederriss, eine assyrische Belagerung überlebte, indem er den bedrohlichen Brief direkt in den Tempel brachte, um darüber zu beten, und dem fünfzehn weitere Lebensjahre gewährt wurden nach einem tränenreichen Gebet während einer tödlichen Krankheit."
+    },
+    {
+      "character_id": "manasseh-king",
+      "name": "Manasse (König)",
+      "intro": "Judas am längsten regierender König, dessen fünfundfünfzig Jahre mit der schlimmsten Götzenanbetung und dem schlimmsten Blutvergießen begannen, das das Königreich je gesehen hatte -- und, nachdem Gefangenschaft in Babylon ihn gedemütigt hatte, in echter Reue endeten."
+    },
+    {
+      "character_id": "uzziah",
+      "name": "Usija",
+      "intro": "Ein König, der für zweiundfünfzig Jahre echten Erfolg in Erinnerung bleibt -- bis Stolz ihn dazu brachte, selbst Weihrauch im Tempel zu verbrennen, eine priesterliche Handlung, die allein den Priestern vorbehalten war, und er dafür mit Aussatz geschlagen wurde."
     }
   ]
 }

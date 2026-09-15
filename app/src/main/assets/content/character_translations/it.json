@@ -971,6 +971,46 @@
       "character_id": "tamar-daughter-of-david",
       "name": "Tamar (figlia di Davide)",
       "intro": "La figlia di Davide, violentata dal proprio fratellastro Amnon -- un crimine che la devastò, rimase impunito dal padre, e mise in moto l'eventuale ribellione di suo fratello Assalonne."
+    },
+    {
+      "character_id": "rehoboam",
+      "name": "Roboamo",
+      "intro": "Il figlio di Salomone, la cui risposta dura e arrogante alla richiesta di sollievo del popolo divise in due il regno unito d'Israele -- una divisione che non guarì mai."
+    },
+    {
+      "character_id": "jeroboam",
+      "name": "Geroboamo",
+      "intro": "Il primo re del regno settentrionale scissionista, che eresse vitelli d'oro a Dan e Betel per impedire al suo popolo di tornare ad adorare a Gerusalemme -- un peccato con cui i re successivi furono ripetutamente misurati."
+    },
+    {
+      "character_id": "asa",
+      "name": "Asa",
+      "intro": "Un re di Giuda ricordato per aver rimosso gli idoli e perseguito la riforma per la maggior parte del suo regno -- sebbene nella sua ultima malattia cercasse medici invece del SIGNORE."
+    },
+    {
+      "character_id": "jehoshaphat",
+      "name": "Giosafat",
+      "intro": "Un re di Giuda che mandò insegnanti in tutto il paese per istruire il popolo nella Legge, e la cui preghiera davanti a un esercito schiacciante -- \"non sappiamo che fare, ma i nostri occhi sono su di te\" -- divenne uno degli esempi più chiari delle Scritture di fiducia nella crisi."
+    },
+    {
+      "character_id": "josiah",
+      "name": "Giosia",
+      "intro": "Un re che salì al trono all'età di otto anni e, udendo leggere il Libro della Legge da lungo tempo perduto, si stracciò le vesti e guidò la riforma religiosa più profonda nella storia di Giuda."
+    },
+    {
+      "character_id": "hezekiah",
+      "name": "Ezechia",
+      "intro": "Un re di Giuda che abbatté i luoghi alti idolatrici, sopravvisse a un assedio assiro portando la lettera minacciosa direttamente nel Tempio per pregare su di essa, e a cui furono concessi quindici anni di vita in più dopo una preghiera in lacrime durante una malattia mortale."
+    },
+    {
+      "character_id": "manasseh-king",
+      "name": "Manasse (re)",
+      "intro": "Il re di Giuda che regnò più a lungo, i cui cinquantacinque anni iniziarono con la peggiore idolatria e spargimento di sangue che il regno avesse mai visto -- e terminarono, dopo che la prigionia a Babilonia lo umiliò, in un genuino pentimento."
+    },
+    {
+      "character_id": "uzziah",
+      "name": "Uzzia",
+      "intro": "Un re ricordato per cinquantadue anni di vero successo -- finché l'orgoglio non lo portò a bruciare incenso nel Tempio da solo, un atto sacerdotale riservato ai soli sacerdoti, e fu colpito dalla lebbra per questo."
     }
   ]
 }

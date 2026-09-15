@@ -3621,6 +3621,166 @@
       "character_id": "tamar-daughter-of-david",
       "position": 3,
       "caption": "Vive desolata nella casa di suo fratello Assalonne"
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 0,
+      "caption": "Rifiuta il consiglio degli anziani a favore di quello dei suoi amici"
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 1,
+      "caption": "\"Mio padre vi ha castigati con fruste, ma io vi castigherò con scorpioni\""
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 2,
+      "caption": "La risposta di Israele: \"Alle tue tende, Israele!\""
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 3,
+      "caption": "Israele si ribella alla casa di Davide \"fino ad oggi\""
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 0,
+      "caption": "Teme che il popolo restituisca la sua fedeltà a Gerusalemme"
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 1,
+      "caption": "Fa due vitelli d'oro: \"Ecco i tuoi dèi, Israele\""
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 2,
+      "caption": "Continua nella sua via malvagia nonostante l'avvertimento di un profeta"
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 3,
+      "caption": "La successiva caduta di Israele attribuita ai \"peccati di Geroboamo\""
+    },
+    {
+      "character_id": "asa",
+      "position": 0,
+      "caption": "\"Fece ciò che è retto agli occhi del SIGNORE\""
+    },
+    {
+      "character_id": "asa",
+      "position": 1,
+      "caption": "Prega prima della battaglia: \"noi confidiamo in te\""
+    },
+    {
+      "character_id": "asa",
+      "position": 2,
+      "caption": "Rimuove gli idoli in tutto il paese"
+    },
+    {
+      "character_id": "asa",
+      "position": 3,
+      "caption": "Nella sua malattia, \"non cercò il SIGNORE, ma i medici\""
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 0,
+      "caption": "Manda funzionari a insegnare la Legge in tutta Giuda"
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 1,
+      "caption": "\"Non sappiamo che fare, ma i nostri occhi sono su di te\""
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 2,
+      "caption": "\"La battaglia non è vostra, ma di Dio\""
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 3,
+      "caption": "Il nemico distrutto prima ancora che Giuda debba combattere"
+    },
+    {
+      "character_id": "josiah",
+      "position": 0,
+      "caption": "Il Libro della Legge trovato durante i lavori di riparazione del Tempio"
+    },
+    {
+      "character_id": "josiah",
+      "position": 1,
+      "caption": "Si straccia le vesti nell'udirlo leggere"
+    },
+    {
+      "character_id": "josiah",
+      "position": 2,
+      "caption": "Rinnova il patto davanti a tutto il popolo"
+    },
+    {
+      "character_id": "josiah",
+      "position": 3,
+      "caption": "\"Non ci fu re simile a lui... che si rivolse al SIGNORE con tutto il cuore\""
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 0,
+      "caption": "\"Egli confidò nel SIGNORE... nessuno fu simile a lui fra tutti i re\""
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 1,
+      "caption": "Stende davanti al SIGNORE la lettera minacciosa di Sennacherib"
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 2,
+      "caption": "Piange e prega quando gli viene detto che morirà"
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 3,
+      "caption": "Concessi quindici anni di vita in più"
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 0,
+      "caption": "\"Fece ciò che è male agli occhi del SIGNORE\""
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 1,
+      "caption": "Riempie Gerusalemme di sangue innocente"
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 2,
+      "caption": "Si umilia grandemente davanti al Dio dei suoi padri"
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 3,
+      "caption": "Dio si lascia supplicare da lui e ascolta la sua supplica"
+    },
+    {
+      "character_id": "uzziah",
+      "position": 0,
+      "caption": "\"Finché cercò il SIGNORE, Dio lo fece prosperare\""
+    },
+    {
+      "character_id": "uzziah",
+      "position": 1,
+      "caption": "\"Quando fu diventato forte, il suo cuore si insuperbì... per sua rovina\""
+    },
+    {
+      "character_id": "uzziah",
+      "position": 2,
+      "caption": "I sacerdoti lo affrontano: bruciare incenso non spetta a lui"
+    },
+    {
+      "character_id": "uzziah",
+      "position": 3,
+      "caption": "Colpito immediatamente dalla lebbra, per il resto della sua vita"
     }
   ]
 }

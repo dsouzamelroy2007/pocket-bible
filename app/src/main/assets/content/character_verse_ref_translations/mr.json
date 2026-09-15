@@ -3621,6 +3621,166 @@
       "character_id": "tamar-daughter-of-david",
       "position": 3,
       "caption": "आपल्या भाऊ अबशालोमच्या घरात उदास जीवन जगते"
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 0,
+      "caption": "वडीलधाऱ्यांचा सल्ला नाकारून त्याऐवजी आपल्या मित्रांचा सल्ला घेतो"
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 1,
+      "caption": "\"माझ्या वडिलांनी तुम्हाला चाबकांनी शिक्षा केली, पण मी तुम्हाला विंचवांनी शिक्षा करीन\""
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 2,
+      "caption": "इस्राएलचा प्रतिसाद: \"हे इस्राएला, आपापल्या तंबूकडे जा!\""
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 3,
+      "caption": "इस्राएल \"आजपर्यंत\" दावीदाच्या घराण्याविरुद्ध बंड करत आहे"
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 0,
+      "caption": "लोक आपली निष्ठा यरुशलेमकडे परत नेतील अशी भीती वाटते"
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 1,
+      "caption": "दोन सोन्याची वासरे बनवतो: \"हे इस्राएला, हे तुझे देव पाहा\""
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 2,
+      "caption": "संदेष्ट्याच्या इशाऱ्यानंतरही आपल्या दुष्ट मार्गावर चालत राहतो"
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 3,
+      "caption": "इस्राएलचे नंतरचे पतन \"यराबामाच्या पापांना\" दिले जाते"
+    },
+    {
+      "character_id": "asa",
+      "position": 0,
+      "caption": "\"परमेश्वराच्या दृष्टीने जे योग्य ते केले\""
+    },
+    {
+      "character_id": "asa",
+      "position": 1,
+      "caption": "लढाईपूर्वी प्रार्थना करतो: \"आम्ही तुझ्यावर विसंबून आहोत\""
+    },
+    {
+      "character_id": "asa",
+      "position": 2,
+      "caption": "संपूर्ण देशात मूर्ती काढून टाकतो"
+    },
+    {
+      "character_id": "asa",
+      "position": 3,
+      "caption": "आपल्या आजारपणात, \"परमेश्वराचा नाही तर वैद्यांचा शोध घेतला\""
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 0,
+      "caption": "संपूर्ण यहूदात नियमशास्त्र शिकवण्यासाठी अधिकारी पाठवतो"
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 1,
+      "caption": "\"आम्हाला काय करावे ते कळत नाही, पण आमचे डोळे तुझ्याकडे लागले आहेत\""
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 2,
+      "caption": "\"ही लढाई तुमची नाही, तर देवाची आहे\""
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 3,
+      "caption": "यहूदाला लढावेही लागण्याआधी शत्रू नष्ट होतो"
+    },
+    {
+      "character_id": "josiah",
+      "position": 0,
+      "caption": "मंदिराच्या दुरुस्तीदरम्यान नियमशास्त्राचे पुस्तक सापडते"
+    },
+    {
+      "character_id": "josiah",
+      "position": 1,
+      "caption": "ते वाचले जाताना ऐकून आपली वस्त्रे फाडतो"
+    },
+    {
+      "character_id": "josiah",
+      "position": 2,
+      "caption": "सर्व लोकांसमोर कराराचे नूतनीकरण करतो"
+    },
+    {
+      "character_id": "josiah",
+      "position": 3,
+      "caption": "\"त्याच्यासारखा कोणी राजा नव्हता... जो आपल्या पूर्ण अंतःकरणाने परमेश्वराकडे वळला\""
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 0,
+      "caption": "\"त्याने परमेश्वरावर भरवसा ठेवला... सर्व राजांमध्ये त्याच्यासारखा कोणी नव्हता\""
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 1,
+      "caption": "परमेश्वरासमोर सन्हेरीबचे धमकीचे पत्र पसरतो"
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 2,
+      "caption": "तो मरणार आहे असे सांगितल्यावर रडतो आणि प्रार्थना करतो"
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 3,
+      "caption": "आणखी पंधरा वर्षे आयुष्य दिले गेले"
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 0,
+      "caption": "\"परमेश्वराच्या दृष्टीने जे वाईट ते केले\""
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 1,
+      "caption": "यरुशलेमला निष्पाप रक्ताने भरतो"
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 2,
+      "caption": "आपल्या पूर्वजांच्या देवासमोर स्वतःला अत्यंत नमवतो"
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 3,
+      "caption": "देव त्याची विनवणी मान्य करतो आणि त्याची प्रार्थना ऐकतो"
+    },
+    {
+      "character_id": "uzziah",
+      "position": 0,
+      "caption": "\"जोपर्यंत तो परमेश्वराचा शोध घेत राहिला, देवाने त्याला समृद्ध केले\""
+    },
+    {
+      "character_id": "uzziah",
+      "position": 1,
+      "caption": "\"जेव्हा तो बलवान झाला, तेव्हा त्याचे मन गर्विष्ठ झाले... स्वतःच्या नाशासाठी\""
+    },
+    {
+      "character_id": "uzziah",
+      "position": 2,
+      "caption": "याजक त्याचा सामना करतात: धूप जाळणे त्याचे काम नाही"
+    },
+    {
+      "character_id": "uzziah",
+      "position": 3,
+      "caption": "तात्काळ कुष्ठरोगाने ग्रासला, आपल्या उर्वरित आयुष्यभर"
     }
   ]
 }
