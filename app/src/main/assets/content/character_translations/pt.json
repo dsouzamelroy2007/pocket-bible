@@ -1171,6 +1171,46 @@
       "character_id": "the-ten-lepers",
       "name": "Os dez leprosos",
       "intro": "Dez homens com lepra, curados juntos pela palavra de Jesus enquanto iam mostrar-se aos sacerdotes -- embora apenas um, um samaritano, tenha voltado para agradecer."
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "name": "A mulher pecadora que ungiu Jesus",
+      "intro": "Uma mulher conhecida na cidade por seu pecado, que chorou aos pés de Jesus, enxugou-os com seus cabelos, e os ungiu com perfume caro -- um ato extravagante de amor que Jesus disse provar quanto lhe fora perdoado."
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "name": "Salomé (mãe dos filhos de Zebedeu)",
+      "intro": "A mãe de Tiago e João, que pediu a Jesus que sentasse seus filhos à sua direita e à sua esquerda em seu reino -- e que permaneceu junto à cruz e ao sepulcro vazio, quando aquele pedido havia há muito cedido lugar ao luto."
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "name": "Maria, mãe de Tiago",
+      "intro": "Uma das mulheres que seguiram Jesus desde a Galileia, permaneceram junto à cruz, e vieram ao sepulcro vazio na primeira manhã de Páscoa."
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "name": "O endemoninhado de Gerasa",
+      "intro": "Um homem possuído por tantos demônios que se chamava \"Legião\", vivendo entre os túmulos e impossível de conter -- libertado por Jesus num instante, e encontrado depois sentado calmamente, vestido e em perfeito juízo."
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "name": "Os pastores de Belém",
+      "intro": "Pastores vigiando seus rebanhos à noite, os primeiros a ouvir o anúncio dos anjos do nascimento de Jesus -- e os primeiros a ir apressadamente vê-lo por si mesmos."
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "name": "Ananias e Safira",
+      "intro": "Um marido e uma esposa na igreja primitiva que venderam uma propriedade, secretamente guardaram parte do valor, e mentiram aos apóstolos dizendo que haviam dado tudo -- e ambos morreram na hora quando Pedro expôs a mentira."
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "name": "Ananias de Damasco",
+      "intro": "Um discípulo em Damasco, compreensivelmente temeroso do homem que perseguira os cristãos, que ainda assim obedeceu ao chamado de Deus para ir impor as mãos sobre Saulo -- restaurando sua visão e acolhendo-o na igreja."
+    },
+    {
+      "character_id": "gamaliel",
+      "name": "Gamaliel",
+      "intro": "Um fariseu respeitado e mestre da Lei -- na verdade, o próprio mestre de Paulo -- cujo conselho cauteloso e ponderado ao Sinédrio talvez tenha poupado a vida dos apóstolos."
     }
   ]
 }

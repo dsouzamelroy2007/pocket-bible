@@ -4371,6 +4371,156 @@
       "character_id": "the-ten-lepers",
       "position": 3,
       "caption": "\"दहाही शुद्ध झाले नाहीत का? नऊ कुठे आहेत?\""
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 0,
+      "caption": "त्याच्या पायांशी रडते, त्यांना आपल्या केसांनी पुसते, त्यांना अभिषेक करते"
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 1,
+      "caption": "तिच्या यजमानाच्या मूलभूत आदरातिथ्याच्या अभावाशी विरोधाभास"
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 2,
+      "caption": "\"तिची पापे, जी पुष्कळ आहेत, क्षमा झाली आहेत, कारण तिने खूप प्रेम केले\""
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 3,
+      "caption": "\"तुझ्या विश्वासाने तुला वाचवले आहे. शांतीने जा\""
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 0,
+      "caption": "येशूला आपल्या पुत्रांना त्याच्या उजव्या आणि डाव्या हाताला बसवण्याची विनंती करते"
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 1,
+      "caption": "येशू: \"तुम्ही काय मागत आहात हे तुम्हाला माहीत नाही\""
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 2,
+      "caption": "वधस्तंभावर उपस्थित, दुरून पाहत"
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 3,
+      "caption": "ईस्टरच्या सकाळी सुगंधी द्रव्यांसह कबरीकडे येते"
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "position": 0,
+      "caption": "वधस्तंभावर उपस्थित, दुरून पाहत"
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "position": 1,
+      "caption": "सुगंधी द्रव्यांसह कबरीकडे येते"
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "position": 2,
+      "caption": "अकरा प्रेषितांना रिकाम्या कबरीबद्दल सांगते"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 0,
+      "caption": "कबरींमध्ये राहत होता; कोणतीही साखळी त्याला बांधू शकत नव्हती"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 1,
+      "caption": "\"माझे नाव सैन्य आहे, कारण आम्ही पुष्कळ आहोत\""
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 2,
+      "caption": "\"बसलेला, कपडे घातलेला, आणि शुद्धीत\" सापडला"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 3,
+      "caption": "त्याऐवजी घरी पाठवला: \"प्रभूने तुझ्यासाठी किती मोठ्या गोष्टी केल्या आहेत ते त्यांना सांग\""
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 0,
+      "caption": "प्रभूचे तेज त्यांच्याभोवती चमकते; ते घाबरून जातात"
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 1,
+      "caption": "\"मी तुम्हांला मोठ्या आनंदाची सुवार्ता सांगतो... एक तारणारा... ख्रिस्त प्रभू\""
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 2,
+      "caption": "\"चला, बेथलेहेमला जाऊया, आणि जे घडले आहे ते पाहूया\""
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 3,
+      "caption": "जे काही ऐकले आणि पाहिले त्याबद्दल देवाचे गौरव आणि स्तुती करत परततात"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 0,
+      "caption": "मालमत्ता विकतात, गुपचूप उत्पन्नाचा काही भाग राखून ठेवतात"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 1,
+      "caption": "पेत्र: \"सैतानाने तुझे मन असे का भरले की तू पवित्र आत्म्याशी खोटे बोलावेस?\""
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 2,
+      "caption": "हे ऐकून हनन्या खाली पडतो आणि मरतो"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 3,
+      "caption": "सफीरा तेच खोटे पुन्हा सांगते, आणि त्याच प्रकारे मरते"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 0,
+      "caption": "आक्षेप घेतो: त्याने या माणसाच्या प्रतिष्ठेबद्दल ऐकले आहे"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 1,
+      "caption": "शौल हे देवाचे \"निवडलेले साधन\" आहे असे सांगितले जाते"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 2,
+      "caption": "शौलावर हात ठेवतो, त्याला \"बंधू\" म्हणतो"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 3,
+      "caption": "शौलाच्या डोळ्यांतून खवले पडतात; त्याचा बाप्तिस्मा होतो"
+    },
+    {
+      "character_id": "gamaliel",
+      "position": 0,
+      "caption": "एक शिक्षक, \"सर्व लोकांमध्ये आदरणीय\""
+    },
+    {
+      "character_id": "gamaliel",
+      "position": 1,
+      "caption": "\"जर ही योजना माणसांकडून असेल, तर ती नष्ट होईल; पण जर ती देवाकडून असेल, तर तुम्ही ती नष्ट करू शकणार नाही\""
+    },
+    {
+      "character_id": "gamaliel",
+      "position": 2,
+      "caption": "पौल नंतर त्याचे नाव \"गमलीएलच्या पायाशी\" शिक्षक म्हणून घेतो"
     }
   ]
 }

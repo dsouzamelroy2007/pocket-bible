@@ -4371,6 +4371,156 @@
       "character_id": "the-ten-lepers",
       "position": 3,
       "caption": "« N'y en a-t-il pas dix qui ont été guéris ? Où sont les neuf autres ? »"
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 0,
+      "caption": "Pleure à ses pieds, les essuie avec ses cheveux, les oint"
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 1,
+      "caption": "Contrastée avec le manque de courtoisie élémentaire de son hôte"
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 2,
+      "caption": "« Ses péchés, qui sont nombreux, lui sont pardonnés, car elle a beaucoup aimé »"
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 3,
+      "caption": "« Ta foi t'a sauvée. Va en paix »"
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 0,
+      "caption": "Demande à Jésus d'asseoir ses fils à sa droite et à sa gauche"
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 1,
+      "caption": "Jésus : « Vous ne savez ce que vous demandez »"
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 2,
+      "caption": "Présente à la crucifixion, observant de loin"
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 3,
+      "caption": "Vient au tombeau avec des aromates le matin de Pâques"
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "position": 0,
+      "caption": "Présente à la crucifixion, observant de loin"
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "position": 1,
+      "caption": "Vient au tombeau avec des aromates"
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "position": 2,
+      "caption": "Rapporte le tombeau vide aux onze apôtres"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 0,
+      "caption": "Vivait parmi les tombeaux ; aucune chaîne ne pouvait le lier"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 1,
+      "caption": "« Mon nom est Légion, car nous sommes plusieurs »"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 2,
+      "caption": "Trouvé « assis, vêtu, et dans son bon sens »"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 3,
+      "caption": "Renvoyé chez lui à la place : « raconte-leur les grandes choses que le Seigneur t'a faites »"
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 0,
+      "caption": "La gloire du Seigneur resplendit autour d'eux ; ils sont terrifiés"
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 1,
+      "caption": "« Je vous annonce une bonne nouvelle qui sera pour un grand sujet de joie... un Sauveur... le Christ, le Seigneur »"
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 2,
+      "caption": "« Allons jusqu'à Bethléem, et voyons cette chose qui est arrivée »"
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 3,
+      "caption": "Reviennent glorifiant et louant Dieu pour tout ce qu'ils avaient entendu et vu"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 0,
+      "caption": "Vendent une propriété, en gardent secrètement une partie du produit"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 1,
+      "caption": "Pierre : « pourquoi Satan a-t-il rempli ton cœur, au point de mentir au Saint-Esprit ? »"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 2,
+      "caption": "Ananias tombe et meurt en entendant cela"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 3,
+      "caption": "Saphira répète le mensonge, et meurt de la même manière"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 0,
+      "caption": "Objecte : il a entendu parler de la réputation de cet homme"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 1,
+      "caption": "Il lui est dit que Saul est « l'instrument choisi » de Dieu"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 2,
+      "caption": "Impose les mains à Saul, l'appelle « frère »"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 3,
+      "caption": "Des écailles tombent des yeux de Saul ; il est baptisé"
+    },
+    {
+      "character_id": "gamaliel",
+      "position": 0,
+      "caption": "Un docteur « estimé de tout le peuple »"
+    },
+    {
+      "character_id": "gamaliel",
+      "position": 1,
+      "caption": "« Si cette entreprise vient des hommes, elle se détruira ; mais si elle vient de Dieu, vous ne pourrez la détruire »"
+    },
+    {
+      "character_id": "gamaliel",
+      "position": 2,
+      "caption": "Paul le nomme plus tard comme le maître « aux pieds de Gamaliel »"
     }
   ]
 }

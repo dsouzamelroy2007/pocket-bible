@@ -1171,6 +1171,46 @@
       "character_id": "the-ten-lepers",
       "name": "I dieci lebbrosi",
       "intro": "Dieci uomini affetti da lebbra, guariti insieme sulla parola di Gesù mentre andavano a mostrarsi ai sacerdoti -- sebbene solo uno, un samaritano, tornò a ringraziare."
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "name": "La peccatrice che unse Gesù",
+      "intro": "Una donna conosciuta in città per il suo peccato, che pianse ai piedi di Gesù, li asciugò con i suoi capelli, e li unse con profumo costoso -- un atto d'amore straordinario che Gesù disse dimostrasse quanto le fosse stato perdonato."
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "name": "Salome (madre dei figli di Zebedeo)",
+      "intro": "La madre di Giacomo e Giovanni, che chiese a Gesù di far sedere i suoi figli alla sua destra e alla sua sinistra nel suo regno -- e che rimase presso la croce e la tomba vuota, quando quella richiesta aveva da tempo lasciato spazio al dolore."
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "name": "Maria, madre di Giacomo",
+      "intro": "Una delle donne che seguirono Gesù dalla Galilea, rimasero presso la croce, e vennero alla tomba vuota nella prima mattina di Pasqua."
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "name": "L'indemoniato geraseno",
+      "intro": "Un uomo posseduto da così tanti demoni da chiamarsi \"Legione\", che viveva tra le tombe e non poteva essere trattenuto -- liberato da Gesù in un istante, e trovato in seguito seduto tranquillamente, vestito e in perfetto senno."
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "name": "I pastori di Betlemme",
+      "intro": "Pastori che vegliavano i loro greggi di notte, i primi a udire l'annuncio degli angeli della nascita di Gesù -- e i primi ad andare, in fretta, a vederlo di persona."
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "name": "Anania e Saffira",
+      "intro": "Un marito e una moglie della chiesa primitiva che vendettero una proprietà, ne trattennero segretamente parte del ricavato, e mentirono agli apostoli dicendo di aver dato tutto -- ed entrambi morirono sul posto quando Pietro smascherò la menzogna."
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "name": "Anania di Damasco",
+      "intro": "Un discepolo a Damasco, comprensibilmente spaventato dall'uomo che aveva perseguitato i cristiani, che tuttavia obbedì alla chiamata di Dio di andare a imporre le mani su Saulo -- restituendogli la vista e accogliendolo nella chiesa."
+    },
+    {
+      "character_id": "gamaliel",
+      "name": "Gamaliele",
+      "intro": "Un fariseo rispettato e dottore della Legge -- in effetti il maestro stesso di Paolo -- il cui consiglio cauto ed equilibrato al Sinedrio potrebbe aver risparmiato la vita degli apostoli."
     }
   ]
 }

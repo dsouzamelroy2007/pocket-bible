@@ -1171,6 +1171,46 @@
       "character_id": "the-ten-lepers",
       "name": "Die zehn Aussätzigen",
       "intro": "Zehn aussätzige Männer, die auf Jesu Wort hin gemeinsam geheilt wurden, während sie unterwegs waren, sich den Priestern zu zeigen -- doch nur einer, ein Samariter, kehrte zurück, um zu danken."
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "name": "Die sündige Frau, die Jesus salbte",
+      "intro": "Eine Frau, die in der Stadt für ihre Sünde bekannt war, die zu Jesu Füßen weinte, sie mit ihrem Haar abwischte und mit kostbarem Salböl salbte -- eine großzügige Liebestat, die nach Jesu Worten bewies, wie viel ihr vergeben worden war."
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "name": "Salome (Mutter der Söhne des Zebedäus)",
+      "intro": "Die Mutter von Jakobus und Johannes, die Jesus bat, ihre Söhne in seinem Reich zu seiner Rechten und Linken sitzen zu lassen -- und die am Kreuz und am leeren Grab stand, als diese Bitte längst der Trauer gewichen war."
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "name": "Maria, Mutter des Jakobus",
+      "intro": "Eine der Frauen, die Jesus aus Galiläa folgten, am Kreuz standen und am ersten Ostermorgen zum leeren Grab kamen."
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "name": "Der Besessene von Gerasa",
+      "intro": "Ein Mann, der von so vielen Dämonen besessen war, dass er sich selbst „Legion\" nannte, der unter Gräbern lebte und nicht gebändigt werden konnte -- von Jesus in einem Augenblick befreit, und danach ruhig sitzend, bekleidet und bei klarem Verstand vorgefunden."
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "name": "Die Hirten von Bethlehem",
+      "intro": "Hirten, die nachts ihre Herden hüteten, die ersten, die die Verkündigung der Engel von Jesu Geburt hörten -- und die ersten, die eilends gingen, um es selbst zu sehen."
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "name": "Ananias und Saphira",
+      "intro": "Ein Ehepaar in der frühen Kirche, das Grundbesitz verkaufte, heimlich einen Teil des Erlöses zurückbehielt und den Aposteln vorlog, alles gegeben zu haben -- und beide starben auf der Stelle, als Petrus die Lüge aufdeckte."
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "name": "Ananias von Damaskus",
+      "intro": "Ein Jünger in Damaskus, verständlicherweise ängstlich vor dem Mann, der Christen verfolgt hatte, der Gottes Ruf gehorchte, Saulus dennoch die Hände aufzulegen -- und dabei sein Augenlicht wiederherstellte und ihn in die Kirche willkommen hieß."
+    },
+    {
+      "character_id": "gamaliel",
+      "name": "Gamaliel",
+      "intro": "Ein angesehener Pharisäer und Gesetzeslehrer -- tatsächlich Paulus' eigener Lehrer --, dessen vorsichtiger, besonnener Rat an den Sanhedrin möglicherweise das Leben der Apostel rettete."
     }
   ]
 }

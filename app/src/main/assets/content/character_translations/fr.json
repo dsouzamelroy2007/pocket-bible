@@ -1171,6 +1171,46 @@
       "character_id": "the-ten-lepers",
       "name": "Les dix lépreux",
       "intro": "Dix hommes atteints de lèpre, guéris ensemble sur la parole de Jésus alors qu'ils allaient se montrer aux prêtres -- bien qu'un seul, un Samaritain, revint pour rendre grâces."
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "name": "La femme pécheresse qui oignit Jésus",
+      "intro": "Une femme connue dans la ville pour son péché, qui pleura aux pieds de Jésus, les essuya avec ses cheveux, et les oignit d'un parfum coûteux -- un acte d'amour extravagant dont Jésus dit qu'il prouvait combien elle avait été pardonnée."
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "name": "Salomé (mère des fils de Zébédée)",
+      "intro": "La mère de Jacques et Jean, qui demanda à Jésus d'asseoir ses fils à sa droite et à sa gauche dans son royaume -- et qui se tint à la croix et au tombeau vide, quand cette demande avait depuis longtemps cédé la place au deuil."
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "name": "Marie, mère de Jacques",
+      "intro": "Une des femmes qui suivirent Jésus depuis la Galilée, se tinrent à la croix, et vinrent au tombeau vide le premier matin de Pâques."
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "name": "Le démoniaque de Gérasa",
+      "intro": "Un homme possédé par tant de démons qu'il s'appelait lui-même « Légion », vivant parmi les tombeaux et impossible à maîtriser -- libéré par Jésus en un instant, et retrouvé ensuite assis calmement, vêtu et dans son bon sens."
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "name": "Les bergers de Bethléem",
+      "intro": "Des bergers gardant leurs troupeaux la nuit, les premiers à entendre l'annonce des anges de la naissance de Jésus -- et les premiers à se hâter pour le voir eux-mêmes."
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "name": "Ananias et Saphira",
+      "intro": "Un mari et une femme de l'Église primitive qui vendirent une propriété, en gardèrent secrètement une partie du produit, et mentirent aux apôtres en disant qu'ils avaient tout donné -- et tous deux moururent sur-le-champ quand Pierre dévoila le mensonge."
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "name": "Ananias de Damas",
+      "intro": "Un disciple à Damas, compréhensiblement effrayé par l'homme qui avait persécuté les chrétiens, qui obéit néanmoins à l'appel de Dieu d'aller imposer les mains à Saul -- lui rendant la vue et l'accueillant dans l'Église."
+    },
+    {
+      "character_id": "gamaliel",
+      "name": "Gamaliel",
+      "intro": "Un pharisien respecté et docteur de la Loi -- le propre maître de Paul, en fait -- dont le conseil prudent et équilibré au Sanhédrin épargna peut-être la vie des apôtres."
     }
   ]
 }
