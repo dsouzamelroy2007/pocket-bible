@@ -3156,6 +3156,156 @@
       "character_id": "achan",
       "position": 2,
       "caption": "इस्राएल को संकट में डालने के लिए न्याय किया गया"
+    },
+    {
+      "character_id": "othniel",
+      "position": 0,
+      "caption": "एक नगर पर विजय पाकर कालेब की पुत्री अकसा को जीतता है"
+    },
+    {
+      "character_id": "othniel",
+      "position": 1,
+      "caption": "इस्राएल को छुड़ाने के लिए यहोवा द्वारा खड़ा किया गया"
+    },
+    {
+      "character_id": "othniel",
+      "position": 2,
+      "caption": "\"यहोवा का आत्मा उस पर उतरा\""
+    },
+    {
+      "character_id": "othniel",
+      "position": 3,
+      "caption": "देश को चालीस वर्ष तक विश्राम मिला"
+    },
+    {
+      "character_id": "ehud",
+      "position": 0,
+      "caption": "अपने लिए एक छिपी हुई, दोधारी तलवार बनाता है"
+    },
+    {
+      "character_id": "ehud",
+      "position": 1,
+      "caption": "एग्लोन को उसी के कक्ष में मार गिराता है"
+    },
+    {
+      "character_id": "ehud",
+      "position": 2,
+      "caption": "देश को अस्सी वर्ष तक विश्राम मिला"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 0,
+      "caption": "अपने भाइयों द्वारा निकाला गया, बहिष्कृतों के साथ जुड़ा"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 1,
+      "caption": "युद्ध में जाने से पहले एक संकल्प लेता है"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 2,
+      "caption": "उसकी अपनी पुत्री उससे मिलने के लिए बाहर आती है"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 3,
+      "caption": "विश्वास के वीरों में गिना गया"
+    },
+    {
+      "character_id": "hur",
+      "position": 0,
+      "caption": "मूसा और हारून के साथ पहाड़ी पर चढ़ता है"
+    },
+    {
+      "character_id": "hur",
+      "position": 1,
+      "caption": "सूर्यास्त तक मूसा के एक हाथ को थामे रहता है"
+    },
+    {
+      "character_id": "hur",
+      "position": 2,
+      "caption": "हारून के साथ लोगों का भार सौंपा गया"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 0,
+      "caption": "\"यहोवा कौन है, कि मैं उसकी बात मानूं?\""
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 1,
+      "caption": "संक्षेप में स्वीकार करता है: \"इस बार मैंने पाप किया है\""
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 2,
+      "caption": "दसवीं विपत्ति के बाद, अन्ततः इस्राएल को जाने देता है"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 3,
+      "caption": "अपनी सेना के साथ इस्राएल का पीछा करता है"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 4,
+      "caption": "लौटते समुद्र में उसकी सेना नष्ट हो जाती है"
+    },
+    {
+      "character_id": "eli",
+      "position": 0,
+      "caption": "यहोवा को समर्पित युवा शमूएल को प्राप्त करता है"
+    },
+    {
+      "character_id": "eli",
+      "position": 1,
+      "caption": "पहचानता है कि रात में परमेश्वर शमूएल को बुला रहा है"
+    },
+    {
+      "character_id": "eli",
+      "position": 2,
+      "caption": "परमेश्वर से ऊपर अपने पुत्रों का सम्मान करने के लिए डांटा गया"
+    },
+    {
+      "character_id": "eli",
+      "position": 3,
+      "caption": "सन्दूक के पकड़े जाने की खबर सुनकर मर जाता है"
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 0,
+      "caption": "\"निकम्मे पुरुष; वे यहोवा को नहीं जानते थे\""
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 1,
+      "caption": "यहोवा की भेंट के साथ तुच्छता का व्यवहार किया"
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 2,
+      "caption": "दोनों को बताया गया कि वे एक ही दिन मरेंगे"
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 3,
+      "caption": "एक ही युद्ध में दोनों मारे गए, सन्दूक पकड़ा गया"
+    },
+    {
+      "character_id": "elkanah",
+      "position": 0,
+      "caption": "हन्ना को दोहरा भाग देता है, यद्यपि वह निःसन्तान है"
+    },
+    {
+      "character_id": "elkanah",
+      "position": 1,
+      "caption": "\"क्या मैं तेरे लिए दस पुत्रों से बढ़कर नहीं हूं?\""
+    },
+    {
+      "character_id": "elkanah",
+      "position": 2,
+      "caption": "अपने पुत्र को यहोवा को समर्पित करने के हन्ना के संकल्प का समर्थन करता है"
     }
   ]
 }

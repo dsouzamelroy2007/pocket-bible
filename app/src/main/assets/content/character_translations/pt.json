@@ -851,6 +851,46 @@
       "character_id": "achan",
       "name": "Acã",
       "intro": "Um israelita cujo roubo secreto de despojos consagrados de Jericó trouxe derrota sobre todo o Israel em Ai, até que seu pecado foi exposto e julgado."
+    },
+    {
+      "character_id": "othniel",
+      "name": "Otoniel",
+      "intro": "O primeiro juiz de Israel, cuja coragem militar lhe rendeu uma esposa e cuja liderança deu à terra quarenta anos de paz após seu primeiro ciclo de opressão."
+    },
+    {
+      "character_id": "ehud",
+      "name": "Eúde",
+      "intro": "Um juiz canhoto que usou exatamente a característica que ninguém suspeitava para contrabandear uma espada escondida para dentro da câmara de Eglom, rei de Moabe, o opressor de Israel."
+    },
+    {
+      "character_id": "jephthah",
+      "name": "Jefté",
+      "intro": "Um juiz, outrora expulso por sua própria família, cuja vitória sobre os amonitas foi ofuscada por um voto precipitado que lhe custou o que mais amava."
+    },
+    {
+      "character_id": "hur",
+      "name": "Hur",
+      "intro": "Um líder que, ao lado de Arão, sustentou os braços cansados de Moisés durante a batalha contra Amaleque -- um ato discreto de apoio que ajudou a decidir o resultado."
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "name": "O faraó do Êxodo",
+      "intro": "O rei sem nome do Egito cuja recusa repetida em deixar Israel ir, mesmo depois de praga após praga, terminou com seu próprio exército destruído no Mar Vermelho."
+    },
+    {
+      "character_id": "eli",
+      "name": "Eli",
+      "intro": "O sumo sacerdote e último dos juízes de Israel, que criou o profeta Samuel desde a infância -- mas cuja falha em conter seus próprios filhos corruptos lhe custou tudo."
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "name": "Hofni e Fineias",
+      "intro": "Os dois filhos de Eli e sacerdotes, cujo desprezo pela oferta do SENHOR e abuso de sua posição trouxeram julgamento sobre toda a família deles."
+    },
+    {
+      "character_id": "elkanah",
+      "name": "Elcana",
+      "intro": "O pai de Samuel, um homem devoto com duas esposas, cujo culto anual em Siló e ternura para com a aflita Ana prepararam o cenário para o nascimento de Samuel."
     }
   ]
 }

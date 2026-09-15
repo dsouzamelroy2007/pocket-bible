@@ -851,6 +851,46 @@
       "character_id": "achan",
       "name": "Achan",
       "intro": "Ein Israelit, dessen heimlicher Diebstahl von gebanntem Beutegut aus Jericho eine Niederlage über ganz Israel bei Ai brachte, bis seine Sünde aufgedeckt und gerichtet wurde."
+    },
+    {
+      "character_id": "othniel",
+      "name": "Othniel",
+      "intro": "Israels erster Richter, dessen militärischer Mut ihm eine Frau einbrachte und dessen Führung dem Land nach seinem ersten Zyklus der Unterdrückung vierzig Jahre Frieden gab."
+    },
+    {
+      "character_id": "ehud",
+      "name": "Ehud",
+      "intro": "Ein linkshändiger Richter, der genau das Merkmal, das niemand vermutete, benutzte, um ein verstecktes Schwert in die Kammer von Israels Unterdrücker, König Eglon von Moab, zu schmuggeln."
+    },
+    {
+      "character_id": "jephthah",
+      "name": "Jeftah",
+      "intro": "Ein Richter, einst von seiner eigenen Familie verstoßen, dessen Sieg über die Ammoniter durch ein unbedachtes Gelübde überschattet wurde, das ihn kostete, was er am meisten liebte."
+    },
+    {
+      "character_id": "hur",
+      "name": "Hur",
+      "intro": "Ein Anführer, der zusammen mit Aaron Moses müde Arme während der Schlacht gegen Amalek stützte -- eine stille Unterstützung, die half, den Ausgang zu entscheiden."
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "name": "Der Pharao des Exodus",
+      "intro": "Der ungenannte König von Ägypten, dessen wiederholte Weigerung, Israel ziehen zu lassen, selbst nach Plage um Plage, damit endete, dass sein eigenes Heer im Roten Meer vernichtet wurde."
+    },
+    {
+      "character_id": "eli",
+      "name": "Eli",
+      "intro": "Der Hohepriester und letzte von Israels Richtern, der den Propheten Samuel von Kindheit an aufzog -- dessen Versäumnis jedoch, seine eigenen korrupten Söhne zu zügeln, ihn alles kostete."
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "name": "Hophni und Pinhas",
+      "intro": "Elis zwei Söhne und Priester, deren Verachtung für das Opfer des HERRN und Missbrauch ihrer Stellung Gericht über ihre ganze Familie brachten."
+    },
+    {
+      "character_id": "elkanah",
+      "name": "Elkana",
+      "intro": "Samuels Vater, ein frommer Mann mit zwei Frauen, dessen jährliche Anbetung in Silo und Zärtlichkeit gegenüber der trauernden Hanna die Bühne für Samuels Geburt bereitete."
     }
   ]
 }

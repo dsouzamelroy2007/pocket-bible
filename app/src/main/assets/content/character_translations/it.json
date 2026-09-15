@@ -851,6 +851,46 @@
       "character_id": "achan",
       "name": "Acan",
       "intro": "Un israelita il cui furto segreto di bottino votato allo sterminio da Gerico portò sconfitta su tutto Israele ad Ai, finché il suo peccato non fu scoperto e giudicato."
+    },
+    {
+      "character_id": "othniel",
+      "name": "Otniel",
+      "intro": "Il primo giudice d'Israele, il cui coraggio militare gli valse una moglie e la cui guida diede al paese quarant'anni di pace dopo il suo primo ciclo di oppressione."
+    },
+    {
+      "character_id": "ehud",
+      "name": "Ehud",
+      "intro": "Un giudice mancino che usò proprio il tratto che nessuno sospettava per introdurre di nascosto una spada nella camera di Eglon, re di Moab, oppressore di Israele."
+    },
+    {
+      "character_id": "jephthah",
+      "name": "Iefte",
+      "intro": "Un giudice, un tempo scacciato dalla propria famiglia, la cui vittoria sugli Ammoniti fu oscurata da un voto avventato che gli costò ciò che amava di più."
+    },
+    {
+      "character_id": "hur",
+      "name": "Cur",
+      "intro": "Un capo che, insieme ad Aronne, sostenne le braccia stanche di Mosè durante la battaglia contro Amalek -- un tranquillo atto di sostegno che aiutò a decidere l'esito."
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "name": "Il faraone dell'Esodo",
+      "intro": "Il re d'Egitto senza nome il cui ripetuto rifiuto di lasciare andare Israele, persino dopo piaga dopo piaga, terminò con il proprio esercito distrutto nel Mar Rosso."
+    },
+    {
+      "character_id": "eli",
+      "name": "Eli",
+      "intro": "Il sommo sacerdote e l'ultimo dei giudici d'Israele, che allevò il profeta Samuele fin dall'infanzia -- ma il cui fallimento nel frenare i propri figli corrotti gli costò tutto."
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "name": "Cofni e Fineas",
+      "intro": "I due figli e sacerdoti di Eli, il cui disprezzo per l'offerta del SIGNORE e abuso della loro posizione portarono il giudizio su tutta la loro famiglia."
+    },
+    {
+      "character_id": "elkanah",
+      "name": "Elkana",
+      "intro": "Il padre di Samuele, un uomo devoto con due mogli, il cui culto annuale a Silo e la tenerezza verso Anna afflitta prepararono la scena per la nascita di Samuele."
     }
   ]
 }

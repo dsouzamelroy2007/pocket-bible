@@ -3156,6 +3156,156 @@
       "character_id": "achan",
       "position": 2,
       "caption": "इस्राएलला संकटात टाकल्याबद्दल न्याय झाला"
+    },
+    {
+      "character_id": "othniel",
+      "position": 0,
+      "caption": "एक नगर जिंकून कालेबची मुलगी अखसा हिला जिंकतो"
+    },
+    {
+      "character_id": "othniel",
+      "position": 1,
+      "caption": "इस्राएलला सोडवण्यासाठी परमेश्वराने उभा केलेला"
+    },
+    {
+      "character_id": "othniel",
+      "position": 2,
+      "caption": "\"परमेश्वराचा आत्मा त्याच्यावर आला\""
+    },
+    {
+      "character_id": "othniel",
+      "position": 3,
+      "caption": "देशाला चाळीस वर्षे विसावा मिळाला"
+    },
+    {
+      "character_id": "ehud",
+      "position": 0,
+      "caption": "स्वतःसाठी एक लपवलेली, दुधारी तलवार बनवतो"
+    },
+    {
+      "character_id": "ehud",
+      "position": 1,
+      "caption": "एग्लोनला त्याच्याच खोलीत ठार करतो"
+    },
+    {
+      "character_id": "ehud",
+      "position": 2,
+      "caption": "देशाला ऐंशी वर्षे विसावा मिळाला"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 0,
+      "caption": "आपल्या भावांनी हाकलून दिलेला, बहिष्कृतांसोबत सामील होतो"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 1,
+      "caption": "युद्धात जाण्यापूर्वी नवस करतो"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 2,
+      "caption": "त्याची स्वतःची मुलगी त्याला भेटायला बाहेर येते"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 3,
+      "caption": "विश्वासाच्या वीरांमध्ये नामोल्लेख"
+    },
+    {
+      "character_id": "hur",
+      "position": 0,
+      "caption": "मोशे आणि अहरोनासोबत टेकडीवर चढतो"
+    },
+    {
+      "character_id": "hur",
+      "position": 1,
+      "caption": "सूर्यास्तापर्यंत मोशेचा एक हात धरून ठेवतो"
+    },
+    {
+      "character_id": "hur",
+      "position": 2,
+      "caption": "अहरोनासोबत लोकांचा कारभार सोपवला"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 0,
+      "caption": "\"परमेश्वर कोण आहे, की मी त्याचे ऐकावे?\""
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 1,
+      "caption": "थोडक्यात कबूल करतो: \"यावेळी मी पाप केले आहे\""
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 2,
+      "caption": "दहाव्या संकटानंतर, अखेर इस्राएलला जाऊ देतो"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 3,
+      "caption": "आपल्या सैन्यासह इस्राएलचा पाठलाग करतो"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 4,
+      "caption": "परत आलेल्या समुद्रात त्याचे सैन्य नष्ट होते"
+    },
+    {
+      "character_id": "eli",
+      "position": 0,
+      "caption": "परमेश्वराला समर्पित तरुण शमुवेलला स्वीकारतो"
+    },
+    {
+      "character_id": "eli",
+      "position": 1,
+      "caption": "रात्री शमुवेलला बोलावणारा देव आहे हे ओळखतो"
+    },
+    {
+      "character_id": "eli",
+      "position": 2,
+      "caption": "देवापेक्षा आपल्या मुलांचा सन्मान केल्याबद्दल दटावला गेला"
+    },
+    {
+      "character_id": "eli",
+      "position": 3,
+      "caption": "कोश पकडला गेल्याचे ऐकून मरण पावतो"
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 0,
+      "caption": "\"नालायक माणसे; ते परमेश्वराला ओळखत नव्हते\""
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 1,
+      "caption": "परमेश्वराच्या अर्पणाशी तुच्छतेने वागले"
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 2,
+      "caption": "दोघेही एकाच दिवशी मरतील असे सांगितले गेले"
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 3,
+      "caption": "एकाच लढाईत दोघेही मारले गेले, कोश पकडला गेला"
+    },
+    {
+      "character_id": "elkanah",
+      "position": 0,
+      "caption": "हन्नेला दुप्पट वाटा देतो, जरी ती निपुत्रिक आहे"
+    },
+    {
+      "character_id": "elkanah",
+      "position": 1,
+      "caption": "\"मी तुझ्यासाठी दहा मुलांपेक्षा अधिक नाही का?\""
+    },
+    {
+      "character_id": "elkanah",
+      "position": 2,
+      "caption": "आपल्या मुलाला परमेश्वराला समर्पित करण्याच्या हन्नेच्या नवसाला पाठिंबा देतो"
     }
   ]
 }

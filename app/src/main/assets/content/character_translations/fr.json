@@ -851,6 +851,46 @@
       "character_id": "achan",
       "name": "Acan",
       "intro": "Un Israélite dont le vol secret de butin voué à l'anathème de Jéricho apporta la défaite sur tout Israël à Aï, jusqu'à ce que son péché soit exposé et jugé."
+    },
+    {
+      "character_id": "othniel",
+      "name": "Othniel",
+      "intro": "Le premier juge d'Israël, dont le courage militaire lui valut une épouse et dont le leadership donna au pays quarante ans de paix après son premier cycle d'oppression."
+    },
+    {
+      "character_id": "ehud",
+      "name": "Éhud",
+      "intro": "Un juge gaucher qui utilisa précisément le trait que personne ne soupçonnait pour introduire clandestinement une épée cachée dans la chambre d'Églon, roi de Moab, l'oppresseur d'Israël."
+    },
+    {
+      "character_id": "jephthah",
+      "name": "Jephté",
+      "intro": "Un juge, autrefois rejeté par sa propre famille, dont la victoire sur les Ammonites fut assombrie par un vœu irréfléchi qui lui coûta ce qu'il aimait le plus."
+    },
+    {
+      "character_id": "hur",
+      "name": "Hour",
+      "intro": "Un chef qui, aux côtés d'Aaron, soutint les bras fatigués de Moïse pendant la bataille contre Amalek -- un acte de soutien discret qui aida à décider de l'issue."
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "name": "Le pharaon de l'Exode",
+      "intro": "Le roi d'Égypte non nommé dont le refus répété de laisser partir Israël, même après plaie après plaie, se termina par la destruction de sa propre armée dans la mer Rouge."
+    },
+    {
+      "character_id": "eli",
+      "name": "Éli",
+      "intro": "Le grand prêtre et dernier des juges d'Israël, qui éleva le prophète Samuel depuis son enfance -- mais dont l'échec à réfréner ses propres fils corrompus lui coûta tout."
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "name": "Hophni et Phinées",
+      "intro": "Les deux fils d'Éli et prêtres, dont le mépris pour l'offrande de l'ÉTERNEL et l'abus de leur position apportèrent le jugement sur toute leur famille."
+    },
+    {
+      "character_id": "elkanah",
+      "name": "Elqana",
+      "intro": "Le père de Samuel, un homme pieux avec deux épouses, dont le culte annuel à Silo et la tendresse envers Anne affligée préparèrent la naissance de Samuel."
     }
   ]
 }
