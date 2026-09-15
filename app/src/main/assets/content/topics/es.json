@@ -75,6 +75,21 @@
       "feeling_id": "joyful",
       "label": "Feliz",
       "description": "Para los días que se sienten ligeros, y valen la pena notarse mientras duran."
+    },
+    {
+      "feeling_id": "envious",
+      "label": "Celoso",
+      "description": "Para cuando la vida de alguien más parece un veredicto sobre la tuya."
+    },
+    {
+      "feeling_id": "lust",
+      "label": "Tentado por la lujuria",
+      "description": "Para el deseo que tira hacia donde no quieres terminar."
+    },
+    {
+      "feeling_id": "loving",
+      "label": "Enamorado",
+      "description": "Para cuando tu corazón está lleno de alguien, y quieres que sea bueno."
     }
   ],
   "entry_translations": [
@@ -827,6 +842,156 @@
       "entry_id": "joyful-ps-118-24",
       "reflection": "El salmo no espera a que el día demuestre ser bueno antes de llamarlo hecho por Dios -- la declaración viene primero, sin importar lo que el día haya traído hasta ahora. El regocijo se presenta como una respuesta a que Dios haya hecho el día en sí, no a su contenido particular. Es un versículo corto y repetible, del tipo destinado a decirse a diario y no a guardarse para días excepcionalmente buenos.",
       "prayer": "Señor, este es el día que has hecho, haya ido o no como esperaba hasta ahora. Ayúdame a regocijarme y alegrarme en él de todos modos, no porque todo en él haya sido bueno sino porque tú lo hiciste. Déjame decir esta pequeña verdad repetible hoy y de verdad creerla."
+    },
+    {
+      "entry_id": "envious-jas-3-16",
+      "reflection": "Santiago no suaviza lo que produce la envidia: confusión y desorden, no solo un sentimiento incómodo. Nombrarlo con claridad es el primer paso para salir de ella -- la envidia te convence de que la porción de otro es un veredicto sobre la tuya, lo cual nunca es verdad.",
+      "prayer": "Señor, calma la comparación en mí. Ayúdame a querer lo que me has dado, no lo que le has dado a otro."
+    },
+    {
+      "entry_id": "envious-pr-14-30",
+      "reflection": "El proverbio hace de la envidia un costo físico, no solo emocional -- algo que desgasta desde adentro en lugar de solo sentirse desagradable.",
+      "prayer": "Señor, dame un corazón en paz en lugar de uno que sigue comparando."
+    },
+    {
+      "entry_id": "envious-gal-5-26",
+      "reflection": "Pablo vincula la envidia con la provocación, como si las dos se alimentaran mutuamente en comunidad -- la envidia rara vez se queda privada, tiende a derramarse en cómo tratas a la persona que envidias.",
+      "prayer": "Señor, evita que esto se derrame en cómo los trato. Déjame desear el bien para ellos de todos modos."
+    },
+    {
+      "entry_id": "envious-jas-3-14",
+      "reflection": "Santiago une los celos con la tentación de mentir sobre ellos -- de disfrazarlos de ambición o de estándares. Nombrarlo con precisión, tan amargo y pequeño como es, es el paso honesto para superarlo.",
+      "prayer": "Señor, ayúdame a llamar a esto lo que realmente es, en lugar de disfrazarlo de otra cosa."
+    },
+    {
+      "entry_id": "envious-ps-37-1",
+      "reflection": "David une la inquietud y la envidia, tratándolas como reacciones conectadas al mismo detonante -- ver que los malhechores parecen salir adelante. La instrucción no es negar la injusticia sino rechazar la respuesta emocional específica de la envidia hacia ella. Este es uno de los muchos lugares en este salmo donde David vuelve a la misma orden breve, como si supiera cuánto necesita repetirse.",
+      "prayer": "Señor, ahora mismo me estoy inquietando por el éxito de otra persona, y puedo sentir que la envidia se cuela junto a eso. Ayúdame a soltar ambas cosas, no fingiendo que las cosas son justas, sino negándome a dejar que su situación defina cómo me siento sobre la mía. Sé que probablemente necesitaré escuchar esta misma instrucción otra vez mañana, así que sigue trayéndome de vuelta a ella."
+    },
+    {
+      "entry_id": "envious-pr-23-17",
+      "reflection": "El proverbio pone la envidia de los pecadores directamente frente al temor del SEÑOR, como si los dos ocuparan el mismo espacio en el corazón y solo uno pudiera realmente estar ahí. No argumenta que los pecadores no estén prosperando; simplemente redirige a dónde va la atención del corazón en su lugar. Temer al SEÑOR \"todo el día\" sugiere que esto no es una redirección de una sola vez sino un reemplazo continuo, repetido tantas veces como la envidia intente volver.",
+      "prayer": "Señor, no dejes que mi corazón envidie a la gente que parece salirse con la suya, por muy buena que se vea su situación desde aquí. Dame en su lugar tu temor, llenando el mismo espacio que la envidia quiere ocupar. Que esto sea algo que sigo eligiendo todo el día, no solo una vez cuando la envidia aparece por primera vez."
+    },
+    {
+      "entry_id": "envious-titus-3-3",
+      "reflection": "Pablo incluye la envidia en una lista que describe lo que \"nosotros\" -- él mismo incluido -- solíamos ser, antes del cambio que está a punto de describir a continuación. Nombrarla como parte de una vida anterior, y no como un rasgo permanente, implica que la envidia no tiene que ser en lo que alguien se queda. La lista agrupa la envidia con la malicia y el odio mutuo, sugiriendo que rara vez es un sentimiento aislado, sino que tiende a viajar con otros corrosivos.",
+      "prayer": "Señor, reconozco esta envidia como parte de una vieja manera de relacionarme con la gente, no de lo que realmente quiero seguir siendo. Cámbiame como cambiaste a los que describe Pablo, de la malicia y la envidia hacia algo completamente distinto. No dejes que este sentimiento viaje solo -- atrapa también lo que más venga con él."
+    },
+    {
+      "entry_id": "envious-1pet-2-1",
+      "reflection": "Pedro enumera la envidia junto a la maldad, el engaño, la hipocresía y el hablar mal, como cosas que hay que quitarse juntas, como ropa que se quita toda de una vez y no de a una. \"Quitarse\" es activo, algo hecho deliberadamente, no un sentimiento que se espera que simplemente se desvanezca solo. La lista sugiere que la envidia tiende a viajar en la misma compañía que la deshonestidad y las palabras poco amables, que vale la pena examinar juntas y no por separado.",
+      "prayer": "Señor, ayúdame a quitarme esta envidia como me quitaría una prenda que ya no quiero usar, deliberada y a propósito. Muéstrame qué más podría estar viajando junto a ella -- engaño, hipocresía, palabras poco amables que todavía no he notado. Limpia todo eso junto, no solo la parte más fácil de ver."
+    },
+    {
+      "entry_id": "envious-ps-73-2-3",
+      "reflection": "Asaf no esconde lo cerca que esta envidia lo llevó de perder por completo el equilibrio -- sus pies casi se habían ido, sus pasos casi habían resbalado. Es honesto sobre el detonante específico: ver la prosperidad de gente que consideraba arrogante y malvada. Este no es un salmo que resuelve la envidia rápido; nombra cuán desestabilizadora fue en verdad antes de que algo mejore.",
+      "prayer": "Señor, como Asaf, puedo sentir cómo esta envidia casi me quita el equilibrio, viendo prosperar a gente que ni siquiera respeto. No voy a fingir que este sentimiento es pequeño ni que no me ha sacudido. Afirma mis pasos como eventualmente afirmaste los suyos, aunque haga falta el resto de la honestidad de este salmo para llegar ahí."
+    },
+    {
+      "entry_id": "envious-eccl-4-4",
+      "reflection": "El Predicador hace una observación poco favorecedora sobre la motivación humana: gran parte de lo que la gente llama logro en realidad está impulsado por la envidia hacia el vecino, no por alguna ambición más pura. No exime su propio trabajo de este diagnóstico, llamando a todo el ciclo vanidad y correr tras el viento. Esta es una auditoría inquietante del motivo, no solo de la emoción de la envidia en sí, sino de cuánto alimenta en silencio lo que parece productividad.",
+      "prayer": "Señor, muéstrame con honestidad cuánto de lo que llamo ambición o trabajo duro es en realidad solo envidia del éxito de otro con un disfraz más respetable. No quiero pasarme la vida persiguiendo el viento, logrando cosas por razones que no querría decir en voz alta. Purifica el motivo debajo de mi esfuerzo, no solo la envidia en la superficie."
+    },
+    {
+      "entry_id": "lust-gal-5-16",
+      "reflection": "Pablo no te dice que apretes los dientes para silenciar el deseo. Señala una dirección hacia la cual caminar en su lugar -- la disciplina no es solo negarse, es reemplazar, llenar el espacio con algo que en verdad lleva a algún lugar bueno.",
+      "prayer": "Señor, redirige lo que tira de mí ahora mismo. Enséñame a caminar hacia ti en lugar de alejarme."
+    },
+    {
+      "entry_id": "lust-mt-5-8",
+      "reflection": "La bendición apunta al corazón, no solo a la conducta externa -- un estándar más corto y más duro que simplemente evitar el acto, pero unido a una promesa que vale la pena desear: ver a Dios con claridad.",
+      "prayer": "Señor, purifica lo que sigo mirando y en lo que sigo pensando, no solo lo que hago."
+    },
+    {
+      "entry_id": "lust-1cor-6-19",
+      "reflection": "Pablo replantea el cuerpo mismo, no solo el acto, como algo sagrado y habitado. Eso cambia la pregunta de 'esto es técnicamente malo' a 'qué pertenece en este espacio en particular'.",
+      "prayer": "Señor, este cuerpo es tuyo antes de ser mío. Ayúdame a tratarlo así hoy."
+    },
+    {
+      "entry_id": "lust-job-31-1",
+      "reflection": "Job ubica la disciplina en los ojos, antes de que el pensamiento se forme del todo -- un pacto hecho de antemano en lugar de una resolución hecha en medio de la tentación, cuando ya es más difícil mantenerla.",
+      "prayer": "Señor, ayúdame a tomar esta decisión ahora, antes de estar en el momento en que es más difícil mantenerla."
+    },
+    {
+      "entry_id": "lust-mt-5-28",
+      "reflection": "Jesús ubica el momento de significado moral antes de lo que la mayoría de la gente lo colocaría -- no en el acto mismo, sino en la mirada que ya lleva la intención. Esto eleva considerablemente la apuesta, ya que significa que el corazón no puede reclamar inocencia solo porque nada externo sucedió. Es una enseñanza difícil precisamente porque elimina la escapatoria habitual de la no participación técnica.",
+      "prayer": "Señor, tú ves la mirada antes de que se convierta en algo más, así que no puedo esconderte esto señalando lo que en realidad no hice. Examina mi corazón en el nivel donde esto empieza, no solo mi conducta externa. Ayúdame a apartar mis ojos en el momento en que la mirada empieza a detenerse, antes de que se convierta en algo de lo que tenga que arrepentirme después."
+    },
+    {
+      "entry_id": "lust-1the-4-3-5",
+      "reflection": "Pablo nombra directamente la santificación como la voluntad de Dios aquí, no un ideal espiritual vago sino algo con un contenido específico y concreto: abstenerse de la inmoralidad sexual, controlar el propio cuerpo con honor. Esto no se enmarca como una opción entre varios caminos igualmente válidos; se afirma claramente como lo que Dios realmente quiere. La frase \"en santificación y honor\" sugiere que aquí el dominio propio es dignificante, no meramente restrictivo.",
+      "prayer": "Señor, ayúdame a querer de verdad tu voluntad aquí, no solo obedecerla de mala gana -- santificación, no la pasión de la lujuria con la que Pablo la contrasta. Enséñame a controlar mi propio cuerpo de una manera honorable, no solo exitosamente reprimida. Que esto se sienta como dignidad, no solo restricción, incluso cuando sea difícil."
+    },
+    {
+      "entry_id": "lust-pr-6-25",
+      "reflection": "La advertencia apunta específicamente al deseo del corazón antes de que se convierta en algo externo -- no la belleza misma, que el proverbio no condena, sino codiciarla internamente. \"Cautive\" sugiere algo que sucede gradualmente, casi sin plena conciencia, una captura lenta en lugar de una caída repentina. Nombrar el mecanismo específico -- la belleza, los párpados, la detención del corazón -- hace de esto una advertencia sobre la atención tanto como sobre el deseo.",
+      "prayer": "Señor, guarda mi corazón de codiciar la belleza de la manera específica que describe este proverbio, la lenta cautividad antes de siquiera notar que he sido atrapado. Ayúdame a notar la belleza sin dejar que mi corazón se detenga ahí más de lo debido. Interrumpe la captura antes de que suceda, no solo después de que me dé cuenta de que ya estoy atrapado."
+    },
+    {
+      "entry_id": "lust-2tim-2-22",
+      "reflection": "La instrucción de Pablo es huir, no quedarse a pelear -- una estrategia que asume que algunas batallas es mejor evitarlas que enfrentarlas directamente. Pero huir no es toda la instrucción; viene emparejada con perseguir activamente otra cosa por completo, la justicia, la fe, el amor y la paz. Esto sugiere que resistir la lujuria no se trata solo de correr lejos de algo, sino de correr hacia algo con igual energía.",
+      "prayer": "Señor, ayúdame a huir de verdad de esto en lugar de quedarme aquí negociando con ello, como Pablo le instruye a Timoteo que huya de las pasiones juveniles. Pero no dejes que me quede solo en huir -- dame algo hacia lo cual correr con la misma energía, justicia y fe y amor y paz. Que la persecución sea tan real como la huida."
+    },
+    {
+      "entry_id": "lust-ro-13-14",
+      "reflection": "La imagen de Pablo es deliberadamente visual -- vestirse de Cristo como una prenda, algo que se lleva puesto y es visible, contrastado directamente con hacer provisión para los deseos de la carne. \"Provisión\" sugiere planificación anticipada, la preparación deliberada que hace más fácil ceder después; la instrucción es eliminar por completo esa planificación, no solo resistir en el momento. Vestirse de Cristo va primero en el versículo, antes de la instrucción sobre la provisión, como si el paso positivo habilitara el negativo.",
+      "prayer": "Señor, ayúdame a vestirme de ti hoy como describe Pablo, deliberada y visiblemente, incluso antes de llegar a la pregunta de resistir la tentación. Muéstrame qué provisiones he estado haciendo en silencio para mis propias pasiones, los pequeños planes que hacen más fácil ceder después, y ayúdame a eliminarlos. Que vestirme de ti sea el primer movimiento, no algo pensado después de la fuerza de voluntad."
+    },
+    {
+      "entry_id": "lust-ps-119-37",
+      "reflection": "El salmista pide algo hecho a él en lugar de afirmar que puede manejar sus propios ojos con pura fuerza de voluntad -- aparta mis ojos, no yo apartaré mis ojos. \"Cosas vanas\" es una categoría amplia, no limitada a una tentación específica, sugiriendo una petición general de atención redirigida en lugar de un arreglo estrecho. El avivamiento se pide en el mismo aliento, uniendo el apartar de los ojos a un tipo más profundo de vida, no solo una corrección de conducta.",
+      "prayer": "Señor, aparta mis ojos de las cosas vanas, porque sé que no puedo hacer esto de forma confiable solo con mi propio esfuerzo. No solo pido una modificación de conducta -- avívame en tus caminos, como pidió este salmista. Que este sea un cambio que vaya más profundo que solo a dónde estoy mirando."
+    },
+    {
+      "entry_id": "loving-1cor-13-4",
+      "reflection": "Esto no es la descripción de un sentimiento sino una lista de acciones, algo que vale la pena notar cuando el amor se siente complicado. La paciencia y la bondad pueden practicarse incluso en los días en que la calidez no llega tan naturalmente como ahora.",
+      "prayer": "Señor, ama a través de mí hoy, especialmente en las pequeñas maneras que es fácil saltarse."
+    },
+    {
+      "entry_id": "loving-1jo-4-19",
+      "reflection": "El orden importa: aquí el amor es una respuesta, no una iniciativa que tienes que generar de la nada. Cualquier amor que tengas para dar comenzó como algo que se te dio primero a ti.",
+      "prayer": "Señor, gracias por amarme primero. Que lo que doy venga de lo que he recibido."
+    },
+    {
+      "entry_id": "loving-1cor-13-7",
+      "reflection": "Cada verbo describe al amor sosteniéndose bajo peso -- sufre, cree, espera, soporta -- no un amor como un sentimiento que va y viene con el clima de la relación.",
+      "prayer": "Señor, dame un amor que sufra y soporte hoy, no solo un amor que se sienta fácil."
+    },
+    {
+      "entry_id": "loving-song-8-7",
+      "reflection": "La imagen es de algo imparable por fuerzas ordinarias -- el agua es lo que apaga la mayoría de las cosas, pero aquí el amor se describe superando exactamente eso.",
+      "prayer": "Señor, que este amor sea del tipo que se sostiene incluso cuando las cosas se inundan."
+    },
+    {
+      "entry_id": "loving-1cor-13-13",
+      "reflection": "Pablo coloca el amor por encima de la fe y la esperanza, no porque esas dos importen menos, sino porque el amor es lo que permanece cuando las otras completan su propósito -- la fe se vuelve vista, la esperanza se vuelve cumplimiento, pero el amor simplemente continúa. Esto no es tanto una competencia entre los tres como una descripción de lo que sobrevive a todo lo demás. Llamar al amor \"el mayor\" después de describirlo extensamente antes en el capítulo le da a la palabra un peso que no llevaría sola.",
+      "prayer": "Señor, haz crecer en mí el amor como aquello que sobrevive incluso a mi fe y mi esperanza, como lo describe Pablo aquí. Que sea el mayor, no solo una virtud más entre varias que trato de practicar. Ayúdame a amar de una manera que todavía siga en pie después de que todo lo demás haya cumplido su función y se haya completado."
+    },
+    {
+      "entry_id": "loving-jn-15-13",
+      "reflection": "Jesús nombra la mayor expresión posible de amor como dar la propia vida, un estándar que hace que cada acto menor de amor parezca casi fácil en comparación. Dice esto a sus discípulos justo antes de hacer exactamente eso él mismo, así que las palabras no son teoría abstracta sino una descripción de lo que está a punto de suceder. Aquí el amor se mide por lo que cuesta, no por cómo se siente.",
+      "prayer": "Señor, me mostraste cómo se ve un amor mayor al realmente entregar tu vida, no solo describir la idea. Enséñame a amar con esa misma disposición a dar algo real, incluso cuando me cueste. No sé si alguna vez enfrentaré una elección tan extrema, pero que ese mismo espíritu forme los sacrificios más pequeños que puedo hacer hoy."
+    },
+    {
+      "entry_id": "loving-1jo-4-7-8",
+      "reflection": "Juan vincula directamente amar con conocer a Dios, no como un logro espiritual separado sino como evidencia de la misma realidad -- todo el que ama ha nacido de Dios y conoce a Dios. Lo contrario se afirma con la misma claridad: quien no ama no conoce a Dios, porque Dios mismo es amor. Esto hace que el amor sea menos una actuación moral y más un parecido familiar, algo que aparece naturalmente en quienes realmente pertenecen a Dios.",
+      "prayer": "Señor, que mi amor hacia otras personas sea evidencia real de que te conozco, no una actuación separada de ese conocimiento. Ya que tú eres el amor mismo, que amar bien sea la señal más natural de que realmente te pertenezco. Donde me cueste amar, muéstrame con honestidad lo que eso revela sobre cuánto realmente te conozco."
+    },
+    {
+      "entry_id": "loving-ro-12-9-10",
+      "reflection": "Pablo especifica un amor sin hipocresía, descartando la versión actuada que parece amor pero no se siente ni se propone genuinamente. La instrucción de aborrecer el mal y aferrarse al bien está justo al lado de la instrucción de amar, sugiriendo que el amor real no es neutral respecto a lo correcto y lo incorrecto, sino que tiene convicciones claras que lo acompañan. \"Afectuosamente tierno\" añade calidez a lo que de otro modo podría sonar como un deber moral frío.",
+      "prayer": "Señor, que mi amor sea sin hipocresía, no una actuación que parece correcta pero no se siente genuinamente. Ayúdame a sostener convicciones claras sobre el bien y el mal sin perder el cariño tierno que también describe este versículo. Que el amor y la honestidad sobre lo que realmente es correcto crezcan juntos en mí, no uno a costa del otro."
+    },
+    {
+      "entry_id": "loving-col-3-14",
+      "reflection": "Pablo coloca el amor \"sobre todas estas cosas\", después de una lista de otras virtudes recién descritas, como aquella que une el resto en algo coherente. \"Vínculo de la perfección\" sugiere que las otras virtudes podrían existir separadas y desconectadas sin el amor sosteniéndolas en un todo unificado. Caminar en amor implica una práctica continua, no una sola decisión tomada una vez y luego asumida como terminada.",
+      "prayer": "Señor, que el amor sea lo que une las otras cosas que estás haciendo crecer en mí, no solo un elemento más en una lista junto a ellas. Sin el amor sosteniéndolas juntas, sé que estas virtudes podrían terminar dispersas y desconectadas. Ayúdame a caminar en amor hoy, una práctica continua, no una decisión que tomo una vez y considero resuelta."
+    },
+    {
+      "entry_id": "loving-1cor-13-8",
+      "reflection": "Pablo contrasta la permanencia del amor con la naturaleza temporal de las profecías, las lenguas e incluso el conocimiento, todo lo cual dice que eventualmente se acabará o cesará. Solo el amor se describe como algo que nunca falla, una afirmación que no se hace sobre ningún otro don o virtud espiritual en este pasaje. Esto posiciona al amor no como una cosa útil entre muchas, sino como la única cosa hecha para realmente durar.",
+      "prayer": "Señor, haz crecer en mí el tipo de amor que nunca falla, tal como lo describe Pablo superando incluso a la profecía y al conocimiento. Que esto sea lo único en mí que de verdad esté hecho para durar, no solo útil por ahora. Cuando todo lo demás en lo que confío se desvanezca o cese, que el amor siga en pie."
     }
   ]
 }
