@@ -1,0 +1,502 @@
+{
+  "language": "es",
+  "feeling_translations": [
+    {
+      "feeling_id": "fear",
+      "label": "Con miedo",
+      "description": "Para las noches en que algo por delante te parece más grande de lo que eres."
+    },
+    {
+      "feeling_id": "anxiety",
+      "label": "Ansioso",
+      "description": "Para una mente que no deja de darle vueltas a lo mismo."
+    },
+    {
+      "feeling_id": "grief",
+      "label": "De luto",
+      "description": "Para una pérdida que todavía no ha terminado de serlo."
+    },
+    {
+      "feeling_id": "temptation",
+      "label": "Tentado",
+      "description": "Para el momento antes de elegir, cuando todavía tienes elección."
+    },
+    {
+      "feeling_id": "lonely",
+      "label": "Solo",
+      "description": "Para cuando la habitación, o el día, se siente más vacío de lo que debería."
+    },
+    {
+      "feeling_id": "angry",
+      "label": "Enojado",
+      "description": "Para cuando algo dentro de ti quiere devolver el golpe."
+    },
+    {
+      "feeling_id": "guilt",
+      "label": "Culpable",
+      "description": "Para cargar con algo que hiciste y no puedes deshacer."
+    },
+    {
+      "feeling_id": "doubt",
+      "label": "Con dudas",
+      "description": "Para cuando la fe se siente más frágil de lo que quisieras."
+    },
+    {
+      "feeling_id": "weary",
+      "label": "Agotado",
+      "description": "Para cuando el esfuerzo solo no arregla lo cansado que estás."
+    }
+  ],
+  "entry_translations": [
+    {
+      "entry_id": "fear-isa-41-10",
+      "reflection": "Fíjate en lo que no se promete. El peligro no desaparece, e Isaías no le dice a su pueblo que su miedo sea irrazonable. Lo que cambia es que ya no están solos dentro de él. El valor aquí no es la ausencia de miedo, sino la presencia de Dios en medio de él.",
+      "prayer": "Señor, quédate cerca de mí en lo que temo esta noche. Afirma mi corazón, y ve delante de mí hacia ello."
+    },
+    {
+      "entry_id": "fear-ps-27-1",
+      "reflection": "David escribe esto como un soldado, no como un hombre a salvo. No niega que haya enemigos; los mide frente a alguien más grande. El miedo no se reduce porque la amenaza sea pequeña, sino porque lo que está a tu lado es más grande que ella.",
+      "prayer": "Señor, tú eres mi luz. Dame el valor suficiente para el próximo pequeño paso, y solo ese."
+    },
+    {
+      "entry_id": "fear-josh-1-9",
+      "reflection": "Esto se le dice a un hombre a punto de guiar a una nación hacia una tierra que nunca ha visto. El mandato de ser valiente no queda flotando por sí solo: está anclado a una razón dada en el mismo aliento: la presencia de Dios, no el temple de Josué, es aquello en lo que descansa el valor.",
+      "prayer": "Señor, ve conmigo hacia lo que aún no conozco. Que eso sea valor suficiente por hoy."
+    },
+    {
+      "entry_id": "fear-2tim-1-7",
+      "reflection": "Pablo nombra el miedo como algo que se puede dar o retener, como un espíritu que toma residencia, y dice claramente que no viene de Dios. Lo que se da en su lugar es práctico: fortaleza, amor y una mente clara, justo lo que el miedo tiende a desplazar.",
+      "prayer": "Señor, retira el miedo que no viene de ti. Llena ese espacio con fortaleza y una mente clara en su lugar."
+    },
+    {
+      "entry_id": "fear-ps-56-3",
+      "reflection": "David no finge que el miedo no esté ahí -- lo nombra claramente, \"cuando tengo miedo\", como algo que volverá a suceder, no un fallo único de fe. El versículo no espera a que el miedo pase antes de elegir dónde poner su confianza; ambos existen en el mismo aliento. La confianza aquí no es tanto lo opuesto al miedo como aquello a lo que el miedo se entrega en lugar de cargarse a solas.",
+      "prayer": "Señor, tengo miedo ahora mismo, y no quiero fingir lo contrario. Toma este miedo de mis manos antes de que eche raíces en mi pecho, y dame un lugar honesto donde poner mi confianza en su lugar. Aunque el miedo no se vaya del todo esta noche, que no sea lo único a lo que me aferro."
+    },
+    {
+      "entry_id": "fear-isa-43-1",
+      "reflection": "Dios no le promete a Israel una vida sin aguas profundas ni fuego -- promete estar presente en ambos, para que ninguno de los dos lo abrume o consuma. El mandato \"no temas\" no está separado de la razón dada justo a su lado: eres mío, llamado por tu nombre, ya redimido. El miedo pierde parte de su poder una vez que queda claro de quién eres antes de que quede claro a qué te enfrentas.",
+      "prayer": "Señor, antes de pedirte que quites lo que temo, ayúdame a recordar que ya soy tuyo, llamado por mi nombre, no un extraño con quien te topaste. Camina conmigo a través de esta agua o este fuego en lugar de sacarme de ellos antes de que aprenda que de verdad estás ahí. Que ser tuyo importe más esta noche que estar a salvo."
+    },
+    {
+      "entry_id": "fear-deut-31-8",
+      "reflection": "Moisés le dice esto a Josué al borde de una tarea que fácilmente podría deshacerlo -- guiar a todo un pueblo hacia una tierra que nunca ha gobernado. El orden importa: Dios va delante, luego está contigo, luego promete no abandonarte, y solo después de las tres cosas llega el mandato \"no temas\". El valor aquí es consecuencia de ser acompañado, no un sustituto de ello.",
+      "prayer": "Señor, ve delante de mí hacia lo que sea que espera al otro lado de hoy, y no dejes que entre en ello como si fuera el primero en llegar. Quédate conmigo en las partes para las que no puedo prepararme, y no dejes que confunda tu silencio con tu ausencia. Afirma lo que el desánimo quiere desestabilizar en mí."
+    },
+    {
+      "entry_id": "fear-isa-41-13",
+      "reflection": "La imagen es deliberadamente física e inmediata -- no una garantía lejana, sino una mano que de verdad sostiene otra mano. Isaías no describe a Dios señalando el camino desde lejos; describe a Dios sujetando con fuerza suficiente para que soltarse no sea realmente una opción real. La ayuda que aquí se promete es primero compañía, y solo después soluciones.",
+      "prayer": "Señor, sostenme como dice este versículo que lo haces, especialmente en las partes de hoy que preferiría no enfrentar sola. No necesito todas las respuestas ahora mismo -- necesito saber que tu mano no ha soltado la mía. Ayúdame, como sea que esa ayuda necesite verse, y déjame sentirme lo bastante firme como para seguir avanzando."
+    },
+    {
+      "entry_id": "fear-ps-91-4",
+      "reflection": "El salmo nombra los miedos muy concretos que mantienen a la gente despierta -- el terror de noche, el peligro que llega sin aviso a plena luz del día -- en lugar de hablar solo en generalidades. La imagen del refugio bajo las alas es deliberadamente pequeña y cercana, no una fortaleza lejana, sino una cobertura lo bastante cerca como para sentirse. La fidelidad misma se convierte en escudo, algo probado con el tiempo y no prometido una sola vez.",
+      "prayer": "Señor, cúbreme como describe este salmo -- de cerca, lo bastante cerca como para sentirme realmente protegida, no solo que me digan que debería sentirme a salvo. Toma el terror que llega de noche y el peligro que no veo venir de día, y sé un escudo entre yo y ambos. Que tu fidelidad, ya probada antes, sea razón suficiente para confiar en ella otra vez esta noche."
+    },
+    {
+      "entry_id": "fear-1jo-4-18",
+      "reflection": "Juan vincula el miedo específicamente con el castigo -- el tipo de miedo que espera ser juzgado y hallado deficiente. El amor perfecto no coexiste con ese miedo en particular; lo desplaza, de la misma forma en que la luz no comparte una habitación con la oscuridad, sino que la termina. Esto no es un mandato para dejar de tener miedo por pura fuerza de voluntad, sino una descripción de lo que realmente sucede cuando el amor se vuelve más completo.",
+      "prayer": "Señor, donde mi miedo sea en realidad un miedo a ser juzgada y hallada deficiente, que tu amor responda a eso directamente en lugar de solo calmar mis nervios. No quiero manejar este miedo para siempre -- quiero que sea genuinamente desplazado al saberme amada sin condición. Haz crecer ese amor en mí hasta que quede cada vez menos espacio para que este miedo viva."
+    },
+    {
+      "entry_id": "anxiety-1pet-5-7",
+      "reflection": "La ansiedad es preocupación sin ningún lugar donde depositarse. Pedro no te pide que sientas menos ni que te importe menos. Te pide que entregues el peso a alguien capaz de cargarlo, lo cual es una acción completamente distinta a tratar de dejar de pensar en ello.",
+      "prayer": "Padre, te entrego lo que sigo dándole vueltas. Quítamelo, y déjame descansar esta noche."
+    },
+    {
+      "entry_id": "anxiety-phil-4-6",
+      "reflection": "Pablo reemplaza la preocupación con una acción concreta en lugar de un estado de ánimo. Nombra la cosa. Pídela con claridad. El temor vago no tiene bordes y por eso no se puede soltar, pero una petición concreta sí se puede entregar. La paz que describe llega después de pedir, no antes.",
+      "prayer": "Señor, esto es exactamente lo que me preocupa, dicho con claridad. Lo pongo en tus manos y lo dejo ahí."
+    },
+    {
+      "entry_id": "anxiety-ps-94-19",
+      "reflection": "El salmista no describe una mente tranquila, sino una llena de gente -- muchos pensamientos, todos a la vez. El consuelo aquí no llega al silenciarlos a todos, sino por algo más fuerte que se abre paso entre ellos.",
+      "prayer": "Señor, mi mente está ruidosa hoy. Que tu consuelo sea más fuerte."
+    },
+    {
+      "entry_id": "anxiety-jn-14-27",
+      "reflection": "Cristo es específico sobre el tipo de paz que ofrece: no la versión del mundo, que depende de que las circunstancias se acomoden, sino la suya propia, dada como regalo sin importar cómo se vean las cosas ahora mismo.",
+      "prayer": "Jesús, dame tu paz, no la que depende de que todo salga bien."
+    },
+    {
+      "entry_id": "anxiety-mt-6-25",
+      "reflection": "Jesús no descarta las preocupaciones prácticas en sí mismas -- comida, bebida, ropa son necesidades reales -- pero cuestiona si la ansiedad realmente aporta algo útil para resolverlas. Las aves a las que señala después no están ociosas; sencillamente no cargan una preocupación que de todos modos nunca iba a cambiar el resultado. Que la vida sea más que el alimento no niega la necesidad, solo recuerda a qué tiende a reducir nuestra atención la ansiedad.",
+      "prayer": "Señor, tú ya sabes lo que necesito antes de que termine de preocuparme por ello, así que déjame de verdad creerlo en lugar de solo recitarlo. Afloja el control que la ansiedad tiene sobre mi atención hoy, especialmente sobre las cosas ordinarias que sigo repasando y que de todos modos no puedo controlar. Recuérdame que hay más en esta vida que la lista de cosas que temo que se me acaben."
+    },
+    {
+      "entry_id": "anxiety-mt-6-34",
+      "reflection": "Jesús no promete que mañana será fácil -- dice claramente que tendrá su propio problema. Lo que está señalando es el hábito de tomar prestado ese problema antes de tiempo, cargando el peso de dos días dentro de las horas de uno solo. La porción de hoy ya es bastante difícil sin que además se le pida que sostenga lo que pertenece a un día que aún no ha llegado.",
+      "prayer": "Señor, mantenme dentro de hoy en lugar de dejar que mi mente siga corriendo hacia los problemas de mañana antes de que siquiera lleguen. Dame fuerza suficiente para lo que realmente tengo delante ahora mismo, y ayúdame a dejar la porción de mañana donde le corresponde, en tus manos y no en las mías todavía. No dejes que cargue el peso de dos días en las horas de uno solo."
+    },
+    {
+      "entry_id": "anxiety-ps-55-22",
+      "reflection": "La palabra \"echa\" sugiere una acción real, decisiva, no un alivio gradual -- algo lanzado en lugar de depositado poco a poco. David no dice que la carga desaparece, solo que ya no es suya sola de cargar; sostener es un verbo continuo, un apoyo constante en lugar de un rescate único. Estar \"inconmovible\" no significa quedar intacto por el problema, sino no ser sacudido de un cimiento que se sostiene de todos modos.",
+      "prayer": "Señor, quiero echar esto sobre ti de verdad, en lugar de solo hablar de hacerlo mientras en silencio sigo aferrada. Sostenme a través de aquello a lo que la ansiedad de hoy sigue volviendo, de la manera práctica que necesite verse. Guárdame de ser sacudida, aunque todavía pueda sentir el peso de lo que sucede a mi alrededor."
+    },
+    {
+      "entry_id": "anxiety-pr-12-25",
+      "reflection": "Proverbios trata la ansiedad como un peso literal, algo con masa que oprime el corazón y lo ralentiza. El remedio que ofrece es casi sorprendentemente ordinario -- no un argumento teológico, solo una palabra amable, dicha o recibida. Es un recordatorio de que el consuelo para la ansiedad no siempre necesita ser profundo para ser real; a veces solo necesita llegar.",
+      "prayer": "Señor, quita algo de este peso de mi corazón hoy, aunque llegue a través de algo tan pequeño como una palabra amable de alguien que no esperaba. Ayúdame a notar la bondad ordinaria que ya está a mi alrededor, en lugar de solo el peso que cargo. Y déjame ser esa palabra amable para alguien más que hoy carga la suya."
+    },
+    {
+      "entry_id": "anxiety-isa-26-3",
+      "reflection": "La paz que aquí se promete no depende de que las circunstancias se acomoden, sino de dónde esté fija la mente -- firme, permaneciendo en lugar de vagar de vuelta a cada preocupación. Isaías no describe la paz como la ausencia de razones para estar ansioso, sino como lo que le sucede a una mente que sigue devolviendo su confianza al mismo lugar. La paz perfecta, en ese sentido, es menos un sentimiento que llega y más una dirección elegida una y otra vez.",
+      "prayer": "Señor, mantén mi mente firme en ti hoy, porque sé lo rápido que vuelve a cada preocupación en cuanto dejo de prestar atención. No te pido que cada circunstancia ansiosa se resuelva -- te pido la paz que viene de confiar en ti en medio de ellas. Sigue trayendo mis pensamientos de vuelta a ti, tantas veces como haga falta hoy."
+    },
+    {
+      "entry_id": "anxiety-ps-34-4",
+      "reflection": "David describe esto en pasado, como algo que ya le sucedió, no una teoría sobre lo que Dios podría hacer. Buscar viene primero en el versículo, antes de la respuesta y antes de la liberación -- los miedos no se eliminaron al instante por sí solos, sino en el curso de una búsqueda real de Dios. Es un testimonio ofrecido para que alguien más que tenga miedo ahora mismo tenga razones para empezar a buscar también.",
+      "prayer": "Señor, te busco en medio de esta ansiedad, como hizo David, y te pido que respondas como le respondiste a él. Líbrame de estos miedos, no necesariamente quitando lo que temo, sino encontrándote conmigo mientras lo temo. Que esto sea algo que pueda recordar y contarle a alguien más algún día."
+    },
+    {
+      "entry_id": "grief-mt-5-4",
+      "reflection": "El duelo no es un fallo de fe. Cristo llama bienaventurado al que llora, lo cual significa que tu tristeza es sostenida, no apresurada. El consuelo se promete en futuro; no llegas tarde a él si todavía no ha llegado.",
+      "prayer": "Señor, siéntate conmigo en esta pérdida. Consuélame a tu tiempo, no al mío."
+    },
+    {
+      "entry_id": "grief-ps-34-18",
+      "reflection": "La cercanía llega antes que la sanación en este versículo, y ese orden importa. Dios se acerca más a los quebrantados que a los compuestos, lo cual significa que no tienes que recomponerte primero para ser encontrada.",
+      "prayer": "Jesús, quédate cerca esta noche. Todavía no necesito respuestas, solo tu presencia."
+    },
+    {
+      "entry_id": "grief-rev-21-4",
+      "reflection": "Esto no es una promesa de que el duelo carezca de sentido ahora, sino de que no es permanente. La imagen es tierna y concreta -- una mano que enjuga las lágrimas -- no una idea abstracta de consuelo, sino una personal.",
+      "prayer": "Señor, no te pido aún dejar de llorar. Te pido confiar en que un día tú mismo enjugarás esto."
+    },
+    {
+      "entry_id": "grief-ps-30-5",
+      "reflection": "El versículo no apresura el llanto -- se le permite la noche entera. Lo que promete es que la noche tiene un final, lo cual es un consuelo distinto al de que te digan que dejes de llorar ahora.",
+      "prayer": "Señor, quédate conmigo a lo largo de esta noche. Confío en ti para la mañana, incluso antes de que llegue."
+    },
+    {
+      "entry_id": "grief-ps-147-3",
+      "reflection": "El salmo une dos imágenes -- sanar y vendar -- la forma en que una herida realmente se atiende, no cerrada al instante sino curada y dándole tiempo. No especifica cuánto dura la sanación, solo que es esta la obra particular de Dios, dirigida a corazones lo bastante quebrantados como para necesitarla. Aquí el duelo no se trata como algo que hay que superar rápido, sino como una herida que merece el cuidado de ser vendada correctamente.",
+      "prayer": "Señor, mi corazón está quebrantado ahora mismo, y necesito que de verdad lo vendes en lugar de solo decirme que estará bien con el tiempo. Sé paciente con lo lento que esto sana, y no dejes que me apresure más allá de un duelo que todavía necesita cuidado. Haz en mí la clase de trabajo cuidadoso y sin prisa que describe este versículo."
+    },
+    {
+      "entry_id": "grief-jn-11-35",
+      "reflection": "Dos palabras, y sin embargo cargan un peso enorme -- Jesús, de pie ante la tumba de Lázaro, sabiendo ya que está a punto de resucitarlo, aun así llora. Esto no es un fallo de fe ni un desliz antes del milagro; es un duelo al que se le permite existir plenamente incluso junto a una esperanza real. Si Jesús lloró sabiendo el final, el duelo no exige fingir que no sabes que Dios es bueno.",
+      "prayer": "Señor, gracias porque lloraste, porque eso me dice que mis propias lágrimas no son señal de que lo esté haciendo mal. Déjame hacer duelo con honestidad hoy sin sentir que tengo que apresurarme hacia la esperanza antes de estar lista. Y cuando lo esté, encuéntrame ahí como encontraste a María y Marta, llorando junto a ellas."
+    },
+    {
+      "entry_id": "grief-2cor-1-3",
+      "reflection": "Pablo describe el consuelo como algo que no se detiene en la persona que primero lo recibe -- se da para poder transmitirse después a alguien más en su propia aflicción. Esto no le exige al duelo un propósito que todavía no tiene, solo señala que el consuelo recibido rara vez se queda en un solo lugar. Ser consolada ahora podría, en silencio, estar preparándote para consolar a alguien más que aún no conoces.",
+      "prayer": "Señor, consuélame en este duelo como solo tú realmente puedes, no con respuestas fáciles sino con tu presencia real. No estoy lista para pensar en ayudar a nadie más con su dolor ahora mismo, así que por favor no me apresures hacia eso. Pero cuando lo esté, que lo que has hecho por mí se convierta en algo que pueda de verdad ofrecerle a otra persona."
+    },
+    {
+      "entry_id": "grief-isa-61-1",
+      "reflection": "La lista de Isaías es una serie de intercambios, cada uno nombrando exactamente qué se está cambiando -- ceniza por una corona, luto por aceite, pesadumbre por alabanza -- no una negación de que la ceniza, el luto y la pesadumbre sean reales. Cada imagen asume que el duelo llegó primero y fue genuino antes de que se produjera ningún intercambio. El intercambio no ocurre según un calendario que Isaías nombre; se promete, no se programa.",
+      "prayer": "Señor, ahora mismo sostengo ceniza, y no te pido que finjas que no está ahí. Cuando llegue el momento, cambia esta pesadumbre por algo más ligero, este luto por gozo verdadero, como describe esta promesa. Hasta entonces, sé paciente conmigo mientras todavía estoy sentada en lo que genuinamente es difícil."
+    },
+    {
+      "entry_id": "grief-ps-56-8",
+      "reflection": "El salmista imagina algo casi tierno en su precisión -- lágrimas recogidas, andanzas contadas, nada de este duelo pasando desapercibido o sin quedar registrado. Es un consuelo extraño, quizás, pensar que la tristeza se guarda en algún lugar en vez de simplemente pasar sin marca, pero esa es la afirmación: nada aquí se desperdicia ni es invisible para Dios. Un duelo observado tan de cerca no tiene por qué cargar además con el peso de sentirse invisible.",
+      "prayer": "Señor, gracias por notar lágrimas que pensé que nadie contaba. Déjame sentirme verdaderamente vista en este duelo en lugar de como si lo cargara sola en la oscuridad. Guarda lo que estoy pasando en tu libro, incluso las partes para las que todavía no he encontrado palabras."
+    },
+    {
+      "entry_id": "grief-1the-4-13",
+      "reflection": "Pablo no les dice a los tesalonicenses que no hagan duelo -- es específico en que la diferencia está en llorar sin esperanza, no en llorar en absoluto. La comparación que traza es cuidadosa: porque Jesús resucitó, los que murieron en él no están perdidos de la manera en que el duelo sin esperanza supone. Esto no hace más pequeño el duelo en sí, solo le da un suelo que no cede del todo.",
+      "prayer": "Señor, déjame hacer duelo con honestidad, como este pasaje asume que todavía lo haré, sin exigirme no sentir nada. Pero sostenme con la esperanza que Pablo describe aquí, la esperanza de que esto no es el final de la historia para quien estoy llorando. No dejes que mi tristeza se convierta en el tipo que ya no tiene dónde sostenerse."
+    },
+    {
+      "entry_id": "temptation-1cor-10-13",
+      "reflection": "Aquí se dicen dos cosas, y la segunda es la útil. El impulso que sientes es común a todos, así que no es evidencia de que estés singularmente roto. Y siempre hay ya preparada una salida. Busca la salida en lugar de más fuerza de voluntad.",
+      "prayer": "Señor, muéstrame la salida que ya has preparado. Dame fuerza para la próxima hora, no para el próximo año."
+    },
+    {
+      "entry_id": "temptation-mt-26-41",
+      "reflection": "Cristo nombra el patrón la noche antes de morir. La vigilancia viene antes del momento, no durante él. Para cuando estás al borde, la lucha ya está mayormente decidida, así que el trabajo pertenece a antes, a cuidar el acercamiento.",
+      "prayer": "Jesús, guarda mis pasos antes de que llegue al borde. Hazme honesto sobre lo que me lleva ahí."
+    },
+    {
+      "entry_id": "temptation-jas-1-12",
+      "reflection": "Santiago llama bienaventurado a quien todavía está de pie en medio de la tentación, no solo al que ya la ha dejado atrás. La perseverancia misma se trata como algo que vale por sí sola, no solo como un medio hacia una recompensa eventual.",
+      "prayer": "Señor, todavía estoy en medio de esto. Ayúdame a resistir el próximo minuto, no toda la lucha de una vez."
+    },
+    {
+      "entry_id": "temptation-heb-2-18",
+      "reflection": "La ayuda que aquí se ofrece viene de la experiencia directa, no de una compasión distante. Cristo no aconseja desde fuera de la lucha -- puede ayudar precisamente porque ha estado dentro de una.",
+      "prayer": "Jesús, tú conoces este impulso desde adentro. Ayúdame como solo alguien que lo ha sentido puede hacerlo."
+    },
+    {
+      "entry_id": "temptation-jas-4-7",
+      "reflection": "Santiago pone la sumisión antes de la resistencia, como si resistir bien la tentación dependiera primero de estar correctamente alineado con Dios y no solo de la fuerza de voluntad. La promesa de que el diablo huirá no es vaga -- es una respuesta directa a la resistencia real, no simplemente desear que la tentación se vaya. Que huya sugiere que la tentación misma no es tan fija ni permanente como se siente en el momento.",
+      "prayer": "Señor, quiero de verdad someterme a ti antes de intentar resistir lo que me tienta ahora mismo, porque sé que mi propia fuerza de voluntad se agota rápido. Dame la fuerza para resistir en lugar de negociar con esto, y que huya de verdad como promete este versículo. Mantenme lo bastante cerca de ti para que resistir no se sienta como algo que depende todo de mí."
+    },
+    {
+      "entry_id": "temptation-gal-6-1",
+      "reflection": "La advertencia de Pablo está dirigida tanto a quien restaura como al que cayó -- un recordatorio de que ver el fallo de otro no te hace inmune al mismo. Se especifica la mansedumbre, no porque la falta no importe, sino porque la dureza tiende a cegar a quien la ofrece frente a su propia vulnerabilidad. Nadie en este versículo queda posicionado como a salvo por encima de la tentación.",
+      "prayer": "Señor, mantenme humilde sobre mi propia vulnerabilidad a esto, incluso mientras trato de ayudar o juzgar a alguien más que está luchando. Restáurame con mansedumbre donde ya he caído, y ayúdame a ofrecer esa misma mansedumbre en lugar de superioridad a los demás. No dejes que piense que estoy por encima de lo mismo que ahora mismo me tienta."
+    },
+    {
+      "entry_id": "temptation-2pet-2-9",
+      "reflection": "Pedro afirma esto como algo que Dios simplemente sabe hacer -- no una esperanza o posibilidad sino una competencia asentada, extraída de ejemplos anteriores en el pasaje de personas que en verdad fueron libradas. La confianza aquí no está en quien enfrenta la tentación, sino en la habilidad demostrada de Dios para el rescate. Saber cómo implica experiencia, no un primer intento.",
+      "prayer": "Señor, confío en que sabes cómo librarme de esto, aunque yo no sepa cómo salir por mí mismo. Haz lo que ya has mostrado que sabes hacer, como lo hiciste con otros antes que yo. No dejes que esta tentación sea la única vez que tu rescate no llegue."
+    },
+    {
+      "entry_id": "temptation-ps-119-11",
+      "reflection": "El salmista describe una preparación hecha con anticipación, antes de que llegue el momento de la tentación -- la palabra ya escondida, ya guardada, no buscada bajo presión. Aquí el pecado se enmarca de manera relacional, contra una persona y no solo como una regla rota, lo cual cambia lo que está en juego al resistirlo. Esconder la palabra no es pasivo; es una salvaguarda activa puesta antes de que se necesite.",
+      "prayer": "Señor, ayúdame a guardar tu palabra en mi corazón ahora, antes de necesitarla en el mismo momento en que sea atraído hacia este pecado. Que lo que ya he escondido ahí se levante cuando lo necesite, más rápido de lo que puedo pensar para salir del problema. Recuérdame que esto es contra ti, no solo una regla, para que tenga una razón real para resistir."
+    },
+    {
+      "entry_id": "temptation-eph-6-11",
+      "reflection": "La instrucción de Pablo es ponerse toda la armadura, no solo las piezas que parecen relevantes para la lucha particular de hoy -- la imagen asume vulnerabilidad en cualquier lugar que quede descubierto. \"Asechanzas\" sugiere algo más parecido a estrategia que a fuerza bruta, una tentación dirigida con cuidado y no al azar. Mantenerse en pie, no ganar del todo, es la meta que aquí se nombra -- sostener tu terreno es en sí misma la victoria a la vista.",
+      "prayer": "Señor, ayúdame a ponerme toda la armadura que me has dado, no solo las partes que parecen útiles para la tentación de hoy, porque no siempre sé dónde estoy expuesto. Dame fuerza para simplemente mantenerme en pie donde estoy en lugar de retroceder o caer, aunque mantenerme en pie sea todo lo que pueda hacer ahora mismo. Protege los lugares que ni siquiera me doy cuenta que son vulnerables."
+    },
+    {
+      "entry_id": "temptation-1pet-5-8",
+      "reflection": "La advertencia de Pedro nombra el peligro con claridad en lugar de suavizarlo -- un león que busca activamente, no una amenaza lejana o teórica. Pero la instrucción que sigue no es pánico; es vigilancia y sobriedad, una alerta lúcida en lugar de miedo. Resistir se hace en la fe, no solo en la fuerza personal, que es la única razón por la que resistir firme frente a algo tan real es siquiera posible.",
+      "prayer": "Señor, ayúdame a mantenerme alerta y lúcido en lugar de dejarme llevar por el tipo de descuido que me hace fácil de atrapar. Sé que esta tentación no es inofensiva, así que dame la fe firme que describe Pedro para resistirla en lugar de enfrentarla con mis propias fuerzas. Mantenme vigilante sin dejar que esa vigilancia se convierta en miedo."
+    },
+    {
+      "entry_id": "lonely-jn-14-18",
+      "reflection": "Cristo dice esto horas antes de su arresto, a hombres a punto de dispersarse. No promete que te sentirás acompañado de inmediato. Promete que no te dejará huérfano -- la soledad es real, pero no es la última palabra.",
+      "prayer": "Jesús, en esta habitación vacía, hazme saber que estás aquí."
+    },
+    {
+      "entry_id": "lonely-mt-28-20",
+      "reflection": "Estas son las últimas palabras del Evangelio, dichas como un mandato para salir al mundo. La promesa de presencia no se reserva para los momentos seguros -- siempre incluye los días en que te sientes más solo. Es un hecho en el cual apoyarse, no un sentimiento que perseguir.",
+      "prayer": "Señor, recuérdame hoy que estoy acompañado, aunque no lo sienta así."
+    },
+    {
+      "entry_id": "lonely-ps-68-6",
+      "reflection": "El versículo une dos rescates que no parecen ir juntos a simple vista -- el solitario y el prisionero -- como si el aislamiento mismo fuera una especie de confinamiento en el que Dios se especializa en abrir.",
+      "prayer": "Señor, tú colocas al solitario en un lugar al que pertenece. Te pido ese lugar."
+    },
+    {
+      "entry_id": "lonely-deut-31-6",
+      "reflection": "Moisés le dice esto a toda una nación al borde de un futuro sin él liderándola. La promesa no es que no se sentirán solos, sino que esa soledad no es exacta -- alguien va con ellos de todos modos.",
+      "prayer": "Señor, recuérdame que no te has ido, incluso en los días en que se siente lo contrario."
+    },
+    {
+      "entry_id": "lonely-heb-13-5",
+      "reflection": "La promesa llega unida a una advertencia sobre el amor al dinero, como si el autor ya hubiera anticipado que la soledad y la carencia empujan a menudo a la gente a llenar el vacío con otra cosa. La doble negación detrás de \"de ningún modo\" y \"jamás\" es deliberadamente enfática, casi exagerada, como si el lenguaje ordinario no fuera lo bastante fuerte para lo absoluta que se pretende que sea esta promesa. El contentamiento es posible aquí no porque las circunstancias basten, sino porque se nombra la presencia de Dios como más permanente que ellas.",
+      "prayer": "Señor, cuando la soledad me haga buscar algo más para llenar el espacio, recuérdame primero que has prometido no dejarme nunca. Ayúdame a creer de verdad la fuerza de esa promesa en lugar de solo conocer las palabras. Enséñame un contentamiento que venga de que tu presencia sea suficiente, incluso en las noches en que no se sienta así."
+    },
+    {
+      "entry_id": "lonely-ps-25-16",
+      "reflection": "David no intenta explicar su soledad ni razonar para salir de ella; la nombra claramente -- desolado, afligido -- y convierte esa nombrada directamente en petición. No hay aquí pretensión de que la fe signifique no sentirse aislado; la oración existe precisamente porque el sentimiento es real. La misericordia se pide, no se gana, lo cual significa que la soledad misma no necesita resolverse primero antes de que Dios se vuelva hacia él.",
+      "prayer": "Señor, estoy solo, y no quiero disfrazarlo con algo menos honesto que las propias palabras de David. Vuélvete hacia mí como él te pidió que te volvieras hacia él, y ten misericordia de mí en medio de sentirme tan desolado. No pido haber ganado primero tu atención -- solo la pido ahora."
+    },
+    {
+      "entry_id": "lonely-ps-139-7",
+      "reflection": "El salmista repasa las posibilidades más extremas que puede imaginar -- el cielo más alto, las profundidades, los confines más lejanos del mar -- y encuentra a Dios ya presente en cada una de ellas. Esto no se presenta como algo limitante o ineludible en sentido amenazante, sino como la respuesta más profunda posible al aislamiento: no hay lugar al que la soledad pueda llevarte que supere la presencia de Dios. La soledad, por severa que sea, no puede de verdad ponerte en ningún lugar solo.",
+      "prayer": "Señor, cuando la soledad me convence de que he derivado hacia un lugar donde ni siquiera tú puedes llegar, recuérdame lo que en realidad dice este salmo. No hay lugar al que pueda ir, ninguna profundidad lo bastante baja, donde tu presencia no haya llegado ya primero. Que esa verdad de verdad alcance la parte aislada de mí esta noche, no solo mi cabeza."
+    },
+    {
+      "entry_id": "lonely-ps-23-4",
+      "reflection": "Este es uno de los versículos más conocidos de la Escritura, pero su consuelo depende de un detalle específico fácil de pasar por alto -- el valle se atraviesa caminando, no se vive en él permanentemente, y se camina acompañado, no solo. La vara y el cayado son herramientas para guiar y proteger, equipo ordinario de pastor y no un rescate dramático, lo cual hace que el consuelo se sienta constante en lugar de repentino. El miedo pierde su dominio no porque el valle desaparezca, sino por quién se confirma que también lo atraviesa.",
+      "prayer": "Señor, camina este valle conmigo, por largo que resulte ser, porque no creo poder caminarlo con convicción solo. Que tu presencia sea tan real y cercana para mí como la vara y el cayado de un pastor realmente en mano. Toma el miedo que quiere crecer en esta soledad y cámbialo por el consuelo de saber que estás aquí."
+    },
+    {
+      "entry_id": "lonely-jn-14-16",
+      "reflection": "Jesús hace esta promesa a discípulos que están a punto de sentir aguda su ausencia física -- él se va, y responde a esa pérdida próxima con la promesa de una presencia que durará para siempre y no solo temporalmente. \"Otro Consolador\" implica continuidad, no un reemplazo menor, alguien de la misma clase que toma un papel continuo. Para siempre es la palabra específica que se usa aquí, respondiendo directamente al tipo de soledad que teme que toda buena presencia termine por irse.",
+      "prayer": "Señor, gracias porque no dejaste a tus discípulos, ni a mí, sin presencia real cuando cambiaron las cosas. Que el Espíritu que prometiste esté tan cerca y sea tan real para mí esta noche como se siente esta soledad. Recuérdame que para siempre es la palabra real que usaste, no solo un consuelo temporal hasta que llegue algo mejor."
+    },
+    {
+      "entry_id": "lonely-ps-27-10",
+      "reflection": "David nombra las relaciones humanas más fundamentales que puede imaginar fallando -- no extraños o conocidos, sino padre y madre -- y aun así encuentra la acogida de Dios por debajo incluso de eso. Esto no describe necesariamente la experiencia literal de David tanto como nombra la peor soledad imaginable, la pérdida de las personas que se supone deben estar ahí pase lo que pase. Incluso ahí, ser recogido se promete, no solo tolerado.",
+      "prayer": "Señor, en los días en que la soledad me hace sentir que hasta las personas más cercanas se han alejado, recuérdame que tú recoges lo que ha sido abandonado. No necesito que cada relación se repare esta noche para saber que no estoy realmente solo. Sé el que me recoge cuando se siente como si todos los demás hubieran soltado."
+    },
+    {
+      "entry_id": "angry-eph-4-26",
+      "reflection": "Pablo no condena el enojo en sí, solo lo que dejas que se convierta después del anochecer. Puede que algo en ti tenga razón en estar molesto. La instrucción no es tragárselo -- es no dejar que se instale y establezca residencia permanente.",
+      "prayer": "Señor, estoy enojado. Muéstrame qué hay de justo en ello, y ayúdame a soltar el resto antes de esta noche."
+    },
+    {
+      "entry_id": "angry-jas-1-19",
+      "reflection": "El orden de esta frase es toda la instrucción: escuchar primero, hablar después, el enojo al final. La mayoría de las discusiones corren el orden al revés. Escuchar hasta el final, antes de responder, hace más para desactivar el enojo que cualquier cantidad de autocontrol aplicado después.",
+      "prayer": "Señor, frena mi paso. Déjame escuchar antes de responder."
+    },
+    {
+      "entry_id": "angry-pr-15-1",
+      "reflection": "El proverbio te entrega una palanca, no un sermón: la misma conversación puede escalar o desescalar casi por completo según el tono de la próxima frase que elijas.",
+      "prayer": "Señor, dame una respuesta amable para lo próximo que quiero decir con dureza."
+    },
+    {
+      "entry_id": "angry-col-3-8",
+      "reflection": "Pablo enumera el enojo junto a la calumnia y la malicia, no como un sentimiento privado sino como algo con un rastro público -- la boca es donde suele aparecer primero, y donde también se puede atrapar.",
+      "prayer": "Señor, cuida lo que sale de mi boca ahora mismo, antes de que haya tenido tiempo de calmarme."
+    },
+    {
+      "entry_id": "angry-ps-37-8",
+      "reflection": "El salmo coloca el enojo y la inquietud lado a lado, tratándolos como la misma familia de reacción, ambos llevando solo a hacer el mal en lugar de a una resolución. No hay aquí ningún argumento sobre si el enojo podría estar justificado o no -- el consejo es simplemente dejarlo antes de que lleve a algo peor. Cesar se presenta como una elección disponible en el momento, no algo que tenga que esperar a que se resuelva el detonante mismo.",
+      "prayer": "Señor, estoy enojado ahora mismo, y ya puedo sentir hacia dónde podría llevar esto si no lo dejo. Ayúdame a cesar antes de que se convierta en algo de lo que me arrepienta, aunque lo que lo causó todavía pueda estar completamente sin resolver. Dame la fuerza para dejarlo a un lado en lugar de alimentarlo."
+    },
+    {
+      "entry_id": "angry-pr-29-11",
+      "reflection": "Proverbios traza un contraste marcado entre desahogarlo todo y traerse a uno mismo bajo control, sin fingir que el sentimiento de enojo en sí sea el problema -- tanto el necio como el sabio presumiblemente sienten algo. La diferencia está enteramente en lo que sucede después, si el enojo se libera por completo o se retiene y gobierna. El control aquí no es tanto supresión como contención ejercida a propósito.",
+      "prayer": "Señor, no quiero desahogar todo lo que siento ahora mismo y llamarlo honestidad. Ayúdame más bien a traerme bajo control, no fingiendo que no estoy enojado, sino eligiendo no descargarlo todo sobre quien esté más cerca. Dame la sabiduría de sostener esto bien en lugar de liberarlo sin cuidado."
+    },
+    {
+      "entry_id": "angry-eccl-7-9",
+      "reflection": "La advertencia del Predicador es específicamente sobre la precipitación -- no el enojo en sí, sino la velocidad con la que se le permite tomar el espíritu. Que el enojo repose en el seno de los necios sugiere que no es el sentimiento lo que marca la necedad, sino hacerlo un residente permanente en lugar de un visitante pasajero. La lentitud, en este pequeño proverbio, es en sí misma una forma de sabiduría.",
+      "prayer": "Señor, frena mi paso antes de que este enojo se instale donde no debería. No quiero que repose y se sienta como en casa dentro de mí, como advierte este proverbio. Ayúdame a sentirlo con honestidad sin dejar que se convierta en algo que sigo cargando mucho después de que haya pasado el momento que lo causó."
+    },
+    {
+      "entry_id": "angry-jas-1-20",
+      "reflection": "Santiago hace una afirmación sorprendente: el enojo humano, por muy justificado que se sienta, en realidad no produce la justicia de Dios. Esto no niega que algún enojo responda a un mal real, solo observa que el enojo en sí no es la herramienta que lo arregla. El resultado justo que se espera necesitará venir de otro lugar distinto al impulso del propio enojo.",
+      "prayer": "Señor, quiero que el resultado de esta situación sea justo, pero sé que mi enojo por sí solo no producirá eso, por muy justificado que se sienta. Ayúdame a buscar lo correcto por algún medio distinto de dejar que este enojo siga su curso. No dejes que confunda la intensidad de mi sentimiento con lo correcto de mi respuesta."
+    },
+    {
+      "entry_id": "angry-ro-12-19",
+      "reflection": "La instrucción de Pablo asume que el mal que se está respondiendo podría ser completamente real -- no pide a los creyentes que finjan que no hubo ofensa, solo que dejen el pagarla a Dios en lugar de tomarla ellos mismos. \"Dad lugar a la ira de Dios\" sugiere retroceder en lugar de intervenir, confiando en que la justicia no depende de la represalia personal para ser real. Que la venganza sea de Dios no niega que sea merecida, solo reasigna quién la ejecuta.",
+      "prayer": "Señor, quiero arreglar esto yo mismo, pero ayúdame a darte lugar a ti en lugar de tomar venganza por mi propia mano. No te pido que ignores lo que pasó -- te pido que seas tú quien se encargue de ello, no yo. Ayúdame a retroceder lo suficiente como para dejar que eso sea de verdad."
+    },
+    {
+      "entry_id": "angry-pr-16-32",
+      "reflection": "El proverbio compara dos tipos de fuerza que normalmente no se sopesan entre sí -- la conquista militar y el autogobierno -- y falla decisivamente a favor del más silencioso. Ser tardo para la ira se enmarca como un logro genuino, no una ausencia pasiva de sentimiento sino un logro activo que vale más que tomar una ciudad. Gobernar el propio espíritu se nombra como la victoria más difícil y valiosa.",
+      "prayer": "Señor, ayúdame a ver gobernar mi propio espíritu ahora mismo como una victoria real, aunque no se vea así para nadie que observe. No necesito ganar esta discusión ni salir por encima para demostrar nada. Hazme tardo para la ira hoy, y que esa lentitud sea la fuerza con la que realmente me quede."
+    },
+    {
+      "entry_id": "guilt-1jo-1-9",
+      "reflection": "Juan no dice que la confesión haga que la culpa desaparezca al instante, ni que lo que pasó fuera de algún modo excusable. Dice que Dios es fiel para perdonarlo -- fiel, no solo dispuesto, como si esto fuera una gracia sorprendente y no una reticencia rutinaria que hay que persuadir.",
+      "prayer": "Señor, te traigo lo que hice. Perdóname, y ayúdame a creer que ya lo has hecho."
+    },
+    {
+      "entry_id": "guilt-ro-8-1",
+      "reflection": "Pablo no describe aquí un sentimiento sino una posición: ninguna condenación, en tiempo presente, para quien está en Cristo. La vergüenza sigue litigando un caso que ya se decidió a tu favor. Se te permite dejar de argumentarlo.",
+      "prayer": "Señor, ayúdame a vivir como alguien que de verdad ha sido perdonado, no como alguien que sigue en juicio."
+    },
+    {
+      "entry_id": "guilt-ps-103-12",
+      "reflection": "El este y el oeste nunca se encuentran, por más lejos que viajes en cualquier dirección -- el salmista elige la única distancia que no tiene fin medible, para describir cuán completamente se aparta esto.",
+      "prayer": "Señor, gracias por poner esto tan lejos de mí como el oriente está del occidente. Ayúdame a dejar de arrastrarlo de vuelta."
+    },
+    {
+      "entry_id": "guilt-isa-1-18",
+      "reflection": "Dios no te pide que finjas que la mancha no está ahí -- escarlata y carmesí se nombran claramente. La invitación es traer el color real de ella y dejar que sea cambiado, no llegar ya limpio.",
+      "prayer": "Señor, esto es lo que de verdad está manchado en mí. Lo traigo tal como es, no como desearía que fuera."
+    },
+    {
+      "entry_id": "guilt-ps-32-5",
+      "reflection": "David no describe un desahogo lento sino un acto decisivo -- reconocer, no esconder, decir claramente que confesaría. El perdón que sigue llega de inmediato en la estructura del versículo, justo detrás de la confesión, sin ningún hueco descrito para castigo o prueba entre medio. La culpa cargada en silencio y la culpa dicha en voz alta se tratan aquí como dos situaciones completamente distintas.",
+      "prayer": "Señor, ya no quiero esconder esto, como David describe intentar no hacerlo. Te lo confieso con claridad, sin adornarlo ni justificarlo. Que tu perdón me alcance tan rápido como lo alcanzó a él, justo al otro lado de por fin decirlo en voz alta."
+    },
+    {
+      "entry_id": "guilt-mic-7-19",
+      "reflection": "La imagen de Miqueas es deliberadamente definitiva -- pecados hollados bajo los pies, echados a profundidades de las que nadie podría recuperar nada. Esto no es una eliminación parcial o provisional; se usan las profundidades del mar precisamente porque nada arrojado ahí vuelve a subir. La compasión se nombra como la razón detrás de la acción, no un tecnicismo o una escapatoria, sino la disposición real de Dios hacia el culpable.",
+      "prayer": "Señor, toma esta culpa y haz con ella lo que describe este versículo -- hóllala bajo tus pies, échala a un lugar del que nunca pueda recuperarla otra vez. No quiero seguir pescando esto de vuelta de las profundidades donde ya lo has arrojado. Que tu compasión sea la razón por la que por fin pueda dejarlo ahí."
+    },
+    {
+      "entry_id": "guilt-heb-10-22",
+      "reflection": "El autor une una limpieza interior -- corazones rociados de mala conciencia -- con una exterior, el cuerpo lavado con agua pura, como si la culpa necesitara atenderse en ambos niveles para realmente acercarse. Aquí la conciencia no solo se corrige; se le llama mala, claramente, antes de describirse como purificada. Acercarse solo es posible después de que ese problema específico se haya tratado, no rodeándolo.",
+      "prayer": "Señor, rocía limpio mi corazón de la conciencia que sigue acusándome, como describe este versículo. Quiero acercarme a ti en plena certidumbre de fe, no rondando a distancia porque todavía me siento descalificado. Lava lo que necesite lavarse, por dentro tanto como cualquier cosa visible por fuera."
+    },
+    {
+      "entry_id": "guilt-jn-8-10",
+      "reflection": "La pregunta de Jesús a la mujer es casi retórica -- ya sabe que nadie la condenó, puesto que él mismo fue quien despidió a sus acusadores momentos antes. Su propia respuesta, \"ni yo te condeno\", viene de la única persona realmente calificada para condenarla, lo cual hace que la negativa signifique algo que el silencio de los acusadores no podía. La instrucción que sigue, no pecar más, llega después de la absolución, no como su condición.",
+      "prayer": "Señor, déjame escucharte decir lo que le dijiste a ella -- que tampoco tú me condenas, aunque eres el único que en verdad podría hacerlo. No quiero esperar a haberme limpiado primero para creer que eso es verdad. Ayúdame a salir de aquí distinto, como ella, porque fui perdonado primero, y no al revés."
+    },
+    {
+      "entry_id": "guilt-ps-51-7",
+      "reflection": "David pide algo hecho enteramente por otro, no algo que él mismo logra -- purifícame, lávame, ambos verbos pasivos dirigidos a Dios como el que actúa. La comparación con la nieve es total, no un blanqueo parcial sino una transformación completa desde cualquier estado anterior. Esta es una petición hecha por alguien que claramente sabe que no puede producir esta limpieza por sí mismo.",
+      "prayer": "Señor, purifícame, como David pidió ser purificado, porque sé que no puedo frotarme limpio yo mismo por mucho que lo intente. Lávame hasta que no quede rastro de esta culpa a la vista, no solo manejada o escondida sino verdaderamente ida. Haz la parte de esto que solo tú puedes hacer."
+    },
+    {
+      "entry_id": "guilt-ro-8-33-34",
+      "reflection": "Pablo formula esto como una escena judicial en la que ya no queda nadie de pie para acusar -- Dios mismo es quien justifica, y Cristo, que podría haber condenado, en cambio murió y resucitó por el acusado. Las preguntas retóricas no necesitan respuesta porque ninguna existe; no queda cargo válido una vez que Dios ya ha fallado a favor del acusado. La culpa que aquí sigue argumentando su caso está argumentando contra un veredicto ya resuelto.",
+      "prayer": "Señor, cuando la culpa intente traer un cargo contra mí otra vez, recuérdame que tú eres quien justifica, y ningún otro veredicto tiene lugar junto a eso. No necesito seguir relitigando algo que ya has resuelto. Que esto esté terminado como Pablo lo describe terminado, y no algo que yo mismo sigo reabriendo."
+    },
+    {
+      "entry_id": "doubt-mk-9-24",
+      "reflection": "Un padre le dice esto a Jesús sobre su propio hijo moribundo, y no es una declaración de fe ordenada. Son dos verdades dichas en el mismo aliento: creo, y no creo lo suficiente. Cristo no le pide que resuelva primero la contradicción. Sana al niño de todos modos.",
+      "prayer": "Señor, creo. Ayuda mi incredulidad."
+    },
+    {
+      "entry_id": "doubt-jn-20-29",
+      "reflection": "Tomás obtiene el encuentro que exigió, y Cristo no lo avergüenza por necesitarlo. Pero la bienaventuranza que aquí se nombra pertenece a quienes confían sin esa prueba. La duda no descalifica -- simplemente es el camino más difícil, y el que la mayoría de los creyentes en realidad recorre.",
+      "prayer": "Señor, no he visto, y quiero creer. Encuéntrame en el no ver."
+    },
+    {
+      "entry_id": "doubt-jas-1-6",
+      "reflection": "La imagen es de movimiento sin dirección -- una ola va hacia donde el viento la empuje después. Nombrada así, con claridad, la duda se parece menos a un fallo moral y más a una condición ordinaria, describible, que hay que llevar honestamente ante Dios en lugar de esconder.",
+      "prayer": "Señor, hoy me siento arrastrado. Afírmame, aunque la duda todavía no se vaya del todo."
+    },
+    {
+      "entry_id": "doubt-heb-11-1",
+      "reflection": "La fe se define aquí como su propio tipo de evidencia, no la ausencia de evidencia. Eso reformula la duda: no es necesariamente una falta de fe, sino la condición ordinaria de confiar en algo que aún no puedes ver confirmado.",
+      "prayer": "Señor, todavía no puedo ver el resultado. Que esta confianza ocupe el lugar de ver, por ahora."
+    },
+    {
+      "entry_id": "doubt-mt-14-31",
+      "reflection": "La duda de Pedro sucede en medio de un acto ya milagroso -- caminaba sobre el agua cuando el viento le hizo temer y comenzó a hundirse. La pregunta de Jesús no es desprecio retórico; viene unida a un rescate inmediato y físico, su mano extendida antes de que se exija ninguna explicación. Aquí la duda no descalifica a Pedro de ser sostenido; simplemente es la razón por la que hacía falta sostenerlo.",
+      "prayer": "Señor, ahora mismo me estoy hundiendo un poco, como le pasó a Pedro cuando notó el viento en lugar de a ti. Extiende tu mano y sostenme como lo sostuviste a él, antes de preguntarme nada sobre por qué dudé. Prefiero ser levantado dudando que nunca haber bajado del barco."
+    },
+    {
+      "entry_id": "doubt-lk-1-37",
+      "reflection": "El ángel le dice esto a María justo después de describir algo que, por cualquier medida ordinaria, parecía imposible para su circunstancia específica. La afirmación no es un lugar común general sobre el poder de Dios en abstracto; apunta directamente a su duda particular, a su cosa imposible en particular. Que nada de lo hablado por Dios sea imposible no borra lo extraño de lo que se pide, solo insiste en que lo extraño no es una barrera.",
+      "prayer": "Señor, lo que estoy dudando ahora mismo se siente imposible por cualquier medida ordinaria que tenga. Háblale a mi duda específica como el ángel le habló a la de María, no solo en términos generales sino apuntando justo a lo que de verdad no veo cómo podrías hacer. Ayúdame a confiar en que nada de lo que has hablado es imposible, ni siquiera esto."
+    },
+    {
+      "entry_id": "doubt-ro-4-20",
+      "reflection": "La descripción que hace Pablo de Abraham no finge que la promesa no fuera de verdad difícil de creer -- tanto su propio cuerpo como el de Sara ya habían pasado la edad que esta promesa requería. Titubear se nombra como una posibilidad real que Abraham podría haber elegido pero no eligió; fortalecerse por la fe se presenta como un proceso activo, no una certeza instantánea y sin esfuerzo. Dar gloria a Dios sucede en el momento de elegir, antes de que la promesa siquiera se cumpla.",
+      "prayer": "Señor, como Abraham, estoy mirando una promesa que parece ir en contra de todo lo que actualmente puedo ver. Ayúdame a no titubear por incredulidad, aunque titubear sería una respuesta comprensible a mis circunstancias. Fortaléceme por la fe como él se fortaleció, en la espera, y no solo cuando la respuesta finalmente llegue."
+    },
+    {
+      "entry_id": "doubt-hab-2-4",
+      "reflection": "Habacuc establece un contraste entre un alma hinchada e injusta, y la persona justa, cuya característica definitoria es simplemente que vive por fe. Vivir por fe no se describe como una sola decisión sino como una forma de existir continua, una postura diaria en lugar de un salto de una sola vez. Es un versículo breve, pero nombra a la fe como el mecanismo de toda una vida, no solo una respuesta a una crisis momentánea de duda.",
+      "prayer": "Señor, déjame vivir por fe como describe este versículo, y no solo creer por fe en un momento y luego volver a mis propios recursos. No quiero estar hinchado y confiar en mí mismo cuando la duda hace que eso se sienta más seguro. Haz de la fe mi forma continua de vivir, hoy y en los días después de que pase esta duda."
+    },
+    {
+      "entry_id": "doubt-jn-11-40",
+      "reflection": "Jesús le hace esta pregunta a Marta antes de resucitar a Lázaro, uniendo la fe directamente a lo que está a punto de presenciar en lugar de tratarlas como cosas separadas. No reprende tanto su duda como le recuerda algo que ya le había dicho, como si la promesa se le hubiera escapado de vista bajo el peso del duelo. Ver la gloria de Dios se presenta como condicionado a creer primero, y no al revés.",
+      "prayer": "Señor, recuérdame, como le recordaste a Marta, lo que ya me has dicho, porque creo que he dejado que la duda me lo haga olvidar. Ayúdame a creer antes de ver, confiando en que la gloria sigue viniendo aunque todavía no vea cómo. No dejes que mi duelo ni mi duda borren una promesa que ya me hiciste."
+    },
+    {
+      "entry_id": "doubt-2cor-5-7",
+      "reflection": "Pablo dice esto casi de paso, como un principio ya asentado y no algo que todavía se esté argumentando -- caminar, el movimiento diario continuo de la vida, sucede por fe, con la vista explícitamente descartada como base. Esto no significa que la vista sea mala ni que la fe sea ciega, solo que la fe está hecha exactamente para el terreno que la vista no puede cubrir. La duda a menudo quiere pruebas antes de moverse; este versículo describe moverse antes de que llegue la prueba.",
+      "prayer": "Señor, sigo queriendo ver antes de caminar, pero has dejado claro que la fe, no la vista, es cómo esto realmente funciona. Ayúdame a dar el próximo paso hoy aunque no pueda ver hacia dónde lleva. Que caminar por fe sea algo que de verdad hago, no solo una frase que conozco."
+    },
+    {
+      "entry_id": "weary-mt-11-28",
+      "reflection": "Esto es una invitación, no una orden. Cristo no le dice al agotado que se esfuerce más ni que explique la carga -- dice ven a mí primero. El descanso es donde comienza la respuesta, no una recompensa que espera al final de resolverlo todo tú solo.",
+      "prayer": "Jesús, vengo tal como estoy, agotado. Dame descanso."
+    },
+    {
+      "entry_id": "weary-isa-40-31",
+      "reflection": "La renovación aquí pertenece a los que esperan, no a los que se esfuerzan más -- una instrucción difícil para una persona cansada, porque esperar puede sentirse como no hacer nada. Pero la fuerza que viene de esperar en Dios dura más que la fuerza forzada por uno mismo.",
+      "prayer": "Señor, estoy cansado de una manera que el esfuerzo no va a arreglar. Renueva lo que yo mismo no puedo renovar."
+    },
+    {
+      "entry_id": "weary-gal-6-9",
+      "reflection": "Pablo no promete que el cansancio se levante de inmediato -- solo que detenerse ahora te costaría una cosecha que todavía viene en camino. La instrucción es aguantar un poco más, no sentir menos cansancio mientras lo haces.",
+      "prayer": "Señor, estoy tentado a rendirme justo al borde de algo. Dame fuerza para una temporada más."
+    },
+    {
+      "entry_id": "weary-ps-121-1",
+      "reflection": "El salmista hace la pregunta en voz alta antes de responderla -- un hábito útil para una mente cansada. Nombrar de dónde viene la ayuda realmente es en sí mismo un pequeño acto de levantar la mirada.",
+      "prayer": "Señor, mis ojos están cansados de mirar el problema. Ayúdame a levantarlos hacia ti en su lugar."
+    },
+    {
+      "entry_id": "weary-isa-40-29",
+      "reflection": "Isaías se dirige específicamente al débil y al que no tiene ninguna fuerza, no a la persona generalmente capaz que simplemente ha tenido un día largo -- esta promesa apunta al agotamiento genuino, no a una molestia leve. El poder y la fuerza se dan, no se convocan desde alguna reserva que se espera que la persona cansada encuentre en sí misma. El versículo asume que no queda nada interno de dónde sacar antes de describir a Dios suministrándolo desde afuera.",
+      "prayer": "Señor, ahora mismo no me queda fuerza propia, y no voy a fingir lo contrario. Dame poder como dice este versículo que lo das, a quienes de verdad se han quedado sin nada. Aumenta la fuerza que no tengo, porque esta noche no puedo fabricarla yo mismo."
+    },
+    {
+      "entry_id": "weary-ps-6-6",
+      "reflection": "David no suaviza el lenguaje de su agotamiento -- cansado de gemir, una cama inundada, un lecho empapado de lágrimas, imágenes de un cuerpo y una noche ambos desbordados por el dolor. Este es un cansancio con una causa específica nombrada directamente, duelo y no fatiga genérica, y se le permite describirse en detalle físico completo. Nada aquí se apresura hacia la resolución; el versículo simplemente nombra lo mala que ha sido la noche.",
+      "prayer": "Señor, mi cansancio esta noche se siente tan físico como David describe el suyo -- agotado por el duelo, no solo por un día largo. No voy a fingir que esto es más pequeño de lo que es. Encuéntrame en este cansancio inundado y empapado, y estate presente incluso antes de que algo mejore."
+    },
+    {
+      "entry_id": "weary-2cor-4-16",
+      "reflection": "Pablo reconoce un deterioro exterior sucediendo en tiempo real, no un revés temporal sino un proceso continuo -- y le opone una renovación igualmente continua, sucediendo por dentro al mismo ritmo. No desfallecer no significa no sentir el deterioro; significa tener algo más sosteniendo por debajo que el deterioro no puede tocar. Aquí la renovación es diaria, a la par del desgaste diario en lugar de un arreglo de una sola vez.",
+      "prayer": "Señor, mi yo exterior se siente como si se deteriorara un poco más cada día, y no voy a fingir que no es así. Renueva mi ser interior al mismo ritmo, cada día, para que no desfallezca bajo el peso de lo que se desgasta. Que haya algo en mí creciendo incluso mientras algo más se desvanece."
+    },
+    {
+      "entry_id": "weary-ps-55-6",
+      "reflection": "El deseo de alas de David no es en realidad sobre volar literalmente; es la fantasía específica del agotamiento, el deseo de simplemente estar en otro lugar, lejos de lo que sea que lo está desgastando. No actúa según eso ni finge que sea un plan real -- se nombra honestamente como un anhelo de descanso, admitido en lugar de actuado. Incluso sin cumplirse, decir el deseo en voz alta parece ser parte de lo que el salmo le ofrece.",
+      "prayer": "Señor, algunos días desearía simplemente volar lejos de todo esto, como David deseó alas de paloma. No te pido que hagas que eso suceda -- te pido que escuches el deseo con honestidad, como este salmo le deja decirlo en voz alta. Dame el descanso que en verdad busco, aunque no llegue por huir."
+    },
+    {
+      "entry_id": "weary-mt-11-29",
+      "reflection": "Jesús ofrece un yugo, de todas las cosas, como respuesta al cansancio -- no la eliminación de todo trabajo, sino un tipo particular de trabajo hecho junto a él y no en soledad. Aprender de él es parte de la invitación, no solo descansar sino ser enseñado algo en el proceso. Descanso para el alma, específicamente, es lo que se promete, distinto de simplemente tener menos que hacer.",
+      "prayer": "Señor, enséñame a tomar tu yugo en lugar de tratar de cargar con todo como he estado haciendo. No necesito que se me quite cada tarea -- necesito el descanso particular para mi alma que aquí me ofreces. Déjame aprender de ti en esto, manso y humilde, en lugar de agotarme tratando de demostrar algo."
+    },
+    {
+      "entry_id": "weary-ex-33-14",
+      "reflection": "Moisés acababa de pedirle a Dios directamente que no enviara al pueblo hacia adelante sin que su propia presencia fuera con ellos -- esta promesa es la respuesta de Dios a esa petición específica. Presencia y descanso se vinculan directamente en la misma frase, como si el descanso sin esa presencia no se estuviera realmente ofreciendo como opción. El descanso prometido no es una pausa del camino sino algo llevado dentro de él.",
+      "prayer": "Señor, ve conmigo como prometiste ir con Moisés, porque no quiero un descanso que venga de ningún otro lugar que no sea tu presencia. Que tu presencia sea lo que en verdad me descanse, no un respiro del camino sino algo real dentro de él. No me envíes hacia adelante sin ti, aunque esté tan cansado como ahora."
+    }
+  ]
+}
