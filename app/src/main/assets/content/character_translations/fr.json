@@ -651,6 +651,86 @@
       "character_id": "cyrus",
       "name": "Cyrus",
       "intro": "Le roi perse dont le décret libéra les exilés juifs pour rentrer chez eux et reconstruire le Temple -- un acte que l'Écriture attribue à Dieu qui réveilla son esprit, et qu'Ésaïe nomme des générations à l'avance."
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "name": "Éliphaz, Bildad et Tsophar",
+      "intro": "Les trois amis de Job, qui s'assirent avec lui en silence pendant sept jours avant d'ouvrir un long débat, insistant que sa souffrance devait être un châtiment pour un péché caché."
+    },
+    {
+      "character_id": "elihu",
+      "name": "Élihu",
+      "intro": "Un jeune homme qui attendit la fin de tout le débat des trois amis de Job avant de parler -- et dont le long discours final oriente la conversation vers la grandeur de Dieu plutôt que vers l'attribution de blâme."
+    },
+    {
+      "character_id": "lot",
+      "name": "Lot",
+      "intro": "Le neveu d'Abraham, dont le choix de la vallée fertile du Jourdain le conduisit à Sodome, et qui fut secouru par des anges la nuit où la ville fut détruite."
+    },
+    {
+      "character_id": "lots-wife",
+      "name": "La femme de Lot",
+      "intro": "Avertie de ne pas regarder en arrière en fuyant la destruction de Sodome -- et changée en statue de sel lorsqu'elle le fit."
+    },
+    {
+      "character_id": "ishmael",
+      "name": "Ismaël",
+      "intro": "Le fils premier-né d'Abraham, né d'Agar, que Dieu promit de faire devenir une grande nation, bien que l'alliance devait passer par Isaac."
+    },
+    {
+      "character_id": "laban",
+      "name": "Laban",
+      "intro": "Le frère de Rébecca et l'oncle de Jacob -- et son beau-père, qui trompa Jacob pour qu'il épouse ses deux filles, avant que Jacob ne finisse par le manœuvrer à son tour."
+    },
+    {
+      "character_id": "dinah",
+      "name": "Dina",
+      "intro": "La fille de Jacob et de Léa, dont l'agression par Sichem poussa ses frères Siméon et Lévi à un acte de vengeance violent qui troubla Jacob pour le reste de sa vie."
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "name": "Tamar (belle-fille de Juda)",
+      "intro": "La belle-fille de Juda, deux fois veuve, qui emprunta un chemin audacieux et risqué pour assurer sa place dans la lignée familiale -- et qui est nommée, des générations plus tard, dans la généalogie de Jésus."
+    },
+    {
+      "character_id": "reuben",
+      "name": "Ruben",
+      "intro": "Le premier-né de Jacob, qui dissuada ses frères de tuer Joseph mais perdit l'honneur de son droit d'aînesse après un péché grave contre son père."
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "name": "Siméon (fils de Jacob)",
+      "intro": "Le deuxième fils de Jacob, dont la vengeance violente pour sa sœur Dina attira la condamnation durable de son père, et qui fut plus tard retenu en otage en Égypte par son propre frère Joseph, non reconnu."
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "name": "Lévi (fils de Jacob)",
+      "intro": "Le troisième fils de Jacob, dont la violence à Sichem attira la réprimande de son père -- pourtant ses propres descendants devinrent la tribu sacerdotale mise à part pour servir à l'autel."
+    },
+    {
+      "character_id": "zebulun",
+      "name": "Zabulon",
+      "intro": "Le dixième fils de Jacob, béni par son père d'une demeure « sur le rivage de la mer » -- une tribu louée plus tard aux côtés de Nephtali pour son rôle dans l'histoire d'Israël."
+    },
+    {
+      "character_id": "issachar",
+      "name": "Issacar",
+      "intro": "Le neuvième fils de Jacob, décrit dans la bénédiction de son père comme fort mais content de plier l'épaule au travail -- et dont les descendants ultérieurs étaient connus pour comprendre les temps."
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "name": "Dan (fils de Jacob)",
+      "intro": "Le cinquième fils de Jacob, né de Bilha, la servante de Rachel, décrit dans la bénédiction de son père comme celui qui jugerait son peuple et frapperait comme un serpent sur le chemin."
+    },
+    {
+      "character_id": "naphtali",
+      "name": "Nephtali",
+      "intro": "Le sixième fils de Jacob, né de Bilha, la servante de Rachel, béni par son père comme « une biche en liberté, qui donne de belles paroles »."
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "name": "Gad (fils de Jacob)",
+      "intro": "Le septième fils de Jacob, né de Zilpa, la servante de Léa, béni par son père d'une promesse que, bien que des pillards l'attaqueraient, il les frapperait au talon."
     }
   ]
 }

@@ -2471,6 +2471,296 @@
       "character_id": "cyrus",
       "position": 3,
       "caption": "वह फरमान जो हिब्रू सिद्धान्त में पुराने नियम को समाप्त करता है"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 0,
+      "caption": "अय्यूब को शान्ति देने आते हैं, सात दिन चुपचाप उसके साथ बैठते हैं"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 1,
+      "caption": "एलीपज़: \"निर्दोष होते हुए कौन कभी नाश हुआ?\""
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 2,
+      "caption": "बिलदद यह मान लेता है कि अय्यूब की सन्तान ने पाप किया होगा"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 3,
+      "caption": "परमेश्वर उन्हें डांटता है: \"तुमने मेरे विषय में जो ठीक है वह नहीं कहा\""
+    },
+    {
+      "character_id": "elihu",
+      "position": 0,
+      "caption": "क्रोधित कि अय्यूब ने स्वयं को धर्मी ठहराया, और मित्रों को कोई उत्तर नहीं मिला"
+    },
+    {
+      "character_id": "elihu",
+      "position": 1,
+      "caption": "बोलने की प्रतीक्षा की क्योंकि वह छोटा था"
+    },
+    {
+      "character_id": "elihu",
+      "position": 2,
+      "caption": "\"परमेश्वर महान है, और हम उसे नहीं जानते\""
+    },
+    {
+      "character_id": "elihu",
+      "position": 3,
+      "caption": "अय्यूब को \"परमेश्वर के आश्चर्यकर्मों पर विचार करने\" के लिए बुलाता है"
+    },
+    {
+      "character_id": "lot",
+      "position": 0,
+      "caption": "यरदन के जल से भरपूर मैदान को चुनता है"
+    },
+    {
+      "character_id": "lot",
+      "position": 1,
+      "caption": "बन्दी बनाया गया, फिर अब्राहम द्वारा बचाया गया"
+    },
+    {
+      "character_id": "lot",
+      "position": 2,
+      "caption": "सदोम में अपने घर में दो दूतों का स्वागत करता है"
+    },
+    {
+      "character_id": "lot",
+      "position": 3,
+      "caption": "हाथ पकड़कर नगर से बाहर ले जाया गया"
+    },
+    {
+      "character_id": "lot",
+      "position": 4,
+      "caption": "\"धर्मी लूत\" कहा गया, जो अपने चारों ओर की दुष्टता से पीड़ित था"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 0,
+      "caption": "चेतावनी दी गई: \"पीछे मुड़कर मत देखना\""
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 1,
+      "caption": "पीछे मुड़कर देखती है, नमक का खम्भा बन जाती है"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 2,
+      "caption": "यीशु: \"लूत की पत्नी को स्मरण करो\""
+    },
+    {
+      "character_id": "ishmael",
+      "position": 0,
+      "caption": "उसके जन्म और भविष्य के विषय में परमेश्वर की प्रतिज्ञा"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 1,
+      "caption": "परमेश्वर लड़के को जंगल में रोते हुए सुनता है"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 2,
+      "caption": "\"परमेश्वर लड़के के साथ था, और वह बढ़ता गया\""
+    },
+    {
+      "character_id": "ishmael",
+      "position": 3,
+      "caption": "अपने पिता अब्राहम को दफनाने के लिए इसहाक के साथ जुड़ता है"
+    },
+    {
+      "character_id": "laban",
+      "position": 0,
+      "caption": "रिबका की ओर से अब्राहम के सेवक का स्वागत करता है"
+    },
+    {
+      "character_id": "laban",
+      "position": 1,
+      "caption": "विवाह की रात राहेल के स्थान पर लिआ को भेज देता है"
+    },
+    {
+      "character_id": "laban",
+      "position": 2,
+      "caption": "याकूब की मजदूरी दस बार बदलता है"
+    },
+    {
+      "character_id": "laban",
+      "position": 3,
+      "caption": "याकूब के साथ शान्ति की वाचा बान्धता है"
+    },
+    {
+      "character_id": "dinah",
+      "position": 0,
+      "caption": "शकेम द्वारा अत्याचारित"
+    },
+    {
+      "character_id": "dinah",
+      "position": 1,
+      "caption": "शिमोन और लेवी का बदला"
+    },
+    {
+      "character_id": "dinah",
+      "position": 2,
+      "caption": "उसके पुत्रों के किए पर याकूब का दुःख और भय"
+    },
+    {
+      "character_id": "dinah",
+      "position": 3,
+      "caption": "मिस्र जाने वाले बच्चों में गिनी गई"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 0,
+      "caption": "अपने पिता के घर वापस भेजी गई, प्रतीक्षा करते हुए"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 1,
+      "caption": "यहूदा: \"वह मुझसे अधिक धर्मी है\""
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 2,
+      "caption": "जुड़वां पुत्रों, पेरेस और जेरह को जन्म देती है"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 3,
+      "caption": "यीशु की वंशावली में नामित"
+    },
+    {
+      "character_id": "reuben",
+      "position": 0,
+      "caption": "अपने भाइयों को यूसुफ को न मारने के लिए मनाता है"
+    },
+    {
+      "character_id": "reuben",
+      "position": 1,
+      "caption": "लौटकर यूसुफ को गायब पाता है, पीड़ा में अपने वस्त्र फाड़ता है"
+    },
+    {
+      "character_id": "reuben",
+      "position": 2,
+      "caption": "याकूब का आशीर्वाद रोक लिया गया: \"जल के समान अस्थिर, तू श्रेष्ठ न होगा\""
+    },
+    {
+      "character_id": "reuben",
+      "position": 3,
+      "caption": "उसका पहलौठेपन का अधिकार इसके बजाय यूसुफ के पुत्रों को दिया गया"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 0,
+      "caption": "दीना का बदला लेने में लेवी के साथ जुड़ता है"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 1,
+      "caption": "मिस्र में यूसुफ द्वारा बन्धक के रूप में रखा गया"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 2,
+      "caption": "याकूब का आशीर्वाद उसकी और लेवी की हिंसा की निन्दा करता है"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 0,
+      "caption": "दीना का बदला लेने में शिमोन के साथ जुड़ता है"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 1,
+      "caption": "याकूब का आशीर्वाद उसकी हिंसा की निन्दा करता है"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 2,
+      "caption": "सोने के बछड़े के बाद उसका गोत्र मूसा के साथ खड़ा होता है"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 3,
+      "caption": "लेवीय यहोवा की सेवा के लिए अलग किए गए"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 0,
+      "caption": "लिआ उसका नाम रखती है, इस आशा में कि याकूब उसका आदर करेगा"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 1,
+      "caption": "याकूब का आशीर्वाद: \"समुद्र के किनारे बसेगा\""
+    },
+    {
+      "character_id": "zebulun",
+      "position": 2,
+      "caption": "उसका गोत्र दबोरा और बाराक के युद्ध में बुलाया गया"
+    },
+    {
+      "character_id": "issachar",
+      "position": 0,
+      "caption": "लिआ उसका नाम रखती है, उसे अपने प्रतिफल के रूप में देखती है"
+    },
+    {
+      "character_id": "issachar",
+      "position": 1,
+      "caption": "याकूब का आशीर्वाद: दो बोझों के बीच एक बलवान गदहा"
+    },
+    {
+      "character_id": "issachar",
+      "position": 2,
+      "caption": "उसके वंशज \"समयों को समझते थे\""
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 0,
+      "caption": "राहेल उसका नाम रखती है: \"परमेश्वर ने मेरा न्याय किया है\""
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 1,
+      "caption": "याकूब का आशीर्वाद: \"अपने लोगों का न्याय करेगा\""
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 2,
+      "caption": "उसका गोत्र अपने लिए भूभाग खोजता है"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 0,
+      "caption": "राहेल उसका नाम अपनी लिआ के साथ प्रतिद्वंद्विता के बाद रखती है"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 1,
+      "caption": "याकूब का आशीर्वाद: \"छोड़ी हुई हिरनी\""
+    },
+    {
+      "character_id": "naphtali",
+      "position": 2,
+      "caption": "उसका गोत्र दबोरा और बाराक के युद्ध में बुलाया गया"
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 0,
+      "caption": "लिआ उसका नाम रखती है: \"अच्छा भाग्य आया है\""
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 1,
+      "caption": "याकूब का आशीर्वाद: \"दल उस पर चढ़ाई करेंगे, परन्तु वह उनकी एड़ी पर चढ़ाई करेगा\""
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 2,
+      "caption": "उसके वंशज यरदन के पूर्व में भूमि मांगते हैं"
     }
   ]
 }

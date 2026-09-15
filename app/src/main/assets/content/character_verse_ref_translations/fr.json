@@ -2471,6 +2471,296 @@
       "character_id": "cyrus",
       "position": 3,
       "caption": "Le décret qui clôt l'Ancien Testament dans le canon hébraïque"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 0,
+      "caption": "Viennent réconforter Job, s'assoient avec lui sept jours en silence"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 1,
+      "caption": "Éliphaz : « Qui a péri étant innocent ? »"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 2,
+      "caption": "Bildad suppose que les enfants de Job ont dû pécher"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 3,
+      "caption": "Dieu les réprimande : « vous n'avez pas parlé de moi comme il faut »"
+    },
+    {
+      "character_id": "elihu",
+      "position": 0,
+      "caption": "En colère parce que Job se justifiait lui-même, et que les amis n'avaient trouvé aucune réponse"
+    },
+    {
+      "character_id": "elihu",
+      "position": 1,
+      "caption": "Attendit pour parler parce qu'il était plus jeune"
+    },
+    {
+      "character_id": "elihu",
+      "position": 2,
+      "caption": "« Dieu est grand, et nous ne le connaissons pas »"
+    },
+    {
+      "character_id": "elihu",
+      "position": 3,
+      "caption": "Appelle Job à « considérer les œuvres merveilleuses de Dieu »"
+    },
+    {
+      "character_id": "lot",
+      "position": 0,
+      "caption": "Choisit la plaine bien arrosée du Jourdain"
+    },
+    {
+      "character_id": "lot",
+      "position": 1,
+      "caption": "Capturé, puis délivré par Abraham"
+    },
+    {
+      "character_id": "lot",
+      "position": 2,
+      "caption": "Accueille deux anges chez lui à Sodome"
+    },
+    {
+      "character_id": "lot",
+      "position": 3,
+      "caption": "Conduit hors de la ville, tenu par la main"
+    },
+    {
+      "character_id": "lot",
+      "position": 4,
+      "caption": "Appelé « Lot le juste », affligé par la méchanceté qui l'entourait"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 0,
+      "caption": "Avertie : « ne regarde pas en arrière »"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 1,
+      "caption": "Regarde en arrière, devient une statue de sel"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 2,
+      "caption": "Jésus : « Souvenez-vous de la femme de Lot »"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 0,
+      "caption": "La promesse de Dieu concernant sa naissance et son avenir"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 1,
+      "caption": "Dieu entend l'enfant pleurer dans le désert"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 2,
+      "caption": "« Dieu était avec l'enfant, et il grandit »"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 3,
+      "caption": "Se joint à Isaac pour enterrer leur père Abraham"
+    },
+    {
+      "character_id": "laban",
+      "position": 0,
+      "caption": "Accueille le serviteur d'Abraham au nom de Rébecca"
+    },
+    {
+      "character_id": "laban",
+      "position": 1,
+      "caption": "Substitue Léa à Rachel la nuit des noces"
+    },
+    {
+      "character_id": "laban",
+      "position": 2,
+      "caption": "Change le salaire de Jacob dix fois"
+    },
+    {
+      "character_id": "laban",
+      "position": 3,
+      "caption": "Conclut une alliance de paix avec Jacob"
+    },
+    {
+      "character_id": "dinah",
+      "position": 0,
+      "caption": "Agressée par Sichem"
+    },
+    {
+      "character_id": "dinah",
+      "position": 1,
+      "caption": "La vengeance de Siméon et Lévi"
+    },
+    {
+      "character_id": "dinah",
+      "position": 2,
+      "caption": "Le chagrin et la crainte de Jacob face à ce qu'avaient fait ses fils"
+    },
+    {
+      "character_id": "dinah",
+      "position": 3,
+      "caption": "Comptée parmi les enfants qui descendirent en Égypte"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 0,
+      "caption": "Renvoyée dans la maison de son père, attendant"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 1,
+      "caption": "Juda : « Elle est plus juste que moi »"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 2,
+      "caption": "Donne naissance à des fils jumeaux, Pérets et Zérach"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 3,
+      "caption": "Nommée dans la généalogie de Jésus"
+    },
+    {
+      "character_id": "reuben",
+      "position": 0,
+      "caption": "Persuade ses frères de ne pas tuer Joseph"
+    },
+    {
+      "character_id": "reuben",
+      "position": 1,
+      "caption": "Revient pour trouver Joseph disparu, déchire ses vêtements d'angoisse"
+    },
+    {
+      "character_id": "reuben",
+      "position": 2,
+      "caption": "La bénédiction de Jacob refusée : « impétueux comme l'eau, tu n'auras pas la prééminence »"
+    },
+    {
+      "character_id": "reuben",
+      "position": 3,
+      "caption": "Son droit d'aînesse fut donné aux fils de Joseph à la place"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 0,
+      "caption": "Se joint à Lévi pour venger Dina"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 1,
+      "caption": "Retenu en otage par Joseph en Égypte"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 2,
+      "caption": "La bénédiction de Jacob condamne sa violence et celle de Lévi"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 0,
+      "caption": "Se joint à Siméon pour venger Dina"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 1,
+      "caption": "La bénédiction de Jacob condamne sa violence"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 2,
+      "caption": "Sa tribu se range du côté de Moïse après le veau d'or"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 3,
+      "caption": "Les lévites mis à part pour le service de l'ÉTERNEL"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 0,
+      "caption": "Léa le nomme, espérant que Jacob l'honorera"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : « habitera sur le rivage de la mer »"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 2,
+      "caption": "Sa tribu appelée à la bataille de Débora et Barak"
+    },
+    {
+      "character_id": "issachar",
+      "position": 0,
+      "caption": "Léa le nomme, le voyant comme sa récompense"
+    },
+    {
+      "character_id": "issachar",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : un âne robuste entre deux fardeaux"
+    },
+    {
+      "character_id": "issachar",
+      "position": 2,
+      "caption": "Ses descendants « avaient l'intelligence des temps »"
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 0,
+      "caption": "Rachel le nomme : « Dieu m'a jugée »"
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : « jugera son peuple »"
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 2,
+      "caption": "Sa tribu cherche un territoire à elle"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 0,
+      "caption": "Rachel le nomme après sa rivalité avec Léa"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : « une biche en liberté »"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 2,
+      "caption": "Sa tribu appelée à la bataille de Débora et Barak"
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 0,
+      "caption": "Léa le nomme : « Quel bonheur ! »"
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : « des troupes l'assailliront, mais il les assaillira sur leurs talons »"
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 2,
+      "caption": "Ses descendants demandent une terre à l'est du Jourdain"
     }
   ]
 }

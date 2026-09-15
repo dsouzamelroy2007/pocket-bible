@@ -2471,6 +2471,296 @@
       "character_id": "cyrus",
       "position": 3,
       "caption": "Il decreto che conclude l'Antico Testamento nel canone ebraico"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 0,
+      "caption": "Vengono per confortare Giobbe, siedono con lui sette giorni in silenzio"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 1,
+      "caption": "Elifaz: \"Chi mai è perito essendo innocente?\""
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 2,
+      "caption": "Bildad presume che i figli di Giobbe abbiano peccato"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 3,
+      "caption": "Dio li rimprovera: \"non avete detto di me quel che è retto\""
+    },
+    {
+      "character_id": "elihu",
+      "position": 0,
+      "caption": "Adirato perché Giobbe si giustificava da sé, e gli amici non trovavano risposta"
+    },
+    {
+      "character_id": "elihu",
+      "position": 1,
+      "caption": "Aspettò per parlare perché era più giovane"
+    },
+    {
+      "character_id": "elihu",
+      "position": 2,
+      "caption": "\"Dio è grande, e noi non lo conosciamo\""
+    },
+    {
+      "character_id": "elihu",
+      "position": 3,
+      "caption": "Chiama Giobbe a \"considerare le opere meravigliose di Dio\""
+    },
+    {
+      "character_id": "lot",
+      "position": 0,
+      "caption": "Sceglie la pianura ben irrigata del Giordano"
+    },
+    {
+      "character_id": "lot",
+      "position": 1,
+      "caption": "Catturato, poi salvato da Abramo"
+    },
+    {
+      "character_id": "lot",
+      "position": 2,
+      "caption": "Accoglie due angeli in casa sua a Sodoma"
+    },
+    {
+      "character_id": "lot",
+      "position": 3,
+      "caption": "Condotto fuori dalla città per mano"
+    },
+    {
+      "character_id": "lot",
+      "position": 4,
+      "caption": "Chiamato \"il giusto Lot\", angosciato dalla malvagità che lo circondava"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 0,
+      "caption": "Avvertita: \"non guardare indietro\""
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 1,
+      "caption": "Guarda indietro, diventa una statua di sale"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 2,
+      "caption": "Gesù: \"Ricordatevi della moglie di Lot\""
+    },
+    {
+      "character_id": "ishmael",
+      "position": 0,
+      "caption": "La promessa di Dio riguardo alla sua nascita e al suo futuro"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 1,
+      "caption": "Dio ascolta il ragazzo piangere nel deserto"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 2,
+      "caption": "\"Dio era con il ragazzo, ed egli crebbe\""
+    },
+    {
+      "character_id": "ishmael",
+      "position": 3,
+      "caption": "Si unisce a Isacco per seppellire il loro padre Abramo"
+    },
+    {
+      "character_id": "laban",
+      "position": 0,
+      "caption": "Accoglie il servo di Abramo per conto di Rebecca"
+    },
+    {
+      "character_id": "laban",
+      "position": 1,
+      "caption": "Sostituisce Lia a Rachele nella notte di nozze"
+    },
+    {
+      "character_id": "laban",
+      "position": 2,
+      "caption": "Cambia il salario di Giacobbe dieci volte"
+    },
+    {
+      "character_id": "laban",
+      "position": 3,
+      "caption": "Stringe un patto di pace con Giacobbe"
+    },
+    {
+      "character_id": "dinah",
+      "position": 0,
+      "caption": "Violentata da Sichem"
+    },
+    {
+      "character_id": "dinah",
+      "position": 1,
+      "caption": "La vendetta di Simeone e Levi"
+    },
+    {
+      "character_id": "dinah",
+      "position": 2,
+      "caption": "Il dolore e la paura di Giacobbe per ciò che i suoi figli avevano fatto"
+    },
+    {
+      "character_id": "dinah",
+      "position": 3,
+      "caption": "Annoverata tra i figli che scesero in Egitto"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 0,
+      "caption": "Rimandata a casa di suo padre, in attesa"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 1,
+      "caption": "Giuda: \"Ella è più giusta di me\""
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 2,
+      "caption": "Dà alla luce due figli gemelli, Perez e Zerach"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 3,
+      "caption": "Menzionata nella genealogia di Gesù"
+    },
+    {
+      "character_id": "reuben",
+      "position": 0,
+      "caption": "Persuade i suoi fratelli a non uccidere Giuseppe"
+    },
+    {
+      "character_id": "reuben",
+      "position": 1,
+      "caption": "Torna e trova Giuseppe scomparso, si straccia le vesti nell'angoscia"
+    },
+    {
+      "character_id": "reuben",
+      "position": 2,
+      "caption": "La benedizione di Giacobbe negata: \"instabile come l'acqua, non avrai preminenza\""
+    },
+    {
+      "character_id": "reuben",
+      "position": 3,
+      "caption": "La sua primogenitura fu data invece ai figli di Giuseppe"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 0,
+      "caption": "Si unisce a Levi per vendicare Dina"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 1,
+      "caption": "Tenuto in ostaggio da Giuseppe in Egitto"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 2,
+      "caption": "La benedizione di Giacobbe condanna la sua violenza e quella di Levi"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 0,
+      "caption": "Si unisce a Simeone per vendicare Dina"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 1,
+      "caption": "La benedizione di Giacobbe condanna la sua violenza"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 2,
+      "caption": "La sua tribù si schiera con Mosè dopo il vitello d'oro"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 3,
+      "caption": "I leviti messi da parte per il servizio del SIGNORE"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 0,
+      "caption": "Lia lo chiama, sperando che Giacobbe la onori"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 1,
+      "caption": "La benedizione di Giacobbe: \"abiterà sulla riva del mare\""
+    },
+    {
+      "character_id": "zebulun",
+      "position": 2,
+      "caption": "La sua tribù chiamata alla battaglia di Debora e Barac"
+    },
+    {
+      "character_id": "issachar",
+      "position": 0,
+      "caption": "Lia lo chiama, vedendolo come la sua ricompensa"
+    },
+    {
+      "character_id": "issachar",
+      "position": 1,
+      "caption": "La benedizione di Giacobbe: un asino robusto tra due carichi"
+    },
+    {
+      "character_id": "issachar",
+      "position": 2,
+      "caption": "I suoi discendenti \"avevano intelligenza dei tempi\""
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 0,
+      "caption": "Rachele lo chiama: \"Dio mi ha reso giustizia\""
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 1,
+      "caption": "La benedizione di Giacobbe: \"giudicherà il suo popolo\""
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 2,
+      "caption": "La sua tribù cerca un territorio proprio"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 0,
+      "caption": "Rachele lo chiama dopo la sua rivalità con Lia"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 1,
+      "caption": "La benedizione di Giacobbe: \"una cerbiatta lasciata libera\""
+    },
+    {
+      "character_id": "naphtali",
+      "position": 2,
+      "caption": "La sua tribù chiamata alla battaglia di Debora e Barac"
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 0,
+      "caption": "Lia lo chiama: \"Che fortuna!\""
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 1,
+      "caption": "La benedizione di Giacobbe: \"bande lo assaliranno, ma egli assalirà i loro talloni\""
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 2,
+      "caption": "I suoi discendenti chiedono terra a est del Giordano"
     }
   ]
 }

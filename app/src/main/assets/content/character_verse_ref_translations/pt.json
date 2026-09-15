@@ -2471,6 +2471,296 @@
       "character_id": "cyrus",
       "position": 3,
       "caption": "O decreto que encerra o Antigo Testamento no cânon hebraico"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 0,
+      "caption": "Vêm consolar Jó, sentam-se com ele sete dias em silêncio"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 1,
+      "caption": "Elifaz: \"Quem jamais pereceu sendo inocente?\""
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 2,
+      "caption": "Bildade presume que os filhos de Jó devem ter pecado"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 3,
+      "caption": "Deus os repreende: \"não falastes de mim o que é reto\""
+    },
+    {
+      "character_id": "elihu",
+      "position": 0,
+      "caption": "Irado porque Jó se justificava a si mesmo, e os amigos não encontravam resposta"
+    },
+    {
+      "character_id": "elihu",
+      "position": 1,
+      "caption": "Esperou para falar porque era mais jovem"
+    },
+    {
+      "character_id": "elihu",
+      "position": 2,
+      "caption": "\"Deus é grande, e nós não o conhecemos\""
+    },
+    {
+      "character_id": "elihu",
+      "position": 3,
+      "caption": "Chama Jó a \"considerar as maravilhosas obras de Deus\""
+    },
+    {
+      "character_id": "lot",
+      "position": 0,
+      "caption": "Escolhe a planície bem irrigada do Jordão"
+    },
+    {
+      "character_id": "lot",
+      "position": 1,
+      "caption": "Capturado, depois resgatado por Abraão"
+    },
+    {
+      "character_id": "lot",
+      "position": 2,
+      "caption": "Recebe dois anjos em sua casa em Sodoma"
+    },
+    {
+      "character_id": "lot",
+      "position": 3,
+      "caption": "Conduzido para fora da cidade pela mão"
+    },
+    {
+      "character_id": "lot",
+      "position": 4,
+      "caption": "Chamado \"o justo Ló\", angustiado pela maldade ao seu redor"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 0,
+      "caption": "Advertida: \"não olhes para trás\""
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 1,
+      "caption": "Olha para trás, torna-se uma estátua de sal"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 2,
+      "caption": "Jesus: \"Lembrai-vos da mulher de Ló\""
+    },
+    {
+      "character_id": "ishmael",
+      "position": 0,
+      "caption": "A promessa de Deus a respeito de seu nascimento e futuro"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 1,
+      "caption": "Deus ouve o menino chorando no deserto"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 2,
+      "caption": "\"Deus estava com o menino, e ele cresceu\""
+    },
+    {
+      "character_id": "ishmael",
+      "position": 3,
+      "caption": "Junta-se a Isaque para sepultar o pai deles, Abraão"
+    },
+    {
+      "character_id": "laban",
+      "position": 0,
+      "caption": "Recebe o servo de Abraão em nome de Rebeca"
+    },
+    {
+      "character_id": "laban",
+      "position": 1,
+      "caption": "Substitui Lia por Raquel na noite de núpcias"
+    },
+    {
+      "character_id": "laban",
+      "position": 2,
+      "caption": "Muda o salário de Jacó dez vezes"
+    },
+    {
+      "character_id": "laban",
+      "position": 3,
+      "caption": "Faz um pacto de paz com Jacó"
+    },
+    {
+      "character_id": "dinah",
+      "position": 0,
+      "caption": "Assediada por Siquém"
+    },
+    {
+      "character_id": "dinah",
+      "position": 1,
+      "caption": "A vingança de Simeão e Levi"
+    },
+    {
+      "character_id": "dinah",
+      "position": 2,
+      "caption": "A dor e o medo de Jacó pelo que seus filhos fizeram"
+    },
+    {
+      "character_id": "dinah",
+      "position": 3,
+      "caption": "Contada entre os filhos que desceram ao Egito"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 0,
+      "caption": "Enviada de volta à casa de seu pai, à espera"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 1,
+      "caption": "Judá: \"Ela é mais justa do que eu\""
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 2,
+      "caption": "Dá à luz filhos gêmeos, Perez e Zerá"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 3,
+      "caption": "Mencionada na genealogia de Jesus"
+    },
+    {
+      "character_id": "reuben",
+      "position": 0,
+      "caption": "Convence seus irmãos a não matarem José"
+    },
+    {
+      "character_id": "reuben",
+      "position": 1,
+      "caption": "Volta e encontra José desaparecido, rasga suas roupas em angústia"
+    },
+    {
+      "character_id": "reuben",
+      "position": 2,
+      "caption": "A bênção de Jacó negada: \"instável como a água, não terás preeminência\""
+    },
+    {
+      "character_id": "reuben",
+      "position": 3,
+      "caption": "Seu direito de primogenitura foi dado aos filhos de José em seu lugar"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 0,
+      "caption": "Junta-se a Levi para vingar Diná"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 1,
+      "caption": "Mantido refém por José no Egito"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 2,
+      "caption": "A bênção de Jacó condena a violência dele e de Levi"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 0,
+      "caption": "Junta-se a Simeão para vingar Diná"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 1,
+      "caption": "A bênção de Jacó condena sua violência"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 2,
+      "caption": "Sua tribo fica ao lado de Moisés após o bezerro de ouro"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 3,
+      "caption": "Os levitas separados para o serviço do SENHOR"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 0,
+      "caption": "Lia lhe dá o nome, esperando que Jacó a honre"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 1,
+      "caption": "A bênção de Jacó: \"habitará à beira-mar\""
+    },
+    {
+      "character_id": "zebulun",
+      "position": 2,
+      "caption": "Sua tribo convocada para a batalha de Débora e Baraque"
+    },
+    {
+      "character_id": "issachar",
+      "position": 0,
+      "caption": "Lia lhe dá o nome, vendo-o como sua recompensa"
+    },
+    {
+      "character_id": "issachar",
+      "position": 1,
+      "caption": "A bênção de Jacó: um jumento forte entre duas cargas"
+    },
+    {
+      "character_id": "issachar",
+      "position": 2,
+      "caption": "Seus descendentes \"tinham entendimento dos tempos\""
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 0,
+      "caption": "Raquel lhe dá o nome: \"Deus me julgou\""
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 1,
+      "caption": "A bênção de Jacó: \"julgará o seu povo\""
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 2,
+      "caption": "Sua tribo busca território próprio"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 0,
+      "caption": "Raquel lhe dá o nome após sua rivalidade com Lia"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 1,
+      "caption": "A bênção de Jacó: \"uma corça solta\""
+    },
+    {
+      "character_id": "naphtali",
+      "position": 2,
+      "caption": "Sua tribo convocada para a batalha de Débora e Baraque"
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 0,
+      "caption": "Lia lhe dá o nome: \"Que boa sorte!\""
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 1,
+      "caption": "A bênção de Jacó: \"tropas o atacarão, mas ele atacará os seus calcanhares\""
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 2,
+      "caption": "Seus descendentes pedem terra a leste do Jordão"
     }
   ]
 }

@@ -651,6 +651,86 @@
       "character_id": "cyrus",
       "name": "Ciro",
       "intro": "O rei persa cujo decreto libertou os exilados judeus para voltarem para casa e reconstruírem o Templo -- um ato que as Escrituras atribuem a Deus despertando seu espírito, e que Isaías nomeia gerações antes."
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "name": "Elifaz, Bildade e Zofar",
+      "intro": "Os três amigos de Jó, que se sentaram com ele em silêncio por sete dias antes de abrir um longo debate, insistindo que seu sofrimento devia ser punição por um pecado oculto."
+    },
+    {
+      "character_id": "elihu",
+      "name": "Eliú",
+      "intro": "Um homem mais jovem que esperou todo o debate dos três amigos de Jó terminar antes de falar -- e cujo longo discurso final desloca a conversa para a grandeza de Deus em vez de atribuir culpa."
+    },
+    {
+      "character_id": "lot",
+      "name": "Ló",
+      "intro": "O sobrinho de Abraão, cuja escolha do fértil vale do Jordão o levou a Sodoma, e que foi resgatado por anjos na noite em que a cidade foi destruída."
+    },
+    {
+      "character_id": "lots-wife",
+      "name": "A mulher de Ló",
+      "intro": "Advertida a não olhar para trás enquanto fugia da destruição de Sodoma -- e transformada em estátua de sal quando o fez."
+    },
+    {
+      "character_id": "ishmael",
+      "name": "Ismael",
+      "intro": "O filho primogênito de Abraão, nascido de Hagar, a quem Deus prometeu tornar uma grande nação, embora a aliança fosse passar por Isaque."
+    },
+    {
+      "character_id": "laban",
+      "name": "Labão",
+      "intro": "O irmão de Rebeca e tio de Jacó -- e sogro, que enganou Jacó para que se casasse com suas duas filhas, antes que Jacó eventualmente o superasse em astúcia."
+    },
+    {
+      "character_id": "dinah",
+      "name": "Diná",
+      "intro": "A filha de Jacó e Lia, cujo assédio por Siquém levou seus irmãos Simeão e Levi a um ato violento de vingança que perturbou Jacó pelo resto da vida."
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "name": "Tamar (nora de Judá)",
+      "intro": "A nora de Judá, duas vezes viúva, que tomou um caminho ousado e arriscado para garantir seu lugar na linhagem familiar -- e é mencionada, gerações depois, na genealogia de Jesus."
+    },
+    {
+      "character_id": "reuben",
+      "name": "Rúben",
+      "intro": "O primogênito de Jacó, que convenceu seus irmãos a não matarem José, mas perdeu a honra de seu direito de primogenitura após um pecado grave contra seu pai."
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "name": "Simeão (filho de Jacó)",
+      "intro": "O segundo filho de Jacó, cuja vingança violenta pela irmã Diná atraiu a condenação duradoura de seu pai, e que mais tarde foi mantido refém no Egito por seu próprio irmão José, não reconhecido."
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "name": "Levi (filho de Jacó)",
+      "intro": "O terceiro filho de Jacó, cuja violência em Siquém atraiu a repreensão de seu pai -- ainda assim, seus próprios descendentes se tornaram a tribo sacerdotal separada para servir no altar."
+    },
+    {
+      "character_id": "zebulun",
+      "name": "Zebulom",
+      "intro": "O décimo filho de Jacó, abençoado por seu pai com um lar \"à beira-mar\" -- uma tribo mais tarde elogiada ao lado de Naftali por seu papel na história de Israel."
+    },
+    {
+      "character_id": "issachar",
+      "name": "Issacar",
+      "intro": "O nono filho de Jacó, descrito na bênção de seu pai como forte, mas contente em curvar o ombro ao trabalho -- e cujos descendentes posteriores eram conhecidos por compreender os tempos."
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "name": "Dã (filho de Jacó)",
+      "intro": "O quinto filho de Jacó, nascido de Bilha, serva de Raquel, descrito na bênção de seu pai como alguém que julgaria seu povo e atacaria como uma serpente no caminho."
+    },
+    {
+      "character_id": "naphtali",
+      "name": "Naftali",
+      "intro": "O sexto filho de Jacó, nascido de Bilha, serva de Raquel, abençoado por seu pai como \"uma corça solta, que profere belas palavras\"."
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "name": "Gade (filho de Jacó)",
+      "intro": "O sétimo filho de Jacó, nascido de Zilpa, serva de Lia, abençoado por seu pai com a promessa de que, embora invasores o atacassem, ele atacaria seus calcanhares."
     }
   ]
 }

@@ -651,6 +651,86 @@
       "character_id": "cyrus",
       "name": "Kyrus",
       "intro": "Der persische König, dessen Erlass die jüdischen Exilanten befreite, um heimzukehren und den Tempel wieder aufzubauen -- eine Tat, die die Schrift darauf zurückführt, dass Gott seinen Geist erweckte, und die Jesaja Generationen im Voraus namentlich nannte."
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "name": "Eliphas, Bildad und Zophar",
+      "intro": "Hiobs drei Freunde, die sieben Tage schweigend bei ihm saßen, bevor sie eine lange Debatte eröffneten und darauf beharrten, sein Leiden müsse eine Strafe für verborgene Sünde sein."
+    },
+    {
+      "character_id": "elihu",
+      "name": "Elihu",
+      "intro": "Ein jüngerer Mann, der die ganze Debatte von Hiobs drei Freunden abwartete, bevor er sprach -- und dessen lange Abschlussrede das Gespräch auf Gottes Größe lenkt, statt Schuld zuzuweisen."
+    },
+    {
+      "character_id": "lot",
+      "name": "Lot",
+      "intro": "Abrahams Neffe, dessen Wahl des fruchtbaren Jordantals ihn nach Sodom führte, und der in der Nacht der Zerstörung der Stadt von Engeln gerettet wurde."
+    },
+    {
+      "character_id": "lots-wife",
+      "name": "Lots Frau",
+      "intro": "Gewarnt, sich bei der Flucht aus dem zerstörten Sodom nicht umzusehen -- und in eine Salzsäule verwandelt, als sie es doch tat."
+    },
+    {
+      "character_id": "ishmael",
+      "name": "Ismael",
+      "intro": "Abrahams erstgeborener Sohn, geboren von Hagar, den Gott zu einem großen Volk zu machen versprach, obwohl der Bund durch Isaak weitergehen sollte."
+    },
+    {
+      "character_id": "laban",
+      "name": "Laban",
+      "intro": "Rebekkas Bruder und Jakobs Onkel -- und Schwiegervater, der Jakob dazu brachte, beide seiner Töchter zu heiraten, bevor Jakob ihn seinerseits schließlich überlistete."
+    },
+    {
+      "character_id": "dinah",
+      "name": "Dina",
+      "intro": "Die Tochter Jakobs und Leas, deren Vergewaltigung durch Sichem ihre Brüder Simeon und Levi zu einer gewalttätigen Racheaktion trieb, die Jakob für den Rest seines Lebens belastete."
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "name": "Tamar (Schwiegertochter Judas)",
+      "intro": "Judas Schwiegertochter, zweimal verwitwet, die einen mutigen und riskanten Weg wählte, um ihren Platz in der Familienlinie zu sichern -- und Generationen später in der Genealogie Jesu genannt wird."
+    },
+    {
+      "character_id": "reuben",
+      "name": "Ruben",
+      "intro": "Jakobs Erstgeborener, der seine Brüder davon abbrachte, Joseph zu töten, aber die Ehre seines Erstgeburtsrechts nach einer schweren Sünde gegen seinen Vater verlor."
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "name": "Simeon (Sohn Jakobs)",
+      "intro": "Jakobs zweiter Sohn, dessen gewalttätige Rache für seine Schwester Dina die anhaltende Verurteilung seines Vaters auf sich zog, und der später in Ägypten von seinem eigenen unerkannten Bruder Joseph als Geisel gehalten wurde."
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "name": "Levi (Sohn Jakobs)",
+      "intro": "Jakobs dritter Sohn, dessen Gewalt in Sichem die Rüge seines Vaters auf sich zog -- doch dessen eigene Nachkommen zum priesterlichen Stamm wurden, der zum Dienst am Altar abgesondert war."
+    },
+    {
+      "character_id": "zebulun",
+      "name": "Sebulon",
+      "intro": "Jakobs zehnter Sohn, von seinem Vater mit einer Heimat „am Gestade des Meeres\" gesegnet -- ein Stamm, der später zusammen mit Naphtali für seine Rolle in Israels Geschichte gelobt wurde."
+    },
+    {
+      "character_id": "issachar",
+      "name": "Issaschar",
+      "intro": "Jakobs neunter Sohn, im Segen seines Vaters als stark, aber zufrieden beschrieben, seine Schulter der Arbeit zu beugen -- und dessen spätere Nachkommen dafür bekannt waren, die Zeiten zu verstehen."
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "name": "Dan (Sohn Jakobs)",
+      "intro": "Jakobs fünfter Sohn, geboren von Rahels Magd Bilha, im Segen seines Vaters als einer beschrieben, der sein Volk richten und wie eine Schlange am Wege zuschlagen würde."
+    },
+    {
+      "character_id": "naphtali",
+      "name": "Naphtali",
+      "intro": "Jakobs sechster Sohn, geboren von Rahels Magd Bilha, von seinem Vater gesegnet als „eine losgelassene Hindin, die schöne Worte gibt.\""
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "name": "Gad (Sohn Jakobs)",
+      "intro": "Jakobs siebter Sohn, geboren von Leas Magd Silpa, von seinem Vater mit der Verheißung gesegnet, dass, obwohl Räuber ihn angreifen würden, er ihnen auf die Fersen schlagen würde."
     }
   ]
 }

@@ -651,6 +651,86 @@
       "character_id": "cyrus",
       "name": "Ciro",
       "intro": "Il re persiano il cui decreto liberò gli esuli ebrei per tornare a casa e ricostruire il Tempio -- un atto che la Scrittura attribuisce a Dio che suscitò il suo spirito, e che Isaia nomina generazioni prima."
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "name": "Elifaz, Bildad e Zofar",
+      "intro": "I tre amici di Giobbe, che sedettero con lui in silenzio per sette giorni prima di aprire un lungo dibattito, insistendo che la sua sofferenza dovesse essere una punizione per un peccato nascosto."
+    },
+    {
+      "character_id": "elihu",
+      "name": "Eliu",
+      "intro": "Un uomo più giovane che aspettò la fine dell'intero dibattito dei tre amici di Giobbe prima di parlare -- e il cui lungo discorso finale sposta la conversazione verso la grandezza di Dio piuttosto che assegnare colpe."
+    },
+    {
+      "character_id": "lot",
+      "name": "Lot",
+      "intro": "Il nipote di Abramo, la cui scelta della fertile valle del Giordano lo condusse a Sodoma, e che fu salvato dagli angeli la notte in cui la città fu distrutta."
+    },
+    {
+      "character_id": "lots-wife",
+      "name": "La moglie di Lot",
+      "intro": "Avvertita di non guardare indietro mentre fuggiva dalla distruzione di Sodoma -- e trasformata in una statua di sale quando lo fece."
+    },
+    {
+      "character_id": "ishmael",
+      "name": "Ismaele",
+      "intro": "Il figlio primogenito di Abramo, nato da Agar, che Dio promise di rendere una grande nazione, anche se l'alleanza sarebbe passata attraverso Isacco."
+    },
+    {
+      "character_id": "laban",
+      "name": "Labano",
+      "intro": "Il fratello di Rebecca e zio di Giacobbe -- e suocero, che ingannò Giacobbe facendogli sposare entrambe le sue figlie, prima che Giacobbe alla fine lo superasse in astuzia a sua volta."
+    },
+    {
+      "character_id": "dinah",
+      "name": "Dina",
+      "intro": "La figlia di Giacobbe e Lia, la cui violenza subita da Sichem spinse i suoi fratelli Simeone e Levi a un violento atto di vendetta che turbò Giacobbe per il resto della sua vita."
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "name": "Tamar (nuora di Giuda)",
+      "intro": "La nuora di Giuda, rimasta vedova due volte, che intraprese un percorso audace e rischioso per assicurarsi il proprio posto nella linea familiare -- ed è nominata, generazioni dopo, nella genealogia di Gesù."
+    },
+    {
+      "character_id": "reuben",
+      "name": "Ruben",
+      "intro": "Il primogenito di Giacobbe, che dissuase i suoi fratelli dall'uccidere Giuseppe ma perse l'onore della sua primogenitura dopo un grave peccato contro suo padre."
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "name": "Simeone (figlio di Giacobbe)",
+      "intro": "Il secondo figlio di Giacobbe, la cui violenta vendetta per la sorella Dina attirò la duratura condanna di suo padre, e che fu poi tenuto in ostaggio in Egitto dal proprio fratello Giuseppe, non riconosciuto."
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "name": "Levi (figlio di Giacobbe)",
+      "intro": "Il terzo figlio di Giacobbe, la cui violenza a Sichem attirò il rimprovero di suo padre -- eppure i suoi stessi discendenti divennero la tribù sacerdotale messa da parte per servire all'altare."
+    },
+    {
+      "character_id": "zebulun",
+      "name": "Zabulon",
+      "intro": "Il decimo figlio di Giacobbe, benedetto da suo padre con una dimora \"sulla riva del mare\" -- una tribù poi lodata insieme a Neftali per il suo ruolo nella storia d'Israele."
+    },
+    {
+      "character_id": "issachar",
+      "name": "Issacar",
+      "intro": "Il nono figlio di Giacobbe, descritto nella benedizione di suo padre come forte ma contento di piegare la spalla al lavoro -- e i cui discendenti successivi erano noti per comprendere i tempi."
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "name": "Dan (figlio di Giacobbe)",
+      "intro": "Il quinto figlio di Giacobbe, nato da Bilha, serva di Rachele, descritto nella benedizione di suo padre come colui che avrebbe giudicato il suo popolo e colpito come un serpente sulla via."
+    },
+    {
+      "character_id": "naphtali",
+      "name": "Neftali",
+      "intro": "Il sesto figlio di Giacobbe, nato da Bilha, serva di Rachele, benedetto da suo padre come \"una cerbiatta lasciata libera, che dà belle parole\"."
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "name": "Gad (figlio di Giacobbe)",
+      "intro": "Il settimo figlio di Giacobbe, nato da Zilpa, serva di Lia, benedetto da suo padre con la promessa che, sebbene i predoni lo avrebbero attaccato, egli avrebbe colpito i loro talloni."
     }
   ]
 }
