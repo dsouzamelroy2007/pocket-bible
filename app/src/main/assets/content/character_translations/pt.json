@@ -1371,6 +1371,36 @@
       "character_id": "felix",
       "name": "Félix",
       "intro": "O governador romano que manteve Paulo preso por dois anos sem decidir seu caso, às vezes esperando um suborno, e uma vez genuinamente amedrontado quando Paulo falou do julgamento vindouro."
+    },
+    {
+      "character_id": "festus",
+      "name": "Festo",
+      "intro": "O governador romano que sucedeu Félix, reabriu o caso de Paulo, e pôs em movimento o apelo a César que acabou levando Paulo a Roma."
+    },
+    {
+      "character_id": "elymas",
+      "name": "Elimas (Bar-Jesus)",
+      "intro": "Um mago e falso profeta que tentou desviar o procônsul Sérgio Paulo da fé -- e foi cegado por Paulo na hora."
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "name": "Alexandre, o latoeiro",
+      "intro": "Um metalúrgico que, escreve Paulo perto do fim de sua vida, \"me fez muito mal\" -- uma das poucas queixas pessoais que Paulo nomeia diretamente em sua última carta."
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "name": "Demétrio, o ourives",
+      "intro": "Um artesão cujo ofício de fabricar santuários de prata de Ártemis foi ameaçado pela pregação de Paulo, e que incitou o tumulto em Éfeso que quase custou a vida de Paulo."
+    },
+    {
+      "character_id": "onesiphorus",
+      "name": "Onesíforo",
+      "intro": "Um crente lembrado por Paulo com verdadeiro carinho por uma coisa específica: ele procurou incansavelmente em Roma até encontrar Paulo na prisão, e nunca se envergonhou de suas correntes."
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "name": "O eunuco etíope",
+      "intro": "Um oficial da corte da rainha da Etiópia, lendo Isaías a caminho de casa vindo de Jerusalém, a quem Filipe se juntou para explicar que a profecia apontava para Jesus -- e que foi batizado à beira da estrada assim que compreendeu."
     }
   ]
 }

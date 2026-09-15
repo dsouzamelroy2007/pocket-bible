@@ -1371,6 +1371,36 @@
       "character_id": "felix",
       "name": "Felix",
       "intro": "Der römische Statthalter, der Paulus zwei Jahre lang gefangen hielt, ohne über seinen Fall zu entscheiden, manchmal auf Bestechung hoffend, und einmal wirklich verängstigt, als Paulus vom kommenden Gericht sprach."
+    },
+    {
+      "character_id": "festus",
+      "name": "Festus",
+      "intro": "Der römische Statthalter, der Felix nachfolgte, Paulus' Fall wieder eröffnete und die Berufung an den Kaiser in Gang setzte, die Paulus schließlich nach Rom brachte."
+    },
+    {
+      "character_id": "elymas",
+      "name": "Elymas (Bar-Jesus)",
+      "intro": "Ein Zauberer und falscher Prophet, der versuchte, den Prokonsul Sergius Paulus vom Glauben abzubringen -- und von Paulus auf der Stelle mit Blindheit geschlagen wurde."
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "name": "Alexander der Schmied",
+      "intro": "Ein Metallarbeiter, der, wie Paulus gegen Ende seines Lebens schreibt, „mir viel Böses zugefügt\" hat -- eine der wenigen persönlichen Beschwerden, die Paulus in seinem letzten Brief direkt benennt."
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "name": "Demetrius der Silberschmied",
+      "intro": "Ein Handwerker, dessen Gewerbe, silberne Schreine der Artemis herzustellen, durch Paulus' Predigt bedroht wurde, und der den Aufruhr in Ephesus anstiftete, der Paulus beinahe das Leben kostete."
+    },
+    {
+      "character_id": "onesiphorus",
+      "name": "Onesiphorus",
+      "intro": "Ein Gläubiger, an den sich Paulus mit echter Wärme für eine bestimmte Sache erinnert: er durchsuchte Rom beharrlich, bis er Paulus im Gefängnis fand, und schämte sich nie seiner Ketten."
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "name": "Der äthiopische Kämmerer",
+      "intro": "Ein Hofbeamter der äthiopischen Königin, der auf seinem Heimweg von Jerusalem Jesaja las, dem sich Philippus anschloss, um zu erklären, dass die Prophezeiung auf Jesus hinwies -- und der am Straßenrand getauft wurde, sobald er es verstand."
     }
   ]
 }

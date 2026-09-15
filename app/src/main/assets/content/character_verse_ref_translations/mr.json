@@ -4956,6 +4956,111 @@
       "character_id": "felix",
       "position": 3,
       "caption": "पद सोडताना यहुद्यांना खूष करण्यासाठी पौलाला तुरुंगात सोडतो"
+    },
+    {
+      "character_id": "festus",
+      "position": 0,
+      "caption": "पौलाला विचारतो की त्याऐवजी यरुशलेममध्ये खटला चालवण्यास तो तयार आहे का"
+    },
+    {
+      "character_id": "festus",
+      "position": 1,
+      "caption": "पौल कैसराकडे अपील करतो; फेस्त ते मान्य करतो"
+    },
+    {
+      "character_id": "festus",
+      "position": 2,
+      "caption": "अग्रिप्पाला हे प्रकरण यहुदी धर्माबद्दलचा वाद असल्याचे सांगतो"
+    },
+    {
+      "character_id": "festus",
+      "position": 3,
+      "caption": "\"पौला, तू वेडा आहेस; तुझी मोठी विद्वत्ता तुला वेडे बनवत आहे\""
+    },
+    {
+      "character_id": "elymas",
+      "position": 0,
+      "caption": "एक यहुदी खोटा संदेष्टा आणि जादूगार"
+    },
+    {
+      "character_id": "elymas",
+      "position": 1,
+      "caption": "पौल आणि बर्णबाचा विरोध करतो, सुभेदाराला विश्वासापासून वळवण्याचा प्रयत्न करत"
+    },
+    {
+      "character_id": "elymas",
+      "position": 2,
+      "caption": "पौल: \"सर्व प्रकारच्या कपटाने आणि दुष्टाईने भरलेल्या, सैतानाच्या पुत्रा\""
+    },
+    {
+      "character_id": "elymas",
+      "position": 3,
+      "caption": "पौलाच्या शब्दावर, काही काळासाठी, आंधळा केला गेला"
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "position": 0,
+      "caption": "\"त्याने माझे फार नुकसान केले. प्रभू त्याला त्याच्या कृत्यांप्रमाणे फळ देईल\""
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "position": 1,
+      "caption": "\"तूही त्याच्यापासून सावध राहा, कारण त्याने आमच्या शब्दांना खूप विरोध केला\""
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 0,
+      "caption": "आर्तेमिसची चांदीची देवळे बनवतो; एक फायदेशीर व्यवसाय"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 1,
+      "caption": "इतर कारागिरांना इशारा देतो की पौलाची शिकवण त्यांचा व्यवसाय आणि देवीचा सन्मान धोक्यात आणते"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 2,
+      "caption": "जमाव ओरडतो: \"इफिसकरांची आर्तेमिस महान आहे!\""
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 3,
+      "caption": "यामुळे संपूर्ण नगर गोंधळात पडते"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 0,
+      "caption": "\"त्याने मला वारंवार सांत्वन दिले, आणि माझ्या साखळ्यांची लाज बाळगली नाही\""
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 1,
+      "caption": "रोममध्ये मेहनतीने पौलाला शोधले, आणि तो सापडला"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 2,
+      "caption": "पौल प्रार्थना करतो की त्याला \"त्या दिवशी\" प्रभूकडून दया मिळावी"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 0,
+      "caption": "\"जोपर्यंत कोणी मला समजावत नाही तोपर्यंत मी कसे समजू?\""
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 1,
+      "caption": "ख्रिस्ताच्या दुःखाचे भाकीत करणारा तोच उतारा वाचत"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 2,
+      "caption": "फिलिप्पाने त्या शास्त्रापासून सुरुवात करून \"त्याला येशूची सुवार्ता सांगितली\""
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 3,
+      "caption": "तिथेच बाप्तिस्मा घेतला, आणि आनंदाने आपल्या मार्गाने गेला"
     }
   ]
 }

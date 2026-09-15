@@ -4956,6 +4956,111 @@
       "character_id": "felix",
       "position": 3,
       "caption": "Laisse Paul en prison pour plaire aux Juifs en quittant sa charge"
+    },
+    {
+      "character_id": "festus",
+      "position": 0,
+      "caption": "Demande à Paul s'il est prêt à être jugé à Jérusalem à la place"
+    },
+    {
+      "character_id": "festus",
+      "position": 1,
+      "caption": "Paul en appelle à César ; Festus l'accorde"
+    },
+    {
+      "character_id": "festus",
+      "position": 2,
+      "caption": "Décrit l'affaire à Agrippa comme une dispute sur la religion juive"
+    },
+    {
+      "character_id": "festus",
+      "position": 3,
+      "caption": "« Paul, tu es fou ; ton grand savoir te met hors de sens »"
+    },
+    {
+      "character_id": "elymas",
+      "position": 0,
+      "caption": "Un faux prophète et magicien juif"
+    },
+    {
+      "character_id": "elymas",
+      "position": 1,
+      "caption": "S'oppose à Paul et Barnabas, essayant de détourner le proconsul de la foi"
+    },
+    {
+      "character_id": "elymas",
+      "position": 2,
+      "caption": "Paul : « rempli de toute ruse et de toute méchanceté, fils du diable »"
+    },
+    {
+      "character_id": "elymas",
+      "position": 3,
+      "caption": "Frappé de cécité, pour un temps, sur la parole de Paul"
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "position": 0,
+      "caption": "« M'a fait beaucoup de mal. Le Seigneur lui rendra selon ses œuvres »"
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "position": 1,
+      "caption": "« Garde-toi aussi de lui, car il s'est fortement opposé à nos paroles »"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 0,
+      "caption": "Fabrique des sanctuaires en argent d'Artémis ; un commerce lucratif"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 1,
+      "caption": "Avertit les autres artisans que l'enseignement de Paul menace leur commerce et l'honneur de la déesse"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 2,
+      "caption": "La foule s'écrie : « Grande est l'Artémis des Éphésiens ! »"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 3,
+      "caption": "Toute la ville plongée dans la confusion à ce sujet"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 0,
+      "caption": "« M'a souvent réconforté, et n'a pas eu honte de mes chaînes »"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 1,
+      "caption": "Chercha Paul avec diligence à Rome, et le trouva"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 2,
+      "caption": "Paul prie qu'il trouve miséricorde auprès du Seigneur « en ce jour-là »"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 0,
+      "caption": "« Comment le pourrais-je, si quelqu'un ne me guide ? »"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 1,
+      "caption": "Lisant le passage même qui prédisait la souffrance du Christ"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 2,
+      "caption": "Philippe « lui annonça Jésus », à partir de cette Écriture"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 3,
+      "caption": "Baptisé sur-le-champ, et continue son chemin plein de joie"
     }
   ]
 }

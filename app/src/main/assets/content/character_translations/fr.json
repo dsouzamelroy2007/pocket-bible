@@ -1371,6 +1371,36 @@
       "character_id": "felix",
       "name": "Félix",
       "intro": "Le gouverneur romain qui garda Paul emprisonné pendant deux ans sans statuer sur son cas, espérant parfois un pot-de-vin, et une fois véritablement effrayé quand Paul parla du jugement à venir."
+    },
+    {
+      "character_id": "festus",
+      "name": "Festus",
+      "intro": "Le gouverneur romain qui succéda à Félix, rouvrit le cas de Paul, et mit en mouvement l'appel à César qui finit par amener Paul à Rome."
+    },
+    {
+      "character_id": "elymas",
+      "name": "Élymas (Bar-Jésus)",
+      "intro": "Un magicien et faux prophète qui tenta de détourner le proconsul Sergius Paulus de la foi -- et fut frappé de cécité par Paul sur-le-champ."
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "name": "Alexandre le forgeron",
+      "intro": "Un métallier qui, écrit Paul près de la fin de sa vie, « m'a fait beaucoup de mal » -- l'un des rares griefs personnels que Paul nomme directement dans sa dernière lettre."
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "name": "Démétrius l'orfèvre",
+      "intro": "Un artisan dont le commerce de fabrication de sanctuaires en argent d'Artémis était menacé par la prédication de Paul, et qui incita l'émeute à Éphèse qui faillit coûter la vie à Paul."
+    },
+    {
+      "character_id": "onesiphorus",
+      "name": "Onésiphore",
+      "intro": "Un croyant dont Paul se souvient avec une réelle chaleur pour une chose précise : il chercha Rome avec persévérance jusqu'à trouver Paul en prison, et ne fut jamais honteux de ses chaînes."
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "name": "L'eunuque éthiopien",
+      "intro": "Un fonctionnaire de la cour de la reine d'Éthiopie, lisant Ésaïe sur le chemin du retour de Jérusalem, que Philippe rejoignit pour expliquer que la prophétie désignait Jésus -- et qui fut baptisé au bord de la route dès qu'il comprit."
     }
   ]
 }

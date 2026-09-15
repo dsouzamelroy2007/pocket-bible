@@ -4956,6 +4956,111 @@
       "character_id": "felix",
       "position": 3,
       "caption": "Lässt Paulus im Gefängnis, um den Juden zu gefallen, als er sein Amt niederlegt"
+    },
+    {
+      "character_id": "festus",
+      "position": 0,
+      "caption": "Fragt Paulus, ob er bereit sei, stattdessen in Jerusalem vor Gericht zu stehen"
+    },
+    {
+      "character_id": "festus",
+      "position": 1,
+      "caption": "Paulus beruft sich auf den Kaiser; Festus gewährt es"
+    },
+    {
+      "character_id": "festus",
+      "position": 2,
+      "caption": "Beschreibt Agrippa den Fall als einen Streit über die jüdische Religion"
+    },
+    {
+      "character_id": "festus",
+      "position": 3,
+      "caption": "„Paulus, du bist von Sinnen; die große Gelehrsamkeit macht dich rasend\""
+    },
+    {
+      "character_id": "elymas",
+      "position": 0,
+      "caption": "Ein jüdischer falscher Prophet und Zauberer"
+    },
+    {
+      "character_id": "elymas",
+      "position": 1,
+      "caption": "Widersteht Paulus und Barnabas und versucht, den Prokonsul vom Glauben abzubringen"
+    },
+    {
+      "character_id": "elymas",
+      "position": 2,
+      "caption": "Paulus: „du bist voll aller List und Bosheit, du Kind des Teufels\""
+    },
+    {
+      "character_id": "elymas",
+      "position": 3,
+      "caption": "Auf Paulus' Wort hin für eine Zeit mit Blindheit geschlagen"
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "position": 0,
+      "caption": "„Er hat mir viel Böses zugefügt. Der Herr wird ihm vergelten nach seinen Werken\""
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "position": 1,
+      "caption": "„Vor ihm hüte auch du dich, denn er hat unseren Worten sehr widerstanden\""
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 0,
+      "caption": "Fertigt silberne Schreine der Artemis an; ein einträgliches Gewerbe"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 1,
+      "caption": "Warnt andere Handwerker, dass Paulus' Lehre ihr Gewerbe und die Ehre der Göttin bedroht"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 2,
+      "caption": "Die Menge bricht aus: „Groß ist die Artemis der Epheser!\""
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 3,
+      "caption": "Die ganze Stadt gerät darüber in Verwirrung"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 0,
+      "caption": "„Er hat mich oft erquickt und sich meiner Ketten nicht geschämt\""
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 1,
+      "caption": "Suchte eifrig nach Paulus in Rom und fand ihn"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 2,
+      "caption": "Paulus betet, dass er „an jenem Tage\" Barmherzigkeit vom Herrn finden möge"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 0,
+      "caption": "„Wie kann ich, wenn mich niemand anleitet?\""
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 1,
+      "caption": "Liest genau den Abschnitt, der das Leiden Christi voraussagte"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 2,
+      "caption": "Philippus „predigte ihm das Evangelium von Jesus\", ausgehend von dieser Schriftstelle"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 3,
+      "caption": "Auf der Stelle getauft, und zieht seines Weges voller Freude"
     }
   ]
 }

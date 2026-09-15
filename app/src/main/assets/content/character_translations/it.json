@@ -1371,6 +1371,36 @@
       "character_id": "felix",
       "name": "Felice",
       "intro": "Il governatore romano che tenne Paolo in prigione per due anni senza decidere il suo caso, sperando talvolta in una tangente, e una volta genuinamente spaventato quando Paolo parlò del giudizio a venire."
+    },
+    {
+      "character_id": "festus",
+      "name": "Festo",
+      "intro": "Il governatore romano che succedette a Felice, riaprì il caso di Paolo, e mise in moto l'appello a Cesare che alla fine portò Paolo a Roma."
+    },
+    {
+      "character_id": "elymas",
+      "name": "Elimas (Bar-Gesù)",
+      "intro": "Un mago e falso profeta che tentò di distogliere il proconsole Sergio Paolo dalla fede -- e fu colpito da cecità da Paolo sul posto."
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "name": "Alessandro il ramaio",
+      "intro": "Un lavoratore del metallo che, scrive Paolo verso la fine della sua vita, \"mi ha fatto molto male\" -- una delle poche lamentele personali che Paolo nomina direttamente nella sua ultima lettera."
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "name": "Demetrio l'argentiere",
+      "intro": "Un artigiano il cui commercio di fabbricazione di santuari d'argento di Artemide fu minacciato dalla predicazione di Paolo, e che incitò la rivolta a Efeso che quasi costò la vita a Paolo."
+    },
+    {
+      "character_id": "onesiphorus",
+      "name": "Onesiforo",
+      "intro": "Un credente ricordato da Paolo con vero calore per una cosa specifica: cercò Roma con persistenza finché non trovò Paolo in prigione, e non si vergognò mai delle sue catene."
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "name": "L'eunuco etiope",
+      "intro": "Un funzionario di corte della regina d'Etiopia, che leggeva Isaia mentre tornava a casa da Gerusalemme, a cui Filippo si unì per spiegare che la profezia indicava Gesù -- e che fu battezzato sul ciglio della strada non appena comprese."
     }
   ]
 }

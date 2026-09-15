@@ -4956,6 +4956,111 @@
       "character_id": "felix",
       "position": 3,
       "caption": "पद छोड़ते समय यहूदियों को प्रसन्न करने के लिए पौलुस को बन्दीगृह में छोड़ देता है"
+    },
+    {
+      "character_id": "festus",
+      "position": 0,
+      "caption": "पौलुस से पूछता है कि क्या वह इसके बजाय यरूशलेम में मुकदमा चलाने के लिए तैयार है"
+    },
+    {
+      "character_id": "festus",
+      "position": 1,
+      "caption": "पौलुस कैसर से अपील करता है; फेस्तुस इसे स्वीकार करता है"
+    },
+    {
+      "character_id": "festus",
+      "position": 2,
+      "caption": "अग्रिप्पा को मामले को यहूदी धर्म पर विवाद के रूप में बताता है"
+    },
+    {
+      "character_id": "festus",
+      "position": 3,
+      "caption": "\"हे पौलुस, तू पागल है; तेरी बड़ी विद्या तुझे पागल बना रही है\""
+    },
+    {
+      "character_id": "elymas",
+      "position": 0,
+      "caption": "एक यहूदी झूठा भविष्यद्वक्ता और जादूगर"
+    },
+    {
+      "character_id": "elymas",
+      "position": 1,
+      "caption": "पौलुस और बरनबास का विरोध करता है, सूबेदार को विश्वास से भटकाने की कोशिश करते हुए"
+    },
+    {
+      "character_id": "elymas",
+      "position": 2,
+      "caption": "पौलुस: \"हे सब भांति के छल और उपद्रव से भरे हुए शैतान की सन्तान\""
+    },
+    {
+      "character_id": "elymas",
+      "position": 3,
+      "caption": "पौलुस के वचन पर, कुछ समय के लिए, अन्धा कर दिया गया"
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "position": 0,
+      "caption": "\"उसने मेरी बहुत हानि की। प्रभु उसे उसके कामों के अनुसार बदला देगा\""
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "position": 1,
+      "caption": "\"तू भी उससे सावधान रहना, क्योंकि उसने हमारी बातों का बहुत विरोध किया\""
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 0,
+      "caption": "आर्तिमिस के चांदी के मन्दिर बनाता है; एक लाभदायक व्यापार"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 1,
+      "caption": "अन्य शिल्पकारों को चेतावनी देता है कि पौलुस की शिक्षा उनके व्यापार और देवी के सम्मान को खतरे में डालती है"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 2,
+      "caption": "भीड़ फूट पड़ती है: \"इफिसियों की आर्तिमिस महान है!\""
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 3,
+      "caption": "इसके कारण पूरा नगर उलझन में पड़ जाता है"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 0,
+      "caption": "\"उसने मुझे अक्सर चैन दिया, और मेरी बेड़ियों से लज्जित न हुआ\""
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 1,
+      "caption": "रोम में लगन से पौलुस को खोजा, और उसे पा लिया"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 2,
+      "caption": "पौलुस प्रार्थना करता है कि उसे \"उस दिन\" प्रभु से दया मिले"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 0,
+      "caption": "\"मैं कैसे समझूं जब तक कोई मुझे न बताए?\""
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 1,
+      "caption": "ठीक उसी अंश को पढ़ते हुए जिसने मसीह के दुख की भविष्यवाणी की थी"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 2,
+      "caption": "फिलिप्पुस ने उस पवित्रशास्त्र से शुरू करके \"उसे यीशु का सुसमाचार सुनाया\""
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 3,
+      "caption": "उसी स्थान पर बपतिस्मा लिया, और आनन्दित होकर अपने मार्ग पर चला गया"
     }
   ]
 }
