@@ -26,7 +26,6 @@ private val APP_LANGUAGES: List<Pair<String?, String>> = listOf(
     "de" to "Deutsch",
     "fr" to "Français",
     "pt" to "Português",
-    "es" to "Español",
     "hi" to "हिन्दी",
     "it" to "Italiano",
     "mr" to "मराठी"

@@ -13,7 +13,7 @@ This is a **prototype**—real, runnable source code designed to validate the co
 ## Key Capabilities
 
 - **📖 Full Biblical Text**: 73-book Catholic canon in English, with German (Schlachter 1951 translation) for the 66-book Protestant canon
-- **🌍 Multi-Language Support**: UI in English, German, French, Portuguese, Spanish, Hindi, Italian, and Marathi
+- **🌍 Multi-Language Support**: UI in English, German, French, Portuguese, Hindi, Italian, and Marathi (Spanish deferred to v3 — see "Version 3" below)
 - **❤️ Feelings-to-Scripture Mapping**: Curated passages, reflections, and prayers linked to emotional states
 - **✝️ Fully Offline**: No internet connection required; all content is bundled
 - **💾 Persistent Storage**: Save favorite passages via Room database
@@ -95,11 +95,12 @@ leaves behind.
 **Cross-cutting strategy**: for every content phase below, ship
 English-complete first and let the existing fallback-to-English mechanism
 (`feeling_translation`/`entry_translation`/`character_translation`
-pattern in `ContentModel.kt`) cover the other 7 languages until each is
+pattern in `ContentModel.kt`) cover the other 6 languages until each is
 translated — this is exactly how the current 27 topics and 114 characters
 already degrade gracefully for a language with partial coverage, so v2's
 much larger content volume doesn't have to block on translating
-everything before anything ships.
+everything before anything ships. (Spanish is not one of v2's shipped
+languages — see "Version 3" below.)
 
 ### Phase 1 — Biblical characters: 114 → 366 — **DONE**
 
@@ -297,8 +298,9 @@ handling, and the privacy-policy rewrite.
 
 ### Phase 5 — Compliance, translation catch-up, release prep
 
-- Finish translating Phases 1–3 content into all 8 languages (whatever's
-  still English-only via fallback).
+- Finish translating Phases 1–3 content into all 7 shipped languages
+  (whatever's still English-only via fallback). Spanish is intentionally
+  excluded from this list for v2 — see "Version 3" below.
 - Update `docs/privacy-policy.html` for whatever Phase 4 actually
   collects.
 - **Before this branch is ever released**: revert `applicationId`
@@ -421,6 +423,32 @@ ever needed again for reference.
 - **6C — Character cross-links (not started)**: one pass over all
   `BibleCharacter` rows now that 6B content exists, curating up to 10
   story links each by narrative significance.
+
+## Version 3
+
+**Spanish language support — full content, deferred from v2.** Spanish
+("es") was added to `LanguageMenuButton.kt`'s language picker with a
+complete UI-chrome translation (`res/values-es/strings.xml`) and partial
+Topics content, but never had any Bible scripture text, character
+translations, story translations, or reflection translations — a much
+bigger gap than the fallback-to-English pattern the other phases lean on,
+since it affects every tab including the Bible reader itself. Spanish was
+removed from `APP_LANGUAGES` for the v2 release rather than ship a
+selectable language with silently-English scripture. Status as of the
+removal:
+
+- **Scripture (Bible tab)**: nothing imported. The public-domain
+  Reina-Valera 1909 translation (66 books, no deuterocanon) has been
+  fetched from eBible.org and staged at
+  `tools/scripture_sources/es-rv1909/`, along with a ready-to-use
+  `book_map.json` and a complete step-by-step README covering the one
+  reformatting quirk this particular source needs before
+  `tools/import_scripture.py` can consume it. This is the natural
+  starting point for v3 — see that README for exact commands.
+- **Topics**: `content/topics/es.json` exists, 18/38 feelings and
+  180/380 entries translated (via `tools/add_topic_translations.py`).
+  20 feelings remain.
+- **Characters, Stories, Reflections (2026 + 2027)**: not started.
 
 ## Adding a new feeling (Topics)
 
