@@ -2761,6 +2761,146 @@
       "character_id": "gad-son-of-jacob",
       "position": 2,
       "caption": "उसके वंशज यरदन के पूर्व में भूमि मांगते हैं"
+    },
+    {
+      "character_id": "asher",
+      "position": 0,
+      "caption": "लिआ उसका नाम रखती है: \"मैं धन्य हूं\""
+    },
+    {
+      "character_id": "asher",
+      "position": 1,
+      "caption": "याकूब का आशीर्वाद: \"उसकी रोटी उत्तम होगी, और वह राजसी स्वादिष्ट भोजन देगा\""
+    },
+    {
+      "character_id": "asher",
+      "position": 2,
+      "caption": "भविष्यद्वक्ता हन्ना उसके गोत्र से है"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 0,
+      "caption": "राहेल की मृत्यु के समय जन्मा; उसके पिता द्वारा पुनः नामकरण किया गया"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 1,
+      "caption": "याकूब पहले उसे मिस्र जाने देने से इनकार करता है"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 2,
+      "caption": "यहूदा उसके स्थान पर दास बनकर रहने की पेशकश करता है"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 3,
+      "caption": "यूसुफ उसके गले लगकर रोता है, अन्ततः पुनर्मिलन"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 0,
+      "caption": "यूसुफ द्वारा नामित: \"परमेश्वर ने मुझे अपने सारे कष्ट भुला दिए\""
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 1,
+      "caption": "याकूब अपने हाथ पार करता है, पहले छोटे एप्रैम को आशीर्वाद देता है"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 2,
+      "caption": "याकूब की व्याख्या: उसका भाई \"उससे बड़ा होगा\""
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 3,
+      "caption": "उसके वंशज अपना गोत्रीय भूभाग प्राप्त करते हैं"
+    },
+    {
+      "character_id": "ephraim",
+      "position": 0,
+      "caption": "यूसुफ द्वारा नामित: \"परमेश्वर ने मुझे फलदायी बनाया है\""
+    },
+    {
+      "character_id": "ephraim",
+      "position": 1,
+      "caption": "याकूब का आशीर्वाद: \"उसका छोटा भाई उससे बड़ा होगा\""
+    },
+    {
+      "character_id": "ephraim",
+      "position": 2,
+      "caption": "बाद के भविष्यद्वक्ता उसके नाम का प्रयोग उत्तरी राज्य के लिए ही करते हैं"
+    },
+    {
+      "character_id": "terah",
+      "position": 0,
+      "caption": "अब्राम, सारै, और लूत के साथ ऊर से निकलता है"
+    },
+    {
+      "character_id": "terah",
+      "position": 1,
+      "caption": "हारान में मरता है"
+    },
+    {
+      "character_id": "terah",
+      "position": 2,
+      "caption": "यूफ्रेतीस के पार अन्य देवताओं की सेवा करने वाले के रूप में स्मरण किया गया"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 0,
+      "caption": "सारा को लेता है, फिर स्वप्न में परमेश्वर द्वारा चेतावनी दी जाती है"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 1,
+      "caption": "परमेश्वर: \"मैंने तुझे मेरे विरुद्ध पाप करने से रोका\""
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 2,
+      "caption": "पाता है कि इसहाक और रिबका वास्तव में विवाहित हैं"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 3,
+      "caption": "इसहाक के साथ शान्ति की वाचा बान्धता है"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 0,
+      "caption": "इश्माएली व्यापारियों से यूसुफ को खरीदता है"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 1,
+      "caption": "अपनी सारी सम्पत्ति का भार यूसुफ को सौंपता है"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 2,
+      "caption": "अपनी पत्नी के आरोप पर विश्वास करता है, यूसुफ को बन्दी बनवा देता है"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 0,
+      "caption": "\"मेरे साथ सो जा\""
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 1,
+      "caption": "दिन-प्रतिदिन उससे बात करती है"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 2,
+      "caption": "वह भाग जाता है, अपना वस्त्र उसके हाथ में छोड़कर"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 3,
+      "caption": "उसी वस्त्र का उपयोग करते हुए उस पर झूठा आरोप लगाती है"
     }
   ]
 }

@@ -731,6 +731,46 @@
       "character_id": "gad-son-of-jacob",
       "name": "Gad (figlio di Giacobbe)",
       "intro": "Il settimo figlio di Giacobbe, nato da Zilpa, serva di Lia, benedetto da suo padre con la promessa che, sebbene i predoni lo avrebbero attaccato, egli avrebbe colpito i loro talloni."
+    },
+    {
+      "character_id": "asher",
+      "name": "Aser",
+      "intro": "L'ottavo figlio di Giacobbe, nato da Zilpa, serva di Lia, benedetto da suo padre con cibo ricco e prelibatezze regali."
+    },
+    {
+      "character_id": "benjamin",
+      "name": "Beniamino",
+      "intro": "Il figlio più giovane di Giacobbe, nato mentre sua madre Rachele moriva chiamandolo \"figlio del mio dolore\" -- e il fratello per la cui sicurezza Giuda impegnò la propria vita in Egitto."
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "name": "Manasse (figlio di Giuseppe)",
+      "intro": "Il primogenito di Giuseppe in Egitto, la cui benedizione dal nonno Giacobbe fu invece incrociata sul fratello minore -- e divenne l'antenato di una delle dodici tribù d'Israele."
+    },
+    {
+      "character_id": "ephraim",
+      "name": "Efraim",
+      "intro": "Il figlio minore di Giuseppe, che suo nonno Giacobbe benedisse deliberatamente sopra il fratello maggiore Manasse -- e il cui nome divenne poi un'abbreviazione per l'intero regno settentrionale d'Israele."
+    },
+    {
+      "character_id": "terah",
+      "name": "Terach",
+      "intro": "Il padre di Abramo, che partì da Ur verso Canaan ma si stabilì e morì a Carran lungo la strada, lasciando il completamento del viaggio a suo figlio."
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "name": "Abimelec (re di Gherar)",
+      "intro": "Un re filisteo che, due volte nella Genesi, prese inconsapevolmente la moglie di un patriarca nella sua casa credendola non sposata -- ed entrambe le volte fu avvertito da Dio prima che venisse fatto alcun danno."
+    },
+    {
+      "character_id": "potiphar",
+      "name": "Potifar",
+      "intro": "Il funzionario egiziano che comprò Giuseppe come schiavo, lo mise a capo di tutta la sua casa -- e poi lo fece imprigionare per la falsa accusa di sua moglie."
+    },
+    {
+      "character_id": "potiphars-wife",
+      "name": "La moglie di Potifar",
+      "intro": "La moglie del funzionario egiziano, i cui ripetuti tentativi di sedurre Giuseppe, e la falsa accusa quando egli la rifiutò, mandarono un innocente in prigione."
     }
   ]
 }

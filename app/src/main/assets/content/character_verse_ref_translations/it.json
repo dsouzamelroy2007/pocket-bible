@@ -2761,6 +2761,146 @@
       "character_id": "gad-son-of-jacob",
       "position": 2,
       "caption": "I suoi discendenti chiedono terra a est del Giordano"
+    },
+    {
+      "character_id": "asher",
+      "position": 0,
+      "caption": "Lia lo chiama: \"Che io sia felice!\""
+    },
+    {
+      "character_id": "asher",
+      "position": 1,
+      "caption": "La benedizione di Giacobbe: \"il suo pane sarà ricco, ed egli fornirà prelibatezze regali\""
+    },
+    {
+      "character_id": "asher",
+      "position": 2,
+      "caption": "La profetessa Anna discende dalla sua tribù"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 0,
+      "caption": "Nato mentre Rachele muore; rinominato da suo padre"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 1,
+      "caption": "Giacobbe rifiuta all'inizio di lasciarlo andare in Egitto"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 2,
+      "caption": "Giuda si offre di restare schiavo al suo posto"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 3,
+      "caption": "Giuseppe piange sul suo collo, finalmente riuniti"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 0,
+      "caption": "Chiamato da Giuseppe: \"Dio mi ha fatto dimenticare ogni mia fatica\""
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 1,
+      "caption": "Giacobbe incrocia le mani, benedicendo prima il più giovane Efraim"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 2,
+      "caption": "La spiegazione di Giacobbe: suo fratello \"sarà più grande di lui\""
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 3,
+      "caption": "I suoi discendenti ricevono il loro territorio tribale"
+    },
+    {
+      "character_id": "ephraim",
+      "position": 0,
+      "caption": "Chiamato da Giuseppe: \"Dio mi ha reso fecondo\""
+    },
+    {
+      "character_id": "ephraim",
+      "position": 1,
+      "caption": "La benedizione di Giacobbe: \"suo fratello minore sarà più grande di lui\""
+    },
+    {
+      "character_id": "ephraim",
+      "position": 2,
+      "caption": "I profeti successivi usano il suo nome per il regno settentrionale stesso"
+    },
+    {
+      "character_id": "terah",
+      "position": 0,
+      "caption": "Parte da Ur con Abram, Sarai e Lot"
+    },
+    {
+      "character_id": "terah",
+      "position": 1,
+      "caption": "Muore a Carran"
+    },
+    {
+      "character_id": "terah",
+      "position": 2,
+      "caption": "Ricordato per aver servito altri dèi oltre l'Eufrate"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 0,
+      "caption": "Prende Sara, poi viene avvertito da Dio in sogno"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 1,
+      "caption": "Dio: \"Io ti ho impedito di peccare contro di me\""
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 2,
+      "caption": "Scopre che Isacco e Rebecca sono in realtà sposati"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 3,
+      "caption": "Stringe un patto di pace con Isacco"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 0,
+      "caption": "Compra Giuseppe dai mercanti ismaeliti"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 1,
+      "caption": "Mette Giuseppe a capo di tutto ciò che possiede"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 2,
+      "caption": "Crede all'accusa di sua moglie, fa imprigionare Giuseppe"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 0,
+      "caption": "\"Giaci con me\""
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 1,
+      "caption": "Gli parla giorno dopo giorno"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 2,
+      "caption": "Egli fugge, lasciando la sua veste nella sua mano"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 3,
+      "caption": "Lo accusa falsamente usando quella stessa veste"
     }
   ]
 }

@@ -2761,6 +2761,146 @@
       "character_id": "gad-son-of-jacob",
       "position": 2,
       "caption": "त्याचे वंशज यार्देनच्या पूर्वेकडील भूमीची मागणी करतात"
+    },
+    {
+      "character_id": "asher",
+      "position": 0,
+      "caption": "लेआ त्याचे नाव ठेवते: \"मी धन्य आहे\""
+    },
+    {
+      "character_id": "asher",
+      "position": 1,
+      "caption": "याकोबाचा आशीर्वाद: \"त्याची भाकर समृद्ध असेल, आणि तो राजेशाही स्वादिष्ट पदार्थ देईल\""
+    },
+    {
+      "character_id": "asher",
+      "position": 2,
+      "caption": "संदेष्ट्री हन्ना तिच्या वंशातून आलेली आहे"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 0,
+      "caption": "राहेल मरताना जन्मला; त्याच्या वडिलांनी त्याचे नाव बदलले"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 1,
+      "caption": "याकोब सुरुवातीला त्याला मिसरला जाऊ देण्यास नकार देतो"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 2,
+      "caption": "यहूदा त्याच्याऐवजी गुलाम म्हणून राहण्याची तयारी दाखवतो"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 3,
+      "caption": "योसेफ त्याच्या गळ्यात पडून रडतो, अखेर पुनर्मिलन"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 0,
+      "caption": "योसेफाने नाव ठेवले: \"देवाने मला माझे सर्व कष्ट विसरायला लावले आहे\""
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 1,
+      "caption": "याकोब आपले हात आडवे करतो, आधी धाकट्या एफ्राइमला आशीर्वाद देतो"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 2,
+      "caption": "याकोबाचे स्पष्टीकरण: त्याचा भाऊ \"त्याच्यापेक्षा मोठा होईल\""
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 3,
+      "caption": "त्याचे वंशज त्यांचा वंशीय प्रदेश प्राप्त करतात"
+    },
+    {
+      "character_id": "ephraim",
+      "position": 0,
+      "caption": "योसेफाने नाव ठेवले: \"देवाने मला फलदायी केले आहे\""
+    },
+    {
+      "character_id": "ephraim",
+      "position": 1,
+      "caption": "याकोबाचा आशीर्वाद: \"त्याचा धाकटा भाऊ त्याच्यापेक्षा मोठा होईल\""
+    },
+    {
+      "character_id": "ephraim",
+      "position": 2,
+      "caption": "नंतरचे संदेष्टे त्याचे नाव उत्तर राज्यासाठीच वापरतात"
+    },
+    {
+      "character_id": "terah",
+      "position": 0,
+      "caption": "अब्राम, साराय आणि लोट यांच्यासह ऊरहून निघतो"
+    },
+    {
+      "character_id": "terah",
+      "position": 1,
+      "caption": "हारानमध्ये मरण पावतो"
+    },
+    {
+      "character_id": "terah",
+      "position": 2,
+      "caption": "युफ्रेतीसच्या पलीकडे इतर देवांची सेवा केल्याबद्दल स्मरणात"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 0,
+      "caption": "साराला घेतो, नंतर देव स्वप्नात त्याला इशारा देतो"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 1,
+      "caption": "देव: \"मी तुला माझ्याविरुद्ध पाप करण्यापासून रोखले\""
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 2,
+      "caption": "इसहाक आणि रिबका खरे तर विवाहित आहेत हे शोधून काढतो"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 3,
+      "caption": "इसहाकाबरोबर शांतीचा करार करतो"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 0,
+      "caption": "इश्माएली व्यापाऱ्यांकडून योसेफाला विकत घेतो"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 1,
+      "caption": "आपल्या सर्व मालमत्तेचा कारभार योसेफाकडे सोपवतो"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 2,
+      "caption": "आपल्या पत्नीच्या आरोपावर विश्वास ठेवतो, योसेफाला तुरुंगात टाकतो"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 0,
+      "caption": "\"माझ्याबरोबर नीज\""
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 1,
+      "caption": "दिवसागणिक त्याच्याशी बोलत राहते"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 2,
+      "caption": "तो पळून जातो, आपले वस्त्र तिच्या हातात सोडून"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 3,
+      "caption": "त्याच वस्त्राचा वापर करून त्याच्यावर खोटा आरोप लावते"
     }
   ]
 }

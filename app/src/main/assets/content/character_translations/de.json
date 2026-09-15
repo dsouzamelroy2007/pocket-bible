@@ -731,6 +731,46 @@
       "character_id": "gad-son-of-jacob",
       "name": "Gad (Sohn Jakobs)",
       "intro": "Jakobs siebter Sohn, geboren von Leas Magd Silpa, von seinem Vater mit der Verheißung gesegnet, dass, obwohl Räuber ihn angreifen würden, er ihnen auf die Fersen schlagen würde."
+    },
+    {
+      "character_id": "asher",
+      "name": "Asser",
+      "intro": "Jakobs achter Sohn, geboren von Leas Magd Silpa, von seinem Vater mit fetter Speise und königlichen Leckerbissen gesegnet."
+    },
+    {
+      "character_id": "benjamin",
+      "name": "Benjamin",
+      "intro": "Jakobs jüngster Sohn, geboren, als seine Mutter Rahel starb und ihn „Sohn meines Schmerzes\" nannte -- und der Bruder, für dessen Sicherheit Juda in Ägypten sein eigenes Leben verpfändete."
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "name": "Manasse (Sohn Josephs)",
+      "intro": "Josephs Erstgeborener in Ägypten, dessen Segen von seinem Großvater Jakob stattdessen auf seinen jüngeren Bruder überkreuzt gelegt wurde -- und der zum Ahnherrn eines der zwölf Stämme Israels wurde."
+    },
+    {
+      "character_id": "ephraim",
+      "name": "Ephraim",
+      "intro": "Josephs jüngerer Sohn, den sein Großvater Jakob absichtlich über seinen älteren Bruder Manasse segnete -- und dessen Name später zur Kurzform für das ganze Nordreich Israel wurde."
+    },
+    {
+      "character_id": "terah",
+      "name": "Terach",
+      "intro": "Abrahams Vater, der von Ur nach Kanaan aufbrach, sich aber unterwegs in Haran niederließ und dort starb, sodass die Vollendung der Reise seinem Sohn überlassen blieb."
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "name": "Abimelech (König von Gerar)",
+      "intro": "Ein philistäischer König, der zweimal in der Genesis unwissentlich die Frau eines Patriarchen in sein Haus aufnahm, weil er sie für unverheiratet hielt -- und beide Male von Gott gewarnt wurde, bevor Schaden entstand."
+    },
+    {
+      "character_id": "potiphar",
+      "name": "Potiphar",
+      "intro": "Der ägyptische Beamte, der Joseph als Sklaven kaufte, ihn über sein ganzes Haus setzte -- und ihn dann aufgrund der falschen Anklage seiner Frau einsperren ließ."
+    },
+    {
+      "character_id": "potiphars-wife",
+      "name": "Potiphars Frau",
+      "intro": "Die Frau des ägyptischen Beamten, deren wiederholte Versuche, Joseph zu verführen, und deren falsche Anklage, als er sie zurückwies, einen unschuldigen Mann ins Gefängnis brachten."
     }
   ]
 }

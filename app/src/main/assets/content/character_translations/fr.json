@@ -731,6 +731,46 @@
       "character_id": "gad-son-of-jacob",
       "name": "Gad (fils de Jacob)",
       "intro": "Le septième fils de Jacob, né de Zilpa, la servante de Léa, béni par son père d'une promesse que, bien que des pillards l'attaqueraient, il les frapperait au talon."
+    },
+    {
+      "character_id": "asher",
+      "name": "Aser",
+      "intro": "Le huitième fils de Jacob, né de Zilpa, la servante de Léa, béni par son père d'une nourriture riche et de mets royaux."
+    },
+    {
+      "character_id": "benjamin",
+      "name": "Benjamin",
+      "intro": "Le plus jeune fils de Jacob, né alors que sa mère Rachel mourait en le nommant « fils de ma douleur » -- et le frère pour la sécurité duquel Juda engagea sa propre vie en Égypte."
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "name": "Manassé (fils de Joseph)",
+      "intro": "Le premier-né de Joseph en Égypte, dont la bénédiction de son grand-père Jacob fut croisée sur son frère cadet à la place -- et qui devint l'ancêtre de l'une des douze tribus d'Israël."
+    },
+    {
+      "character_id": "ephraim",
+      "name": "Éphraïm",
+      "intro": "Le fils cadet de Joseph, que son grand-père Jacob bénit délibérément au-dessus de son frère aîné Manassé -- et dont le nom devint plus tard un raccourci pour tout le royaume du nord d'Israël."
+    },
+    {
+      "character_id": "terah",
+      "name": "Térach",
+      "intro": "Le père d'Abraham, qui partit d'Ur vers Canaan mais s'installa et mourut à Charan en chemin, laissant à son fils l'achèvement du voyage."
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "name": "Abimélek (roi de Guérar)",
+      "intro": "Un roi philistin qui, deux fois dans la Genèse, prit sans le savoir la femme d'un patriarche dans sa maison, la croyant célibataire -- et fut les deux fois averti par Dieu avant qu'aucun mal ne soit fait."
+    },
+    {
+      "character_id": "potiphar",
+      "name": "Potiphar",
+      "intro": "Le fonctionnaire égyptien qui acheta Joseph comme esclave, le mit à la tête de toute sa maison -- puis l'emprisonna sur la fausse accusation de sa femme."
+    },
+    {
+      "character_id": "potiphars-wife",
+      "name": "La femme de Potiphar",
+      "intro": "La femme du fonctionnaire égyptien, dont les tentatives répétées de séduire Joseph, et la fausse accusation lorsqu'il la repoussa, envoyèrent un innocent en prison."
     }
   ]
 }

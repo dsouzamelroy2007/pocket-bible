@@ -2761,6 +2761,146 @@
       "character_id": "gad-son-of-jacob",
       "position": 2,
       "caption": "Ses descendants demandent une terre à l'est du Jourdain"
+    },
+    {
+      "character_id": "asher",
+      "position": 0,
+      "caption": "Léa le nomme : « Que je suis heureuse ! »"
+    },
+    {
+      "character_id": "asher",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : « son pain sera riche, et il fournira des mets royaux »"
+    },
+    {
+      "character_id": "asher",
+      "position": 2,
+      "caption": "La prophétesse Anne descend de sa tribu"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 0,
+      "caption": "Né alors que Rachel meurt ; renommé par son père"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 1,
+      "caption": "Jacob refuse d'abord de le laisser aller en Égypte"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 2,
+      "caption": "Juda propose de rester esclave à sa place"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 3,
+      "caption": "Joseph pleure à son cou, enfin réunis"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 0,
+      "caption": "Nommé par Joseph : « Dieu m'a fait oublier toute ma peine »"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 1,
+      "caption": "Jacob croise les mains, bénissant d'abord le plus jeune Éphraïm"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 2,
+      "caption": "L'explication de Jacob : son frère « sera plus grand que lui »"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 3,
+      "caption": "Ses descendants reçoivent leur territoire tribal"
+    },
+    {
+      "character_id": "ephraim",
+      "position": 0,
+      "caption": "Nommé par Joseph : « Dieu m'a rendu fécond »"
+    },
+    {
+      "character_id": "ephraim",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : « son frère cadet sera plus grand que lui »"
+    },
+    {
+      "character_id": "ephraim",
+      "position": 2,
+      "caption": "Les prophètes ultérieurs utilisent son nom pour le royaume du nord lui-même"
+    },
+    {
+      "character_id": "terah",
+      "position": 0,
+      "caption": "Part d'Ur avec Abram, Saraï et Lot"
+    },
+    {
+      "character_id": "terah",
+      "position": 1,
+      "caption": "Meurt à Charan"
+    },
+    {
+      "character_id": "terah",
+      "position": 2,
+      "caption": "Souvenu comme ayant servi d'autres dieux au-delà de l'Euphrate"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 0,
+      "caption": "Prend Sara, puis est averti par Dieu en songe"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 1,
+      "caption": "Dieu : « je t'ai empêché de pécher contre moi »"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 2,
+      "caption": "Découvre qu'Isaac et Rébecca sont en fait mariés"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 3,
+      "caption": "Conclut une alliance de paix avec Isaac"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 0,
+      "caption": "Achète Joseph aux marchands ismaélites"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 1,
+      "caption": "Met Joseph à la tête de tout ce qu'il possède"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 2,
+      "caption": "Croit l'accusation de sa femme, fait emprisonner Joseph"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 0,
+      "caption": "« Couche avec moi »"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 1,
+      "caption": "Lui parle jour après jour"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 2,
+      "caption": "Il s'enfuit, laissant son vêtement dans sa main"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 3,
+      "caption": "L'accuse faussement en utilisant ce même vêtement"
     }
   ]
 }

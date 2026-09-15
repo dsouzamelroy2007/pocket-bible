@@ -731,6 +731,46 @@
       "character_id": "gad-son-of-jacob",
       "name": "Gade (filho de Jacó)",
       "intro": "O sétimo filho de Jacó, nascido de Zilpa, serva de Lia, abençoado por seu pai com a promessa de que, embora invasores o atacassem, ele atacaria seus calcanhares."
+    },
+    {
+      "character_id": "asher",
+      "name": "Aser",
+      "intro": "O oitavo filho de Jacó, nascido de Zilpa, serva de Lia, abençoado por seu pai com alimento farto e iguarias reais."
+    },
+    {
+      "character_id": "benjamin",
+      "name": "Benjamim",
+      "intro": "O filho mais novo de Jacó, nascido quando sua mãe Raquel morria dando-lhe o nome \"filho da minha dor\" -- e o irmão pela segurança de quem Judá empenhou a própria vida no Egito."
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "name": "Manassés (filho de José)",
+      "intro": "O primogênito de José no Egito, cuja bênção de seu avô Jacó foi cruzada sobre o irmão mais novo em vez dele -- e que se tornou o ancestral de uma das doze tribos de Israel."
+    },
+    {
+      "character_id": "ephraim",
+      "name": "Efraim",
+      "intro": "O filho mais novo de José, a quem seu avô Jacó deliberadamente abençoou acima do irmão mais velho Manassés -- e cujo nome mais tarde se tornou uma forma abreviada para todo o reino do norte de Israel."
+    },
+    {
+      "character_id": "terah",
+      "name": "Tera",
+      "intro": "O pai de Abraão, que partiu de Ur em direção a Canaã, mas se estabeleceu e morreu em Harã pelo caminho, deixando a conclusão da jornada para seu filho."
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "name": "Abimeleque (rei de Gerar)",
+      "intro": "Um rei filisteu que, duas vezes em Gênesis, sem saber, levou a esposa de um patriarca para sua casa acreditando que ela era solteira -- e ambas as vezes foi advertido por Deus antes que qualquer mal fosse feito."
+    },
+    {
+      "character_id": "potiphar",
+      "name": "Potifar",
+      "intro": "O oficial egípcio que comprou José como escravo, colocou-o encarregado de toda a sua casa -- e depois o encarcerou por causa da falsa acusação de sua esposa."
+    },
+    {
+      "character_id": "potiphars-wife",
+      "name": "A mulher de Potifar",
+      "intro": "A esposa do oficial egípcio cujas tentativas repetidas de seduzir José, e a falsa acusação quando ele a recusou, enviaram um homem inocente para a prisão."
     }
   ]
 }
