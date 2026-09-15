@@ -771,6 +771,46 @@
       "character_id": "potiphars-wife",
       "name": "La femme de Potiphar",
       "intro": "La femme du fonctionnaire égyptien, dont les tentatives répétées de séduire Joseph, et la fausse accusation lorsqu'il la repoussa, envoyèrent un innocent en prison."
+    },
+    {
+      "character_id": "asenath",
+      "name": "Asnath",
+      "intro": "L'épouse égyptienne de Joseph, donnée par Pharaon, et la mère de Manassé et Éphraïm."
+    },
+    {
+      "character_id": "er-and-onan",
+      "name": "Er et Onan",
+      "intro": "Les deux premiers fils de Juda de son épouse Bath-Shua, tous deux morts pour ce que l'Écriture appelle sans détour la méchanceté devant l'ÉTERNEL, laissant la veuve de leur frère, Tamar, sans héritier."
+    },
+    {
+      "character_id": "perez",
+      "name": "Pérets",
+      "intro": "Le fils de Tamar par Juda, né avant son frère jumeau dans un renversement inattendu à la naissance -- et un ancêtre nommé directement dans les généalogies de David et de Jésus."
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "name": "Les filles de Tselophhad",
+      "intro": "Cinq sœurs -- Mahla, Noa, Hogla, Milka et Tirtsa -- dont la demande de l'héritage de leur père, puisqu'il n'avait pas de fils, amena Moïse à porter leur cause devant Dieu et à établir une nouvelle loi pour Israël."
+    },
+    {
+      "character_id": "jabez",
+      "name": "Jaebets",
+      "intro": "Un homme dont on se souvient par son nom dans une brève généalogie pour une seule chose : une prière demandant à Dieu de le bénir, d'agrandir son territoire, et de le préserver du mal -- et l'Écriture note simplement que Dieu l'accorda."
+    },
+    {
+      "character_id": "keturah",
+      "name": "Ketoura",
+      "intro": "L'épouse qu'Abraham prit après la mort de Sara, et la mère de six autres fils qui devinrent les ancêtres de divers peuples à l'est d'Israël."
+    },
+    {
+      "character_id": "jethro",
+      "name": "Jéthro",
+      "intro": "Le beau-père de Moïse, un prêtre de Madian, qui abrita Moïse durant son exil d'Égypte et lui donna plus tard un conseil sage et pratique pour partager le fardeau de diriger Israël."
+    },
+    {
+      "character_id": "zipporah",
+      "name": "Séphora",
+      "intro": "L'épouse de Moïse, fille du prêtre de Madian, qui agit avec décision pour sauver la vie de son mari lors de leur voyage de retour en Égypte."
     }
   ]
 }

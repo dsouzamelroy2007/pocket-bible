@@ -771,6 +771,46 @@
       "character_id": "potiphars-wife",
       "name": "La moglie di Potifar",
       "intro": "La moglie del funzionario egiziano, i cui ripetuti tentativi di sedurre Giuseppe, e la falsa accusa quando egli la rifiutò, mandarono un innocente in prigione."
+    },
+    {
+      "character_id": "asenath",
+      "name": "Asenat",
+      "intro": "La moglie egiziana di Giuseppe, data a lui dal faraone, e madre di Manasse ed Efraim."
+    },
+    {
+      "character_id": "er-and-onan",
+      "name": "Er e Onan",
+      "intro": "I primi due figli di Giuda dalla moglie Bat-Sua, entrambi morti per quella che la Scrittura chiama semplicemente malvagità davanti al SIGNORE, lasciando la vedova del loro fratello, Tamar, senza erede."
+    },
+    {
+      "character_id": "perez",
+      "name": "Perez",
+      "intro": "Il figlio di Tamar da Giuda, nato prima del fratello gemello in un inaspettato ribaltamento alla nascita -- e un antenato nominato direttamente nelle genealogie sia di Davide che di Gesù."
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "name": "Le figlie di Selofcad",
+      "intro": "Cinque sorelle -- Macla, Noa, Cogla, Milca e Tirsa -- la cui richiesta dell'eredità del padre, poiché non aveva figli maschi, portò Mosè a sottoporre il loro caso a Dio e a stabilire una nuova legge per Israele."
+    },
+    {
+      "character_id": "jabez",
+      "name": "Iabes",
+      "intro": "Un uomo ricordato per nome in una breve genealogia per una cosa sola: una preghiera che chiedeva a Dio di benedirlo, ampliare il suo territorio, e proteggerlo dal male -- e la Scrittura nota semplicemente che Dio glielo concesse."
+    },
+    {
+      "character_id": "keturah",
+      "name": "Chetura",
+      "intro": "La moglie che Abramo prese dopo la morte di Sara, e la madre di altri sei figli che divennero antenati di vari popoli a est di Israele."
+    },
+    {
+      "character_id": "jethro",
+      "name": "Ietro",
+      "intro": "Il suocero di Mosè, un sacerdote di Madian, che diede rifugio a Mosè durante il suo esilio dall'Egitto e più tardi gli diede un saggio consiglio pratico su come condividere il peso della guida di Israele."
+    },
+    {
+      "character_id": "zipporah",
+      "name": "Zippora",
+      "intro": "La moglie di Mosè, figlia del sacerdote di Madian, che agì con decisione per salvare la vita di suo marito durante il loro viaggio di ritorno in Egitto."
     }
   ]
 }

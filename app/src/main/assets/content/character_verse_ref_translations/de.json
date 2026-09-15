@@ -2901,6 +2901,121 @@
       "character_id": "potiphars-wife",
       "position": 3,
       "caption": "Klagt ihn mit eben diesem Gewand fälschlich an"
+    },
+    {
+      "character_id": "asenath",
+      "position": 0,
+      "caption": "Von Pharao Joseph zur Ehe gegeben"
+    },
+    {
+      "character_id": "asenath",
+      "position": 1,
+      "caption": "Bringt Manasse und Ephraim vor den Hungerjahren zur Welt"
+    },
+    {
+      "character_id": "er-and-onan",
+      "position": 0,
+      "caption": "Er „war böse in den Augen des HERRN, und der HERR tötete ihn\""
+    },
+    {
+      "character_id": "er-and-onan",
+      "position": 1,
+      "caption": "Onan weigert sich, seinem Bruder einen Erben zu geben; auch er stirbt"
+    },
+    {
+      "character_id": "er-and-onan",
+      "position": 2,
+      "caption": "In Erinnerung als in Kanaan gestorben"
+    },
+    {
+      "character_id": "perez",
+      "position": 0,
+      "caption": "Geboren, indem er sich vor seinem Zwilling Serach vordrängt"
+    },
+    {
+      "character_id": "perez",
+      "position": 1,
+      "caption": "Haupt der Genealogie bis hinunter zu David"
+    },
+    {
+      "character_id": "perez",
+      "position": 2,
+      "caption": "In der Genealogie Jesu genannt"
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "position": 0,
+      "caption": "Bringen ihren Fall vor Mose: „warum soll der Name unseres Vaters verschwinden?\""
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "position": 1,
+      "caption": "Gott: „Die Töchter Zelofhads reden recht\""
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "position": 2,
+      "caption": "Erhalten ihr Erbe wie verheißen"
+    },
+    {
+      "character_id": "jabez",
+      "position": 0,
+      "caption": "„Angesehener als seine Brüder\""
+    },
+    {
+      "character_id": "jabez",
+      "position": 1,
+      "caption": "Sein Gebet, und Gottes Antwort: „Gott gewährte, was er erbat\""
+    },
+    {
+      "character_id": "keturah",
+      "position": 0,
+      "caption": "Abraham nimmt sie zur Frau"
+    },
+    {
+      "character_id": "keturah",
+      "position": 1,
+      "caption": "Bringt ihm sechs Söhne zur Welt"
+    },
+    {
+      "character_id": "keturah",
+      "position": 2,
+      "caption": "Ihre Söhne werden mit Geschenken nach Osten geschickt, weg von Isaak"
+    },
+    {
+      "character_id": "jethro",
+      "position": 0,
+      "caption": "Gibt Mose seine Tochter Zippora zur Ehe"
+    },
+    {
+      "character_id": "jethro",
+      "position": 1,
+      "caption": "Lobt den HERRN, nachdem er alles gehört hat, was er für Israel getan hat"
+    },
+    {
+      "character_id": "jethro",
+      "position": 2,
+      "caption": "Warnt Mose: „was du tust, ist nicht gut\""
+    },
+    {
+      "character_id": "jethro",
+      "position": 3,
+      "caption": "Rät Mose, fähige Männer zu ernennen, um die Last zu teilen"
+    },
+    {
+      "character_id": "zipporah",
+      "position": 0,
+      "caption": "Mose zur Ehe gegeben; bringt ihm einen Sohn zur Welt"
+    },
+    {
+      "character_id": "zipporah",
+      "position": 1,
+      "caption": "Rettet Moses Leben, indem sie ihren Sohn beschneidet"
+    },
+    {
+      "character_id": "zipporah",
+      "position": 2,
+      "caption": "Von ihrem Vater Jitro zu Mose zurückgebracht"
     }
   ]
 }

@@ -771,6 +771,46 @@
       "character_id": "potiphars-wife",
       "name": "Potiphars Frau",
       "intro": "Die Frau des ägyptischen Beamten, deren wiederholte Versuche, Joseph zu verführen, und deren falsche Anklage, als er sie zurückwies, einen unschuldigen Mann ins Gefängnis brachten."
+    },
+    {
+      "character_id": "asenath",
+      "name": "Asenat",
+      "intro": "Josephs ägyptische Frau, ihm vom Pharao gegeben, und die Mutter von Manasse und Ephraim."
+    },
+    {
+      "character_id": "er-and-onan",
+      "name": "Er und Onan",
+      "intro": "Judas erste zwei Söhne von seiner Frau Batsua, die beide wegen dessen starben, was die Schrift schlicht Bosheit vor dem HERRN nennt, wodurch die Witwe ihres Bruders, Tamar, ohne Erben blieb."
+    },
+    {
+      "character_id": "perez",
+      "name": "Perez",
+      "intro": "Tamars Sohn von Juda, geboren vor seinem Zwillingsbruder in einer unerwarteten Umkehrung bei der Geburt -- und ein Vorfahre, der direkt in den Genealogien sowohl Davids als auch Jesu genannt wird."
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "name": "Die Töchter Zelofhads",
+      "intro": "Fünf Schwestern -- Machla, Noa, Hogla, Milka und Tirza -- deren Bitte um das Erbe ihres Vaters, da er keine Söhne hatte, Mose dazu brachte, ihren Fall vor Gott zu bringen und ein neues Gesetz für Israel zu erlassen."
+    },
+    {
+      "character_id": "jabez",
+      "name": "Jabez",
+      "intro": "Ein Mann, der namentlich in einer kurzen Genealogie für eine Sache in Erinnerung bleibt: ein Gebet, das Gott bat, ihn zu segnen, sein Gebiet zu erweitern und ihn vor Schaden zu bewahren -- und die Schrift vermerkt schlicht, dass Gott es gewährte."
+    },
+    {
+      "character_id": "keturah",
+      "name": "Ketura",
+      "intro": "Die Frau, die Abraham nach Saras Tod nahm, und die Mutter von sechs weiteren Söhnen, die zu Vorfahren verschiedener Völker östlich Israels wurden."
+    },
+    {
+      "character_id": "jethro",
+      "name": "Jitro",
+      "intro": "Moses Schwiegervater, ein Priester Midians, der Mose während seines Exils aus Ägypten Unterschlupf gewährte und ihm später weisen, praktischen Rat gab, die Last der Führung Israels zu teilen."
+    },
+    {
+      "character_id": "zipporah",
+      "name": "Zippora",
+      "intro": "Moses Frau, eine Tochter des Priesters von Midian, die auf ihrer Reise zurück nach Ägypten entschlossen handelte, um das Leben ihres Mannes zu retten."
     }
   ]
 }

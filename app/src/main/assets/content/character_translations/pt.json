@@ -771,6 +771,46 @@
       "character_id": "potiphars-wife",
       "name": "A mulher de Potifar",
       "intro": "A esposa do oficial egípcio cujas tentativas repetidas de seduzir José, e a falsa acusação quando ele a recusou, enviaram um homem inocente para a prisão."
+    },
+    {
+      "character_id": "asenath",
+      "name": "Asenate",
+      "intro": "A esposa egípcia de José, dada a ele pelo faraó, e mãe de Manassés e Efraim."
+    },
+    {
+      "character_id": "er-and-onan",
+      "name": "Er e Onã",
+      "intro": "Os dois primeiros filhos de Judá com sua esposa Bate-Sua, ambos mortos pelo que as Escrituras chamam diretamente de maldade diante do SENHOR, deixando a viúva do irmão, Tamar, sem herdeiro."
+    },
+    {
+      "character_id": "perez",
+      "name": "Perez",
+      "intro": "O filho de Tamar com Judá, nascido antes de seu irmão gêmeo numa reviravolta inesperada no nascimento -- e um ancestral mencionado diretamente nas genealogias tanto de Davi quanto de Jesus."
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "name": "As filhas de Zelofeade",
+      "intro": "Cinco irmãs -- Maalá, Noa, Hogla, Milca e Tirza -- cujo pedido pela herança do pai, já que ele não tinha filhos homens, levou Moisés a levar o caso diante de Deus e estabelecer uma nova lei para Israel."
+    },
+    {
+      "character_id": "jabez",
+      "name": "Jabes",
+      "intro": "Um homem lembrado pelo nome numa breve genealogia por uma única coisa: uma oração pedindo a Deus que o abençoasse, ampliasse seu território, e o guardasse do mal -- e as Escrituras registram simplesmente que Deus concedeu."
+    },
+    {
+      "character_id": "keturah",
+      "name": "Quetura",
+      "intro": "A esposa que Abraão tomou após a morte de Sara, e a mãe de mais seis filhos que se tornaram ancestrais de vários povos a leste de Israel."
+    },
+    {
+      "character_id": "jethro",
+      "name": "Jetro",
+      "intro": "O sogro de Moisés, um sacerdote de Midiã, que abrigou Moisés durante seu exílio do Egito e mais tarde lhe deu um conselho sábio e prático sobre compartilhar o fardo de liderar Israel."
+    },
+    {
+      "character_id": "zipporah",
+      "name": "Zípora",
+      "intro": "A esposa de Moisés, filha do sacerdote de Midiã, que agiu de forma decisiva para salvar a vida de seu marido em sua viagem de volta ao Egito."
     }
   ]
 }

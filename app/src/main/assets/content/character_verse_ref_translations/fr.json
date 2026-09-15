@@ -2901,6 +2901,121 @@
       "character_id": "potiphars-wife",
       "position": 3,
       "caption": "L'accuse faussement en utilisant ce même vêtement"
+    },
+    {
+      "character_id": "asenath",
+      "position": 0,
+      "caption": "Donnée en mariage à Joseph par Pharaon"
+    },
+    {
+      "character_id": "asenath",
+      "position": 1,
+      "caption": "Donne naissance à Manassé et Éphraïm avant les années de famine"
+    },
+    {
+      "character_id": "er-and-onan",
+      "position": 0,
+      "caption": "Er « était méchant aux yeux de l'ÉTERNEL, et l'ÉTERNEL le fit mourir »"
+    },
+    {
+      "character_id": "er-and-onan",
+      "position": 1,
+      "caption": "Onan refuse de donner un héritier à son frère ; lui aussi meurt"
+    },
+    {
+      "character_id": "er-and-onan",
+      "position": 2,
+      "caption": "Souvenus comme étant morts au pays de Canaan"
+    },
+    {
+      "character_id": "perez",
+      "position": 0,
+      "caption": "Né en devançant son jumeau, Zérach"
+    },
+    {
+      "character_id": "perez",
+      "position": 1,
+      "caption": "Tête de la lignée généalogique jusqu'à David"
+    },
+    {
+      "character_id": "perez",
+      "position": 2,
+      "caption": "Nommé dans la généalogie de Jésus"
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "position": 0,
+      "caption": "Portent leur cause devant Moïse : « pourquoi le nom de notre père serait-il retranché ? »"
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "position": 1,
+      "caption": "Dieu : « les filles de Tselophhad ont raison »"
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "position": 2,
+      "caption": "Reçoivent leur héritage comme promis"
+    },
+    {
+      "character_id": "jabez",
+      "position": 0,
+      "caption": "« plus considéré que ses frères »"
+    },
+    {
+      "character_id": "jabez",
+      "position": 1,
+      "caption": "Sa prière, et la réponse de Dieu : « Dieu lui accorda ce qu'il avait demandé »"
+    },
+    {
+      "character_id": "keturah",
+      "position": 0,
+      "caption": "Abraham la prend pour femme"
+    },
+    {
+      "character_id": "keturah",
+      "position": 1,
+      "caption": "Lui donne six fils"
+    },
+    {
+      "character_id": "keturah",
+      "position": 2,
+      "caption": "Leurs fils envoyés à l'est, loin d'Isaac, avec des présents"
+    },
+    {
+      "character_id": "jethro",
+      "position": 0,
+      "caption": "Donne à Moïse sa fille Séphora en mariage"
+    },
+    {
+      "character_id": "jethro",
+      "position": 1,
+      "caption": "Loue l'ÉTERNEL après avoir entendu tout ce qu'il a fait pour Israël"
+    },
+    {
+      "character_id": "jethro",
+      "position": 2,
+      "caption": "Avertit Moïse : « ce que tu fais n'est pas bien »"
+    },
+    {
+      "character_id": "jethro",
+      "position": 3,
+      "caption": "Conseille à Moïse de désigner des hommes capables pour partager la charge"
+    },
+    {
+      "character_id": "zipporah",
+      "position": 0,
+      "caption": "Donnée en mariage à Moïse ; lui donne un fils"
+    },
+    {
+      "character_id": "zipporah",
+      "position": 1,
+      "caption": "Sauve la vie de Moïse en circoncisant leur fils"
+    },
+    {
+      "character_id": "zipporah",
+      "position": 2,
+      "caption": "Ramenée à Moïse par son père Jéthro"
     }
   ]
 }
