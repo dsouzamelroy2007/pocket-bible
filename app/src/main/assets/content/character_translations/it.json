@@ -811,6 +811,46 @@
       "character_id": "zipporah",
       "name": "Zippora",
       "intro": "La moglie di Mosè, figlia del sacerdote di Madian, che agì con decisione per salvare la vita di suo marito durante il loro viaggio di ritorno in Egitto."
+    },
+    {
+      "character_id": "bezalel",
+      "name": "Bezalel",
+      "intro": "L'artigiano che Dio riempì di abilità e intelligenza per progettare e costruire il Tabernacolo e i suoi arredi sacri."
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "name": "Nadab e Abihu",
+      "intro": "I due figli maggiori e sacerdoti di Aronne, colpiti a morte per aver offerto \"fuoco non autorizzato\" davanti al SIGNORE -- un severo avvertimento contro l'avvicinarsi al culto con negligenza."
+    },
+    {
+      "character_id": "eleazar",
+      "name": "Eleazaro",
+      "intro": "Il terzo figlio di Aronne, che succedette a suo padre come sommo sacerdote e rimase al fianco di Mosè -- e poi di Giosuè -- fino alla fine degli anni nel deserto e alla conquista di Canaan."
+    },
+    {
+      "character_id": "ithamar",
+      "name": "Itamar",
+      "intro": "Il figlio più giovane di Aronne, un sacerdote a cui fu affidata la supervisione del servizio dei leviti e la contabilità del Tabernacolo."
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "name": "Fineas (figlio di Eleazaro)",
+      "intro": "Il nipote di Aronne, un sacerdote la cui azione decisiva contro l'idolatria e l'immoralità a Baal-Peor fermò una piaga su Israele e gli valse un patto sacerdotale duraturo."
+    },
+    {
+      "character_id": "balaam",
+      "name": "Balaam",
+      "intro": "Un profeta pagano assunto per maledire Israele, la cui asina vide l'angelo che bloccava la strada prima di lui, e che finì per benedire Israele quattro volte invece."
+    },
+    {
+      "character_id": "korah",
+      "name": "Core",
+      "intro": "Un levita che guidò una ribellione contro l'autorità di Mosè e Aronne, e che la terra stessa si aprì per inghiottire insieme ai suoi complici."
+    },
+    {
+      "character_id": "achan",
+      "name": "Acan",
+      "intro": "Un israelita il cui furto segreto di bottino votato allo sterminio da Gerico portò sconfitta su tutto Israele ad Ai, finché il suo peccato non fu scoperto e giudicato."
     }
   ]
 }

@@ -811,6 +811,46 @@
       "character_id": "zipporah",
       "name": "Zípora",
       "intro": "A esposa de Moisés, filha do sacerdote de Midiã, que agiu de forma decisiva para salvar a vida de seu marido em sua viagem de volta ao Egito."
+    },
+    {
+      "character_id": "bezalel",
+      "name": "Bezalel",
+      "intro": "O artesão que Deus encheu de habilidade e entendimento para projetar e construir o Tabernáculo e seus móveis sagrados."
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "name": "Nadabe e Abiú",
+      "intro": "Os dois filhos mais velhos de Arão e sacerdotes, mortos por oferecerem \"fogo estranho\" diante do SENHOR -- uma séria advertência contra aproximar-se do culto com descuido."
+    },
+    {
+      "character_id": "eleazar",
+      "name": "Eleazar",
+      "intro": "O terceiro filho de Arão, que sucedeu seu pai como sumo sacerdote e permaneceu ao lado de Moisés -- e depois de Josué -- até o fim dos anos no deserto e a conquista de Canaã."
+    },
+    {
+      "character_id": "ithamar",
+      "name": "Itamar",
+      "intro": "O filho mais novo de Arão, um sacerdote encarregado da supervisão do serviço dos levitas e da contabilidade do Tabernáculo."
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "name": "Fineias (filho de Eleazar)",
+      "intro": "O neto de Arão, um sacerdote cuja ação decisiva contra a idolatria e a imoralidade em Baal-Peor deteve uma praga sobre Israel e lhe rendeu uma aliança sacerdotal duradoura."
+    },
+    {
+      "character_id": "balaam",
+      "name": "Balaão",
+      "intro": "Um profeta pagão contratado para amaldiçoar Israel, cuja própria jumenta viu o anjo bloqueando o caminho antes dele, e que acabou abençoando Israel quatro vezes em vez disso."
+    },
+    {
+      "character_id": "korah",
+      "name": "Corá",
+      "intro": "Um levita que liderou uma rebelião contra a autoridade de Moisés e Arão, e a quem a própria terra se abriu para engolir junto com seus companheiros conspiradores."
+    },
+    {
+      "character_id": "achan",
+      "name": "Acã",
+      "intro": "Um israelita cujo roubo secreto de despojos consagrados de Jericó trouxe derrota sobre todo o Israel em Ai, até que seu pecado foi exposto e julgado."
     }
   ]
 }

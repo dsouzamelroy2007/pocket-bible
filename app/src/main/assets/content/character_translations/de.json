@@ -811,6 +811,46 @@
       "character_id": "zipporah",
       "name": "Zippora",
       "intro": "Moses Frau, eine Tochter des Priesters von Midian, die auf ihrer Reise zurück nach Ägypten entschlossen handelte, um das Leben ihres Mannes zu retten."
+    },
+    {
+      "character_id": "bezalel",
+      "name": "Bezalel",
+      "intro": "Der Handwerker, den Gott mit Geschick und Verständnis erfüllte, um die Stiftshütte und ihre heiligen Einrichtungsgegenstände zu entwerfen und zu bauen."
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "name": "Nadab und Abihu",
+      "intro": "Aarons zwei älteste Söhne und Priester, die getötet wurden, weil sie „unbefugtes Feuer\" vor dem HERRN darbrachten -- eine ernüchternde Warnung, die Anbetung nicht leichtfertig anzugehen."
+    },
+    {
+      "character_id": "eleazar",
+      "name": "Eleasar",
+      "intro": "Aarons dritter Sohn, der seinem Vater als Hohepriester nachfolgte und Mose -- und dann Josua -- durch das Ende der Wüstenjahre und die Eroberung Kanaans zur Seite stand."
+    },
+    {
+      "character_id": "ithamar",
+      "name": "Ithamar",
+      "intro": "Aarons jüngster Sohn, ein Priester, dem die Aufsicht über den Dienst der Leviten und die Buchführung der Stiftshütte übertragen wurde."
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "name": "Pinhas (Sohn Eleasars)",
+      "intro": "Aarons Enkel, ein Priester, dessen entschlossenes Handeln gegen Götzendienst und Unzucht bei Baal-Peor eine Plage über Israel abwendete und ihm einen dauerhaften Priesterbund einbrachte."
+    },
+    {
+      "character_id": "balaam",
+      "name": "Bileam",
+      "intro": "Ein heidnischer Prophet, der angeheuert wurde, Israel zu verfluchen, dessen eigene Eselin den Engel, der den Weg versperrte, vor ihm sah, und der stattdessen Israel viermal segnete."
+    },
+    {
+      "character_id": "korah",
+      "name": "Korach",
+      "intro": "Ein Levit, der eine Rebellion gegen die Autorität von Mose und Aaron anführte, und den der Erdboden selbst verschlang, zusammen mit seinen Mitverschwörern."
+    },
+    {
+      "character_id": "achan",
+      "name": "Achan",
+      "intro": "Ein Israelit, dessen heimlicher Diebstahl von gebanntem Beutegut aus Jericho eine Niederlage über ganz Israel bei Ai brachte, bis seine Sünde aufgedeckt und gerichtet wurde."
     }
   ]
 }

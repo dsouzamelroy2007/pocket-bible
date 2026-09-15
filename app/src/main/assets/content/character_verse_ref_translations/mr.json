@@ -3016,6 +3016,146 @@
       "character_id": "zipporah",
       "position": 2,
       "caption": "तिचे वडील यथ्रो यांनी मोशेकडे परत आणली"
+    },
+    {
+      "character_id": "bezalel",
+      "position": 0,
+      "caption": "नावाने बोलावला, देवाच्या आत्म्याने भरलेला"
+    },
+    {
+      "character_id": "bezalel",
+      "position": 1,
+      "caption": "\"कलात्मक रचना करण्याचे\" कौशल्य दिलेले"
+    },
+    {
+      "character_id": "bezalel",
+      "position": 2,
+      "caption": "मोशे लोकांना त्याच्या बोलावण्याची घोषणा करतो"
+    },
+    {
+      "character_id": "bezalel",
+      "position": 3,
+      "caption": "कराराचा कोश बांधतो"
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "position": 0,
+      "caption": "परमेश्वरासमोर \"अनधिकृत अग्नी\" अर्पण करतात"
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "position": 1,
+      "caption": "परमेश्वराच्या उपस्थितीतून आलेल्या अग्नीने भस्म झाले"
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "position": 2,
+      "caption": "कोणतेही पुत्र न ठेवता, वडिलांच्या आधी मरण पावले"
+    },
+    {
+      "character_id": "eleazar",
+      "position": 0,
+      "caption": "अहरोन मरताना याजकीय वस्त्रे परिधान केला गेला"
+    },
+    {
+      "character_id": "eleazar",
+      "position": 1,
+      "caption": "इस्राएलच्या वतीने निर्णयांसाठी सल्ला घेतला जातो"
+    },
+    {
+      "character_id": "eleazar",
+      "position": 2,
+      "caption": "कनान देश वंशांमध्ये वाटण्यास मदत करतो"
+    },
+    {
+      "character_id": "ithamar",
+      "position": 0,
+      "caption": "निवासमंडपाच्या साहित्याच्या हिशोबावर देखरेख करतो"
+    },
+    {
+      "character_id": "ithamar",
+      "position": 1,
+      "caption": "गेर्षोनी लोकांच्या सेवेचा कारभार दिला"
+    },
+    {
+      "character_id": "ithamar",
+      "position": 2,
+      "caption": "त्याच्यानंतर त्याचा याजकी वंश चालू राहतो"
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "position": 0,
+      "caption": "बआल-पौरमधील मरी थांबवण्यासाठी निर्णायकपणे कृती करतो"
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "position": 1,
+      "caption": "देव त्याला \"शांतीचा करार,\" एक चिरंतन याजकपद देतो"
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "position": 2,
+      "caption": "वंशांमधील वाद मिटवण्यासाठी पाठवला गेला"
+    },
+    {
+      "character_id": "balaam",
+      "position": 0,
+      "caption": "त्याची गाढवी बोलते, त्याला दटावते"
+    },
+    {
+      "character_id": "balaam",
+      "position": 1,
+      "caption": "त्याचे स्वतःचे डोळे अखेर देवदूताला पाहण्यासाठी उघडले"
+    },
+    {
+      "character_id": "balaam",
+      "position": 2,
+      "caption": "\"ज्याला देवाने शाप दिला नाही त्याला मी कसा शाप देऊ?\""
+    },
+    {
+      "character_id": "balaam",
+      "position": 3,
+      "caption": "भविष्यवाणी करतो \"याकोबातून एक तारा उगवेल\""
+    },
+    {
+      "character_id": "balaam",
+      "position": 4,
+      "caption": "संदेष्ट्याला भरकटवणाऱ्या लोभाचे उदाहरण म्हणून स्मरणात"
+    },
+    {
+      "character_id": "korah",
+      "position": 0,
+      "caption": "मोशे आणि अहरोनाला आव्हान देतो: \"तुम्ही खूप पुढे गेला आहात\""
+    },
+    {
+      "character_id": "korah",
+      "position": 1,
+      "caption": "जमीन उघडते आणि त्याला व त्याच्या घराण्याला गिळंकृत करते"
+    },
+    {
+      "character_id": "korah",
+      "position": 2,
+      "caption": "विशेष म्हणजे, त्याचे स्वतःचे पुत्र मरण पावले नाहीत"
+    },
+    {
+      "character_id": "korah",
+      "position": 3,
+      "caption": "इशारा म्हणून स्मरणात: \"कोरहाच्या बंडात नाश पावले\""
+    },
+    {
+      "character_id": "achan",
+      "position": 0,
+      "caption": "त्याच्या चोरीने \"इस्राएलच्या मुलांवर\" संकट आणले"
+    },
+    {
+      "character_id": "achan",
+      "position": 1,
+      "caption": "कबूल करतो: \"मी त्यांचा लोभ धरला आणि घेतले\""
+    },
+    {
+      "character_id": "achan",
+      "position": 2,
+      "caption": "इस्राएलला संकटात टाकल्याबद्दल न्याय झाला"
     }
   ]
 }

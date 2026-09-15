@@ -811,6 +811,46 @@
       "character_id": "zipporah",
       "name": "Séphora",
       "intro": "L'épouse de Moïse, fille du prêtre de Madian, qui agit avec décision pour sauver la vie de son mari lors de leur voyage de retour en Égypte."
+    },
+    {
+      "character_id": "bezalel",
+      "name": "Betsaléel",
+      "intro": "L'artisan que Dieu remplit d'habileté et d'intelligence pour concevoir et construire le Tabernacle et son mobilier sacré."
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "name": "Nadab et Abihu",
+      "intro": "Les deux fils aînés d'Aaron et prêtres, frappés à mort pour avoir offert « un feu étranger » devant l'ÉTERNEL -- un avertissement sobre contre une approche négligente du culte."
+    },
+    {
+      "character_id": "eleazar",
+      "name": "Éléazar",
+      "intro": "Le troisième fils d'Aaron, qui succéda à son père comme grand prêtre et se tint aux côtés de Moïse -- puis de Josué -- jusqu'à la fin des années dans le désert et la conquête de Canaan."
+    },
+    {
+      "character_id": "ithamar",
+      "name": "Ithamar",
+      "intro": "Le plus jeune fils d'Aaron, un prêtre à qui fut confiée la supervision du service des lévites et la comptabilité du Tabernacle."
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "name": "Phinées (fils d'Éléazar)",
+      "intro": "Le petit-fils d'Aaron, un prêtre dont l'action décisive contre l'idolâtrie et l'immoralité à Baal-Peor arrêta une plaie sur Israël et lui valut une alliance sacerdotale durable."
+    },
+    {
+      "character_id": "balaam",
+      "name": "Balaam",
+      "intro": "Un prophète païen engagé pour maudire Israël, dont l'ânesse vit l'ange bloquant la route avant lui, et qui finit par bénir Israël quatre fois à la place."
+    },
+    {
+      "character_id": "korah",
+      "name": "Coré",
+      "intro": "Un lévite qui mena une rébellion contre l'autorité de Moïse et d'Aaron, et que la terre elle-même s'ouvrit pour engloutir avec ses complices."
+    },
+    {
+      "character_id": "achan",
+      "name": "Acan",
+      "intro": "Un Israélite dont le vol secret de butin voué à l'anathème de Jéricho apporta la défaite sur tout Israël à Aï, jusqu'à ce que son péché soit exposé et jugé."
     }
   ]
 }
