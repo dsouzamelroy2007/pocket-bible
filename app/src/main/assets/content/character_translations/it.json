@@ -931,6 +931,46 @@
       "character_id": "ahithophel",
       "name": "Achitofel",
       "intro": "Il consigliere fidato di Davide, il cui parere si diceva fosse come consultare la parola stessa di Dio -- finché non disertò per la ribellione di Assalonne e, quando il suo consiglio fu respinto, si tolse la vita."
+    },
+    {
+      "character_id": "hushai",
+      "name": "Cusai",
+      "intro": "L'amico leale di Davide, piazzato alla corte di Assalonne per minare il consiglio di Achitofel -- e il cui successo in ciò potrebbe aver salvato il trono di Davide."
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "name": "Doeg l'Idumeo",
+      "intro": "Il capo pastore di Saul, che riferì che il sacerdote Achimelec aveva aiutato Davide -- e che poi, quando le stesse guardie di Saul rifiutarono, eseguì personalmente il massacro di ottantacinque sacerdoti e delle loro famiglie."
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "name": "Achimelec il sacerdote",
+      "intro": "Il sacerdote di Nob che diede a Davide pane e la spada di Golia, senza sapere che stava aiutando un fuggitivo del re -- e che lo pagò con la vita, sua e della sua città."
+    },
+    {
+      "character_id": "abiathar",
+      "name": "Abiatar",
+      "intro": "Il figlio di Achimelec, unico sopravvissuto al massacro di Doeg a Nob, che fuggì da Davide e servì come suo sacerdote per anni -- finché non appoggiò il successore sbagliato e fu rimosso dal sacerdozio."
+    },
+    {
+      "character_id": "zadok",
+      "name": "Sadoc",
+      "intro": "Un sacerdote che rimase fedele a Davide durante la ribellione di Assalonne e sostenne la successione di Salomone -- e i cui discendenti divennero la stirpe sacerdotale che durò per secoli."
+    },
+    {
+      "character_id": "rizpah",
+      "name": "Rizpa",
+      "intro": "La concubina di Saul, il cui atto di devozione -- proteggere per mesi i corpi esposti dei suoi figli morti da uccelli e animali -- commosse il re Davide a dare loro finalmente una sepoltura adeguata."
+    },
+    {
+      "character_id": "amnon",
+      "name": "Amnon",
+      "intro": "Il figlio primogenito di Davide, la cui ossessione per la sorellastra Tamar lo portò a violentarla -- un crimine che suo padre non punì mai, e che suo fratello Assalonne non perdonò mai."
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "name": "Tamar (figlia di Davide)",
+      "intro": "La figlia di Davide, violentata dal proprio fratellastro Amnon -- un crimine che la devastò, rimase impunito dal padre, e mise in moto l'eventuale ribellione di suo fratello Assalonne."
     }
   ]
 }

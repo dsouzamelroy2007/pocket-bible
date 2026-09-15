@@ -3456,6 +3456,171 @@
       "character_id": "ahithophel",
       "position": 3,
       "caption": "जब उसकी सलाह ठुकराई जाती है तो अपनी जान ले लेता है"
+    },
+    {
+      "character_id": "hushai",
+      "position": 0,
+      "caption": "अहीतोपेल की सलाह को विफल करने के लिए यरूशलेम वापस भेजा गया"
+    },
+    {
+      "character_id": "hushai",
+      "position": 1,
+      "caption": "सावधान शब्दों से अबशालोम का विश्वास जीतता है"
+    },
+    {
+      "character_id": "hushai",
+      "position": 2,
+      "caption": "अहीतोपेल की सलाह के विरुद्ध तर्क देता है"
+    },
+    {
+      "character_id": "hushai",
+      "position": 3,
+      "caption": "यहोवा ने अहीतोपेल की अच्छी सलाह को विफल करने का निश्चय किया था"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 0,
+      "caption": "उपस्थित, यहोवा के सम्मुख रोका गया, जब दाऊद अहीमेलेक के पास आता है"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 1,
+      "caption": "शाऊल को बताता है कि उसने क्या देखा"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 2,
+      "caption": "जब शाऊल के पहरेदार इनकार करते हैं तो पचासी याजकों को मार डालता है"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 3,
+      "caption": "याजकीय नगर नोब को पूरी तरह तलवार से मार डालता है"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 4,
+      "caption": "भजन संहिता 52 का शीर्षक उसे दाऊद के भजन के अवसर के रूप में नाम देता है"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 0,
+      "caption": "दाऊद को पवित्र रोटी देता है"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 1,
+      "caption": "दाऊद को गोलियत की तलवार देता है"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 2,
+      "caption": "अपना बचाव करता है: उसे किसी षड्यंत्र के बारे में कुछ भी पता नहीं था"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 3,
+      "caption": "फिर भी अपने पूरे घराने के साथ मृत्यु दंड दिया गया"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 0,
+      "caption": "दाऊद के पास भाग जाता है, अपने पिता के घराने में से जीवित बचने वाला एकमात्र"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 1,
+      "caption": "छिपे हुए दाऊद के पास याजकीय एपोद लाता है"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 2,
+      "caption": "सुलैमान के बजाय अदोनिय्याह का पक्ष लेता है"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 3,
+      "caption": "सुलैमान द्वारा याजकपद से हटाया गया"
+    },
+    {
+      "character_id": "zadok",
+      "position": 0,
+      "caption": "दाऊद के साथ सन्दूक ले जाता है, अबशालोम से भागते हुए"
+    },
+    {
+      "character_id": "zadok",
+      "position": 1,
+      "caption": "दाऊद के निर्देश पर सन्दूक के साथ यरूशलेम वापस भेजा गया"
+    },
+    {
+      "character_id": "zadok",
+      "position": 2,
+      "caption": "सुलैमान को राजा अभिषेक करता है"
+    },
+    {
+      "character_id": "zadok",
+      "position": 3,
+      "caption": "उसके वंशज उन याजकों के रूप में नामित जो वफादार रहे"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 0,
+      "caption": "शाऊल की उपपत्नी के रूप में नामित"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 1,
+      "caption": "दिन-रात अपने पुत्रों के शवों की रखवाली करती है, कुछ भी उन्हें छूने नहीं देती"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 2,
+      "caption": "दाऊद सुनता है कि उसने क्या किया है"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 3,
+      "caption": "अन्ततः हड्डियों को उचित रूप से दफनाने के लिए प्रेरित हुआ"
+    },
+    {
+      "character_id": "amnon",
+      "position": 0,
+      "caption": "पीड़ित, तामार से ग्रस्त"
+    },
+    {
+      "character_id": "amnon",
+      "position": 1,
+      "caption": "उसकी विनती के बावजूद उस पर अत्याचार करता है"
+    },
+    {
+      "character_id": "amnon",
+      "position": 2,
+      "caption": "बाद में उसके प्रति उसकी घृणा पहले की उसकी इच्छा से अधिक थी"
+    },
+    {
+      "character_id": "amnon",
+      "position": 3,
+      "caption": "दो वर्ष बाद बदले में अबशालोम के लोगों द्वारा मारा गया"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 0,
+      "caption": "सुन्दर बताई गई; अम्नोन की बहन"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 1,
+      "caption": "अम्नोन से विनती करती है कि यह \"जघन्य मूर्खता\" न करे"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 2,
+      "caption": "अपना वस्त्र फाड़ती है, अपने सिर पर राख डालती है, ऊंचे स्वर से रोती है"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 3,
+      "caption": "अपने भाई अबशालोम के घर में उजाड़ जीवन जीती है"
     }
   ]
 }

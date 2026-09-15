@@ -3456,6 +3456,171 @@
       "character_id": "ahithophel",
       "position": 3,
       "caption": "Met fin à ses jours quand son conseil est méprisé"
+    },
+    {
+      "character_id": "hushai",
+      "position": 0,
+      "caption": "Renvoyé à Jérusalem pour déjouer le conseil d'Ahithophel"
+    },
+    {
+      "character_id": "hushai",
+      "position": 1,
+      "caption": "Gagne la confiance d'Absalom par des paroles prudentes"
+    },
+    {
+      "character_id": "hushai",
+      "position": 2,
+      "caption": "S'oppose au conseil d'Ahithophel"
+    },
+    {
+      "character_id": "hushai",
+      "position": 3,
+      "caption": "L'ÉTERNEL avait résolu de déjouer le bon conseil d'Ahithophel"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 0,
+      "caption": "Présent, retenu devant l'ÉTERNEL, quand David vient trouver Ahimélek"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 1,
+      "caption": "Rapporte à Saül ce qu'il a vu"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 2,
+      "caption": "Tue quatre-vingt-cinq prêtres quand les gardes de Saül refusent"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 3,
+      "caption": "Passe au fil de l'épée toute la ville sacerdotale de Nob"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 4,
+      "caption": "L'en-tête du Psaume 52 le nomme comme l'occasion du psaume de David"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 0,
+      "caption": "Donne à David le pain consacré"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 1,
+      "caption": "Donne à David l'épée de Goliath"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 2,
+      "caption": "Se défend : il ne savait rien d'aucune conspiration"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 3,
+      "caption": "Condamné à mourir quand même, avec toute sa maison"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 0,
+      "caption": "S'échappe vers David, seul de la maison de son père à survivre"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 1,
+      "caption": "Apporte l'éphod sacerdotal à David caché"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 2,
+      "caption": "Se range du côté d'Adonija plutôt que de Salomon"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 3,
+      "caption": "Démis du sacerdoce par Salomon"
+    },
+    {
+      "character_id": "zadok",
+      "position": 0,
+      "caption": "Emporte l'arche avec David, fuyant Absalom"
+    },
+    {
+      "character_id": "zadok",
+      "position": 1,
+      "caption": "Renvoyé à Jérusalem avec l'arche, sur instruction de David"
+    },
+    {
+      "character_id": "zadok",
+      "position": 2,
+      "caption": "Oint Salomon roi"
+    },
+    {
+      "character_id": "zadok",
+      "position": 3,
+      "caption": "Ses descendants nommés comme les prêtres qui restèrent fidèles"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 0,
+      "caption": "Nommée comme concubine de Saül"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 1,
+      "caption": "Garde les corps de ses fils jour et nuit, refusant que rien ne les touche"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 2,
+      "caption": "David entend ce qu'elle a fait"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 3,
+      "caption": "Ému, il fait enfin ensevelir les ossements convenablement"
+    },
+    {
+      "character_id": "amnon",
+      "position": 0,
+      "caption": "Tourmenté, obsédé par Tamar"
+    },
+    {
+      "character_id": "amnon",
+      "position": 1,
+      "caption": "L'agresse malgré ses supplications"
+    },
+    {
+      "character_id": "amnon",
+      "position": 2,
+      "caption": "Sa haine pour elle ensuite plus grande que son désir d'avant"
+    },
+    {
+      "character_id": "amnon",
+      "position": 3,
+      "caption": "Tué par les hommes d'Absalom en vengeance, deux ans plus tard"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 0,
+      "caption": "Décrite comme belle ; sœur d'Amnon"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 1,
+      "caption": "Supplie Amnon de ne pas commettre cette « infamie »"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 2,
+      "caption": "Déchire sa robe, met de la cendre sur sa tête, pleure à haute voix"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 3,
+      "caption": "Vit désolée dans la maison de son frère Absalom"
     }
   ]
 }

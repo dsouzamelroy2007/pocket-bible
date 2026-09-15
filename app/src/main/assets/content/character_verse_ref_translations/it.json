@@ -3456,6 +3456,171 @@
       "character_id": "ahithophel",
       "position": 3,
       "caption": "Si toglie la vita quando il suo consiglio viene disprezzato"
+    },
+    {
+      "character_id": "hushai",
+      "position": 0,
+      "caption": "Rimandato a Gerusalemme per sventare il consiglio di Achitofel"
+    },
+    {
+      "character_id": "hushai",
+      "position": 1,
+      "caption": "Guadagna la fiducia di Assalonne con parole caute"
+    },
+    {
+      "character_id": "hushai",
+      "position": 2,
+      "caption": "Argomenta contro il consiglio di Achitofel"
+    },
+    {
+      "character_id": "hushai",
+      "position": 3,
+      "caption": "Il SIGNORE aveva deciso di sventare il buon consiglio di Achitofel"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 0,
+      "caption": "Presente, trattenuto davanti al SIGNORE, quando Davide viene da Achimelec"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 1,
+      "caption": "Riferisce a Saul ciò che ha visto"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 2,
+      "caption": "Uccide ottantacinque sacerdoti quando le guardie di Saul rifiutano"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 3,
+      "caption": "Passa a fil di spada l'intera città sacerdotale di Nob"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 4,
+      "caption": "L'intestazione del Salmo 52 lo nomina come occasione del salmo di Davide"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 0,
+      "caption": "Dà a Davide il pane consacrato"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 1,
+      "caption": "Dà a Davide la spada di Golia"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 2,
+      "caption": "Si difende: non sapeva nulla di alcuna cospirazione"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 3,
+      "caption": "Condannato comunque a morire, con tutta la sua famiglia"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 0,
+      "caption": "Fugge da Davide, unico della casa di suo padre a sopravvivere"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 1,
+      "caption": "Porta l'efod sacerdotale a Davide, che si nasconde"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 2,
+      "caption": "Si schiera con Adonia invece che con Salomone"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 3,
+      "caption": "Rimosso dal sacerdozio da Salomone"
+    },
+    {
+      "character_id": "zadok",
+      "position": 0,
+      "caption": "Porta fuori l'Arca con Davide, fuggendo Assalonne"
+    },
+    {
+      "character_id": "zadok",
+      "position": 1,
+      "caption": "Rimandato a Gerusalemme con l'Arca, per istruzione di Davide"
+    },
+    {
+      "character_id": "zadok",
+      "position": 2,
+      "caption": "Unge re Salomone"
+    },
+    {
+      "character_id": "zadok",
+      "position": 3,
+      "caption": "I suoi discendenti nominati come i sacerdoti che rimasero fedeli"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 0,
+      "caption": "Nominata come concubina di Saul"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 1,
+      "caption": "Sorveglia i corpi dei suoi figli giorno e notte, rifiutando che nulla li tocchi"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 2,
+      "caption": "Davide sente ciò che ha fatto"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 3,
+      "caption": "Commosso, fa finalmente seppellire le ossa in modo appropriato"
+    },
+    {
+      "character_id": "amnon",
+      "position": 0,
+      "caption": "Tormentato, ossessionato da Tamar"
+    },
+    {
+      "character_id": "amnon",
+      "position": 1,
+      "caption": "La violenta nonostante le sue suppliche"
+    },
+    {
+      "character_id": "amnon",
+      "position": 2,
+      "caption": "Il suo odio per lei in seguito più grande del suo desiderio precedente"
+    },
+    {
+      "character_id": "amnon",
+      "position": 3,
+      "caption": "Ucciso per vendetta dagli uomini di Assalonne, due anni dopo"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 0,
+      "caption": "Descritta come bella; sorella di Amnon"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 1,
+      "caption": "Supplica Amnon di non commettere questa \"infamia\""
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 2,
+      "caption": "Straccia la sua veste, si mette cenere sul capo, piange ad alta voce"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 3,
+      "caption": "Vive desolata nella casa di suo fratello Assalonne"
     }
   ]
 }

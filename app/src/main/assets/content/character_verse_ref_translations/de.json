@@ -3456,6 +3456,171 @@
       "character_id": "ahithophel",
       "position": 3,
       "caption": "Nimmt sich das Leben, als sein Rat verschmäht wird"
+    },
+    {
+      "character_id": "hushai",
+      "position": 0,
+      "caption": "Nach Jerusalem zurückgeschickt, um Ahitophels Rat zu vereiteln"
+    },
+    {
+      "character_id": "hushai",
+      "position": 1,
+      "caption": "Gewinnt Absaloms Vertrauen mit bedachten Worten"
+    },
+    {
+      "character_id": "hushai",
+      "position": 2,
+      "caption": "Argumentiert gegen Ahitophels Rat"
+    },
+    {
+      "character_id": "hushai",
+      "position": 3,
+      "caption": "Der HERR hatte beschlossen, Ahitophels guten Rat zu vereiteln"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 0,
+      "caption": "Anwesend, vor dem HERRN festgehalten, als David zu Ahimelech kommt"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 1,
+      "caption": "Berichtet Saul, was er gesehen hat"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 2,
+      "caption": "Tötet fünfundachtzig Priester, als Sauls Wachen sich weigern"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 3,
+      "caption": "Bringt die ganze Priesterstadt Nob unter das Schwert"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 4,
+      "caption": "Die Überschrift von Psalm 52 nennt ihn als Anlass für Davids Psalm"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 0,
+      "caption": "Gibt David das geweihte Brot"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 1,
+      "caption": "Gibt David Goliaths Schwert"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 2,
+      "caption": "Verteidigt sich: er wusste nichts von einer Verschwörung"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 3,
+      "caption": "Trotzdem zum Tode verurteilt, mit seinem ganzen Haushalt"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 0,
+      "caption": "Entkommt zu David, als einziger seines Vaterhauses überlebend"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 1,
+      "caption": "Bringt David, der sich versteckt hält, das priesterliche Ephod"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 2,
+      "caption": "Ergreift Partei für Adonija statt für Salomo"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 3,
+      "caption": "Von Salomo aus dem Priestertum entfernt"
+    },
+    {
+      "character_id": "zadok",
+      "position": 0,
+      "caption": "Trägt die Lade mit David hinaus, auf der Flucht vor Absalom"
+    },
+    {
+      "character_id": "zadok",
+      "position": 1,
+      "caption": "Auf Davids Anweisung mit der Lade nach Jerusalem zurückgeschickt"
+    },
+    {
+      "character_id": "zadok",
+      "position": 2,
+      "caption": "Salbt Salomo zum König"
+    },
+    {
+      "character_id": "zadok",
+      "position": 3,
+      "caption": "Seine Nachkommen als die Priester genannt, die treu blieben"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 0,
+      "caption": "Als Sauls Nebenfrau genannt"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 1,
+      "caption": "Bewacht die Leichen ihrer Söhne Tag und Nacht, lässt nichts an sie heran"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 2,
+      "caption": "David hört, was sie getan hat"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 3,
+      "caption": "Bewegt, die Gebeine schließlich ordentlich zu bestatten"
+    },
+    {
+      "character_id": "amnon",
+      "position": 0,
+      "caption": "Gequält, besessen von Tamar"
+    },
+    {
+      "character_id": "amnon",
+      "position": 1,
+      "caption": "Vergewaltigt sie trotz ihres Flehens"
+    },
+    {
+      "character_id": "amnon",
+      "position": 2,
+      "caption": "Sein Hass auf sie danach größer als sein Verlangen zuvor"
+    },
+    {
+      "character_id": "amnon",
+      "position": 3,
+      "caption": "Zwei Jahre später aus Rache von Absaloms Männern getötet"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 0,
+      "caption": "Als schön beschrieben; Amnons Schwester"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 1,
+      "caption": "Fleht Amnon an, diese „Schandtat\" nicht zu tun"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 2,
+      "caption": "Zerreißt ihr Gewand, streut Asche auf ihr Haupt, weint laut"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 3,
+      "caption": "Lebt einsam im Haus ihres Bruders Absalom"
     }
   ]
 }

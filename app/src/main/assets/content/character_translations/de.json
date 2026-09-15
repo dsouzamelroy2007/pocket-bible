@@ -931,6 +931,46 @@
       "character_id": "ahithophel",
       "name": "Ahitophel",
       "intro": "Davids vertrauter Ratgeber, dessen Rat es hieß, sei wie das Befragen des Wortes Gottes selbst -- bis er zu Absaloms Rebellion überlief und, als sein Rat verworfen wurde, sich das Leben nahm."
+    },
+    {
+      "character_id": "hushai",
+      "name": "Huschai",
+      "intro": "Davids treuer Freund, der in Absaloms Hof eingeschleust wurde, um Ahitophels Rat zu untergraben -- und dessen Erfolg dabei möglicherweise Davids Thron rettete."
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "name": "Doeg der Edomiter",
+      "intro": "Sauls oberster Hirte, der meldete, dass der Priester Ahimelech David geholfen hatte -- und der dann, als Sauls eigene Wachen sich weigerten, persönlich das Massaker an fünfundachtzig Priestern und ihren Familien ausführte."
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "name": "Ahimelech der Priester",
+      "intro": "Der Priester in Nob, der David Brot und Goliaths Schwert gab, ohne zu wissen, dass er einem Flüchtling des Königs half -- und der es mit seinem Leben und dem seiner Stadt bezahlte."
+    },
+    {
+      "character_id": "abiathar",
+      "name": "Abjatar",
+      "intro": "Ahimelechs Sohn, der einzige Überlebende von Doegs Massaker in Nob, der zu David floh und ihm jahrelang als Priester diente -- bis er den falschen Nachfolger unterstützte und aus dem Priestertum entfernt wurde."
+    },
+    {
+      "character_id": "zadok",
+      "name": "Zadok",
+      "intro": "Ein Priester, der David während Absaloms Rebellion treu blieb und Salomos Nachfolge unterstützte -- und dessen Nachkommen zur priesterlichen Linie wurden, die jahrhundertelang Bestand hatte."
+    },
+    {
+      "character_id": "rizpah",
+      "name": "Rizpa",
+      "intro": "Sauls Nebenfrau, deren Akt der Hingabe -- monatelanges Bewachen der ausgesetzten Leichen ihrer toten Söhne vor Vögeln und Tieren -- König David bewegte, ihnen schließlich eine ordentliche Bestattung zu geben."
+    },
+    {
+      "character_id": "amnon",
+      "name": "Amnon",
+      "intro": "Davids erstgeborener Sohn, dessen Besessenheit von seiner Halbschwester Tamar ihn dazu brachte, sie zu vergewaltigen -- ein Verbrechen, das sein Vater niemals bestrafte und das sein Bruder Absalom niemals verzieh."
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "name": "Tamar (Tochter Davids)",
+      "intro": "Davids Tochter, von ihrem eigenen Halbbruder Amnon vergewaltigt -- ein Verbrechen, das sie verwüstete, von ihrem Vater ungestraft blieb und die spätere Rebellion ihres Bruders Absalom in Gang setzte."
     }
   ]
 }

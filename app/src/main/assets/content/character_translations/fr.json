@@ -931,6 +931,46 @@
       "character_id": "ahithophel",
       "name": "Ahithophel",
       "intro": "Le conseiller de confiance de David, dont l'avis était dit être comme consulter la parole même de Dieu -- jusqu'à ce qu'il fasse défection vers la rébellion d'Absalom et, quand son conseil fut rejeté, mette fin à ses jours."
+    },
+    {
+      "character_id": "hushai",
+      "name": "Hushaï",
+      "intro": "L'ami loyal de David, placé à la cour d'Absalom pour saper le conseil d'Ahithophel -- et dont le succès a peut-être sauvé le trône de David."
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "name": "Doëg l'Édomite",
+      "intro": "Le chef berger de Saül, qui rapporta que le prêtre Ahimélek avait aidé David -- et qui, lorsque les propres gardes de Saül refusèrent, exécuta personnellement le massacre de quatre-vingt-cinq prêtres et de leurs familles."
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "name": "Ahimélek le prêtre",
+      "intro": "Le prêtre de Nob qui donna à David du pain et l'épée de Goliath, ignorant qu'il aidait un fugitif du roi -- et qui le paya de sa vie et de celle de sa ville."
+    },
+    {
+      "character_id": "abiathar",
+      "name": "Abiathar",
+      "intro": "Le fils d'Ahimélek, seul survivant du massacre de Doëg à Nob, qui s'enfuit vers David et servit comme son prêtre pendant des années -- jusqu'à ce qu'il soutienne le mauvais successeur et soit démis du sacerdoce."
+    },
+    {
+      "character_id": "zadok",
+      "name": "Tsadok",
+      "intro": "Un prêtre qui resta fidèle à David pendant la rébellion d'Absalom et soutint la succession de Salomon -- et dont les descendants devinrent la lignée sacerdotale qui perdura pendant des siècles."
+    },
+    {
+      "character_id": "rizpah",
+      "name": "Ritspa",
+      "intro": "La concubine de Saül, dont l'acte de dévotion -- garder pendant des mois les corps exposés de ses fils morts contre les oiseaux et les animaux -- émut le roi David à leur donner enfin une sépulture convenable."
+    },
+    {
+      "character_id": "amnon",
+      "name": "Amnon",
+      "intro": "Le fils premier-né de David, dont l'obsession pour sa demi-sœur Tamar le conduisit à l'agresser -- un crime que son père ne punit jamais, et que son frère Absalom ne pardonna jamais."
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "name": "Tamar (fille de David)",
+      "intro": "La fille de David, agressée par son propre demi-frère Amnon -- un crime qui la dévasta, resta impuni par son père, et mit en mouvement la rébellion éventuelle de son frère Absalom."
     }
   ]
 }

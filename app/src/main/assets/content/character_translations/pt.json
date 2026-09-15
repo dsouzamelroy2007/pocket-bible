@@ -931,6 +931,46 @@
       "character_id": "ahithophel",
       "name": "Aitofel",
       "intro": "O conselheiro de confiança de Davi, cujo conselho se dizia ser como consultar a própria palavra de Deus -- até que desertou para a rebelião de Absalão e, quando seu conselho foi rejeitado, tirou a própria vida."
+    },
+    {
+      "character_id": "hushai",
+      "name": "Husai",
+      "intro": "O amigo leal de Davi, colocado na corte de Absalão para minar o conselho de Aitofel -- e cujo sucesso nisso pode ter salvado o trono de Davi."
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "name": "Doegue, o edomita",
+      "intro": "O principal pastor de Saul, que relatou que o sacerdote Aimeleque havia ajudado Davi -- e que então, quando os próprios guardas de Saul se recusaram, executou pessoalmente o massacre de oitenta e cinco sacerdotes e suas famílias."
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "name": "Aimeleque, o sacerdote",
+      "intro": "O sacerdote de Nobe que deu a Davi pão e a espada de Golias, sem saber que estava ajudando um fugitivo do rei -- e que pagou por isso com sua vida e a de sua cidade."
+    },
+    {
+      "character_id": "abiathar",
+      "name": "Abiatar",
+      "intro": "O filho de Aimeleque, único sobrevivente do massacre de Doegue em Nobe, que fugiu para Davi e serviu como seu sacerdote por anos -- até apoiar o sucessor errado e ser removido do sacerdócio."
+    },
+    {
+      "character_id": "zadok",
+      "name": "Zadoque",
+      "intro": "Um sacerdote que permaneceu leal a Davi durante a rebelião de Absalão e apoiou a sucessão de Salomão -- e cujos descendentes se tornaram a linhagem sacerdotal que perdurou por séculos."
+    },
+    {
+      "character_id": "rizpah",
+      "name": "Rizpa",
+      "intro": "A concubina de Saul, cujo ato de devoção -- guardar por meses os corpos expostos de seus filhos mortos contra aves e animais -- moveu o rei Davi a finalmente lhes dar um enterro adequado."
+    },
+    {
+      "character_id": "amnon",
+      "name": "Amnom",
+      "intro": "O filho primogênito de Davi, cuja obsessão pela meia-irmã Tamar o levou a agredi-la -- um crime que seu pai nunca puniu, e que seu irmão Absalão nunca perdoou."
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "name": "Tamar (filha de Davi)",
+      "intro": "A filha de Davi, agredida por seu próprio meio-irmão Amnom -- um crime que a devastou, ficou impune por seu pai, e desencadeou a eventual rebelião de seu irmão Absalão."
     }
   ]
 }
