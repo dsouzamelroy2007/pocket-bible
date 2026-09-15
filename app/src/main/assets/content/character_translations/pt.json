@@ -1291,6 +1291,46 @@
       "character_id": "sosthenes",
       "name": "Sóstenes",
       "intro": "Um líder de sinagoga espancado por uma multidão furiosa diante de um oficial romano indiferente -- e, muito provavelmente, o mesmo Sóstenes a quem Paulo chama depois de \"irmão\" em sua carta aos Coríntios."
+    },
+    {
+      "character_id": "crispus",
+      "name": "Crispo",
+      "intro": "O chefe da sinagoga de Corinto que creu no Senhor com toda a sua casa, e a quem Paulo pessoalmente batizou."
+    },
+    {
+      "character_id": "demas",
+      "name": "Demas",
+      "intro": "Um companheiro de Paulo durante sua prisão, listado ao lado de colaboradores fiéis -- até que a última carta de Paulo registra, com visível tristeza, que ele o havia abandonado, \"tendo amado o mundo presente\"."
+    },
+    {
+      "character_id": "manaen",
+      "name": "Manaém",
+      "intro": "Um profeta e mestre na igreja de Antioquia, lembrado com um detalhe pessoal incomum: fora \"criado junto\" com Herodes, o tetrarca."
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "name": "Lúcio de Cirene",
+      "intro": "Um dos profetas e mestres da igreja em Antioquia, presente quando o Espírito Santo separou Paulo e Barnabé para sua obra missionária."
+    },
+    {
+      "character_id": "simeon-called-niger",
+      "name": "Simeão, chamado Níger",
+      "intro": "Um dos profetas e mestres de Antioquia, distinguido nas Escrituras apenas pelo apelido ligado ao seu nome -- \"Níger\", provavelmente descrevendo sua tez."
+    },
+    {
+      "character_id": "archippus",
+      "name": "Arquipo",
+      "intro": "Um ministro da igreja primitiva, abordado diretamente por Paulo com um desafio incomumente incisivo: \"cuida de cumprir\" o ministério que recebeu."
+    },
+    {
+      "character_id": "nympha",
+      "name": "Ninfa",
+      "intro": "Uma crente que hospedava uma igreja em sua própria casa, mencionada por Paulo em suas saudações aos colossenses."
+    },
+    {
+      "character_id": "stephanas",
+      "name": "Estéfanas",
+      "intro": "Um membro da igreja de Corinto, entre os primeiros convertidos da região, cuja casa Paulo pessoalmente batizou e cuja visita lhe trouxe verdadeiro alívio."
     }
   ]
 }

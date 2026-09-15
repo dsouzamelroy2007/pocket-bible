@@ -1291,6 +1291,46 @@
       "character_id": "sosthenes",
       "name": "Sosthenes",
       "intro": "Ein Synagogenvorsteher, der von einer wütenden Menge vor einem gleichgültigen römischen Beamten geschlagen wurde -- und höchstwahrscheinlich derselbe Sosthenes, den Paulus später in seinem Brief an die Korinther „Bruder\" nennt."
+    },
+    {
+      "character_id": "crispus",
+      "name": "Krispus",
+      "intro": "Der Synagogenvorsteher von Korinth, der zusammen mit seinem Haus an den Herrn glaubte und den Paulus persönlich taufte."
+    },
+    {
+      "character_id": "demas",
+      "name": "Demas",
+      "intro": "Ein Gefährte des Paulus während seiner Gefangenschaft, zusammen mit treuen Mitarbeitern aufgeführt -- bis Paulus' letzter Brief mit sichtbarem Kummer festhält, dass er ihn verlassen hatte, „weil er die jetzige Welt lieb gewonnen hat\"."
+    },
+    {
+      "character_id": "manaen",
+      "name": "Manaen",
+      "intro": "Ein Prophet und Lehrer in der Kirche von Antiochien, in Erinnerung mit einem ungewöhnlichen persönlichen Detail: er war „mit Herodes dem Vierfürsten aufgezogen\" worden."
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "name": "Lucius von Kyrene",
+      "intro": "Einer der Propheten und Lehrer in der Kirche von Antiochien, anwesend, als der Heilige Geist Paulus und Barnabas für ihre Missionsarbeit absonderte."
+    },
+    {
+      "character_id": "simeon-called-niger",
+      "name": "Simeon, genannt Niger",
+      "intro": "Einer der Propheten und Lehrer in Antiochien, in der Schrift nur durch den seinem Namen angehängten Beinamen unterschieden -- „Niger\", der wahrscheinlich seinen Teint beschreibt."
+    },
+    {
+      "character_id": "archippus",
+      "name": "Archippus",
+      "intro": "Ein Diener in der frühen Kirche, von Paulus direkt mit einer ungewöhnlich pointierten Herausforderung angesprochen: „siehe zu, dass du ihn erfüllst\" den Dienst, den er empfangen hat."
+    },
+    {
+      "character_id": "nympha",
+      "name": "Nympha",
+      "intro": "Eine Gläubige, die in ihrem eigenen Haus eine Gemeinde beherbergte, von Paulus in seinen Grüßen an Kolossä namentlich genannt."
+    },
+    {
+      "character_id": "stephanas",
+      "name": "Stephanas",
+      "intro": "Ein Mitglied der Kirche von Korinth, unter den ersten Bekehrten der Region, dessen Haus Paulus persönlich taufte und dessen Besuch ihm echte Erquickung brachte."
     }
   ]
 }

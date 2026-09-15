@@ -4756,6 +4756,86 @@
       "character_id": "sosthenes",
       "position": 1,
       "caption": "Nominato con Paolo come co-mittente della lettera: \"il fratello Sostene\""
+    },
+    {
+      "character_id": "crispus",
+      "position": 0,
+      "caption": "Crede nel Signore con tutta la sua casa"
+    },
+    {
+      "character_id": "crispus",
+      "position": 1,
+      "caption": "Paolo: \"Ho battezzato... Crispo\""
+    },
+    {
+      "character_id": "demas",
+      "position": 0,
+      "caption": "Nominato tra i collaboratori di Paolo, senza commento"
+    },
+    {
+      "character_id": "demas",
+      "position": 1,
+      "caption": "Elencato di nuovo come collaboratore"
+    },
+    {
+      "character_id": "demas",
+      "position": 2,
+      "caption": "\"Dema mi ha abbandonato, avendo amato il presente secolo\""
+    },
+    {
+      "character_id": "manaen",
+      "position": 0,
+      "caption": "Nominato tra i profeti e i dottori di Antiochia, \"allevato insieme a Erode il tetrarca\""
+    },
+    {
+      "character_id": "manaen",
+      "position": 1,
+      "caption": "Presente quando lo Spirito Santo mette da parte Paolo e Barnaba"
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "position": 0,
+      "caption": "Nominato tra i profeti e i dottori di Antiochia"
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "position": 1,
+      "caption": "Presente mentre lo Spirito Santo chiama Paolo e Barnaba"
+    },
+    {
+      "character_id": "simeon-called-niger",
+      "position": 0,
+      "caption": "Nominato tra i profeti e i dottori di Antiochia, \"detto Niger\""
+    },
+    {
+      "character_id": "archippus",
+      "position": 0,
+      "caption": "\"Bada al ministero che hai ricevuto nel Signore, affinché tu lo compia\""
+    },
+    {
+      "character_id": "archippus",
+      "position": 1,
+      "caption": "Chiamato \"compagno d'armi\" di Paolo"
+    },
+    {
+      "character_id": "nympha",
+      "position": 0,
+      "caption": "\"Ninfa, e la chiesa che è in casa sua\""
+    },
+    {
+      "character_id": "stephanas",
+      "position": 0,
+      "caption": "Paolo: \"Ho battezzato anche la famiglia di Stefanas\""
+    },
+    {
+      "character_id": "stephanas",
+      "position": 1,
+      "caption": "La sua famiglia, \"le primizie dell'Acaia\""
+    },
+    {
+      "character_id": "stephanas",
+      "position": 2,
+      "caption": "La sua visita \"ha ristorato il mio spirito e il vostro\""
     }
   ]
 }

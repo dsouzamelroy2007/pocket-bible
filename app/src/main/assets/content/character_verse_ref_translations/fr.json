@@ -4756,6 +4756,86 @@
       "character_id": "sosthenes",
       "position": 1,
       "caption": "Nommé avec Paul comme co-expéditeur de la lettre : « Sosthène, le frère »"
+    },
+    {
+      "character_id": "crispus",
+      "position": 0,
+      "caption": "Croit au Seigneur avec toute sa maison"
+    },
+    {
+      "character_id": "crispus",
+      "position": 1,
+      "caption": "Paul : « J'ai baptisé... Crispus »"
+    },
+    {
+      "character_id": "demas",
+      "position": 0,
+      "caption": "Nommé parmi les collaborateurs de Paul, sans commentaire"
+    },
+    {
+      "character_id": "demas",
+      "position": 1,
+      "caption": "Cité de nouveau comme collaborateur"
+    },
+    {
+      "character_id": "demas",
+      "position": 2,
+      "caption": "« Démas m'a abandonné, ayant aimé le présent siècle »"
+    },
+    {
+      "character_id": "manaen",
+      "position": 0,
+      "caption": "Nommé parmi les prophètes et docteurs d'Antioche, « qui avait été élevé avec Hérode le tétrarque »"
+    },
+    {
+      "character_id": "manaen",
+      "position": 1,
+      "caption": "Présent quand le Saint-Esprit met à part Paul et Barnabas"
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "position": 0,
+      "caption": "Nommé parmi les prophètes et docteurs d'Antioche"
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "position": 1,
+      "caption": "Présent quand le Saint-Esprit appelle Paul et Barnabas"
+    },
+    {
+      "character_id": "simeon-called-niger",
+      "position": 0,
+      "caption": "Nommé parmi les prophètes et docteurs d'Antioche, « appelé Niger »"
+    },
+    {
+      "character_id": "archippus",
+      "position": 0,
+      "caption": "« Prends garde au ministère que tu as reçu dans le Seigneur, afin de le bien remplir »"
+    },
+    {
+      "character_id": "archippus",
+      "position": 1,
+      "caption": "Appelé le « compagnon d'armes » de Paul"
+    },
+    {
+      "character_id": "nympha",
+      "position": 0,
+      "caption": "« Nympha, et l'Église qui est dans sa maison »"
+    },
+    {
+      "character_id": "stephanas",
+      "position": 0,
+      "caption": "Paul : « J'ai aussi baptisé la famille de Stéphanas »"
+    },
+    {
+      "character_id": "stephanas",
+      "position": 1,
+      "caption": "Sa famille, « les prémices de l'Achaïe »"
+    },
+    {
+      "character_id": "stephanas",
+      "position": 2,
+      "caption": "Sa visite « a tranquillisé mon esprit et le vôtre »"
     }
   ]
 }

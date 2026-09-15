@@ -1291,6 +1291,46 @@
       "character_id": "sosthenes",
       "name": "Sostene",
       "intro": "Un capo della sinagoga picchiato da una folla inferocita davanti a un funzionario romano indifferente -- e, molto probabilmente, lo stesso Sostene che Paolo chiama più tardi \"fratello\" nella sua lettera ai Corinzi."
+    },
+    {
+      "character_id": "crispus",
+      "name": "Crispo",
+      "intro": "Il capo della sinagoga di Corinto che credette nel Signore insieme a tutta la sua casa, e che Paolo battezzò personalmente."
+    },
+    {
+      "character_id": "demas",
+      "name": "Dema",
+      "intro": "Un compagno di Paolo durante la sua prigionia, elencato insieme a fedeli collaboratori -- finché l'ultima lettera di Paolo non registra, con visibile dolore, che lo aveva abbandonato, \"avendo amato il presente secolo\"."
+    },
+    {
+      "character_id": "manaen",
+      "name": "Manaen",
+      "intro": "Un profeta e dottore nella chiesa di Antiochia, ricordato con un insolito dettaglio personale: era stato \"allevato con\" Erode il tetrarca."
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "name": "Lucio di Cirene",
+      "intro": "Uno dei profeti e dottori della chiesa di Antiochia, presente quando lo Spirito Santo mise da parte Paolo e Barnaba per la loro opera missionaria."
+    },
+    {
+      "character_id": "simeon-called-niger",
+      "name": "Simeone detto Niger",
+      "intro": "Uno dei profeti e dottori di Antiochia, distinto nella Scrittura solo dal soprannome attaccato al suo nome -- \"Niger\", probabilmente descrivendo la sua carnagione."
+    },
+    {
+      "character_id": "archippus",
+      "name": "Archippo",
+      "intro": "Un ministro della chiesa primitiva, interpellato direttamente da Paolo con una sfida insolitamente pungente: \"bada di compierlo\" il ministero che ha ricevuto."
+    },
+    {
+      "character_id": "nympha",
+      "name": "Ninfa",
+      "intro": "Una credente che ospitava una chiesa nella propria casa, nominata da Paolo nei suoi saluti ai Colossesi."
+    },
+    {
+      "character_id": "stephanas",
+      "name": "Stefanas",
+      "intro": "Un membro della chiesa di Corinto, tra i primi convertiti della regione, la cui casa Paolo battezzò personalmente e la cui visita gli portò un vero ristoro."
     }
   ]
 }

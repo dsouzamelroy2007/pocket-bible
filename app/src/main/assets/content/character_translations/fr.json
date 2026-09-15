@@ -1291,6 +1291,46 @@
       "character_id": "sosthenes",
       "name": "Sosthène",
       "intro": "Un chef de synagogue battu par une foule en colère devant un officiel romain indifférent -- et, très probablement, le même Sosthène que Paul appelle plus tard « frère » dans sa lettre aux Corinthiens."
+    },
+    {
+      "character_id": "crispus",
+      "name": "Crispus",
+      "intro": "Le chef de la synagogue de Corinthe qui crut au Seigneur avec toute sa maison, et que Paul baptisa lui-même."
+    },
+    {
+      "character_id": "demas",
+      "name": "Démas",
+      "intro": "Un compagnon de Paul pendant son emprisonnement, cité aux côtés de fidèles collaborateurs -- jusqu'à ce que la dernière lettre de Paul enregistre, avec une douleur visible, qu'il l'avait abandonné, « ayant aimé le présent siècle »."
+    },
+    {
+      "character_id": "manaen",
+      "name": "Manaën",
+      "intro": "Un prophète et docteur de l'Église d'Antioche, dont on se souvient avec un détail personnel inhabituel : il avait été « élevé avec » Hérode le tétrarque."
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "name": "Lucius de Cyrène",
+      "intro": "L'un des prophètes et docteurs de l'Église d'Antioche, présent quand le Saint-Esprit mit à part Paul et Barnabas pour leur œuvre missionnaire."
+    },
+    {
+      "character_id": "simeon-called-niger",
+      "name": "Siméon appelé Niger",
+      "intro": "L'un des prophètes et docteurs d'Antioche, distingué dans l'Écriture uniquement par le surnom attaché à son nom -- « Niger », décrivant probablement son teint."
+    },
+    {
+      "character_id": "archippus",
+      "name": "Archippe",
+      "intro": "Un ministre de l'Église primitive, interpellé directement par Paul avec un défi inhabituellement pointu : « prends garde de le bien remplir » le ministère qu'il a reçu."
+    },
+    {
+      "character_id": "nympha",
+      "name": "Nympha",
+      "intro": "Une croyante qui accueillait une Église dans sa propre maison, nommée par Paul dans ses salutations aux Colossiens."
+    },
+    {
+      "character_id": "stephanas",
+      "name": "Stéphanas",
+      "intro": "Un membre de l'Église de Corinthe, parmi les premiers convertis de la région, dont Paul baptisa personnellement la maison et dont la visite lui apporta un réel réconfort."
     }
   ]
 }

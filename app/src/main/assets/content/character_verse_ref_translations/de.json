@@ -4756,6 +4756,86 @@
       "character_id": "sosthenes",
       "position": 1,
       "caption": "Zusammen mit Paulus als Mitabsender des Briefes genannt: „Sosthenes, der Bruder\""
+    },
+    {
+      "character_id": "crispus",
+      "position": 0,
+      "caption": "Glaubt mit seinem ganzen Haus an den Herrn"
+    },
+    {
+      "character_id": "crispus",
+      "position": 1,
+      "caption": "Paulus: „Ich habe ... Krispus getauft\""
+    },
+    {
+      "character_id": "demas",
+      "position": 0,
+      "caption": "Unter Paulus' Mitarbeitern genannt, ohne Kommentar"
+    },
+    {
+      "character_id": "demas",
+      "position": 1,
+      "caption": "Erneut als Mitarbeiter aufgeführt"
+    },
+    {
+      "character_id": "demas",
+      "position": 2,
+      "caption": "„Demas hat mich verlassen und die jetzige Welt lieb gewonnen\""
+    },
+    {
+      "character_id": "manaen",
+      "position": 0,
+      "caption": "Unter den Propheten und Lehrern in Antiochien genannt, „der Milchbruder des Vierfürsten Herodes\""
+    },
+    {
+      "character_id": "manaen",
+      "position": 1,
+      "caption": "Anwesend, als der Heilige Geist Paulus und Barnabas absondert"
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "position": 0,
+      "caption": "Unter den Propheten und Lehrern in Antiochien genannt"
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "position": 1,
+      "caption": "Anwesend, als der Heilige Geist Paulus und Barnabas beruft"
+    },
+    {
+      "character_id": "simeon-called-niger",
+      "position": 0,
+      "caption": "Unter den Propheten und Lehrern in Antiochien genannt, „genannt Niger\""
+    },
+    {
+      "character_id": "archippus",
+      "position": 0,
+      "caption": "„Siehe auf den Dienst, den du empfangen hast im Herrn, dass du ihn erfüllst\""
+    },
+    {
+      "character_id": "archippus",
+      "position": 1,
+      "caption": "Paulus' „Mitstreiter\" genannt"
+    },
+    {
+      "character_id": "nympha",
+      "position": 0,
+      "caption": "„Nympha und die Gemeinde in ihrem Hause\""
+    },
+    {
+      "character_id": "stephanas",
+      "position": 0,
+      "caption": "Paulus: „Ich habe auch das Haus des Stephanas getauft\""
+    },
+    {
+      "character_id": "stephanas",
+      "position": 1,
+      "caption": "Sein Haus, „die Erstlinge Achajas\""
+    },
+    {
+      "character_id": "stephanas",
+      "position": 2,
+      "caption": "Sein Besuch „hat meinen und euren Geist erquickt\""
     }
   ]
 }

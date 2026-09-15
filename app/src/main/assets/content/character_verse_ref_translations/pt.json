@@ -4756,6 +4756,86 @@
       "character_id": "sosthenes",
       "position": 1,
       "caption": "Mencionado com Paulo como coautor da carta: \"o irmão Sóstenes\""
+    },
+    {
+      "character_id": "crispus",
+      "position": 0,
+      "caption": "Crê no Senhor com toda a sua casa"
+    },
+    {
+      "character_id": "crispus",
+      "position": 1,
+      "caption": "Paulo: \"batizei... a Crispo\""
+    },
+    {
+      "character_id": "demas",
+      "position": 0,
+      "caption": "Mencionado entre os colaboradores de Paulo, sem comentário"
+    },
+    {
+      "character_id": "demas",
+      "position": 1,
+      "caption": "Listado novamente como colaborador"
+    },
+    {
+      "character_id": "demas",
+      "position": 2,
+      "caption": "\"Demas me abandonou, tendo amado o mundo presente\""
+    },
+    {
+      "character_id": "manaen",
+      "position": 0,
+      "caption": "Mencionado entre os profetas e mestres de Antioquia, \"que fora criado com Herodes o tetrarca\""
+    },
+    {
+      "character_id": "manaen",
+      "position": 1,
+      "caption": "Presente quando o Espírito Santo separa Paulo e Barnabé"
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "position": 0,
+      "caption": "Mencionado entre os profetas e mestres de Antioquia"
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "position": 1,
+      "caption": "Presente enquanto o Espírito Santo chama Paulo e Barnabé"
+    },
+    {
+      "character_id": "simeon-called-niger",
+      "position": 0,
+      "caption": "Mencionado entre os profetas e mestres de Antioquia, \"chamado Níger\""
+    },
+    {
+      "character_id": "archippus",
+      "position": 0,
+      "caption": "\"Atenta para o ministério que recebeste no Senhor, para que o cumpras\""
+    },
+    {
+      "character_id": "archippus",
+      "position": 1,
+      "caption": "Chamado \"companheiro de milícia\" de Paulo"
+    },
+    {
+      "character_id": "nympha",
+      "position": 0,
+      "caption": "\"Ninfa, e a igreja que está em sua casa\""
+    },
+    {
+      "character_id": "stephanas",
+      "position": 0,
+      "caption": "Paulo: \"também batizei a casa de Estéfanas\""
+    },
+    {
+      "character_id": "stephanas",
+      "position": 1,
+      "caption": "Sua casa, \"as primícias da Acaia\""
+    },
+    {
+      "character_id": "stephanas",
+      "position": 2,
+      "caption": "Sua visita \"recreou o meu espírito e o vosso\""
     }
   ]
 }
