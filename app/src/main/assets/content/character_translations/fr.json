@@ -1011,6 +1011,46 @@
       "character_id": "uzziah",
       "name": "Ozias",
       "intro": "Un roi dont on se souvient pour cinquante-deux années de véritable succès -- jusqu'à ce que l'orgueil le conduise à brûler lui-même de l'encens dans le Temple, un acte sacerdotal réservé aux seuls prêtres, et il fut frappé de lèpre pour cela."
+    },
+    {
+      "character_id": "jehu",
+      "name": "Jéhu",
+      "intro": "Un commandant oint pour anéantir la maison d'Achab et le culte de Baal d'Jézabel dans une purge rapide et violente -- zélé pour l'ÉTERNEL, mais ne se détournant jamais complètement des péchés qui avaient défini le royaume avant lui."
+    },
+    {
+      "character_id": "naaman",
+      "name": "Naaman",
+      "intro": "Un commandant de l'armée syrienne atteint de lèpre, dont la fierté faillit l'empêcher d'une guérison simple -- jusqu'à ce que ses propres serviteurs le persuadent de simplement obéir aux instructions d'Élisée."
+    },
+    {
+      "character_id": "gehazi",
+      "name": "Guéhazi",
+      "intro": "Le serviteur d'Élisée, qui poursuivit secrètement Naaman pour obtenir un paiement que son maître avait refusé -- et fut frappé de la lèpre même dont Naaman venait d'être guéri."
+    },
+    {
+      "character_id": "micaiah",
+      "name": "Michée",
+      "intro": "Un prophète qui dit au roi Achab exactement ce qu'il ne voulait pas entendre -- défaite et mort -- alors que quatre cents autres prophètes lui disaient ce qu'il voulait entendre, et qui fut jeté en prison pour cela."
+    },
+    {
+      "character_id": "obadiah-steward",
+      "name": "Abdias (l'intendant d'Achab)",
+      "intro": "Un officiel craignant Dieu à la cour d'Achab qui cacha secrètement cent prophètes dans des grottes, à grand risque personnel, pour les sauver de la purge de Jézabel."
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "name": "La reine de Saba",
+      "intro": "Une reine étrangère qui parcourut une grande distance pour mettre à l'épreuve la fameuse sagesse de Salomon avec des questions difficiles -- et repartit ayant vu que même les récits qu'elle avait entendus ne lui rendaient pas justice."
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "name": "La veuve de Sarepta",
+      "intro": "Une veuve réduite à sa dernière poignée de farine, qui nourrit néanmoins Élie sur sa parole qu'elle ne s'épuiserait pas -- et dont il ressuscita plus tard le fils."
+    },
+    {
+      "character_id": "shunammite-woman",
+      "name": "La Sunamite",
+      "intro": "Une femme aisée qui fit construire pour Élisée une chambre où loger chaque fois qu'il passait -- et dont il ressuscita plus tard le fils, longtemps espéré, après sa mort soudaine."
     }
   ]
 }

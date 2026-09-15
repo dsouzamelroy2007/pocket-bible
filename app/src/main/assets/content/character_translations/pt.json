@@ -1011,6 +1011,46 @@
       "character_id": "uzziah",
       "name": "Uzias",
       "intro": "Um rei lembrado por cinquenta e dois anos de verdadeiro sucesso -- até que o orgulho o levou a queimar incenso no Templo ele mesmo, um ato sacerdotal reservado apenas aos sacerdotes, e foi atingido pela lepra por isso."
+    },
+    {
+      "character_id": "jehu",
+      "name": "Jeú",
+      "intro": "Um comandante ungido para eliminar a casa de Acabe e a adoração a Baal de Jezabel numa purga rápida e violenta -- zeloso pelo SENHOR, mas nunca se afastando completamente dos pecados que haviam definido o reino antes dele."
+    },
+    {
+      "character_id": "naaman",
+      "name": "Naamã",
+      "intro": "Um comandante do exército sírio com lepra, cujo orgulho quase o impediu de uma cura simples -- até que seus próprios servos o convenceram a simplesmente obedecer às instruções de Eliseu."
+    },
+    {
+      "character_id": "gehazi",
+      "name": "Geazi",
+      "intro": "O servo de Eliseu, que perseguiu secretamente Naamã para recolher um pagamento que seu mestre havia recusado -- e foi atingido pela mesma lepra da qual Naamã acabara de ser curado."
+    },
+    {
+      "character_id": "micaiah",
+      "name": "Micaías",
+      "intro": "Um profeta que disse ao rei Acabe exatamente o que ele não queria ouvir -- derrota e morte -- enquanto quatrocentos outros profetas lhe diziam o que ele queria, e que foi lançado na prisão por isso."
+    },
+    {
+      "character_id": "obadiah-steward",
+      "name": "Obadias (o mordomo de Acabe)",
+      "intro": "Um oficial temente a Deus na corte de Acabe que escondeu secretamente cem profetas em cavernas, com grande risco pessoal, para salvá-los da purga de Jezabel."
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "name": "A rainha de Sabá",
+      "intro": "Uma rainha estrangeira que viajou uma longa distância para testar a famosa sabedoria de Salomão com perguntas difíceis -- e partiu tendo visto que mesmo os relatos que ouvira não lhe faziam justiça."
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "name": "A viúva de Sarepta",
+      "intro": "Uma viúva reduzida ao último punhado de farinha, que ainda assim alimentou Elias com base em sua palavra de que não acabaria -- e cujo filho ele mais tarde ressuscitou dos mortos."
+    },
+    {
+      "character_id": "shunammite-woman",
+      "name": "A sunamita",
+      "intro": "Uma mulher abastada que construiu para Eliseu um quarto para ficar sempre que passasse -- e cujo filho, longamente pedido em oração, ele mais tarde ressuscitou após sua morte súbita."
     }
   ]
 }

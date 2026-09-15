@@ -3781,6 +3781,166 @@
       "character_id": "uzziah",
       "position": 3,
       "caption": "तात्काळ कुष्ठरोगाने ग्रासला, आपल्या उर्वरित आयुष्यभर"
+    },
+    {
+      "character_id": "jehu",
+      "position": 0,
+      "caption": "राजा म्हणून अभिषिक्त, अहाबचे घराणे नष्ट करण्याचा आदेश दिला गेला"
+    },
+    {
+      "character_id": "jehu",
+      "position": 1,
+      "caption": "त्याच्या आदेशाने ईझबेलला तिच्या खिडकीतून फेकले"
+    },
+    {
+      "character_id": "jehu",
+      "position": 2,
+      "caption": "\"ये, परमेश्वरासाठीचा माझा आवेश पाहा\""
+    },
+    {
+      "character_id": "jehu",
+      "position": 3,
+      "caption": "तरीही यराबामाच्या पापांपासून वळला नाही"
+    },
+    {
+      "character_id": "naaman",
+      "position": 0,
+      "caption": "एक महान माणूस, पण कुष्ठरोगी"
+    },
+    {
+      "character_id": "naaman",
+      "position": 1,
+      "caption": "अलीशाच्या सूचना खूप सोप्या वाटल्या म्हणून संतापलेला"
+    },
+    {
+      "character_id": "naaman",
+      "position": 2,
+      "caption": "यार्देनमध्ये सात वेळा स्नान करतो, आणि बरा होतो"
+    },
+    {
+      "character_id": "naaman",
+      "position": 3,
+      "caption": "\"आता मला कळले की इस्राएलशिवाय सर्व पृथ्वीवर कोणीही देव नाही\""
+    },
+    {
+      "character_id": "gehazi",
+      "position": 0,
+      "caption": "भेटवस्तूसाठी नामानच्या मागे धावण्याचा निर्णय घेतो"
+    },
+    {
+      "character_id": "gehazi",
+      "position": 1,
+      "caption": "तो का आला याबद्दल खोटे बोलतो"
+    },
+    {
+      "character_id": "gehazi",
+      "position": 2,
+      "caption": "तो कुठे होता याबद्दल पुन्हा अलीशाशी खोटे बोलतो"
+    },
+    {
+      "character_id": "gehazi",
+      "position": 3,
+      "caption": "नामानचा कुष्ठरोग त्याला आणि त्याच्या वंशजांना कायमचा चिकटतो"
+    },
+    {
+      "character_id": "micaiah",
+      "position": 0,
+      "caption": "अहाब: \"मी त्याचा द्वेष करतो, कारण तो माझ्याबद्दल कधीच चांगले भविष्य सांगत नाही\""
+    },
+    {
+      "character_id": "micaiah",
+      "position": 1,
+      "caption": "\"परमेश्वराच्या जीविताची शपथ, परमेश्वर मला जे सांगेल तेच मी बोलेन\""
+    },
+    {
+      "character_id": "micaiah",
+      "position": 2,
+      "caption": "इस्राएल विखुरलेला, त्याचा राजा मृत असल्याचे भाकीत करतो"
+    },
+    {
+      "character_id": "micaiah",
+      "position": 3,
+      "caption": "आपल्या प्रामाणिकपणासाठी अहाबच्या आदेशाने तुरुंगात"
+    },
+    {
+      "character_id": "obadiah-steward",
+      "position": 0,
+      "caption": "अहाबच्या राजवाड्याचा कारभारी, जो \"परमेश्वराचे फार भय बाळगत असे\""
+    },
+    {
+      "character_id": "obadiah-steward",
+      "position": 1,
+      "caption": "शंभर संदेष्ट्यांना गुहांमध्ये लपवतो, त्यांना अन्न पुरवतो"
+    },
+    {
+      "character_id": "obadiah-steward",
+      "position": 2,
+      "caption": "एलीयाचा संदेश आपला जीव घेईल अशी भीती"
+    },
+    {
+      "character_id": "obadiah-steward",
+      "position": 3,
+      "caption": "तरीही अहाबला एलीयाचा संदेश पोहोचवतो"
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "position": 0,
+      "caption": "शलमोनाची कठीण प्रश्नांनी परीक्षा घेण्यासाठी येते"
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "position": 1,
+      "caption": "शलमोन सर्व काही समजावतो; त्याच्यासाठी काहीही खूप कठीण नाही"
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "position": 2,
+      "caption": "\"मला अर्धेही सांगितले गेले नव्हते\""
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "position": 3,
+      "caption": "येशू तिचा उल्लेख बुद्धीच्या शोधाचे उदाहरण म्हणून करतो"
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "position": 0,
+      "caption": "\"माझ्याजवळ काहीही भाजलेले नाही, फक्त मूठभर पीठ\""
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "position": 1,
+      "caption": "प्रथम एलीयाला जेवायला घालते; पीठ आणि तेल संपत नाही"
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "position": 2,
+      "caption": "तिचा मुलगा मरतो; ती आपल्या दुःखात एलीयाला सामोरे जाते"
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "position": 3,
+      "caption": "तिच्या मुलाला जीवनात परत आणले जाते"
+    },
+    {
+      "character_id": "shunammite-woman",
+      "position": 0,
+      "caption": "अलीशा जेव्हा जेव्हा जातो तेव्हा त्याच्यासाठी एक खोली सज्ज करते"
+    },
+    {
+      "character_id": "shunammite-woman",
+      "position": 1,
+      "caption": "तिला मुलाचे अभिवचन दिले जाते, जरी तिला ते अशक्य वाटले"
+    },
+    {
+      "character_id": "shunammite-woman",
+      "position": 2,
+      "caption": "तिचा मुलगा अचानक मरतो; ती त्याला अलीशाच्या बिछान्यावर ठेवते"
+    },
+    {
+      "character_id": "shunammite-woman",
+      "position": 3,
+      "caption": "तो मुलगा सात वेळा शिंकतो आणि डोळे उघडतो"
     }
   ]
 }

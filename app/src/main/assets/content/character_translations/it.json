@@ -1011,6 +1011,46 @@
       "character_id": "uzziah",
       "name": "Uzzia",
       "intro": "Un re ricordato per cinquantadue anni di vero successo -- finché l'orgoglio non lo portò a bruciare incenso nel Tempio da solo, un atto sacerdotale riservato ai soli sacerdoti, e fu colpito dalla lebbra per questo."
+    },
+    {
+      "character_id": "jehu",
+      "name": "Ieu",
+      "intro": "Un comandante unto per eliminare la casa di Acab e il culto di Baal di Izebel in una purga rapida e violenta -- zelante per il SIGNORE, ma senza mai allontanarsi del tutto dai peccati che avevano definito il regno prima di lui."
+    },
+    {
+      "character_id": "naaman",
+      "name": "Naaman",
+      "intro": "Un comandante dell'esercito siriano affetto da lebbra, il cui orgoglio quasi lo tenne lontano da una semplice guarigione -- finché i suoi stessi servi non lo persuasero semplicemente a obbedire alle istruzioni di Eliseo."
+    },
+    {
+      "character_id": "gehazi",
+      "name": "Ghehazi",
+      "intro": "Il servo di Eliseo, che inseguì segretamente Naaman per riscuotere un pagamento che il suo padrone aveva rifiutato -- e fu colpito proprio dalla lebbra da cui Naaman era appena stato guarito."
+    },
+    {
+      "character_id": "micaiah",
+      "name": "Michea",
+      "intro": "Un profeta che disse al re Acab esattamente ciò che non voleva sentire -- sconfitta e morte -- mentre quattrocento altri profeti gli dicevano ciò che voleva sentire, e che fu gettato in prigione per questo."
+    },
+    {
+      "character_id": "obadiah-steward",
+      "name": "Abdia (il maggiordomo di Acab)",
+      "intro": "Un funzionario timorato di Dio alla corte di Acab che nascose segretamente cento profeti nelle caverne, a grande rischio personale, per salvarli dalla purga di Izebel."
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "name": "La regina di Saba",
+      "intro": "Una regina straniera che percorse una grande distanza per mettere alla prova la famosa saggezza di Salomone con domande difficili -- e ripartì avendo visto che anche i resoconti che aveva sentito non le rendevano giustizia."
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "name": "La vedova di Sarepta",
+      "intro": "Una vedova ridotta all'ultimo pugno di farina, che nutrì comunque Elia sulla sua parola che non sarebbe finita -- e il cui figlio egli in seguito risuscitò dalla morte."
+    },
+    {
+      "character_id": "shunammite-woman",
+      "name": "La sunammita",
+      "intro": "Una donna benestante che costruì per Eliseo una stanza in cui alloggiare ogni volta che passava -- e il cui figlio, a lungo pregato, egli in seguito risuscitò dopo la sua morte improvvisa."
     }
   ]
 }

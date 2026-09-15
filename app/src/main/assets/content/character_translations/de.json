@@ -1011,6 +1011,46 @@
       "character_id": "uzziah",
       "name": "Usija",
       "intro": "Ein König, der für zweiundfünfzig Jahre echten Erfolg in Erinnerung bleibt -- bis Stolz ihn dazu brachte, selbst Weihrauch im Tempel zu verbrennen, eine priesterliche Handlung, die allein den Priestern vorbehalten war, und er dafür mit Aussatz geschlagen wurde."
+    },
+    {
+      "character_id": "jehu",
+      "name": "Jehu",
+      "intro": "Ein Heerführer, gesalbt, um das Haus Ahabs und Isebels Baalsverehrung in einer raschen, gewaltsamen Säuberung auszurotten -- eifrig für den HERRN, doch niemals völlig abkehrend von den Sünden, die das Königreich vor ihm geprägt hatten."
+    },
+    {
+      "character_id": "naaman",
+      "name": "Naaman",
+      "intro": "Ein syrischer Heerführer mit Aussatz, dessen Stolz ihn beinahe von einer einfachen Heilung abhielt -- bis seine eigenen Diener ihn dazu überredeten, einfach Elisas Anweisungen zu befolgen."
+    },
+    {
+      "character_id": "gehazi",
+      "name": "Gehasi",
+      "intro": "Elisas Diener, der Naaman heimlich verfolgte, um eine Zahlung einzutreiben, die sein Herr abgelehnt hatte -- und der mit demselben Aussatz geschlagen wurde, von dem Naaman gerade geheilt worden war."
+    },
+    {
+      "character_id": "micaiah",
+      "name": "Micha",
+      "intro": "Ein Prophet, der König Ahab genau das sagte, was er nicht hören wollte -- Niederlage und Tod -- während vierhundert andere Propheten ihm sagten, was er hören wollte, und der dafür ins Gefängnis geworfen wurde."
+    },
+    {
+      "character_id": "obadiah-steward",
+      "name": "Obadja (Ahabs Hausverwalter)",
+      "intro": "Ein gottesfürchtiger Beamter in Ahabs Hof, der heimlich hundert Propheten unter großem persönlichen Risiko in Höhlen versteckte, um sie vor Isebels Säuberung zu retten."
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "name": "Die Königin von Saba",
+      "intro": "Eine ausländische Königin, die eine große Strecke reiste, um Salomos berühmte Weisheit mit schwierigen Fragen auf die Probe zu stellen -- und die abreiste, nachdem sie gesehen hatte, dass selbst die Berichte, die sie gehört hatte, ihr nicht gerecht wurden."
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "name": "Die Witwe von Sarepta",
+      "intro": "Eine Witwe, die nur noch eine letzte Handvoll Mehl hatte, die Elia dennoch auf sein Wort hin speiste, dass es nicht ausgehen würde -- und deren Sohn er später von den Toten auferweckte."
+    },
+    {
+      "character_id": "shunammite-woman",
+      "name": "Die Schunamiterin",
+      "intro": "Eine wohlhabende Frau, die Elisa ein Zimmer baute, in dem er bleiben konnte, wann immer er vorbeikam -- und deren lang erbetenen Sohn er später von den Toten auferweckte, nachdem er plötzlich gestorben war."
     }
   ]
 }
