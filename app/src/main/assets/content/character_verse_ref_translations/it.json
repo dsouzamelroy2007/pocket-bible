@@ -3306,6 +3306,156 @@
       "character_id": "elkanah",
       "position": 2,
       "caption": "Sostiene il voto di Anna di dedicare il loro figlio al SIGNORE"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 0,
+      "caption": "L'altra moglie di Elkana, che aveva figli"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 1,
+      "caption": "Provoca Anna duramente, per farla irritare"
+    },
+    {
+      "character_id": "abigail",
+      "position": 0,
+      "caption": "Descritta come intelligente e bella, sposata con un uomo duro"
+    },
+    {
+      "character_id": "abigail",
+      "position": 1,
+      "caption": "Cade ai piedi di Davide, si assume la colpa"
+    },
+    {
+      "character_id": "abigail",
+      "position": 2,
+      "caption": "Davide: \"Benedetto sia il tuo senno\""
+    },
+    {
+      "character_id": "abigail",
+      "position": 3,
+      "caption": "Diventa moglie di Davide"
+    },
+    {
+      "character_id": "michal",
+      "position": 0,
+      "caption": "Ama Davide; gli è data in moglie"
+    },
+    {
+      "character_id": "michal",
+      "position": 1,
+      "caption": "Aiuta Davide a fuggire attraverso una finestra"
+    },
+    {
+      "character_id": "michal",
+      "position": 2,
+      "caption": "Lo disprezza nel suo cuore per aver danzato davanti al SIGNORE"
+    },
+    {
+      "character_id": "michal",
+      "position": 3,
+      "caption": "Non ha figli fino al giorno della sua morte"
+    },
+    {
+      "character_id": "joab",
+      "position": 0,
+      "caption": "Uccide Abner per vendicare la morte di suo fratello"
+    },
+    {
+      "character_id": "joab",
+      "position": 1,
+      "caption": "Esegue l'ordine di Davide contro Uria"
+    },
+    {
+      "character_id": "joab",
+      "position": 2,
+      "caption": "Organizza il ritorno di Assalonne a Gerusalemme"
+    },
+    {
+      "character_id": "joab",
+      "position": 3,
+      "caption": "Uccide Assalonne contro l'ordine diretto di Davide"
+    },
+    {
+      "character_id": "abner",
+      "position": 0,
+      "caption": "Comandante dell'esercito di Saul"
+    },
+    {
+      "character_id": "abner",
+      "position": 1,
+      "caption": "Fa di Is-Boset, figlio di Saul, re su Israele"
+    },
+    {
+      "character_id": "abner",
+      "position": 2,
+      "caption": "Si volge a fare pace con Davide"
+    },
+    {
+      "character_id": "abner",
+      "position": 3,
+      "caption": "Assassinato da Ioab per vendetta"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 0,
+      "caption": "Rifiuta di tornare a casa mentre l'esercito è sul campo"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 1,
+      "caption": "La lettera di Davide ordina di collocarlo dove morirà"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 2,
+      "caption": "Ucciso in battaglia come predisposto"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 3,
+      "caption": "Menzionato tra i prodi di Davide"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 0,
+      "caption": "Storpio in entrambi i piedi da bambino, fuggendo alla notizia della morte di Saul"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 1,
+      "caption": "Davide chiede se rimane qualcuno della casa di Saul a cui mostrare bontà"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 2,
+      "caption": "Davide gli restituisce la terra di suo nonno, lo invita alla tavola del re"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 3,
+      "caption": "Mangia sempre alla tavola del re, sebbene zoppo in entrambi i piedi"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 0,
+      "caption": "Si unisce alla cospirazione di Assalonne contro Davide"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 1,
+      "caption": "Il suo consiglio considerato come la parola di Dio"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 2,
+      "caption": "Il suo buon consiglio respinto a favore di quello di Cusai"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 3,
+      "caption": "Si toglie la vita quando il suo consiglio viene disprezzato"
     }
   ]
 }

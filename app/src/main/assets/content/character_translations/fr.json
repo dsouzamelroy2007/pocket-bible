@@ -891,6 +891,46 @@
       "character_id": "elkanah",
       "name": "Elqana",
       "intro": "Le père de Samuel, un homme pieux avec deux épouses, dont le culte annuel à Silo et la tendresse envers Anne affligée préparèrent la naissance de Samuel."
+    },
+    {
+      "character_id": "peninnah",
+      "name": "Peninna",
+      "intro": "L'autre épouse d'Elqana, qui avait des enfants tandis qu'Anne n'en avait pas, et qui provoquait Anne année après année à ce sujet."
+    },
+    {
+      "character_id": "abigail",
+      "name": "Abigaïl",
+      "intro": "Une femme de bon sens mariée au sot et dur Nabal, dont l'intervention rapide préserva David d'un crime de sang -- et qui devint la femme de David après la mort de Nabal."
+    },
+    {
+      "character_id": "michal",
+      "name": "Mikal",
+      "intro": "La fille de Saül et première femme de David, qui sauva la vie de David en l'aidant à échapper à son père -- et qui le méprisa plus tard pour avoir dansé devant l'arche."
+    },
+    {
+      "character_id": "joab",
+      "name": "Joab",
+      "intro": "Le neveu de David et le commandant de son armée -- farouchement loyal, redoutablement efficace, et prêt à tuer de manières qui hanteraient le règne de David longtemps après chaque bataille."
+    },
+    {
+      "character_id": "abner",
+      "name": "Abner",
+      "intro": "Le cousin de Saül et commandant de son armée, qui maintint en vie la dynastie de Saül après sa mort -- jusqu'à ce que sa propre brouille conduise à son assassinat par Joab."
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "name": "Urie le Hittite",
+      "intro": "L'un des vaillants hommes de David, dont David prit la femme, Bath-Shéba -- et dont la loyauté obstinée envers ses compagnons soldats, refusant le confort du foyer pendant qu'ils campaient au combat, scella son propre arrêt de mort."
+    },
+    {
+      "character_id": "mephibosheth",
+      "name": "Mephibosheth",
+      "intro": "Le fils infirme de Jonathan, dernier héritier restant de la maison de Saül, que David rechercha pour lui témoigner de la bonté « à cause de Jonathan » plutôt que de l'éliminer comme rival."
+    },
+    {
+      "character_id": "ahithophel",
+      "name": "Ahithophel",
+      "intro": "Le conseiller de confiance de David, dont l'avis était dit être comme consulter la parole même de Dieu -- jusqu'à ce qu'il fasse défection vers la rébellion d'Absalom et, quand son conseil fut rejeté, mette fin à ses jours."
     }
   ]
 }

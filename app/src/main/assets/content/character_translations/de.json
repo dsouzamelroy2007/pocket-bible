@@ -891,6 +891,46 @@
       "character_id": "elkanah",
       "name": "Elkana",
       "intro": "Samuels Vater, ein frommer Mann mit zwei Frauen, dessen jährliche Anbetung in Silo und Zärtlichkeit gegenüber der trauernden Hanna die Bühne für Samuels Geburt bereitete."
+    },
+    {
+      "character_id": "peninnah",
+      "name": "Peninna",
+      "intro": "Elkanas andere Frau, die Kinder hatte, während Hanna keine hatte, und die Hanna Jahr für Jahr deswegen reizte."
+    },
+    {
+      "character_id": "abigail",
+      "name": "Abigail",
+      "intro": "Eine kluge Frau, verheiratet mit dem törichten, harten Nabal, deren schnelles Eingreifen David vor Blutschuld bewahrte -- und die nach Nabals Tod Davids Frau wurde."
+    },
+    {
+      "character_id": "michal",
+      "name": "Michal",
+      "intro": "Sauls Tochter und Davids erste Frau, die Davids Leben rettete, indem sie ihm half, vor ihrem Vater zu fliehen -- und die ihn später dafür verachtete, dass er vor der Lade tanzte."
+    },
+    {
+      "character_id": "joab",
+      "name": "Joab",
+      "intro": "Davids Neffe und der Befehlshaber seines Heeres -- unerschütterlich loyal, gnadenlos wirkungsvoll und bereit, auf Weisen zu töten, die Davids Herrschaft noch lange nach jeder Schlacht heimsuchten."
+    },
+    {
+      "character_id": "abner",
+      "name": "Abner",
+      "intro": "Sauls Vetter und Heerführer, der Sauls Dynastie nach dessen Tod am Leben erhielt -- bis sein eigener Zerwürfnis zu seiner Ermordung durch Joab führte."
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "name": "Uria, der Hetiter",
+      "intro": "Einer von Davids tapferen Männern, dessen Frau Batseba David nahm -- und dessen hartnäckige Loyalität zu seinen Mitsoldaten, indem er die Behaglichkeit des Zuhauses ablehnte, während sie im Feld lagerten, sein eigenes Todesurteil besiegelte."
+    },
+    {
+      "character_id": "mephibosheth",
+      "name": "Mefiboschet",
+      "intro": "Jonathans verkrüppelter Sohn, der letzte verbliebene Erbe von Sauls Haus, den David aufsuchte, um ihm „um Jonathans willen\" Güte zu erweisen, statt ihn als Rivalen zu beseitigen."
+    },
+    {
+      "character_id": "ahithophel",
+      "name": "Ahitophel",
+      "intro": "Davids vertrauter Ratgeber, dessen Rat es hieß, sei wie das Befragen des Wortes Gottes selbst -- bis er zu Absaloms Rebellion überlief und, als sein Rat verworfen wurde, sich das Leben nahm."
     }
   ]
 }

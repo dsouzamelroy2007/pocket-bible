@@ -891,6 +891,46 @@
       "character_id": "elkanah",
       "name": "Elkana",
       "intro": "Il padre di Samuele, un uomo devoto con due mogli, il cui culto annuale a Silo e la tenerezza verso Anna afflitta prepararono la scena per la nascita di Samuele."
+    },
+    {
+      "character_id": "peninnah",
+      "name": "Peninna",
+      "intro": "L'altra moglie di Elkana, che aveva figli mentre Anna non ne aveva, e che provocava Anna anno dopo anno per questo."
+    },
+    {
+      "character_id": "abigail",
+      "name": "Abigail",
+      "intro": "Una donna di buon senso sposata con il folle e duro Nabal, il cui pronto intervento tenne Davide lontano dal sangue -- e che divenne moglie di Davide dopo la morte di Nabal."
+    },
+    {
+      "character_id": "michal",
+      "name": "Mical",
+      "intro": "La figlia di Saul e prima moglie di Davide, che salvò la vita di Davide aiutandolo a fuggire da suo padre -- e che in seguito lo disprezzò per aver danzato davanti all'Arca."
+    },
+    {
+      "character_id": "joab",
+      "name": "Ioab",
+      "intro": "Il nipote di Davide e comandante del suo esercito -- ferocemente leale, spietatamente efficace, e disposto a uccidere in modi che perseguitarono il regno di Davide a lungo dopo la fine di ogni battaglia."
+    },
+    {
+      "character_id": "abner",
+      "name": "Abner",
+      "intro": "Il cugino di Saul e comandante dell'esercito, che mantenne in vita la dinastia di Saul dopo la sua morte -- finché il suo stesso dissidio non portò al suo assassinio da parte di Ioab."
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "name": "Uria l'Ittita",
+      "intro": "Uno dei prodi di Davide, la cui moglie Betsabea Davide prese -- e la cui ostinata lealtà verso i compagni soldati, rifiutando il conforto della casa mentre erano accampati sul campo, sigillò la propria condanna a morte."
+    },
+    {
+      "character_id": "mephibosheth",
+      "name": "Mefibosheth",
+      "intro": "Il figlio storpio di Gionatan, ultimo erede rimasto della casa di Saul, che Davide cercò per mostrargli bontà \"per amore di Gionatan\" invece di eliminarlo come rivale."
+    },
+    {
+      "character_id": "ahithophel",
+      "name": "Achitofel",
+      "intro": "Il consigliere fidato di Davide, il cui parere si diceva fosse come consultare la parola stessa di Dio -- finché non disertò per la ribellione di Assalonne e, quando il suo consiglio fu respinto, si tolse la vita."
     }
   ]
 }

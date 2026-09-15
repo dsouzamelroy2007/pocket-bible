@@ -891,6 +891,46 @@
       "character_id": "elkanah",
       "name": "Elcana",
       "intro": "O pai de Samuel, um homem devoto com duas esposas, cujo culto anual em Siló e ternura para com a aflita Ana prepararam o cenário para o nascimento de Samuel."
+    },
+    {
+      "character_id": "peninnah",
+      "name": "Penina",
+      "intro": "A outra esposa de Elcana, que tinha filhos enquanto Ana não tinha nenhum, e que provocava Ana ano após ano por causa disso."
+    },
+    {
+      "character_id": "abigail",
+      "name": "Abigail",
+      "intro": "Uma mulher de bom senso casada com o tolo e áspero Nabal, cuja intervenção rápida livrou Davi de culpa de sangue -- e que se tornou esposa de Davi após a morte de Nabal."
+    },
+    {
+      "character_id": "michal",
+      "name": "Mical",
+      "intro": "A filha de Saul e primeira esposa de Davi, que salvou a vida de Davi ajudando-o a escapar de seu pai -- e que mais tarde o desprezou por dançar diante da Arca."
+    },
+    {
+      "character_id": "joab",
+      "name": "Joabe",
+      "intro": "O sobrinho de Davi e comandante de seu exército -- ferozmente leal, implacavelmente eficaz, e disposto a matar de formas que assombraram o reinado de Davi muito depois de cada batalha terminar."
+    },
+    {
+      "character_id": "abner",
+      "name": "Abner",
+      "intro": "O primo de Saul e comandante do exército, que manteve viva a dinastia de Saul após sua morte -- até que seu próprio desentendimento levou ao seu assassinato por Joabe."
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "name": "Urias, o heteu",
+      "intro": "Um dos guerreiros valentes de Davi, cuja esposa, Bate-Seba, Davi tomou -- e cuja lealdade teimosa aos companheiros soldados, recusando o conforto do lar enquanto acampavam no campo, selou sua própria sentença de morte."
+    },
+    {
+      "character_id": "mephibosheth",
+      "name": "Mefibosete",
+      "intro": "O filho aleijado de Jônatas, último herdeiro remanescente da casa de Saul, que Davi procurou para mostrar bondade \"por amor de Jônatas\", em vez de eliminá-lo como rival."
+    },
+    {
+      "character_id": "ahithophel",
+      "name": "Aitofel",
+      "intro": "O conselheiro de confiança de Davi, cujo conselho se dizia ser como consultar a própria palavra de Deus -- até que desertou para a rebelião de Absalão e, quando seu conselho foi rejeitado, tirou a própria vida."
     }
   ]
 }

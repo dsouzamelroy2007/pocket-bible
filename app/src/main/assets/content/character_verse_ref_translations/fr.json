@@ -3306,6 +3306,156 @@
       "character_id": "elkanah",
       "position": 2,
       "caption": "Soutient le vœu d'Anne de consacrer leur fils à l'ÉTERNEL"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 0,
+      "caption": "L'autre épouse d'Elqana, qui avait des enfants"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 1,
+      "caption": "Provoque Anne violemment, pour l'irriter"
+    },
+    {
+      "character_id": "abigail",
+      "position": 0,
+      "caption": "Décrite comme intelligente et belle, mariée à un homme dur"
+    },
+    {
+      "character_id": "abigail",
+      "position": 1,
+      "caption": "Tombe aux pieds de David, prend la faute sur elle"
+    },
+    {
+      "character_id": "abigail",
+      "position": 2,
+      "caption": "David : « Béni soit ton bon sens »"
+    },
+    {
+      "character_id": "abigail",
+      "position": 3,
+      "caption": "Devient la femme de David"
+    },
+    {
+      "character_id": "michal",
+      "position": 0,
+      "caption": "Aime David ; lui est donnée en mariage"
+    },
+    {
+      "character_id": "michal",
+      "position": 1,
+      "caption": "Aide David à s'échapper par une fenêtre"
+    },
+    {
+      "character_id": "michal",
+      "position": 2,
+      "caption": "Le méprise dans son cœur pour avoir dansé devant l'ÉTERNEL"
+    },
+    {
+      "character_id": "michal",
+      "position": 3,
+      "caption": "N'a pas d'enfant jusqu'au jour de sa mort"
+    },
+    {
+      "character_id": "joab",
+      "position": 0,
+      "caption": "Tue Abner pour venger la mort de son frère"
+    },
+    {
+      "character_id": "joab",
+      "position": 1,
+      "caption": "Exécute l'ordre de David contre Urie"
+    },
+    {
+      "character_id": "joab",
+      "position": 2,
+      "caption": "Organise le retour d'Absalom à Jérusalem"
+    },
+    {
+      "character_id": "joab",
+      "position": 3,
+      "caption": "Tue Absalom contre l'ordre direct de David"
+    },
+    {
+      "character_id": "abner",
+      "position": 0,
+      "caption": "Commandant de l'armée de Saül"
+    },
+    {
+      "character_id": "abner",
+      "position": 1,
+      "caption": "Fait d'Ish-Bosheth, fils de Saül, roi sur Israël"
+    },
+    {
+      "character_id": "abner",
+      "position": 2,
+      "caption": "Se tourne pour faire la paix avec David"
+    },
+    {
+      "character_id": "abner",
+      "position": 3,
+      "caption": "Assassiné par Joab par vengeance"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 0,
+      "caption": "Refuse de rentrer chez lui pendant que l'armée est en campagne"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 1,
+      "caption": "La lettre de David ordonne de le placer là où il mourra"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 2,
+      "caption": "Tué au combat comme prévu"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 3,
+      "caption": "Nommé parmi les vaillants hommes de David"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 0,
+      "caption": "Infirme des deux pieds enfant, en fuyant à la nouvelle de la mort de Saül"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 1,
+      "caption": "David demande s'il reste quelqu'un de la maison de Saül à qui montrer de la bonté"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 2,
+      "caption": "David lui rend la terre de son grand-père, l'invite à la table du roi"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 3,
+      "caption": "Mange toujours à la table du roi, bien qu'infirme des deux pieds"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 0,
+      "caption": "Se joint à la conspiration d'Absalom contre David"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 1,
+      "caption": "Son conseil considéré comme la parole de Dieu"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 2,
+      "caption": "Son bon conseil rejeté en faveur de celui de Hushaï"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 3,
+      "caption": "Met fin à ses jours quand son conseil est méprisé"
     }
   ]
 }

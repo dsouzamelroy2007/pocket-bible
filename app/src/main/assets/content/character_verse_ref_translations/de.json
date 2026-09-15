@@ -3306,6 +3306,156 @@
       "character_id": "elkanah",
       "position": 2,
       "caption": "Unterstützt Hannas Gelübde, ihren Sohn dem HERRN zu weihen"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 0,
+      "caption": "Elkanas andere Frau, die Kinder hatte"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 1,
+      "caption": "Reizt Hanna heftig, um sie zu kränken"
+    },
+    {
+      "character_id": "abigail",
+      "position": 0,
+      "caption": "Beschrieben als klug und schön, mit einem harten Mann verheiratet"
+    },
+    {
+      "character_id": "abigail",
+      "position": 1,
+      "caption": "Fällt David zu Füßen, nimmt die Schuld auf sich"
+    },
+    {
+      "character_id": "abigail",
+      "position": 2,
+      "caption": "David: „Gesegnet sei deine Klugheit\""
+    },
+    {
+      "character_id": "abigail",
+      "position": 3,
+      "caption": "Wird Davids Frau"
+    },
+    {
+      "character_id": "michal",
+      "position": 0,
+      "caption": "Liebt David; wird ihm zur Ehe gegeben"
+    },
+    {
+      "character_id": "michal",
+      "position": 1,
+      "caption": "Hilft David, durch ein Fenster zu entkommen"
+    },
+    {
+      "character_id": "michal",
+      "position": 2,
+      "caption": "Verachtet David in ihrem Herzen, weil er vor dem HERRN tanzte"
+    },
+    {
+      "character_id": "michal",
+      "position": 3,
+      "caption": "Hat keine Kinder bis zu ihrem Todestag"
+    },
+    {
+      "character_id": "joab",
+      "position": 0,
+      "caption": "Tötet Abner aus Rache für den Tod seines Bruders"
+    },
+    {
+      "character_id": "joab",
+      "position": 1,
+      "caption": "Führt Davids Befehl gegen Uria aus"
+    },
+    {
+      "character_id": "joab",
+      "position": 2,
+      "caption": "Sorgt für Absaloms Rückkehr nach Jerusalem"
+    },
+    {
+      "character_id": "joab",
+      "position": 3,
+      "caption": "Tötet Absalom entgegen Davids ausdrücklichem Befehl"
+    },
+    {
+      "character_id": "abner",
+      "position": 0,
+      "caption": "Befehlshaber von Sauls Heer"
+    },
+    {
+      "character_id": "abner",
+      "position": 1,
+      "caption": "Macht Sauls Sohn Isch-Boschet zum König über Israel"
+    },
+    {
+      "character_id": "abner",
+      "position": 2,
+      "caption": "Wendet sich, um Frieden mit David zu schließen"
+    },
+    {
+      "character_id": "abner",
+      "position": 3,
+      "caption": "Von Joab aus Rache ermordet"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 0,
+      "caption": "Weigert sich, nach Hause zu gehen, während das Heer im Feld ist"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 1,
+      "caption": "Davids Brief befiehlt, ihn dorthin zu stellen, wo er sterben wird"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 2,
+      "caption": "Wie geplant im Kampf getötet"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 3,
+      "caption": "Unter Davids tapferen Männern genannt"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 0,
+      "caption": "Als Kind an beiden Füßen gelähmt, auf der Flucht bei der Nachricht von Sauls Tod"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 1,
+      "caption": "David fragt, ob noch jemand von Sauls Haus übrig ist, dem er Güte erweisen kann"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 2,
+      "caption": "David gibt ihm das Land seines Großvaters zurück, lädt ihn an den Tisch des Königs ein"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 3,
+      "caption": "Isst stets am Tisch des Königs, obwohl an beiden Füßen lahm"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 0,
+      "caption": "Schließt sich Absaloms Verschwörung gegen David an"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 1,
+      "caption": "Sein Rat wird wie das Wort Gottes angesehen"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 2,
+      "caption": "Sein guter Rat zugunsten von Huschais verworfen"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 3,
+      "caption": "Nimmt sich das Leben, als sein Rat verschmäht wird"
     }
   ]
 }

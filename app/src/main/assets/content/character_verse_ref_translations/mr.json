@@ -3306,6 +3306,156 @@
       "character_id": "elkanah",
       "position": 2,
       "caption": "आपल्या मुलाला परमेश्वराला समर्पित करण्याच्या हन्नेच्या नवसाला पाठिंबा देतो"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 0,
+      "caption": "एलकानाची दुसरी पत्नी, जिला मुले होती"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 1,
+      "caption": "हन्नेला त्रस्त करण्यासाठी तिला कठोरपणे डिवचते"
+    },
+    {
+      "character_id": "abigail",
+      "position": 0,
+      "caption": "बुद्धिमान आणि सुंदर असे वर्णिलेली, एका कठोर माणसाशी विवाहित"
+    },
+    {
+      "character_id": "abigail",
+      "position": 1,
+      "caption": "दावीदाच्या पायाशी पडते, दोष स्वतःवर घेते"
+    },
+    {
+      "character_id": "abigail",
+      "position": 2,
+      "caption": "दावीद: \"धन्य आहे तुझी सुज्ञता\""
+    },
+    {
+      "character_id": "abigail",
+      "position": 3,
+      "caption": "दावीदाची पत्नी बनते"
+    },
+    {
+      "character_id": "michal",
+      "position": 0,
+      "caption": "दावीदावर प्रेम करते; त्याला लग्नात दिली गेली"
+    },
+    {
+      "character_id": "michal",
+      "position": 1,
+      "caption": "दावीदाला खिडकीतून पळून जाण्यास मदत करते"
+    },
+    {
+      "character_id": "michal",
+      "position": 2,
+      "caption": "परमेश्वरासमोर नाचल्याबद्दल मनातल्या मनात दावीदाला तुच्छ मानते"
+    },
+    {
+      "character_id": "michal",
+      "position": 3,
+      "caption": "तिच्या मृत्यूच्या दिवसापर्यंत तिला मूल होत नाही"
+    },
+    {
+      "character_id": "joab",
+      "position": 0,
+      "caption": "आपल्या भावाच्या मृत्यूचा सूड घेण्यासाठी अब्नेरला ठार करतो"
+    },
+    {
+      "character_id": "joab",
+      "position": 1,
+      "caption": "उरीयाविरुद्धचा दावीदाचा आदेश पार पाडतो"
+    },
+    {
+      "character_id": "joab",
+      "position": 2,
+      "caption": "अबशालोमच्या यरुशलेमला परतण्याची व्यवस्था करतो"
+    },
+    {
+      "character_id": "joab",
+      "position": 3,
+      "caption": "दावीदाच्या स्पष्ट आदेशाविरुद्ध अबशालोमला ठार करतो"
+    },
+    {
+      "character_id": "abner",
+      "position": 0,
+      "caption": "शौलाच्या सैन्याचा सेनापती"
+    },
+    {
+      "character_id": "abner",
+      "position": 1,
+      "caption": "शौलाचा मुलगा ईश्बोशेथ याला इस्राएलचा राजा बनवतो"
+    },
+    {
+      "character_id": "abner",
+      "position": 2,
+      "caption": "दावीदाबरोबर शांतता करण्याकडे वळतो"
+    },
+    {
+      "character_id": "abner",
+      "position": 3,
+      "caption": "सूडाच्या भावनेने यवाबाकडून हत्या"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 0,
+      "caption": "सैन्य रणांगणात असताना घरी जाण्यास नकार देतो"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 1,
+      "caption": "दावीदाचे पत्र त्याला जिथे तो मरेल तिथे ठेवण्याचा आदेश देते"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 2,
+      "caption": "ठरवल्याप्रमाणे लढाईत मारला गेला"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 3,
+      "caption": "दावीदाच्या शूरवीरांमध्ये नामोल्लेख"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 0,
+      "caption": "लहानपणी दोन्ही पायांनी अपंग, शौलाच्या मृत्यूची बातमी ऐकून पळताना"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 1,
+      "caption": "शौलाच्या घराण्यातील कोणी उरले आहे का ज्याच्यावर दया दाखवता येईल हे दावीद विचारतो"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 2,
+      "caption": "दावीद त्याच्या आजोबांची जमीन परत करतो, त्याला राजाच्या मेजावर आमंत्रित करतो"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 3,
+      "caption": "दोन्ही पायांनी पांगळा असूनही नेहमी राजाच्या मेजावर जेवतो"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 0,
+      "caption": "दावीदाविरुद्ध अबशालोमच्या कटात सामील होतो"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 1,
+      "caption": "त्याचा सल्ला देवाच्या वचनासारखा मानला जातो"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 2,
+      "caption": "त्याचा चांगला सल्ला हूशयच्या बाजूने नाकारला गेला"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 3,
+      "caption": "त्याचा सल्ला धिक्कारला गेल्यावर स्वतःचा जीव घेतो"
     }
   ]
 }

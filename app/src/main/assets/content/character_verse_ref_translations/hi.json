@@ -3306,6 +3306,156 @@
       "character_id": "elkanah",
       "position": 2,
       "caption": "अपने पुत्र को यहोवा को समर्पित करने के हन्ना के संकल्प का समर्थन करता है"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 0,
+      "caption": "एल्काना की दूसरी पत्नी, जिसके सन्तान थी"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 1,
+      "caption": "हन्ना को क्रोधित करने के लिए कठोरता से उकसाती है"
+    },
+    {
+      "character_id": "abigail",
+      "position": 0,
+      "caption": "बुद्धिमान और सुन्दर बताई गई, एक कठोर पुरुष से विवाहित"
+    },
+    {
+      "character_id": "abigail",
+      "position": 1,
+      "caption": "दाऊद के चरणों में गिरती है, दोष अपने ऊपर लेती है"
+    },
+    {
+      "character_id": "abigail",
+      "position": 2,
+      "caption": "दाऊद: \"धन्य है तेरी बुद्धिमानी\""
+    },
+    {
+      "character_id": "abigail",
+      "position": 3,
+      "caption": "दाऊद की पत्नी बनती है"
+    },
+    {
+      "character_id": "michal",
+      "position": 0,
+      "caption": "दाऊद से प्रेम करती है; उसे विवाह में दी गई"
+    },
+    {
+      "character_id": "michal",
+      "position": 1,
+      "caption": "दाऊद को खिड़की से भागने में मदद करती है"
+    },
+    {
+      "character_id": "michal",
+      "position": 2,
+      "caption": "यहोवा के सम्मुख नाचने के लिए अपने मन में दाऊद को तुच्छ जानती है"
+    },
+    {
+      "character_id": "michal",
+      "position": 3,
+      "caption": "अपनी मृत्यु के दिन तक निःसन्तान रहती है"
+    },
+    {
+      "character_id": "joab",
+      "position": 0,
+      "caption": "अपने भाई की मृत्यु का बदला लेने के लिए अब्नेर को मार डालता है"
+    },
+    {
+      "character_id": "joab",
+      "position": 1,
+      "caption": "ऊरिय्याह के विरुद्ध दाऊद के आदेश को पूरा करता है"
+    },
+    {
+      "character_id": "joab",
+      "position": 2,
+      "caption": "यरूशलेम को अबशालोम की वापसी की व्यवस्था करता है"
+    },
+    {
+      "character_id": "joab",
+      "position": 3,
+      "caption": "दाऊद के सीधे आदेश के विरुद्ध अबशालोम को मार डालता है"
+    },
+    {
+      "character_id": "abner",
+      "position": 0,
+      "caption": "शाऊल की सेना का सेनापति"
+    },
+    {
+      "character_id": "abner",
+      "position": 1,
+      "caption": "शाऊल के पुत्र ईशबोशेत को इस्राएल का राजा बनाता है"
+    },
+    {
+      "character_id": "abner",
+      "position": 2,
+      "caption": "दाऊद के साथ शान्ति बनाने की ओर मुड़ता है"
+    },
+    {
+      "character_id": "abner",
+      "position": 3,
+      "caption": "बदले में योआब द्वारा हत्या कर दी गई"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 0,
+      "caption": "सेना के मैदान में होने के दौरान घर जाने से इनकार करता है"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 1,
+      "caption": "दाऊद का पत्र उसे वहां रखने का आदेश देता है जहां वह मरेगा"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 2,
+      "caption": "जैसा व्यवस्थित किया गया था वैसे युद्ध में मारा गया"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 3,
+      "caption": "दाऊद के शूरवीरों में गिना गया"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 0,
+      "caption": "बालक के रूप में दोनों पैरों में अपंग, शाऊल की मृत्यु की खबर पर भागते हुए"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 1,
+      "caption": "दाऊद पूछता है कि क्या शाऊल के घराने में से कोई बचा है जिस पर कृपा दिखाई जा सके"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 2,
+      "caption": "दाऊद उसके दादा की भूमि लौटाता है, उसे राजा की मेज़ पर आमंत्रित करता है"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 3,
+      "caption": "दोनों पैरों में लंगड़ा होते हुए भी सदा राजा की मेज़ पर खाता है"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 0,
+      "caption": "दाऊद के विरुद्ध अबशालोम के षड्यंत्र में शामिल होता है"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 1,
+      "caption": "उसकी सलाह को परमेश्वर के वचन के समान माना गया"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 2,
+      "caption": "उसकी अच्छी सलाह हूशै के पक्ष में अस्वीकृत की गई"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 3,
+      "caption": "जब उसकी सलाह ठुकराई जाती है तो अपनी जान ले लेता है"
     }
   ]
 }
