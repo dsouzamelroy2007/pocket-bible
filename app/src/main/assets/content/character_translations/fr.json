@@ -1211,6 +1211,46 @@
       "character_id": "gamaliel",
       "name": "Gamaliel",
       "intro": "Un pharisien respecté et docteur de la Loi -- le propre maître de Paul, en fait -- dont le conseil prudent et équilibré au Sanhédrin épargna peut-être la vie des apôtres."
+    },
+    {
+      "character_id": "agabus",
+      "name": "Agabus",
+      "intro": "Un prophète de l'Église primitive qui prédit avec précision une famine à venir, et avertit plus tard Paul en termes vivants et symboliques de l'emprisonnement qui l'attendait à Jérusalem."
+    },
+    {
+      "character_id": "simon-magus",
+      "name": "Simon le magicien",
+      "intro": "Un magicien en Samarie qui émerveillait les gens par la magie, crut et fut baptisé -- puis tenta d'acheter avec de l'argent le pouvoir du Saint-Esprit, s'attirant une sévère réprimande de Pierre."
+    },
+    {
+      "character_id": "sergius-paulus",
+      "name": "Sergius Paulus",
+      "intro": "Le proconsul romain de Chypre, un homme intelligent qui recherchait Paul et Barnabas pour entendre la parole de Dieu -- et crut après avoir vu un magicien qui s'opposait à eux frappé de cécité."
+    },
+    {
+      "character_id": "rhoda",
+      "name": "Rhode",
+      "intro": "Une servante si joyeuse d'entendre la voix de Pierre à la porte -- après son évasion miraculeuse de prison -- qu'elle courut le dire aux autres sans même le laisser entrer."
+    },
+    {
+      "character_id": "eutychus",
+      "name": "Eutychus",
+      "intro": "Un jeune homme qui s'endormit pendant la longue prédication nocturne de Paul, tomba d'une fenêtre du troisième étage, et fut ramené à la vie après avoir été relevé mort."
+    },
+    {
+      "character_id": "aristarchus",
+      "name": "Aristarque",
+      "intro": "Un compagnon macédonien de Paul qui fut saisi par la foule pendant l'émeute à Éphèse, et qui resta plus tard avec Paul durant son emprisonnement et son voyage vers Rome."
+    },
+    {
+      "character_id": "epaphras",
+      "name": "Épaphras",
+      "intro": "Le fondateur de l'Église de Colosses, dont Paul se souvient comme de celui qui « combat toujours pour vous dans ses prières », luttant en leur faveur."
+    },
+    {
+      "character_id": "epaphroditus",
+      "name": "Épaphrodite",
+      "intro": "Un messager envoyé par les Philippiens pour aider Paul, qui faillit mourir de maladie dans cet effort et que Paul loua pour avoir risqué sa vie « afin de suppléer à votre absence de service »."
     }
   ]
 }

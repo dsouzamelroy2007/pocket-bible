@@ -4521,6 +4521,146 @@
       "character_id": "gamaliel",
       "position": 2,
       "caption": "पौलुस बाद में उसे \"गमलीएल के चरणों में\" शिक्षक के रूप में नाम देता है"
+    },
+    {
+      "character_id": "agabus",
+      "position": 0,
+      "caption": "एक बड़े अकाल की भविष्यवाणी करता है, जो क्लौदियुस के समय हुआ"
+    },
+    {
+      "character_id": "agabus",
+      "position": 1,
+      "caption": "एक चिन्ह के रूप में पौलुस की कमरबन्द से अपने ही हाथ और पैर बांधता है"
+    },
+    {
+      "character_id": "agabus",
+      "position": 2,
+      "caption": "\"इसी प्रकार यहूदी... इस कमरबन्द के स्वामी को बांधेंगे\""
+    },
+    {
+      "character_id": "agabus",
+      "position": 3,
+      "caption": "पौलुस, निडर: \"मैं तैयार हूं... यरूशलेम में मरने के लिए भी\""
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 0,
+      "caption": "लम्बे समय से अपने जादू से सामरिया को चकित करता है"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 1,
+      "caption": "विश्वास करता है, बपतिस्मा लेता है, फिलिप्पुस का पीछा करता है"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 2,
+      "caption": "पवित्र आत्मा देने की शक्ति खरीदने के लिए धन की पेशकश करता है"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 3,
+      "caption": "पतरस: \"तेरी चांदी तेरे साथ नाश हो\""
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 4,
+      "caption": "उस बताए गए न्याय से भयभीत होकर पतरस से उसके लिए प्रार्थना करने को कहता है"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 0,
+      "caption": "एक बुद्धिमान व्यक्ति, परमेश्वर का वचन सुनना चाहता है"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 1,
+      "caption": "जादूगर एलीमास उसे विश्वास से फेरने की कोशिश करता है"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 2,
+      "caption": "उसकी आंखों के सामने एलीमास को अन्धा कर दिया जाता है"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 3,
+      "caption": "प्रभु के विषय में शिक्षा से चकित होकर विश्वास करता है"
+    },
+    {
+      "character_id": "rhoda",
+      "position": 0,
+      "caption": "पतरस की आवाज़ पहचानती है, परन्तु अपने आनन्द में द्वार खोलना भूल जाती है"
+    },
+    {
+      "character_id": "rhoda",
+      "position": 1,
+      "caption": "दूसरे उस पर विश्वास नहीं करते: \"तू पागल है\""
+    },
+    {
+      "character_id": "rhoda",
+      "position": 2,
+      "caption": "पतरस खटखटाता रहता है जब तक कि वे अन्ततः स्वयं नहीं देख लेते"
+    },
+    {
+      "character_id": "eutychus",
+      "position": 0,
+      "caption": "सो जाता है, तीसरी मंज़िल से गिरता है, मृत उठाया जाता है"
+    },
+    {
+      "character_id": "eutychus",
+      "position": 1,
+      "caption": "पौलुस उसे गले लगाता है: \"उसका प्राण उसमें है\""
+    },
+    {
+      "character_id": "eutychus",
+      "position": 2,
+      "caption": "जीवित लाया गया, सब को बड़ी शान्ति मिली"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 0,
+      "caption": "इफिसुस के दंगे के दौरान भीड़ द्वारा पकड़ा गया"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 1,
+      "caption": "रोम की ओर यात्रा में पौलुस के साथ जाता है"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 2,
+      "caption": "पौलुस का \"सहबन्दी\" कहा गया"
+    },
+    {
+      "character_id": "epaphras",
+      "position": 0,
+      "caption": "कुलुस्सियों की ओर से मसीह का एक विश्वासयोग्य सेवक"
+    },
+    {
+      "character_id": "epaphras",
+      "position": 1,
+      "caption": "\"अपनी प्रार्थनाओं में तुम्हारे लिए सदैव प्रयत्न करता है... उसे तुम्हारे लिए बड़ी सरगर्मी है\""
+    },
+    {
+      "character_id": "epaphras",
+      "position": 2,
+      "caption": "पौलुस के \"सहबन्दी\" के रूप में नामित"
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 0,
+      "caption": "पौलुस का \"भाई, सहकर्मी, और सहसिपाही\""
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 1,
+      "caption": "बीमार था, मृत्यु के निकट, परन्तु परमेश्वर ने उस पर दया की"
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 2,
+      "caption": "वह पूरा करने के लिए अपना जीवन जोखिम में डाला जो फिलिप्पी स्वयं नहीं कर सकते थे"
     }
   ]
 }

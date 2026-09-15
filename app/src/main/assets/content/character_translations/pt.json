@@ -1211,6 +1211,46 @@
       "character_id": "gamaliel",
       "name": "Gamaliel",
       "intro": "Um fariseu respeitado e mestre da Lei -- na verdade, o próprio mestre de Paulo -- cujo conselho cauteloso e ponderado ao Sinédrio talvez tenha poupado a vida dos apóstolos."
+    },
+    {
+      "character_id": "agabus",
+      "name": "Ágabo",
+      "intro": "Um profeta da igreja primitiva que predisse com precisão uma fome vindoura, e mais tarde advertiu Paulo em termos vívidos e simbólicos sobre a prisão que o esperava em Jerusalém."
+    },
+    {
+      "character_id": "simon-magus",
+      "name": "Simão, o mago",
+      "intro": "Um mago em Samaria que impressionava as pessoas com magia, creu e foi batizado -- e depois tentou comprar com dinheiro o poder do Espírito Santo, recebendo uma severa repreensão de Pedro."
+    },
+    {
+      "character_id": "sergius-paulus",
+      "name": "Sérgio Paulo",
+      "intro": "O procônsul romano de Chipre, um homem inteligente que procurou Paulo e Barnabé para ouvir a palavra de Deus -- e creu depois de ver um mago que se opunha a eles ser cegado."
+    },
+    {
+      "character_id": "rhoda",
+      "name": "Rode",
+      "intro": "Uma serva tão alegre ao ouvir a voz de Pedro à porta -- após sua fuga milagrosa da prisão -- que correu para contar aos outros sem sequer deixá-lo entrar."
+    },
+    {
+      "character_id": "eutychus",
+      "name": "Êutico",
+      "intro": "Um jovem que adormeceu durante a longa pregação noturna de Paulo, caiu de uma janela do terceiro andar, e foi trazido de volta à vida depois de ser recolhido morto."
+    },
+    {
+      "character_id": "aristarchus",
+      "name": "Aristarco",
+      "intro": "Um companheiro macedônio de Paulo que foi agarrado pela multidão durante o tumulto em Éfeso, e que mais tarde permaneceu com Paulo durante seu aprisionamento e viagem a Roma."
+    },
+    {
+      "character_id": "epaphras",
+      "name": "Epafras",
+      "intro": "O fundador da igreja em Colossos, lembrado por Paulo como aquele que \"sempre luta por vós em suas orações\", lutando em favor deles."
+    },
+    {
+      "character_id": "epaphroditus",
+      "name": "Epafrodito",
+      "intro": "Um mensageiro enviado pelos filipenses para ajudar Paulo, que quase morreu de doença nesse esforço e a quem Paulo elogiou por arriscar a vida \"para suprir o que faltava em vosso serviço\"."
     }
   ]
 }

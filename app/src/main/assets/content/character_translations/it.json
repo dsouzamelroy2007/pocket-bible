@@ -1211,6 +1211,46 @@
       "character_id": "gamaliel",
       "name": "Gamaliele",
       "intro": "Un fariseo rispettato e dottore della Legge -- in effetti il maestro stesso di Paolo -- il cui consiglio cauto ed equilibrato al Sinedrio potrebbe aver risparmiato la vita degli apostoli."
+    },
+    {
+      "character_id": "agabus",
+      "name": "Agabo",
+      "intro": "Un profeta della chiesa primitiva che predisse con precisione una carestia imminente, e più tardi avvertì Paolo con termini vividi e simbolici della prigionia che lo attendeva a Gerusalemme."
+    },
+    {
+      "character_id": "simon-magus",
+      "name": "Simon Mago",
+      "intro": "Un mago in Samaria che stupiva la gente con la magia, credette e fu battezzato -- e poi cercò di comprare con il denaro il potere dello Spirito Santo, guadagnandosi un severo rimprovero da Pietro."
+    },
+    {
+      "character_id": "sergius-paulus",
+      "name": "Sergio Paolo",
+      "intro": "Il proconsole romano di Cipro, un uomo intelligente che cercò Paolo e Barnaba per udire la parola di Dio -- e credette dopo aver visto un mago che si opponeva a loro colpito da cecità."
+    },
+    {
+      "character_id": "rhoda",
+      "name": "Rode",
+      "intro": "Una serva così felice di sentire la voce di Pietro alla porta -- dopo la sua miracolosa fuga di prigione -- che corse a dirlo agli altri senza nemmeno farlo entrare."
+    },
+    {
+      "character_id": "eutychus",
+      "name": "Eutico",
+      "intro": "Un giovane che si addormentò durante la lunga predica notturna di Paolo, cadde da una finestra al terzo piano, e fu riportato in vita dopo essere stato raccolto morto."
+    },
+    {
+      "character_id": "aristarchus",
+      "name": "Aristarco",
+      "intro": "Un compagno macedone di Paolo che fu catturato dalla folla durante la rivolta a Efeso, e che rimase in seguito con Paolo durante la sua prigionia e il viaggio verso Roma."
+    },
+    {
+      "character_id": "epaphras",
+      "name": "Epafra",
+      "intro": "Il fondatore della chiesa di Colosse, ricordato da Paolo come colui che \"lotta sempre per voi nelle sue preghiere\", combattendo per loro."
+    },
+    {
+      "character_id": "epaphroditus",
+      "name": "Epafrodito",
+      "intro": "Un messaggero inviato dai Filippesi per aiutare Paolo, che rischiò di morire di malattia in quello sforzo e che Paolo lodò per aver rischiato la vita \"per supplire alla vostra mancanza di servizio\"."
     }
   ]
 }

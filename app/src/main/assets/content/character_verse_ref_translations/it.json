@@ -4521,6 +4521,146 @@
       "character_id": "gamaliel",
       "position": 2,
       "caption": "Paolo lo nomina più tardi come il maestro \"ai piedi di Gamaliele\""
+    },
+    {
+      "character_id": "agabus",
+      "position": 0,
+      "caption": "Predice una grande carestia, che avvenne sotto Claudio"
+    },
+    {
+      "character_id": "agabus",
+      "position": 1,
+      "caption": "Si lega mani e piedi con la cintura di Paolo come segno"
+    },
+    {
+      "character_id": "agabus",
+      "position": 2,
+      "caption": "\"Così i Giudei... legheranno l'uomo a cui appartiene questa cintura\""
+    },
+    {
+      "character_id": "agabus",
+      "position": 3,
+      "caption": "Paolo, imperturbabile: \"Sono pronto... a morire a Gerusalemme\""
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 0,
+      "caption": "Stupisce la Samaria con la sua magia da lungo tempo"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 1,
+      "caption": "Crede, viene battezzato, segue Filippo"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 2,
+      "caption": "Offre denaro per comprare il potere di dare lo Spirito Santo"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 3,
+      "caption": "Pietro: \"Il tuo denaro vada in perdizione con te\""
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 4,
+      "caption": "Chiede a Pietro di pregare per lui, spaventato dal giudizio menzionato"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 0,
+      "caption": "Un uomo intelligente, vuole udire la parola di Dio"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 1,
+      "caption": "Il mago Elimas cerca di distoglierlo dalla fede"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 2,
+      "caption": "Elimas colpito da cecità davanti ai suoi occhi"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 3,
+      "caption": "Crede, stupito dall'insegnamento riguardo al Signore"
+    },
+    {
+      "character_id": "rhoda",
+      "position": 0,
+      "caption": "Riconosce la voce di Pietro, ma dimentica di aprire il cancello dalla gioia"
+    },
+    {
+      "character_id": "rhoda",
+      "position": 1,
+      "caption": "Gli altri non le credono: \"Sei pazza\""
+    },
+    {
+      "character_id": "rhoda",
+      "position": 2,
+      "caption": "Pietro continua a bussare finché non vedono finalmente da soli"
+    },
+    {
+      "character_id": "eutychus",
+      "position": 0,
+      "caption": "Si addormenta, cade dal terzo piano, viene raccolto morto"
+    },
+    {
+      "character_id": "eutychus",
+      "position": 1,
+      "caption": "Paolo lo abbraccia: \"la sua vita è in lui\""
+    },
+    {
+      "character_id": "eutychus",
+      "position": 2,
+      "caption": "Portato dentro vivo, tutti grandemente confortati"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 0,
+      "caption": "Catturato dalla folla durante la rivolta a Efeso"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 1,
+      "caption": "Accompagna Paolo nel viaggio verso Roma"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 2,
+      "caption": "Chiamato \"compagno di prigionia\" di Paolo"
+    },
+    {
+      "character_id": "epaphras",
+      "position": 0,
+      "caption": "Un fedele ministro di Cristo per conto dei Colossesi"
+    },
+    {
+      "character_id": "epaphras",
+      "position": 1,
+      "caption": "\"Lottando sempre per voi nelle sue preghiere... egli ha un grande zelo per voi\""
+    },
+    {
+      "character_id": "epaphras",
+      "position": 2,
+      "caption": "Nominato \"compagno di prigionia\" di Paolo"
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 0,
+      "caption": "Il \"fratello, collaboratore e compagno d'armi\" di Paolo"
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 1,
+      "caption": "Era malato, vicino alla morte, ma Dio ebbe pietà di lui"
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 2,
+      "caption": "Rischiò la vita per completare ciò che i Filippesi non potevano fare da soli"
     }
   ]
 }

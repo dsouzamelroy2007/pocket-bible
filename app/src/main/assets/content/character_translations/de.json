@@ -1211,6 +1211,46 @@
       "character_id": "gamaliel",
       "name": "Gamaliel",
       "intro": "Ein angesehener Pharisäer und Gesetzeslehrer -- tatsächlich Paulus' eigener Lehrer --, dessen vorsichtiger, besonnener Rat an den Sanhedrin möglicherweise das Leben der Apostel rettete."
+    },
+    {
+      "character_id": "agabus",
+      "name": "Agabus",
+      "intro": "Ein Prophet der frühen Kirche, der eine kommende Hungersnot genau voraussagte und später Paulus in anschaulichen, symbolischen Worten vor der Gefangenschaft warnte, die in Jerusalem auf ihn wartete."
+    },
+    {
+      "character_id": "simon-magus",
+      "name": "Simon Magus",
+      "intro": "Ein Zauberer in Samarien, der die Menschen mit Magie in Erstaunen versetzte, glaubte und sich taufen ließ -- und dann versuchte, die Kraft des Heiligen Geistes mit Geld zu kaufen, was ihm einen scharfen Tadel von Petrus einbrachte."
+    },
+    {
+      "character_id": "sergius-paulus",
+      "name": "Sergius Paulus",
+      "intro": "Der römische Prokonsul von Zypern, ein kluger Mann, der Paulus und Barnabas aufsuchte, um Gottes Wort zu hören -- und glaubte, nachdem er sah, wie ein Zauberer, der ihnen widerstand, mit Blindheit geschlagen wurde."
+    },
+    {
+      "character_id": "rhoda",
+      "name": "Rhode",
+      "intro": "Ein Dienstmädchen, das sich so sehr freute, Petrus' Stimme an der Tür zu hören -- nach seiner wundersamen Flucht aus dem Gefängnis --, dass sie lief, um es den anderen zu erzählen, ohne ihn überhaupt hereinzulassen."
+    },
+    {
+      "character_id": "eutychus",
+      "name": "Eutychus",
+      "intro": "Ein junger Mann, der während Paulus' langer, spätabendlicher Predigt einschlief, aus einem Fenster im dritten Stock stürzte und wieder zum Leben erweckt wurde, nachdem er tot aufgehoben worden war."
+    },
+    {
+      "character_id": "aristarchus",
+      "name": "Aristarchus",
+      "intro": "Ein makedonischer Gefährte des Paulus, der während des Aufruhrs in Ephesus vom Mob ergriffen wurde und der später bei Paulus durch dessen Gefangenschaft und Reise nach Rom blieb."
+    },
+    {
+      "character_id": "epaphras",
+      "name": "Epaphras",
+      "intro": "Der Gründer der Kirche in Kolossä, von Paulus in Erinnerung behalten als einer, der „allezeit für euch ringt in seinen Gebeten\" und für sie kämpft."
+    },
+    {
+      "character_id": "epaphroditus",
+      "name": "Epaphroditus",
+      "intro": "Ein Bote, den die Philipper sandten, um Paulus zu helfen, der bei diesem Bemühen fast an einer Krankheit starb und den Paulus dafür lobte, sein Leben aufs Spiel zu setzen, „um euren Mangel an Dienst auszugleichen\"."
     }
   ]
 }

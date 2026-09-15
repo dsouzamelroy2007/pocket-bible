@@ -4521,6 +4521,146 @@
       "character_id": "gamaliel",
       "position": 2,
       "caption": "Paul le nomme plus tard comme le maître « aux pieds de Gamaliel »"
+    },
+    {
+      "character_id": "agabus",
+      "position": 0,
+      "caption": "Prédit une grande famine, qui survint sous Claude"
+    },
+    {
+      "character_id": "agabus",
+      "position": 1,
+      "caption": "Se lie les mains et les pieds avec la ceinture de Paul en signe"
+    },
+    {
+      "character_id": "agabus",
+      "position": 2,
+      "caption": "« Ainsi les Juifs... lieront l'homme à qui appartient cette ceinture »"
+    },
+    {
+      "character_id": "agabus",
+      "position": 3,
+      "caption": "Paul, imperturbable : « Je suis prêt... à mourir à Jérusalem »"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 0,
+      "caption": "Émerveille la Samarie par sa magie depuis longtemps"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 1,
+      "caption": "Croit, est baptisé, suit Philippe"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 2,
+      "caption": "Offre de l'argent pour acheter le pouvoir de donner le Saint-Esprit"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 3,
+      "caption": "Pierre : « Que ton argent périsse avec toi »"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 4,
+      "caption": "Demande à Pierre de prier pour lui, effrayé par le jugement énoncé"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 0,
+      "caption": "Un homme intelligent, veut entendre la parole de Dieu"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 1,
+      "caption": "Le magicien Élymas tente de le détourner de la foi"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 2,
+      "caption": "Élymas frappé de cécité sous ses yeux"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 3,
+      "caption": "Croit, étonné par l'enseignement sur le Seigneur"
+    },
+    {
+      "character_id": "rhoda",
+      "position": 0,
+      "caption": "Reconnaît la voix de Pierre, mais oublie d'ouvrir la porte dans sa joie"
+    },
+    {
+      "character_id": "rhoda",
+      "position": 1,
+      "caption": "Les autres ne la croient pas : « Tu es folle »"
+    },
+    {
+      "character_id": "rhoda",
+      "position": 2,
+      "caption": "Pierre continue de frapper jusqu'à ce qu'ils voient enfin par eux-mêmes"
+    },
+    {
+      "character_id": "eutychus",
+      "position": 0,
+      "caption": "S'endort, tombe du troisième étage, relevé mort"
+    },
+    {
+      "character_id": "eutychus",
+      "position": 1,
+      "caption": "Paul l'embrasse : « son âme est en lui »"
+    },
+    {
+      "character_id": "eutychus",
+      "position": 2,
+      "caption": "Ramené vivant, tous grandement réconfortés"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 0,
+      "caption": "Saisi par la foule pendant l'émeute à Éphèse"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 1,
+      "caption": "Accompagne Paul dans le voyage vers Rome"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 2,
+      "caption": "Appelé le « compagnon de captivité » de Paul"
+    },
+    {
+      "character_id": "epaphras",
+      "position": 0,
+      "caption": "Un fidèle ministre de Christ en faveur des Colossiens"
+    },
+    {
+      "character_id": "epaphras",
+      "position": 1,
+      "caption": "« Combattant toujours pour vous dans ses prières... il a un grand zèle pour vous »"
+    },
+    {
+      "character_id": "epaphras",
+      "position": 2,
+      "caption": "Nommé « compagnon de captivité » de Paul"
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 0,
+      "caption": "Le « frère, compagnon d'œuvre et compagnon d'armes » de Paul"
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 1,
+      "caption": "Fut malade, près de la mort, mais Dieu eut pitié de lui"
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 2,
+      "caption": "Risqua sa vie pour accomplir ce que les Philippiens ne pouvaient faire eux-mêmes"
     }
   ]
 }
