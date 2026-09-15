@@ -1331,6 +1331,46 @@
       "character_id": "stephanas",
       "name": "Stephanas",
       "intro": "Ein Mitglied der Kirche von Korinth, unter den ersten Bekehrten der Region, dessen Haus Paulus persönlich taufte und dessen Besuch ihm echte Erquickung brachte."
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "name": "Prochorus, Nikanor, Timon, Parmenas und Nikolaus",
+      "intro": "Fünf der sieben Männer, die von der frühen Kirche ausgewählt wurden, um die tägliche Verteilung von Nahrung an Witwen zu beaufsichtigen -- was die Apostel für Gebet und Predigt freistellte und seither ein Muster für geteilten Dienst setzte."
+    },
+    {
+      "character_id": "diotrephes",
+      "name": "Diotrephes",
+      "intro": "Ein Gemeindeleiter, der in Johannes' drittem Brief namentlich getadelt wird, weil er es liebt, „der Erste zu sein\", sich weigert, reisende Gläubige willkommen zu heißen, und böswillige Gerüchte über den Apostel selbst verbreitet."
+    },
+    {
+      "character_id": "demetrius-the-disciple",
+      "name": "Demetrius (3. Johannes)",
+      "intro": "Ein Gläubiger, den Johannes mit einem seltenen, uneingeschränkten Zeugnis lobt: „ihm wird von jedermann Zeugnis gegeben, auch von der Wahrheit selbst\"."
+    },
+    {
+      "character_id": "matthias",
+      "name": "Matthias",
+      "intro": "Der Jünger, der durch das Los ausgewählt wurde, um Judas Iskariot unter den Zwölfen zu ersetzen, wodurch die Zahl der Apostel nach dem Verrat und dem leeren Platz, den er hinterließ, wiederhergestellt wurde."
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "name": "Joseph, genannt Barsabbas",
+      "intro": "Der andere Kandidat, der vorgeschlagen wurde, um Judas unter den Zwölfen zu ersetzen -- qualifiziert, im Gebet bedacht, und nicht ausgewählt, als das Los stattdessen auf Matthias fiel."
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "name": "Herodes Agrippa I.",
+      "intro": "Ein Enkel Herodes des Großen, der die frühe Kirche verfolgte, den Apostel Jakobus töten ließ und von einem Engel niedergeschlagen wurde, nachdem er das Lob einer Menge angenommen hatte, als wäre er ein Gott."
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "name": "Herodes Agrippa II.",
+      "intro": "Der letzte der herodianischen Herrscher, vor dem Paulus seine Verteidigung hielt -- und der der Wahrheit nahe genug kam, um zu sagen: „Es fehlt nicht viel, so überredest du mich, ein Christ zu werden.\""
+    },
+    {
+      "character_id": "felix",
+      "name": "Felix",
+      "intro": "Der römische Statthalter, der Paulus zwei Jahre lang gefangen hielt, ohne über seinen Fall zu entscheiden, manchmal auf Bestechung hoffend, und einmal wirklich verängstigt, als Paulus vom kommenden Gericht sprach."
     }
   ]
 }

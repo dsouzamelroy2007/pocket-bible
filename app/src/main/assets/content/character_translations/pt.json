@@ -1331,6 +1331,46 @@
       "character_id": "stephanas",
       "name": "Estéfanas",
       "intro": "Um membro da igreja de Corinto, entre os primeiros convertidos da região, cuja casa Paulo pessoalmente batizou e cuja visita lhe trouxe verdadeiro alívio."
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "name": "Prócoro, Nicanor, Timom, Pármenas e Nicolau",
+      "intro": "Cinco dos sete homens escolhidos pela igreja primitiva para supervisionar a distribuição diária de alimentos às viúvas -- liberando os apóstolos para a oração e a pregação, e estabelecendo desde então um padrão de ministério compartilhado."
+    },
+    {
+      "character_id": "diotrephes",
+      "name": "Diótrefes",
+      "intro": "Um líder de igreja chamado pelo nome na terceira carta de João por amar \"ser o primeiro\", recusar-se a receber crentes viajantes, e espalhar fofocas maliciosas sobre o próprio apóstolo."
+    },
+    {
+      "character_id": "demetrius-the-disciple",
+      "name": "Demétrio (3 João)",
+      "intro": "Um crente elogiado por João com um raro endosso incondicional: \"dele todos dão testemunho, e até a própria verdade\"."
+    },
+    {
+      "character_id": "matthias",
+      "name": "Matias",
+      "intro": "O discípulo escolhido por sorteio para substituir Judas Iscariotes entre os Doze, restaurando o número dos apóstolos após a traição e o assento vazio que ela deixou."
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "name": "José, chamado Barsabás",
+      "intro": "O outro candidato proposto para substituir Judas entre os Doze -- qualificado, alvo de oração, e não escolhido quando a sorte caiu sobre Matias em vez disso."
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "name": "Herodes Agripa I",
+      "intro": "Um neto de Herodes, o Grande, que perseguiu a igreja primitiva, mandou matar o apóstolo Tiago, e foi ferido por um anjo depois de aceitar os louvores de uma multidão como se fosse um deus."
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "name": "Herodes Agripa II",
+      "intro": "O último dos governantes herodianos, diante de quem Paulo fez sua defesa -- e que chegou perto o suficiente da verdade para dizer: \"por pouco me persuades a ser cristão.\""
+    },
+    {
+      "character_id": "felix",
+      "name": "Félix",
+      "intro": "O governador romano que manteve Paulo preso por dois anos sem decidir seu caso, às vezes esperando um suborno, e uma vez genuinamente amedrontado quando Paulo falou do julgamento vindouro."
     }
   ]
 }

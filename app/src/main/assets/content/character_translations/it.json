@@ -1331,6 +1331,46 @@
       "character_id": "stephanas",
       "name": "Stefanas",
       "intro": "Un membro della chiesa di Corinto, tra i primi convertiti della regione, la cui casa Paolo battezzò personalmente e la cui visita gli portò un vero ristoro."
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "name": "Procoro, Nicanore, Timone, Parmena e Nicola",
+      "intro": "Cinque dei sette uomini scelti dalla chiesa primitiva per sovrintendere alla distribuzione quotidiana di cibo alle vedove -- liberando gli apostoli per la preghiera e la predicazione, e stabilendo da allora un modello di ministero condiviso."
+    },
+    {
+      "character_id": "diotrephes",
+      "name": "Diotrefe",
+      "intro": "Un leader di chiesa chiamato per nome nella terza lettera di Giovanni per amare \"essere il primo\", rifiutare di accogliere i credenti itineranti, e diffondere pettegolezzi maligni sullo stesso apostolo."
+    },
+    {
+      "character_id": "demetrius-the-disciple",
+      "name": "Demetrio (3 Giovanni)",
+      "intro": "Un credente lodato da Giovanni con un'approvazione rara e incondizionata: \"gli è resa testimonianza da tutti, e dalla verità stessa\"."
+    },
+    {
+      "character_id": "matthias",
+      "name": "Mattia",
+      "intro": "Il discepolo scelto a sorte per sostituire Giuda Iscariota tra i Dodici, ripristinando il numero degli apostoli dopo il tradimento e il posto vuoto che lasciò."
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "name": "Giuseppe detto Barsabba",
+      "intro": "L'altro candidato proposto per sostituire Giuda tra i Dodici -- qualificato, oggetto di preghiera, e non scelto quando la sorte cadde invece su Mattia."
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "name": "Erode Agrippa I",
+      "intro": "Un nipote di Erode il Grande che perseguitò la chiesa primitiva, fece uccidere l'apostolo Giacomo, e fu colpito da un angelo dopo aver accettato le lodi di una folla come se fosse un dio."
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "name": "Erode Agrippa II",
+      "intro": "L'ultimo dei governanti erodiani, davanti al quale Paolo fece la sua difesa -- e che si avvicinò abbastanza alla verità da dire: \"Per poco tu mi persuadi a diventare cristiano.\""
+    },
+    {
+      "character_id": "felix",
+      "name": "Felice",
+      "intro": "Il governatore romano che tenne Paolo in prigione per due anni senza decidere il suo caso, sperando talvolta in una tangente, e una volta genuinamente spaventato quando Paolo parlò del giudizio a venire."
     }
   ]
 }

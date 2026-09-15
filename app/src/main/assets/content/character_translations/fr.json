@@ -1331,6 +1331,46 @@
       "character_id": "stephanas",
       "name": "Stéphanas",
       "intro": "Un membre de l'Église de Corinthe, parmi les premiers convertis de la région, dont Paul baptisa personnellement la maison et dont la visite lui apporta un réel réconfort."
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "name": "Prochore, Nicanor, Timon, Parménas et Nicolas",
+      "intro": "Cinq des sept hommes choisis par l'Église primitive pour superviser la distribution quotidienne de nourriture aux veuves -- libérant les apôtres pour la prière et la prédication, et établissant depuis un modèle de ministère partagé."
+    },
+    {
+      "character_id": "diotrephes",
+      "name": "Diotrèphe",
+      "intro": "Un chef d'Église nommé dans la troisième lettre de Jean pour aimer « être le premier », refuser d'accueillir les croyants itinérants, et répandre des rumeurs malveillantes sur l'apôtre lui-même."
+    },
+    {
+      "character_id": "demetrius-the-disciple",
+      "name": "Démétrius (3 Jean)",
+      "intro": "Un croyant loué par Jean avec une approbation rare et sans réserve : « on lui rend témoignage par tous, et par la vérité elle-même »."
+    },
+    {
+      "character_id": "matthias",
+      "name": "Matthias",
+      "intro": "Le disciple choisi par le sort pour remplacer Judas Iscariote parmi les Douze, restaurant le nombre des apôtres après la trahison et le siège vide qu'elle laissa."
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "name": "Joseph appelé Barsabbas",
+      "intro": "L'autre candidat proposé pour remplacer Judas parmi les Douze -- qualifié, prié pour, et non choisi quand le sort tomba plutôt sur Matthias."
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "name": "Hérode Agrippa Ier",
+      "intro": "Un petit-fils d'Hérode le Grand qui persécuta l'Église primitive, fit tuer l'apôtre Jacques, et fut frappé par un ange après avoir accepté les louanges d'une foule comme s'il était un dieu."
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "name": "Hérode Agrippa II",
+      "intro": "Le dernier des dirigeants hérodiens, devant qui Paul présenta sa défense -- et qui s'approcha suffisamment de la vérité pour dire : « tu me persuaderais bientôt de devenir chrétien »."
+    },
+    {
+      "character_id": "felix",
+      "name": "Félix",
+      "intro": "Le gouverneur romain qui garda Paul emprisonné pendant deux ans sans statuer sur son cas, espérant parfois un pot-de-vin, et une fois véritablement effrayé quand Paul parla du jugement à venir."
     }
   ]
 }

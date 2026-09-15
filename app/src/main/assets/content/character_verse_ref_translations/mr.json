@@ -4836,6 +4836,126 @@
       "character_id": "stephanas",
       "position": 2,
       "caption": "त्याच्या भेटीने \"माझा आणि तुमचा आत्मा ताजातवाना केला\""
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 0,
+      "caption": "आपल्या चांगल्या प्रतिष्ठेसाठी निवडलेले, आत्म्याने आणि बुद्धीने परिपूर्ण"
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 1,
+      "caption": "स्तेफन आणि फिलिप्पासोबत नामोल्लेखित"
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 2,
+      "caption": "प्रेषित प्रार्थना करतात आणि त्यांच्यावर हात ठेवतात"
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 0,
+      "caption": "\"त्यांच्यात अग्रणी होऊ इच्छितो, आमचे ऐकत नाही\""
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 1,
+      "caption": "प्रेषिताविरुद्ध \"दुष्ट शब्दांनी\" बोलतो"
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 2,
+      "caption": "प्रवासी विश्वासणाऱ्यांचे स्वागत करण्यास नकार देतो, आणि इतरांनाही तसे करण्यापासून रोखतो"
+    },
+    {
+      "character_id": "demetrius-the-disciple",
+      "position": 0,
+      "caption": "\"देमेत्रियाची साक्ष सर्वांकडून आहे, आणि सत्याकडूनही\""
+    },
+    {
+      "character_id": "matthias",
+      "position": 0,
+      "caption": "पात्र: योहानाच्या बाप्तिस्म्यापासून स्वर्गारोहणापर्यंत त्यांच्यासोबत होता"
+    },
+    {
+      "character_id": "matthias",
+      "position": 1,
+      "caption": "चिठ्ठी टाकण्यापूर्वी प्रेषित प्रार्थना करतात"
+    },
+    {
+      "character_id": "matthias",
+      "position": 2,
+      "caption": "चिठ्ठी त्याच्यावर पडते; \"तो अकरा प्रेषितांमध्ये गणला गेला\""
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "position": 0,
+      "caption": "मत्थियासोबत उमेदवार म्हणून प्रस्तावित"
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "position": 1,
+      "caption": "चिठ्ठी त्याऐवजी मत्थियावर पडते"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 0,
+      "caption": "योहानाचा भाऊ याकोबाला तलवारीने मारवतो"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 1,
+      "caption": "लोकांना ते आवडले हे पाहून पेत्रालाही अटक करवतो"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 2,
+      "caption": "जमाव ओरडतो: \"हा देवाचा आवाज आहे, माणसाचा नाही\""
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 3,
+      "caption": "देवदूताकडून मारला गेला, किड्यांनी खाल्ला, आणि मरण पावला"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 0,
+      "caption": "फेस्तसला अभिवादन करण्यासाठी बर्णीकेसह कैसरियाला येतो"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 1,
+      "caption": "पौल: \"मी स्वतःला धन्य मानतो... तुझ्यासमोर स्वतःचा बचाव करण्यासाठी\""
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 2,
+      "caption": "\"थोडक्यात तू मला ख्रिस्ती होण्यास राजी करशील\""
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 3,
+      "caption": "पौलाला मुक्त करता आले असते, जर त्याने कैसराकडे अपील केले नसते तर, असा निष्कर्ष काढतो"
+    },
+    {
+      "character_id": "felix",
+      "position": 0,
+      "caption": "पौल नीतिमत्ता आणि न्यायाबद्दल तर्क करतो तेव्हा घाबरतो"
+    },
+    {
+      "character_id": "felix",
+      "position": 1,
+      "caption": "\"आत्तापुरता जा; मला योग्य वेळ मिळेल तेव्हा मी तुला बोलावून घेईन\""
+    },
+    {
+      "character_id": "felix",
+      "position": 2,
+      "caption": "पौल त्याला पैसे देईल अशी आशा बाळगतो"
+    },
+    {
+      "character_id": "felix",
+      "position": 3,
+      "caption": "पद सोडताना यहुद्यांना खूष करण्यासाठी पौलाला तुरुंगात सोडतो"
     }
   ]
 }

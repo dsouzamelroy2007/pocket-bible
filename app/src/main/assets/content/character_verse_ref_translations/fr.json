@@ -4836,6 +4836,126 @@
       "character_id": "stephanas",
       "position": 2,
       "caption": "Sa visite « a tranquillisé mon esprit et le vôtre »"
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 0,
+      "caption": "Choisis pour leur bonne réputation, pleins de l'Esprit et de sagesse"
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 1,
+      "caption": "Nommés aux côtés d'Étienne et de Philippe"
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 2,
+      "caption": "Les apôtres prient et leur imposent les mains"
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 0,
+      "caption": "« Qui aime à être le premier parmi eux, ne nous reçoit pas »"
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 1,
+      "caption": "Parle contre l'apôtre avec « des paroles méchantes »"
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 2,
+      "caption": "Refuse d'accueillir les croyants itinérants, et empêche les autres de le faire"
+    },
+    {
+      "character_id": "demetrius-the-disciple",
+      "position": 0,
+      "caption": "« Démétrius a le témoignage de tous, et de la vérité elle-même »"
+    },
+    {
+      "character_id": "matthias",
+      "position": 0,
+      "caption": "Qualifié : avait été avec eux depuis le baptême de Jean jusqu'à l'ascension"
+    },
+    {
+      "character_id": "matthias",
+      "position": 1,
+      "caption": "Les apôtres prient avant de tirer au sort"
+    },
+    {
+      "character_id": "matthias",
+      "position": 2,
+      "caption": "Le sort tombe sur lui ; « il fut associé aux onze apôtres »"
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "position": 0,
+      "caption": "Proposé aux côtés de Matthias comme candidat"
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "position": 1,
+      "caption": "Le sort tombe plutôt sur Matthias"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 0,
+      "caption": "Fait tuer par l'épée Jacques, frère de Jean"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 1,
+      "caption": "Procède aussi à l'arrestation de Pierre, voyant que cela plaisait au peuple"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 2,
+      "caption": "La foule crie : « C'est la voix d'un dieu, et non d'un homme »"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 3,
+      "caption": "Frappé par un ange, rongé par les vers, et meurt"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 0,
+      "caption": "Vient à Césarée avec Bérénice pour saluer Festus"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 1,
+      "caption": "Paul : « Je m'estime heureux... de me défendre aujourd'hui devant toi »"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 2,
+      "caption": "« Tu me persuaderais bientôt de devenir chrétien »"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 3,
+      "caption": "Conclut que Paul aurait pu être libéré, s'il n'avait pas fait appel à César"
+    },
+    {
+      "character_id": "felix",
+      "position": 0,
+      "caption": "Devient effrayé alors que Paul raisonne sur la justice et le jugement"
+    },
+    {
+      "character_id": "felix",
+      "position": 1,
+      "caption": "« Pour le moment, retire-toi ; quand j'aurai un moment favorable, je te rappellerai »"
+    },
+    {
+      "character_id": "felix",
+      "position": 2,
+      "caption": "Espère que Paul lui offrira de l'argent"
+    },
+    {
+      "character_id": "felix",
+      "position": 3,
+      "caption": "Laisse Paul en prison pour plaire aux Juifs en quittant sa charge"
     }
   ]
 }

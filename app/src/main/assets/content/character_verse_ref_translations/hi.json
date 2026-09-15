@@ -4836,6 +4836,126 @@
       "character_id": "stephanas",
       "position": 2,
       "caption": "उसकी यात्रा ने \"मेरी और तुम्हारी आत्मा को चैन दिया\""
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 0,
+      "caption": "अपनी अच्छी प्रतिष्ठा के लिए चुने गए, आत्मा और बुद्धि से परिपूर्ण"
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 1,
+      "caption": "स्तिफनुस और फिलिप्पुस के साथ नामित"
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 2,
+      "caption": "प्रेरित प्रार्थना करते हैं और उन पर हाथ रखते हैं"
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 0,
+      "caption": "\"उनमें प्रधान बनना चाहता है, हमारी नहीं सुनता\""
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 1,
+      "caption": "\"बुरी बातों\" से प्रेरित के विरुद्ध बोलता है"
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 2,
+      "caption": "यात्रा करने वाले विश्वासियों का स्वागत करने से इनकार करता है, और दूसरों को भी ऐसा करने से रोकता है"
+    },
+    {
+      "character_id": "demetrius-the-disciple",
+      "position": 0,
+      "caption": "\"देमेत्रियुस का सब की, वरन् सत्य की भी, यही गवाही है\""
+    },
+    {
+      "character_id": "matthias",
+      "position": 0,
+      "caption": "योग्य: यूहन्ना के बपतिस्मे से लेकर स्वर्गारोहण तक उनके साथ रहा था"
+    },
+    {
+      "character_id": "matthias",
+      "position": 1,
+      "caption": "चिट्ठी डालने से पहले प्रेरित प्रार्थना करते हैं"
+    },
+    {
+      "character_id": "matthias",
+      "position": 2,
+      "caption": "चिट्ठी उस पर पड़ती है; \"वह ग्यारह प्रेरितों के साथ गिना गया\""
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "position": 0,
+      "caption": "मत्तिय्याह के साथ उम्मीदवार के रूप में प्रस्तावित"
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "position": 1,
+      "caption": "चिट्ठी इसके बजाय मत्तिय्याह पर पड़ती है"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 0,
+      "caption": "यूहन्ना के भाई याकूब को तलवार से मरवा डालता है"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 1,
+      "caption": "यह देखकर कि लोगों को अच्छा लगा, पतरस को भी गिरफ्तार करवाता है"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 2,
+      "caption": "भीड़ चिल्लाती है: \"यह देवता की वाणी है, मनुष्य की नहीं\""
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 3,
+      "caption": "दूत द्वारा मारा गया, कीड़ों से खाया गया, और मर जाता है"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 0,
+      "caption": "फेस्तुस का अभिवादन करने के लिए बिरनीके के साथ कैसरिया आता है"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 1,
+      "caption": "पौलुस: \"मैं अपने को धन्य मानता हूं... तेरे सामने उत्तर देने के लिए\""
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 2,
+      "caption": "\"थोड़े ही में तू मुझे मसीही होने के लिए मनाना चाहता है\""
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 3,
+      "caption": "निष्कर्ष निकालता है कि पौलुस को स्वतंत्र किया जा सकता था, यदि उसने कैसर से अपील न की होती"
+    },
+    {
+      "character_id": "felix",
+      "position": 0,
+      "caption": "भयभीत हो जाता है जब पौलुस धार्मिकता और न्याय के विषय में तर्क करता है"
+    },
+    {
+      "character_id": "felix",
+      "position": 1,
+      "caption": "\"अभी के लिए जा; जब मुझे अवसर मिलेगा, मैं तुझे बुलवा लूंगा\""
+    },
+    {
+      "character_id": "felix",
+      "position": 2,
+      "caption": "आशा करता है कि पौलुस उसे धन की पेशकश करेगा"
+    },
+    {
+      "character_id": "felix",
+      "position": 3,
+      "caption": "पद छोड़ते समय यहूदियों को प्रसन्न करने के लिए पौलुस को बन्दीगृह में छोड़ देता है"
     }
   ]
 }
