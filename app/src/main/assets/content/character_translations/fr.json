@@ -571,6 +571,86 @@
       "character_id": "judith",
       "name": "Judith",
       "intro": "Une veuve courageuse et pieuse qui a sauvé sa ville en déjouant et en abattant le général ennemi Holopherne."
+    },
+    {
+      "character_id": "zerubbabel",
+      "name": "Zorobabel",
+      "intro": "Un descendant du roi David qui ramena de Babylone le premier groupe d'exilés juifs et supervisa la reconstruction des fondations du Temple."
+    },
+    {
+      "character_id": "haman",
+      "name": "Haman",
+      "intro": "Le fonctionnaire perse dont le complot pour détruire le peuple juif fut déjoué par le courage d'Esther, et qui fut pendu à la potence qu'il avait construite pour un autre homme."
+    },
+    {
+      "character_id": "ahasuerus",
+      "name": "Assuérus",
+      "intro": "Le roi perse (aussi appelé Xerxès) dont les banquets, les décrets et la faveur envers Esther ouvrirent la voie à la délivrance de son peuple."
+    },
+    {
+      "character_id": "vashti",
+      "name": "Vasthi",
+      "intro": "La reine déposée pour avoir refusé de se montrer devant les invités du roi Assuérus à sa demande -- un acte de défi qui ouvrit la voie à Esther."
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "name": "Sanballat et Tobiya",
+      "intro": "Des fonctionnaires régionaux qui se moquèrent, menacèrent et complotèrent contre la reconstruction des murailles de Jérusalem par Néhémie -- une opposition qui n'arrêta jamais le travail."
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "name": "Abdias",
+      "intro": "Le plus court livre de l'Ancien Testament -- un seul chapitre annonçant le jugement sur Édom pour s'être réjoui de la chute de Juda, et une promesse de restauration."
+    },
+    {
+      "character_id": "nahum",
+      "name": "Nahum",
+      "intro": "Un prophète dont tout le livre est un seul et long oracle de jugement contre Ninive -- la même ville que Jonas avait vue épargnée."
+    },
+    {
+      "character_id": "habakkuk",
+      "name": "Habacuc",
+      "intro": "Un prophète qui interrogea ouvertement Dieu sur l'injustice et le délai, et dont le livre passe de la plainte à l'une des déclarations de confiance les plus claires de l'Écriture."
+    },
+    {
+      "character_id": "zephaniah",
+      "name": "Sophonie",
+      "intro": "Un prophète, probablement de descendance royale, qui avertit du « jour de l'ÉTERNEL » à venir tout en promettant qu'un reste fidèle serait restauré et source de joie."
+    },
+    {
+      "character_id": "haggai",
+      "name": "Aggée",
+      "intro": "Le prophète qui reprocha aux exilés revenus d'avoir achevé leurs propres maisons pendant que le Temple restait en ruines, et dont la prédication relança la reconstruction."
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "name": "Zacharie (le prophète)",
+      "intro": "Un prophète qui encouragea la reconstruction du Temple à travers une série de visions, et dont le livre contient certaines des prophéties messianiques les plus claires de l'Ancien Testament."
+    },
+    {
+      "character_id": "malachi",
+      "name": "Malachie",
+      "intro": "Le dernier des prophètes de l'Ancien Testament, dont les paroles finales -- une promesse d'envoyer Élie avant le jour de l'ÉTERNEL -- devinrent les derniers versets que de nombreuses Bibles impriment avant le début des Évangiles."
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "name": "Nabuchodonosor",
+      "intro": "Le roi babylonien qui détruisit le Temple de Jérusalem, fit des rêves que seul Daniel pouvait interpréter, et fut humilié jusqu'à la folie avant de confesser publiquement le Dieu d'Israël."
+    },
+    {
+      "character_id": "belshazzar",
+      "name": "Balthazar",
+      "intro": "Le successeur de Nabuchodonosor, dont le festin utilisant les vases sacrés du Temple fut interrompu par une main écrivant sur le mur la fin de son royaume."
+    },
+    {
+      "character_id": "darius-the-mede",
+      "name": "Darius le Mède",
+      "intro": "Le roi qui, poussé à signer un décret contre la prière, vit Daniel survivre à une nuit dans la fosse aux lions, puis honora publiquement le Dieu de Daniel."
+    },
+    {
+      "character_id": "cyrus",
+      "name": "Cyrus",
+      "intro": "Le roi perse dont le décret libéra les exilés juifs pour rentrer chez eux et reconstruire le Temple -- un acte que l'Écriture attribue à Dieu qui réveilla son esprit, et qu'Ésaïe nomme des générations à l'avance."
     }
   ]
 }

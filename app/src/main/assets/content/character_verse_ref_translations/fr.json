@@ -2171,6 +2171,306 @@
       "character_id": "judith",
       "position": 3,
       "caption": "Présentée comme une veuve pieuse de grande réputation"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 0,
+      "caption": "Posa les fondations du Temple reconstruit"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 1,
+      "caption": "La promesse de Dieu : « Je ferai de toi comme un anneau à cacheter »"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 2,
+      "caption": "« Ce n'est ni par la puissance ni par la force, mais par mon Esprit »"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 3,
+      "caption": "Nommé dans la généalogie de Jésus"
+    },
+    {
+      "character_id": "haman",
+      "position": 0,
+      "caption": "Furieux que Mardochée refuse de s'incliner devant lui"
+    },
+    {
+      "character_id": "haman",
+      "position": 1,
+      "caption": "Son décret pour détruire le peuple juif"
+    },
+    {
+      "character_id": "haman",
+      "position": 2,
+      "caption": "Pendu à la potence qu'il avait construite pour Mardochée"
+    },
+    {
+      "character_id": "haman",
+      "position": 3,
+      "caption": "Resté dans les mémoires comme l'ennemi des Juifs"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 0,
+      "caption": "Roi sur 127 provinces, de l'Inde à l'Éthiopie"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 1,
+      "caption": "Fit d'Esther sa reine"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 2,
+      "caption": "Exige de savoir qui menace Esther"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 3,
+      "caption": "Accorde à Mardochée l'autorité de contrer le décret d'Haman"
+    },
+    {
+      "character_id": "vashti",
+      "position": 0,
+      "caption": "Refuse de venir quand le roi la convoque"
+    },
+    {
+      "character_id": "vashti",
+      "position": 1,
+      "caption": "Déposée par décret royal"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 0,
+      "caption": "Contrariés que quelqu'un soit venu aider Israël"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 1,
+      "caption": "Se moquent du projet de reconstruction"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 2,
+      "caption": "Tentent d'attirer Néhémie dans un piège"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 3,
+      "caption": "La muraille achevée malgré eux"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 0,
+      "caption": "L'orgueil d'Édom : « Qui me fera descendre à terre ? »"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 1,
+      "caption": "Averti de ne pas se réjouir du désastre de Juda"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 2,
+      "caption": "« Le jour de l'ÉTERNEL est proche pour toutes les nations »"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 3,
+      "caption": "« Le royaume sera à l'ÉTERNEL »"
+    },
+    {
+      "character_id": "nahum",
+      "position": 0,
+      "caption": "« L'ÉTERNEL est lent à la colère... il ne laisse point le coupable impuni »"
+    },
+    {
+      "character_id": "nahum",
+      "position": 1,
+      "caption": "« L'ÉTERNEL est bon, il est un rempart au jour de la détresse »"
+    },
+    {
+      "character_id": "nahum",
+      "position": 2,
+      "caption": "« Malheur à la ville sanguinaire »"
+    },
+    {
+      "character_id": "nahum",
+      "position": 3,
+      "caption": "La chute de Ninive : « tous ceux qui entendront parler de toi battront des mains »"
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 0,
+      "caption": "« Ô ÉTERNEL, jusqu'à quand crierai-je, sans que tu écoutes ? »"
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 1,
+      "caption": "« Le juste vivra par sa foi »"
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 2,
+      "caption": "« L'ÉTERNEL est dans son saint temple : que toute la terre fasse silence »"
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 3,
+      "caption": "« Cependant, je me réjouirai en l'ÉTERNEL » même quand tout échoue"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 0,
+      "caption": "« Le grand jour de l'ÉTERNEL est proche »"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 1,
+      "caption": "Appelle les humbles à chercher l'ÉTERNEL"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 2,
+      "caption": "« L'ÉTERNEL, ton Dieu, est au milieu de toi... il se réjouira à cause de toi avec chant »"
+    },
+    {
+      "character_id": "haggai",
+      "position": 0,
+      "caption": "« Est-ce le temps pour vous d'habiter vos maisons lambrissées, pendant que cette maison reste en ruines ? »"
+    },
+    {
+      "character_id": "haggai",
+      "position": 1,
+      "caption": "Pousse le peuple à reprendre le travail"
+    },
+    {
+      "character_id": "haggai",
+      "position": 2,
+      "caption": "« La gloire de cette dernière maison sera plus grande que celle de la première »"
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 0,
+      "caption": "« Ce n'est ni par la puissance ni par la force, mais par mon Esprit »"
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 1,
+      "caption": "« Ton roi vient à toi... humble, monté sur un âne »"
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 2,
+      "caption": "« Ils regarderont vers moi, celui qu'ils ont transpercé »"
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 3,
+      "caption": "« Frappe le berger, et les brebis seront dispersées » -- citée par Jésus"
+    },
+    {
+      "character_id": "malachi",
+      "position": 0,
+      "caption": "Interpelle les prêtres : « Un fils honore son père... où est mon honneur ? »"
+    },
+    {
+      "character_id": "malachi",
+      "position": 1,
+      "caption": "« Car moi, l'ÉTERNEL, je ne change pas »"
+    },
+    {
+      "character_id": "malachi",
+      "position": 2,
+      "caption": "« Apportez toute la dîme à la maison du trésor »"
+    },
+    {
+      "character_id": "malachi",
+      "position": 3,
+      "caption": "« Je vous enverrai Élie, le prophète, avant que le jour de l'ÉTERNEL arrive, ce jour grand et terrible »"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 0,
+      "caption": "Confesse le Dieu de Daniel comme le « Dieu des dieux »"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 1,
+      "caption": "Ordonne de jeter Shadrak, Méshak et Abed-Nego dans la fournaise"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 2,
+      "caption": "Chassé de la société humaine, humilié"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 3,
+      "caption": "« Moi, Nabuchodonosor, je loue, j'exalte et je glorifie le Roi des cieux »"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 0,
+      "caption": "Boit dans les vases sacrés du Temple lors de son festin"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 1,
+      "caption": "L'écriture sur le mur"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 2,
+      "caption": "L'interprétation de Daniel : « Tu as été pesé... et trouvé léger »"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 3,
+      "caption": "Tué cette nuit-là même"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 0,
+      "caption": "Essaie tous les moyens pour sauver Daniel de son propre décret"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 1,
+      "caption": "« Ton Dieu, que tu sers continuellement, te délivrera »"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 2,
+      "caption": "Daniel indemne : « Mon Dieu a envoyé son ange »"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 3,
+      "caption": "Décrète que tous doivent craindre le Dieu de Daniel"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 0,
+      "caption": "Nommé par Dieu « son oint » des générations avant sa naissance"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 1,
+      "caption": "« L'ÉTERNEL réveilla l'esprit de Cyrus »"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 2,
+      "caption": "Son décret autorisant la reconstruction du Temple"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 3,
+      "caption": "Le décret qui clôt l'Ancien Testament dans le canon hébraïque"
     }
   ]
 }

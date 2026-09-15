@@ -571,6 +571,86 @@
       "character_id": "judith",
       "name": "Giuditta",
       "intro": "Una coraggiosa e pia vedova che salvò la sua città ingannando e abbattendo il generale nemico Oloferne."
+    },
+    {
+      "character_id": "zerubbabel",
+      "name": "Zorobabele",
+      "intro": "Un discendente del re Davide che guidò a casa da Babilonia il primo gruppo di esuli ebrei e supervisionò la ricostruzione delle fondamenta del Tempio."
+    },
+    {
+      "character_id": "haman",
+      "name": "Aman",
+      "intro": "Il funzionario persiano il cui piano per distruggere il popolo ebraico fu sventato dal coraggio di Ester, e che fu impiccato alla forca che aveva costruito per un altro uomo."
+    },
+    {
+      "character_id": "ahasuerus",
+      "name": "Assuero",
+      "intro": "Il re persiano (chiamato anche Serse) i cui banchetti, decreti e favore verso Ester prepararono la strada per la liberazione del suo popolo."
+    },
+    {
+      "character_id": "vashti",
+      "name": "Vasti",
+      "intro": "La regina deposta per aver rifiutato l'ordine del re Assuero di mostrarsi davanti agli ospiti del suo banchetto -- un atto di sfida che aprì la strada a Ester."
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "name": "Sanballat e Tobia",
+      "intro": "Funzionari regionali che schernirono, minacciarono e tramarono contro la ricostruzione delle mura di Gerusalemme da parte di Neemia -- un'opposizione che non fermò mai il lavoro."
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "name": "Abdia",
+      "intro": "Il libro più breve dell'Antico Testamento -- un unico capitolo che annuncia il giudizio su Edom per aver gioito della caduta di Giuda, e una promessa di restaurazione."
+    },
+    {
+      "character_id": "nahum",
+      "name": "Naum",
+      "intro": "Un profeta il cui intero libro è un unico, prolungato oracolo di giudizio contro Ninive -- la stessa città che Giona vide risparmiata."
+    },
+    {
+      "character_id": "habakkuk",
+      "name": "Abacuc",
+      "intro": "Un profeta che interrogò apertamente Dio sull'ingiustizia e sul ritardo, e il cui libro passa dal lamento a una delle più chiare dichiarazioni di fiducia delle Scritture."
+    },
+    {
+      "character_id": "zephaniah",
+      "name": "Sofonia",
+      "intro": "Un profeta, probabilmente di discendenza reale, che avvertì del prossimo \"giorno del SIGNORE\" promettendo al contempo che un resto fedele sarebbe stato restaurato e motivo di gioia."
+    },
+    {
+      "character_id": "haggai",
+      "name": "Aggeo",
+      "intro": "Il profeta che affrontò gli esuli tornati per aver finito le proprie case mentre il Tempio giaceva in rovina, e la cui predicazione fece riprendere la ricostruzione."
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "name": "Zaccaria (il profeta)",
+      "intro": "Un profeta che incoraggiò la ricostruzione del Tempio attraverso una serie di visioni, e il cui libro contiene alcune delle più chiare profezie messianiche dell'Antico Testamento."
+    },
+    {
+      "character_id": "malachi",
+      "name": "Malachia",
+      "intro": "L'ultimo dei profeti dell'Antico Testamento, le cui parole finali -- una promessa di mandare Elia prima del giorno del SIGNORE -- divennero gli ultimi versetti che molte Bibbie stampano prima dell'inizio dei Vangeli."
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "name": "Nabucodonosor",
+      "intro": "Il re babilonese che distrusse il Tempio di Gerusalemme, fece sogni che solo Daniele poteva interpretare, e fu umiliato fino alla follia prima di confessare pubblicamente il Dio d'Israele."
+    },
+    {
+      "character_id": "belshazzar",
+      "name": "Baldassarre",
+      "intro": "Il successore di Nabucodonosor, il cui banchetto con i vasi sacri del Tempio fu interrotto da una mano che scrisse sul muro la fine del suo regno."
+    },
+    {
+      "character_id": "darius-the-mede",
+      "name": "Dario il Medo",
+      "intro": "Il re che, spinto a firmare un decreto contro la preghiera, vide Daniele sopravvivere a una notte nella fossa dei leoni e poi onorò pubblicamente il Dio di Daniele."
+    },
+    {
+      "character_id": "cyrus",
+      "name": "Ciro",
+      "intro": "Il re persiano il cui decreto liberò gli esuli ebrei per tornare a casa e ricostruire il Tempio -- un atto che la Scrittura attribuisce a Dio che suscitò il suo spirito, e che Isaia nomina generazioni prima."
     }
   ]
 }

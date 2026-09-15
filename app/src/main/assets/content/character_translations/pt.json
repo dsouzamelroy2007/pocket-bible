@@ -571,6 +571,86 @@
       "character_id": "judith",
       "name": "Judite",
       "intro": "Uma viúva corajosa e piedosa que salvou sua cidade ao enganar e derrotar o general inimigo Holofernes."
+    },
+    {
+      "character_id": "zerubbabel",
+      "name": "Zorobabel",
+      "intro": "Um descendente do rei Davi que liderou o primeiro grupo de exilados judeus de volta da Babilônia e supervisionou a reconstrução dos alicerces do Templo."
+    },
+    {
+      "character_id": "haman",
+      "name": "Hamã",
+      "intro": "O oficial persa cujo plano para destruir o povo judeu foi frustrado pela coragem de Ester, e que foi enforcado na forca que construiu para outro homem."
+    },
+    {
+      "character_id": "ahasuerus",
+      "name": "Assuero",
+      "intro": "O rei persa (também chamado Xerxes) cujos banquetes, decretos e favor para com Ester prepararam o caminho para a libertação de seu povo."
+    },
+    {
+      "character_id": "vashti",
+      "name": "Vasti",
+      "intro": "A rainha destituída por se recusar a comparecer diante dos convidados do banquete do rei Assuero, conforme ordenado -- um ato de desafio que abriu caminho para Ester."
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "name": "Sambalate e Tobias",
+      "intro": "Oficiais regionais que zombaram, ameaçaram e conspiraram contra a reconstrução dos muros de Jerusalém por Neemias -- uma oposição que nunca deteve a obra."
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "name": "Obadias",
+      "intro": "O livro mais curto do Antigo Testamento -- um único capítulo anunciando julgamento sobre Edom por se alegrar com a queda de Judá, e uma promessa de restauração."
+    },
+    {
+      "character_id": "nahum",
+      "name": "Naum",
+      "intro": "Um profeta cujo livro inteiro é um único e contínuo oráculo de julgamento contra Nínive -- a mesma cidade que Jonas viu ser poupada."
+    },
+    {
+      "character_id": "habakkuk",
+      "name": "Habacuque",
+      "intro": "Um profeta que questionou abertamente a Deus sobre a injustiça e a demora, e cujo livro passa da queixa para uma das mais claras declarações de confiança das Escrituras."
+    },
+    {
+      "character_id": "zephaniah",
+      "name": "Sofonias",
+      "intro": "Um profeta, provavelmente de descendência real, que advertiu sobre o vindouro \"dia do SENHOR\" enquanto também prometia que um remanescente fiel seria restaurado e motivo de alegria."
+    },
+    {
+      "character_id": "haggai",
+      "name": "Ageu",
+      "intro": "O profeta que confrontou os exilados retornados por terminarem suas próprias casas enquanto o Templo permanecia em ruínas, e cuja pregação fez a reconstrução recomeçar."
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "name": "Zacarias (o profeta)",
+      "intro": "Um profeta que incentivou a reconstrução do Templo por meio de uma série de visões, e cujo livro contém algumas das mais claras profecias messiânicas do Antigo Testamento."
+    },
+    {
+      "character_id": "malachi",
+      "name": "Malaquias",
+      "intro": "O último dos profetas do Antigo Testamento, cujas palavras finais -- uma promessa de enviar Elias antes do dia do SENHOR -- tornaram-se os últimos versículos que muitas Bíblias imprimem antes do início dos Evangelhos."
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "name": "Nabucodonosor",
+      "intro": "O rei babilônico que destruiu o Templo de Jerusalém, teve sonhos que só Daniel podia interpretar, e foi humilhado até a loucura antes de confessar publicamente o Deus de Israel."
+    },
+    {
+      "character_id": "belshazzar",
+      "name": "Belsazar",
+      "intro": "O sucessor de Nabucodonosor, cujo banquete usando os vasos sagrados do Templo foi interrompido por uma mão que escreveu na parede o fim de seu reino."
+    },
+    {
+      "character_id": "darius-the-mede",
+      "name": "Dario, o medo",
+      "intro": "O rei que, pressionado a assinar um decreto contra a oração, viu Daniel sobreviver a uma noite na cova dos leões e então honrou publicamente o Deus de Daniel."
+    },
+    {
+      "character_id": "cyrus",
+      "name": "Ciro",
+      "intro": "O rei persa cujo decreto libertou os exilados judeus para voltarem para casa e reconstruírem o Templo -- um ato que as Escrituras atribuem a Deus despertando seu espírito, e que Isaías nomeia gerações antes."
     }
   ]
 }

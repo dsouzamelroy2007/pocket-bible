@@ -2171,6 +2171,306 @@
       "character_id": "judith",
       "position": 3,
       "caption": "Vorgestellt als fromme Witwe von großem Ansehen"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 0,
+      "caption": "Legte das Fundament des wiederaufgebauten Tempels"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 1,
+      "caption": "Gottes Verheißung: „Ich will dich wie einen Siegelring machen\""
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 2,
+      "caption": "„Nicht durch Heer oder Kraft, sondern durch meinen Geist\""
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 3,
+      "caption": "In der Genealogie Jesu genannt"
+    },
+    {
+      "character_id": "haman",
+      "position": 0,
+      "caption": "Wütend, dass Mordechai sich nicht vor ihm verneigte"
+    },
+    {
+      "character_id": "haman",
+      "position": 1,
+      "caption": "Sein Erlass zur Vernichtung des jüdischen Volkes"
+    },
+    {
+      "character_id": "haman",
+      "position": 2,
+      "caption": "Am Galgen gehängt, den er für Mordechai gebaut hatte"
+    },
+    {
+      "character_id": "haman",
+      "position": 3,
+      "caption": "In Erinnerung als der Feind der Juden"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 0,
+      "caption": "König über 127 Provinzen von Indien bis Äthiopien"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 1,
+      "caption": "Machte Esther zu seiner Königin"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 2,
+      "caption": "Verlangt zu wissen, wer Esther bedroht"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 3,
+      "caption": "Gewährt Mordechai die Vollmacht, Hamans Erlass entgegenzuwirken"
+    },
+    {
+      "character_id": "vashti",
+      "position": 0,
+      "caption": "Weigert sich zu kommen, als der König sie ruft"
+    },
+    {
+      "character_id": "vashti",
+      "position": 1,
+      "caption": "Durch königlichen Erlass abgesetzt"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 0,
+      "caption": "Verärgert, dass jemand gekommen war, um Israel zu helfen"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 1,
+      "caption": "Verspotten das Wiederaufbauprojekt"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 2,
+      "caption": "Versuchen, Nehemia in eine Falle zu locken"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 3,
+      "caption": "Die Mauer wurde trotz ihnen fertiggestellt"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 0,
+      "caption": "Edoms Stolz: „Wer will mich zu Boden bringen?\""
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 1,
+      "caption": "Gewarnt, sich nicht über Judas Unglück zu freuen"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 2,
+      "caption": "„Der Tag des HERRN ist nahe über alle Völker\""
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 3,
+      "caption": "„Das Königtum wird dem HERRN gehören\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 0,
+      "caption": "„Der HERR ist geduldig ... er lässt den Schuldigen keineswegs ungestraft\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 1,
+      "caption": "„Der HERR ist gut, eine Feste am Tage der Not\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 2,
+      "caption": "„Wehe der Blutstadt\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 3,
+      "caption": "Ninives Fall: „alle, die die Nachricht von dir hören, klatschen in die Hände\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 0,
+      "caption": "„O HERR, wie lange soll ich schreien, und du hörst nicht?\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 1,
+      "caption": "„Der Gerechte wird durch seinen Glauben leben\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 2,
+      "caption": "„Der HERR ist in seinem heiligen Tempel; alle Welt schweige vor ihm\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 3,
+      "caption": "„Dennoch will ich mich freuen des HERRN\" -- selbst wenn alles versagt"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 0,
+      "caption": "„Der große Tag des HERRN ist nahe\""
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 1,
+      "caption": "Ruft die Demütigen auf, den HERRN zu suchen"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 2,
+      "caption": "„Der HERR, dein Gott, ist in deiner Mitte ... er wird sich über dich freuen mit Jauchzen\""
+    },
+    {
+      "character_id": "haggai",
+      "position": 0,
+      "caption": "„Ist es Zeit für euch, in getäfelten Häusern zu wohnen, während dieses Haus wüst liegt?\""
+    },
+    {
+      "character_id": "haggai",
+      "position": 1,
+      "caption": "Bewegt das Volk, die Arbeit wieder aufzunehmen"
+    },
+    {
+      "character_id": "haggai",
+      "position": 2,
+      "caption": "„Die Herrlichkeit dieses letzten Hauses wird größer sein als die des ersten\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 0,
+      "caption": "„Nicht durch Heer oder Kraft, sondern durch meinen Geist\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 1,
+      "caption": "„Dein König kommt zu dir ... demütig und reitet auf einem Esel\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 2,
+      "caption": "„Sie werden auf mich blicken, den sie durchbohrt haben\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 3,
+      "caption": "„Schlage den Hirten, und die Schafe werden sich zerstreuen\" -- von Jesus zitiert"
+    },
+    {
+      "character_id": "malachi",
+      "position": 0,
+      "caption": "Fordert die Priester heraus: „Ein Sohn ehrt seinen Vater ... wo ist meine Ehre?\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 1,
+      "caption": "„Denn ich, der HERR, wandle mich nicht\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 2,
+      "caption": "„Bringt den ganzen Zehnten in das Vorratshaus\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 3,
+      "caption": "„Ich sende euch den Propheten Elia, ehe der große und furchtbare Tag des HERRN kommt\""
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 0,
+      "caption": "Bekennt Daniels Gott als „Gott der Götter\""
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 1,
+      "caption": "Befiehlt, Schadrach, Meschach und Abed-Nego in den Feuerofen zu werfen"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 2,
+      "caption": "Aus der menschlichen Gesellschaft vertrieben, gedemütigt"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 3,
+      "caption": "„Ich, Nebukadnezar, lobe und erhebe und ehre den König des Himmels\""
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 0,
+      "caption": "Trinkt bei seinem Fest aus den heiligen Gefäßen des Tempels"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 1,
+      "caption": "Die Schrift an der Wand"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 2,
+      "caption": "Daniels Deutung: „Du bist gewogen ... und zu leicht befunden\""
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 3,
+      "caption": "Noch in derselben Nacht getötet"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 0,
+      "caption": "Versucht auf jede Weise, Daniel vor seinem eigenen Erlass zu retten"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 1,
+      "caption": "„Dein Gott, dem du ohn Unterlass dienst, der wird dir helfen\""
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 2,
+      "caption": "Daniel unversehrt: „Mein Gott hat seinen Engel gesandt\""
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 3,
+      "caption": "Erlässt, dass alle den Gott Daniels fürchten sollen"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 0,
+      "caption": "Von Gott Generationen vor seiner Geburt als „sein Gesalbter\" benannt"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 1,
+      "caption": "„Der HERR erweckte den Geist des Kyrus\""
+    },
+    {
+      "character_id": "cyrus",
+      "position": 2,
+      "caption": "Sein Erlass, der den Wiederaufbau des Tempels erlaubt"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 3,
+      "caption": "Der Erlass, der das Alte Testament im hebräischen Kanon beendet"
     }
   ]
 }

@@ -571,6 +571,86 @@
       "character_id": "judith",
       "name": "Judit",
       "intro": "Eine mutige und fromme Witwe, die ihre Stadt rettete, indem sie den feindlichen General Holofernes überlistete und besiegte."
+    },
+    {
+      "character_id": "zerubbabel",
+      "name": "Serubbabel",
+      "intro": "Ein Nachkomme König Davids, der die erste Gruppe jüdischer Exilanten aus Babylon in die Heimat zurückführte und den Wiederaufbau des Tempelfundaments beaufsichtigte."
+    },
+    {
+      "character_id": "haman",
+      "name": "Haman",
+      "intro": "Der persische Beamte, dessen Plan zur Vernichtung des jüdischen Volkes durch Esthers Mut vereitelt wurde und der am Galgen gehängt wurde, den er für einen anderen Mann gebaut hatte."
+    },
+    {
+      "character_id": "ahasuerus",
+      "name": "Ahasveros",
+      "intro": "Der persische König (auch Xerxes genannt), dessen Festmähler, Erlasse und Zuneigung zu Esther den Weg für die Rettung ihres Volkes bereiteten."
+    },
+    {
+      "character_id": "vashti",
+      "name": "Vasti",
+      "intro": "Die Königin, die abgesetzt wurde, weil sie sich weigerte, König Ahasveros' Aufforderung zu folgen, sich vor seinen Festgästen zu zeigen -- ein Akt der Auflehnung, der den Weg für Esther öffnete."
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "name": "Sanballat und Tobija",
+      "intro": "Regionale Amtsträger, die Nehemias Wiederaufbau der Mauern Jerusalems verspotteten, bedrohten und dagegen intrigierten -- ein Widerstand, der die Arbeit nie aufhielt."
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "name": "Obadja",
+      "intro": "Das kürzeste Buch des Alten Testaments -- ein einziges Kapitel, das Gericht über Edom ankündigt, weil es sich über Judas Untergang freute, sowie eine Verheißung der Wiederherstellung."
+    },
+    {
+      "character_id": "nahum",
+      "name": "Nahum",
+      "intro": "Ein Prophet, dessen ganzes Buch ein einziges, anhaltendes Gerichtswort gegen Ninive ist -- dieselbe Stadt, die Jona einst verschont sah."
+    },
+    {
+      "character_id": "habakkuk",
+      "name": "Habakuk",
+      "intro": "Ein Prophet, der Gott offen über Ungerechtigkeit und Verzögerung befragte und dessen Buch sich von der Klage zu einem der klarsten Vertrauensbekenntnisse der Schrift wendet."
+    },
+    {
+      "character_id": "zephaniah",
+      "name": "Zefanja",
+      "intro": "Ein Prophet, wahrscheinlich königlicher Abstammung, der vor dem kommenden „Tag des HERRN\" warnte und zugleich verhieß, dass ein treuer Rest wiederhergestellt und mit Freude betrachtet werden würde."
+    },
+    {
+      "character_id": "haggai",
+      "name": "Haggai",
+      "intro": "Der Prophet, der die zurückgekehrten Exilanten damit konfrontierte, dass sie ihre eigenen Häuser fertigstellten, während der Tempel in Trümmern lag, und dessen Predigt den Wiederaufbau erneut in Gang brachte."
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "name": "Sacharja (der Prophet)",
+      "intro": "Ein Prophet, der den Wiederaufbau des Tempels durch eine Reihe von Visionen förderte und dessen Buch einige der klarsten messianischen Prophezeiungen des Alten Testaments enthält."
+    },
+    {
+      "character_id": "malachi",
+      "name": "Maleachi",
+      "intro": "Der letzte der alttestamentlichen Propheten, dessen Schlussworte -- eine Verheißung, Elia vor dem Tag des HERRN zu senden -- zu den letzten Versen wurden, die viele Bibeln vor Beginn der Evangelien drucken."
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "name": "Nebukadnezar",
+      "intro": "Der babylonische König, der den Tempel Jerusalems zerstörte, Träume hatte, die nur Daniel deuten konnte, und der in den Wahnsinn gedemütigt wurde, bevor er öffentlich den Gott Israels bekannte."
+    },
+    {
+      "character_id": "belshazzar",
+      "name": "Belsazar",
+      "intro": "Nebukadnezars Nachfolger, dessen Festmahl mit den heiligen Gefäßen des Tempels durch eine Hand unterbrochen wurde, die das Ende seines Königreichs an die Wand schrieb."
+    },
+    {
+      "character_id": "darius-the-mede",
+      "name": "Darius der Meder",
+      "intro": "Der König, der unter Druck ein Dekret gegen das Gebet unterzeichnete, dann miterlebte, wie Daniel eine Nacht in der Löwengrube überlebte, und daraufhin öffentlich Daniels Gott ehrte."
+    },
+    {
+      "character_id": "cyrus",
+      "name": "Kyrus",
+      "intro": "Der persische König, dessen Erlass die jüdischen Exilanten befreite, um heimzukehren und den Tempel wieder aufzubauen -- eine Tat, die die Schrift darauf zurückführt, dass Gott seinen Geist erweckte, und die Jesaja Generationen im Voraus namentlich nannte."
     }
   ]
 }

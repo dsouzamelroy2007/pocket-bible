@@ -2171,6 +2171,306 @@
       "character_id": "judith",
       "position": 3,
       "caption": "Apresentada como uma viúva devota de grande reputação"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 0,
+      "caption": "Lançou os alicerces do Templo reconstruído"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 1,
+      "caption": "A promessa de Deus: \"Eu farei de você como um anel de selar\""
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 2,
+      "caption": "\"Não por força nem por violência, mas pelo meu Espírito\""
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 3,
+      "caption": "Mencionado na genealogia de Jesus"
+    },
+    {
+      "character_id": "haman",
+      "position": 0,
+      "caption": "Enfurecido porque Mardoqueu não se curvava diante dele"
+    },
+    {
+      "character_id": "haman",
+      "position": 1,
+      "caption": "Seu decreto para destruir o povo judeu"
+    },
+    {
+      "character_id": "haman",
+      "position": 2,
+      "caption": "Enforcado na forca que construiu para Mardoqueu"
+    },
+    {
+      "character_id": "haman",
+      "position": 3,
+      "caption": "Lembrado como o inimigo dos judeus"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 0,
+      "caption": "Rei sobre 127 províncias, da Índia à Etiópia"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 1,
+      "caption": "Fez de Ester sua rainha"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 2,
+      "caption": "Exige saber quem ameaça Ester"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 3,
+      "caption": "Concede a Mardoqueu autoridade para neutralizar o decreto de Hamã"
+    },
+    {
+      "character_id": "vashti",
+      "position": 0,
+      "caption": "Recusa-se a comparecer quando o rei a convoca"
+    },
+    {
+      "character_id": "vashti",
+      "position": 1,
+      "caption": "Destituída por decreto real"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 0,
+      "caption": "Descontentes por alguém ter vindo ajudar Israel"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 1,
+      "caption": "Zombam do projeto de reconstrução"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 2,
+      "caption": "Tentam atrair Neemias para uma armadilha"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 3,
+      "caption": "O muro concluído apesar deles"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 0,
+      "caption": "O orgulho de Edom: \"Quem me derrubará?\""
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 1,
+      "caption": "Advertido a não se regozijar com o desastre de Judá"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 2,
+      "caption": "\"O dia do SENHOR está próximo sobre todas as nações\""
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 3,
+      "caption": "\"O reino pertencerá ao SENHOR\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 0,
+      "caption": "\"O SENHOR é tardio para a ira... e de maneira nenhuma inocentará o culpado\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 1,
+      "caption": "\"O SENHOR é bom, fortaleza no dia da angústia\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 2,
+      "caption": "\"Ai da cidade sanguinária\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 3,
+      "caption": "A queda de Nínive: \"todos os que ouvirem a notícia de ti baterão palmas\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 0,
+      "caption": "\"Ó SENHOR, até quando clamarei, e tu não ouvirás?\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 1,
+      "caption": "\"O justo viverá pela sua fé\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 2,
+      "caption": "\"O SENHOR está em seu santo templo; cale-se diante dele toda a terra\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 3,
+      "caption": "\"Todavia, eu me alegrarei no SENHOR\" mesmo quando tudo falha"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 0,
+      "caption": "\"O grande dia do SENHOR está próximo\""
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 1,
+      "caption": "Chama os humildes a buscar o SENHOR"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 2,
+      "caption": "\"O SENHOR teu Deus está no meio de ti... ele se alegrará por ti com cânticos\""
+    },
+    {
+      "character_id": "haggai",
+      "position": 0,
+      "caption": "\"É tempo de vocês habitarem em suas casas forradas, enquanto esta casa está em ruínas?\""
+    },
+    {
+      "character_id": "haggai",
+      "position": 1,
+      "caption": "Estimula o povo a retomar a obra"
+    },
+    {
+      "character_id": "haggai",
+      "position": 2,
+      "caption": "\"A glória desta última casa será maior do que a da primeira\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 0,
+      "caption": "\"Não por força nem por violência, mas pelo meu Espírito\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 1,
+      "caption": "\"Teu rei vem a ti... humilde, montado num jumento\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 2,
+      "caption": "\"Olharão para mim, a quem transpassaram\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 3,
+      "caption": "\"Fere o pastor, e as ovelhas se dispersarão\" -- citado por Jesus"
+    },
+    {
+      "character_id": "malachi",
+      "position": 0,
+      "caption": "Desafia os sacerdotes: \"um filho honra seu pai... onde está a minha honra?\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 1,
+      "caption": "\"Porque eu, o SENHOR, não mudo\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 2,
+      "caption": "\"Trazei todos os dízimos à casa do tesouro\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 3,
+      "caption": "\"Eis que eu vos enviarei o profeta Elias, antes que venha o grande e terrível dia do SENHOR\""
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 0,
+      "caption": "Confessa o Deus de Daniel como \"Deus dos deuses\""
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 1,
+      "caption": "Ordena que lancem Sadraque, Mesaque e Abede-Nego na fornalha"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 2,
+      "caption": "Expulso da sociedade humana, humilhado"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 3,
+      "caption": "\"Eu, Nabucodonosor, louvo, exalto e glorifico o Rei do céu\""
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 0,
+      "caption": "Bebe nos vasos sagrados do Templo em seu banquete"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 1,
+      "caption": "A escrita na parede"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 2,
+      "caption": "A interpretação de Daniel: \"Foste pesado... e achado em falta\""
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 3,
+      "caption": "Morto naquela mesma noite"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 0,
+      "caption": "Tenta de todas as formas salvar Daniel de seu próprio decreto"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 1,
+      "caption": "\"O teu Deus, a quem tu continuamente serves, ele te livrará\""
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 2,
+      "caption": "Daniel ileso: \"o meu Deus enviou o seu anjo\""
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 3,
+      "caption": "Decreta que todos devem temer o Deus de Daniel"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 0,
+      "caption": "Nomeado por Deus como \"seu ungido\" gerações antes de seu nascimento"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 1,
+      "caption": "\"O SENHOR despertou o espírito de Ciro\""
+    },
+    {
+      "character_id": "cyrus",
+      "position": 2,
+      "caption": "Seu decreto permitindo a reconstrução do Templo"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 3,
+      "caption": "O decreto que encerra o Antigo Testamento no cânon hebraico"
     }
   ]
 }

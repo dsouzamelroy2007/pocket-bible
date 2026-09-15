@@ -2171,6 +2171,306 @@
       "character_id": "judith",
       "position": 3,
       "caption": "मोठ्या प्रतिष्ठेची भक्तिमान विधवा म्हणून ओळख"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 0,
+      "caption": "पुनर्बांधलेल्या मंदिराचा पाया घातला"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 1,
+      "caption": "देवाचे अभिवचन: \"मी तुला मुद्रेच्या अंगठीसारखे करीन\""
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 2,
+      "caption": "\"बलाने नाही, शक्तीने नाही, तर माझ्या आत्म्याने\""
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 3,
+      "caption": "येशूच्या वंशावळीत नामोल्लेख"
+    },
+    {
+      "character_id": "haman",
+      "position": 0,
+      "caption": "मर्दखय त्याला वाकत नाही म्हणून संतापलेला"
+    },
+    {
+      "character_id": "haman",
+      "position": 1,
+      "caption": "यहुदी लोकांचा नाश करण्याचा त्याचा हुकूम"
+    },
+    {
+      "character_id": "haman",
+      "position": 2,
+      "caption": "मर्दखयासाठी बांधलेल्या फाशीवर टांगण्यात आला"
+    },
+    {
+      "character_id": "haman",
+      "position": 3,
+      "caption": "यहुद्यांचा शत्रू म्हणून स्मरणात राहिला"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 0,
+      "caption": "भारतापासून कूशपर्यंत १२७ प्रांतांचा राजा"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 1,
+      "caption": "एस्तेरला आपली राणी बनवले"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 2,
+      "caption": "एस्तेरला कोण धमकावतो हे जाणून घेण्याची मागणी करतो"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 3,
+      "caption": "हामानच्या हुकुमाचा प्रतिकार करण्यासाठी मर्दखयला अधिकार देतो"
+    },
+    {
+      "character_id": "vashti",
+      "position": 0,
+      "caption": "राजाने बोलावले तेव्हा येण्यास नकार देते"
+    },
+    {
+      "character_id": "vashti",
+      "position": 1,
+      "caption": "शाही हुकुमाने पदच्युत"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 0,
+      "caption": "इस्राएलला मदत करण्यासाठी कोणीतरी आले याने नाराज"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 1,
+      "caption": "पुनर्बांधणी प्रकल्पाची थट्टा करतात"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 2,
+      "caption": "नहेम्याला सापळ्यात अडकवण्याचा प्रयत्न करतात"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 3,
+      "caption": "त्यांच्या विरोधानंतरही तटबंदी पूर्ण झाली"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 0,
+      "caption": "अदोमचा गर्व: \"मला कोण खाली आणील?\""
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 1,
+      "caption": "यहूदाच्या आपत्तीवर आनंद न मानण्याचा इशारा"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 2,
+      "caption": "\"परमेश्वराचा दिवस सर्व राष्ट्रांवर जवळ आला आहे\""
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 3,
+      "caption": "\"राज्य परमेश्वराचे होईल\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 0,
+      "caption": "\"परमेश्वर रागावण्यास मंद आहे... तो दोषीला मुळीच निर्दोष ठरवणार नाही\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 1,
+      "caption": "\"परमेश्वर चांगला आहे, संकटाच्या दिवसात दुर्ग आहे\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 2,
+      "caption": "\"त्या रक्तपाती नगरीला हाय\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 3,
+      "caption": "निनवेचे पतन: \"तुझी बातमी ऐकणारे सर्व टाळ्या वाजवतील\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 0,
+      "caption": "\"हे परमेश्वरा, मी किती काळ ओरडावे, आणि तू ऐकणार नाहीस?\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 1,
+      "caption": "\"नीतिमान आपल्या विश्वासाने जगेल\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 2,
+      "caption": "\"परमेश्वर आपल्या पवित्र मंदिरात आहे; सर्व पृथ्वीने त्याच्यासमोर मौन राहावे\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 3,
+      "caption": "\"तरीही मी परमेश्वरामध्ये आनंद करीन\" -- जरी सर्व काही अपयशी ठरले तरी"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 0,
+      "caption": "\"परमेश्वराचा मोठा दिवस जवळ आला आहे\""
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 1,
+      "caption": "नम्र लोकांना परमेश्वराचा शोध घेण्याचे आवाहन करतो"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 2,
+      "caption": "\"परमेश्वर तुझा देव तुझ्यामध्ये आहे... तो तुझ्यावर गीत गात आनंद करील\""
+    },
+    {
+      "character_id": "haggai",
+      "position": 0,
+      "caption": "\"ही वास्तू भग्नावस्थेत असताना तुम्ही सुशोभित घरात राहण्याची ही वेळ आहे का?\""
+    },
+    {
+      "character_id": "haggai",
+      "position": 1,
+      "caption": "लोकांना काम पुन्हा सुरू करण्यास प्रवृत्त करतो"
+    },
+    {
+      "character_id": "haggai",
+      "position": 2,
+      "caption": "\"या शेवटच्या वास्तूचे वैभव पहिल्यापेक्षा मोठे असेल\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 0,
+      "caption": "\"बलाने नाही, शक्तीने नाही, तर माझ्या आत्म्याने\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 1,
+      "caption": "\"तुझा राजा तुझ्याकडे येत आहे... नम्र, गाढवावर स्वार होऊन\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 2,
+      "caption": "\"ज्याला त्यांनी भोसकले त्या माझ्याकडे ते पाहतील\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 3,
+      "caption": "\"मेंढपाळाला मार, म्हणजे मेंढरे विखुरली जातील\" -- येशूने उद्धृत केलेले"
+    },
+    {
+      "character_id": "malachi",
+      "position": 0,
+      "caption": "याजकांना आव्हान देतो: \"मुलगा आपल्या वडिलांचा मान राखतो... माझा मान कुठे आहे?\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 1,
+      "caption": "\"कारण मी, परमेश्वर, बदलत नाही\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 2,
+      "caption": "\"सर्व दशांश कोठारात आणा\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 3,
+      "caption": "\"परमेश्वराचा तो मोठा आणि भयानक दिवस येण्यापूर्वी मी तुमच्याकडे एलीया संदेष्ट्याला पाठवीन\""
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 0,
+      "caption": "दानीएलच्या देवाला \"देवांचा देव\" म्हणून कबूल करतो"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 1,
+      "caption": "शद्रख, मेशख आणि अबेदनगो यांना भट्टीत टाकण्याचा आदेश देतो"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 2,
+      "caption": "मानवी समाजातून हाकलले गेले, नमवले गेले"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 3,
+      "caption": "\"मी नबुखद्नेस्सर स्वर्गाच्या राजाची स्तुती, गौरव आणि सन्मान करतो\""
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 0,
+      "caption": "आपल्या मेजवानीत मंदिराच्या पवित्र पात्रांतून पितो"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 1,
+      "caption": "भिंतीवरील लिखाण"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 2,
+      "caption": "दानीएलचा अर्थ: \"तुला तोलले गेले... आणि कमी भरलेले आढळले\""
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 3,
+      "caption": "त्याच रात्री ठार मारला गेला"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 0,
+      "caption": "स्वतःच्याच हुकुमापासून दानीएलला वाचवण्याचा प्रत्येक मार्ग अवलंबतो"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 1,
+      "caption": "\"ज्याची तू निरंतर सेवा करतोस तो तुझा देव तुला वाचवील\""
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 2,
+      "caption": "दानीएल सुरक्षित: \"माझ्या देवाने आपला दूत पाठवला\""
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 3,
+      "caption": "सर्वांनी दानीएलच्या देवाचे भय बाळगावे असा हुकूम काढतो"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 0,
+      "caption": "त्याच्या जन्मापूर्वी पिढ्या आधी देवाने \"त्याचा अभिषिक्त\" म्हणून नाव घेतले"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 1,
+      "caption": "\"परमेश्वराने कोरेशचा आत्मा जागृत केला\""
+    },
+    {
+      "character_id": "cyrus",
+      "position": 2,
+      "caption": "मंदिराच्या पुनर्बांधणीला परवानगी देणारा त्याचा हुकूम"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 3,
+      "caption": "हिब्रू सिद्धांतात जुना करार संपवणारा हुकूम"
     }
   ]
 }

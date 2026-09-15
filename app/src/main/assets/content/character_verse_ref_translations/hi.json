@@ -2171,6 +2171,306 @@
       "character_id": "judith",
       "position": 3,
       "caption": "बड़ी प्रतिष्ठा की एक भक्त विधवा के रूप में परिचित कराई गई"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 0,
+      "caption": "पुनर्निर्मित मंदिर की नींव रखी"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 1,
+      "caption": "परमेश्वर की प्रतिज्ञा: \"मैं तुझे मुहर की अंगूठी के समान बनाऊंगा\""
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 2,
+      "caption": "\"न तो शक्ति से, न बल से, परन्तु मेरे आत्मा से\""
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 3,
+      "caption": "यीशु की वंशावली में नामित"
+    },
+    {
+      "character_id": "haman",
+      "position": 0,
+      "caption": "क्रोधित कि मोर्दकै ने उसे प्रणाम नहीं किया"
+    },
+    {
+      "character_id": "haman",
+      "position": 1,
+      "caption": "यहूदी लोगों को नष्ट करने का उसका फरमान"
+    },
+    {
+      "character_id": "haman",
+      "position": 2,
+      "caption": "मोर्दकै के लिए बनाई फांसी पर लटकाया गया"
+    },
+    {
+      "character_id": "haman",
+      "position": 3,
+      "caption": "यहूदियों के शत्रु के रूप में स्मरण किया गया"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 0,
+      "caption": "भारत से कूश तक 127 प्रांतों का राजा"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 1,
+      "caption": "एस्तेर को अपनी रानी बनाया"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 2,
+      "caption": "यह जानने की मांग करता है कि एस्तेर को कौन धमकाता है"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 3,
+      "caption": "हामान के फरमान का प्रतिकार करने के लिए मोर्दकै को अधिकार देता है"
+    },
+    {
+      "character_id": "vashti",
+      "position": 0,
+      "caption": "राजा के बुलाने पर आने से इनकार करती है"
+    },
+    {
+      "character_id": "vashti",
+      "position": 1,
+      "caption": "शाही फरमान द्वारा अपदस्थ"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 0,
+      "caption": "नाराज़ कि कोई इस्राएल की सहायता करने आया था"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 1,
+      "caption": "पुनर्निर्माण परियोजना का मज़ाक उड़ाते हैं"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 2,
+      "caption": "नहेम्याह को जाल में फंसाने की कोशिश करते हैं"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 3,
+      "caption": "उनके बावजूद शहरपनाह पूरी हुई"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 0,
+      "caption": "एदोम का गर्व: \"मुझे भूमि पर कौन गिराएगा?\""
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 1,
+      "caption": "यहूदा की विपत्ति पर आनन्दित न होने की चेतावनी"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 2,
+      "caption": "\"यहोवा का दिन सब जातियों पर निकट है\""
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 3,
+      "caption": "\"राज्य यहोवा का होगा\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 0,
+      "caption": "\"यहोवा विलम्ब से क्रोध करनेवाला है... वह दोषी को किसी प्रकार निर्दोष न ठहराएगा\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 1,
+      "caption": "\"यहोवा भला है, संकट के दिन में गढ़ है\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 2,
+      "caption": "\"हाय, उस खूनी नगर पर\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 3,
+      "caption": "नीनवे का पतन: \"जो कोई तेरा समाचार सुनेगा वह तुझ पर ताली बजाएगा\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 0,
+      "caption": "\"हे यहोवा, मैं कब तक दोहाई दूं, और तू न सुने?\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 1,
+      "caption": "\"धर्मी अपने विश्वास से जीवित रहेगा\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 2,
+      "caption": "\"यहोवा अपने पवित्र मन्दिर में है; सारी पृथ्वी उसके सामने चुप रहे\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 3,
+      "caption": "\"तौभी मैं यहोवा के कारण मगन रहूंगा\" -- तब भी जब सब कुछ असफल हो जाए"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 0,
+      "caption": "\"यहोवा का बड़ा दिन निकट है\""
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 1,
+      "caption": "विनम्र लोगों को यहोवा को खोजने के लिए बुलाता है"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 2,
+      "caption": "\"यहोवा तेरा परमेश्वर तेरे मध्य में है... वह तेरे कारण गीत गाते हुए आनन्दित होगा\""
+    },
+    {
+      "character_id": "haggai",
+      "position": 0,
+      "caption": "\"क्या तुम्हारे लिए यह समय है कि तख्तों से सजे घरों में रहो, जबकि यह भवन खंडहर पड़ा है?\""
+    },
+    {
+      "character_id": "haggai",
+      "position": 1,
+      "caption": "लोगों को कार्य फिर से शुरू करने के लिए प्रेरित करता है"
+    },
+    {
+      "character_id": "haggai",
+      "position": 2,
+      "caption": "\"इस भवन की बाद की महिमा पहिली से बड़ी होगी\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 0,
+      "caption": "\"न तो शक्ति से, न बल से, परन्तु मेरे आत्मा से\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 1,
+      "caption": "\"तेरा राजा तेरे पास आता है... नम्र और गदहे पर सवार\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 2,
+      "caption": "\"वे मुझे देखेंगे जिसे उन्होंने बेध डाला\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 3,
+      "caption": "\"गड़रिये को मार, और भेड़ें तितर-बितर हो जाएंगी\" -- यीशु द्वारा उद्धृत"
+    },
+    {
+      "character_id": "malachi",
+      "position": 0,
+      "caption": "याजकों को चुनौती देता है: \"पुत्र अपने पिता का आदर करता है... मेरा आदर कहां है?\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 1,
+      "caption": "\"क्योंकि मैं यहोवा नहीं बदलता\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 2,
+      "caption": "\"पूरा दशमांश भण्डार गृह में ले आओ\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 3,
+      "caption": "\"देखो, यहोवा के उस बड़े और भयानक दिन के आने से पहले मैं एलिय्याह भविष्यद्वक्ता को तुम्हारे पास भेजूंगा\""
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 0,
+      "caption": "दानिय्येल के परमेश्वर को \"देवताओं का परमेश्वर\" स्वीकार करता है"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 1,
+      "caption": "शद्रक, मेशक और अबेदनगो को भट्टी में डालने का आदेश देता है"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 2,
+      "caption": "मानव समाज से निकाला गया, दीन किया गया"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 3,
+      "caption": "\"अब मैं नबूकदनेस्सर स्वर्ग के राजा की स्तुति और महिमा और आदर करता हूं\""
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 0,
+      "caption": "अपनी दावत में मंदिर के पवित्र पात्रों से पीता है"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 1,
+      "caption": "दीवार पर लिखावट"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 2,
+      "caption": "दानिय्येल की व्याख्या: \"तू तौला गया है... और घटता हुआ पाया गया है\""
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 3,
+      "caption": "उसी रात मार डाला गया"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 0,
+      "caption": "दानिय्येल को अपने ही फरमान से बचाने के हर तरीके की कोशिश करता है"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 1,
+      "caption": "\"तेरा परमेश्वर जिसकी तू लगातार सेवा करता है, वह तुझे बचाएगा\""
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 2,
+      "caption": "दानिय्येल सुरक्षित: \"मेरे परमेश्वर ने अपने दूत को भेजा\""
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 3,
+      "caption": "फरमान जारी करता है कि सब दानिय्येल के परमेश्वर से डरें"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 0,
+      "caption": "उसके जन्म से पीढ़ियों पहले परमेश्वर द्वारा \"अपना अभिषिक्त\" नामित"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 1,
+      "caption": "\"यहोवा ने कुस्रू के मन को उभारा\""
+    },
+    {
+      "character_id": "cyrus",
+      "position": 2,
+      "caption": "मंदिर के पुनर्निर्माण की अनुमति देने वाला उसका फरमान"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 3,
+      "caption": "वह फरमान जो हिब्रू सिद्धान्त में पुराने नियम को समाप्त करता है"
     }
   ]
 }
