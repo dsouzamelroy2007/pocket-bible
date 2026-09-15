@@ -3941,6 +3941,151 @@
       "character_id": "shunammite-woman",
       "position": 3,
       "caption": "Der Knabe niest siebenmal und öffnet die Augen"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 0,
+      "caption": "Von dem Priester und königlichen Beamten befragt"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 1,
+      "caption": "Bestätigt das Gericht, vor dem das Buch warnt"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 2,
+      "caption": "Verspricht Josia, dass er das Unheil zu seinen Lebzeiten nicht sehen wird, weil sein Herz demütig war"
+    },
+    {
+      "character_id": "baruch",
+      "position": 0,
+      "caption": "Schreibt alle Worte Jeremias nach seinem Diktat auf"
+    },
+    {
+      "character_id": "baruch",
+      "position": 1,
+      "caption": "Der König schneidet und verbrennt die Schriftrolle Spalte für Spalte"
+    },
+    {
+      "character_id": "baruch",
+      "position": 2,
+      "caption": "Schreibt alles noch einmal auf, mit weiteren Ergänzungen"
+    },
+    {
+      "character_id": "baruch",
+      "position": 3,
+      "caption": "Ihm wird gesagt, er solle sich damit begnügen, das kommende Unheil einfach zu überleben"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 0,
+      "caption": "Sagt dem König, dass Jeremia in der Zisterne dem Verhungern überlassen wurde"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 1,
+      "caption": "Benutzt alte Lumpen, damit die Seile Jeremia beim Herausziehen nicht schneiden"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 2,
+      "caption": "Verheißen: „Ich will dich gewisslich erretten ... weil du auf mich vertraut hast\""
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 0,
+      "caption": "Zum Statthalter über die im Land Verbliebenen ernannt"
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 1,
+      "caption": "„Fürchtet euch nicht, den Chaldäern zu dienen ... es wird euch wohlgehen\""
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 2,
+      "caption": "Von Ismael, aus dem königlichen Geschlecht, ermordet"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 0,
+      "caption": "Von Nebukadnezar als König eingesetzt"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 1,
+      "caption": "Rebelliert gegen den König von Babylon"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 2,
+      "caption": "Seine Söhne werden vor ihm getötet; dann werden ihm die Augen ausgestochen"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 3,
+      "caption": "Verurteilt, weil er seinen geschworenen Eid brach"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 0,
+      "caption": "Wird mit achtzehn Jahren König, regiert drei Monate"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 1,
+      "caption": "Ergibt sich dem König von Babylon"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 2,
+      "caption": "Jahrzehnte später aus dem Gefängnis entlassen, freundlich behandelt"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 3,
+      "caption": "Isst regelmäßig am eigenen Tisch des Königs für den Rest seines Lebens"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 0,
+      "caption": "Fragen, wo der neugeborene König der Juden ist"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 1,
+      "caption": "„Wir haben seinen Stern gesehen im Morgenland und sind gekommen, ihn anzubeten\""
+    },
+    {
+      "character_id": "the-magi",
+      "position": 2,
+      "caption": "Überreichen Geschenke von Gold, Weihrauch und Myrrhe"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 3,
+      "caption": "Im Traum gewarnt, kehren sie auf einem anderen Weg heim"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 0,
+      "caption": "Ein Gefangener, schuldig des Aufruhrs und Mordes"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 1,
+      "caption": "Pilatus bietet der Menge die Wahl zwischen ihm und Jesus"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 2,
+      "caption": "Die Menge fordert, dass Barabbas freigelassen werde"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 3,
+      "caption": "Freigelassen, während Jesus zur Kreuzigung übergeben wird"
     }
   ]
 }

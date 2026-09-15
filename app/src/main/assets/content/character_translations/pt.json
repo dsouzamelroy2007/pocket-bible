@@ -1051,6 +1051,46 @@
       "character_id": "shunammite-woman",
       "name": "A sunamita",
       "intro": "Uma mulher abastada que construiu para Eliseu um quarto para ficar sempre que passasse -- e cujo filho, longamente pedido em oração, ele mais tarde ressuscitou após sua morte súbita."
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "name": "Hulda, a profetisa",
+      "intro": "Uma profetisa consultada pelos oficiais do rei Josias após ser encontrado o Livro da Lei há muito perdido -- sua palavra confirmou tanto o julgamento vindouro quanto a recompensa pela resposta humilde de Josias."
+    },
+    {
+      "character_id": "baruch",
+      "name": "Baruque",
+      "intro": "O fiel escriba de Jeremias, que escreveu as palavras do profeta sob seu ditado -- e viu o rei Jeoiaquim queimar o rolo, pedaço por pedaço, no fogo."
+    },
+    {
+      "character_id": "ebed-melech",
+      "name": "Ebede-Meleque",
+      "intro": "Um oficial etíope na corte real que resgatou Jeremias de uma cisterna lamacenta onde ele havia sido deixado para morrer, e a quem foi prometido que sua própria vida seria poupada por isso."
+    },
+    {
+      "character_id": "gedaliah",
+      "name": "Gedalias",
+      "intro": "O governador nomeado sobre o remanescente de Judá após a queda de Jerusalém, que instou o povo a se estabelecer pacificamente sob a Babilônia -- e foi assassinado por isso dentro de poucos meses."
+    },
+    {
+      "character_id": "zedekiah",
+      "name": "Zedequias",
+      "intro": "O último rei de Judá, instalado pela Babilônia e vinculado por juramento a servi-la -- cuja rebelião trouxe o cerco final, a queda da cidade, e seus próprios filhos mortos diante dele antes que seus olhos fossem vazados."
+    },
+    {
+      "character_id": "jehoiachin",
+      "name": "Joaquim",
+      "intro": "Um jovem rei que reinou apenas três meses antes de Jerusalém cair para a Babilônia -- e que, décadas depois no exílio, foi inesperadamente libertado da prisão e recebeu um lugar de honra à mesa do rei babilônico."
+    },
+    {
+      "character_id": "the-magi",
+      "name": "Os magos",
+      "intro": "Sábios do Oriente que seguiram uma estrela para adorar o recém-nascido rei dos judeus, e cujos presentes de ouro, incenso e mirra têm moldado a imagética do Natal desde então."
+    },
+    {
+      "character_id": "barabbas",
+      "name": "Barrabás",
+      "intro": "Um rebelde e assassino condenado, solto no lugar de Jesus quando a multidão recebeu a escolha na Páscoa -- um homem inocente morrendo no lugar de um culpado, tornado literal."
     }
   ]
 }

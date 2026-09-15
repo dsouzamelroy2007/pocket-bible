@@ -3941,6 +3941,151 @@
       "character_id": "shunammite-woman",
       "position": 3,
       "caption": "लड़का सात बार छींकता है और अपनी आंखें खोलता है"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 0,
+      "caption": "याजक और शाही अधिकारियों द्वारा परामर्श लिया गया"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 1,
+      "caption": "पुस्तक जिस न्याय की चेतावनी देती है उसकी पुष्टि करती है"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 2,
+      "caption": "योशिय्याह से वादा करती है कि वह अपने जीवनकाल में विपत्ति नहीं देखेगा, क्योंकि उसका मन दीन था"
+    },
+    {
+      "character_id": "baruch",
+      "position": 0,
+      "caption": "यिर्मयाह के सभी शब्दों को उसके निर्देशन पर लिखता है"
+    },
+    {
+      "character_id": "baruch",
+      "position": 1,
+      "caption": "राजा कुण्डली को स्तम्भ-दर-स्तम्भ काटता और जलाता है"
+    },
+    {
+      "character_id": "baruch",
+      "position": 2,
+      "caption": "सब कुछ फिर से लिखता है, और भी जोड़कर"
+    },
+    {
+      "character_id": "baruch",
+      "position": 3,
+      "caption": "बताया गया कि आने वाली विपत्ति में केवल जीवित बच जाने से संतुष्ट रहे"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 0,
+      "caption": "राजा को बताता है कि यिर्मयाह को गड्ढे में भूखा मरने के लिए छोड़ दिया गया है"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 1,
+      "caption": "यिर्मयाह को बाहर खींचते समय रस्सियों को उसे काटने से रोकने के लिए पुराने चीथड़ों का उपयोग करता है"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 2,
+      "caption": "प्रतिज्ञा दी गई: \"मैं निश्चय तुझे बचाऊंगा... क्योंकि तूने मुझ पर भरोसा रखा है\""
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 0,
+      "caption": "देश में बचे हुए लोगों पर राज्यपाल नियुक्त"
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 1,
+      "caption": "\"कसदियों की सेवा करने से मत डरो... तुम्हारा भला होगा\""
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 2,
+      "caption": "राजवंश के इश्माएल द्वारा हत्या कर दी गई"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 0,
+      "caption": "नबूकदनेस्सर द्वारा राजा नियुक्त"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 1,
+      "caption": "बाबुल के राजा के विरुद्ध विद्रोह करता है"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 2,
+      "caption": "उसके पुत्र उसके सामने मारे गए; फिर उसकी अपनी आंखें फोड़ दी गईं"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 3,
+      "caption": "अपनी शपथ तोड़ने के लिए दोषी ठहराया गया"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 0,
+      "caption": "अठारह वर्ष की आयु में राजा बनता है, तीन महीने राज्य करता है"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 1,
+      "caption": "बाबुल के राजा के सामने आत्मसमर्पण करता है"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 2,
+      "caption": "दशकों बाद बन्दीगृह से रिहा किया गया, दया से व्यवहार किया गया"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 3,
+      "caption": "अपने शेष जीवन के लिए नियमित रूप से राजा की अपनी मेज़ पर खाता है"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 0,
+      "caption": "पूछते हैं कि यहूदियों का नवजात राजा कहां है"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 1,
+      "caption": "\"हमने पूर्व में उसका तारा देखा है, और उसकी आराधना करने आए हैं\""
+    },
+    {
+      "character_id": "the-magi",
+      "position": 2,
+      "caption": "सोना, लोबान, और गन्धरस के उपहार भेंट करते हैं"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 3,
+      "caption": "स्वप्न में चेतावनी दी गई, दूसरे मार्ग से घर लौटते हैं"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 0,
+      "caption": "एक बन्दी, विद्रोह और हत्या का दोषी"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 1,
+      "caption": "पिलातुस भीड़ को उसके और यीशु के बीच चुनाव देता है"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 2,
+      "caption": "भीड़ बरअब्बा को रिहा करने की मांग करती है"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 3,
+      "caption": "रिहा किया गया, जबकि यीशु को क्रूस पर चढ़ाए जाने के लिए सौंप दिया गया"
     }
   ]
 }

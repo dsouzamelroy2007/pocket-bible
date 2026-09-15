@@ -3941,6 +3941,151 @@
       "character_id": "shunammite-woman",
       "position": 3,
       "caption": "L'enfant éternue sept fois et ouvre les yeux"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 0,
+      "caption": "Consultée par le prêtre et les officiels royaux"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 1,
+      "caption": "Confirme le jugement dont le Livre avertit"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 2,
+      "caption": "Promet à Josias qu'il ne verra pas le désastre de son vivant, parce que son cœur était humble"
+    },
+    {
+      "character_id": "baruch",
+      "position": 0,
+      "caption": "Écrit toutes les paroles de Jérémie sous sa dictée"
+    },
+    {
+      "character_id": "baruch",
+      "position": 1,
+      "caption": "Le roi coupe et brûle le rouleau colonne par colonne"
+    },
+    {
+      "character_id": "baruch",
+      "position": 2,
+      "caption": "Réécrit tout de nouveau, avec davantage ajouté"
+    },
+    {
+      "character_id": "baruch",
+      "position": 3,
+      "caption": "Dit de se contenter simplement de survivre au désastre à venir"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 0,
+      "caption": "Dit au roi que Jérémie a été laissé pour mourir de faim dans la citerne"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 1,
+      "caption": "Utilise de vieux chiffons pour empêcher les cordes de blesser Jérémie en le remontant"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 2,
+      "caption": "Promis : « je te délivrerai certainement... parce que tu as mis ta confiance en moi »"
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 0,
+      "caption": "Nommé gouverneur sur ceux restés dans le pays"
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 1,
+      "caption": "« Ne craignez pas de servir les Chaldéens... vous vous en trouverez bien »"
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 2,
+      "caption": "Assassiné par Ismaël, de la famille royale"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 0,
+      "caption": "Installé comme roi par Nabuchodonosor"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 1,
+      "caption": "Se rebelle contre le roi de Babylone"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 2,
+      "caption": "Ses fils tués devant lui ; ses propres yeux ensuite crevés"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 3,
+      "caption": "Condamné pour avoir rompu son serment juré"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 0,
+      "caption": "Devient roi à dix-huit ans, règne trois mois"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 1,
+      "caption": "Se rend au roi de Babylone"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 2,
+      "caption": "Libéré de prison des décennies plus tard, traité avec bonté"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 3,
+      "caption": "Mange régulièrement à la propre table du roi pour le reste de sa vie"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 0,
+      "caption": "Demandent où est le roi des Juifs nouveau-né"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 1,
+      "caption": "« Nous avons vu son étoile en Orient, et nous sommes venus l'adorer »"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 2,
+      "caption": "Offrent des présents d'or, d'encens et de myrrhe"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 3,
+      "caption": "Avertis en songe, ils rentrent chez eux par un autre chemin"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 0,
+      "caption": "Un prisonnier, coupable de sédition et de meurtre"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 1,
+      "caption": "Pilate offre à la foule un choix entre lui et Jésus"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 2,
+      "caption": "La foule exige que Barabbas soit libéré"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 3,
+      "caption": "Libéré, tandis que Jésus est livré pour être crucifié"
     }
   ]
 }

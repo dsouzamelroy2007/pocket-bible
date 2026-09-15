@@ -1051,6 +1051,46 @@
       "character_id": "shunammite-woman",
       "name": "Die Schunamiterin",
       "intro": "Eine wohlhabende Frau, die Elisa ein Zimmer baute, in dem er bleiben konnte, wann immer er vorbeikam -- und deren lang erbetenen Sohn er später von den Toten auferweckte, nachdem er plötzlich gestorben war."
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "name": "Hulda die Prophetin",
+      "intro": "Eine Prophetin, die von König Josias Beamten befragt wurde, nachdem das lange verlorene Buch des Gesetzes gefunden worden war -- ihr Wort bestätigte sowohl das kommende Gericht als auch die Belohnung für Josias demütige Antwort."
+    },
+    {
+      "character_id": "baruch",
+      "name": "Baruch",
+      "intro": "Jeremias treuer Schreiber, der die Worte des Propheten nach seinem Diktat niederschrieb -- und mitansah, wie König Jojakim die Schriftrolle Stück für Stück im Feuer verbrannte."
+    },
+    {
+      "character_id": "ebed-melech",
+      "name": "Ebed-Melech",
+      "intro": "Ein äthiopischer Beamter am königlichen Hof, der Jeremia aus einer schlammigen Zisterne rettete, in der er zum Sterben zurückgelassen worden war, und dem versprochen wurde, dass sein eigenes Leben deshalb verschont bleiben würde."
+    },
+    {
+      "character_id": "gedaliah",
+      "name": "Gedalja",
+      "intro": "Der Statthalter, der über den Rest Judas nach dem Fall Jerusalems eingesetzt wurde, der das Volk drängte, sich friedlich unter Babylon niederzulassen -- und der deshalb innerhalb von Monaten ermordet wurde."
+    },
+    {
+      "character_id": "zedekiah",
+      "name": "Zedekia",
+      "intro": "Der letzte König von Juda, von Babylon eingesetzt und durch einen Eid gebunden, ihm zu dienen -- dessen Rebellion die letzte Belagerung, den Fall der Stadt und die Tötung seiner eigenen Söhne vor seinen Augen brachte, bevor diese ausgestochen wurden."
+    },
+    {
+      "character_id": "jehoiachin",
+      "name": "Jojachin",
+      "intro": "Ein junger König, der nur drei Monate regierte, bevor Jerusalem an Babylon fiel -- und der Jahrzehnte später im Exil unerwartet aus dem Gefängnis entlassen und mit einem Ehrenplatz an der Tafel des babylonischen Königs geehrt wurde."
+    },
+    {
+      "character_id": "the-magi",
+      "name": "Die Weisen aus dem Morgenland",
+      "intro": "Weise aus dem Morgenland, die einem Stern folgten, um den neugeborenen König der Juden anzubeten, und deren Gaben von Gold, Weihrauch und Myrrhe seither die Weihnachtsbilder geprägt haben."
+    },
+    {
+      "character_id": "barabbas",
+      "name": "Barabbas",
+      "intro": "Ein verurteilter Aufrührer und Mörder, der anstelle Jesu freigelassen wurde, als der Menge am Passahfest die Wahl gegeben wurde -- ein unschuldiger Mann, der anstelle eines schuldigen stirbt, buchstäblich gemacht."
     }
   ]
 }

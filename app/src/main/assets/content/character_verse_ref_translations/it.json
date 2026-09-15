@@ -3941,6 +3941,151 @@
       "character_id": "shunammite-woman",
       "position": 3,
       "caption": "Il ragazzo starnutisce sette volte e apre gli occhi"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 0,
+      "caption": "Consultata dal sacerdote e dagli ufficiali reali"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 1,
+      "caption": "Conferma il giudizio di cui il Libro avverte"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 2,
+      "caption": "Promette a Giosia che non vedrà il disastro durante la sua vita, perché il suo cuore era umile"
+    },
+    {
+      "character_id": "baruch",
+      "position": 0,
+      "caption": "Scrive tutte le parole di Geremia sotto sua dettatura"
+    },
+    {
+      "character_id": "baruch",
+      "position": 1,
+      "caption": "Il re taglia e brucia il rotolo colonna per colonna"
+    },
+    {
+      "character_id": "baruch",
+      "position": 2,
+      "caption": "Riscrive tutto di nuovo, con altro aggiunto"
+    },
+    {
+      "character_id": "baruch",
+      "position": 3,
+      "caption": "Detto di accontentarsi semplicemente di sopravvivere al disastro imminente"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 0,
+      "caption": "Dice al re che Geremia è stato lasciato a morire di fame nella cisterna"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 1,
+      "caption": "Usa vecchi stracci per evitare che le corde feriscano Geremia mentre viene tirato fuori"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 2,
+      "caption": "Promesso: \"certamente ti libererò... perché hai confidato in me\""
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 0,
+      "caption": "Nominato governatore su coloro rimasti nel paese"
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 1,
+      "caption": "\"Non abbiate paura di servire i Caldei... andrà bene per voi\""
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 2,
+      "caption": "Assassinato da Ismaele, della famiglia reale"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 0,
+      "caption": "Insediato come re da Nabucodonosor"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 1,
+      "caption": "Si ribella al re di Babilonia"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 2,
+      "caption": "I suoi figli uccisi davanti a lui; poi i suoi occhi accecati"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 3,
+      "caption": "Condannato per aver infranto il suo giuramento"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 0,
+      "caption": "Diventa re a diciotto anni, regna tre mesi"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 1,
+      "caption": "Si arrende al re di Babilonia"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 2,
+      "caption": "Rilasciato dalla prigione decenni dopo, trattato con gentilezza"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 3,
+      "caption": "Mangia regolarmente alla tavola stessa del re per il resto della sua vita"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 0,
+      "caption": "Chiedono dove sia il neonato re dei Giudei"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 1,
+      "caption": "\"Abbiamo visto la sua stella in Oriente, e siamo venuti ad adorarlo\""
+    },
+    {
+      "character_id": "the-magi",
+      "position": 2,
+      "caption": "Presentano doni di oro, incenso e mirra"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 3,
+      "caption": "Avvertiti in sogno, tornano a casa per un'altra strada"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 0,
+      "caption": "Un prigioniero, colpevole di insurrezione e omicidio"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 1,
+      "caption": "Pilato offre alla folla una scelta tra lui e Gesù"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 2,
+      "caption": "La folla esige che Barabba sia rilasciato"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 3,
+      "caption": "Rilasciato, mentre Gesù è consegnato per essere crocifisso"
     }
   ]
 }

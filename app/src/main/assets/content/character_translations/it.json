@@ -1051,6 +1051,46 @@
       "character_id": "shunammite-woman",
       "name": "La sunammita",
       "intro": "Una donna benestante che costruì per Eliseo una stanza in cui alloggiare ogni volta che passava -- e il cui figlio, a lungo pregato, egli in seguito risuscitò dopo la sua morte improvvisa."
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "name": "Culda la profetessa",
+      "intro": "Una profetessa consultata dagli ufficiali del re Giosia dopo che fu ritrovato il Libro della Legge da lungo tempo perduto -- la sua parola confermò sia il giudizio imminente sia la ricompensa per la risposta umile di Giosia."
+    },
+    {
+      "character_id": "baruch",
+      "name": "Baruc",
+      "intro": "Il fedele scriba di Geremia, che scrisse le parole del profeta sotto sua dettatura -- e vide il re Ioiachim bruciare il rotolo, pezzo per pezzo, nel fuoco."
+    },
+    {
+      "character_id": "ebed-melech",
+      "name": "Ebed-Melec",
+      "intro": "Un funzionario etiope alla corte reale che salvò Geremia da una cisterna fangosa dove era stato lasciato a morire, e a cui fu promesso che la sua vita sarebbe stata risparmiata per questo."
+    },
+    {
+      "character_id": "gedaliah",
+      "name": "Godolia",
+      "intro": "Il governatore nominato sul resto di Giuda dopo la caduta di Gerusalemme, che esortò il popolo a stabilirsi pacificamente sotto Babilonia -- e fu assassinato per questo entro pochi mesi."
+    },
+    {
+      "character_id": "zedekiah",
+      "name": "Sedecia",
+      "intro": "L'ultimo re di Giuda, insediato da Babilonia e vincolato da giuramento a servirla -- la cui ribellione portò all'assedio finale, alla caduta della città, e ai suoi stessi figli uccisi davanti a lui prima che i suoi occhi fossero accecati."
+    },
+    {
+      "character_id": "jehoiachin",
+      "name": "Ioiachin",
+      "intro": "Un giovane re che regnò solo tre mesi prima che Gerusalemme cadesse in mano a Babilonia -- e che, decenni dopo in esilio, fu inaspettatamente rilasciato dalla prigione e ricevette un posto d'onore alla tavola del re babilonese."
+    },
+    {
+      "character_id": "the-magi",
+      "name": "I magi",
+      "intro": "Sapienti dall'Oriente che seguirono una stella per adorare il neonato re dei Giudei, e i cui doni di oro, incenso e mirra hanno plasmato l'immaginario natalizio da allora."
+    },
+    {
+      "character_id": "barabbas",
+      "name": "Barabba",
+      "intro": "Un ribelle e assassino condannato, rilasciato al posto di Gesù quando alla folla fu data la scelta a Pasqua -- un innocente che muore al posto di un colpevole, reso letterale."
     }
   ]
 }

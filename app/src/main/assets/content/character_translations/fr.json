@@ -1051,6 +1051,46 @@
       "character_id": "shunammite-woman",
       "name": "La Sunamite",
       "intro": "Une femme aisée qui fit construire pour Élisée une chambre où loger chaque fois qu'il passait -- et dont il ressuscita plus tard le fils, longtemps espéré, après sa mort soudaine."
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "name": "Hulda la prophétesse",
+      "intro": "Une prophétesse consultée par les officiels du roi Josias après que le Livre de la Loi longtemps perdu fut retrouvé -- sa parole confirma à la fois le jugement à venir et la récompense pour la réponse humble de Josias."
+    },
+    {
+      "character_id": "baruch",
+      "name": "Baruch",
+      "intro": "Le fidèle scribe de Jérémie, qui écrivit les paroles du prophète sous sa dictée -- et vit le roi Jojakim brûler le rouleau, morceau par morceau, dans un feu."
+    },
+    {
+      "character_id": "ebed-melech",
+      "name": "Ébed-Mélec",
+      "intro": "Un officiel éthiopien de la cour royale qui sauva Jérémie d'une citerne boueuse où il avait été laissé pour mourir, et à qui il fut promis que sa propre vie serait épargnée pour cela."
+    },
+    {
+      "character_id": "gedaliah",
+      "name": "Guedalia",
+      "intro": "Le gouverneur nommé sur le reste de Juda après la chute de Jérusalem, qui exhorta le peuple à s'installer paisiblement sous Babylone -- et fut assassiné pour cela en quelques mois."
+    },
+    {
+      "character_id": "zedekiah",
+      "name": "Sédécias",
+      "intro": "Le dernier roi de Juda, installé par Babylone et lié par serment à la servir -- dont la rébellion apporta le siège final, la chute de la ville, et ses propres fils tués devant ses yeux avant qu'ils ne soient crevés."
+    },
+    {
+      "character_id": "jehoiachin",
+      "name": "Yehoyakîn",
+      "intro": "Un jeune roi qui régna seulement trois mois avant que Jérusalem ne tombe aux mains de Babylone -- et qui, des décennies plus tard en exil, fut inopinément libéré de prison et reçut une place d'honneur à la table du roi babylonien."
+    },
+    {
+      "character_id": "the-magi",
+      "name": "Les mages",
+      "intro": "Des sages venus d'Orient qui suivirent une étoile pour adorer le roi des Juifs nouveau-né, et dont les présents d'or, d'encens et de myrrhe ont façonné l'imagerie de Noël depuis lors."
+    },
+    {
+      "character_id": "barabbas",
+      "name": "Barabbas",
+      "intro": "Un rebelle et meurtrier condamné, libéré à la place de Jésus lorsque la foule reçut le choix à la Pâque -- un innocent mourant à la place d'un coupable, rendu littéral."
     }
   ]
 }

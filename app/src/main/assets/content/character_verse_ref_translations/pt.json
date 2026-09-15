@@ -3941,6 +3941,151 @@
       "character_id": "shunammite-woman",
       "position": 3,
       "caption": "O menino espirra sete vezes e abre os olhos"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 0,
+      "caption": "Consultada pelo sacerdote e pelos oficiais reais"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 1,
+      "caption": "Confirma o julgamento sobre o qual o Livro adverte"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 2,
+      "caption": "Promete a Josias que ele não verá o desastre em sua vida, porque seu coração era humilde"
+    },
+    {
+      "character_id": "baruch",
+      "position": 0,
+      "caption": "Escreve todas as palavras de Jeremias sob seu ditado"
+    },
+    {
+      "character_id": "baruch",
+      "position": 1,
+      "caption": "O rei corta e queima o rolo coluna por coluna"
+    },
+    {
+      "character_id": "baruch",
+      "position": 2,
+      "caption": "Escreve tudo de novo, com mais acrescentado"
+    },
+    {
+      "character_id": "baruch",
+      "position": 3,
+      "caption": "Dito para se contentar apenas em sobreviver ao desastre vindouro"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 0,
+      "caption": "Diz ao rei que Jeremias foi deixado para morrer de fome na cisterna"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 1,
+      "caption": "Usa panos velhos para evitar que as cordas cortem Jeremias enquanto ele é puxado para fora"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 2,
+      "caption": "Prometido: \"certamente te livrarei... porque confiaste em mim\""
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 0,
+      "caption": "Nomeado governador sobre os que ficaram na terra"
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 1,
+      "caption": "\"Não temais servir os caldeus... será bom para vós\""
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 2,
+      "caption": "Assassinado por Ismael, da família real"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 0,
+      "caption": "Instalado como rei por Nabucodonosor"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 1,
+      "caption": "Rebela-se contra o rei da Babilônia"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 2,
+      "caption": "Seus filhos mortos diante dele; depois seus próprios olhos vazados"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 3,
+      "caption": "Condenado por quebrar seu juramento"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 0,
+      "caption": "Torna-se rei aos dezoito anos, reina três meses"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 1,
+      "caption": "Rende-se ao rei da Babilônia"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 2,
+      "caption": "Libertado da prisão décadas depois, tratado com bondade"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 3,
+      "caption": "Come regularmente à própria mesa do rei pelo resto de sua vida"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 0,
+      "caption": "Perguntam onde está o recém-nascido rei dos judeus"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 1,
+      "caption": "\"Vimos a sua estrela no oriente, e viemos adorá-lo\""
+    },
+    {
+      "character_id": "the-magi",
+      "position": 2,
+      "caption": "Apresentam presentes de ouro, incenso e mirra"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 3,
+      "caption": "Advertidos em sonho, voltam para casa por outro caminho"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 0,
+      "caption": "Um prisioneiro, culpado de insurreição e assassinato"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 1,
+      "caption": "Pilatos oferece à multidão uma escolha entre ele e Jesus"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 2,
+      "caption": "A multidão exige que Barrabás seja solto"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 3,
+      "caption": "Solto, enquanto Jesus é entregue para ser crucificado"
     }
   ]
 }
