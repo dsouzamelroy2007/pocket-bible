@@ -1091,6 +1091,46 @@
       "character_id": "barabbas",
       "name": "Barabbas",
       "intro": "Ein verurteilter Aufrührer und Mörder, der anstelle Jesu freigelassen wurde, als der Menge am Passahfest die Wahl gegeben wurde -- ein unschuldiger Mann, der anstelle eines schuldigen stirbt, buchstäblich gemacht."
+    },
+    {
+      "character_id": "malchus",
+      "name": "Malchus",
+      "intro": "Der Diener des Hohepriesters, dessen Ohr Petrus im Garten Gethsemane abschlug -- und den Jesus heilte, sein letztes verzeichnetes Wunder vor dem Kreuz."
+    },
+    {
+      "character_id": "jairus",
+      "name": "Jairus",
+      "intro": "Ein Synagogenvorsteher, der Jesus zu Füßen fiel und ihn anflehte, seine sterbende Tochter zu heilen -- und dessen Glaube weiter geprüft wurde, als die Nachricht kam, dass sie bereits gestorben war."
+    },
+    {
+      "character_id": "cleopas",
+      "name": "Kleopas",
+      "intro": "Einer von zwei Jüngern, die am ersten Ostertag nach Emmaus wanderten, deren Herzen „brannten\", als der auferstandene Jesus -- zunächst nicht erkannt -- ihnen unterwegs die Schriften öffnete."
+    },
+    {
+      "character_id": "joanna",
+      "name": "Johanna",
+      "intro": "Die Frau von Herodes' Verwalter Chuza, die ihre eigenen Mittel einsetzte, um Jesu Dienst zu unterstützen, und die zu den Frauen gehörte, die das leere Grab fanden."
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "name": "Der Hauptmann von Kapernaum",
+      "intro": "Ein römischer Militäroffizier, dessen Zuversicht, dass Jesus seinen Diener allein durch ein Wort heilen könnte -- ohne auch nur ins Haus zu kommen -- Jesus selbst erstaunte."
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "name": "Der reuige Schächer",
+      "intro": "Einer von zwei Verbrechern, die zusammen mit Jesus gekreuzigt wurden, der den anderen dafür tadelte, ihn zu verspotten, und einfach darum bat, sich seiner zu erinnern -- und dem noch am selben Tag das Paradies verheißen wurde."
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "name": "Der reiche junge Mann",
+      "intro": "Ein Mann, der von Jugend an jedes Gebot gehalten hatte, aber traurig wegging, als Jesus ihm sagte, alles zu verkaufen, was er hatte -- unfähig, das loszulassen, was er am meisten liebte."
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "name": "Die Frau, die beim Ehebruch ertappt wurde",
+      "intro": "Eine Frau, die von Anklägern, die ihre Steinigung forderten, vor Jesus gezerrt wurde, die sich mit ihm allein wiederfand, nachdem jeder Ankläger weggegangen war -- und die Worte hörte: „Auch ich verdamme dich nicht.\""
     }
   ]
 }

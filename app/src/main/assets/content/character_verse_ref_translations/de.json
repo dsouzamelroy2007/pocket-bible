@@ -4086,6 +4086,141 @@
       "character_id": "barabbas",
       "position": 3,
       "caption": "Freigelassen, während Jesus zur Kreuzigung übergeben wird"
+    },
+    {
+      "character_id": "malchus",
+      "position": 0,
+      "caption": "Petrus schlägt ihm mit einem Schwert das rechte Ohr ab"
+    },
+    {
+      "character_id": "malchus",
+      "position": 1,
+      "caption": "Jesus berührt sein Ohr und heilt ihn"
+    },
+    {
+      "character_id": "jairus",
+      "position": 0,
+      "caption": "Fällt Jesus zu Füßen, fleht ihn an, zu kommen und seine Tochter zu heilen"
+    },
+    {
+      "character_id": "jairus",
+      "position": 1,
+      "caption": "Es wird ihm gesagt: „deine Tochter ist gestorben; was bemühst du den Meister noch weiter?\""
+    },
+    {
+      "character_id": "jairus",
+      "position": 2,
+      "caption": "Jesus: „Fürchte dich nicht, glaube nur\""
+    },
+    {
+      "character_id": "jairus",
+      "position": 3,
+      "caption": "„Talita kumi\" -- das Mädchen steht auf und geht umher"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 0,
+      "caption": "Fragt den Fremden, ob er der Einzige sei, der die Nachricht nicht gehört habe"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 1,
+      "caption": "„Wir aber hofften, er sei es, der Israel erlösen sollte\""
+    },
+    {
+      "character_id": "cleopas",
+      "position": 2,
+      "caption": "Erkennt Jesus beim Brotbrechen"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 3,
+      "caption": "„Brannte nicht unser Herz in uns, als er mit uns redete auf dem Wege?\""
+    },
+    {
+      "character_id": "joanna",
+      "position": 0,
+      "caption": "Unter den Frauen, die Jesus aus ihren eigenen Mitteln unterstützten"
+    },
+    {
+      "character_id": "joanna",
+      "position": 1,
+      "caption": "Eine der Frauen, die den Aposteln vom leeren Grab berichten"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 0,
+      "caption": "„Sprich nur ein Wort, so wird mein Knecht gesund\""
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 1,
+      "caption": "Versteht Autorität: er sagt geh, und einer geht"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 2,
+      "caption": "Jesus „verwunderte sich\": „Ich habe solchen Glauben nicht gefunden\""
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 3,
+      "caption": "Sein Knecht wird in ebendiesem Augenblick gesund"
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 0,
+      "caption": "Tadelt den anderen Verbrecher: „wir zwar mit Recht\""
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 1,
+      "caption": "„Jesus, gedenke meiner, wenn du in dein Reich kommst\""
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 2,
+      "caption": "„Heute wirst du mit mir im Paradiese sein\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 0,
+      "caption": "„Dies alles habe ich gehalten von meiner Jugend an\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 1,
+      "caption": "Jesus sah ihn an und gewann ihn lieb: „geh hin, verkaufe, was du hast\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 2,
+      "caption": "Geht traurig weg, denn er hatte viele Güter"
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 3,
+      "caption": "Jesus: „Bei den Menschen ist es unmöglich, aber nicht bei Gott\""
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 0,
+      "caption": "Vor Jesus gebracht, öffentlich angeklagt"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 1,
+      "caption": "„Wer unter euch ohne Sünde ist, der werfe den ersten Stein\""
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 2,
+      "caption": "Die Ankläger gehen einer nach dem anderen weg, bis keiner mehr übrig ist"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 3,
+      "caption": "„So verdamme ich dich auch nicht. Geh hin und sündige hinfort nicht mehr\""
     }
   ]
 }

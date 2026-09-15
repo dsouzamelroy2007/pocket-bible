@@ -1091,6 +1091,46 @@
       "character_id": "barabbas",
       "name": "Barabba",
       "intro": "Un ribelle e assassino condannato, rilasciato al posto di Gesù quando alla folla fu data la scelta a Pasqua -- un innocente che muore al posto di un colpevole, reso letterale."
+    },
+    {
+      "character_id": "malchus",
+      "name": "Malco",
+      "intro": "Il servo del sommo sacerdote a cui Pietro tagliò l'orecchio nel giardino del Getsemani -- e che Gesù guarì, il suo ultimo miracolo registrato prima della croce."
+    },
+    {
+      "character_id": "jairus",
+      "name": "Giairo",
+      "intro": "Un capo della sinagoga che cadde ai piedi di Gesù supplicandolo di guarire la sua figlia morente -- e la cui fede fu messa ulteriormente alla prova quando giunse la notizia che era già morta."
+    },
+    {
+      "character_id": "cleopas",
+      "name": "Cleofa",
+      "intro": "Uno di due discepoli che camminavano verso Emmaus il primo giorno di Pasqua, il cui cuore \"ardeva\" mentre Gesù risorto -- non riconosciuto all'inizio -- apriva loro le Scritture lungo la via."
+    },
+    {
+      "character_id": "joanna",
+      "name": "Giovanna",
+      "intro": "La moglie di Cusa, amministratore di Erode, che usò le proprie risorse per sostenere il ministero di Gesù e fu tra le donne che trovarono la tomba vuota."
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "name": "Il centurione di Cafarnao",
+      "intro": "Un ufficiale militare romano la cui fiducia che Gesù potesse guarire il suo servo con una sola parola -- senza nemmeno venire a casa -- stupì Gesù stesso."
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "name": "Il buon ladrone",
+      "intro": "Uno di due criminali crocifissi accanto a Gesù, che rimproverò l'altro per averlo deriso e chiese semplicemente di essere ricordato -- e a cui fu promesso il paradiso quello stesso giorno."
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "name": "Il giovane ricco",
+      "intro": "Un uomo che aveva osservato ogni comandamento fin dalla giovinezza, ma se ne andò triste quando Gesù gli disse di vendere tutto ciò che aveva -- incapace di lasciare andare ciò che amava di più."
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "name": "La donna sorpresa in adulterio",
+      "intro": "Una donna trascinata davanti a Gesù da accusatori che esigevano che fosse lapidata, che si ritrovò sola con lui dopo che ogni accusatore se ne fu andato -- e udì le parole: \"Neppure io ti condanno.\""
     }
   ]
 }

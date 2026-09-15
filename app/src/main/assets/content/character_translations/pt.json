@@ -1091,6 +1091,46 @@
       "character_id": "barabbas",
       "name": "Barrabás",
       "intro": "Um rebelde e assassino condenado, solto no lugar de Jesus quando a multidão recebeu a escolha na Páscoa -- um homem inocente morrendo no lugar de um culpado, tornado literal."
+    },
+    {
+      "character_id": "malchus",
+      "name": "Malco",
+      "intro": "O servo do sumo sacerdote cuja orelha Pedro cortou no jardim do Getsêmani -- e a quem Jesus curou, seu último milagre registrado antes da cruz."
+    },
+    {
+      "character_id": "jairus",
+      "name": "Jairo",
+      "intro": "Um líder de sinagoga que caiu aos pés de Jesus implorando que curasse sua filha moribunda -- e cuja fé foi ainda mais testada quando chegou a notícia de que ela já havia morrido."
+    },
+    {
+      "character_id": "cleopas",
+      "name": "Cléopas",
+      "intro": "Um dos dois discípulos caminhando para Emaús no primeiro dia de Páscoa, cujos corações \"ardiam\" enquanto o Jesus ressuscitado -- não reconhecido a princípio -- lhes abria as Escrituras pelo caminho."
+    },
+    {
+      "character_id": "joanna",
+      "name": "Joana",
+      "intro": "A esposa de Cuza, administrador de Herodes, que usou seus próprios recursos para apoiar o ministério de Jesus e estava entre as mulheres que encontraram o sepulcro vazio."
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "name": "O centurião de Cafarnaum",
+      "intro": "Um oficial militar romano cuja confiança de que Jesus poderia curar seu servo com uma única palavra -- sem sequer vir à casa -- surpreendeu o próprio Jesus."
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "name": "O bom ladrão",
+      "intro": "Um dos dois criminosos crucificados ao lado de Jesus, que repreendeu o outro por zombar dele e simplesmente pediu para ser lembrado -- e recebeu a promessa do paraíso naquele mesmo dia."
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "name": "O jovem rico",
+      "intro": "Um homem que guardava todo mandamento desde a juventude, mas foi embora triste quando Jesus lhe disse para vender tudo o que tinha -- incapaz de abrir mão do que mais amava."
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "name": "A mulher surpreendida em adultério",
+      "intro": "Uma mulher arrastada diante de Jesus por acusadores exigindo que fosse apedrejada, que se viu sozinha com ele depois que cada acusador se afastou -- e ouviu as palavras \"nem eu te condeno.\""
     }
   ]
 }

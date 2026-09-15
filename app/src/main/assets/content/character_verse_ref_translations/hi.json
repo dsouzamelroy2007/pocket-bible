@@ -4086,6 +4086,141 @@
       "character_id": "barabbas",
       "position": 3,
       "caption": "रिहा किया गया, जबकि यीशु को क्रूस पर चढ़ाए जाने के लिए सौंप दिया गया"
+    },
+    {
+      "character_id": "malchus",
+      "position": 0,
+      "caption": "पतरस तलवार से उसका दाहिना कान काट देता है"
+    },
+    {
+      "character_id": "malchus",
+      "position": 1,
+      "caption": "यीशु उसके कान को छूता है और उसे चंगा करता है"
+    },
+    {
+      "character_id": "jairus",
+      "position": 0,
+      "caption": "यीशु के चरणों में गिरता है, उससे आकर अपनी पुत्री को चंगा करने की विनती करता है"
+    },
+    {
+      "character_id": "jairus",
+      "position": 1,
+      "caption": "बताया गया: \"तेरी पुत्री मर गई; अब गुरु को और क्यों कष्ट देना?\""
+    },
+    {
+      "character_id": "jairus",
+      "position": 2,
+      "caption": "यीशु: \"मत डर, केवल विश्वास कर\""
+    },
+    {
+      "character_id": "jairus",
+      "position": 3,
+      "caption": "\"तलीता कूमी\" -- लड़की उठकर चलने लगती है"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 0,
+      "caption": "अजनबी से पूछता है कि क्या वही एकमात्र है जिसने खबर नहीं सुनी"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 1,
+      "caption": "\"हम आशा करते थे कि वही है जो इस्राएल को छुड़ाएगा\""
+    },
+    {
+      "character_id": "cleopas",
+      "position": 2,
+      "caption": "रोटी तोड़ते समय यीशु को पहचानता है"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 3,
+      "caption": "\"क्या हमारा हृदय भीतर ही भीतर न जल रहा था जब वह मार्ग में हम से बातें कर रहा था?\""
+    },
+    {
+      "character_id": "joanna",
+      "position": 0,
+      "caption": "उन स्त्रियों में से जिन्होंने अपने ही साधनों से यीशु का समर्थन किया"
+    },
+    {
+      "character_id": "joanna",
+      "position": 1,
+      "caption": "उन स्त्रियों में से एक जो प्रेरितों को खाली कब्र की सूचना देती है"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 0,
+      "caption": "\"केवल एक शब्द कह दे, और मेरा सेवक चंगा हो जाएगा\""
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 1,
+      "caption": "अधिकार को समझता है: वह कहता है जा, और कोई जाता है"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 2,
+      "caption": "यीशु \"अचम्भित\" हुआ: \"मैंने ऐसा विश्वास नहीं पाया\""
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 3,
+      "caption": "उसी क्षण उसका सेवक चंगा हो जाता है"
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 0,
+      "caption": "दूसरे अपराधी को डांटता है: \"हम तो न्याय से\""
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 1,
+      "caption": "\"हे यीशु, जब तू अपने राज्य में आए तो मुझे स्मरण करना\""
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 2,
+      "caption": "\"आज ही तू मेरे साथ स्वर्गलोक में होगा\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 0,
+      "caption": "\"इन सब को मैंने अपनी युवावस्था से माना है\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 1,
+      "caption": "यीशु ने उसे देखकर उससे प्रेम किया: \"जा, जो कुछ तेरे पास है उसे बेच दे\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 2,
+      "caption": "उदास होकर चला जाता है, क्योंकि उसके पास बहुत सम्पत्ति थी"
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 3,
+      "caption": "यीशु: \"मनुष्यों के लिए यह असंभव है, परन्तु परमेश्वर के लिए नहीं\""
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 0,
+      "caption": "यीशु के सामने लाई गई, सार्वजनिक रूप से आरोपित"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 1,
+      "caption": "\"तुम में जो निष्पाप हो, वही पहले उस पर पत्थर मारे\""
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 2,
+      "caption": "अभियोगी एक-एक करके चले जाते हैं, जब तक कोई नहीं बचता"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 3,
+      "caption": "\"मैं भी तुझे दोषी नहीं ठहराता। जा, और फिर पाप न करना\""
     }
   ]
 }

@@ -4086,6 +4086,141 @@
       "character_id": "barabbas",
       "position": 3,
       "caption": "सोडला गेला, तर येशूला वधस्तंभावर खिळण्यासाठी सोपवले गेले"
+    },
+    {
+      "character_id": "malchus",
+      "position": 0,
+      "caption": "पेत्र तलवारीने त्याचा उजवा कान कापतो"
+    },
+    {
+      "character_id": "malchus",
+      "position": 1,
+      "caption": "येशू त्याच्या कानाला स्पर्श करतो आणि त्याला बरे करतो"
+    },
+    {
+      "character_id": "jairus",
+      "position": 0,
+      "caption": "येशूच्या पायाशी पडतो, त्याला येऊन आपल्या मुलीला बरे करण्याची विनवणी करतो"
+    },
+    {
+      "character_id": "jairus",
+      "position": 1,
+      "caption": "सांगितले गेले: \"तुझी मुलगी मरण पावली आहे; गुरुजींना आणखी त्रास का द्यायचा?\""
+    },
+    {
+      "character_id": "jairus",
+      "position": 2,
+      "caption": "येशू: \"भिऊ नकोस, फक्त विश्वास ठेव\""
+    },
+    {
+      "character_id": "jairus",
+      "position": 3,
+      "caption": "\"तलिथा कूमी\" -- ती मुलगी उठून चालू लागते"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 0,
+      "caption": "तो अनोळखी माणूस ही बातमी न ऐकलेला एकमेव आहे का असे विचारतो"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 1,
+      "caption": "\"आम्हाला आशा होती की तोच इस्राएलची सुटका करील\""
+    },
+    {
+      "character_id": "cleopas",
+      "position": 2,
+      "caption": "भाकर मोडताना येशूला ओळखतो"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 3,
+      "caption": "\"वाटेत तो आपल्याशी बोलत असताना आपले अंतःकरण आतल्याआत जळत नव्हते का?\""
+    },
+    {
+      "character_id": "joanna",
+      "position": 0,
+      "caption": "आपल्याच साधनांतून येशूला पाठिंबा देणाऱ्या स्त्रियांपैकी"
+    },
+    {
+      "character_id": "joanna",
+      "position": 1,
+      "caption": "प्रेषितांना रिकाम्या कबरीबद्दल सांगणाऱ्या स्त्रियांपैकी एक"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 0,
+      "caption": "\"फक्त एक शब्द बोल, आणि माझा सेवक बरा होईल\""
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 1,
+      "caption": "अधिकार समजतो: तो जा म्हणतो, आणि कोणी जातो"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 2,
+      "caption": "येशू \"आश्चर्यचकित\" झाला: \"मला असा विश्वास सापडला नाही\""
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 3,
+      "caption": "त्याच क्षणी त्याचा सेवक बरा होतो"
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 0,
+      "caption": "दुसऱ्या गुन्हेगाराला दटावतो: \"आम्ही तर न्यायानेच\""
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 1,
+      "caption": "\"येशू, तू तुझ्या राज्यात येशील तेव्हा माझी आठवण ठेव\""
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 2,
+      "caption": "\"आज तू माझ्याबरोबर नंदनवनात असशील\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 0,
+      "caption": "\"या सर्व गोष्टी मी माझ्या तारुण्यापासून पाळल्या आहेत\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 1,
+      "caption": "येशूने त्याच्याकडे पाहून त्याच्यावर प्रेम केले: \"जा, तुझे जे आहे ते विकून टाक\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 2,
+      "caption": "दुःखी होऊन निघून जातो, कारण त्याच्याकडे मोठी संपत्ती होती"
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 3,
+      "caption": "येशू: \"माणसांना हे अशक्य आहे, पण देवाला नाही\""
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 0,
+      "caption": "येशूसमोर आणलेली, जाहीरपणे आरोपित"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 1,
+      "caption": "\"तुमच्यापैकी जो निष्पाप असेल त्याने पहिला दगड मारावा\""
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 2,
+      "caption": "आरोप करणारे एकामागून एक निघून जातात, जोपर्यंत कोणीही उरत नाही"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 3,
+      "caption": "\"मीही तुला दोषी ठरवत नाही. जा, आणि यापुढे पाप करू नकोस\""
     }
   ]
 }

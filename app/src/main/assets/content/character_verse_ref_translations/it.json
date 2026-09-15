@@ -4086,6 +4086,141 @@
       "character_id": "barabbas",
       "position": 3,
       "caption": "Rilasciato, mentre Gesù è consegnato per essere crocifisso"
+    },
+    {
+      "character_id": "malchus",
+      "position": 0,
+      "caption": "Pietro gli taglia l'orecchio destro con una spada"
+    },
+    {
+      "character_id": "malchus",
+      "position": 1,
+      "caption": "Gesù tocca il suo orecchio e lo guarisce"
+    },
+    {
+      "character_id": "jairus",
+      "position": 0,
+      "caption": "Cade ai piedi di Gesù, lo supplica di venire a guarire sua figlia"
+    },
+    {
+      "character_id": "jairus",
+      "position": 1,
+      "caption": "Gli viene detto: \"tua figlia è morta; perché disturbare ancora il Maestro?\""
+    },
+    {
+      "character_id": "jairus",
+      "position": 2,
+      "caption": "Gesù: \"Non temere, soltanto credi\""
+    },
+    {
+      "character_id": "jairus",
+      "position": 3,
+      "caption": "\"Talitha cumi\" -- la fanciulla si alza e cammina"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 0,
+      "caption": "Chiede allo straniero se è l'unico che non ha sentito la notizia"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 1,
+      "caption": "\"Noi speravamo che fosse lui a liberare Israele\""
+    },
+    {
+      "character_id": "cleopas",
+      "position": 2,
+      "caption": "Riconosce Gesù nello spezzare il pane"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 3,
+      "caption": "\"Il nostro cuore non ardeva forse in noi mentre ci parlava lungo la via?\""
+    },
+    {
+      "character_id": "joanna",
+      "position": 0,
+      "caption": "Tra le donne che sostenevano Gesù con i propri mezzi"
+    },
+    {
+      "character_id": "joanna",
+      "position": 1,
+      "caption": "Una delle donne che riferisce agli apostoli della tomba vuota"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 0,
+      "caption": "\"Dì soltanto una parola, e il mio servo sarà guarito\""
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 1,
+      "caption": "Comprende l'autorità: dice va, e uno va"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 2,
+      "caption": "Gesù \"si meravigliò\": \"Non ho trovato una fede così grande\""
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 3,
+      "caption": "Il suo servo guarito in quello stesso momento"
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 0,
+      "caption": "Rimprovera l'altro criminale: \"e noi giustamente\""
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 1,
+      "caption": "\"Gesù, ricordati di me quando entrerai nel tuo regno\""
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 2,
+      "caption": "\"Oggi sarai con me in paradiso\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 0,
+      "caption": "\"Tutte queste cose le ho osservate fin dalla mia giovinezza\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 1,
+      "caption": "Gesù, guardandolo, lo amò: \"va', vendi ciò che hai\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 2,
+      "caption": "Se ne va rattristato, perché aveva molti beni"
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 3,
+      "caption": "Gesù: \"Agli uomini questo è impossibile, ma non a Dio\""
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 0,
+      "caption": "Portata davanti a Gesù, accusata pubblicamente"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 1,
+      "caption": "\"Chi di voi è senza peccato, getti per primo la pietra\""
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 2,
+      "caption": "Gli accusatori se ne vanno, uno per uno, finché non ne rimane nessuno"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 3,
+      "caption": "\"Neppure io ti condanno. Va', e d'ora in poi non peccare più\""
     }
   ]
 }

@@ -1091,6 +1091,46 @@
       "character_id": "barabbas",
       "name": "Barabbas",
       "intro": "Un rebelle et meurtrier condamné, libéré à la place de Jésus lorsque la foule reçut le choix à la Pâque -- un innocent mourant à la place d'un coupable, rendu littéral."
+    },
+    {
+      "character_id": "malchus",
+      "name": "Malchus",
+      "intro": "Le serviteur du souverain sacrificateur dont Pierre trancha l'oreille dans le jardin de Gethsémané -- et que Jésus guérit, son dernier miracle rapporté avant la croix."
+    },
+    {
+      "character_id": "jairus",
+      "name": "Jaïrus",
+      "intro": "Un chef de synagogue qui tomba aux pieds de Jésus le suppliant de guérir sa fille mourante -- et dont la foi fut mise à l'épreuve davantage quand vint la nouvelle qu'elle était déjà morte."
+    },
+    {
+      "character_id": "cleopas",
+      "name": "Cléopas",
+      "intro": "L'un de deux disciples marchant vers Emmaüs le premier jour de Pâques, dont les cœurs « brûlaient » tandis que Jésus ressuscité -- non reconnu au début -- leur ouvrait les Écritures en chemin."
+    },
+    {
+      "character_id": "joanna",
+      "name": "Jeanne",
+      "intro": "L'épouse de Chuza, intendant d'Hérode, qui utilisa ses propres ressources pour soutenir le ministère de Jésus et fut parmi les femmes qui trouvèrent le tombeau vide."
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "name": "Le centurion de Capharnaüm",
+      "intro": "Un officier militaire romain dont la confiance que Jésus pouvait guérir son serviteur par une seule parole -- sans même venir à la maison -- étonna Jésus lui-même."
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "name": "Le bon larron",
+      "intro": "L'un de deux criminels crucifiés aux côtés de Jésus, qui réprimanda l'autre pour s'être moqué de lui et demanda simplement à être rappelé -- et se vit promettre le paradis ce jour même."
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "name": "Le jeune homme riche",
+      "intro": "Un homme qui avait observé tous les commandements depuis sa jeunesse, mais qui s'en alla triste quand Jésus lui dit de vendre tout ce qu'il avait -- incapable de lâcher ce qu'il aimait le plus."
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "name": "La femme surprise en adultère",
+      "intro": "Une femme traînée devant Jésus par des accusateurs exigeant qu'elle soit lapidée, qui se retrouva seule avec lui après le départ de chaque accusateur -- et entendit les mots : « Moi non plus, je ne te condamne pas. »"
     }
   ]
 }
