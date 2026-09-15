@@ -1131,6 +1131,46 @@
       "character_id": "the-woman-caught-in-adultery",
       "name": "Die Frau, die beim Ehebruch ertappt wurde",
       "intro": "Eine Frau, die von Anklägern, die ihre Steinigung forderten, vor Jesus gezerrt wurde, die sich mit ihm allein wiederfand, nachdem jeder Ankläger weggegangen war -- und die Worte hörte: „Auch ich verdamme dich nicht.\""
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "name": "Der durchs Dach herabgelassene Gelähmte",
+      "intro": "Ein gelähmter Mann, dessen Freunde, unfähig, durch die Menge zu Jesus zu gelangen, ein Dach aufrissen und ihn hinunterließen -- und dessen Sünden Jesus vergab, bevor er überhaupt seine Beine heilte."
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "name": "Die Frau mit dem Blutfluss",
+      "intro": "Eine Frau, die zwölf Jahre lang unter ständigem Blutfluss gelitten und alles für Ärzte ausgegeben hatte, ohne Linderung zu finden, die in einer Menge nach dem Saum von Jesu Gewand griff -- und sofort geheilt wurde."
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "name": "Die Witwe von Nain",
+      "intro": "Eine Witwe, die ihren einzigen Sohn begrub, als Jesus dem Trauerzug begegnete -- und der, von Mitleid bewegt, noch bevor sie überhaupt bat, ihren Sohn wieder zum Leben erweckte."
+    },
+    {
+      "character_id": "the-poor-widow",
+      "name": "Die arme Witwe",
+      "intro": "Eine Witwe, die zwei kleine Kupfermünzen in den Tempelschatz warf -- alles, was sie hatte -- während die Reichen von ihrem Überfluss gaben, und die Jesus über jeden anderen Geber an jenem Tag lobte."
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "name": "Die syrophönizische Frau",
+      "intro": "Eine heidnische Mutter, die Jesus anflehte, ihre von einem Dämon geplagte Tochter zu heilen, und deren beharrlicher, geistesgegenwärtiger Glaube angesichts seiner anfänglichen Ablehnung die Heilung ihrer Tochter erwirkte."
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "name": "Simon der Pharisäer",
+      "intro": "Ein Pharisäer, der Jesus zum Essen einlud, aber die grundlegenden Höflichkeiten der Gastfreundschaft vorenthielt -- und still zurechtgewiesen wurde, als eine sündige Frau Jesus die Ehre erwies, die er nicht erwiesen hatte."
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "name": "Der von Geburt an Blinde",
+      "intro": "Ein Mann, der von Geburt an blind war, von Jesus mit Schlamm und Waschen geheilt -- und dessen beständiges, zunehmend zuversichtliches Zeugnis unter feindseliger Befragung jeden religiösen Führer übertraf, der versuchte, ihn zu fangen."
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "name": "Die zehn Aussätzigen",
+      "intro": "Zehn aussätzige Männer, die auf Jesu Wort hin gemeinsam geheilt wurden, während sie unterwegs waren, sich den Priestern zu zeigen -- doch nur einer, ein Samariter, kehrte zurück, um zu danken."
     }
   ]
 }

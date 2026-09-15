@@ -4221,6 +4221,156 @@
       "character_id": "the-woman-caught-in-adultery",
       "position": 3,
       "caption": "\"Neppure io ti condanno. Va', e d'ora in poi non peccare più\""
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "position": 0,
+      "caption": "I suoi amici scavano attraverso il tetto per calarlo giù"
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "position": 1,
+      "caption": "Gesù, vedendo la loro fede: \"i tuoi peccati ti sono perdonati\""
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "position": 2,
+      "caption": "Cos'è più facile da dire -- perdonato, oppure alzati e cammina?"
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "position": 3,
+      "caption": "Si alza, prende il suo giaciglio, ed esce davanti a tutti"
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "position": 0,
+      "caption": "Dodici anni di sofferenza, peggiorata dopo molti medici"
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "position": 1,
+      "caption": "\"Se tocco anche solo le sue vesti, sarò guarita\""
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "position": 2,
+      "caption": "Immediatamente il flusso di sangue si ferma"
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "position": 3,
+      "caption": "\"Figliola, la tua fede ti ha salvata; va' in pace\""
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "position": 0,
+      "caption": "Porta fuori il suo unico figlio per la sepoltura, una vedova"
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "position": 1,
+      "caption": "Gesù \"ebbe compassione di lei\""
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "position": 2,
+      "caption": "\"Giovane, ti dico, alzati\""
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "position": 3,
+      "caption": "Gesù lo restituisce a sua madre"
+    },
+    {
+      "character_id": "the-poor-widow",
+      "position": 0,
+      "caption": "Mette due piccole monete di rame"
+    },
+    {
+      "character_id": "the-poor-widow",
+      "position": 1,
+      "caption": "\"Questa povera vedova ha messo più di tutti gli altri\""
+    },
+    {
+      "character_id": "the-poor-widow",
+      "position": 2,
+      "caption": "\"Lei, nella sua povertà, ha messo tutto quello che aveva per vivere\""
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "position": 0,
+      "caption": "Supplica Gesù di scacciare il demonio da sua figlia"
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "position": 1,
+      "caption": "La risposta iniziale di Gesù: \"lascia che prima si sazino i figli\""
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "position": 2,
+      "caption": "\"Anche i cagnolini sotto la tavola mangiano le briciole dei figli\""
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "position": 3,
+      "caption": "\"Per questa parola, va'\" -- il demonio ha lasciato sua figlia"
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "position": 0,
+      "caption": "Giudica Gesù nel suo cuore per aver lasciato che una donna peccatrice lo toccasse"
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "position": 1,
+      "caption": "\"Tu non mi hai dato acqua per i piedi\""
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "position": 2,
+      "caption": "\"Colui a cui si perdona poco, ama poco\""
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "position": 0,
+      "caption": "Unto con fango, gli viene detto di lavarsi nella piscina di Siloe"
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "position": 1,
+      "caption": "\"Una cosa so, che ero cieco e ora ci vedo\""
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "position": 2,
+      "caption": "\"Se costui non fosse da Dio, non potrebbe far nulla\""
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "position": 3,
+      "caption": "\"Signore, io credo,\" e lo adora"
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "position": 0,
+      "caption": "Dieci lebbrosi gridano pietà da lontano"
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "position": 1,
+      "caption": "\"Andate a mostrarvi ai sacerdoti\" -- purificati mentre vanno"
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "position": 2,
+      "caption": "Uno ritorna, lodando Dio, e cade ai piedi di Gesù"
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "position": 3,
+      "caption": "\"Non sono stati purificati tutti e dieci? Dove sono gli altri nove?\""
     }
   ]
 }

@@ -1131,6 +1131,46 @@
       "character_id": "the-woman-caught-in-adultery",
       "name": "La donna sorpresa in adulterio",
       "intro": "Una donna trascinata davanti a Gesù da accusatori che esigevano che fosse lapidata, che si ritrovò sola con lui dopo che ogni accusatore se ne fu andato -- e udì le parole: \"Neppure io ti condanno.\""
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "name": "Il paralitico calato dal tetto",
+      "intro": "Un uomo paralizzato i cui amici, incapaci di raggiungere Gesù attraverso la folla, sfondarono un tetto e lo calarono giù -- e i cui peccati Gesù perdonò prima ancora di guarirgli le gambe."
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "name": "La donna emorroissa",
+      "intro": "Una donna che soffriva di un flusso di sangue costante da dodici anni e aveva speso tutto in medici senza sollievo, che allungò la mano e toccò il bordo del mantello di Gesù tra la folla -- e fu istantaneamente guarita."
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "name": "La vedova di Nain",
+      "intro": "Una vedova che seppelliva il suo unico figlio quando Gesù incontrò il corteo funebre -- e, mosso a compassione prima ancora che lei chiedesse, resuscitò suo figlio."
+    },
+    {
+      "character_id": "the-poor-widow",
+      "name": "La povera vedova",
+      "intro": "Una vedova che mise due piccole monete di rame nel tesoro del Tempio -- tutto ciò che aveva -- mentre i ricchi davano dalla loro abbondanza, e che Gesù lodò sopra ogni altro donatore quel giorno."
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "name": "La donna sirofenicia",
+      "intro": "Una madre pagana che supplicò Gesù di guarire sua figlia tormentata da un demonio, e la cui fede persistente e pronta di fronte al suo rifiuto iniziale ottenne la guarigione della figlia."
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "name": "Simone il fariseo",
+      "intro": "Un fariseo che invitò Gesù a cena ma trattenne le cortesie basilari dell'ospitalità -- e fu discretamente corretto quando una donna peccatrice mostrò a Gesù l'onore che lui non aveva mostrato."
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "name": "Il cieco nato",
+      "intro": "Un uomo cieco dalla nascita, guarito da Gesù con fango e lavaggio -- e la cui testimonianza costante, sempre più sicura, sotto un interrogatorio ostile superò ogni capo religioso che cercava di intrappolarlo."
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "name": "I dieci lebbrosi",
+      "intro": "Dieci uomini affetti da lebbra, guariti insieme sulla parola di Gesù mentre andavano a mostrarsi ai sacerdoti -- sebbene solo uno, un samaritano, tornò a ringraziare."
     }
   ]
 }

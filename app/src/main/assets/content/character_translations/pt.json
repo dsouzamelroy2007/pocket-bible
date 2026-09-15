@@ -1131,6 +1131,46 @@
       "character_id": "the-woman-caught-in-adultery",
       "name": "A mulher surpreendida em adultério",
       "intro": "Uma mulher arrastada diante de Jesus por acusadores exigindo que fosse apedrejada, que se viu sozinha com ele depois que cada acusador se afastou -- e ouviu as palavras \"nem eu te condeno.\""
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "name": "O paralítico descido pelo telhado",
+      "intro": "Um homem paralisado cujos amigos, incapazes de alcançar Jesus por causa da multidão, abriram um telhado e o desceram -- e cujos pecados Jesus perdoou antes mesmo de curar suas pernas."
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "name": "A mulher com hemorragia",
+      "intro": "Uma mulher que sofria de hemorragia constante havia doze anos e gastara tudo com médicos sem alívio, que estendeu a mão e tocou a orla do manto de Jesus em meio à multidão -- e foi instantaneamente curada."
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "name": "A viúva de Naim",
+      "intro": "Uma viúva enterrando seu único filho quando Jesus encontrou o cortejo fúnebre -- e, movido de compaixão antes mesmo de ela pedir, ressuscitou seu filho."
+    },
+    {
+      "character_id": "the-poor-widow",
+      "name": "A viúva pobre",
+      "intro": "Uma viúva que colocou duas pequenas moedas de cobre no tesouro do Templo -- tudo o que tinha -- enquanto os ricos davam de sua abundância, e a quem Jesus elogiou acima de todos os outros doadores naquele dia."
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "name": "A mulher siro-fenícia",
+      "intro": "Uma mãe gentia que implorou a Jesus que curasse sua filha atormentada por um demônio, e cuja fé persistente e perspicaz diante da recusa inicial dele conquistou a cura de sua filha."
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "name": "Simão, o fariseu",
+      "intro": "Um fariseu que convidou Jesus para jantar mas negou as cortesias básicas da hospitalidade -- e foi discretamente corrigido quando uma mulher pecadora mostrou a Jesus a honra que ele não havia mostrado."
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "name": "O homem cego de nascença",
+      "intro": "Um homem cego de nascença, curado por Jesus com lama e lavagem -- e cujo testemunho firme e cada vez mais confiante sob interrogatório hostil superou todo líder religioso que tentava enredá-lo."
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "name": "Os dez leprosos",
+      "intro": "Dez homens com lepra, curados juntos pela palavra de Jesus enquanto iam mostrar-se aos sacerdotes -- embora apenas um, um samaritano, tenha voltado para agradecer."
     }
   ]
 }

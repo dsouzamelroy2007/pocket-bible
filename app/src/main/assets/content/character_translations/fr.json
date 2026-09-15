@@ -1131,6 +1131,46 @@
       "character_id": "the-woman-caught-in-adultery",
       "name": "La femme surprise en adultère",
       "intro": "Une femme traînée devant Jésus par des accusateurs exigeant qu'elle soit lapidée, qui se retrouva seule avec lui après le départ de chaque accusateur -- et entendit les mots : « Moi non plus, je ne te condamne pas. »"
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "name": "Le paralytique descendu par le toit",
+      "intro": "Un homme paralysé dont les amis, incapables d'atteindre Jésus à travers la foule, ouvrirent un toit et le descendirent -- et dont Jésus pardonna les péchés avant même de guérir ses jambes."
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "name": "La femme atteinte d'hémorragie",
+      "intro": "Une femme qui souffrait d'un flux de sang constant depuis douze ans et avait dépensé tout son bien chez les médecins sans soulagement, qui tendit la main et toucha le bord du manteau de Jésus dans une foule -- et fut instantanément guérie."
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "name": "La veuve de Naïn",
+      "intro": "Une veuve enterrant son fils unique quand Jésus rencontra le cortège funèbre -- et, ému de compassion avant même qu'elle ne demande, ressuscita son fils."
+    },
+    {
+      "character_id": "the-poor-widow",
+      "name": "La pauvre veuve",
+      "intro": "Une veuve qui mit deux petites pièces de cuivre dans le trésor du Temple -- tout ce qu'elle possédait -- tandis que les riches donnaient de leur superflu, et que Jésus loua par-dessus tout autre donateur ce jour-là."
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "name": "La femme syrophénicienne",
+      "intro": "Une mère païenne qui supplia Jésus de guérir sa fille tourmentée par un démon, et dont la foi persistante et vive d'esprit face à son refus initial obtint la guérison de sa fille."
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "name": "Simon le pharisien",
+      "intro": "Un pharisien qui invita Jésus à dîner mais lui refusa les courtoisies élémentaires de l'hospitalité -- et fut discrètement corrigé quand une femme pécheresse montra à Jésus l'honneur qu'il n'avait pas montré."
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "name": "L'aveugle-né",
+      "intro": "Un homme aveugle de naissance, guéri par Jésus avec de la boue et un lavage -- et dont le témoignage constant, de plus en plus assuré, face à un interrogatoire hostile surpassa chaque chef religieux qui essayait de le piéger."
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "name": "Les dix lépreux",
+      "intro": "Dix hommes atteints de lèpre, guéris ensemble sur la parole de Jésus alors qu'ils allaient se montrer aux prêtres -- bien qu'un seul, un Samaritain, revint pour rendre grâces."
     }
   ]
 }
