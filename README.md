@@ -1,19 +1,20 @@
-# Pocket Bible — prototype
+# Pocket Bible v2
 
 ## About
 
-**Pocket Bible** is a contemplative Catholic Android app designed to meet you in the moment. Select how you're feeling—fear, doubt, anxiety, loss, joy—and instantly receive a relevant Bible passage, a plain-language reflection, and a thoughtful prayer. Everything is bundled offline, so you can access spiritual guidance anytime, anywhere, without an internet connection.
-
-This is the **prototype**: real, runnable source, built to validate the concept on a device before investing in production polish. It demonstrates a scalable architecture for multi-language support, offline scripture delivery, and devotional content management.
+**Pocket Bible** is an offline Catholic Android app for reading Scripture and finding guidance for the moment. Choose a feeling such as fear, doubt, anxiety, loss, or joy to find a related passage, reflection, and prayer. Version 2 adds a daily reading experience, a larger character library, and a browsable collection of Bible stories and parables.
 
 
 **Features:**
-- 📖 Full 73-book Catholic Bible canon (English, with German support)
-- 🌍 Multi-language UI (English, German, French, Portuguese, Spanish, Hindi, Italian, Marathi)
+- 📖 The full 73-book Catholic canon in English, plus Scripture translations in German, French, Hindi, Italian, Marathi, and Portuguese; book coverage varies by translation
+- 🌍 Interface in English, German, French, Portuguese, Spanish, Hindi, Italian, and Marathi (Spanish currently has no bundled Bible-text translation)
 - ❤️ Curated feelings-to-passages mapping with reflections and prayers
+- 📅 Verse of the Day and daily Catholic readings with reflections
+- 👥 280 biblical character profiles with introductions and Scripture references
+- 📚 146 Bible stories and parables with Scripture references, summaries, and reflections
+- 🔖 Bookmark stories and save favorite verses
 - ✝️ Fully offline—no network required
-- 💾 Save favorite passages to your device
-- 🔍 Search by feeling and quick-access "Verse of the Day"
+- 🔍 Search topics, characters, and stories
 - 🎨 Material3 design with category-specific accent colors
 
 ---
@@ -22,71 +23,54 @@ This is the **prototype**: real, runnable source, built to validate the concept 
 
 ```
 app/src/main/java/app/pocketbible/
-  MainActivity.kt        Nav host + bottom bar (Topics / Read / Saved) + language switcher wiring
+  MainActivity.kt        Nav host + bottom bar (Topics / Bible / Readings & Reflection / Characters / Stories)
   PocketBibleApp.kt       Application class — owns the DB + repository
   data/
     ContentModel.kt       Room entities, DAOs, database (passage-based schema)
     SeedLoader.kt          Reads assets/content/ (see below) into Room on first launch
     ContentRepository.kt   Thin layer between Room and the ViewModel
   ui/
-    MainViewModel.kt       Topics, current entry cycle, saved verses, Bible reading state
-    home/HomeScreen.kt      Topics grid, search, verse of the day, language switcher
+    MainViewModel.kt       Topics, daily content, characters, stories, saved items, Bible reading
+    home/HomeScreen.kt      Topics grid, search, and language switcher
     verse/VerseScreen.kt    Passage + reflection + prayer + save/another
     saved/SavedScreen.kt    Saved list
     bible/BibleScreen.kt    Book list → chapter list → chapter reader (Read tab)
+    reading/DailyReadingScreen.kt  Verse of the Day and daily Catholic readings
+    characters/             Searchable biblical character directory and profiles
+    stories/                Searchable Bible stories, filters, and saved stories
     bible/BookNames.kt      Book-id → localized-name lookup (names only, not scripture text)
     theme/Theme.kt          Material3 color scheme + per-category accent colors
 app/src/main/assets/content/            Bundled content, see "Content layout" below
 tools/import_scripture.py               Converts a real Bible text dump into per-book scripture files
 ```
 
-The three screens match the wireframe from our design pass. The data model
-follows the schema we agreed on: passages (not single verses), an
-`entry_passage` join table so an entry can eventually cite more than one
-passage, and `intensity` ordering so an acute entry surfaces before a
-reflective one.
+The five main tabs are Topics, Bible, Readings & Reflection, Characters,
+and Stories. All content is bundled locally; Bible passages are resolved
+from the selected translation when available.
 
 ## Running it
 
-You'll need **Android Studio** (Koala or newer) with an SDK for API 34 and
-an emulator or device on API 26+. I built this project's source directly —
-I don't have network access or an Android SDK in this environment, so I
-haven't compiled it myself. It's written carefully and the data model is
-validated, but treat the first build as the real test.
-
-1. Unzip and open the `PocketBibleApp` folder in Android Studio — **Open**,
-   not **Import**.
-2. Let Gradle sync. If it asks to create the Gradle wrapper, accept —
-   `gradle-wrapper.properties` is included but the wrapper jar itself isn't
-   (I can't fetch binaries), so Android Studio will generate it on first
-   sync.
-3. Run on an emulator or device. First launch seeds the database from
-   `assets/content/` (see "Content layout" below); the topics grid fills in
-   within a second or two.
-
-If Gradle sync fails, the most likely culprit is a version mismatch (AGP
-8.5.0 / Kotlin 1.9.24 / Compose compiler 1.5.14) — Android Studio's
-"Upgrade Assistant" will offer compatible versions if so.
+You'll need **JDK 17**, **Android SDK Platform 36**, and an emulator or
+device running API 26 or newer. From the project root, build with
+`./gradlew assembleDebug`, or open the project in Android Studio and run the
+app. On first launch, the app seeds its local database from
+`app/src/main/assets/content/`.
 
 ## Try this
 
-- **Search** on the Topics tab matches free text against topic aliases
-  (try "burned out" or "cant forgive") and jumps straight to a matching
-  topic.
-- **Verse of the day** on the Topics tab pulls from `daily_passage`,
-  cycling through the curated passages across all 366 days — see the
-  caveat about this in `content/topics.json`'s `_note`.
-- Tap a feeling → passage, reflection, prayer. **Another** cycles entries;
-  **Save** persists to Room.
-- The **fear → Isaiah 41:10** entry now also shows an echo passage
-  (Psalm 27:1) underneath — the multi-passage capability from the data
-  model is live, not just schema.
-- **Read tab → "Go to a verse"** — pick any book, chapter, and verse from
-  the dropdowns, tap Go. The full 73-book Catholic canon is loaded in
-  English (see "Content layout" below), so every book/chapter/verse in
-  the pickers actually has text behind it now.
-- Read tab also still supports plain browsing: book → chapter grid →
-  reader, with Previous/Next.
+- Search the **Topics** tab by feeling or phrase (try "burned out" or
+  "cant forgive"), then open a topic for related passages, reflections,
+  and prayers.
+- Open **Readings & Reflection** for the Verse of the Day and date-based Catholic readings
+  with reflections.
+- Browse **Characters** to search 280 biblical profiles and open their
+  introductions and Scripture references.
+- Browse **Stories** to search 146 stories and parables; filter by
+  testament or story type, then save stories to revisit them.
+- In **Bible**, browse by book and chapter or use "Go to a verse" to jump
+  directly to a reference. Use the language menu to switch among available
+  Bible translations.
+- Save favorite verses and bookmark stories for later.
 
 ## Content layout
 
@@ -96,24 +80,29 @@ and indexed by `content/manifest.json`, which `SeedLoader` reads first:
 ```
 content/
   manifest.json                   Index: content_version + paths to every module below
-  core.json                       Translations + the 73-book Catholic canon (names only)
+  core.json                       Translation metadata + the 73-book Catholic canon
   topics.json                     Feelings/aliases/entries/passages/entry_passages/daily_passages,
                                    all English -- the base content and the fallback for any
                                    language/topic combination not yet translated
   topics/
-    de.json                       Translated label/description/reflection/prayer for German;
-                                   any topic or entry missing from it falls back to English
-    <other-language>.json         Same shape, one file per additional UI language
+    <language>.json               Translated topic labels, descriptions, reflections, and prayers
+  characters.json                 Character profiles and Scripture references
+  character_translations/         Translated character content
+  stories.json                    Bible stories and parables
+  stories/                        Translated story content
+  lectionary/                     Daily Catholic reading citations and reflections by year
   scripture/
-    web-c/
-      gen.json, ex.json, ...      One file per book -- all 73 Catholic-canon books,
-      ps.json, mt.json, etc.      full text, English (World English Bible Classic)
-    schlachter-1951/
-      gen.json, ex.json, ...      66 books, full text, German (Schlachter 1951,
-      ...                         CC BY 4.0) -- Protestant canon only; the 7
-                                   deuterocanonical books aren't in this source
-    <other-translation-id>/       A future scripture translation/language gets its own folder
+    <translation-id>/             One JSON file per available book and translation
 ```
+
+Bundled Bible text is available in English (World English Bible Classic),
+German (Schlachter 1951), French (Sainte Bible libre pour le monde), Hindi
+(Indian Revised Version), Italian (Riveduta 1927), Marathi (Indian Revised
+Version), and Portuguese (Almeida Atualizada). Coverage varies by
+translation, and the Read tab shows the books actually present in the
+selected translation. When a UI language has no bundled scripture
+translation, the app uses English; Spanish currently applies to the
+interface only.
 
 The point of splitting it this way: adding a book, or a whole new
 translation/language, is dropping one new file under `scripture/` and
@@ -178,9 +167,9 @@ is an `AppCompatActivity` specifically so `recreate()` actually reloads
 resources in the new locale, not just persists the choice):
 
 1. **App chrome** — nav labels, buttons, prompts. Fully resource-driven:
-   `values-de/`, `values-fr/`, `values-pt/`, `values-es/`, `values-hi/`
-   under `app/src/main/res/`. A new language is a new `values-<lang>/strings.xml`
-   with the same keys, no code changes.
+    `values-de/`, `values-es/`, `values-fr/`, `values-hi/`, `values-it/`,
+    `values-mr/`, and `values-pt/` under `app/src/main/res/`. A new language
+    is a new `values-<lang>/strings.xml` with the same keys, no code changes.
 2. **Book names** — just names ("Psalms", "Luke"), not scripture text.
    `BookNames.kt` maps each book id to a translated `R.string` per
    language, falling back to the bundled English name for any book id
@@ -200,10 +189,10 @@ resources in the new locale, not just persists the choice):
    share the `scripture_verse` table, so a chapter view never mixes verses
    from two languages together. Importing a translation via the scripts
    above is what actually makes a language's Read tab show real text; the
-   fallback just keeps it from going blank in the meantime. German now has
-   real text this way (Schlachter 1951, `schlachter-1951`) — but only the
-   66-book Protestant canon; the 7 deuterocanonical books fall back to
-   English until a German source for them is found.
+    fallback keeps the Read tab usable when no scripture translation exists
+    for the selected UI language. English, German, French, Hindi, Italian,
+    Marathi, and Portuguese translations are bundled with differing book
+    coverage; Spanish UI users currently read from the English translation.
 
 Layers 1 and 2 are safe to translate freely — UI vocabulary and proper
 nouns, not scripture. Layer 3 is *my own* devotional prose (not scripture),
