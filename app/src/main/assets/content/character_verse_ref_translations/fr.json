@@ -2171,6 +2171,2896 @@
       "character_id": "judith",
       "position": 3,
       "caption": "Présentée comme une veuve pieuse de grande réputation"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 0,
+      "caption": "Posa les fondations du Temple reconstruit"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 1,
+      "caption": "La promesse de Dieu : « Je ferai de toi comme un anneau à cacheter »"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 2,
+      "caption": "« Ce n'est ni par la puissance ni par la force, mais par mon Esprit »"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 3,
+      "caption": "Nommé dans la généalogie de Jésus"
+    },
+    {
+      "character_id": "haman",
+      "position": 0,
+      "caption": "Furieux que Mardochée refuse de s'incliner devant lui"
+    },
+    {
+      "character_id": "haman",
+      "position": 1,
+      "caption": "Son décret pour détruire le peuple juif"
+    },
+    {
+      "character_id": "haman",
+      "position": 2,
+      "caption": "Pendu à la potence qu'il avait construite pour Mardochée"
+    },
+    {
+      "character_id": "haman",
+      "position": 3,
+      "caption": "Resté dans les mémoires comme l'ennemi des Juifs"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 0,
+      "caption": "Roi sur 127 provinces, de l'Inde à l'Éthiopie"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 1,
+      "caption": "Fit d'Esther sa reine"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 2,
+      "caption": "Exige de savoir qui menace Esther"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 3,
+      "caption": "Accorde à Mardochée l'autorité de contrer le décret d'Haman"
+    },
+    {
+      "character_id": "vashti",
+      "position": 0,
+      "caption": "Refuse de venir quand le roi la convoque"
+    },
+    {
+      "character_id": "vashti",
+      "position": 1,
+      "caption": "Déposée par décret royal"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 0,
+      "caption": "Contrariés que quelqu'un soit venu aider Israël"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 1,
+      "caption": "Se moquent du projet de reconstruction"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 2,
+      "caption": "Tentent d'attirer Néhémie dans un piège"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 3,
+      "caption": "La muraille achevée malgré eux"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 0,
+      "caption": "L'orgueil d'Édom : « Qui me fera descendre à terre ? »"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 1,
+      "caption": "Averti de ne pas se réjouir du désastre de Juda"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 2,
+      "caption": "« Le jour de l'ÉTERNEL est proche pour toutes les nations »"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 3,
+      "caption": "« Le royaume sera à l'ÉTERNEL »"
+    },
+    {
+      "character_id": "nahum",
+      "position": 0,
+      "caption": "« L'ÉTERNEL est lent à la colère... il ne laisse point le coupable impuni »"
+    },
+    {
+      "character_id": "nahum",
+      "position": 1,
+      "caption": "« L'ÉTERNEL est bon, il est un rempart au jour de la détresse »"
+    },
+    {
+      "character_id": "nahum",
+      "position": 2,
+      "caption": "« Malheur à la ville sanguinaire »"
+    },
+    {
+      "character_id": "nahum",
+      "position": 3,
+      "caption": "La chute de Ninive : « tous ceux qui entendront parler de toi battront des mains »"
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 0,
+      "caption": "« Ô ÉTERNEL, jusqu'à quand crierai-je, sans que tu écoutes ? »"
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 1,
+      "caption": "« Le juste vivra par sa foi »"
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 2,
+      "caption": "« L'ÉTERNEL est dans son saint temple : que toute la terre fasse silence »"
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 3,
+      "caption": "« Cependant, je me réjouirai en l'ÉTERNEL » même quand tout échoue"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 0,
+      "caption": "« Le grand jour de l'ÉTERNEL est proche »"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 1,
+      "caption": "Appelle les humbles à chercher l'ÉTERNEL"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 2,
+      "caption": "« L'ÉTERNEL, ton Dieu, est au milieu de toi... il se réjouira à cause de toi avec chant »"
+    },
+    {
+      "character_id": "haggai",
+      "position": 0,
+      "caption": "« Est-ce le temps pour vous d'habiter vos maisons lambrissées, pendant que cette maison reste en ruines ? »"
+    },
+    {
+      "character_id": "haggai",
+      "position": 1,
+      "caption": "Pousse le peuple à reprendre le travail"
+    },
+    {
+      "character_id": "haggai",
+      "position": 2,
+      "caption": "« La gloire de cette dernière maison sera plus grande que celle de la première »"
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 0,
+      "caption": "« Ce n'est ni par la puissance ni par la force, mais par mon Esprit »"
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 1,
+      "caption": "« Ton roi vient à toi... humble, monté sur un âne »"
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 2,
+      "caption": "« Ils regarderont vers moi, celui qu'ils ont transpercé »"
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 3,
+      "caption": "« Frappe le berger, et les brebis seront dispersées » -- citée par Jésus"
+    },
+    {
+      "character_id": "malachi",
+      "position": 0,
+      "caption": "Interpelle les prêtres : « Un fils honore son père... où est mon honneur ? »"
+    },
+    {
+      "character_id": "malachi",
+      "position": 1,
+      "caption": "« Car moi, l'ÉTERNEL, je ne change pas »"
+    },
+    {
+      "character_id": "malachi",
+      "position": 2,
+      "caption": "« Apportez toute la dîme à la maison du trésor »"
+    },
+    {
+      "character_id": "malachi",
+      "position": 3,
+      "caption": "« Je vous enverrai Élie, le prophète, avant que le jour de l'ÉTERNEL arrive, ce jour grand et terrible »"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 0,
+      "caption": "Confesse le Dieu de Daniel comme le « Dieu des dieux »"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 1,
+      "caption": "Ordonne de jeter Shadrak, Méshak et Abed-Nego dans la fournaise"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 2,
+      "caption": "Chassé de la société humaine, humilié"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 3,
+      "caption": "« Moi, Nabuchodonosor, je loue, j'exalte et je glorifie le Roi des cieux »"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 0,
+      "caption": "Boit dans les vases sacrés du Temple lors de son festin"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 1,
+      "caption": "L'écriture sur le mur"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 2,
+      "caption": "L'interprétation de Daniel : « Tu as été pesé... et trouvé léger »"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 3,
+      "caption": "Tué cette nuit-là même"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 0,
+      "caption": "Essaie tous les moyens pour sauver Daniel de son propre décret"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 1,
+      "caption": "« Ton Dieu, que tu sers continuellement, te délivrera »"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 2,
+      "caption": "Daniel indemne : « Mon Dieu a envoyé son ange »"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 3,
+      "caption": "Décrète que tous doivent craindre le Dieu de Daniel"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 0,
+      "caption": "Nommé par Dieu « son oint » des générations avant sa naissance"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 1,
+      "caption": "« L'ÉTERNEL réveilla l'esprit de Cyrus »"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 2,
+      "caption": "Son décret autorisant la reconstruction du Temple"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 3,
+      "caption": "Le décret qui clôt l'Ancien Testament dans le canon hébraïque"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 0,
+      "caption": "Viennent réconforter Job, s'assoient avec lui sept jours en silence"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 1,
+      "caption": "Éliphaz : « Qui a péri étant innocent ? »"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 2,
+      "caption": "Bildad suppose que les enfants de Job ont dû pécher"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 3,
+      "caption": "Dieu les réprimande : « vous n'avez pas parlé de moi comme il faut »"
+    },
+    {
+      "character_id": "elihu",
+      "position": 0,
+      "caption": "En colère parce que Job se justifiait lui-même, et que les amis n'avaient trouvé aucune réponse"
+    },
+    {
+      "character_id": "elihu",
+      "position": 1,
+      "caption": "Attendit pour parler parce qu'il était plus jeune"
+    },
+    {
+      "character_id": "elihu",
+      "position": 2,
+      "caption": "« Dieu est grand, et nous ne le connaissons pas »"
+    },
+    {
+      "character_id": "elihu",
+      "position": 3,
+      "caption": "Appelle Job à « considérer les œuvres merveilleuses de Dieu »"
+    },
+    {
+      "character_id": "lot",
+      "position": 0,
+      "caption": "Choisit la plaine bien arrosée du Jourdain"
+    },
+    {
+      "character_id": "lot",
+      "position": 1,
+      "caption": "Capturé, puis délivré par Abraham"
+    },
+    {
+      "character_id": "lot",
+      "position": 2,
+      "caption": "Accueille deux anges chez lui à Sodome"
+    },
+    {
+      "character_id": "lot",
+      "position": 3,
+      "caption": "Conduit hors de la ville, tenu par la main"
+    },
+    {
+      "character_id": "lot",
+      "position": 4,
+      "caption": "Appelé « Lot le juste », affligé par la méchanceté qui l'entourait"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 0,
+      "caption": "Avertie : « ne regarde pas en arrière »"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 1,
+      "caption": "Regarde en arrière, devient une statue de sel"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 2,
+      "caption": "Jésus : « Souvenez-vous de la femme de Lot »"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 0,
+      "caption": "La promesse de Dieu concernant sa naissance et son avenir"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 1,
+      "caption": "Dieu entend l'enfant pleurer dans le désert"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 2,
+      "caption": "« Dieu était avec l'enfant, et il grandit »"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 3,
+      "caption": "Se joint à Isaac pour enterrer leur père Abraham"
+    },
+    {
+      "character_id": "laban",
+      "position": 0,
+      "caption": "Accueille le serviteur d'Abraham au nom de Rébecca"
+    },
+    {
+      "character_id": "laban",
+      "position": 1,
+      "caption": "Substitue Léa à Rachel la nuit des noces"
+    },
+    {
+      "character_id": "laban",
+      "position": 2,
+      "caption": "Change le salaire de Jacob dix fois"
+    },
+    {
+      "character_id": "laban",
+      "position": 3,
+      "caption": "Conclut une alliance de paix avec Jacob"
+    },
+    {
+      "character_id": "dinah",
+      "position": 0,
+      "caption": "Agressée par Sichem"
+    },
+    {
+      "character_id": "dinah",
+      "position": 1,
+      "caption": "La vengeance de Siméon et Lévi"
+    },
+    {
+      "character_id": "dinah",
+      "position": 2,
+      "caption": "Le chagrin et la crainte de Jacob face à ce qu'avaient fait ses fils"
+    },
+    {
+      "character_id": "dinah",
+      "position": 3,
+      "caption": "Comptée parmi les enfants qui descendirent en Égypte"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 0,
+      "caption": "Renvoyée dans la maison de son père, attendant"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 1,
+      "caption": "Juda : « Elle est plus juste que moi »"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 2,
+      "caption": "Donne naissance à des fils jumeaux, Pérets et Zérach"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 3,
+      "caption": "Nommée dans la généalogie de Jésus"
+    },
+    {
+      "character_id": "reuben",
+      "position": 0,
+      "caption": "Persuade ses frères de ne pas tuer Joseph"
+    },
+    {
+      "character_id": "reuben",
+      "position": 1,
+      "caption": "Revient pour trouver Joseph disparu, déchire ses vêtements d'angoisse"
+    },
+    {
+      "character_id": "reuben",
+      "position": 2,
+      "caption": "La bénédiction de Jacob refusée : « impétueux comme l'eau, tu n'auras pas la prééminence »"
+    },
+    {
+      "character_id": "reuben",
+      "position": 3,
+      "caption": "Son droit d'aînesse fut donné aux fils de Joseph à la place"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 0,
+      "caption": "Se joint à Lévi pour venger Dina"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 1,
+      "caption": "Retenu en otage par Joseph en Égypte"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 2,
+      "caption": "La bénédiction de Jacob condamne sa violence et celle de Lévi"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 0,
+      "caption": "Se joint à Siméon pour venger Dina"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 1,
+      "caption": "La bénédiction de Jacob condamne sa violence"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 2,
+      "caption": "Sa tribu se range du côté de Moïse après le veau d'or"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 3,
+      "caption": "Les lévites mis à part pour le service de l'ÉTERNEL"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 0,
+      "caption": "Léa le nomme, espérant que Jacob l'honorera"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : « habitera sur le rivage de la mer »"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 2,
+      "caption": "Sa tribu appelée à la bataille de Débora et Barak"
+    },
+    {
+      "character_id": "issachar",
+      "position": 0,
+      "caption": "Léa le nomme, le voyant comme sa récompense"
+    },
+    {
+      "character_id": "issachar",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : un âne robuste entre deux fardeaux"
+    },
+    {
+      "character_id": "issachar",
+      "position": 2,
+      "caption": "Ses descendants « avaient l'intelligence des temps »"
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 0,
+      "caption": "Rachel le nomme : « Dieu m'a jugée »"
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : « jugera son peuple »"
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 2,
+      "caption": "Sa tribu cherche un territoire à elle"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 0,
+      "caption": "Rachel le nomme après sa rivalité avec Léa"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : « une biche en liberté »"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 2,
+      "caption": "Sa tribu appelée à la bataille de Débora et Barak"
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 0,
+      "caption": "Léa le nomme : « Quel bonheur ! »"
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : « des troupes l'assailliront, mais il les assaillira sur leurs talons »"
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 2,
+      "caption": "Ses descendants demandent une terre à l'est du Jourdain"
+    },
+    {
+      "character_id": "asher",
+      "position": 0,
+      "caption": "Léa le nomme : « Que je suis heureuse ! »"
+    },
+    {
+      "character_id": "asher",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : « son pain sera riche, et il fournira des mets royaux »"
+    },
+    {
+      "character_id": "asher",
+      "position": 2,
+      "caption": "La prophétesse Anne descend de sa tribu"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 0,
+      "caption": "Né alors que Rachel meurt ; renommé par son père"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 1,
+      "caption": "Jacob refuse d'abord de le laisser aller en Égypte"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 2,
+      "caption": "Juda propose de rester esclave à sa place"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 3,
+      "caption": "Joseph pleure à son cou, enfin réunis"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 0,
+      "caption": "Nommé par Joseph : « Dieu m'a fait oublier toute ma peine »"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 1,
+      "caption": "Jacob croise les mains, bénissant d'abord le plus jeune Éphraïm"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 2,
+      "caption": "L'explication de Jacob : son frère « sera plus grand que lui »"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 3,
+      "caption": "Ses descendants reçoivent leur territoire tribal"
+    },
+    {
+      "character_id": "ephraim",
+      "position": 0,
+      "caption": "Nommé par Joseph : « Dieu m'a rendu fécond »"
+    },
+    {
+      "character_id": "ephraim",
+      "position": 1,
+      "caption": "La bénédiction de Jacob : « son frère cadet sera plus grand que lui »"
+    },
+    {
+      "character_id": "ephraim",
+      "position": 2,
+      "caption": "Les prophètes ultérieurs utilisent son nom pour le royaume du nord lui-même"
+    },
+    {
+      "character_id": "terah",
+      "position": 0,
+      "caption": "Part d'Ur avec Abram, Saraï et Lot"
+    },
+    {
+      "character_id": "terah",
+      "position": 1,
+      "caption": "Meurt à Charan"
+    },
+    {
+      "character_id": "terah",
+      "position": 2,
+      "caption": "Souvenu comme ayant servi d'autres dieux au-delà de l'Euphrate"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 0,
+      "caption": "Prend Sara, puis est averti par Dieu en songe"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 1,
+      "caption": "Dieu : « je t'ai empêché de pécher contre moi »"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 2,
+      "caption": "Découvre qu'Isaac et Rébecca sont en fait mariés"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 3,
+      "caption": "Conclut une alliance de paix avec Isaac"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 0,
+      "caption": "Achète Joseph aux marchands ismaélites"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 1,
+      "caption": "Met Joseph à la tête de tout ce qu'il possède"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 2,
+      "caption": "Croit l'accusation de sa femme, fait emprisonner Joseph"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 0,
+      "caption": "« Couche avec moi »"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 1,
+      "caption": "Lui parle jour après jour"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 2,
+      "caption": "Il s'enfuit, laissant son vêtement dans sa main"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 3,
+      "caption": "L'accuse faussement en utilisant ce même vêtement"
+    },
+    {
+      "character_id": "asenath",
+      "position": 0,
+      "caption": "Donnée en mariage à Joseph par Pharaon"
+    },
+    {
+      "character_id": "asenath",
+      "position": 1,
+      "caption": "Donne naissance à Manassé et Éphraïm avant les années de famine"
+    },
+    {
+      "character_id": "er-and-onan",
+      "position": 0,
+      "caption": "Er « était méchant aux yeux de l'ÉTERNEL, et l'ÉTERNEL le fit mourir »"
+    },
+    {
+      "character_id": "er-and-onan",
+      "position": 1,
+      "caption": "Onan refuse de donner un héritier à son frère ; lui aussi meurt"
+    },
+    {
+      "character_id": "er-and-onan",
+      "position": 2,
+      "caption": "Souvenus comme étant morts au pays de Canaan"
+    },
+    {
+      "character_id": "perez",
+      "position": 0,
+      "caption": "Né en devançant son jumeau, Zérach"
+    },
+    {
+      "character_id": "perez",
+      "position": 1,
+      "caption": "Tête de la lignée généalogique jusqu'à David"
+    },
+    {
+      "character_id": "perez",
+      "position": 2,
+      "caption": "Nommé dans la généalogie de Jésus"
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "position": 0,
+      "caption": "Portent leur cause devant Moïse : « pourquoi le nom de notre père serait-il retranché ? »"
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "position": 1,
+      "caption": "Dieu : « les filles de Tselophhad ont raison »"
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "position": 2,
+      "caption": "Reçoivent leur héritage comme promis"
+    },
+    {
+      "character_id": "jabez",
+      "position": 0,
+      "caption": "« plus considéré que ses frères »"
+    },
+    {
+      "character_id": "jabez",
+      "position": 1,
+      "caption": "Sa prière, et la réponse de Dieu : « Dieu lui accorda ce qu'il avait demandé »"
+    },
+    {
+      "character_id": "keturah",
+      "position": 0,
+      "caption": "Abraham la prend pour femme"
+    },
+    {
+      "character_id": "keturah",
+      "position": 1,
+      "caption": "Lui donne six fils"
+    },
+    {
+      "character_id": "keturah",
+      "position": 2,
+      "caption": "Leurs fils envoyés à l'est, loin d'Isaac, avec des présents"
+    },
+    {
+      "character_id": "jethro",
+      "position": 0,
+      "caption": "Donne à Moïse sa fille Séphora en mariage"
+    },
+    {
+      "character_id": "jethro",
+      "position": 1,
+      "caption": "Loue l'ÉTERNEL après avoir entendu tout ce qu'il a fait pour Israël"
+    },
+    {
+      "character_id": "jethro",
+      "position": 2,
+      "caption": "Avertit Moïse : « ce que tu fais n'est pas bien »"
+    },
+    {
+      "character_id": "jethro",
+      "position": 3,
+      "caption": "Conseille à Moïse de désigner des hommes capables pour partager la charge"
+    },
+    {
+      "character_id": "zipporah",
+      "position": 0,
+      "caption": "Donnée en mariage à Moïse ; lui donne un fils"
+    },
+    {
+      "character_id": "zipporah",
+      "position": 1,
+      "caption": "Sauve la vie de Moïse en circoncisant leur fils"
+    },
+    {
+      "character_id": "zipporah",
+      "position": 2,
+      "caption": "Ramenée à Moïse par son père Jéthro"
+    },
+    {
+      "character_id": "bezalel",
+      "position": 0,
+      "caption": "Appelé par son nom, rempli de l'Esprit de Dieu"
+    },
+    {
+      "character_id": "bezalel",
+      "position": 1,
+      "caption": "Doté d'habileté « pour concevoir des œuvres d'art »"
+    },
+    {
+      "character_id": "bezalel",
+      "position": 2,
+      "caption": "Moïse annonce son appel au peuple"
+    },
+    {
+      "character_id": "bezalel",
+      "position": 3,
+      "caption": "Construit l'arche de l'alliance"
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "position": 0,
+      "caption": "Offrent « un feu étranger » devant l'ÉTERNEL"
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "position": 1,
+      "caption": "Consumés par le feu venu de la présence de l'ÉTERNEL"
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "position": 2,
+      "caption": "Moururent sans laisser de fils, avant leur père"
+    },
+    {
+      "character_id": "eleazar",
+      "position": 0,
+      "caption": "Revêtu des habits sacerdotaux à la mort d'Aaron"
+    },
+    {
+      "character_id": "eleazar",
+      "position": 1,
+      "caption": "Consulté pour des décisions au nom d'Israël"
+    },
+    {
+      "character_id": "eleazar",
+      "position": 2,
+      "caption": "Aide à répartir le pays de Canaan entre les tribus"
+    },
+    {
+      "character_id": "ithamar",
+      "position": 0,
+      "caption": "Supervise la comptabilité des matériaux du Tabernacle"
+    },
+    {
+      "character_id": "ithamar",
+      "position": 1,
+      "caption": "Chargé de la supervision du service des Guershonites"
+    },
+    {
+      "character_id": "ithamar",
+      "position": 2,
+      "caption": "Sa lignée sacerdotale se poursuit après lui"
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "position": 0,
+      "caption": "Agit avec détermination pour arrêter la plaie à Baal-Peor"
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "position": 1,
+      "caption": "Dieu lui accorde « une alliance de paix », un sacerdoce éternel"
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "position": 2,
+      "caption": "Envoyé pour résoudre un différend entre les tribus"
+    },
+    {
+      "character_id": "balaam",
+      "position": 0,
+      "caption": "Son ânesse parle, le réprimandant"
+    },
+    {
+      "character_id": "balaam",
+      "position": 1,
+      "caption": "Ses propres yeux s'ouvrent enfin pour voir l'ange"
+    },
+    {
+      "character_id": "balaam",
+      "position": 2,
+      "caption": "« Comment maudirais-je celui que Dieu n'a point maudit ? »"
+    },
+    {
+      "character_id": "balaam",
+      "position": 3,
+      "caption": "Prophétise : « une étoile sortira de Jacob »"
+    },
+    {
+      "character_id": "balaam",
+      "position": 4,
+      "caption": "Souvenu comme un exemple de la cupidité égarant un prophète"
+    },
+    {
+      "character_id": "korah",
+      "position": 0,
+      "caption": "Défie Moïse et Aaron : « c'en est assez ! »"
+    },
+    {
+      "character_id": "korah",
+      "position": 1,
+      "caption": "La terre s'ouvre et l'engloutit avec sa maison"
+    },
+    {
+      "character_id": "korah",
+      "position": 2,
+      "caption": "Ses propres fils, notamment, ne moururent pas"
+    },
+    {
+      "character_id": "korah",
+      "position": 3,
+      "caption": "Souvenu comme avertissement : « péri dans la révolte de Coré »"
+    },
+    {
+      "character_id": "achan",
+      "position": 0,
+      "caption": "Son vol apporte le malheur sur « les enfants d'Israël »"
+    },
+    {
+      "character_id": "achan",
+      "position": 1,
+      "caption": "Confesse : « je les ai convoités et je les ai pris »"
+    },
+    {
+      "character_id": "achan",
+      "position": 2,
+      "caption": "Jugé pour avoir troublé Israël"
+    },
+    {
+      "character_id": "othniel",
+      "position": 0,
+      "caption": "Gagne Acsa, la fille de Caleb, en s'emparant d'une ville"
+    },
+    {
+      "character_id": "othniel",
+      "position": 1,
+      "caption": "Suscité par l'ÉTERNEL pour délivrer Israël"
+    },
+    {
+      "character_id": "othniel",
+      "position": 2,
+      "caption": "« L'Esprit de l'ÉTERNEL fut sur lui »"
+    },
+    {
+      "character_id": "othniel",
+      "position": 3,
+      "caption": "Le pays fut en paix pendant quarante ans"
+    },
+    {
+      "character_id": "ehud",
+      "position": 0,
+      "caption": "Se fabrique une épée cachée à deux tranchants"
+    },
+    {
+      "character_id": "ehud",
+      "position": 1,
+      "caption": "Frappe Églon dans sa propre chambre"
+    },
+    {
+      "character_id": "ehud",
+      "position": 2,
+      "caption": "Le pays fut en paix pendant quatre-vingts ans"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 0,
+      "caption": "Chassé par ses frères, rejoint par des exclus"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 1,
+      "caption": "Fait un vœu avant d'aller au combat"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 2,
+      "caption": "Sa propre fille sort à sa rencontre"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 3,
+      "caption": "Nommé parmi les héros de la foi"
+    },
+    {
+      "character_id": "hur",
+      "position": 0,
+      "caption": "Monte sur la colline avec Moïse et Aaron"
+    },
+    {
+      "character_id": "hur",
+      "position": 1,
+      "caption": "Soutient l'une des mains de Moïse jusqu'au coucher du soleil"
+    },
+    {
+      "character_id": "hur",
+      "position": 2,
+      "caption": "Laissé responsable du peuple avec Aaron"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 0,
+      "caption": "« Qui est l'ÉTERNEL, pour que j'obéisse à sa voix ? »"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 1,
+      "caption": "Confesse brièvement : « j'ai péché cette fois »"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 2,
+      "caption": "Laisse enfin partir Israël, après la dixième plaie"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 3,
+      "caption": "Poursuit Israël avec son armée"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 4,
+      "caption": "Son armée détruite dans la mer qui revient"
+    },
+    {
+      "character_id": "eli",
+      "position": 0,
+      "caption": "Reçoit le jeune Samuel, consacré à l'ÉTERNEL"
+    },
+    {
+      "character_id": "eli",
+      "position": 1,
+      "caption": "Reconnaît que c'est Dieu qui appelle Samuel dans la nuit"
+    },
+    {
+      "character_id": "eli",
+      "position": 2,
+      "caption": "Réprimandé pour avoir honoré ses fils plus que Dieu"
+    },
+    {
+      "character_id": "eli",
+      "position": 3,
+      "caption": "Meurt en apprenant que l'arche a été capturée"
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 0,
+      "caption": "« des hommes vils ; ils ne connaissaient point l'ÉTERNEL »"
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 1,
+      "caption": "Traitèrent l'offrande de l'ÉTERNEL avec mépris"
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 2,
+      "caption": "Il leur est dit qu'ils mourront tous deux le même jour"
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 3,
+      "caption": "Tous deux tués, l'arche capturée, en une seule bataille"
+    },
+    {
+      "character_id": "elkanah",
+      "position": 0,
+      "caption": "Donne à Anne une double portion, bien qu'elle soit sans enfant"
+    },
+    {
+      "character_id": "elkanah",
+      "position": 1,
+      "caption": "« Ne vaux-je pas mieux pour toi que dix fils ? »"
+    },
+    {
+      "character_id": "elkanah",
+      "position": 2,
+      "caption": "Soutient le vœu d'Anne de consacrer leur fils à l'ÉTERNEL"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 0,
+      "caption": "L'autre épouse d'Elqana, qui avait des enfants"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 1,
+      "caption": "Provoque Anne violemment, pour l'irriter"
+    },
+    {
+      "character_id": "abigail",
+      "position": 0,
+      "caption": "Décrite comme intelligente et belle, mariée à un homme dur"
+    },
+    {
+      "character_id": "abigail",
+      "position": 1,
+      "caption": "Tombe aux pieds de David, prend la faute sur elle"
+    },
+    {
+      "character_id": "abigail",
+      "position": 2,
+      "caption": "David : « Béni soit ton bon sens »"
+    },
+    {
+      "character_id": "abigail",
+      "position": 3,
+      "caption": "Devient la femme de David"
+    },
+    {
+      "character_id": "michal",
+      "position": 0,
+      "caption": "Aime David ; lui est donnée en mariage"
+    },
+    {
+      "character_id": "michal",
+      "position": 1,
+      "caption": "Aide David à s'échapper par une fenêtre"
+    },
+    {
+      "character_id": "michal",
+      "position": 2,
+      "caption": "Le méprise dans son cœur pour avoir dansé devant l'ÉTERNEL"
+    },
+    {
+      "character_id": "michal",
+      "position": 3,
+      "caption": "N'a pas d'enfant jusqu'au jour de sa mort"
+    },
+    {
+      "character_id": "joab",
+      "position": 0,
+      "caption": "Tue Abner pour venger la mort de son frère"
+    },
+    {
+      "character_id": "joab",
+      "position": 1,
+      "caption": "Exécute l'ordre de David contre Urie"
+    },
+    {
+      "character_id": "joab",
+      "position": 2,
+      "caption": "Organise le retour d'Absalom à Jérusalem"
+    },
+    {
+      "character_id": "joab",
+      "position": 3,
+      "caption": "Tue Absalom contre l'ordre direct de David"
+    },
+    {
+      "character_id": "abner",
+      "position": 0,
+      "caption": "Commandant de l'armée de Saül"
+    },
+    {
+      "character_id": "abner",
+      "position": 1,
+      "caption": "Fait d'Ish-Bosheth, fils de Saül, roi sur Israël"
+    },
+    {
+      "character_id": "abner",
+      "position": 2,
+      "caption": "Se tourne pour faire la paix avec David"
+    },
+    {
+      "character_id": "abner",
+      "position": 3,
+      "caption": "Assassiné par Joab par vengeance"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 0,
+      "caption": "Refuse de rentrer chez lui pendant que l'armée est en campagne"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 1,
+      "caption": "La lettre de David ordonne de le placer là où il mourra"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 2,
+      "caption": "Tué au combat comme prévu"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 3,
+      "caption": "Nommé parmi les vaillants hommes de David"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 0,
+      "caption": "Infirme des deux pieds enfant, en fuyant à la nouvelle de la mort de Saül"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 1,
+      "caption": "David demande s'il reste quelqu'un de la maison de Saül à qui montrer de la bonté"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 2,
+      "caption": "David lui rend la terre de son grand-père, l'invite à la table du roi"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 3,
+      "caption": "Mange toujours à la table du roi, bien qu'infirme des deux pieds"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 0,
+      "caption": "Se joint à la conspiration d'Absalom contre David"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 1,
+      "caption": "Son conseil considéré comme la parole de Dieu"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 2,
+      "caption": "Son bon conseil rejeté en faveur de celui de Hushaï"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 3,
+      "caption": "Met fin à ses jours quand son conseil est méprisé"
+    },
+    {
+      "character_id": "hushai",
+      "position": 0,
+      "caption": "Renvoyé à Jérusalem pour déjouer le conseil d'Ahithophel"
+    },
+    {
+      "character_id": "hushai",
+      "position": 1,
+      "caption": "Gagne la confiance d'Absalom par des paroles prudentes"
+    },
+    {
+      "character_id": "hushai",
+      "position": 2,
+      "caption": "S'oppose au conseil d'Ahithophel"
+    },
+    {
+      "character_id": "hushai",
+      "position": 3,
+      "caption": "L'ÉTERNEL avait résolu de déjouer le bon conseil d'Ahithophel"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 0,
+      "caption": "Présent, retenu devant l'ÉTERNEL, quand David vient trouver Ahimélek"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 1,
+      "caption": "Rapporte à Saül ce qu'il a vu"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 2,
+      "caption": "Tue quatre-vingt-cinq prêtres quand les gardes de Saül refusent"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 3,
+      "caption": "Passe au fil de l'épée toute la ville sacerdotale de Nob"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 4,
+      "caption": "L'en-tête du Psaume 52 le nomme comme l'occasion du psaume de David"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 0,
+      "caption": "Donne à David le pain consacré"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 1,
+      "caption": "Donne à David l'épée de Goliath"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 2,
+      "caption": "Se défend : il ne savait rien d'aucune conspiration"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 3,
+      "caption": "Condamné à mourir quand même, avec toute sa maison"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 0,
+      "caption": "S'échappe vers David, seul de la maison de son père à survivre"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 1,
+      "caption": "Apporte l'éphod sacerdotal à David caché"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 2,
+      "caption": "Se range du côté d'Adonija plutôt que de Salomon"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 3,
+      "caption": "Démis du sacerdoce par Salomon"
+    },
+    {
+      "character_id": "zadok",
+      "position": 0,
+      "caption": "Emporte l'arche avec David, fuyant Absalom"
+    },
+    {
+      "character_id": "zadok",
+      "position": 1,
+      "caption": "Renvoyé à Jérusalem avec l'arche, sur instruction de David"
+    },
+    {
+      "character_id": "zadok",
+      "position": 2,
+      "caption": "Oint Salomon roi"
+    },
+    {
+      "character_id": "zadok",
+      "position": 3,
+      "caption": "Ses descendants nommés comme les prêtres qui restèrent fidèles"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 0,
+      "caption": "Nommée comme concubine de Saül"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 1,
+      "caption": "Garde les corps de ses fils jour et nuit, refusant que rien ne les touche"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 2,
+      "caption": "David entend ce qu'elle a fait"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 3,
+      "caption": "Ému, il fait enfin ensevelir les ossements convenablement"
+    },
+    {
+      "character_id": "amnon",
+      "position": 0,
+      "caption": "Tourmenté, obsédé par Tamar"
+    },
+    {
+      "character_id": "amnon",
+      "position": 1,
+      "caption": "L'agresse malgré ses supplications"
+    },
+    {
+      "character_id": "amnon",
+      "position": 2,
+      "caption": "Sa haine pour elle ensuite plus grande que son désir d'avant"
+    },
+    {
+      "character_id": "amnon",
+      "position": 3,
+      "caption": "Tué par les hommes d'Absalom en vengeance, deux ans plus tard"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 0,
+      "caption": "Décrite comme belle ; sœur d'Amnon"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 1,
+      "caption": "Supplie Amnon de ne pas commettre cette « infamie »"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 2,
+      "caption": "Déchire sa robe, met de la cendre sur sa tête, pleure à haute voix"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 3,
+      "caption": "Vit désolée dans la maison de son frère Absalom"
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 0,
+      "caption": "Rejette le conseil des anciens en faveur de celui de ses amis"
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 1,
+      "caption": "« Mon père vous a châtiés avec des fouets, et moi je vous châtierai avec des scorpions »"
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 2,
+      "caption": "La réponse d'Israël : « À tes tentes, Israël ! »"
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 3,
+      "caption": "Israël se rebelle contre la maison de David « jusqu'à ce jour »"
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 0,
+      "caption": "Craint que le peuple ne retourne son allégeance à Jérusalem"
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 1,
+      "caption": "Fait deux veaux d'or : « Voici tes dieux, Israël »"
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 2,
+      "caption": "Continue dans sa voie mauvaise malgré l'avertissement d'un prophète"
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 3,
+      "caption": "La chute ultérieure d'Israël attribuée « aux péchés de Jéroboam »"
+    },
+    {
+      "character_id": "asa",
+      "position": 0,
+      "caption": "« Fit ce qui est droit aux yeux de l'ÉTERNEL »"
+    },
+    {
+      "character_id": "asa",
+      "position": 1,
+      "caption": "Prie avant la bataille : « nous nous appuyons sur toi »"
+    },
+    {
+      "character_id": "asa",
+      "position": 2,
+      "caption": "Supprime les idoles dans tout le pays"
+    },
+    {
+      "character_id": "asa",
+      "position": 3,
+      "caption": "Dans sa maladie, « il ne chercha pas l'ÉTERNEL, mais les médecins »"
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 0,
+      "caption": "Envoie des officiels enseigner la Loi dans tout Juda"
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 1,
+      "caption": "« Nous ne savons que faire, mais nos yeux sont sur toi »"
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 2,
+      "caption": "« Ce n'est pas à vous de combattre, mais à Dieu »"
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 3,
+      "caption": "L'ennemi détruit avant même que Juda n'ait à combattre"
+    },
+    {
+      "character_id": "josiah",
+      "position": 0,
+      "caption": "Le Livre de la Loi trouvé lors des réparations du Temple"
+    },
+    {
+      "character_id": "josiah",
+      "position": 1,
+      "caption": "Déchire ses vêtements en l'entendant lire"
+    },
+    {
+      "character_id": "josiah",
+      "position": 2,
+      "caption": "Renouvelle l'alliance devant tout le peuple"
+    },
+    {
+      "character_id": "josiah",
+      "position": 3,
+      "caption": "« Il n'y eut point de roi semblable à lui... qui se tourna vers l'ÉTERNEL de tout son cœur »"
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 0,
+      "caption": "« Il se confia en l'ÉTERNEL... nul ne fut semblable à lui parmi tous les rois »"
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 1,
+      "caption": "Étale devant l'ÉTERNEL la lettre menaçante de Sanchérib"
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 2,
+      "caption": "Pleure et prie quand on lui dit qu'il va mourir"
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 3,
+      "caption": "Quinze années de vie supplémentaires accordées"
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 0,
+      "caption": "« Fit ce qui est mal aux yeux de l'ÉTERNEL »"
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 1,
+      "caption": "Remplit Jérusalem de sang innocent"
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 2,
+      "caption": "S'humilie grandement devant le Dieu de ses pères"
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 3,
+      "caption": "Dieu se laisse fléchir par lui et entend sa supplication"
+    },
+    {
+      "character_id": "uzziah",
+      "position": 0,
+      "caption": "« Aussi longtemps qu'il chercha l'ÉTERNEL, Dieu le fit prospérer »"
+    },
+    {
+      "character_id": "uzziah",
+      "position": 1,
+      "caption": "« Lorsqu'il fut devenu puissant, son cœur s'éleva... pour sa perte »"
+    },
+    {
+      "character_id": "uzziah",
+      "position": 2,
+      "caption": "Les prêtres l'affrontent : ce n'est pas à lui de brûler l'encens"
+    },
+    {
+      "character_id": "uzziah",
+      "position": 3,
+      "caption": "Frappé de lèpre sur-le-champ, pour le reste de sa vie"
+    },
+    {
+      "character_id": "jehu",
+      "position": 0,
+      "caption": "Oint roi, chargé d'abattre la maison d'Achab"
+    },
+    {
+      "character_id": "jehu",
+      "position": 1,
+      "caption": "Jézabel jetée de sa fenêtre sur son ordre"
+    },
+    {
+      "character_id": "jehu",
+      "position": 2,
+      "caption": "« Viens, et vois mon zèle pour l'ÉTERNEL »"
+    },
+    {
+      "character_id": "jehu",
+      "position": 3,
+      "caption": "Ne se détourna pourtant pas des péchés de Jéroboam"
+    },
+    {
+      "character_id": "naaman",
+      "position": 0,
+      "caption": "Un grand homme, mais lépreux"
+    },
+    {
+      "character_id": "naaman",
+      "position": 1,
+      "caption": "Furieux que les instructions d'Élisée semblent trop simples"
+    },
+    {
+      "character_id": "naaman",
+      "position": 2,
+      "caption": "Se lave sept fois dans le Jourdain, et est guéri"
+    },
+    {
+      "character_id": "naaman",
+      "position": 3,
+      "caption": "« Maintenant je sais qu'il n'y a point de Dieu sur toute la terre, si ce n'est en Israël »"
+    },
+    {
+      "character_id": "gehazi",
+      "position": 0,
+      "caption": "Décide de courir après Naaman pour un cadeau"
+    },
+    {
+      "character_id": "gehazi",
+      "position": 1,
+      "caption": "Ment sur la raison de sa venue"
+    },
+    {
+      "character_id": "gehazi",
+      "position": 2,
+      "caption": "Ment de nouveau à Élisée sur l'endroit où il était"
+    },
+    {
+      "character_id": "gehazi",
+      "position": 3,
+      "caption": "La lèpre de Naaman s'attache à lui et à ses descendants pour toujours"
+    },
+    {
+      "character_id": "micaiah",
+      "position": 0,
+      "caption": "Achab : « Je le hais, car il ne prophétise jamais du bien à mon sujet »"
+    },
+    {
+      "character_id": "micaiah",
+      "position": 1,
+      "caption": "« L'ÉTERNEL est vivant ! ce que l'ÉTERNEL me dira, je le dirai »"
+    },
+    {
+      "character_id": "micaiah",
+      "position": 2,
+      "caption": "Prédit Israël dispersé, son roi mort"
+    },
+    {
+      "character_id": "micaiah",
+      "position": 3,
+      "caption": "Emprisonné sur ordre d'Achab pour son honnêteté"
+    },
+    {
+      "character_id": "obadiah-steward",
+      "position": 0,
+      "caption": "L'intendant du palais d'Achab, qui « craignait beaucoup l'ÉTERNEL »"
+    },
+    {
+      "character_id": "obadiah-steward",
+      "position": 1,
+      "caption": "Cache cent prophètes dans des grottes, les nourrissant"
+    },
+    {
+      "character_id": "obadiah-steward",
+      "position": 2,
+      "caption": "Craint que le message d'Élie ne lui coûte la vie"
+    },
+    {
+      "character_id": "obadiah-steward",
+      "position": 3,
+      "caption": "Transmet quand même le message d'Élie à Achab"
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "position": 0,
+      "caption": "Vient éprouver Salomon avec des questions difficiles"
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "position": 1,
+      "caption": "Salomon explique tout ; rien n'est trop difficile pour lui"
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "position": 2,
+      "caption": "« On ne m'en avait pas dit la moitié »"
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "position": 3,
+      "caption": "Jésus la mentionne comme exemple de recherche de la sagesse"
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "position": 0,
+      "caption": "« Je n'ai rien de cuit, seulement une poignée de farine »"
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "position": 1,
+      "caption": "Nourrit d'abord Élie ; la farine et l'huile ne s'épuisent pas"
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "position": 2,
+      "caption": "Son fils meurt ; elle affronte Élie dans son chagrin"
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "position": 3,
+      "caption": "Son fils est rendu à la vie"
+    },
+    {
+      "character_id": "shunammite-woman",
+      "position": 0,
+      "caption": "Aménage une chambre pour Élisée chaque fois qu'il passe"
+    },
+    {
+      "character_id": "shunammite-woman",
+      "position": 1,
+      "caption": "Un fils lui est promis, bien qu'elle pensât cela impossible"
+    },
+    {
+      "character_id": "shunammite-woman",
+      "position": 2,
+      "caption": "Son fils meurt soudainement ; elle le couche sur le lit d'Élisée"
+    },
+    {
+      "character_id": "shunammite-woman",
+      "position": 3,
+      "caption": "L'enfant éternue sept fois et ouvre les yeux"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 0,
+      "caption": "Consultée par le prêtre et les officiels royaux"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 1,
+      "caption": "Confirme le jugement dont le Livre avertit"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 2,
+      "caption": "Promet à Josias qu'il ne verra pas le désastre de son vivant, parce que son cœur était humble"
+    },
+    {
+      "character_id": "baruch",
+      "position": 0,
+      "caption": "Écrit toutes les paroles de Jérémie sous sa dictée"
+    },
+    {
+      "character_id": "baruch",
+      "position": 1,
+      "caption": "Le roi coupe et brûle le rouleau colonne par colonne"
+    },
+    {
+      "character_id": "baruch",
+      "position": 2,
+      "caption": "Réécrit tout de nouveau, avec davantage ajouté"
+    },
+    {
+      "character_id": "baruch",
+      "position": 3,
+      "caption": "Dit de se contenter simplement de survivre au désastre à venir"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 0,
+      "caption": "Dit au roi que Jérémie a été laissé pour mourir de faim dans la citerne"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 1,
+      "caption": "Utilise de vieux chiffons pour empêcher les cordes de blesser Jérémie en le remontant"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 2,
+      "caption": "Promis : « je te délivrerai certainement... parce que tu as mis ta confiance en moi »"
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 0,
+      "caption": "Nommé gouverneur sur ceux restés dans le pays"
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 1,
+      "caption": "« Ne craignez pas de servir les Chaldéens... vous vous en trouverez bien »"
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 2,
+      "caption": "Assassiné par Ismaël, de la famille royale"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 0,
+      "caption": "Installé comme roi par Nabuchodonosor"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 1,
+      "caption": "Se rebelle contre le roi de Babylone"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 2,
+      "caption": "Ses fils tués devant lui ; ses propres yeux ensuite crevés"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 3,
+      "caption": "Condamné pour avoir rompu son serment juré"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 0,
+      "caption": "Devient roi à dix-huit ans, règne trois mois"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 1,
+      "caption": "Se rend au roi de Babylone"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 2,
+      "caption": "Libéré de prison des décennies plus tard, traité avec bonté"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 3,
+      "caption": "Mange régulièrement à la propre table du roi pour le reste de sa vie"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 0,
+      "caption": "Demandent où est le roi des Juifs nouveau-né"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 1,
+      "caption": "« Nous avons vu son étoile en Orient, et nous sommes venus l'adorer »"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 2,
+      "caption": "Offrent des présents d'or, d'encens et de myrrhe"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 3,
+      "caption": "Avertis en songe, ils rentrent chez eux par un autre chemin"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 0,
+      "caption": "Un prisonnier, coupable de sédition et de meurtre"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 1,
+      "caption": "Pilate offre à la foule un choix entre lui et Jésus"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 2,
+      "caption": "La foule exige que Barabbas soit libéré"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 3,
+      "caption": "Libéré, tandis que Jésus est livré pour être crucifié"
+    },
+    {
+      "character_id": "malchus",
+      "position": 0,
+      "caption": "Pierre lui coupe l'oreille droite avec une épée"
+    },
+    {
+      "character_id": "malchus",
+      "position": 1,
+      "caption": "Jésus touche son oreille et le guérit"
+    },
+    {
+      "character_id": "jairus",
+      "position": 0,
+      "caption": "Tombe aux pieds de Jésus, le supplie de venir guérir sa fille"
+    },
+    {
+      "character_id": "jairus",
+      "position": 1,
+      "caption": "On lui dit : « ta fille est morte ; pourquoi tourmenter davantage le maître ? »"
+    },
+    {
+      "character_id": "jairus",
+      "position": 2,
+      "caption": "Jésus : « Ne crains pas, crois seulement »"
+    },
+    {
+      "character_id": "jairus",
+      "position": 3,
+      "caption": "« Talitha koumi » -- la fillette se lève et marche"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 0,
+      "caption": "Demande à l'étranger s'il est le seul à ne pas avoir entendu la nouvelle"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 1,
+      "caption": "« Nous espérions que ce serait lui qui délivrerait Israël »"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 2,
+      "caption": "Reconnaît Jésus dans la fraction du pain"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 3,
+      "caption": "« Notre cœur ne brûlait-il pas au-dedans de nous, quand il nous parlait en chemin ? »"
+    },
+    {
+      "character_id": "joanna",
+      "position": 0,
+      "caption": "Parmi les femmes qui soutenaient Jésus de leurs propres biens"
+    },
+    {
+      "character_id": "joanna",
+      "position": 1,
+      "caption": "L'une des femmes qui rapporte le tombeau vide aux apôtres"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 0,
+      "caption": "« Dis seulement une parole, et mon serviteur sera guéri »"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 1,
+      "caption": "Comprend l'autorité : il dit va, et l'on va"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 2,
+      "caption": "Jésus « s'étonna » : « Je n'ai pas trouvé une aussi grande foi »"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 3,
+      "caption": "Son serviteur guéri à ce moment même"
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 0,
+      "caption": "Réprimande l'autre criminel : « et nous, c'est justice »"
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 1,
+      "caption": "« Jésus, souviens-toi de moi, quand tu viendras dans ton règne »"
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 2,
+      "caption": "« Aujourd'hui tu seras avec moi dans le paradis »"
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 0,
+      "caption": "« J'ai observé toutes ces choses dès ma jeunesse »"
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 1,
+      "caption": "Jésus, le regardant, l'aima : « va, vends ce que tu as »"
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 2,
+      "caption": "S'en va tout triste, car il avait de grands biens"
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 3,
+      "caption": "Jésus : « Aux hommes cela est impossible, mais non à Dieu »"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 0,
+      "caption": "Amenée devant Jésus, accusée publiquement"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 1,
+      "caption": "« Que celui de vous qui est sans péché jette le premier la pierre »"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 2,
+      "caption": "Les accusateurs s'en vont, l'un après l'autre, jusqu'à ce qu'il n'en reste plus"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 3,
+      "caption": "« Moi non plus, je ne te condamne pas. Va, et ne pèche plus »"
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "position": 0,
+      "caption": "Ses amis creusent à travers le toit pour le descendre"
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "position": 1,
+      "caption": "Jésus, voyant leur foi : « tes péchés te sont pardonnés »"
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "position": 2,
+      "caption": "Qu'est-ce qui est le plus facile à dire -- pardonné, ou lève-toi et marche ?"
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "position": 3,
+      "caption": "Se lève, prend son grabat, et sort devant tous"
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "position": 0,
+      "caption": "Douze ans de souffrance, pire après de nombreux médecins"
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "position": 1,
+      "caption": "« Si je touche seulement ses vêtements, je serai guérie »"
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "position": 2,
+      "caption": "Aussitôt le flux de sang s'arrête"
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "position": 3,
+      "caption": "« Ma fille, ta foi t'a sauvée ; va en paix »"
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "position": 0,
+      "caption": "Portant son fils unique en terre, une veuve"
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "position": 1,
+      "caption": "Jésus « fut ému de compassion pour elle »"
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "position": 2,
+      "caption": "« Jeune homme, je te le dis, lève-toi »"
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "position": 3,
+      "caption": "Jésus le rend à sa mère"
+    },
+    {
+      "character_id": "the-poor-widow",
+      "position": 0,
+      "caption": "Met deux petites pièces de cuivre"
+    },
+    {
+      "character_id": "the-poor-widow",
+      "position": 1,
+      "caption": "« Cette pauvre veuve a donné plus que tous les autres »"
+    },
+    {
+      "character_id": "the-poor-widow",
+      "position": 2,
+      "caption": "« Elle a mis, de son indigence, tout ce qu'elle avait pour vivre »"
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "position": 0,
+      "caption": "Supplie Jésus de chasser le démon hors de sa fille"
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "position": 1,
+      "caption": "La réponse initiale de Jésus : « laisse d'abord rassasier les enfants »"
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "position": 2,
+      "caption": "« Même les petits chiens, sous la table, mangent les miettes des enfants »"
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "position": 3,
+      "caption": "« À cause de cette parole, va » -- le démon a quitté sa fille"
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "position": 0,
+      "caption": "Juge Jésus dans son cœur pour avoir laissé une femme pécheresse le toucher"
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "position": 1,
+      "caption": "« Tu ne m'as point donné d'eau pour les pieds »"
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "position": 2,
+      "caption": "« Celui à qui on pardonne peu, aime peu »"
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "position": 0,
+      "caption": "Oint de boue, dit d'aller se laver dans la piscine de Siloé"
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "position": 1,
+      "caption": "« Je sais une chose, c'est que j'étais aveugle et que maintenant je vois »"
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "position": 2,
+      "caption": "« Si cet homme ne venait pas de Dieu, il ne pourrait rien faire »"
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "position": 3,
+      "caption": "« Seigneur, je crois », et il l'adore"
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "position": 0,
+      "caption": "Dix lépreux crient pitié de loin"
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "position": 1,
+      "caption": "« Allez vous montrer aux prêtres » -- purifiés en chemin"
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "position": 2,
+      "caption": "L'un revient, louant Dieu, et tombe aux pieds de Jésus"
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "position": 3,
+      "caption": "« N'y en a-t-il pas dix qui ont été guéris ? Où sont les neuf autres ? »"
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 0,
+      "caption": "Pleure à ses pieds, les essuie avec ses cheveux, les oint"
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 1,
+      "caption": "Contrastée avec le manque de courtoisie élémentaire de son hôte"
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 2,
+      "caption": "« Ses péchés, qui sont nombreux, lui sont pardonnés, car elle a beaucoup aimé »"
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 3,
+      "caption": "« Ta foi t'a sauvée. Va en paix »"
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 0,
+      "caption": "Demande à Jésus d'asseoir ses fils à sa droite et à sa gauche"
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 1,
+      "caption": "Jésus : « Vous ne savez ce que vous demandez »"
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 2,
+      "caption": "Présente à la crucifixion, observant de loin"
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 3,
+      "caption": "Vient au tombeau avec des aromates le matin de Pâques"
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "position": 0,
+      "caption": "Présente à la crucifixion, observant de loin"
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "position": 1,
+      "caption": "Vient au tombeau avec des aromates"
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "position": 2,
+      "caption": "Rapporte le tombeau vide aux onze apôtres"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 0,
+      "caption": "Vivait parmi les tombeaux ; aucune chaîne ne pouvait le lier"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 1,
+      "caption": "« Mon nom est Légion, car nous sommes plusieurs »"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 2,
+      "caption": "Trouvé « assis, vêtu, et dans son bon sens »"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 3,
+      "caption": "Renvoyé chez lui à la place : « raconte-leur les grandes choses que le Seigneur t'a faites »"
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 0,
+      "caption": "La gloire du Seigneur resplendit autour d'eux ; ils sont terrifiés"
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 1,
+      "caption": "« Je vous annonce une bonne nouvelle qui sera pour un grand sujet de joie... un Sauveur... le Christ, le Seigneur »"
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 2,
+      "caption": "« Allons jusqu'à Bethléem, et voyons cette chose qui est arrivée »"
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 3,
+      "caption": "Reviennent glorifiant et louant Dieu pour tout ce qu'ils avaient entendu et vu"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 0,
+      "caption": "Vendent une propriété, en gardent secrètement une partie du produit"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 1,
+      "caption": "Pierre : « pourquoi Satan a-t-il rempli ton cœur, au point de mentir au Saint-Esprit ? »"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 2,
+      "caption": "Ananias tombe et meurt en entendant cela"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 3,
+      "caption": "Saphira répète le mensonge, et meurt de la même manière"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 0,
+      "caption": "Objecte : il a entendu parler de la réputation de cet homme"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 1,
+      "caption": "Il lui est dit que Saul est « l'instrument choisi » de Dieu"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 2,
+      "caption": "Impose les mains à Saul, l'appelle « frère »"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 3,
+      "caption": "Des écailles tombent des yeux de Saul ; il est baptisé"
+    },
+    {
+      "character_id": "gamaliel",
+      "position": 0,
+      "caption": "Un docteur « estimé de tout le peuple »"
+    },
+    {
+      "character_id": "gamaliel",
+      "position": 1,
+      "caption": "« Si cette entreprise vient des hommes, elle se détruira ; mais si elle vient de Dieu, vous ne pourrez la détruire »"
+    },
+    {
+      "character_id": "gamaliel",
+      "position": 2,
+      "caption": "Paul le nomme plus tard comme le maître « aux pieds de Gamaliel »"
+    },
+    {
+      "character_id": "agabus",
+      "position": 0,
+      "caption": "Prédit une grande famine, qui survint sous Claude"
+    },
+    {
+      "character_id": "agabus",
+      "position": 1,
+      "caption": "Se lie les mains et les pieds avec la ceinture de Paul en signe"
+    },
+    {
+      "character_id": "agabus",
+      "position": 2,
+      "caption": "« Ainsi les Juifs... lieront l'homme à qui appartient cette ceinture »"
+    },
+    {
+      "character_id": "agabus",
+      "position": 3,
+      "caption": "Paul, imperturbable : « Je suis prêt... à mourir à Jérusalem »"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 0,
+      "caption": "Émerveille la Samarie par sa magie depuis longtemps"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 1,
+      "caption": "Croit, est baptisé, suit Philippe"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 2,
+      "caption": "Offre de l'argent pour acheter le pouvoir de donner le Saint-Esprit"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 3,
+      "caption": "Pierre : « Que ton argent périsse avec toi »"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 4,
+      "caption": "Demande à Pierre de prier pour lui, effrayé par le jugement énoncé"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 0,
+      "caption": "Un homme intelligent, veut entendre la parole de Dieu"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 1,
+      "caption": "Le magicien Élymas tente de le détourner de la foi"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 2,
+      "caption": "Élymas frappé de cécité sous ses yeux"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 3,
+      "caption": "Croit, étonné par l'enseignement sur le Seigneur"
+    },
+    {
+      "character_id": "rhoda",
+      "position": 0,
+      "caption": "Reconnaît la voix de Pierre, mais oublie d'ouvrir la porte dans sa joie"
+    },
+    {
+      "character_id": "rhoda",
+      "position": 1,
+      "caption": "Les autres ne la croient pas : « Tu es folle »"
+    },
+    {
+      "character_id": "rhoda",
+      "position": 2,
+      "caption": "Pierre continue de frapper jusqu'à ce qu'ils voient enfin par eux-mêmes"
+    },
+    {
+      "character_id": "eutychus",
+      "position": 0,
+      "caption": "S'endort, tombe du troisième étage, relevé mort"
+    },
+    {
+      "character_id": "eutychus",
+      "position": 1,
+      "caption": "Paul l'embrasse : « son âme est en lui »"
+    },
+    {
+      "character_id": "eutychus",
+      "position": 2,
+      "caption": "Ramené vivant, tous grandement réconfortés"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 0,
+      "caption": "Saisi par la foule pendant l'émeute à Éphèse"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 1,
+      "caption": "Accompagne Paul dans le voyage vers Rome"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 2,
+      "caption": "Appelé le « compagnon de captivité » de Paul"
+    },
+    {
+      "character_id": "epaphras",
+      "position": 0,
+      "caption": "Un fidèle ministre de Christ en faveur des Colossiens"
+    },
+    {
+      "character_id": "epaphras",
+      "position": 1,
+      "caption": "« Combattant toujours pour vous dans ses prières... il a un grand zèle pour vous »"
+    },
+    {
+      "character_id": "epaphras",
+      "position": 2,
+      "caption": "Nommé « compagnon de captivité » de Paul"
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 0,
+      "caption": "Le « frère, compagnon d'œuvre et compagnon d'armes » de Paul"
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 1,
+      "caption": "Fut malade, près de la mort, mais Dieu eut pitié de lui"
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 2,
+      "caption": "Risqua sa vie pour accomplir ce que les Philippiens ne pouvaient faire eux-mêmes"
+    },
+    {
+      "character_id": "phoebe",
+      "position": 0,
+      "caption": "« Servante de l'Église de Cenchrées »"
+    },
+    {
+      "character_id": "phoebe",
+      "position": 1,
+      "caption": "« Elle a donné assistance à plusieurs, et à moi-même »"
+    },
+    {
+      "character_id": "junia",
+      "position": 0,
+      "caption": "« Distingués parmi les apôtres, et qui même ont été en Christ avant moi »"
+    },
+    {
+      "character_id": "andronicus",
+      "position": 0,
+      "caption": "« Mes parents et mes compagnons de captivité... en Christ avant moi »"
+    },
+    {
+      "character_id": "erastus",
+      "position": 0,
+      "caption": "Envoyé en avant par Paul en Macédoine"
+    },
+    {
+      "character_id": "erastus",
+      "position": 1,
+      "caption": "« Le trésorier de la ville »"
+    },
+    {
+      "character_id": "erastus",
+      "position": 2,
+      "caption": "Resté à Corinthe"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 0,
+      "caption": "Accompagne Paul dans son voyage"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 1,
+      "caption": "Envoyé pour raconter aux Éphésiens tout ce qui concerne Paul"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 2,
+      "caption": "« Un frère bien-aimé, un fidèle serviteur »"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 3,
+      "caption": "Envoyé pour relever Tite en Crète"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 0,
+      "caption": "Accompagne Paul depuis l'Asie"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 1,
+      "caption": "Faussement supposé avoir été amené dans le Temple"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 2,
+      "caption": "Laissé malade à Milet"
+    },
+    {
+      "character_id": "gaius",
+      "position": 0,
+      "caption": "Saisi lors de l'émeute à Éphèse aux côtés d'Aristarque"
+    },
+    {
+      "character_id": "gaius",
+      "position": 1,
+      "caption": "« Mon hôte, et celui de toute l'Église »"
+    },
+    {
+      "character_id": "gaius",
+      "position": 2,
+      "caption": "Adressé personnellement : « le bien-aimé, que j'aime dans la vérité »"
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 0,
+      "caption": "Saisi et battu devant le tribunal"
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 1,
+      "caption": "Nommé avec Paul comme co-expéditeur de la lettre : « Sosthène, le frère »"
+    },
+    {
+      "character_id": "crispus",
+      "position": 0,
+      "caption": "Croit au Seigneur avec toute sa maison"
+    },
+    {
+      "character_id": "crispus",
+      "position": 1,
+      "caption": "Paul : « J'ai baptisé... Crispus »"
+    },
+    {
+      "character_id": "demas",
+      "position": 0,
+      "caption": "Nommé parmi les collaborateurs de Paul, sans commentaire"
+    },
+    {
+      "character_id": "demas",
+      "position": 1,
+      "caption": "Cité de nouveau comme collaborateur"
+    },
+    {
+      "character_id": "demas",
+      "position": 2,
+      "caption": "« Démas m'a abandonné, ayant aimé le présent siècle »"
+    },
+    {
+      "character_id": "manaen",
+      "position": 0,
+      "caption": "Nommé parmi les prophètes et docteurs d'Antioche, « qui avait été élevé avec Hérode le tétrarque »"
+    },
+    {
+      "character_id": "manaen",
+      "position": 1,
+      "caption": "Présent quand le Saint-Esprit met à part Paul et Barnabas"
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "position": 0,
+      "caption": "Nommé parmi les prophètes et docteurs d'Antioche"
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "position": 1,
+      "caption": "Présent quand le Saint-Esprit appelle Paul et Barnabas"
+    },
+    {
+      "character_id": "simeon-called-niger",
+      "position": 0,
+      "caption": "Nommé parmi les prophètes et docteurs d'Antioche, « appelé Niger »"
+    },
+    {
+      "character_id": "archippus",
+      "position": 0,
+      "caption": "« Prends garde au ministère que tu as reçu dans le Seigneur, afin de le bien remplir »"
+    },
+    {
+      "character_id": "archippus",
+      "position": 1,
+      "caption": "Appelé le « compagnon d'armes » de Paul"
+    },
+    {
+      "character_id": "nympha",
+      "position": 0,
+      "caption": "« Nympha, et l'Église qui est dans sa maison »"
+    },
+    {
+      "character_id": "stephanas",
+      "position": 0,
+      "caption": "Paul : « J'ai aussi baptisé la famille de Stéphanas »"
+    },
+    {
+      "character_id": "stephanas",
+      "position": 1,
+      "caption": "Sa famille, « les prémices de l'Achaïe »"
+    },
+    {
+      "character_id": "stephanas",
+      "position": 2,
+      "caption": "Sa visite « a tranquillisé mon esprit et le vôtre »"
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 0,
+      "caption": "Choisis pour leur bonne réputation, pleins de l'Esprit et de sagesse"
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 1,
+      "caption": "Nommés aux côtés d'Étienne et de Philippe"
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 2,
+      "caption": "Les apôtres prient et leur imposent les mains"
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 0,
+      "caption": "« Qui aime à être le premier parmi eux, ne nous reçoit pas »"
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 1,
+      "caption": "Parle contre l'apôtre avec « des paroles méchantes »"
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 2,
+      "caption": "Refuse d'accueillir les croyants itinérants, et empêche les autres de le faire"
+    },
+    {
+      "character_id": "demetrius-the-disciple",
+      "position": 0,
+      "caption": "« Démétrius a le témoignage de tous, et de la vérité elle-même »"
+    },
+    {
+      "character_id": "matthias",
+      "position": 0,
+      "caption": "Qualifié : avait été avec eux depuis le baptême de Jean jusqu'à l'ascension"
+    },
+    {
+      "character_id": "matthias",
+      "position": 1,
+      "caption": "Les apôtres prient avant de tirer au sort"
+    },
+    {
+      "character_id": "matthias",
+      "position": 2,
+      "caption": "Le sort tombe sur lui ; « il fut associé aux onze apôtres »"
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "position": 0,
+      "caption": "Proposé aux côtés de Matthias comme candidat"
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "position": 1,
+      "caption": "Le sort tombe plutôt sur Matthias"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 0,
+      "caption": "Fait tuer par l'épée Jacques, frère de Jean"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 1,
+      "caption": "Procède aussi à l'arrestation de Pierre, voyant que cela plaisait au peuple"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 2,
+      "caption": "La foule crie : « C'est la voix d'un dieu, et non d'un homme »"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 3,
+      "caption": "Frappé par un ange, rongé par les vers, et meurt"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 0,
+      "caption": "Vient à Césarée avec Bérénice pour saluer Festus"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 1,
+      "caption": "Paul : « Je m'estime heureux... de me défendre aujourd'hui devant toi »"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 2,
+      "caption": "« Tu me persuaderais bientôt de devenir chrétien »"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 3,
+      "caption": "Conclut que Paul aurait pu être libéré, s'il n'avait pas fait appel à César"
+    },
+    {
+      "character_id": "felix",
+      "position": 0,
+      "caption": "Devient effrayé alors que Paul raisonne sur la justice et le jugement"
+    },
+    {
+      "character_id": "felix",
+      "position": 1,
+      "caption": "« Pour le moment, retire-toi ; quand j'aurai un moment favorable, je te rappellerai »"
+    },
+    {
+      "character_id": "felix",
+      "position": 2,
+      "caption": "Espère que Paul lui offrira de l'argent"
+    },
+    {
+      "character_id": "felix",
+      "position": 3,
+      "caption": "Laisse Paul en prison pour plaire aux Juifs en quittant sa charge"
+    },
+    {
+      "character_id": "festus",
+      "position": 0,
+      "caption": "Demande à Paul s'il est prêt à être jugé à Jérusalem à la place"
+    },
+    {
+      "character_id": "festus",
+      "position": 1,
+      "caption": "Paul en appelle à César ; Festus l'accorde"
+    },
+    {
+      "character_id": "festus",
+      "position": 2,
+      "caption": "Décrit l'affaire à Agrippa comme une dispute sur la religion juive"
+    },
+    {
+      "character_id": "festus",
+      "position": 3,
+      "caption": "« Paul, tu es fou ; ton grand savoir te met hors de sens »"
+    },
+    {
+      "character_id": "elymas",
+      "position": 0,
+      "caption": "Un faux prophète et magicien juif"
+    },
+    {
+      "character_id": "elymas",
+      "position": 1,
+      "caption": "S'oppose à Paul et Barnabas, essayant de détourner le proconsul de la foi"
+    },
+    {
+      "character_id": "elymas",
+      "position": 2,
+      "caption": "Paul : « rempli de toute ruse et de toute méchanceté, fils du diable »"
+    },
+    {
+      "character_id": "elymas",
+      "position": 3,
+      "caption": "Frappé de cécité, pour un temps, sur la parole de Paul"
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "position": 0,
+      "caption": "« M'a fait beaucoup de mal. Le Seigneur lui rendra selon ses œuvres »"
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "position": 1,
+      "caption": "« Garde-toi aussi de lui, car il s'est fortement opposé à nos paroles »"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 0,
+      "caption": "Fabrique des sanctuaires en argent d'Artémis ; un commerce lucratif"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 1,
+      "caption": "Avertit les autres artisans que l'enseignement de Paul menace leur commerce et l'honneur de la déesse"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 2,
+      "caption": "La foule s'écrie : « Grande est l'Artémis des Éphésiens ! »"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 3,
+      "caption": "Toute la ville plongée dans la confusion à ce sujet"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 0,
+      "caption": "« M'a souvent réconforté, et n'a pas eu honte de mes chaînes »"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 1,
+      "caption": "Chercha Paul avec diligence à Rome, et le trouva"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 2,
+      "caption": "Paul prie qu'il trouve miséricorde auprès du Seigneur « en ce jour-là »"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 0,
+      "caption": "« Comment le pourrais-je, si quelqu'un ne me guide ? »"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 1,
+      "caption": "Lisant le passage même qui prédisait la souffrance du Christ"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 2,
+      "caption": "Philippe « lui annonça Jésus », à partir de cette Écriture"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 3,
+      "caption": "Baptisé sur-le-champ, et continue son chemin plein de joie"
     }
   ]
 }

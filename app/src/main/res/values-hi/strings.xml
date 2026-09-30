@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Pocket Bible</string>
+    <string name="app_name">Pocket Bible V2</string>
 
     <string name="nav_topics">विषय</string>
     <string name="nav_read">बाइबिल</string>
@@ -17,6 +17,18 @@
     <string name="home_matches">मिलान</string>
     <string name="home_i_am_feeling">मैं महसूस कर रहा/रही हूँ…</string>
     <string name="home_verse_of_day">आज का पद</string>
+
+    <!-- Daily readings -->
+    <string name="reading_title">आज के पाठ</string>
+    <string name="reading_role_first_reading">पहला पाठ</string>
+    <string name="reading_role_psalm">प्रत्युत्तर स्तोत्र</string>
+    <string name="reading_role_second_reading">दूसरा पाठ</string>
+    <string name="reading_role_acclamation">सुसमाचार से पहले आह्वान</string>
+    <string name="reading_role_gospel">सुसमाचार</string>
+    <string name="reading_text_unavailable">इस भाषा में अभी उपलब्ध नहीं है।</string>
+    <string name="reading_reflection_heading">चिंतन</string>
+    <string name="reading_refrain_prefix">R. %1$s</string>
+    <string name="reading_none_today">आज की तारीख के लिए अभी तक कोई पाठ लोड नहीं हुआ है।</string>
 
     <string name="read_title">बाइबिल</string>
     <string name="read_subtitle">सीधे किसी संदर्भ पर जाएं, या नीचे उपलब्ध सामग्री ब्राउज़ करें।</string>
@@ -41,6 +53,8 @@
 
     <string name="saved_title">सहेजे गए</string>
     <string name="saved_empty">आपके सहेजे गए पद यहां दिखाई देते हैं और ऑफ़लाइन भी उपलब्ध रहते हैं।</string>
+    <string name="saved_stories_title">सहेजी गई कहानियां</string>
+    <string name="saved_stories_empty">आपकी सहेजी गई कहानियां यहां दिखाई देती हैं और ऑफ़लाइन भी उपलब्ध रहती हैं।</string>
 
     <!-- Personalities tab -->
     <string name="character_title">व्यक्तित्व</string>
@@ -74,7 +88,7 @@
     <string name="verse_short_prayer">एक छोटी प्रार्थना</string>
     <string name="verse_saved">सहेजा गया</string>
     <string name="verse_save">सहेजें</string>
-    <string name="verse_another">दूसरा</string>
+    <string name="verse_another">दूसरा पद</string>
 
     <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">उत्पत्ति</string>
@@ -150,4 +164,42 @@
     <string name="book_3jo">3 यूहन्ना</string>
     <string name="book_jude">यहूदा</string>
     <string name="book_rev">प्रकाशितवाक्य</string>
+    <string name="character_prayer_heading">एक प्रार्थना</string>
+    <string name="character_reflection_heading">मनन के लिए</string>
+    <string name="nav_daily">पाठ &amp;\nचिंतन</string>
+    <string name="nav_stories">कहानियाँ</string>
+    <string name="reading_date_picker_cancel">रद्द करें</string>
+    <string name="reading_date_picker_confirm">ठीक है</string>
+    <string name="reading_next_day">अगला दिन</string>
+    <string name="reading_previous_day">पिछला दिन</string>
+    <string name="reading_today">आज पर जाएँ</string>
+    <string name="story_book_group_acts">प्रेरितों के काम</string>
+    <string name="story_book_group_deuterocanonical">द्वितीयक विहित पुस्तकें</string>
+    <string name="story_book_group_historical">ऐतिहासिक</string>
+    <string name="story_book_group_infancy">बाल्यकाल की कहानियाँ</string>
+    <string name="story_book_group_ministry_miracles">सेवकाई और चमत्कार</string>
+    <string name="story_book_group_parables">दृष्टांत</string>
+    <string name="story_book_group_passion_resurrection">दुःखभोग और पुनरुत्थान</string>
+    <string name="story_book_group_pentateuch">पेंतातुक (मूसा की पुस्तकें)</string>
+    <string name="story_book_group_prophets">भविष्यद्वक्ता</string>
+    <string name="story_book_group_revelation">प्रकाशितवाक्य</string>
+    <string name="story_book_group_teachings_encounters">शिक्षाएँ और भेंट</string>
+    <string name="story_book_group_wisdom">बुद्धि साहित्य</string>
+    <string name="story_moral_heading">शिक्षा</string>
+    <string name="story_no_matches">इस खोज से कोई कहानी मेल नहीं खाती।</string>
+    <string name="story_none_yet">कहानियाँ जल्द आ रही हैं — फिर देखें।</string>
+    <string name="story_reflection_heading">मनन के लिए</string>
+    <string name="story_related_characters_heading">संबंधित व्यक्तित्व</string>
+    <string name="story_scripture_heading">शास्त्र संदर्भ</string>
+    <string name="story_scripture_scroll_hint">इस कहानी के शास्त्र संदर्भ अंत में हैं — नीचे स्क्रॉल करें।</string>
+    <string name="story_search_placeholder">शीर्षक या शिक्षा से खोजें</string>
+    <string name="story_subtitle">बाइबिल की कहानियाँ और दृष्टांत, सरलता से फिर से बताए गए, हर उम्र के लिए एक शिक्षा के साथ।</string>
+    <string name="story_testament_all">सभी</string>
+    <string name="story_testament_nt">नया नियम</string>
+    <string name="story_testament_ot">पुराना नियम</string>
+    <string name="story_title">कहानियाँ</string>
+    <string name="story_type_all">सभी प्रकार</string>
+    <string name="story_type_miracle">चमत्कार</string>
+    <string name="story_type_narrative">वर्णन</string>
+    <string name="story_type_parable">दृष्टांत</string>
 </resources>

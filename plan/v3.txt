@@ -1,0 +1,56 @@
+Compacted conversationSure, I can help you save this plan under `docs` for the next session. Here's the plan:
+
+---
+
+### Pocket Bible Project Plan
+
+#### Overview
+- **Objective**: Create a pocket-sized Bible app that supports multiple languages and provides a seamless reading experience.
+- **Scope**: Focus on the Read tab, which should display the Bible text in the user's chosen language.
+- **Timeline**: 2 weeks
+
+#### Key Features
+- **Language Support**: Allow users to switch between English and German.
+- **Read Tab**: Display the Bible text in the user's chosen language.
+- **Offline Access**: Store the Bible text offline for offline reading.
+- **User Interface**: A clean and intuitive UI with a focus on readability.
+
+#### Implementation Steps
+
+1. **Set Up the Project**
+   - **Tools**: Use Android Studio for development, Kotlin for the app logic, and Room for data persistence.
+   - **Dependencies**: Add necessary libraries for language support and offline storage.
+
+2. **Design the User Interface**
+   - **Layouts**: Create a layout for the Read tab that displays the Bible text and allows users to switch languages.
+   - **Navigation**: Implement a navigation bar to switch between the Read tab and other tabs.
+
+3. **Implement Language Support**
+   - **Locale Handling**: Use `AppCompatDelegate.setApplicationLocales` to handle language switching.
+   - **Translation Files**: Create translation files for each language (e.g., `values-de/`, `values-fr/`) and update them as needed.
+
+4. **Load Bible Text Offline**
+   - **Data Storage**: Use Room to store Bible text offline.
+   - **Scripture Import**: Develop scripts to import Bible text from various sources (e.g., epub, plain text) and update `manifest.json` accordingly.
+
+5. **Ensure Read Tab Functionality**
+   - **Book and Chapter List**: Display a list of books and chapters in the user's chosen language.
+   - **Verse Display**: Show verses in the user's chosen language.
+   - **Language Switching**: Update the Read tab when the user switches languages.
+
+6. **Testing and Debugging**
+   - **Unit Tests**: Write unit tests for language handling and data persistence.
+   - **Integration Tests**: Test the Read tab's functionality across different languages and devices.
+
+7. **Deployment**
+   - **Build**: Build the app for release.
+   - **Distribution**: Distribute the app through appropriate channels (e.g., Google Play Store).
+
+#### Next Steps
+- **Review and Refine**: Review the implementation and refine the UI based on feedback.
+- **Testing**: Conduct thorough testing to ensure the app functions as expected.
+- **Deployment**: Prepare the app for release and distribute it.
+
+---
+
+This plan outlines the steps and key features for building the Pocket Bible app. It provides a structured approach to ensure a smooth and efficient development process.

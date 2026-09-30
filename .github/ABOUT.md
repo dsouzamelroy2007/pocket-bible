@@ -13,7 +13,7 @@ This is a **prototype**—real, runnable source code designed to validate the co
 ## Key Capabilities
 
 - **📖 Full Biblical Text**: 73-book Catholic canon in English, with German (Schlachter 1951 translation) for the 66-book Protestant canon
-- **🌍 Multi-Language Support**: UI in English, German, French, Portuguese, Spanish, Hindi, Italian, and Marathi
+- **🌍 Multi-Language Support**: UI in English, German, French, Portuguese, Hindi, Italian, and Marathi (Spanish deferred to v3 — see "Version 3" below)
 - **❤️ Feelings-to-Scripture Mapping**: Curated passages, reflections, and prayers linked to emotional states
 - **✝️ Fully Offline**: No internet connection required; all content is bundled
 - **💾 Persistent Storage**: Save favorite passages via Room database
@@ -50,6 +50,545 @@ See the main [README.md](../README.md#running-it) for build and run instructions
 - Crisis content handling (with links to professional resources)
 - Accessibility audit and dark-mode contrast verification
 - Production app signing and Play Store release
+
+## Version 2 Scope
+
+In development on the `v2` branch, kept separate from `main` and not merged
+back until v1 finishes closed testing and goes live in production. The
+`v2` branch also has its own `applicationId` (`app.pocketbible.v2`), app
+label ("Pocket Bible V2"), and CI-built APK filename
+(`pocket-bible-v2-debug.apk`), so a v2 debug build can be installed
+side-by-side with the live v1 app on the same device.
+
+- **Biblical characters, 114 → 366**: one character per calendar day
+  (366 to cover a leap year), each day mapped to a character chosen for
+  that day's liturgical or scriptural significance — e.g. Jesus Christ on
+  December 25, Joseph (father of Jesus) on May 1, Mother Mary on
+  September 8.
+- **Verse of the Day, all languages**: 365 distinct motivational verses
+  (366 for leap years) rotated one-per-day, translated into every
+  supported UI language rather than English-only.
+- **Daily Catholic readings**: daily Mass readings, responsorial psalm,
+  and reflections, driven by lectionary citations (not full USCCB text)
+  fetched from [cpbjr/catholic-readings-api](https://github.com/cpbjr/catholic-readings-api)
+  (free, open-source, GitHub Pages, verified against US Catholic
+  liturgical norms and the General Roman Calendar for the United
+  States). Citations only, fetched once and cached permanently into this
+  repo by a scheduled job — never re-fetched live on page load — with a
+  small manually-maintained fallback table for major solemnities in case
+  the source ever goes dark. Since lectionary citations are published a
+  year at a time, each build version covers through the end of a given
+  year: v2 covers through December 2026, v3 will extend through the end
+  of 2027, and so on.
+- **Daily notifications (email + WhatsApp)**: sent at 6:00 AM GMT to
+  users who opt in, containing the verse of the day, the daily
+  reading/reflection, and that day's mapped biblical character.
+
+## Version 2 Phased Plan
+
+Phases 1–3 are pure content + in-app work, no new infrastructure, and can
+each ship independently. Phase 4 is the one architectural pivot — it's the
+only part of v2 that needs the app (or an external surface) to talk to a
+network at all. Phase 5 is the pre-release cleanup every other phase
+leaves behind.
+
+**Cross-cutting strategy**: for every content phase below, ship
+English-complete first and let the existing fallback-to-English mechanism
+(`feeling_translation`/`entry_translation`/`character_translation`
+pattern in `ContentModel.kt`) cover the other 6 languages until each is
+translated — this is exactly how the current 27 topics and 114 characters
+already degrade gracefully for a language with partial coverage, so v2's
+much larger content volume doesn't have to block on translating
+everything before anything ships. (Spanish is not one of v2's shipped
+languages — see "Version 3" below.)
+
+### Phase 1 — Biblical characters: 114 → 366 — **DONE**
+
+- Final shape: a `character_of_day` table (`month_day -> character_id`,
+  same shape as `daily_passages`, not a field on the character itself —
+  this is what lets a character repeat on more than one day) fills all
+  366 days. 114 original characters + 166 newly authored + 86 repeat days
+  (a fixed pool of ~29 central figures cycled 2-3x each, since the pool of
+  genuinely significant, non-padding figures runs out around 280) = 366
+  filled, no gaps.
+- Real Catholic feast days used wherever one applies and isn't already
+  claimed by someone sharing that official day; Old Testament figures
+  (no Catholic feast day exists for them at all) and any figure who lost
+  a shared-feast tiebreak are placed by a specific thematic connection
+  where one could be found (e.g. Moses on the Transfiguration, Job's
+  friends the days right after his), falling back to canonical/narrative
+  order only when no real connection exists.
+- ~20 characters whose defining role is a sin a reader might recognize in
+  themselves carry `reflection`/`prayer` fields (nullable, null for
+  everyone else) — not scripture text, original devotional content naming
+  the specific sin and a short prayer of turning away from it.
+- English-complete; translation into the other 7 languages not done yet
+  (falls back to English per the cross-cutting strategy above).
+- **Deferred to a later phase**: an in-app "Character of the Day" screen.
+  The data and the `characterOfDay(monthDay)` query both exist and work
+  (mirroring `verseOfDay`/`passageOfDay`) — nothing in `MainViewModel` or
+  the UI calls it yet. Wire it up whenever that phase comes around.
+
+### Phase 2 — Verse of the Day: true 365/366, all languages
+
+- Current state: `daily_passages` in `topics.json` already has 366
+  `month_day` entries, but only 108 distinct passages cycling by
+  rotation (per the file's own `_note`), English only.
+- Curate 365/366 independently-picked, verified verses (checked against
+  the WEB-CE source the same way the original 14 topics were, per the
+  existing verification caveat already on record in `topics.json`) — not
+  a rotation of a smaller set.
+- Translate the daily verse pool into all 8 UI languages (same
+  incremental/fallback strategy as Phase 1). Note this is verse
+  *selection*, not re-translating scripture text — the actual verse text
+  still resolves from each language's existing `scripture/<translation-id>/`
+  files, same mechanism the Read tab and Characters tab already use.
+
+### Phase 3 — Daily Catholic lectionary readings — **2026 & 2027 content-complete**
+
+- One-time+annual pipeline: fetch a year's daily citations (readings,
+  responsorial psalm) from
+  [cpbjr/catholic-readings-api](https://github.com/cpbjr/catholic-readings-api),
+  parse them into `content/lectionary/<year>.json`. The app never calls the
+  API directly — it only ever reads the committed, parsed file.
+- Because these are citations only (book/chapter/verse, like
+  `character.verse_refs` already are), the actual reading text resolves
+  the same way character verse references already do: live lookup
+  against the bundled `scripture_verse` table for whichever translation
+  is current. No new copyright exposure, no new bundled text.
+- Reflections are original devotional prose (like topic reflections),
+  authored per day, English first.
+- `DailyReading`/`ReadingCitation` Room entities, keyed by real ISO date
+  (not `month_day` — the specific reading assigned to a given calendar
+  date shifts year to year, so each year needs its own full set of rows).
+  `manifest.json`'s `"lectionary"` array lists every year currently
+  loaded; `SeedLoader` already loops over the whole array generically, so
+  adding a year is a data change only, never a code change.
+- A Daily Readings & Reflection tab with day-by-day navigation (previous/
+  next, a "Today" shortcut, and a date picker) whose selectable range is
+  read live from the earliest/latest date actually seeded — it widens
+  automatically the day a new year's file is added, no code touched.
+- **Recurs yearly, and turned out to need a full re-author each time, not
+  just an update**: comparing 2026 and 2027 citation-by-citation showed
+  that only truly fixed-date solemnities (Christmas, Assumption, etc.,
+  maybe ~15-20 days) keep identical readings year to year. Every other
+  day's specific reading shifts, because Easter's date moves the whole
+  Lent/Easter block, which moves when Ordinary Time starts, which shifts
+  which specific weekday-in-cycle lands on any given calendar date — on
+  top of the Sunday A/B/C and weekday Year I/II rotations. So a new
+  year's ~365 reflections are essentially a fresh writing pass, not a
+  port of the previous year's — see "Adding a new lectionary year" below.
+
+#### Adding a new lectionary year
+
+Repeatable runbook, same one used for 2027 — nothing here should need to
+change for 2028, 2029, etc.:
+
+1. `python3 tools/fetch_lectionary.py <year>` — fetches all 365/366 days
+   from the live API into `content/lectionary/<year>-source.json`.
+2. `python3 tools/build_lectionary_year.py <year>` — parses every
+   citation into book/chapter/verse ranges and writes
+   `content/lectionary/<year>.json`, `reflection: null` for every day.
+   Reports any citations it couldn't parse (rare — a handful of source
+   typos have shown up before; fix them either in
+   `tools/parse_lectionary.py`'s book-name table or as a targeted
+   fallback in `build_lectionary_year.py`, whichever the failure looks
+   like) and re-run until 0 fail.
+3. `python3 tools/verify_lectionary_year.py <year>` — flags citations
+   whose verse range doesn't fully exist in the bundled WEB text. Most
+   flags are harmless (a psalm's sung-heading offset — the app's verse
+   lookup already truncates gracefully, never errors). Both Daniel's
+   deuterocanonical content (the ch. 3 canticle, chs. 13-14) and
+   Esther's (chs. 11-16 — see "Esther Greek additions" below for the
+   citation scheme) resolve correctly as of their respective re-imports
+   — if a flag ever points into either again, treat it as a real
+   regression, not an expected gap. USCCB readings citing Esther's Greek
+   material use the Vulgate's confusing cross-numbering (e.g. Esther
+   C:12), which doesn't match this app's chs. 11-16 — translate the
+   citation using the addition-letter table in that section before
+   writing the ref.
+4. Author reflections in monthly batches, same process each time: pull
+   that month's real resolved text first (join the day's refs against
+   `content/scripture/web-c/*.json`), read it, write each reflection
+   grounded in the actual Gospel and readings — never from memory of
+   what a passage "probably" says. Load the month's dict of
+   `reflection` values into the year's JSON, `json.dump(..., indent=2,
+   ensure_ascii=False)` plus a trailing newline.
+5. Add `{"year": <year>, "path": "content/lectionary/<year>.json"}` to
+   `manifest.json`'s `"lectionary"` array — **append, don't replace**;
+   every prior year stays loaded too, so nothing breaks for a device
+   that hasn't updated in a while.
+6. Translate that month's English reflections into the app's other 6
+   languages (`de`, `fr`, `hi`, `it`, `mr`, `pt`) once they're written
+   and merged into the year's JSON — same mechanism as Topics
+   translations: a `ReflectionTranslation` Room entity keyed on
+   `[date, language]` (date is the natural key — one reflection per
+   date, no separate ID table needed), content files at
+   `content/reflections/<year>/<language>.json`
+   (`{"year": <year>, "language": "xx", "reflections": [{"date": "...",
+   "reflection": "..."}]}`), indexed via `manifest.json`'s
+   `reflection_translations` array (append `{"year": <year>,
+   "language": "xx", "path": "content/reflections/<year>/xx.json"}` for
+   each of the 6 languages, once). Batch discipline that worked well:
+   translate 7-10 dates at a time, all 6 languages per date together
+   (this keeps the reflection's fixed rhetorical pattern — reading A +
+   reading B + a linking-insight sentence + a closing sentence —
+   consistent across languages), write the batch as a Python module
+   (`TRANSLATIONS = {date: {lang: text}}`, see
+   `tools/merge_reflection_translations.py`'s docstring for the exact
+   shape), then run
+   `python3 tools/merge_reflection_translations.py <year> <batch_module> --path <dir the batch module lives in>`
+   — it validates every date has all 6 languages before writing
+   anything, and is safe to re-run (already-merged dates are skipped
+   per language, never duplicated). Match each language's quotation
+   convention exactly: German „…" (U+201E/U+201C), French « … » (with
+   spaces), Italian «…» (no spaces), Portuguese/Hindi/Marathi plain
+   straight `"..."` escaped as `\"` in the JSON. Bump `content_version`,
+   build, install, spot-check on a device, commit — one commit per
+   batch, same cadence as the English-authoring batches in step 4.
+   Parallelizing across months with background agents is possible but
+   shares this account's rate limit — expect to resume several agents
+   more than once rather than genuinely saving wall-clock time; doing
+   it serially, inline, in one session is often simpler to track.
+7. Bump `content_version`, `./gradlew assembleDebug`, spot-check the
+   Daily Readings tab on a device before committing (English content;
+   see step 6 for the translation build/commit cadence).
+8. Start early: content authoring is the actual bottleneck (~365 days of
+   real writing, ×6 more once translations are included), so begin the
+   next year's batches a couple of months before the calendar rolls
+   over — the date picker will start offering the new year's dates the
+   moment its data is seeded, so a late start means a live gap.
+
+### Phase 4 — Daily notifications (email + WhatsApp)
+
+The only phase that needs something outside the Android app itself —
+today the app ships with no `INTERNET` permission and the privacy policy
+states no data is collected, so this phase changes that story and needs
+its own privacy-policy update, not just a feature flag.
+
+**Open decisions, with a recommended default** (easy to revisit, this is
+just where the plan currently leans):
+
+- *Where does opt-in happen?* Recommended: a small external landing
+  page + lightweight backend (not an in-app screen), so the Android app
+  itself stays offline/no-network as documented, and this feature can
+  ship without changing the app's permission model or Play Store
+  data-safety declarations at all. In-app opt-in is a reasonable
+  alternative if discoverability matters more than keeping the app
+  fully offline — worth an explicit call before building.
+- *Email provider*: any transactional provider (SES, SendGrid, Mailgun,
+  Postmark) — low complexity, no special approval process.
+- *WhatsApp provider*: needs a WhatsApp Business Platform account
+  (direct via Meta Cloud API, or a BSP like Twilio/360dialog), business
+  verification, and pre-approved message templates for proactive daily
+  sends (WhatsApp doesn't allow free-form outbound messages outside a
+  24-hour user-initiated session window) — meaningfully more lead time
+  than email. Recommend shipping email first, WhatsApp as a follow-on
+  sub-phase once verification is in hand.
+- *Scheduler*: a dedicated cloud scheduler (e.g. Cloudflare Workers Cron
+  Triggers, GCP Cloud Scheduler, AWS EventBridge) over a GitHub Actions
+  `schedule` trigger — GH Actions cron is free but has documented firing
+  delays, worse right at common times like 06:00 UTC.
+
+**Tasks once those are settled**: opt-in capture (email + WhatsApp
+number + consent), a small store of subscriber preferences, the 06:00
+GMT job that assembles the day's payload (verse of the day + reading/
+reflection + mapped character, from Phases 1–3) and sends it, unsubscribe
+handling, and the privacy-policy rewrite.
+
+### Phase 5 — Compliance, translation catch-up, release prep
+
+- Finish translating Phases 1–3 content into all 7 shipped languages
+  (whatever's still English-only via fallback). Spanish is intentionally
+  excluded from this list for v2 — see "Version 3" below.
+- Update `docs/privacy-policy.html` for whatever Phase 4 actually
+  collects.
+- **Before this branch is ever released**: revert `applicationId`
+  (`app.pocketbible.v2` → `app.pocketbible`), the app label ("Pocket
+  Bible V2" → "Pocket Bible"), and the CI APK filename back to match v1
+  (in `app/build.gradle.kts` and `.github/workflows/build-apk.yml`) —
+  those were only set up so a v2 debug build could sit side-by-side with
+  v1 during development. Shipping v2 under a different `applicationId`
+  would make Play Store treat it as a brand-new app/listing instead of
+  an update to the existing one.
+- Full regression pass across languages, offline behavior (everything
+  except Phase 4's opt-in/send path must still work with no network),
+  and the closed-testing checklist v1 already went through.
+
+### Phase 6 — Bible Stories & Parables: 146 stories, all ages — **6A + 6B done, 6C (character links) remaining**
+
+Added after the original 5-phase plan, at the user's request: a new
+Stories tab covering 146 stories and parables spanning the full 73-book
+canon (63 Old Testament, 81 New Testament), each with a plain-language
+retelling and a moral phrased for any age. Full master list — every
+title, reference, `book_group`, and `story_type` — was drafted and
+reviewed with the user before any code was touched; see this repo's
+project memory / session history for the complete 146-row table if it's
+ever needed again for reference.
+
+- **Schema**: `story` (id, title, testament, `book_group`, `story_type`,
+  summary, moral, reflection, sort_order) + `story_verse_ref` (citations
+  only, chapter_start/chapter_end since a story can span more than one
+  chapter — resolved live from `scripture_verse`, same pattern as
+  `ReadingCitation`/`CharacterVerseRef`) + `story_translation` (same
+  fallback-to-English pattern as every other translated table) +
+  `story_character_link` (curated, not derived from every mention —
+  capped at 10 links per character so a high-frequency figure like Jesus
+  doesn't overwhelm their Characters-tab page).
+- `book_group` — 11 values, in canonical order: `pentateuch`,
+  `historical`, `wisdom`, `prophets`, `deuterocanonical`, `infancy`,
+  `ministry_miracles`, `parables`, `teachings_encounters`,
+  `passion_resurrection`, `acts`, `revelation`.
+- `story_type` — `narrative`, `parable`, or `miracle`.
+- **New UI**: a 5th bottom-nav tab, "Stories" (`Icons.*.AutoStories`).
+  List screen has a title/moral search box (client-side filter, same
+  pattern `CharactersScreen` already uses for name search — no new DAO
+  query needed at this scale) plus testament and story-type filter
+  chips, with results grouped by `book_group` when not searching (same
+  `CATEGORY_ORDER`-style grouping `CharactersScreen` uses for
+  characters). Detail screen shows testament/book-group/type badges,
+  resolved scripture text per citation, the plain-language story, moral,
+  reflection, and a "Related Characters" row that navigates into the
+  existing Characters tab.
+- **6A — Infrastructure (done)**: entities, DAOs, seeding, and the full
+  UI wired end to end against `content/stories.json`.
+- **6B — Content (done, 146/146)**: authored in 11 batches (one per
+  `book_group`), same non-negotiable discipline as lectionary
+  reflections — pull the real resolved scripture text first, read it,
+  write summary/moral/reflection from that, never from memory. One real
+  gap hit during authoring, since fixed (see "Daniel re-import" below):
+  this app's bundled WEB-C Daniel was chapters 1-12 only, so Susanna
+  (Dan 13) and Bel and the Dragon (Dan 14) cited the real location but
+  wouldn't resolve to text — written from the well-known Catholic
+  narrative instead. Both stories now resolve real verse text; their
+  summary/reflection prose hasn't been revisited since it wasn't wrong,
+  just written without the source text in hand. Final counts by
+  `book_group`: Pentateuch 29, Historical 25, Wisdom 1, Prophets 5,
+  Deuterocanonical 5, Infancy 9, Ministry & Miracles 15, Parables 22,
+  Teachings & Encounters 9, Passion & Resurrection 13, Acts 10,
+  Revelation 3.
+- **Daniel re-import (done)**: `content/scripture/web-c/dan.json` was
+  re-sourced from eBible.org's `eng-web-c.epub` ("World English Bible,
+  Catholic edition") instead of the original `engweb.epub` ("WEB
+  Classic") — the Catholic edition includes the Greek-Septuagint
+  additions the Classic edition omits: the Song of the Three Young Men
+  inserted into ch. 3 (vv. 24-90; the old vv. 24-30 are now vv. 91-97),
+  and chs. 13 (Susanna) and 14 (Bel and the Dragon). This fixed both the
+  6B Susanna/Bel gap and a pre-existing, independently-discovered gap:
+  the 2026/2027 lectionary already cited the Daniel 3 canticle (e.g.
+  3:34-43, 3:52-56 — the real USCCB citations) anticipating this content,
+  and those citations were silently unresolvable until now. The two
+  editions' wording differs stylistically in ~30-40% of verses per
+  chapter in chs. 1-12 (synonym/punctuation-level, never doctrinal) —
+  accepted as the cost of a real fix rather than a permanent gap.
+  `characters.json`'s two citations into the old ch. 3 numbering (the
+  "fourth figure" / "without the smell of smoke" captions) were updated
+  from vv. 25/27 to vv. 92/94; `stories.json`'s "The Fiery Furnace" was
+  split into two verse_refs (3:8-23, 3:91-97) to skip over the canticle
+  it doesn't reference. Esther's own Greek additions (`ESG` in the
+  Catholic epub) are a full retranslation with different numbering
+  throughout, not an addition — see "Esther Greek additions" below for
+  how that was eventually handled.
+- **Esther Greek additions (done)**: unlike Daniel, `ESG.xhtml` in the
+  Catholic epub isn't "Hebrew text plus separable inserts" — it's a
+  full retranslation from the Greek Septuagint, reordered and reworded
+  throughout (a full diff showed ch. 1-10 wording differs from the
+  bundled text almost as often as it matches, and ch. 9's verse count
+  doesn't even line up), so it was never a candidate for the wholesale
+  swap used for Daniel. What *is* cleanly separable: eBible's own
+  introduction to `ESG.xhtml` documents exactly 5 insertion points where
+  Greek-only material (marked `[in brackets]` in the source, or in one
+  case — the king's audience scene — silently replacing a terse Hebrew
+  verse) was merged into the traditional verse numbering: before 1:1,
+  after 3:13, after 4:17 (running through the end of ch. 5), embedded in
+  8:13, and after 10:3. Those 5 points are exactly the 6 traditional
+  "Additions A-F" (Addition C, the prayers, and D, the king's audience,
+  share one insertion point). Extracted each addition's text unchanged
+  and appended it as a new standalone chapter — **11=A, 12=B, 13=C,
+  14=D, 15=E, 16=F**, in narrative order, each with its own verse
+  numbering starting at 1 (editorial verse breaks at sentence
+  boundaries, since the source carries each addition as one to a few
+  very long verses) — rather than replicating the traditional but
+  confusing Vulgate cross-numbering (where, e.g., Addition F is cited as
+  "10:4-11:1" despite narrating last). Chs. 1-10 are untouched — a full
+  diff confirmed all 167 existing verses are byte-for-byte identical to
+  the previously-bundled text, so every existing citation
+  (`characters.json`, `stories.json`) is unaffected. No existing
+  citation pointed into the Greek material before this (unlike Daniel,
+  nothing was silently broken) — this closes the gap preemptively for
+  any future lectionary or story content that wants it. If a USCCB
+  reading ever cites this material, translate its Vulgate reference
+  using this table: A → ch. 11, B → ch. 12, C → ch. 13, D → ch. 14, E →
+  ch. 15, F → ch. 16.
+- **6C — Character cross-links (not started)**: one pass over all
+  `BibleCharacter` rows now that 6B content exists, curating up to 10
+  story links each by narrative significance.
+
+## Version 3
+
+**Spanish language support — full content, deferred from v2.** Spanish
+("es") was added to `LanguageMenuButton.kt`'s language picker with a
+complete UI-chrome translation (`res/values-es/strings.xml`) and partial
+Topics content, but never had any Bible scripture text, character
+translations, story translations, or reflection translations — a much
+bigger gap than the fallback-to-English pattern the other phases lean on,
+since it affects every tab including the Bible reader itself. Spanish was
+removed from `APP_LANGUAGES` for the v2 release rather than ship a
+selectable language with silently-English scripture. Status as of the
+removal:
+
+- **Scripture (Bible tab)**: nothing imported. The public-domain
+  Reina-Valera 1909 translation (66 books, no deuterocanon) has been
+  fetched from eBible.org and staged at
+  `tools/scripture_sources/es-rv1909/`, along with a ready-to-use
+  `book_map.json` and a complete step-by-step README covering the one
+  reformatting quirk this particular source needs before
+  `tools/import_scripture.py` can consume it. This is the natural
+  starting point for v3 — see that README for exact commands.
+- **Topics**: `content/topics/es.json` exists, 18/38 feelings and
+  180/380 entries translated (via `tools/add_topic_translations.py`).
+  20 feelings remain.
+- **Characters, Stories, Reflections (2026 + 2027)**: not started.
+
+## Adding a new feeling (Topics)
+
+Repeatable runbook for adding a 36th+ feeling to the Topics/Home grid,
+same process used for "Needing courage" (`courage`, added 2026-09-11) —
+each feeling ships with exactly 10 verse entries, all 6 languages.
+
+1. **Design the feeling.** Pick a short `id` (single word, e.g.
+   `courage`), a `label` (1-3 words, e.g. "Needing courage"), an icon
+   (`ti-*` Tabler name — currently unused by the UI but still populated
+   for future-proofing), a `category` (must be one of the 6 values
+   `categoryAccent()` in `ui/theme/*.kt` maps to a color — `distress`,
+   `moral`, `relational`, `spiritual`, `thanksgiving`, `desire` — an
+   unmapped category silently falls back to a neutral gray), and a
+   `description` (one sentence, second person, matching the existing
+   voice — "For when/for the..." — and never repeating the label's own
+   word, or the description just sounds redundant). `sort_order` = one
+   past the current max `sort_order` in `topics.json`'s `feelings`
+   array (the grid renders `ORDER BY sort_order`, so this is what places
+   it in an empty slot). Add 4-8 `aliases` with weights for search —
+   these stay English-only forever (see step 6), so lean on genuine
+   synonyms; the label/description themselves are already searchable
+   per-language automatically as of the 2026-09-11 search fix, so don't
+   bother aliasing the label's own words.
+2. **Pick 10 verses.** Reusing a verse another feeling already uses is
+   fine and already happens throughout the app (e.g. Joshua 1:9 backs
+   three different feelings) — check `entry_passages` in `topics.json`
+   for existing usage, and if found, write a genuinely different
+   reflection angled at this new feeling rather than echoing the
+   existing one. Aim for spread across Torah/History/Psalms/Prophets/
+   Gospel/Epistle rather than 10 verses from the same book.
+3. **Add any new passages.** For each verse whose `web-c:<book>:<ch>:
+   <verse>` id isn't already in `topics.json`'s `passages` array, pull
+   the *exact* WEB-CE text from `content/scripture/web-c/<book>.json`
+   (never paraphrase or invent scripture text) and append a full
+   passage record — `id`, `translation_id: "web-c"`, `book_id`,
+   `chapter_start`/`chapter_end`, `verse_start`/`verse_end`, `text`,
+   `pull_quote` (a short excerpt), `reference_display` (e.g. "Haggai
+   2:4-5"), `reference_alt: null`.
+4. **Write the 10 English entries.** Each needs: `id` (
+   `<feeling_id>-<book>-<chapter>-<verse>`), `intensity` (`acute` for
+   the first 2-3, `steady` for the middle 4, `settled` for the last
+   2-3 — the app sorts acute → steady → settled, then by
+   `depth_order`), `depth_order` (1-10), `reflection` (2-4 sentences:
+   what the passage says, a linking insight, a closing application —
+   see any existing entry in `topics.json` for the exact register),
+   `prayer` (1-2 sentences, second person, addressed to God/Jesus/Lord).
+   Leave `ccc_reference`/`saint_quote`/`saint_attribution`/
+   `liturgical_season` `null` unless one is a genuinely strong fit —
+   only ~3% of existing entries populate these.
+5. **Translate into all 6 languages** (`de`, `fr`, `hi`, `it`, `mr`,
+   `pt`): the feeling's `label`/`description`, and each entry's
+   `reflection`/`prayer`. Match each language's established quotation
+   convention exactly — German „…" (U+201E/U+201C), French « … » (with
+   spaces), Italian «…» (no spaces), Portuguese/Hindi/Marathi plain
+   straight `"..."` escaped as `\"` in the JSON. Aliases are never
+   translated — `feelingsMatching()` only ever queries the English
+   `feeling_alias`/`feeling`/`description` columns regardless of the
+   app's current UI language.
+6. **Merge**: write everything from steps 1-5 as a single Python module
+   (typically in your scratchpad — see `tools/merge_topic_feeling.py`'s
+   docstring for the exact `FEELING`/`NEW_PASSAGES`/`ENTRIES`/
+   `FEELING_TRANSLATIONS`/`ENTRY_TRANSLATIONS` shape it expects), then
+   run `python3 tools/merge_topic_feeling.py <batch_module> --path <dir the batch module lives in>`
+   — it validates all 10 entries have all 6 languages present before
+   writing anything, appends the feeling/entries/passages/translations
+   into `topics.json` and the 6 `content/topics/<lang>.json` files, and
+   is safe to re-run (an already-merged feeling is skipped, never
+   duplicated).
+7. Bump `content_version` in `manifest.json`, `./gradlew assembleDebug`,
+   install, and spot-check on a device before committing: the new card
+   appears in the grid with its full untruncated description, and its
+   10 verses show up when tapped in at least English and one other
+   language.
+
+## Adding a new Biblical character
+
+Repeatable runbook for adding a 281st+ character to the Personalities
+tab, on top of Phase 1's 280 (see that section above for the existing
+category/villain-reconciliation context). Much lighter-weight than a
+Topics feeling — a character needs 3-6 verse citations, not 10 full
+entries, and translation is optional rather than expected (only
+114/280 existing characters have any translation at all; the app falls
+back to English per-field, so this is never a functional requirement).
+
+1. **Design the character.** Pick a short `id` (kebab-case, e.g.
+   `deborah` or `judas-iscariot`), a `name`, a `category` (must be one
+   of the 11 values the Personalities tab groups by — `central`,
+   `holy_family`, `apostles`, `early_church`, `women_and_others`,
+   `opposed_jesus`, `patriarchs`, `exodus_judges`, `kingdom`,
+   `prophets`, `post_exile` — see the `character_category_*` strings in
+   `values/strings.xml` for their display labels), and `sort_order`
+   (one past the current max in `characters.json`'s `characters`
+   array). Write a one-to-two sentence `intro`, third person, plain —
+   most characters stop there; only add `reflection`/`prayer` (longer,
+   second-person devotional content) if this character genuinely calls
+   for that treatment the way the ~26 existing villain-reconciliation
+   entries do (Judas, Cain, etc. — see any of those in `characters.json`
+   for the register). Set `requires_deuterocanon: true` only if a verse
+   citation below cites Tobit/Judith/Wisdom/Sirach/Baruch/1-2 Maccabees
+   or the Daniel/Esther Greek-addition chapters (see "Esther Greek
+   additions" above for that citation scheme) — the app gates these
+   characters behind a Deuterocanon-content setting.
+2. **Pick 3-6 verse citations** spanning the character's arc (first
+   appearance, a defining moment, their end/legacy) rather than
+   clustering in one chapter. These are citations only (`book_id`,
+   `chapter`, `verse_start`/`verse_end`, a short `caption`) — the verse
+   text itself is looked up live from the already-imported scripture
+   tables at render time, never typed here, so there's no WEB-CE text
+   to pull or verify (unlike Topics passages).
+3. **Translate, if you want to** (optional): the character's
+   `name`/`intro` into some or all of `de`/`fr`/`hi`/`it`/`mr`/`pt`, and
+   independently, any of the verse captions. Skipping this entirely is
+   completely fine and already true of 166/280 existing characters —
+   do it opportunistically, not as a blocker.
+4. **Merge**: write everything from steps 1-3 as a single Python module
+   (typically in your scratchpad — see `tools/merge_character.py`'s
+   docstring for the exact `CHARACTER`/`VERSE_REFS`/
+   `NAME_TRANSLATIONS`/`CAPTION_TRANSLATIONS` shape it expects, the
+   latter two optional), then run
+   `python3 tools/merge_character.py <batch_module> --path <dir the batch module lives in>`
+   — appends into `characters.json` and (only for languages you
+   provided) the `content/character_translations/<lang>.json` /
+   `content/character_verse_ref_translations/<lang>.json` files. Safe
+   to re-run — an already-merged character is skipped, never
+   duplicated.
+5. **Decide separately whether this character joins the 366-day
+   calendar.** Every one of the 366 `month_day` slots in
+   `characters.json`'s `character_of_day` array is already assigned to
+   some character (several characters repeat across multiple days to
+   fill the full year) — the merge tool deliberately does not touch
+   this array, since putting a new character into rotation means
+   consciously choosing which existing day's assignment to replace,
+   which is a content decision, not a mechanical one. A character with
+   no calendar day is still fully valid and reachable from the
+   Personalities tab's list and search.
+6. Bump `content_version` in `manifest.json`, `./gradlew assembleDebug`,
+   install, and spot-check on a device before committing: the new
+   character is findable by search on the Personalities tab and its
+   verse citations resolve to real text.
 
 ## License
 

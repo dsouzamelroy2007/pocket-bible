@@ -100,6 +100,50 @@ fun CharacterDetailScreen(
                     }
                 }
             }
+            val reflection = character?.reflection
+            val prayer = character?.prayer
+            if (reflection != null || prayer != null) {
+                item {
+                    Spacer(Modifier.height(12.dp))
+                    Card(
+                        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.secondaryContainer),
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        Column(Modifier.padding(16.dp)) {
+                            if (reflection != null) {
+                                Text(
+                                    stringResource(R.string.character_reflection_heading),
+                                    style = MaterialTheme.typography.labelLarge,
+                                    fontWeight = FontWeight.Medium,
+                                    color = MaterialTheme.colorScheme.onSecondaryContainer
+                                )
+                                Spacer(Modifier.height(6.dp))
+                                Text(
+                                    reflection,
+                                    style = MaterialTheme.typography.bodyMedium,
+                                    color = MaterialTheme.colorScheme.onSecondaryContainer
+                                )
+                            }
+                            if (prayer != null) {
+                                Spacer(Modifier.height(14.dp))
+                                Text(
+                                    stringResource(R.string.character_prayer_heading),
+                                    style = MaterialTheme.typography.labelLarge,
+                                    fontWeight = FontWeight.Medium,
+                                    color = MaterialTheme.colorScheme.onSecondaryContainer
+                                )
+                                Spacer(Modifier.height(6.dp))
+                                Text(
+                                    prayer,
+                                    style = MaterialTheme.typography.bodyMedium,
+                                    fontStyle = FontStyle.Italic,
+                                    color = MaterialTheme.colorScheme.onSecondaryContainer
+                                )
+                            }
+                        }
+                    }
+                }
+            }
             item { Spacer(Modifier.height(20.dp)) }
         }
     }

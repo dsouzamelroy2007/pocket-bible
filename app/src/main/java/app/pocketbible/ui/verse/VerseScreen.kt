@@ -34,6 +34,7 @@ import androidx.compose.ui.unit.dp
 import app.pocketbible.R
 import app.pocketbible.data.EntrySummary
 import app.pocketbible.data.PassageWithRole
+import app.pocketbible.ui.bible.localizedReference
 
 @Composable
 fun VerseScreen(
@@ -67,8 +68,9 @@ fun VerseScreen(
                     fontStyle = FontStyle.Italic
                 )
                 Spacer(Modifier.height(10.dp))
+                val reference = localizedReference(entry.bookId, entry.chapter, entry.verseStart, entry.verseEnd)
                 Text(
-                    entry.referenceAlt?.let { "${entry.referenceDisplay}  ·  $it" } ?: entry.referenceDisplay,
+                    entry.referenceAlt?.let { "$reference  ·  $it" } ?: reference,
                     style = MaterialTheme.typography.labelMedium,
                     color = MaterialTheme.colorScheme.primary
                 )

@@ -175,6 +175,11 @@ data class ScriptureVerse(
  * story lives in a deuterocanonical book (e.g. Tobit, Judith) -- hidden
  * automatically for a translation that doesn't include those books, rather
  * than showing a character with no available verses.
+ * `reflection`/`prayer` are null for almost every character; they're
+ * populated only for figures whose defining role is a sin the reader might
+ * recognize in themselves (Judas's betrayal for money, Herod's slaughter of
+ * the innocents, and similar) -- naming what was wrong and offering a
+ * reconciliation-shaped prayer, rather than just narrating their story.
  */
 @Entity(tableName = "character")
 data class BibleCharacter(
@@ -183,7 +188,22 @@ data class BibleCharacter(
     val intro: String,
     val category: String,
     @ColumnInfo(name = "sort_order") val sortOrder: Int,
-    @ColumnInfo(name = "requires_deuterocanon") val requiresDeuterocanon: Boolean
+    @ColumnInfo(name = "requires_deuterocanon") val requiresDeuterocanon: Boolean,
+    val reflection: String? = null,
+    val prayer: String? = null
+)
+
+/**
+ * This character's day (or one of its days) in the 366-day characters
+ * calendar, same shape as [DailyPassage] -- a character with only one real
+ * anchor still needs 366 rows filled, so several `month_day`s can point at
+ * the same `character_id` (a repeat), exactly how `daily_passage` already
+ * cycles a smaller pool of passages across all 366 days.
+ */
+@Entity(tableName = "character_of_day")
+data class CharacterOfDay(
+    @PrimaryKey @ColumnInfo(name = "month_day") val monthDay: String,
+    @ColumnInfo(name = "character_id") val characterId: String
 )
 
 /** Translated name/intro for one character, in one UI language. Same fallback-to-English pattern as [FeelingTranslation]. */
@@ -240,6 +260,83 @@ data class CharacterVerseRefTranslation(
     val caption: String
 )
 
+/**
+ * A Bible story or parable, browsable in the Stories tab -- see
+ * .github/ABOUT.md Phase 6 for the full 146-story master list.
+ * `summary`/`moral`/`reflection` are original devotional-style prose (like
+ * `BibleCharacter.intro`), not scripture text. `bookGroup` (e.g.
+ * "pentateuch", "parables") and `storyType` ("narrative"/"parable"/
+ * "miracle") drive the tab's filter chips.
+ */
+@Entity(tableName = "story")
+data class Story(
+    @PrimaryKey val id: String,
+    val title: String,
+    val testament: String,
+    @ColumnInfo(name = "book_group") val bookGroup: String,
+    @ColumnInfo(name = "story_type") val storyType: String,
+    val summary: String,
+    val moral: String,
+    val reflection: String,
+    @ColumnInfo(name = "sort_order") val sortOrder: Int
+)
+
+/**
+ * A citation of real, already-imported scripture text for a story --
+ * book/chapter-range/verse-range, not the verse text itself, resolved live
+ * from `scripture_verse` the same way `ReadingCitation` and
+ * `CharacterVerseRef` already are. Unlike `CharacterVerseRef` (one chapter
+ * per row), a story's reference can span multiple chapters (e.g. "Genesis
+ * 1-2"), so this uses the same chapter_start/chapter_end shape as
+ * `ReadingCitation`.
+ */
+@Entity(
+    tableName = "story_verse_ref",
+    indices = [Index("story_id")]
+)
+data class StoryVerseRef(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    @ColumnInfo(name = "story_id") val storyId: String,
+    @ColumnInfo(name = "book_id") val bookId: String,
+    @ColumnInfo(name = "chapter_start") val chapterStart: Int,
+    @ColumnInfo(name = "verse_start") val verseStart: Int,
+    @ColumnInfo(name = "chapter_end") val chapterEnd: Int,
+    @ColumnInfo(name = "verse_end") val verseEnd: Int,
+    val position: Int
+)
+
+/** Translated title/summary/moral/reflection for one story, in one UI language. Same fallback-to-English pattern as [CharacterTranslation]. */
+@Entity(
+    tableName = "story_translation",
+    primaryKeys = ["story_id", "language"]
+)
+data class StoryTranslation(
+    @ColumnInfo(name = "story_id") val storyId: String,
+    val language: String,
+    val title: String,
+    val summary: String,
+    val moral: String,
+    val reflection: String
+)
+
+/**
+ * Links a story to a character who appears in it -- curated (not derived
+ * from every mention) and capped at 10 per character so a high-frequency
+ * figure like Jesus doesn't overwhelm their Characters-tab page. Bare
+ * autoincrement id with no natural-key constraint, same as
+ * `CharacterVerseRef`/`ReadingCitation` -- see `clearStoryCharacterLinks`
+ * for why every reseed clears this first.
+ */
+@Entity(
+    tableName = "story_character_link",
+    indices = [Index("story_id"), Index("character_id")]
+)
+data class StoryCharacterLink(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    @ColumnInfo(name = "story_id") val storyId: String,
+    @ColumnInfo(name = "character_id") val characterId: String
+)
+
 // ---------- Local user state (not shipped, created empty) ----------
 
 @Entity(tableName = "saved_entry")
@@ -247,6 +344,12 @@ data class SavedEntry(
     @PrimaryKey @ColumnInfo(name = "entry_id") val entryId: String,
     @ColumnInfo(name = "saved_at") val savedAt: Long,
     val note: String? = null
+)
+
+@Entity(tableName = "saved_story")
+data class SavedStory(
+    @PrimaryKey @ColumnInfo(name = "story_id") val storyId: String,
+    @ColumnInfo(name = "saved_at") val savedAt: Long
 )
 
 @Entity(tableName = "view_history", indices = [Index("entry_id")])
@@ -273,6 +376,101 @@ data class BibleBookmark(
     val chapter: Int,
     val verse: Int?,
     @ColumnInfo(name = "created_at") val createdAt: Long
+)
+
+/**
+ * A single calendar date's Mass readings (e.g. "2026-01-01") -- a real
+ * date, not a repeating "MM-DD" like [CharacterOfDay]/[DailyPassage],
+ * since which readings fall on a given date differs year to year (the
+ * lectionary's own weekday/Sunday cycles, moveable feasts). `reflection`
+ * is null until authored (original devotional prose, like
+ * `Entry.reflection`, not scripture text) -- the citations still resolve
+ * and display without one.
+ */
+@Entity(tableName = "daily_reading")
+data class DailyReading(
+    @PrimaryKey val date: String,
+    val season: String,
+    @ColumnInfo(name = "usccb_link") val usccbLink: String,
+    val reflection: String? = null
+)
+
+/**
+ * A translated reflection, in one UI language, for one date -- same
+ * fallback-to-English pattern as `entry_translation`/`story_translation`.
+ * `daily_reading.reflection` stays the English original and doubles as
+ * the fallback when no row exists here for the app's current language.
+ */
+@Entity(
+    tableName = "reflection_translation",
+    primaryKeys = ["date", "language"]
+)
+data class ReflectionTranslation(
+    val date: String,
+    val language: String,
+    val reflection: String
+)
+
+/**
+ * One citation (book/chapter/verse range) belonging to one reading role
+ * ("first_reading", "psalm", "second_reading", "acclamation", "gospel")
+ * on one date. Several rows can share a `date` + `role` -- a psalm
+ * citation like "67:2-3, 5, 6, 8" is 4 rows, `position` 0-3 -- and
+ * `chapterStart` can differ from `chapterEnd` for a genuine cross-chapter
+ * span like "Isaiah 52:13-53:12". `citationDisplay` is the same
+ * human-readable reference repeated on every row for that role (e.g.
+ * "Psalm 67:2-3, 5, 6, 8") -- denormalized, same tradeoff
+ * `CharacterVerseRef.caption` already makes, for the same reason: no
+ * real UI to show it once and fan it out. No text is stored -- resolved
+ * live from scripture_verse, same as everywhere else in this app.
+ *
+ * `refrain` is the spoken/sung refrain line repeated between stanzas
+ * (e.g. "R. Their message goes out through all the earth." for a psalm,
+ * or "Alleluia, alleluia." for the Gospel Acclamation) -- unlike the
+ * citation, this text doesn't resolve from scripture (it's a liturgical
+ * refrain, not always a verbatim Bible verse), so it's stored directly,
+ * repeated on every row for that role same as `citationDisplay`. Null
+ * when not known for that day's role -- the UI hides the refrain line
+ * (or, for "acclamation", the whole card, since that role's rows only
+ * exist on days a citation was actually resolved) rather than showing
+ * a blank.
+ */
+@Entity(
+    tableName = "reading_citation",
+    indices = [Index("date", "role")]
+)
+data class ReadingCitation(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    val date: String,
+    val role: String,
+    @ColumnInfo(name = "citation_display") val citationDisplay: String,
+    @ColumnInfo(name = "book_id") val bookId: String,
+    @ColumnInfo(name = "chapter_start") val chapterStart: Int,
+    @ColumnInfo(name = "verse_start") val verseStart: Int,
+    @ColumnInfo(name = "chapter_end") val chapterEnd: Int,
+    @ColumnInfo(name = "verse_end") val verseEnd: Int,
+    val position: Int,
+    val refrain: String? = null,
+    @ColumnInfo(name = "refrain_id") val refrainId: String? = null
+)
+
+/**
+ * A translated refrain, in one UI language, for a canonical refrain phrase
+ * (e.g. "Alleluia, alleluia.") identified by `refrainId` -- the same
+ * fallback-to-English pattern as `feeling_translation`, joined on a stable
+ * id rather than the raw English text so the lookup stays correct even if
+ * the English wording is later tweaked. `reading_citation.refrain` stays
+ * the English original and doubles as the fallback when no row exists here
+ * for the app's current language.
+ */
+@Entity(
+    tableName = "refrain_translation",
+    primaryKeys = ["refrain_id", "language"]
+)
+data class RefrainTranslation(
+    @ColumnInfo(name = "refrain_id") val refrainId: String,
+    val language: String,
+    val text: String
 )
 
 // ---------- Read models used by the UI ----------
@@ -308,7 +506,22 @@ data class CharacterSummary(
     val name: String,
     val intro: String,
     val category: String,
-    @ColumnInfo(name = "sort_order") val sortOrder: Int
+    @ColumnInfo(name = "sort_order") val sortOrder: Int,
+    val reflection: String?,
+    val prayer: String?
+)
+
+data class StorySummary(
+    val id: String,
+    val title: String,
+    val testament: String,
+    @ColumnInfo(name = "book_group") val bookGroup: String,
+    @ColumnInfo(name = "story_type") val storyType: String,
+    val summary: String,
+    val moral: String,
+    val reflection: String,
+    @ColumnInfo(name = "sort_order") val sortOrder: Int,
+    @ColumnInfo(name = "is_saved") val isSaved: Boolean = false
 )
 
 // ---------- DAOs ----------
@@ -384,12 +597,26 @@ interface ContentDao {
     )
     suspend fun passagesForEntry(entryId: String): List<PassageWithRole>
 
-    /** Plain LIKE search for the prototype. Swap for FTS4 before production scale. */
+    /**
+     * Plain LIKE search for the prototype. Swap for FTS4 before production scale.
+     *
+     * Matches against curated synonyms in `feeling_alias` AND the feeling's own
+     * label/description -- without the latter, searching the exact word printed
+     * on a card (e.g. "Afraid", "Lonely") returned nothing for any feeling whose
+     * alias list didn't happen to also list that word as a synonym.
+     */
     @Query(
         """
-        SELECT DISTINCT feeling_id FROM feeling_alias
-        WHERE alias LIKE '%' || :query || '%'
-        ORDER BY weight DESC
+        SELECT feeling_id
+        FROM (
+            SELECT feeling_id, weight FROM feeling_alias
+            WHERE alias LIKE '%' || :query || '%'
+            UNION ALL
+            SELECT id AS feeling_id, 1.0 AS weight FROM feeling
+            WHERE label LIKE '%' || :query || '%' OR description LIKE '%' || :query || '%'
+        )
+        GROUP BY feeling_id
+        ORDER BY MAX(weight) DESC
         LIMIT 5
         """
     )
@@ -397,6 +624,9 @@ interface ContentDao {
 
     @Query("SELECT passage_id FROM daily_passage WHERE month_day = :monthDay")
     suspend fun passageOfDay(monthDay: String): String?
+
+    @Query("SELECT character_id FROM character_of_day WHERE month_day = :monthDay")
+    suspend fun characterOfDay(monthDay: String): String?
 
     @Query("SELECT * FROM passage WHERE id = :id")
     suspend fun passage(id: String): Passage?
@@ -489,7 +719,7 @@ interface ContentDao {
     @Query(
         """
         SELECT c.id, COALESCE(t.name, c.name) AS name, COALESCE(t.intro, c.intro) AS intro,
-               c.category, c.sort_order
+               c.category, c.sort_order, c.reflection, c.prayer
         FROM character c
         LEFT JOIN character_translation t ON t.character_id = c.id AND t.language = :language
         WHERE (:includeDeuterocanon OR c.requires_deuterocanon = 0)
@@ -522,6 +752,128 @@ interface ContentDao {
 
     @Query("DELETE FROM bible_bookmark WHERE id = :id")
     suspend fun deleteBookmark(id: Long)
+
+    // ---------- Daily readings ----------
+
+    @Query(
+        """
+        SELECT dr.date, dr.season, dr.usccb_link, COALESCE(rft.reflection, dr.reflection) AS reflection
+        FROM daily_reading dr
+        LEFT JOIN reflection_translation rft ON rft.date = dr.date AND rft.language = :language
+        WHERE dr.date = :date
+        """
+    )
+    suspend fun dailyReading(date: String, language: String): DailyReading?
+
+    @Query(
+        """
+        SELECT rc.id, rc.date, rc.role, rc.citation_display, rc.book_id, rc.chapter_start,
+            rc.verse_start, rc.chapter_end, rc.verse_end, rc.position, rc.refrain_id,
+            COALESCE(rt.text, rc.refrain) AS refrain
+        FROM reading_citation rc
+        LEFT JOIN refrain_translation rt
+            ON rt.refrain_id = rc.refrain_id AND rt.language = :language
+        WHERE rc.date = :date
+        ORDER BY rc.role, rc.position
+        """
+    )
+    suspend fun readingCitations(date: String, language: String): List<ReadingCitation>
+
+    /** Earliest/latest date this app has any lectionary year loaded for, so the day picker can bound itself to real data instead of a hardcoded year. Null if none seeded yet. */
+    @Query("SELECT MIN(date) FROM daily_reading")
+    suspend fun earliestReadingDate(): String?
+
+    @Query("SELECT MAX(date) FROM daily_reading")
+    suspend fun latestReadingDate(): String?
+
+    /**
+     * Every verse from (chapterStart, verseStart) through (chapterEnd,
+     * verseEnd) inclusive, same chapter or spanning several -- unlike
+     * [versesForChapter], which only ever looks at one chapter, this is
+     * what a reading citation like "Isaiah 52:13-53:12" needs. Only
+     * returns verses that actually exist, so a citation that overshoots
+     * this translation's real last verse (a few lectionary citations
+     * follow different versification -- see content/lectionary's own
+     * note) just quietly stops there instead of erroring.
+     */
+    @Query(
+        """
+        SELECT * FROM scripture_verse
+        WHERE book_id = :bookId AND translation_id = :translationId
+          AND (chapter > :chapterStart OR (chapter = :chapterStart AND verse >= :verseStart))
+          AND (chapter < :chapterEnd OR (chapter = :chapterEnd AND verse <= :verseEnd))
+        ORDER BY chapter, verse
+        """
+    )
+    suspend fun versesForRange(
+        bookId: String,
+        chapterStart: Int,
+        verseStart: Int,
+        chapterEnd: Int,
+        verseEnd: Int,
+        translationId: String
+    ): List<ScriptureVerse>
+
+    // ---------- Stories ----------
+
+    /** [language] selects translated title/summary/moral/reflection the same way [characters] does. */
+    @Query(
+        """
+        SELECT s.id, s.testament, s.book_group, s.story_type, s.sort_order,
+               COALESCE(t.title, s.title) AS title,
+               COALESCE(t.summary, s.summary) AS summary,
+               COALESCE(t.moral, s.moral) AS moral,
+               COALESCE(t.reflection, s.reflection) AS reflection,
+               ss.story_id IS NOT NULL AS is_saved
+        FROM story s
+        LEFT JOIN story_translation t ON t.story_id = s.id AND t.language = :language
+        LEFT JOIN saved_story ss ON ss.story_id = s.id
+        ORDER BY s.sort_order
+        """
+    )
+    fun stories(language: String): Flow<List<StorySummary>>
+
+    @Insert
+    suspend fun saveStory(saved: SavedStory)
+
+    @Query("DELETE FROM saved_story WHERE story_id = :storyId")
+    suspend fun unsaveStory(storyId: String)
+
+    @Query("SELECT * FROM story_verse_ref WHERE story_id = :storyId ORDER BY position")
+    suspend fun verseRefsForStory(storyId: String): List<StoryVerseRef>
+
+    /** Characters linked to this story (curated, capped at 10), for the detail screen's "Related Characters" row. [language] resolves name/intro the same way [characters] does. */
+    @Query(
+        """
+        SELECT c.id, COALESCE(t.name, c.name) AS name, COALESCE(t.intro, c.intro) AS intro,
+               c.category, c.sort_order, c.reflection, c.prayer
+        FROM story_character_link l
+        JOIN character c ON c.id = l.character_id
+        LEFT JOIN character_translation t ON t.character_id = c.id AND t.language = :language
+        WHERE l.story_id = :storyId
+        ORDER BY c.sort_order
+        """
+    )
+    suspend fun charactersForStory(storyId: String, language: String): List<CharacterSummary>
+
+    /** Stories linked to this character -- not surfaced in the UI yet, but ready for a future "Stories about them" section on the Characters tab. */
+    @Query(
+        """
+        SELECT s.id, s.testament, s.book_group, s.story_type, s.sort_order,
+               COALESCE(t.title, s.title) AS title,
+               COALESCE(t.summary, s.summary) AS summary,
+               COALESCE(t.moral, s.moral) AS moral,
+               COALESCE(t.reflection, s.reflection) AS reflection,
+               ss.story_id IS NOT NULL AS is_saved
+        FROM story_character_link l
+        JOIN story s ON s.id = l.story_id
+        LEFT JOIN story_translation t ON t.story_id = s.id AND t.language = :language
+        LEFT JOIN saved_story ss ON ss.story_id = s.id
+        WHERE l.character_id = :characterId
+        ORDER BY s.sort_order
+        """
+    )
+    suspend fun storiesForCharacter(characterId: String, language: String): List<StorySummary>
 }
 
 /** Bulk inserts used once, on first launch, to hydrate the bundled content. */
@@ -566,11 +918,57 @@ interface SeedDao {
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertCharacterTranslations(items: List<CharacterTranslation>)
 
+    // CharacterVerseRef and ReadingCitation key on a bare autoincrement id
+    // with no natural-key constraint, so REPLACE never actually collides --
+    // every reseed would otherwise just keep appending duplicate rows.
+    @Query("DELETE FROM character_verse_ref")
+    suspend fun clearCharacterVerseRefs()
+
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertCharacterVerseRefs(items: List<CharacterVerseRef>)
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertCharacterVerseRefTranslations(items: List<CharacterVerseRefTranslation>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertCharacterOfDay(items: List<CharacterOfDay>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertDailyReadings(items: List<DailyReading>)
+
+    @Query("DELETE FROM reading_citation")
+    suspend fun clearReadingCitations()
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertReadingCitations(items: List<ReadingCitation>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertRefrainTranslations(items: List<RefrainTranslation>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertStories(items: List<Story>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertStoryTranslations(items: List<StoryTranslation>)
+
+    // StoryVerseRef and StoryCharacterLink key on a bare autoincrement id
+    // with no natural-key constraint, same as CharacterVerseRef/
+    // ReadingCitation -- clear before insert on every reseed so duplicates
+    // never accumulate.
+    @Query("DELETE FROM story_verse_ref")
+    suspend fun clearStoryVerseRefs()
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertStoryVerseRefs(items: List<StoryVerseRef>)
+
+    @Query("DELETE FROM story_character_link")
+    suspend fun clearStoryCharacterLinks()
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertStoryCharacterLinks(items: List<StoryCharacterLink>)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertReflectionTranslations(items: List<ReflectionTranslation>)
 }
 
 @Database(
@@ -580,9 +978,12 @@ interface SeedDao {
         EntryPassage::class, DailyPassage::class,
         SavedEntry::class, ViewHistory::class, ScriptureVerse::class,
         BibleCharacter::class, CharacterTranslation::class, CharacterVerseRef::class,
-        BibleBookmark::class, CharacterVerseRefTranslation::class
+        BibleBookmark::class, CharacterVerseRefTranslation::class, CharacterOfDay::class,
+        DailyReading::class, ReadingCitation::class, RefrainTranslation::class,
+        Story::class, StoryVerseRef::class, StoryTranslation::class, StoryCharacterLink::class,
+        SavedStory::class, ReflectionTranslation::class
     ],
-    version = 7,
+    version = 16,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {

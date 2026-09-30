@@ -3,9 +3,9 @@
   "book_id": "esth",
   "language": "en",
   "license": "public-domain",
-  "source": "eBible.org World English Bible Classic epub (public domain)",
+  "source": "eBible.org World English Bible Classic epub (public domain) -- chs. 1-10 unchanged; chs. 11-16 (the Greek-Septuagint additions, Deuterocanonical Scripture, labeled by scholarly convention as Additions A-F) newly added from eBible.org's World English Bible (Catholic) epub (eng-web-c), which merges these additions into the traditional Hebrew-numbered text at their narrative insertion points -- extracted here from that source and renumbered as standalone chapters 11-16 (in narrative order, not the traditional but confusing Vulgate cross-numbering) since they don't otherwise fit this app's plain chapter/verse citation model. Verse breaks within each new chapter are editorial (split at natural sentence boundaries) since the source epub carries this material as a handful of very long verses -- wording is unchanged.",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated.",
+  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Chapters 11-16 titles for reference (not stored in the data): 11 Mordecai's Dream, and His Discovery of the Conspiracy; 12 The King's Decree Against the Jews; 13 The Prayers of Mordecai and Esther; 14 Esther's Audience Before the King; 15 The King's Decree in Favor of the Jews; 16 The Interpretation of Mordecai's Dream.",
   "verses": [
     {
       "chapter": 1,
@@ -841,6 +841,561 @@
       "chapter": 10,
       "verse": 3,
       "text": "For Mordecai the Jew was next to King Ahasuerus, and great among the Jews and accepted by the multitude of his brothers, seeking the good of his people and speaking peace to all his descendants."
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "text": "In the second year of the reign of Ahasuerus the great king, on the first day of Nisan, Mordecai the son of Jair, the son of Shimei, the son of Kish, of the tribe of Benjamin, a Jew dwelling in the city Susa, a great man, serving in the king’s palace, saw a vision."
+    },
+    {
+      "chapter": 11,
+      "verse": 2,
+      "text": "Now he was one of the captives whom Nebuchadnezzar king of Babylon had carried captive from Jerusalem with Jeconiah the king of Judea."
+    },
+    {
+      "chapter": 11,
+      "verse": 3,
+      "text": "This was his dream: Behold, voices and a noise, thunders and earthquake, tumult upon the earth."
+    },
+    {
+      "chapter": 11,
+      "verse": 4,
+      "text": "And, behold, two great serpents came out, both ready for conflict."
+    },
+    {
+      "chapter": 11,
+      "verse": 5,
+      "text": "A great voice came from them."
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "text": "Every nation was prepared for battle by their voice, even to fight against the nation of the just."
+    },
+    {
+      "chapter": 11,
+      "verse": 7,
+      "text": "Behold, a day of darkness and blackness, suffering and anguish, affection and tumult upon the earth."
+    },
+    {
+      "chapter": 11,
+      "verse": 8,
+      "text": "And all the righteous nation was troubled, fearing their own afflictions."
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "text": "They prepared to die, and cried to God."
+    },
+    {
+      "chapter": 11,
+      "verse": 10,
+      "text": "Something like a great river from a little spring with much water, came from their cry."
+    },
+    {
+      "chapter": 11,
+      "verse": 11,
+      "text": "Light and the sun arose, and the lowly were exalted, and devoured the honorable."
+    },
+    {
+      "chapter": 11,
+      "verse": 12,
+      "text": "Mordecai, who had seen this vision and what God desired to do, having arisen, kept it in his heart, and desired by all means to interpret it, even until night."
+    },
+    {
+      "chapter": 11,
+      "verse": 13,
+      "text": "Mordecai rested quietly in the palace with Gabatha and Tharrha the king’s two chamberlains, eunuchs who guarded the palace."
+    },
+    {
+      "chapter": 11,
+      "verse": 14,
+      "text": "He heard their conversation and searched out their plans."
+    },
+    {
+      "chapter": 11,
+      "verse": 15,
+      "text": "He learned that they were preparing to lay hands on King Ahasuerus; and he informed the king concerning them."
+    },
+    {
+      "chapter": 11,
+      "verse": 16,
+      "text": "The king examined the two chamberlains."
+    },
+    {
+      "chapter": 11,
+      "verse": 17,
+      "text": "They confessed, and were led away and executed."
+    },
+    {
+      "chapter": 11,
+      "verse": 18,
+      "text": "The king wrote these things for a record."
+    },
+    {
+      "chapter": 11,
+      "verse": 19,
+      "text": "Mordecai also wrote concerning these matters."
+    },
+    {
+      "chapter": 11,
+      "verse": 20,
+      "text": "The king commanded Mordecai to serve in the palace, and gave gifts for this service."
+    },
+    {
+      "chapter": 11,
+      "verse": 21,
+      "text": "But Haman the son of Hammedatha the Bougean was honored in the sight of the king, and he endeavored to harm Mordecai and his people, because of the king’s two chamberlains."
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "text": "The following is the copy of the letter."
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "text": "“From the great King Ahasuerus to the rulers and the governors under them of one hundred twenty-seven provinces, from India even to Ethiopia, who hold authority under him: “Ruling over many nations and having obtained dominion over the whole world, I was determined (not elated by the confidence of power, but ever conducting myself with great moderation and gentleness) to make the lives of my subjects continually tranquil, desiring both to maintain the kingdom quiet and orderly to its utmost limits, and to restore the peace desired by all men."
+    },
+    {
+      "chapter": 12,
+      "verse": 3,
+      "text": "When I had asked my counselors how this should be brought to pass, Haman, who excels in soundness of judgment among us, and has been manifestly well inclined without wavering and with unshaken fidelity, and had obtained the second post in the kingdom, informed us that a certain ill-disposed people is scattered among all the tribes throughout the world, opposed in their law to every other nation, and continually neglecting the commands of the king, so that the united government blamelessly administered by us is not quietly established."
+    },
+    {
+      "chapter": 12,
+      "verse": 4,
+      "text": "Having then conceived that this nation is continually set in opposition to every man, introducing as a change a foreign code of laws, and injuriously plotting to accomplish the worst of evils against our interests, and against the happy establishment of the monarchy, we instruct you in the letter written by Haman, who is set over the public affairs and is our second governor, to destroy them all utterly with their wives and children by the swords of the enemies, without pitying or sparing any, on the fourteenth day of the twelfth month Adar, of the present year; that the people aforetime and now ill-disposed to us having been violently consigned to death in one day, may hereafter secure to us continually a well constituted and quiet state of affairs.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "text": "He prayed to the Lord, making mention of all the works of the Lord."
+    },
+    {
+      "chapter": 13,
+      "verse": 2,
+      "text": "He said, “Lord God, you are king ruling over all, for all things are in your power, and there is no one who can oppose you in your purpose to save Israel; for you have made the sky and the earth and every wonderful thing under the sky."
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "text": "You are Lord of all, and there is no one who can resist you, Lord."
+    },
+    {
+      "chapter": 13,
+      "verse": 4,
+      "text": "You know all things."
+    },
+    {
+      "chapter": 13,
+      "verse": 5,
+      "text": "You know, Lord, that it is not in insolence, nor arrogance, nor love of glory, that I have done this, to refuse to bow down to the arrogant Haman."
+    },
+    {
+      "chapter": 13,
+      "verse": 6,
+      "text": "For I would gladly have kissed the soles of his feet for the safety of Israel."
+    },
+    {
+      "chapter": 13,
+      "verse": 7,
+      "text": "But I have done this that I might not set the glory of man above the glory of God."
+    },
+    {
+      "chapter": 13,
+      "verse": 8,
+      "text": "I will not worship anyone except you, my Lord, and I will not do these things in arrogance."
+    },
+    {
+      "chapter": 13,
+      "verse": 9,
+      "text": "And now, O Lord God, the King, the God of Abraham, spare your people, for our enemies are planning our destruction, and they have desired to destroy your ancient inheritance."
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "text": "Do not overlook your people, whom you have redeemed for yourself out of the land of Egypt."
+    },
+    {
+      "chapter": 13,
+      "verse": 11,
+      "text": "Listen to my prayer."
+    },
+    {
+      "chapter": 13,
+      "verse": 12,
+      "text": "Have mercy on your inheritance and turn our mourning into gladness, that we may live and sing praise to your name, O Lord."
+    },
+    {
+      "chapter": 13,
+      "verse": 13,
+      "text": "Don’t utterly destroy the mouth of those who praise you, O Lord.” All Israel cried with all their might, for death was before their eyes."
+    },
+    {
+      "chapter": 13,
+      "verse": 14,
+      "text": "And queen Esther took refuge in the Lord, being taken as it were in the agony of death."
+    },
+    {
+      "chapter": 13,
+      "verse": 15,
+      "text": "Having taken off her glorious apparel, she put on garments of distress and mourning."
+    },
+    {
+      "chapter": 13,
+      "verse": 16,
+      "text": "Instead of grand perfumes she filled her head with ashes and dung."
+    },
+    {
+      "chapter": 13,
+      "verse": 17,
+      "text": "She greatly humbled her body, and she filled every place of her glad adorning with her tangled hair."
+    },
+    {
+      "chapter": 13,
+      "verse": 18,
+      "text": "She implored the Lord God of Israel, and said, “O my Lord, you alone are our king."
+    },
+    {
+      "chapter": 13,
+      "verse": 19,
+      "text": "Help me."
+    },
+    {
+      "chapter": 13,
+      "verse": 20,
+      "text": "I am destitute, and have no helper but you, for my danger is near at hand ."
+    },
+    {
+      "chapter": 13,
+      "verse": 21,
+      "text": "I have heard from my birth in the tribe of my kindred that you, Lord, took Israel out of all the nations, and our fathers out of all their kindred for a perpetual inheritance, and have done for them all that you have said."
+    },
+    {
+      "chapter": 13,
+      "verse": 22,
+      "text": "And now we have sinned before you, and you have delivered us into the hands of our enemies, because we honored their gods."
+    },
+    {
+      "chapter": 13,
+      "verse": 23,
+      "text": "You are righteous, O Lord."
+    },
+    {
+      "chapter": 13,
+      "verse": 24,
+      "text": "But now they have not been content with the bitterness of our slavery, but have laid their hands on the hands of their idols to abolish the decree of your mouth, and utterly to destroy your inheritance, and to stop the mouth of those who praise you, and to extinguish the glory of your house and your altar, and to open the mouth of the Gentiles to speak the praises of vanities, and that a mortal king should be admired forever."
+    },
+    {
+      "chapter": 13,
+      "verse": 25,
+      "text": "O Lord, don’t surrender your sceptre to those who don’t exist, and don’t let them laugh at our fall, but turn their counsel against themselves, and make an example of him who has begun to injure us."
+    },
+    {
+      "chapter": 13,
+      "verse": 26,
+      "text": "Remember us, O Lord!"
+    },
+    {
+      "chapter": 13,
+      "verse": 27,
+      "text": "Manifest yourself in the time of our affliction."
+    },
+    {
+      "chapter": 13,
+      "verse": 28,
+      "text": "Encourage me, O King of gods, and ruler of all dominion!"
+    },
+    {
+      "chapter": 13,
+      "verse": 29,
+      "text": "Put harmonious speech into my mouth before the lion, and turn his heart to hate him who fights against us, to the utter destruction of those who agree with him."
+    },
+    {
+      "chapter": 13,
+      "verse": 30,
+      "text": "But deliver us by your hand, and help me who am alone and have no one but you, O Lord."
+    },
+    {
+      "chapter": 13,
+      "verse": 31,
+      "text": "You know all things, and know that I hate the glory of transgressors, and that I abhor the bed of the uncircumcised and of every stranger."
+    },
+    {
+      "chapter": 13,
+      "verse": 32,
+      "text": "You know my necessity, for I abhor the symbol of my proud station, which is upon my head in the days of my splendor."
+    },
+    {
+      "chapter": 13,
+      "verse": 33,
+      "text": "I abhor it as a menstruous cloth, and I don’t wear it in the days of my tranquility."
+    },
+    {
+      "chapter": 13,
+      "verse": 34,
+      "text": "Your handmaid has not eaten at Haman’s table, and I have not honored the banquet of the king, neither have I drunk wine of libations."
+    },
+    {
+      "chapter": 13,
+      "verse": 35,
+      "text": "Neither has your handmaid rejoiced since the day of my promotion until now, except in you, O Lord God of Abraham."
+    },
+    {
+      "chapter": 13,
+      "verse": 36,
+      "text": "O god, who has power over all, listen to the voice of the desperate, and deliver us from the hand of those who devise mischief."
+    },
+    {
+      "chapter": 13,
+      "verse": 37,
+      "text": "Deliver me from my fear."
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "text": "It came to pass on the third day, when she had ceased praying, that she took off her servant’s dress and put on her glorious apparel."
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "text": "Being splendidly dressed and having called upon God the Overseer and Preserver of all things, she took her two maids, and she leaned upon one, as a delicate female, and the other followed bearing her train."
+    },
+    {
+      "chapter": 14,
+      "verse": 3,
+      "text": "She was blooming in the perfection of her beauty."
+    },
+    {
+      "chapter": 14,
+      "verse": 4,
+      "text": "Her face was cheerful and looked lovely, but her heart was filled with fear."
+    },
+    {
+      "chapter": 14,
+      "verse": 5,
+      "text": "Having passed through all the doors, she stood before the king."
+    },
+    {
+      "chapter": 14,
+      "verse": 6,
+      "text": "He was sitting on his royal throne."
+    },
+    {
+      "chapter": 14,
+      "verse": 7,
+      "text": "He had put on all his glorious apparel, covered all over with gold and precious stones, and was very terrifying."
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "text": "And having raised his face resplendent with glory, he looked with intense anger."
+    },
+    {
+      "chapter": 14,
+      "verse": 9,
+      "text": "The queen fell, and changed her color as she fainted."
+    },
+    {
+      "chapter": 14,
+      "verse": 10,
+      "text": "She bowed herself upon the head of the maid who went before her."
+    },
+    {
+      "chapter": 14,
+      "verse": 11,
+      "text": "But God changed the spirit of the king to gentleness, and in intense feeling, he sprang from off his throne, and took her into his arms, until she recovered."
+    },
+    {
+      "chapter": 14,
+      "verse": 12,
+      "text": "He comforted her with peaceful words, and said to her, “What is the matter, Esther?"
+    },
+    {
+      "chapter": 14,
+      "verse": 13,
+      "text": "I am your relative."
+    },
+    {
+      "chapter": 14,
+      "verse": 14,
+      "text": "Cheer up!"
+    },
+    {
+      "chapter": 14,
+      "verse": 15,
+      "text": "You shall not die, for our command is openly declared to you: ‘Draw near.’ ” And having raised the golden sceptre, he laid it upon her neck, and embraced her."
+    },
+    {
+      "chapter": 14,
+      "verse": 16,
+      "text": "He said, “Speak to me.” So she said to him, “I saw you, my lord, as an angel of God, and my heart was troubled for fear of your glory; for you, my lord, are to be wondered at, and your face is full of grace.” While she was speaking, she fainted and fell."
+    },
+    {
+      "chapter": 14,
+      "verse": 17,
+      "text": "Then the king was troubled, and all his servants comforted her."
+    },
+    {
+      "chapter": 14,
+      "verse": 18,
+      "text": "The king said, “What do you desire, Esther?"
+    },
+    {
+      "chapter": 14,
+      "verse": 19,
+      "text": "What is your request?"
+    },
+    {
+      "chapter": 14,
+      "verse": 20,
+      "text": "Ask even to the half of my kingdom, and it shall be yours.”"
+    },
+    {
+      "chapter": 15,
+      "verse": 1,
+      "text": "The great King Ahasuerus sends greetings to the rulers of provinces in one hundred twenty-seven local governance regions, from India to Ethiopia, even to those who are faithful to our interests."
+    },
+    {
+      "chapter": 15,
+      "verse": 2,
+      "text": "Many who have been frequently honored by the most abundant kindness of their benefactors have conceived ambitious designs, and not only endeavor to hurt our subjects, but moreover, not being able to bear prosperity, they also endeavor to plot against their own benefactors."
+    },
+    {
+      "chapter": 15,
+      "verse": 3,
+      "text": "They not only would utterly abolish gratitude from among men, but also, elated by the boastings of men who are strangers to all that is good, they supposed that they would escape the sin-hating vengeance of the ever-seeing God."
+    },
+    {
+      "chapter": 15,
+      "verse": 4,
+      "text": "And oftentimes evil exhortation has made partakers of the guilt of shedding innocent blood, and has involved in irremediable calamities many of those who had been appointed to offices of authority, who had been entrusted with the management of their friends’ affairs; while men, by the false sophistry of an evil disposition, have deceived the simple goodwill of the ruling powers."
+    },
+    {
+      "chapter": 15,
+      "verse": 5,
+      "text": "And it is possible to see this, not so much from more ancient traditional accounts, as it is immediately in your power to see it by examining what things have been wickedly perpetrated by the baseness of men unworthily holding power."
+    },
+    {
+      "chapter": 15,
+      "verse": 6,
+      "text": "It is right to take heed with regard to the future, that we may maintain the government in undisturbed peace for all men, adopting needful changes, and ever judging those cases which come under our notice with truly equitable decisions."
+    },
+    {
+      "chapter": 15,
+      "verse": 7,
+      "text": "For whereas Haman, a Macedonian, the son of Hammedatha, in reality an alien from the blood of the Persians, and differing widely from our mild course of government, having been hospitably entertained by us, obtained so large a share of our universal kindness as to be called our father, and to continue the person next to the royal throne, reverenced of all; he however, overcome by pride, endeavored to deprive us of our dominion, and our life; having by various and subtle artifices demanded for destruction both Mordecai our deliverer and perpetual benefactor, and Esther the blameless consort of our kingdom, along with their whole nation."
+    },
+    {
+      "chapter": 15,
+      "verse": 8,
+      "text": "For by these methods he thought, having surprised us in a defenseless state, to transfer the dominion of the Persians to the Macedonians."
+    },
+    {
+      "chapter": 15,
+      "verse": 9,
+      "text": "But we find that the Jews, who have been consigned to destruction by the most abominable of men, are not malefactors, but living according to the most just laws, and being the sons of the living God, the most high and mighty, who maintains the kingdom, to us as well as to our forefathers, in the most excellent order."
+    },
+    {
+      "chapter": 15,
+      "verse": 10,
+      "text": "You will therefore do well in refusing to obey the letter sent by Haman the son of Hammedatha, because he who has done these things has been hanged with his whole family at the gates of Susa, Almighty God having swiftly returned to him a worthy punishment."
+    },
+    {
+      "chapter": 15,
+      "verse": 11,
+      "text": "We enjoin you then, having openly published a copy of this letter in every place, to give the Jews permission to use their own lawful customs and to strengthen them, that on the thirteenth of the twelfth month Adar, on the self-same day, they may defend themselves against those who attack them in a time of affliction."
+    },
+    {
+      "chapter": 15,
+      "verse": 12,
+      "text": "For in the place of the destruction of the chosen race, Almighty God has granted them this time of gladness."
+    },
+    {
+      "chapter": 15,
+      "verse": 13,
+      "text": "Therefore you also, among your notable feasts, must keep a distinct day with all festivity, that both now and hereafter it may be a day of deliverance to us and who are well disposed toward the Persians, but to those that plotted against us a memorial of destruction."
+    },
+    {
+      "chapter": 15,
+      "verse": 14,
+      "text": "And every city and province collectively, which shall not do accordingly, shall be consumed with vengeance by spear and fire."
+    },
+    {
+      "chapter": 15,
+      "verse": 15,
+      "text": "It shall be made not only inaccessible to men, but most hateful to wild beasts and birds forever."
+    },
+    {
+      "chapter": 16,
+      "verse": 1,
+      "text": "Mordecai said, “These things have come from God."
+    },
+    {
+      "chapter": 16,
+      "verse": 2,
+      "text": "For I remember the dream which I had concerning these matters; for not one detail of them has failed."
+    },
+    {
+      "chapter": 16,
+      "verse": 3,
+      "text": "There was the little spring which became a river, and there was light, and the sun and much water."
+    },
+    {
+      "chapter": 16,
+      "verse": 4,
+      "text": "The river is Esther, whom the king married and made queen."
+    },
+    {
+      "chapter": 16,
+      "verse": 5,
+      "text": "The two serpents are Haman and me."
+    },
+    {
+      "chapter": 16,
+      "verse": 6,
+      "text": "The nations are those which combined to destroy the name of the Jews."
+    },
+    {
+      "chapter": 16,
+      "verse": 7,
+      "text": "But as for my nation, this is Israel, even those who cried to God and were delivered; for the Lord delivered his people."
+    },
+    {
+      "chapter": 16,
+      "verse": 8,
+      "text": "The Lord rescued us out of all these calamities; and God worked such signs and great wonders as have not been done among the nations."
+    },
+    {
+      "chapter": 16,
+      "verse": 9,
+      "text": "Therefore he ordained two lots."
+    },
+    {
+      "chapter": 16,
+      "verse": 10,
+      "text": "One for the people of God, and one for all the other nations."
+    },
+    {
+      "chapter": 16,
+      "verse": 11,
+      "text": "And these two lots came for an appointed season, and for a day of judgment, before God, and for all the nations."
+    },
+    {
+      "chapter": 16,
+      "verse": 12,
+      "text": "God remembered his people and vindicated his inheritance."
+    },
+    {
+      "chapter": 16,
+      "verse": 13,
+      "text": "They shall observe these days in the month Adar, on the fourteenth and on the fifteenth day of the month, with an assembly, joy, and gladness before God, throughout the generations forever among his people Israel."
+    },
+    {
+      "chapter": 16,
+      "verse": 14,
+      "text": "In the fourth year of the reign of Ptolemeus and Cleopatra, Dositheus, who said he was a priest and Levite, and Ptolemeus his son brought this letter of Purim, which they said was authentic, and that Lysimachus the son of Ptolemeus, who was in Jerusalem, had interpreted."
     }
   ]
 }
