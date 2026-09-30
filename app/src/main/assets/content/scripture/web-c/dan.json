@@ -3,9 +3,9 @@
   "book_id": "dan",
   "language": "en",
   "license": "public-domain",
-  "source": "eBible.org World English Bible Classic epub (public domain)",
+  "source": "eBible.org World English Bible (Catholic) epub (public domain) -- eng-web-c, includes Greek-Septuagint Daniel additions (chs. 3 canticle, 13-14)",
   "verified": true,
-  "note": "Full text extracted directly from the eBible.org WEB Classic epub the user supplied -- not hand-typed or machine-translated. Divine-name rendering adjusted from the source epub's 'Yahweh'/'Yah' to 'the LORD' (capitalized 'The LORD' at sentence starts), matching the convention used in Catholic liturgical translations, per explicit request. No other wording was changed.",
+  "note": "Full text extracted directly from the eBible.org WEB (Catholic) epub -- not hand-typed or machine-translated. Includes the Greek-Septuagint additions to Daniel (the Song of the Three Young Men within ch. 3, and chs. 13 Susanna / 14 Bel and the Dragon), recognized as Deuterocanonical Scripture. Chapters 1-12 verses 1-23 of ch.3 match the previously-bundled WEB Classic wording verse-for-verse; ch.3 verses 24-90 are new (the canticle insertion), and what was previously numbered 3:24-30 is now 3:91-97. No divine-name substitution was needed -- this edition already renders the Name as 'LORD'/'Lord' in the main text.",
   "verses": [
     {
       "chapter": 1,
@@ -15,27 +15,27 @@
     {
       "chapter": 1,
       "verse": 2,
-      "text": "The Lord gave Jehoiakim king of Judah into his hand, with some of the vessels of the house of God; and he carried them into the land of Shinar to the house of his god. He brought the vessels into the treasure house of his god."
+      "text": "The Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God; and he carried them into the land of Shinar to the house of his god. He brought the vessels into the treasure house of his god."
     },
     {
       "chapter": 1,
       "verse": 3,
-      "text": "The king spoke to Ashpenaz, the master of his eunuchs, that he should bring in some of the children of Israel, even of the royal offspring and of the nobles:"
+      "text": "The king spoke to Ashpenaz the master of his eunuchs, that he should bring in some of the children of Israel, even of the royal offspring and of the nobles—"
     },
     {
       "chapter": 1,
       "verse": 4,
-      "text": "youths in whom was no defect, but well-favored, skillful in all wisdom, endowed with knowledge, understanding science, and who had the ability to stand in the king’s palace; and that he should teach them the learning and the language of the Chaldeans."
+      "text": "youths in whom was no defect, but well-favored, and skillful in all wisdom, and endowed with knowledge, and understanding science, and who had the ability to serve in the king’s palace; and that he should teach them the learning and the language of the Chaldeans."
     },
     {
       "chapter": 1,
       "verse": 5,
-      "text": "The king appointed for them a daily portion of the king’s delicacies and of the wine which he drank, and that they should be nourished three years, that at its end they should stand before the king."
+      "text": "The king appointed for them a daily portion of the king’s delicacies, and of the wine which he drank, and that they should be nourished three years; that at its end they should serve the king."
     },
     {
       "chapter": 1,
       "verse": 6,
-      "text": "Now among these of the children of Judah were Daniel, Hananiah, Mishael, and Azariah."
+      "text": "Now among these were of the children of Judah: Daniel, Hananiah, Mishael, and Azariah."
     },
     {
       "chapter": 1,
@@ -80,12 +80,12 @@
     {
       "chapter": 1,
       "verse": 15,
-      "text": "At the end of ten days, their faces appeared fairer and they were fatter in flesh than all the youths who ate of the king’s delicacies."
+      "text": "At the end of ten days, their faces appeared fairer, and they were fatter in flesh, than all the youths who ate of the king’s delicacies."
     },
     {
       "chapter": 1,
       "verse": 16,
-      "text": "So the steward took away their delicacies and the wine that they were given to drink, and gave them vegetables."
+      "text": "So the steward took away their delicacies, and the wine that they would drink, and gave them vegetables."
     },
     {
       "chapter": 1,
@@ -100,7 +100,7 @@
     {
       "chapter": 1,
       "verse": 19,
-      "text": "The king talked with them; and among them all was found no one like Daniel, Hananiah, Mishael, and Azariah. Therefore they stood before the king."
+      "text": "The king talked with them; and among them all was found no one like Daniel, Hananiah, Mishael, and Azariah. Therefore they served the king."
     },
     {
       "chapter": 1,
@@ -110,7 +110,7 @@
     {
       "chapter": 1,
       "verse": 21,
-      "text": "Daniel continued even to the first year of King Cyrus."
+      "text": "Daniel continued serving even to the first year of King Cyrus."
     },
     {
       "chapter": 2,
@@ -160,12 +160,12 @@
     {
       "chapter": 2,
       "verse": 10,
-      "text": "The Chaldeans answered the king and said, “There is not a man on the earth who can show the king’s matter, because no king, lord, or ruler has asked such a thing of any magician, enchanter, or Chaldean."
+      "text": "The Chaldeans answered before the king, and said, “There is not a man on the earth who can show the king’s matter, because no king, lord, or ruler, has asked such a thing of any magician, enchanter, or Chaldean."
     },
     {
       "chapter": 2,
       "verse": 11,
-      "text": "It is a rare thing that the king requires, and there is no other who can show it before the king except the gods, whose dwelling is not with flesh.”"
+      "text": "It is a rare thing that the king requires, and there is no other who can show it before the king, except the gods, whose dwelling is not with flesh.”"
     },
     {
       "chapter": 2,
@@ -195,12 +195,12 @@
     {
       "chapter": 2,
       "verse": 17,
-      "text": "Then Daniel went to his house and made the thing known to Hananiah, Mishael, and Azariah, his companions:"
+      "text": "Then Daniel went to his house and made the thing known to Hananiah, Mishael, and Azariah, his companions,"
     },
     {
       "chapter": 2,
       "verse": 18,
-      "text": "that they would desire mercies of the God of heaven concerning this secret, that Daniel and his companions would not perish with the rest of the wise men of Babylon."
+      "text": "that they would desire mercies of the God of heaven concerning this secret, and that Daniel and his companions would not perish with the rest of the wise men of Babylon."
     },
     {
       "chapter": 2,
@@ -250,7 +250,7 @@
     {
       "chapter": 2,
       "verse": 28,
-      "text": "but there is a God in heaven who reveals secrets, and he has made known to King Nebuchadnezzar what will be in the latter days. Your dream and the visions of your head on your bed are these:"
+      "text": "but there is a God in heaven who reveals secrets, and he has made known to King Nebuchadnezzar what will be in the latter days. Your dream, and the visions of your head on your bed, are these:"
     },
     {
       "chapter": 2,
@@ -275,7 +275,7 @@
     {
       "chapter": 2,
       "verse": 33,
-      "text": "its legs of iron, its feet part of iron and part of clay."
+      "text": "its legs of iron, its feet part of iron, and part of clay."
     },
     {
       "chapter": 2,
@@ -285,7 +285,7 @@
     {
       "chapter": 2,
       "verse": 35,
-      "text": "Then the iron, the clay, the bronze, the silver, and the gold were broken in pieces together, and became like the chaff of the summer threshing floors. The wind carried them away, so that no place was found for them. The stone that struck the image became a great mountain and filled the whole earth."
+      "text": "Then the iron, the clay, the bronze, the silver, and the gold were broken in pieces together, and became like the chaff of the summer threshing floors. The wind carried them away, so that no place was found for them. The stone that struck the image became a great mountain, and filled the whole earth."
     },
     {
       "chapter": 2,
@@ -305,7 +305,7 @@
     {
       "chapter": 2,
       "verse": 39,
-      "text": "“After you, another kingdom will arise that is inferior to you; and another third kingdom of bronze, which will rule over all the earth."
+      "text": "“After you, another kingdom will arise that is inferior to you; and a third kingdom of bronze, which will rule over all the earth."
     },
     {
       "chapter": 2,
@@ -315,12 +315,12 @@
     {
       "chapter": 2,
       "verse": 41,
-      "text": "Whereas you saw the feet and toes, part of potters’ clay and part of iron, it will be a divided kingdom; but there will be in it of the strength of the iron, because you saw the iron mixed with miry clay."
+      "text": "Whereas you saw the feet and toes, part of potters’ clay, and part of iron, it will be a divided kingdom; but there will be in it of the strength of the iron, because you saw the iron mixed with miry clay."
     },
     {
       "chapter": 2,
       "verse": 42,
-      "text": "As the toes of the feet were part of iron, and part of clay, so the kingdom will be partly strong and partly brittle."
+      "text": "As the toes of the feet were part of iron, and part of clay, so the kingdom will be partly strong, and partly brittle."
     },
     {
       "chapter": 2,
@@ -335,7 +335,7 @@
     {
       "chapter": 2,
       "verse": 45,
-      "text": "Because you saw that a stone was cut out of the mountain without hands, and that it broke in pieces the iron, the bronze, the clay, the silver, and the gold, the great God has made known to the king what will happen hereafter. The dream is certain, and its interpretation sure.”"
+      "text": "Because you saw that a stone was cut out of the mountain without hands, and that it broke in pieces the iron, the bronze, the clay, the silver, and the gold. The great God has made known to the king what will happen hereafter. The dream is certain, and its interpretation sure.”"
     },
     {
       "chapter": 2,
@@ -350,17 +350,17 @@
     {
       "chapter": 2,
       "verse": 48,
-      "text": "Then the king made Daniel great and gave him many great gifts, and made him rule over the whole province of Babylon and to be chief governor over all the wise men of Babylon."
+      "text": "Then the king made Daniel great, and gave him many great gifts, and made him rule over the whole province of Babylon, and to be chief governor over all the wise men of Babylon."
     },
     {
       "chapter": 2,
       "verse": 49,
-      "text": "Daniel requested of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon, but Daniel was in the king’s gate."
+      "text": "Daniel requested of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon; but Daniel was in the king’s gate."
     },
     {
       "chapter": 3,
       "verse": 1,
-      "text": "Nebuchadnezzar the king made an image of gold, whose height was sixty cubits and its width six cubits. He set it up in the plain of Dura, in the province of Babylon."
+      "text": "Nebuchadnezzar the king made an image of gold, whose height was sixty cubits, and its width six cubits. He set it up in the plain of Dura, in the province of Babylon."
     },
     {
       "chapter": 3,
@@ -370,7 +370,7 @@
     {
       "chapter": 3,
       "verse": 3,
-      "text": "Then the local governors, the deputies, and the governors, the judges, the treasurers, the counselors, the sheriffs, and all the rulers of the provinces were gathered together to the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up."
+      "text": "Then the local governors, the deputies, and the governors, the judges, the treasurers, the counselors, the sheriffs, and all the rulers of the provinces, were gathered together to the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up."
     },
     {
       "chapter": 3,
@@ -390,12 +390,12 @@
     {
       "chapter": 3,
       "verse": 7,
-      "text": "Therefore at that time, when all the peoples heard the sound of the horn, flute, zither, lyre, harp, pipe, and all kinds of music, all the peoples, the nations, and the languages fell down and worshiped the golden image that Nebuchadnezzar the king had set up."
+      "text": "Therefore at that time, when all the peoples heard the sound of the horn, flute, zither, lyre, harp, pipe, and all kinds of music, all the peoples, the nations, and the languages, fell down and worshiped the golden image that Nebuchadnezzar the king had set up."
     },
     {
       "chapter": 3,
       "verse": 8,
-      "text": "Therefore at that time certain Chaldeans came near and brought accusation against the Jews."
+      "text": "Therefore at that time certain Chaldeans came near, and brought accusation against the Jews."
     },
     {
       "chapter": 3,
@@ -425,7 +425,7 @@
     {
       "chapter": 3,
       "verse": 14,
-      "text": "Nebuchadnezzar answered them, “Is it true, Shadrach, Meshach, and Abednego, that you don’t serve my gods and you don’t worship the golden image which I have set up?"
+      "text": "Nebuchadnezzar answered them, “Is it on purpose, Shadrach, Meshach, and Abednego, that you don’t serve my god, nor worship the golden image which I have set up?"
     },
     {
       "chapter": 3,
@@ -460,12 +460,12 @@
     {
       "chapter": 3,
       "verse": 21,
-      "text": "Then these men were bound in their pants, their tunics, and their mantles, and their other clothes, and were cast into the middle of the burning fiery furnace."
+      "text": "Then these men were bound in their pants, their tunics, their mantles, and their other clothes, and were cast into the middle of the burning fiery furnace."
     },
     {
       "chapter": 3,
       "verse": 22,
-      "text": "Therefore because the king’s commandment was urgent and the furnace exceedingly hot, the flame of the fire killed those men who took up Shadrach, Meshach, and Abednego."
+      "text": "Therefore because the king’s commandment was urgent, and the furnace exceedingly hot, the flame of the fire killed those men who took up Shadrach, Meshach, and Abednego."
     },
     {
       "chapter": 3,
@@ -475,36 +475,371 @@
     {
       "chapter": 3,
       "verse": 24,
-      "text": "Then Nebuchadnezzar the king was astonished and rose up in haste. He spoke and said to his counselors, “Didn’t we cast three men bound into the middle of the fire?” They answered the king, “True, O king.”"
+      "text": "They walked in the midst of the fire, praising God, and blessing the Lord."
     },
     {
       "chapter": 3,
       "verse": 25,
-      "text": "He answered, “Look, I see four men loose, walking in the middle of the fire, and they are unharmed. The appearance of the fourth is like a son of the gods.”"
+      "text": "Then Azarias stood, and prayed like this. Opening his mouth in the midst of the fire he said,"
     },
     {
       "chapter": 3,
       "verse": 26,
-      "text": "Then Nebuchadnezzar came near to the mouth of the burning fiery furnace. He spoke and said, “Shadrach, Meshach, and Abednego, you servants of the Most High God, come out, and come here!” Then Shadrach, Meshach, and Abednego came out of the middle of the fire."
+      "text": "“Blessed are you, O Lord, you God of our fathers! Your name is worthy to be praised and glorified for evermore;"
     },
     {
       "chapter": 3,
       "verse": 27,
-      "text": "The local governors, the deputies, and the governors, and the king’s counselors, being gathered together, saw these men, that the fire had no power on their bodies. The hair of their head wasn’t singed. Their pants weren’t changed. The smell of fire wasn’t even on them."
+      "text": "for you are righteous in all the things that you have done. Yes, all your works are true. Your ways are right, and all your judgments are truth."
     },
     {
       "chapter": 3,
       "verse": 28,
-      "text": "Nebuchadnezzar spoke and said, “Blessed be the God of Shadrach, Meshach, and Abednego, who has sent his angel and delivered his servants who trusted in him, and have changed the king’s word, and have yielded their bodies, that they might not serve nor worship any god except their own God."
+      "text": "In all the things that you have brought upon us, and upon the holy city of our fathers, Jerusalem, you have executed true judgments. For according to truth and justice you have brought all these things upon us because of our sins."
     },
     {
       "chapter": 3,
       "verse": 29,
-      "text": "Therefore I make a decree that every people, nation, and language which speak anything evil against the God of Shadrach, Meshach, and Abednego shall be cut in pieces, and their houses shall be made a dunghill, because there is no other god who is able to deliver like this.”"
+      "text": "For we have sinned and committed iniquity in departing from you."
     },
     {
       "chapter": 3,
       "verse": 30,
+      "text": "In all things we have trespassed, and not obeyed your commandments or kept them. We haven’t done as you have commanded us, that it might go well with us."
+    },
+    {
+      "chapter": 3,
+      "verse": 31,
+      "text": "Therefore all that you have brought upon us, and everything that you have done to us, you have done in true judgment."
+    },
+    {
+      "chapter": 3,
+      "verse": 32,
+      "text": "You delivered us into the hands of lawless enemies, most hateful rebels, and to an unjust king who is the most wicked in all the world."
+    },
+    {
+      "chapter": 3,
+      "verse": 33,
+      "text": "And now we can’t open our mouth. Shame and reproach have come on your servants and those who worship you."
+    },
+    {
+      "chapter": 3,
+      "verse": 34,
+      "text": "Don’t utterly deliver us up, for your name’s sake. Don’t annul your covenant."
+    },
+    {
+      "chapter": 3,
+      "verse": 35,
+      "text": "Don’t cause your mercy to depart from us, for the sake of Abraham who is loved by you, and for the sake of Isaac your servant, and Israel your holy one,"
+    },
+    {
+      "chapter": 3,
+      "verse": 36,
+      "text": "to whom you promised that you would multiply their offspring as the stars of the sky, and as the sand that is on the sea shore."
+    },
+    {
+      "chapter": 3,
+      "verse": 37,
+      "text": "For we, O Lord, have become less than any nation, and are brought low this day in all the world because of our sins."
+    },
+    {
+      "chapter": 3,
+      "verse": 38,
+      "text": "There isn’t at this time prince, or prophet, or leader, or burnt offering, or sacrifice, or oblation, or incense, or place to offer before you, and to find mercy."
+    },
+    {
+      "chapter": 3,
+      "verse": 39,
+      "text": "Nevertheless in a contrite heart and a humble spirit let us be accepted,"
+    },
+    {
+      "chapter": 3,
+      "verse": 40,
+      "text": "like the burnt offerings of rams and bullocks, and like ten thousands of fat lambs. So let our sacrifice be in your sight this day, that we may wholly go after you, for they shall not be ashamed who put their trust in you."
+    },
+    {
+      "chapter": 3,
+      "verse": 41,
+      "text": "And now we follow you with all our heart. We fear you, and seek your face."
+    },
+    {
+      "chapter": 3,
+      "verse": 42,
+      "text": "Put us not to shame; but deal with us after your kindness, and according to the multitude of your mercy."
+    },
+    {
+      "chapter": 3,
+      "verse": 43,
+      "text": "Deliver us also according to your marvelous works, and give glory to your name, O Lord. Let all those who harm your servants be confounded."
+    },
+    {
+      "chapter": 3,
+      "verse": 44,
+      "text": "Let them be ashamed of all their power and might, and let their strength be broken."
+    },
+    {
+      "chapter": 3,
+      "verse": 45,
+      "text": "Let them know that you are the Lord, the only God, and glorious over the whole world.”"
+    },
+    {
+      "chapter": 3,
+      "verse": 46,
+      "text": "The king’s servants who put them in didn’t stop making the furnace hot with naphtha, pitch, tinder, and small wood,"
+    },
+    {
+      "chapter": 3,
+      "verse": 47,
+      "text": "so that the flame streamed out forty nine cubits above the furnace."
+    },
+    {
+      "chapter": 3,
+      "verse": 48,
+      "text": "It spread and burned those Chaldeans whom it found around the furnace."
+    },
+    {
+      "chapter": 3,
+      "verse": 49,
+      "text": "But the angel of the Lord came down into the furnace together with Azarias and his fellows, and he struck the flame of the fire out of the furnace,"
+    },
+    {
+      "chapter": 3,
+      "verse": 50,
+      "text": "and made the midst of the furnace as it had been a moist whistling wind, so that the fire didn’t touch them at all. It neither hurt nor troubled them."
+    },
+    {
+      "chapter": 3,
+      "verse": 51,
+      "text": "Then the three, as out of one mouth, praised, glorified, and blessed God in the furnace, saying,"
+    },
+    {
+      "chapter": 3,
+      "verse": 52,
+      "text": "“Blessed are you, O Lord, you God of our fathers, to be praised and exalted above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 53,
+      "text": "Blessed is your glorious and holy name, to be praised and exalted above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 54,
+      "text": "Blessed are you in the temple of your holy glory, to be praised and glorified above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 55,
+      "text": "Blessed are you who see the depths and sit upon the cherubim, to be praised and exalted above all forever."
+    },
+    {
+      "chapter": 3,
+      "verse": 56,
+      "text": "Blessed are you on the throne of your kingdom, to be praised and extolled above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 57,
+      "text": "Blessed are you in the firmament of heaven, to be praised and glorified forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 58,
+      "text": "O all you works of the Lord, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 59,
+      "text": "O you heavens, bless the Lord! Praise and exalt him above all for ever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 60,
+      "text": "O you angels of the Lord, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 61,
+      "text": "O all you waters that are above the sky, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 62,
+      "text": "O all you powers of the Lord, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 63,
+      "text": "O you sun and moon, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 64,
+      "text": "O you stars of heaven, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 65,
+      "text": "O every shower and dew, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 66,
+      "text": "O all you winds, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 67,
+      "text": "O you fire and heat, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 68,
+      "text": "O you dews and storms of snow, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 69,
+      "text": "O you nights and days, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 70,
+      "text": "O you light and darkness, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 71,
+      "text": "O you cold and heat, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 72,
+      "text": "O you frost and snow, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 73,
+      "text": "O you lightnings and clouds, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 74,
+      "text": "O let the earth bless the Lord! Let it praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 75,
+      "text": "O you mountains and hills, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 76,
+      "text": "O all you things that grow on the earth, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 77,
+      "text": "O sea and rivers, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 78,
+      "text": "O you springs, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 79,
+      "text": "O you whales and all that move in the waters, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 80,
+      "text": "O all you birds of the air, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 81,
+      "text": "O all you beasts and cattle, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 82,
+      "text": "O you children of men, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 83,
+      "text": "O let Israel bless the Lord! Praise and exalt him above all forever."
+    },
+    {
+      "chapter": 3,
+      "verse": 84,
+      "text": "O you priests of the Lord, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 85,
+      "text": "O you servants of the Lord, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 86,
+      "text": "O you spirits and souls of the righteous, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 87,
+      "text": "O you who are holy and humble of heart, bless the Lord! Praise and exalt him above all forever!"
+    },
+    {
+      "chapter": 3,
+      "verse": 88,
+      "text": "O Hananiah, Mishael, and Azariah, bless the Lord! Praise and exalt him above all forever; for he has rescued us from Hades, and saved us from the hand of death! He has delivered us out of the midst of the furnace and burning flame. He has delivered us out of the midst of the fire."
+    },
+    {
+      "chapter": 3,
+      "verse": 89,
+      "text": "O give thanks to the Lord, for he is good; for his mercy is forever."
+    },
+    {
+      "chapter": 3,
+      "verse": 90,
+      "text": "O all you who worship the Lord, bless the God of gods, praise him, and give him thanks; for his mercy is forever!”"
+    },
+    {
+      "chapter": 3,
+      "verse": 91,
+      "text": "Then Nebuchadnezzar the king was astonished and rose up in haste. He spoke and said to his counselors, “Didn’t we cast three men bound into the middle of the fire?” They answered the king, “True, O king.”"
+    },
+    {
+      "chapter": 3,
+      "verse": 92,
+      "text": "He answered, “Look, I see four men loose, walking in the middle of the fire, and they are unharmed. The appearance of the fourth is like a son of the gods.”"
+    },
+    {
+      "chapter": 3,
+      "verse": 93,
+      "text": "Then Nebuchadnezzar came near to the mouth of the burning fiery furnace. He spoke and said, “Shadrach, Meshach, and Abednego, you servants of the Most High God, come out, and come here!” Then Shadrach, Meshach, and Abednego came out of the middle of the fire."
+    },
+    {
+      "chapter": 3,
+      "verse": 94,
+      "text": "The local governors, the deputies, and the governors, and the king’s counselors, being gathered together, saw these men, that the fire had no power on their bodies. The hair of their head wasn’t singed. Their pants weren’t changed. The smell of fire wasn’t even on them."
+    },
+    {
+      "chapter": 3,
+      "verse": 95,
+      "text": "Nebuchadnezzar spoke and said, “Blessed be the God of Shadrach, Meshach, and Abednego, who has sent his angel and delivered his servants who trusted in him, and have changed the king’s word, and have yielded their bodies, that they might not serve nor worship any god, except their own God."
+    },
+    {
+      "chapter": 3,
+      "verse": 96,
+      "text": "Therefore I make a decree, that every people, nation, and language, who speak anything evil against the God of Shadrach, Meshach, and Abednego, shall be cut in pieces, and their houses shall be made a dunghill, because there is no other god who is able to deliver like this.”"
+    },
+    {
+      "chapter": 3,
+      "verse": 97,
       "text": "Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon."
     },
     {
@@ -540,17 +875,17 @@
     {
       "chapter": 4,
       "verse": 7,
-      "text": "Then the magicians, the enchanters, the Chaldeans, and the soothsayers came in; and I told them the dream, but they didn’t make known to me its interpretation."
+      "text": "Then the magicians, the enchanters, the Chaldeans, and the soothsayers came in; and I told the dream before them; but they didn’t make known to me its interpretation."
     },
     {
       "chapter": 4,
       "verse": 8,
-      "text": "But at last, Daniel came in before me, whose name was Belteshazzar according to the name of my god, and in whom is the spirit of the holy gods. I told the dream before him, saying,"
+      "text": "But at the last Daniel came in before me, whose name was Belteshazzar, according to the name of my god, and in whom is the spirit of the holy gods. I told the dream before him, saying,"
     },
     {
       "chapter": 4,
       "verse": 9,
-      "text": "“Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in you and no secret troubles you, tell me the visions of my dream that I have seen, and its interpretation."
+      "text": "“Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in you, and no secret troubles you, tell me the visions of my dream that I have seen, and its interpretation."
     },
     {
       "chapter": 4,
@@ -560,7 +895,7 @@
     {
       "chapter": 4,
       "verse": 11,
-      "text": "The tree grew and was strong. Its height reached to the sky and its sight to the end of all the earth."
+      "text": "The tree grew, and was strong, and its height reached to the sky, and its sight to the end of all the earth."
     },
     {
       "chapter": 4,
@@ -570,12 +905,12 @@
     {
       "chapter": 4,
       "verse": 13,
-      "text": "“I saw in the visions of my head on my bed, and behold, a holy watcher came down from the sky."
+      "text": "“I saw in the visions of my head on my bed, and behold, a watcher and a holy one came down from the sky."
     },
     {
       "chapter": 4,
       "verse": 14,
-      "text": "He cried aloud and said this: ‘Cut down the tree, and cut off its branches! Shake off its leaves and scatter its fruit! Let the animals get away from under it and the birds from its branches."
+      "text": "He cried aloud, and said this, ‘Cut down the tree and cut off its branches! Shake off its leaves and scatter its fruit! Let the animals get away from under it, and the fowls from its branches."
     },
     {
       "chapter": 4,
@@ -590,7 +925,7 @@
     {
       "chapter": 4,
       "verse": 17,
-      "text": "“ ‘The sentence is by the decree of the watchers and the demand by the word of the holy ones, to the intent that the living may know that the Most High rules in the kingdom of men, and gives it to whomever he will, and sets up over it the lowest of men.’"
+      "text": "“ ‘The sentence is by the decree of the watchers, and the demand by the word of the holy ones, to the intent that the living may know that the Most High rules in the kingdom of men, and gives it to whomever he will, and sets up over it the lowest of men.’"
     },
     {
       "chapter": 4,
@@ -605,22 +940,22 @@
     {
       "chapter": 4,
       "verse": 20,
-      "text": "The tree that you saw, which grew and was strong, whose height reached to the sky and its sight to all the earth;"
+      "text": "The tree that you saw, which grew and was strong, whose height reached to the sky, and its sight to all the earth;"
     },
     {
       "chapter": 4,
       "verse": 21,
-      "text": "whose leaves were beautiful and its fruit plentiful, and in it was food for all; under which the animals of the field lived, and on whose branches the birds of the sky had their habitation—"
+      "text": "whose leaves were beautiful, and its fruit plentiful, and in it was food for all; under which the animals of the field lived, and on whose branches the birds of the sky had their habitation—"
     },
     {
       "chapter": 4,
       "verse": 22,
-      "text": "it is you, O king, that have grown and become strong; for your greatness has grown, and reaches to the sky, and your dominion to the end of the earth."
+      "text": "it is you, O king, who have grown and become strong; for your greatness has grown, and reaches to the sky, and your dominion to the end of the earth."
     },
     {
       "chapter": 4,
       "verse": 23,
-      "text": "“Whereas the king saw a holy watcher coming down from the sky and saying, ‘Cut down the tree, and destroy it; nevertheless leave the stump of its roots in the earth, even with a band of iron and bronze, in the tender grass of the field, and let it be wet with the dew of the sky. Let his portion be with the animals of the field, until seven times pass over him.’"
+      "text": "“Whereas the king saw a watcher and a holy one coming down from the sky, and saying, ‘Cut down the tree, and destroy it; nevertheless leave the stump of its roots in the earth, even with a band of iron and bronze, in the tender grass of the field, and let it be wet with the dew of the sky. Let his portion be with the animals of the field, until seven times pass over him.’"
     },
     {
       "chapter": 4,
@@ -630,12 +965,12 @@
     {
       "chapter": 4,
       "verse": 25,
-      "text": "You will be driven from men and your dwelling shall be with the animals of the field. You will be made to eat grass as oxen, and will be wet with the dew of the sky, and seven times shall pass over you, until you know that the Most High rules in the kingdom of men, and gives it to whomever he will."
+      "text": "that you shall be driven from men, and your dwelling shall be with the animals of the field. You shall be made to eat grass as oxen, and shall be wet with the dew of the sky, and seven times shall pass over you; until you know that the Most High rules in the kingdom of men, and gives it to whomever he will."
     },
     {
       "chapter": 4,
       "verse": 26,
-      "text": "Whereas it was commanded to leave the stump of the roots of the tree, your kingdom shall be sure to you after you know that Heaven rules."
+      "text": "Their command to leave the stump of the roots of the tree means your kingdom will be sure to you, after you will have known that the heavens do rule."
     },
     {
       "chapter": 4,
@@ -655,7 +990,7 @@
     {
       "chapter": 4,
       "verse": 30,
-      "text": "The king spoke and said, “Is not this great Babylon, which I have built for the royal dwelling place by the might of my power and for the glory of my majesty?”"
+      "text": "The king spoke and said, “Is not this great Babylon, which I have built for the royal dwelling place, by the might of my power and for the glory of my majesty?”"
     },
     {
       "chapter": 4,
@@ -665,17 +1000,17 @@
     {
       "chapter": 4,
       "verse": 32,
-      "text": "You shall be driven from men, and your dwelling shall be with the animals of the field. You shall be made to eat grass like oxen. Seven times shall pass over you, until you know that the Most High rules in the kingdom of men, and gives it to whomever he will.’ ”"
+      "text": "You shall be driven from men, and your dwelling shall be with the animals of the field. You shall be made to eat grass as oxen. Seven times shall pass over you, until you know that the Most High rules in the kingdom of men, and gives it to whomever he will.’ ”"
     },
     {
       "chapter": 4,
       "verse": 33,
-      "text": "This was fulfilled the same hour on Nebuchadnezzar. He was driven from men and ate grass like oxen; and his body was wet with the dew of the sky until his hair had grown like eagles’ feathers, and his nails like birds’ claws."
+      "text": "This was fulfilled the same hour on Nebuchadnezzar. He was driven from men, and ate grass as oxen, and his body was wet with the dew of the sky, until his hair had grown like eagles’ feathers, and his nails like birds’ claws."
     },
     {
       "chapter": 4,
       "verse": 34,
-      "text": "At the end of the days I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me; and I blessed the Most High, and I praised and honored him who lives forever, for his dominion is an everlasting dominion, and his kingdom from generation to generation."
+      "text": "At the end of the days I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me, and I blessed the Most High, and I praised and honored him who lives forever. For his dominion is an everlasting dominion, and his kingdom from generation to generation."
     },
     {
       "chapter": 4,
@@ -690,7 +1025,7 @@
     {
       "chapter": 4,
       "verse": 37,
-      "text": "Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those who walk in pride he is able to abase."
+      "text": "Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are right and his ways just; and those who walk in pride he is able to humble."
     },
     {
       "chapter": 5,
@@ -730,12 +1065,12 @@
     {
       "chapter": 5,
       "verse": 8,
-      "text": "Then all the king’s wise men came in; but they could not read the writing, and couldn’t make known to the king the interpretation."
+      "text": "Then all the king’s wise men came in; but they could not read the writing and couldn’t make known to the king the interpretation."
     },
     {
       "chapter": 5,
       "verse": 9,
-      "text": "Then King Belshazzar was greatly troubled, and his face was changed in him, and his lords were perplexed."
+      "text": "Then King Belshazzar was greatly troubled. His face was changed in him, and his lords were perplexed."
     },
     {
       "chapter": 5,
@@ -745,7 +1080,7 @@
     {
       "chapter": 5,
       "verse": 11,
-      "text": "There is a man in your kingdom in whom is the spirit of the holy gods; and in the days of your father, light and understanding and wisdom, like the wisdom of the gods, were found in him. The king, Nebuchadnezzar, your father—yes, the king, your father—made him master of the magicians, enchanters, Chaldeans, and soothsayers,"
+      "text": "There is a man in your kingdom in whom is the spirit of the holy gods. In the days of your father, light, understanding, and wisdom like the wisdom of the gods were found in him. The king, Nebuchadnezzar, your father—yes, the king, your father—made him master of the magicians, enchanters, Chaldeans, and soothsayers"
     },
     {
       "chapter": 5,
@@ -760,22 +1095,22 @@
     {
       "chapter": 5,
       "verse": 14,
-      "text": "I have heard of you, that the spirit of the gods is in you and that light, understanding, and excellent wisdom are found in you."
+      "text": "I have heard of you, that the spirit of the gods is in you, and that light, understanding, and excellent wisdom are found in you."
     },
     {
       "chapter": 5,
       "verse": 15,
-      "text": "Now the wise men, the enchanters, have been brought in before me, that they should read this writing, and make known to me its interpretation; but they could not show the interpretation of the thing."
+      "text": "Now the wise men, the enchanters, have been brought in before me to read this writing, and make known to me its interpretation; but they could not show the interpretation of the thing."
     },
     {
       "chapter": 5,
       "verse": 16,
-      "text": "But I have heard of you, that you can give interpretations and dissolve doubts. Now if you can read the writing and make known to me its interpretation, you shall be clothed with purple, and have a chain of gold around your neck, and shall be the third ruler in the kingdom.”"
+      "text": "But I have heard of you, that you can give interpretations and dissolve doubts. Now if you can read the writing, and make known to me its interpretation, you shall be clothed with purple, and have a chain of gold around your neck, and shall be the third ruler in the kingdom.”"
     },
     {
       "chapter": 5,
       "verse": 17,
-      "text": "Then Daniel answered before the king, “Let your gifts be to yourself, and give your rewards to another. Nevertheless, I will read the writing to the king, and make known to him the interpretation."
+      "text": "Then Daniel answered the king, “Let your gifts be to yourself, and give your rewards to another. Nevertheless, I will read the writing to the king, and make known to him the interpretation."
     },
     {
       "chapter": 5,
@@ -795,7 +1130,7 @@
     {
       "chapter": 5,
       "verse": 21,
-      "text": "He was driven from the sons of men, and his heart was made like the animals’, and his dwelling was with the wild donkeys. He was fed with grass like oxen, and his body was wet with the dew of the sky, until he knew that the Most High God rules in the kingdom of men, and that he sets up over it whomever he will."
+      "text": "He was driven from the sons of men and his heart was made like the animals’, and his dwelling was with the wild donkeys. He was fed with grass like oxen, and his body was wet with the dew of the sky, until he knew that the Most High God rules in the kingdom of men, and that he sets up over it whomever he will."
     },
     {
       "chapter": 5,
@@ -805,7 +1140,7 @@
     {
       "chapter": 5,
       "verse": 23,
-      "text": "but have lifted up yourself against the Lord of heaven; and they have brought the vessels of his house before you, and you and your lords, your wives, and your concubines, have drunk wine from them. You have praised the gods of silver and gold, of bronze, iron, wood, and stone, which don’t see, or hear, or know; and you have not glorified the God in whose hand your breath is, and whose are all your ways."
+      "text": "but have lifted up yourself against the Lord of heaven; and they have brought the vessels of his house before you, and you and your lords, your wives, and your concubines, have drunk wine from them. You have praised the gods of silver, gold, bronze, iron, wood, and stone, which don’t see, hear, or know; and you have not glorified the God in whose hand is your breath and whose are all your ways."
     },
     {
       "chapter": 5,
@@ -835,7 +1170,7 @@
     {
       "chapter": 5,
       "verse": 29,
-      "text": "Then Belshazzar commanded, and they clothed Daniel with purple, and put a chain of gold about his neck, and made proclamation concerning him, that he should be the third ruler in the kingdom."
+      "text": "Then Belshazzar commanded, and they clothed Daniel with purple, and put a chain of gold about his neck, and proclaimed that he should be the third highest ruler in the kingdom."
     },
     {
       "chapter": 5,
@@ -855,7 +1190,7 @@
     {
       "chapter": 6,
       "verse": 2,
-      "text": "and over them three presidents, of whom Daniel was one, that these local governors might give account to them, and that the king should suffer no loss."
+      "text": "and over them three presidents, of whom Daniel was one; that these local governors might give account to them, and that the king should suffer no loss."
     },
     {
       "chapter": 6,
@@ -880,12 +1215,12 @@
     {
       "chapter": 6,
       "verse": 7,
-      "text": "All the presidents of the kingdom, the deputies and the local governors, the counselors and the governors, have consulted together to establish a royal statute and to make a strong decree, that whoever asks a petition of any god or man for thirty days, except of you, O king, he shall be cast into the den of lions."
+      "text": "All the presidents of the kingdom, the deputies and the local governors, the counselors and the governors, have consulted together to establish a royal statute, and to make a strong decree, that whoever asks a petition of any god or man for thirty days, except of you, O king, he shall be cast into the den of lions."
     },
     {
       "chapter": 6,
       "verse": 8,
-      "text": "Now, O king, establish the decree and sign the writing, that it not be changed, according to the law of the Medes and Persians, which doesn’t alter.”"
+      "text": "Now, O king, establish the decree, and sign the writing, that it not be changed, according to the law of the Medes and Persians, which doesn’t alter.”"
     },
     {
       "chapter": 6,
@@ -925,12 +1260,12 @@
     {
       "chapter": 6,
       "verse": 16,
-      "text": "Then the king commanded, and they brought Daniel and cast him into the den of lions. The king spoke and said to Daniel, “Your God whom you serve continually, he will deliver you.”"
+      "text": "Then the king commanded, and they brought Daniel, and cast him into the den of lions. The king spoke and said to Daniel, “Your God whom you serve continually, he will deliver you.”"
     },
     {
       "chapter": 6,
       "verse": 17,
-      "text": "A stone was brought, and laid on the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that nothing might be changed concerning Daniel."
+      "text": "A stone was brought, and laid on the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords, that nothing might be changed concerning Daniel."
     },
     {
       "chapter": 6,
@@ -955,7 +1290,7 @@
     {
       "chapter": 6,
       "verse": 22,
-      "text": "My God has sent his angel, and has shut the lions’ mouths, and they have not hurt me, because innocence was found in me before him; and also before you, O king, I have done no harm.”"
+      "text": "My God has sent his angel, and has shut the lions’ mouths, and they have not hurt me; because I am innocent in his sight. Also before you, O king, I have done no harm.”"
     },
     {
       "chapter": 6,
@@ -965,17 +1300,17 @@
     {
       "chapter": 6,
       "verse": 24,
-      "text": "The king commanded, and they brought those men who had accused Daniel, and they cast them into the den of lions—them, their children, and their wives; and the lions mauled them, and broke all their bones in pieces before they came to the bottom of the den."
+      "text": "The king commanded, and they brought those men who had accused Daniel, and they cast them into the den of lions—them, their children, and their wives; and the lions mauled them and broke all their bones in pieces before they came to the bottom of the den."
     },
     {
       "chapter": 6,
       "verse": 25,
-      "text": "Then King Darius wrote to all the peoples, nations, and languages who dwell in all the earth: “Peace be multiplied to you."
+      "text": "Then King Darius wrote to all the peoples, nations, and languages, who dwell in all the earth: “Peace be multiplied to you."
     },
     {
       "chapter": 6,
       "verse": 26,
-      "text": "“I make a decree that in all the dominion of my kingdom men tremble and fear before the God of Daniel. “For he is the living God, and steadfast forever. His kingdom is that which will not be destroyed. His dominion will be even to the end."
+      "text": "“I make a decree that in all the dominion of my kingdom men tremble and fear before the God of Daniel; “for he is the living God, and steadfast forever. His kingdom is that which will not be destroyed. His dominion will be even to the end."
     },
     {
       "chapter": 6,
@@ -985,17 +1320,17 @@
     {
       "chapter": 6,
       "verse": 28,
-      "text": "So this Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian."
+      "text": "So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian."
     },
     {
       "chapter": 7,
       "verse": 1,
-      "text": "In the first year of Belshazzar king of Babylon, Daniel had a dream and visions of his head while on his bed. Then he wrote the dream and told the sum of the matters."
+      "text": "In the first year of Belshazzar king of Babylon, Daniel had a dream and visions of his head on his bed. Then he wrote the dream and told the sum of the matters."
     },
     {
       "chapter": 7,
       "verse": 2,
-      "text": "Daniel spoke and said, “I saw in my vision by night, and, behold, the four winds of the sky broke out on the great sea."
+      "text": "Daniel spoke and said, “I saw in my vision by night and behold, the four winds of the sky broke out on the great sea."
     },
     {
       "chapter": 7,
@@ -1005,7 +1340,7 @@
     {
       "chapter": 7,
       "verse": 4,
-      "text": "“The first was like a lion, and had eagle’s wings. I watched until its wings were plucked, and it was lifted up from the earth and made to stand on two feet as a man. A man’s heart was given to it."
+      "text": "“The first was like a lion, and had eagle’s wings. I watched until its wings were plucked, and it was lifted up from the earth, and made to stand on two feet as a man. A man’s heart was given to it."
     },
     {
       "chapter": 7,
@@ -1020,12 +1355,12 @@
     {
       "chapter": 7,
       "verse": 7,
-      "text": "“After this I saw in the night visions, and, behold, there was a fourth animal, awesome, powerful, and exceedingly strong. It had great iron teeth. It devoured and broke in pieces, and stamped the residue with its feet. It was different from all the animals that were before it. It had ten horns."
+      "text": "“After this I saw in the night visions, and, behold, there was a fourth animal, awesome and powerful, and exceedingly strong. It had great iron teeth. It devoured and broke in pieces, and stamped the residue with its feet. It was different from all the animals that were before it. It had ten horns."
     },
     {
       "chapter": 7,
       "verse": 8,
-      "text": "“I considered the horns, and behold, there came up among them another horn, a little one, before which three of the first horns were plucked up by the roots; and behold, in this horn were eyes like the eyes of a man, and a mouth speaking arrogantly."
+      "text": "“I considered the horns, and behold, another horn came up among them, a little one, before which three of the first horns were plucked up by the roots: and behold, in this horn were eyes like the eyes of a man, and a mouth speaking great things."
     },
     {
       "chapter": 7,
@@ -1040,7 +1375,7 @@
     {
       "chapter": 7,
       "verse": 11,
-      "text": "“I watched at that time because of the voice of the arrogant words which the horn spoke. I watched even until the animal was slain, and its body destroyed, and it was given to be burned with fire."
+      "text": "“I watched at that time because of the voice of the great words which the horn spoke. I watched even until the animal was slain, its body destroyed, and it was given to be burned with fire."
     },
     {
       "chapter": 7,
@@ -1050,12 +1385,12 @@
     {
       "chapter": 7,
       "verse": 13,
-      "text": "“I saw in the night visions, and behold, there came with the clouds of the sky one like a son of man, and he came even to the Ancient of Days, and they brought him near before him."
+      "text": "“I saw in the night visions, and behold, one like a son of man came with the clouds, and he came to the Ancient of Days, and they brought him near before him."
     },
     {
       "chapter": 7,
       "verse": 14,
-      "text": "Dominion was given him, and glory, and a kingdom, that all the peoples, nations, and languages should serve him. His dominion is an everlasting dominion, which will not pass away, and his kingdom one that will not be destroyed."
+      "text": "Dominion was given him, with glory and a kingdom, that all the peoples, nations, and languages should serve him. His dominion is an everlasting dominion, which will not pass away, and his kingdom will not be destroyed."
     },
     {
       "chapter": 7,
@@ -1085,12 +1420,12 @@
     {
       "chapter": 7,
       "verse": 20,
-      "text": "and concerning the ten horns that were on its head and the other horn which came up, and before which three fell, even that horn that had eyes and a mouth that spoke arrogantly, whose look was more stout than its fellows."
+      "text": "and concerning the ten horns that were on its head, and the other horn which came up, and before which three fell, even that horn that had eyes, and a mouth that spoke great things, whose look was more stout than its fellows."
     },
     {
       "chapter": 7,
       "verse": 21,
-      "text": "I saw, and the same horn made war with the saints, and prevailed against them,"
+      "text": "I saw, and the same horn made war with the saints and prevailed against them"
     },
     {
       "chapter": 7,
@@ -1100,7 +1435,7 @@
     {
       "chapter": 7,
       "verse": 23,
-      "text": "“So he said, ‘The fourth animal will be a fourth kingdom on earth, which will be different from all the kingdoms, and will devour the whole earth, and will tread it down and break it in pieces."
+      "text": "“So he said, ‘The fourth animal will be a fourth kingdom on earth, which will be different from all the kingdoms, and will devour the whole earth, and will tread it down, and break it in pieces."
     },
     {
       "chapter": 7,
@@ -1140,12 +1475,12 @@
     {
       "chapter": 8,
       "verse": 3,
-      "text": "Then I lifted up my eyes and saw, and behold, a ram which had two horns stood before the river. The two horns were high, but one was higher than the other, and the higher came up last."
+      "text": "Then I lifted up my eyes, and saw, and behold, a ram which had two horns stood before the river. The two horns were high; but one was higher than the other, and the higher came up last."
     },
     {
       "chapter": 8,
       "verse": 4,
-      "text": "I saw the ram pushing westward, northward, and southward. No animals could stand before him. There wasn’t any who could deliver out of his hand, but he did according to his will, and magnified himself."
+      "text": "I saw the ram pushing westward, northward, and southward. No animals could stand before him. There wasn’t anyone who could deliver out of his hand; but he did according to his will, and magnified himself."
     },
     {
       "chapter": 8,
@@ -1160,7 +1495,7 @@
     {
       "chapter": 8,
       "verse": 7,
-      "text": "I saw him come close to the ram, and he was moved with anger against him, and struck the ram, and broke his two horns. There was no power in the ram to stand before him; but he cast him down to the ground and trampled on him. There was no one who could deliver the ram out of his hand."
+      "text": "I saw him come close to the ram, and he was moved with anger against him, and struck the ram, and broke his two horns. There was no power in the ram to stand before him; but he cast him down to the ground, and trampled on him. There was no one who could deliver the ram out of his hand."
     },
     {
       "chapter": 8,
@@ -1170,12 +1505,12 @@
     {
       "chapter": 8,
       "verse": 9,
-      "text": "Out of one of them came out a little horn which grew exceedingly great—toward the south, and toward the east, and toward the glorious land."
+      "text": "Out of one of them came out a little horn, which grew exceedingly great, toward the south, and toward the east, and toward the glorious land."
     },
     {
       "chapter": 8,
       "verse": 10,
-      "text": "It grew great, even to the army of the sky; and it cast down some of the army and of the stars to the ground and trampled on them."
+      "text": "It grew great, even to the army of the sky; and it cast down some of the army and of the stars to the ground, and trampled on them."
     },
     {
       "chapter": 8,
@@ -1200,27 +1535,27 @@
     {
       "chapter": 8,
       "verse": 15,
-      "text": "When I, even I Daniel, had seen the vision, I sought to understand it. Then behold, there stood before me someone with the appearance of a man."
+      "text": "When I, even I Daniel, had seen the vision, I sought to understand it. Then behold, there stood before me something like the appearance of a man."
     },
     {
       "chapter": 8,
       "verse": 16,
-      "text": "I heard a man’s voice between the banks of the Ulai, which called and said, “Gabriel, make this man understand the vision.”"
+      "text": "I heard a man’s voice between the banks of the Ulai, which called, and said, “Gabriel, make this man understand the vision.”"
     },
     {
       "chapter": 8,
       "verse": 17,
-      "text": "So he came near where I stood; and when he came, I was frightened, and fell on my face; but he said to me, “Understand, son of man, for the vision belongs to the time of the end.”"
+      "text": "So he came near where I stood; and when he came, I was frightened, and fell on my face; but he said to me, “Understand, son of man; for the vision belongs to the time of the end.”"
     },
     {
       "chapter": 8,
       "verse": 18,
-      "text": "Now as he was speaking with me, I fell into a deep sleep with my face toward the ground; but he touched me and set me upright."
+      "text": "Now as he was speaking with me, I fell into a deep sleep with my face toward the ground; but he touched me, and set me upright."
     },
     {
       "chapter": 8,
       "verse": 19,
-      "text": "He said, “Behold, I will make you know what will be in the latter time of the indignation, for it belongs to the appointed time of the end."
+      "text": "He said, “Behold, I will make you know what will be in the latter time of the indignation; for it belongs to the appointed time of the end."
     },
     {
       "chapter": 8,
@@ -1240,7 +1575,7 @@
     {
       "chapter": 8,
       "verse": 23,
-      "text": "“In the latter time of their kingdom, when the transgressors have come to the full, a king of fierce face, and understanding riddles, will stand up."
+      "text": "“In the latter time of their kingdom, when the transgressors have come to the full, a king of fierce face, and understanding dark sentences, will stand up."
     },
     {
       "chapter": 8,
@@ -1250,7 +1585,7 @@
     {
       "chapter": 8,
       "verse": 25,
-      "text": "Through his policy he will cause deceit to prosper in his hand. He will magnify himself in his heart, and he will destroy many in their security. He will also stand up against the prince of princes, but he will be broken without human hands."
+      "text": "Through his policy he will cause deceit to prosper in his hand. He will magnify himself in his heart, and he will destroy many in their security. He will also stand up against the prince of princes; but he will be broken without human power."
     },
     {
       "chapter": 8,
@@ -1260,22 +1595,22 @@
     {
       "chapter": 8,
       "verse": 27,
-      "text": "I, Daniel, fainted, and was sick for some days. Then I rose up and did the king’s business. I wondered at the vision, but no one understood it."
+      "text": "I, Daniel, fainted, and was sick for some days. Then I rose up, and did the king’s business. I wondered at the vision, but no one understood it."
     },
     {
       "chapter": 9,
       "verse": 1,
-      "text": "In the first year of Darius the son of Ahasuerus, of the offspring of the Medes, who was made king over the realm of the Chaldeans—"
+      "text": "In the first year of Darius the son of Ahasuerus, of the offspring of the Medes, who was made king over the realm of the Chaldeans,"
     },
     {
       "chapter": 9,
       "verse": 2,
-      "text": "in the first year of his reign I, Daniel, understood by the books the number of the years about which the LORD’s word came to Jeremiah the prophet for the accomplishing of the desolations of Jerusalem, even seventy years."
+      "text": "in the first year of his reign I, Daniel, understood by the books the number of the years about which the LORD’s word came to Jeremiah the prophet, for the accomplishing of the desolations of Jerusalem, even seventy years."
     },
     {
       "chapter": 9,
       "verse": 3,
-      "text": "I set my face to the Lord God, to seek by prayer and petitions, with fasting and sackcloth and ashes."
+      "text": "I set my face to the Lord God, to seek by prayer and petitions, with fasting in sackcloth and ashes."
     },
     {
       "chapter": 9,
@@ -1295,7 +1630,7 @@
     {
       "chapter": 9,
       "verse": 7,
-      "text": "“Lord, righteousness belongs to you, but to us confusion of face, as it is today; to the men of Judah, and to the inhabitants of Jerusalem, and to all Israel, who are near and who are far off, through all the countries where you have driven them, because of their trespass that they have trespassed against you."
+      "text": "“Lord, righteousness belongs to you, but to us confusion of face, as it is today—to the men of Judah, and to the inhabitants of Jerusalem, and to all Israel, who are near, and who are far off, through all the countries where you have driven them, because of their trespass that they have trespassed against you."
     },
     {
       "chapter": 9,
@@ -1305,7 +1640,7 @@
     {
       "chapter": 9,
       "verse": 9,
-      "text": "To the Lord our God belong mercies and forgiveness, for we have rebelled against him."
+      "text": "To the Lord our God belong mercies and forgiveness; for we have rebelled against him."
     },
     {
       "chapter": 9,
@@ -1315,12 +1650,12 @@
     {
       "chapter": 9,
       "verse": 11,
-      "text": "Yes, all Israel have transgressed your law, turning aside, that they should not obey your voice. “Therefore the curse and the oath written in the law of Moses the servant of God has been poured out on us, for we have sinned against him."
+      "text": "Yes, all Israel have transgressed your law, turning aside, that they wouldn’t obey your voice. “Therefore the curse and the oath written in the law of Moses the servant of God has been poured out on us; for we have sinned against him."
     },
     {
       "chapter": 9,
       "verse": 12,
-      "text": "He has confirmed his words, which he spoke against us and against our judges who judged us, by bringing on us a great evil; for under the whole sky, such has not been done as has been done to Jerusalem."
+      "text": "He has confirmed his words, which he spoke against us, and against our judges who judged us, by bringing on us a great evil; for under the whole sky, such has not been done as has been done to Jerusalem."
     },
     {
       "chapter": 9,
@@ -1340,17 +1675,17 @@
     {
       "chapter": 9,
       "verse": 16,
-      "text": "Lord, according to all your righteousness, please let your anger and your wrath be turned away from your city Jerusalem, your holy mountain; because for our sins and for the iniquities of our fathers, Jerusalem and your people have become a reproach to all who are around us."
+      "text": "Lord, according to all your righteousness, please let your anger and your wrath be turned away from your city Jerusalem, your holy mountain, because for our sins, and for the iniquities of our fathers, Jerusalem and your people have become a reproach to all who are around us."
     },
     {
       "chapter": 9,
       "verse": 17,
-      "text": "“Now therefore, our God, listen to the prayer of your servant and to his petitions, and cause your face to shine on your sanctuary that is desolate, for the Lord’s sake."
+      "text": "“Now therefore, our God, listen to the prayer of your servant, and to his petitions, and cause your face to shine on your sanctuary that is desolate, for the Lord’s sake."
     },
     {
       "chapter": 9,
       "verse": 18,
-      "text": "My God, turn your ear and hear. Open your eyes and see our desolations, and the city which is called by your name; for we do not present our petitions before you for our righteousness, but for your great mercies’ sake."
+      "text": "My God, turn your ear and hear. Open your eyes and see our desolations and the city which is called by your name; for we don’t present our petitions before you for our righteousness, but for your great mercies’ sake."
     },
     {
       "chapter": 9,
@@ -1365,7 +1700,7 @@
     {
       "chapter": 9,
       "verse": 21,
-      "text": "yes, while I was speaking in prayer—the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening offering."
+      "text": "yes, while I was speaking in prayer, the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening offering."
     },
     {
       "chapter": 9,
@@ -1375,32 +1710,32 @@
     {
       "chapter": 9,
       "verse": 23,
-      "text": "At the beginning of your petitions the commandment went out, and I have come to tell you, for you are greatly beloved. Therefore consider the matter and understand the vision."
+      "text": "At the beginning of your petitions the commandment went out and I have come to tell you, for you are greatly beloved. Therefore consider the matter and understand the vision."
     },
     {
       "chapter": 9,
       "verse": 24,
-      "text": "“Seventy weeks are decreed on your people and on your holy city, to finish disobedience, to make an end of sins, to make reconciliation for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the most holy."
+      "text": "“Seventy weeks are decreed on your people and on your holy city, to finish disobedience, to put an end to sin, to make reconciliation for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the most holy."
     },
     {
       "chapter": 9,
       "verse": 25,
-      "text": "“Know therefore and discern that from the going out of the commandment to restore and build Jerusalem to the Anointed One, the prince, will be seven weeks and sixty-two weeks. It will be built again, with street and moat, even in troubled times."
+      "text": "“Know therefore and discern that from the going out of the commandment to restore and to build Jerusalem to the Anointed One, the prince, will be seven weeks and sixty-two weeks. It will be built again with street and moat, even in troubled times."
     },
     {
       "chapter": 9,
       "verse": 26,
-      "text": "After the sixty-two weeks the Anointed One will be cut off, and will have nothing. The people of the prince who come will destroy the city and the sanctuary. Its end will be with a flood, and war will be even to the end. Desolations are determined."
+      "text": "After the sixty-two weeks the Anointed One will be cut off and will have nothing. The people of the prince who come will destroy the city and the sanctuary. Its end will be with a flood, and war will be even to the end. Desolations are determined."
     },
     {
       "chapter": 9,
       "verse": 27,
-      "text": "He will make a firm covenant with many for one week. In the middle of the week he will cause the sacrifice and the offering to cease. On the wing of abominations will come one who makes desolate; and even to the decreed full end, wrath will be poured out on the desolate.”"
+      "text": "He will make a firm covenant with many for one week. In the middle of the week he will cause the sacrifice and the offering to cease. On the wing of abominations will come one who makes desolate. Even to the full end that is decreed, wrath will be poured out on the desolate.”"
     },
     {
       "chapter": 10,
       "verse": 1,
-      "text": "In the third year of Cyrus king of Persia a message was revealed to Daniel, whose name was called Belteshazzar; and the message was true, even a great warfare. He understood the message, and had understanding of the vision."
+      "text": "In the third year of Cyrus king of Persia a revelation was revealed to Daniel, whose name was called Belteshazzar. The revelation was true, even a great warfare. He understood the revelation, and had understanding of the vision."
     },
     {
       "chapter": 10,
@@ -1410,7 +1745,7 @@
     {
       "chapter": 10,
       "verse": 3,
-      "text": "I ate no pleasant food. No meat or wine came into my mouth. I didn’t anoint myself at all, until three whole weeks were fulfilled."
+      "text": "I ate no pleasant bread. No meat or wine came into my mouth. I didn’t anoint myself at all, until three whole weeks were fulfilled."
     },
     {
       "chapter": 10,
@@ -1420,22 +1755,22 @@
     {
       "chapter": 10,
       "verse": 5,
-      "text": "I lifted up my eyes and looked, and behold, there was a man clothed in linen, whose waist was adorned with pure gold of Uphaz."
+      "text": "I lifted up my eyes and looked, and behold, there was a man clothed in linen, whose thighs were adorned with pure gold of Uphaz."
     },
     {
       "chapter": 10,
       "verse": 6,
-      "text": "His body also was like beryl, and his face as the appearance of lightning, and his eyes as flaming torches. His arms and his feet were like burnished bronze. The voice of his words was like the voice of a multitude."
+      "text": "His body also was like beryl, and his face like the appearance of lightning, and his eyes like flaming torches. His arms and his feet were like burnished bronze. The voice of his words was like the voice of a multitude."
     },
     {
       "chapter": 10,
       "verse": 7,
-      "text": "I, Daniel, alone saw the vision, for the men who were with me didn’t see the vision, but a great quaking fell on them, and they fled to hide themselves."
+      "text": "I, Daniel, alone saw the vision; for the men who were with me didn’t see the vision; but a great quaking fell on them, and they fled to hide themselves."
     },
     {
       "chapter": 10,
       "verse": 8,
-      "text": "So I was left alone and saw this great vision. No strength remained in me; for my face grew deathly pale, and I retained no strength."
+      "text": "So I was left alone, and saw this great vision. No strength remained in me; for my face grew deathly pale, and I retained no strength."
     },
     {
       "chapter": 10,
@@ -1450,7 +1785,7 @@
     {
       "chapter": 10,
       "verse": 11,
-      "text": "He said to me, “Daniel, you greatly beloved man, understand the words that I speak to you, and stand upright, for I have been sent to you, now.” When he had spoken this word to me, I stood trembling."
+      "text": "He said to me, “Daniel, you greatly beloved man, understand the words that I speak to you. Stand upright, for I have been sent to you, now.” When he had spoken this word to me, I stood trembling."
     },
     {
       "chapter": 10,
@@ -1465,12 +1800,12 @@
     {
       "chapter": 10,
       "verse": 14,
-      "text": "Now I have come to make you understand what will happen to your people in the latter days, for the vision is yet for many days.”"
+      "text": "Now I have come to make you understand what will happen to your people in the latter days; for the vision is yet for many days.”"
     },
     {
       "chapter": 10,
       "verse": 15,
-      "text": "When he had spoken these words to me, I set my face toward the ground and was mute."
+      "text": "When he had spoken these words to me, I set my face toward the ground, and was mute."
     },
     {
       "chapter": 10,
@@ -1480,7 +1815,7 @@
     {
       "chapter": 10,
       "verse": 17,
-      "text": "For how can the servant of this my lord talk with this my lord? For as for me, immediately there remained no strength in me. There was no breath left in me.”"
+      "text": "For how can the servant of my lord talk with my lord? For as for me, immediately there remained no strength in me. There was no breath left in me.”"
     },
     {
       "chapter": 10,
@@ -1490,7 +1825,7 @@
     {
       "chapter": 10,
       "verse": 19,
-      "text": "He said, “Greatly beloved man, don’t be afraid. Peace be to you. Be strong. Yes, be strong.” When he spoke to me, I was strengthened, and said, “Let my lord speak, for you have strengthened me.”"
+      "text": "He said, “Greatly beloved man, don’t be afraid. Peace be to you. Be strong. Yes, be strong.” When he spoke to me, I was strengthened, and said, “Let my lord speak; for you have strengthened me.”"
     },
     {
       "chapter": 10,
@@ -1500,7 +1835,7 @@
     {
       "chapter": 10,
       "verse": 21,
-      "text": "But I will tell you that which is inscribed in the writing of truth. There is no one who holds with me against these but Michael your prince."
+      "text": "But I will tell you what is inscribed in the writing of truth. There is no one who supports me against these except Michael, your prince."
     },
     {
       "chapter": 11,
@@ -1515,32 +1850,32 @@
     {
       "chapter": 11,
       "verse": 3,
-      "text": "A mighty king will stand up, who will rule with great dominion, and do according to his will."
+      "text": "A mighty king will stand up who will rule with great dominion, and do according to his will."
     },
     {
       "chapter": 11,
       "verse": 4,
-      "text": "When he stands up, his kingdom will be broken and will be divided toward the four winds of the sky, but not to his posterity, nor according to his dominion with which he ruled; for his kingdom will be plucked up, even for others besides these."
+      "text": "When he stands up, his kingdom will be broken, and will be divided toward the four winds of the sky, but not to his posterity, nor according to his dominion with which he ruled; for his kingdom will be plucked up, even for others besides these."
     },
     {
       "chapter": 11,
       "verse": 5,
-      "text": "“The king of the south will be strong. One of his princes will become stronger than him, and have dominion. His dominion will be a great dominion."
+      "text": "“The king of the south will be strong. One of his princes will become stronger than him and have dominion. His dominion will be a great dominion."
     },
     {
       "chapter": 11,
       "verse": 6,
-      "text": "At the end of years they will join themselves together; and the daughter of the king of the south will come to the king of the north to make an agreement, but she will not retain the strength of her arm. He will also not stand, nor will his arm; but she will be given up, with those who brought her, and he who became the father of her, and he who strengthened her in those times."
+      "text": "At the end of years they will join themselves together. The daughter of the king of the south will come to the king of the north to make an agreement, but she will not retain the strength of her arm. He will also not stand, nor will his arm; but she will be given up, with those who brought her and he who became her father, and he who strengthened her in those times."
     },
     {
       "chapter": 11,
       "verse": 7,
-      "text": "“But out of a shoot from her roots one will stand up in his place, who will come to the army and will enter into the fortress of the king of the north, and will deal against them and will prevail."
+      "text": "“But out of a shoot from her roots one will stand up in his place who will come to the army and will enter into the fortress of the king of the north, and will deal against them and will prevail."
     },
     {
       "chapter": 11,
       "verse": 8,
-      "text": "He will also carry their gods with their molten images, and with their goodly vessels of silver and of gold, captive into Egypt. He will refrain some years from the king of the north."
+      "text": "He will also carry their gods, with their molten images and their precious vessels of silver and of gold, captive into Egypt. He will refrain some years from the king of the north."
     },
     {
       "chapter": 11,
@@ -1550,7 +1885,7 @@
     {
       "chapter": 11,
       "verse": 10,
-      "text": "His sons will wage war, and will assemble a multitude of great forces which will come on, and overflow, and pass through. They will return and wage war, even to his fortress."
+      "text": "His sons will wage war and will assemble a multitude of great forces which will keep coming and overflow and pass through. They will return and wage war, even to his fortress."
     },
     {
       "chapter": 11,
@@ -1560,7 +1895,7 @@
     {
       "chapter": 11,
       "verse": 12,
-      "text": "The multitude will be carried off, and his heart will be exalted. He will cast down tens of thousands, but he won’t prevail."
+      "text": "The multitude will be lifted up, and his heart will be exalted. He will cast down tens of thousands, but he won’t prevail."
     },
     {
       "chapter": 11,
@@ -1570,12 +1905,12 @@
     {
       "chapter": 11,
       "verse": 14,
-      "text": "“In those times many will stand up against the king of the south. Also the children of the violent among your people will lift themselves up to establish the vision, but they will fall."
+      "text": "“In those times many will stand up against the king of the south. Also the children of the violent among your people will lift themselves up to establish the vision; but they will fall."
     },
     {
       "chapter": 11,
       "verse": 15,
-      "text": "So the king of the north will come and cast up a mound, and take a well-fortified city. The forces of the south won’t stand, neither will his select troops, neither will there be any strength to stand."
+      "text": "So the king of the north will come and cast up a mound, and take a well-fortified city. The forces of the south won’t stand, neither will his chosen people, neither will there be any strength to stand."
     },
     {
       "chapter": 11,
@@ -1585,12 +1920,12 @@
     {
       "chapter": 11,
       "verse": 17,
-      "text": "He will set his face to come with the strength of his whole kingdom, and with him equitable conditions. He will perform them. He will give him the daughter of women, to destroy the kingdom, but she will not stand, and won’t be for him."
+      "text": "He will set his face to come with the strength of his whole kingdom, and with him equitable conditions. He will perform them. He will give him the daughter of women to corrupt her; but she will not stand, and won’t be for him."
     },
     {
       "chapter": 11,
       "verse": 18,
-      "text": "After this he will turn his face to the islands, and will take many, but a prince will cause the reproach offered by him to cease. Yes, moreover, he will cause his reproach to turn on him."
+      "text": "After this he will turn his face to the islands, and will take many; but a prince will cause the reproach offered by him to cease. Yes, moreover, he will cause his reproach to turn on him."
     },
     {
       "chapter": 11,
@@ -1605,7 +1940,7 @@
     {
       "chapter": 11,
       "verse": 21,
-      "text": "“In his place a contemptible person will stand up, to whom they had not given the honor of the kingdom; but he will come in time of security, and will obtain the kingdom by flatteries."
+      "text": "“In his place, a contemptible person will stand up, to whom they had not given the honor of the kingdom; but he will come in time of security, and will obtain the kingdom by flatteries."
     },
     {
       "chapter": 11,
@@ -1615,17 +1950,17 @@
     {
       "chapter": 11,
       "verse": 23,
-      "text": "After the treaty made with him he will work deceitfully; for he will come up and will become strong with few people."
+      "text": "After the treaty is made with him, he will work deceitfully; for he will come up, and will become strong with a small people."
     },
     {
       "chapter": 11,
       "verse": 24,
-      "text": "In time of security he will come even on the fattest places of the province. He will do that which his fathers have not done, nor his fathers’ fathers. He will scatter among them prey, plunder, and wealth. Yes, he will devise his plans against the strongholds, but only for a time."
+      "text": "In time of security, he will come even on the fattest places of the province. He will do that which his fathers have not done, nor his fathers’ fathers. He will scatter among them prey, plunder, and substance. Yes, he will devise his plans against the strongholds, even for a time."
     },
     {
       "chapter": 11,
       "verse": 25,
-      "text": "“He will stir up his power and his courage against the king of the south with a great army; and the king of the south will wage war in battle with an exceedingly great and mighty army, but he won’t stand; for they will devise plans against him."
+      "text": "“He will stir up his power and his courage against the king of the south with a great army; and the king of the south will wage war in battle with an exceedingly great and mighty army; but he won’t stand, for they will devise plans against him."
     },
     {
       "chapter": 11,
@@ -1635,12 +1970,12 @@
     {
       "chapter": 11,
       "verse": 27,
-      "text": "As for both these kings, their hearts will be to do evil, and they will speak lies at one table; but it won’t prosper, for the end will still be at the appointed time."
+      "text": "As for both these kings, their hearts will be to do mischief, and they will speak lies at one table; but it won’t prosper, for the end will still be at the appointed time."
     },
     {
       "chapter": 11,
       "verse": 28,
-      "text": "Then he will return into his land with great wealth. His heart will be against the holy covenant. He will take action, and return to his own land."
+      "text": "Then he will return into his land with great wealth. His heart will be against the holy covenant. He will take action and return to his own land."
     },
     {
       "chapter": 11,
@@ -1655,7 +1990,7 @@
     {
       "chapter": 11,
       "verse": 31,
-      "text": "“Forces from him will profane the sanctuary, even the fortress, and will take away the continual burnt offering. Then they will set up the abomination that makes desolate."
+      "text": "“Forces will stand on his part and they will profane the sanctuary, even the fortress, and will take away the continual burnt offering. Then they will set up the abomination that makes desolate."
     },
     {
       "chapter": 11,
@@ -1675,12 +2010,12 @@
     {
       "chapter": 11,
       "verse": 35,
-      "text": "Some of those who are wise will fall—to refine them, and to purify, and to make them white, even to the time of the end, because it is yet for the time appointed."
+      "text": "Some of those who are wise will fall, to refine them, and to purify, and to make them white, even to the time of the end; because it is yet for the appointed time."
     },
     {
       "chapter": 11,
       "verse": 36,
-      "text": "“The king will do according to his will. He will exalt himself and magnify himself above every god, and will speak marvelous things against the God of gods. He will prosper until the indignation is accomplished, for that which is determined will be done."
+      "text": "“The king will do according to his will. He will exalt himself, and magnify himself above every god, and will speak marvelous things against the God of gods. He will prosper until the indignation is accomplished; for what is determined will be done."
     },
     {
       "chapter": 11,
@@ -1690,7 +2025,7 @@
     {
       "chapter": 11,
       "verse": 38,
-      "text": "But in their place, he will honor the god of fortresses. He will honor a god whom his fathers didn’t know with gold, silver, and with precious stones and pleasant things."
+      "text": "But in his place he will honor the god of fortresses. He will honor a god whom his fathers didn’t know with gold, silver, precious stones, and pleasant things."
     },
     {
       "chapter": 11,
@@ -1700,7 +2035,7 @@
     {
       "chapter": 11,
       "verse": 40,
-      "text": "“At the time of the end the king of the south will contend with him; and the king of the north will come against him like a whirlwind, with chariots, with horsemen, and with many ships. He will enter into the countries, and will overflow and pass through."
+      "text": "“At the time of the end, the king of the south will contend with him; and the king of the north will come against him like a whirlwind, with chariots, with horsemen, and with many ships. He will enter into the countries, and will overflow and pass through."
     },
     {
       "chapter": 11,
@@ -1710,12 +2045,12 @@
     {
       "chapter": 11,
       "verse": 42,
-      "text": "He will also stretch out his hand on the countries. The land of Egypt won’t escape."
+      "text": "He will also stretch out his hand against the countries. The land of Egypt won’t escape."
     },
     {
       "chapter": 11,
       "verse": 43,
-      "text": "But he will have power over the treasures of gold and of silver, and over all the precious things of Egypt. The Libyans and the Ethiopians will follow his steps."
+      "text": "But he will have power over the treasures of gold and of silver, and over all the precious things of Egypt. The Libyans and the Ethiopians will be at his steps."
     },
     {
       "chapter": 11,
@@ -1730,7 +2065,7 @@
     {
       "chapter": 12,
       "verse": 1,
-      "text": "“At that time Michael will stand up, the great prince who stands for the children of your people; and there will be a time of trouble, such as never was since there was a nation even to that same time. At that time your people will be delivered, everyone who is found written in the book."
+      "text": "“At that time Michael will stand up, the great prince who stands for the children of your people. There will be a time of trouble, such as never was since there was a nation even to that same time. At that time, your people will be delivered—everyone who is found written in the book."
     },
     {
       "chapter": 12,
@@ -1740,7 +2075,7 @@
     {
       "chapter": 12,
       "verse": 3,
-      "text": "Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever."
+      "text": "Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine like the stars forever and ever."
     },
     {
       "chapter": 12,
@@ -1775,7 +2110,7 @@
     {
       "chapter": 12,
       "verse": 10,
-      "text": "Many will purify themselves, and make themselves white, and be refined, but the wicked will do wickedly; and none of the wicked will understand, but those who are wise will understand."
+      "text": "Many will purify themselves, make themselves white, and be refined; but the wicked will do wickedly. None of the wicked will understand; but those who are wise will understand."
     },
     {
       "chapter": 12,
@@ -1785,12 +2120,542 @@
     {
       "chapter": 12,
       "verse": 12,
-      "text": "Blessed is he who waits, and comes to the one thousand three hundred thirty-five days."
+      "text": "Blessed is he who waits and comes to the one thousand three hundred thirty-five days."
     },
     {
       "chapter": 12,
       "verse": 13,
-      "text": "“But go your way until the end; for you will rest, and will stand in your inheritance at the end of the days.”"
+      "text": "“But go your way until the end; for you will rest and will stand in your inheritance at the end of the days.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "text": "A man lived in Babylon, and his name was Joakim."
+    },
+    {
+      "chapter": 13,
+      "verse": 2,
+      "text": "He took a wife, whose name was Susanna, the daughter of Helkias, a very fair woman, and one who feared the Lord."
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "text": "Her parents were also righteous, and taught their daughter according to the law of Moses."
+    },
+    {
+      "chapter": 13,
+      "verse": 4,
+      "text": "Now Joakim was a great rich man, and had a beautiful garden next to his house. The Jews used to come to him, because he was more honorable than all others."
+    },
+    {
+      "chapter": 13,
+      "verse": 5,
+      "text": "The same year, two of the elders of the people were appointed to be judges, such as the Lord spoke of, that wickedness came from Babylon from elders who were judges, who were supposed to govern the people."
+    },
+    {
+      "chapter": 13,
+      "verse": 6,
+      "text": "These were often at Joakim’s house. All that had any lawsuits came to them."
+    },
+    {
+      "chapter": 13,
+      "verse": 7,
+      "text": "When the people departed away at noon, Susanna went into her husband’s garden to walk."
+    },
+    {
+      "chapter": 13,
+      "verse": 8,
+      "text": "The two elders saw her going in every day and walking; and they were inflamed with lust for her."
+    },
+    {
+      "chapter": 13,
+      "verse": 9,
+      "text": "They perverted their own mind and turned away their eyes, that they might not look to heaven, nor remember just judgments."
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "text": "And although they both were wounded with lust for her, yet dared not show the other his grief."
+    },
+    {
+      "chapter": 13,
+      "verse": 11,
+      "text": "For they were ashamed to declare their lust, what they desired to do with her."
+    },
+    {
+      "chapter": 13,
+      "verse": 12,
+      "text": "Yet they watched eagerly from day to day to see her."
+    },
+    {
+      "chapter": 13,
+      "verse": 13,
+      "text": "The one said to the other, “Let’s go home, now; for it is dinner time.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 14,
+      "text": "So when they had gone out, they parted company, and turning back again, they came to the same place. After they had asked one another the cause, they acknowledged their lust. Then they appointed a time both together, when they might find her alone."
+    },
+    {
+      "chapter": 13,
+      "verse": 15,
+      "text": "It happened, as they watched on an opportune day, she went in as before with only two maids, and she desired to wash herself in the garden; for it was hot."
+    },
+    {
+      "chapter": 13,
+      "verse": 16,
+      "text": "There was nobody there except the two elders who had hid themselves and watched her."
+    },
+    {
+      "chapter": 13,
+      "verse": 17,
+      "text": "Then she said to her maids, “Bring me olive oil and ointment, and shut the garden doors, that I may wash myself.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 18,
+      "text": "They did as she asked them and shut the garden doors, and went out themselves at the side doors to fetch the things that she had commanded them. They didn’t see the elders, because they were hidden."
+    },
+    {
+      "chapter": 13,
+      "verse": 19,
+      "text": "Now when the maids had gone out, the two elders rose up and ran to her, saying,"
+    },
+    {
+      "chapter": 13,
+      "verse": 20,
+      "text": "“Behold, the garden doors are shut, that no man can see us, and we are in love with you. Therefore consent to us, and lie with us."
+    },
+    {
+      "chapter": 13,
+      "verse": 21,
+      "text": "If you will not, we will testify against you, that a young man was with you; therefore you sent your maids away from you.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 22,
+      "text": "Then Susanna sighed, and said, “I am trapped; for if I do this thing, it is death to me. If I don’t do it, I can’t escape your hands."
+    },
+    {
+      "chapter": 13,
+      "verse": 23,
+      "text": "It is better for me to fall into your hands, and not do it, than to sin in the sight of the Lord.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 24,
+      "text": "With that Susanna cried with a loud voice; and the two elders cried out against her."
+    },
+    {
+      "chapter": 13,
+      "verse": 25,
+      "text": "Then one of them ran and opened the garden doors."
+    },
+    {
+      "chapter": 13,
+      "verse": 26,
+      "text": "So when the servants of the house heard the cry in the garden, they rushed in at the side door to see what had happened to her."
+    },
+    {
+      "chapter": 13,
+      "verse": 27,
+      "text": "But when the elders had told their tale, the servants were greatly ashamed; for there was never such a report made of Susanna."
+    },
+    {
+      "chapter": 13,
+      "verse": 28,
+      "text": "It came to pass on the next day, when the people assembled to her husband Joakim, the two elders came full of their wicked intent against Susanna to put her to death,"
+    },
+    {
+      "chapter": 13,
+      "verse": 29,
+      "text": "and said before the people, “Send for Susanna, the daughter of Helkias, Joakim’s wife.” So they sent;"
+    },
+    {
+      "chapter": 13,
+      "verse": 30,
+      "text": "and she came with her father and mother, her children, and all her kindred."
+    },
+    {
+      "chapter": 13,
+      "verse": 31,
+      "text": "Now Susanna was a very delicate woman, and beautiful to behold."
+    },
+    {
+      "chapter": 13,
+      "verse": 32,
+      "text": "These wicked men commanded her to be unveiled, for she was veiled, that they might be filled with her beauty."
+    },
+    {
+      "chapter": 13,
+      "verse": 33,
+      "text": "Therefore her friends and all who saw her wept."
+    },
+    {
+      "chapter": 13,
+      "verse": 34,
+      "text": "Then the two elders stood up in the midst of the people and laid their hands upon her head."
+    },
+    {
+      "chapter": 13,
+      "verse": 35,
+      "text": "She, weeping, looked up toward heaven; for her heart trusted in the Lord."
+    },
+    {
+      "chapter": 13,
+      "verse": 36,
+      "text": "The elders said, “As we walked in the garden alone, this woman came in with two maids, shut the garden doors, and sent the maids away."
+    },
+    {
+      "chapter": 13,
+      "verse": 37,
+      "text": "Then a young man who was hidden there came to her and lay with her."
+    },
+    {
+      "chapter": 13,
+      "verse": 38,
+      "text": "And we, being in a corner of the garden, saw this wickedness and ran to them."
+    },
+    {
+      "chapter": 13,
+      "verse": 39,
+      "text": "And when we saw them together, we couldn’t hold the man; for he was stronger than we, and opened the doors, and leaped out."
+    },
+    {
+      "chapter": 13,
+      "verse": 40,
+      "text": "But having taken this woman, we asked who the young man was, but she would not tell us. We testify these things."
+    },
+    {
+      "chapter": 13,
+      "verse": 41,
+      "text": "Then the assembly believed them, as those who were elders of the people and judges; so they condemned her to death."
+    },
+    {
+      "chapter": 13,
+      "verse": 42,
+      "text": "Then Susanna cried out with a loud voice, and said, “O everlasting God, you know the secrets, and know all things before they happen."
+    },
+    {
+      "chapter": 13,
+      "verse": 43,
+      "text": "You know that they have testified falsely against me. Behold, I must die, even though I never did such things as these men have maliciously invented against me.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 44,
+      "text": "The Lord heard her voice."
+    },
+    {
+      "chapter": 13,
+      "verse": 45,
+      "text": "Therefore when she was led away to be put to death, God raised up the holy spirit of a young youth, whose name was Daniel."
+    },
+    {
+      "chapter": 13,
+      "verse": 46,
+      "text": "He cried with a loud voice, “I am clear from the blood of this woman!”"
+    },
+    {
+      "chapter": 13,
+      "verse": 47,
+      "text": "Then all the people turned them toward him, and said, “What do these words that you have spoken mean?”"
+    },
+    {
+      "chapter": 13,
+      "verse": 48,
+      "text": "So he, standing in the midst of them, said, “Are you all such fools, you sons of Israel, that without examination or knowledge of the truth you have condemned a daughter of Israel?"
+    },
+    {
+      "chapter": 13,
+      "verse": 49,
+      "text": "Return again to the place of judgment; for these have testified falsely against her.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 50,
+      "text": "Therefore all the people turned again in haste, and the elders said to him, “Come, sit down among us, and show it to us, seeing God has given you the honor of an elder.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 51,
+      "text": "Then Daniel said to them, “Put them far apart from each another, and I will examine them.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 52,
+      "text": "So when they were put apart one from another, he called one of them, and said to him, “O you who have become old in wickedness, now your sins have returned which you have committed before,"
+    },
+    {
+      "chapter": 13,
+      "verse": 53,
+      "text": "in pronouncing unjust judgment, condemning the innocent, and letting the guilty go free; although the Lord says, ‘You shall not kill the innocent and righteous.’"
+    },
+    {
+      "chapter": 13,
+      "verse": 54,
+      "text": "Now then, if you saw her, tell me, under which tree did you see them companying together?” He answered, “Under a mastick tree.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 55,
+      "text": "And Daniel said, “You have certainly lied against your own head; for even now the angel of God has received the sentence of God and will cut you in two.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 56,
+      "text": "So he put him aside, and commanded to bring the other, and said to him, “O you seed of Canaan, and not of Judah, beauty has deceived you, and lust has perverted your heart."
+    },
+    {
+      "chapter": 13,
+      "verse": 57,
+      "text": "Thus you have dealt with the daughters of Israel, and they for fear were intimate with you; but the daughter of Judah would not tolerate your wickedness."
+    },
+    {
+      "chapter": 13,
+      "verse": 58,
+      "text": "Now therefore tell me, under which tree did you take them being intimate together?” He answered, “Under an evergreen oak tree.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 59,
+      "text": "Then Daniel said to him, “You have also certainly lied against your own head; for the angel of God waits with the sword to cut you in two, that he may destroy you.”"
+    },
+    {
+      "chapter": 13,
+      "verse": 60,
+      "text": "With that, all the assembly cried out with a loud voice, and blessed God, who saves those who hope in him."
+    },
+    {
+      "chapter": 13,
+      "verse": 61,
+      "text": "Then they arose against the two elders, for Daniel had convicted them of false testimony out of their own mouth."
+    },
+    {
+      "chapter": 13,
+      "verse": 62,
+      "text": "According to the law of Moses they did to them what they maliciously intended to do to their neighbor. They put them to death, and the innocent blood was saved the same day."
+    },
+    {
+      "chapter": 13,
+      "verse": 63,
+      "text": "Therefore Helkias and his wife praised God for their daughter Susanna, with Joakim her husband, and all the kindred, because there was no dishonesty found in her."
+    },
+    {
+      "chapter": 13,
+      "verse": 64,
+      "text": "And from that day forth, Daniel had a great reputation in the sight of the people."
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "text": "King Astyages was gathered to his fathers, and Cyrus the Persian received his kingdom."
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "text": "Daniel lived with the king, and was honored above all his friends."
+    },
+    {
+      "chapter": 14,
+      "verse": 3,
+      "text": "Now the Babylonians had an idol called Bel, and every day twelve great measures of fine flour, forty sheep, and six firkins of wine were spent on it."
+    },
+    {
+      "chapter": 14,
+      "verse": 4,
+      "text": "The king honored it and went daily to worship it; but Daniel worshiped his own God. The king said to him, “Why don’t you worship Bel?”"
+    },
+    {
+      "chapter": 14,
+      "verse": 5,
+      "text": "He said, “Because I may not honor idols made with hands, but only the living God, who has created the sky and the earth, and has sovereignty over all flesh.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 6,
+      "text": "Then the king said to him, “Don’t you think that Bel is a living god? Don’t you see how much he eats and drinks every day?”"
+    },
+    {
+      "chapter": 14,
+      "verse": 7,
+      "text": "Then Daniel laughed, and said, “O king, don’t be deceived; for this is just clay inside, and brass outside, and never ate or drank anything.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "text": "So the king was angry, and called for his priests, and said to them, “If you don’t tell me who this is who devours these expenses, you shall die."
+    },
+    {
+      "chapter": 14,
+      "verse": 9,
+      "text": "But if you can show me that Bel devours them, then Daniel shall die; for he has spoken blasphemy against Bel.” Daniel said to the king, “Let it be according to your word.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 10,
+      "text": "Now there were seventy priests of Bel, besides their wives and children. The king went with Daniel into Bel’s temple."
+    },
+    {
+      "chapter": 14,
+      "verse": 11,
+      "text": "So Bel’s priests said, “Behold, we will leave; but you, O king, set out the food, and mix the wine and set it out, shut the door securely, and seal it with your own signet."
+    },
+    {
+      "chapter": 14,
+      "verse": 12,
+      "text": "When you come in the morning, if you don’t find that Bel has eaten everything, we will suffer death, or else Daniel, who speaks falsely against us.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 13,
+      "text": "They weren’t concerned, for under the table they had made a secret entrance, by which they entered in continually, and consumed those things."
+    },
+    {
+      "chapter": 14,
+      "verse": 14,
+      "text": "It happened, when they had gone out, the king set the food before Bel. Now Daniel had commanded his servants to bring ashes, and they scattered them all over the temple in the presence of the king alone. Then they went out, shut the door, sealed it with the king’s signet, and so departed."
+    },
+    {
+      "chapter": 14,
+      "verse": 15,
+      "text": "Now in the night, the priests came with their wives and children, as they usually did, and ate and drank it all."
+    },
+    {
+      "chapter": 14,
+      "verse": 16,
+      "text": "In the morning, the king arose, and Daniel with him."
+    },
+    {
+      "chapter": 14,
+      "verse": 17,
+      "text": "The king said, “Daniel, are the seals whole?” He said, “Yes, O king, they are whole.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 18,
+      "text": "And as soon as he had opened the door, the king looked at the table, and cried with a loud voice, “You are great, O Bel, and with you is no deceit at all!”"
+    },
+    {
+      "chapter": 14,
+      "verse": 19,
+      "text": "Then Daniel laughed, and held the king that he should not go in, and said, “Behold now the pavement, and mark well whose footsteps these are.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 20,
+      "text": "The king said, “I see the footsteps of men, women, and children.” Then the king was angry,"
+    },
+    {
+      "chapter": 14,
+      "verse": 21,
+      "text": "and took the priests with their wives and children, who showed him the secret doors, where they came in and consumed the things that were on the table."
+    },
+    {
+      "chapter": 14,
+      "verse": 22,
+      "text": "Therefore the king killed them, and delivered Bel into Daniel’s power, who overthrew it and its temple."
+    },
+    {
+      "chapter": 14,
+      "verse": 23,
+      "text": "In that same place there was a great dragon which the people of Babylon worshiped."
+    },
+    {
+      "chapter": 14,
+      "verse": 24,
+      "text": "The king said to Daniel, “Will you also say that this is of brass? Behold, he lives, eats and drinks. You can’t say that he is no living god. Therefore worship him.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 25,
+      "text": "Then Daniel said, “I will worship the Lord my God; for he is a living God."
+    },
+    {
+      "chapter": 14,
+      "verse": 26,
+      "text": "But allow me, O king, and I will kill this dragon without sword or staff.” The king said, “I allow you.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 27,
+      "text": "Then Daniel took pitch, fat, and hair, and melted them together, and made lumps of them. He put these in the dragon’s mouth, so the dragon ate and burst apart. Daniel said, “Behold, these are the gods you all worship.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 28,
+      "text": "When the people of Babylon heard that, they took great indignation, and conspired against the king, saying, “The king has become a Jew. He has pulled down Bel, slain the dragon, and put the priests to the sword.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 29,
+      "text": "So they came to the king, and said, “Deliver Daniel to us, or else we will destroy you and your house.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 30,
+      "text": "Now when the king saw that they trapped him, being constrained, the king delivered Daniel to them."
+    },
+    {
+      "chapter": 14,
+      "verse": 31,
+      "text": "They cast him into the lion’s den, where he was six days."
+    },
+    {
+      "chapter": 14,
+      "verse": 32,
+      "text": "There were seven lions in the den, and they had been giving them two carcasses and two sheep every day, which then were not given to them, intending that they would devour Daniel."
+    },
+    {
+      "chapter": 14,
+      "verse": 33,
+      "text": "Now there was in Jewry the prophet Habakkuk, who had made stew, and had broken bread into a bowl. He was going into the field to bring it to the reapers."
+    },
+    {
+      "chapter": 14,
+      "verse": 34,
+      "text": "But the angel of the Lord said to Habakkuk, “Go carry the dinner that you have into Babylon to Daniel, in the lions’ den.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 35,
+      "text": "Habakkuk said, “Lord, I never saw Babylon. I don’t know where the den is.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 36,
+      "text": "Then the angel of the Lord took him by the crown, and lifted him up by the hair of his head, and with the blast of his breath set him in Babylon over the den."
+    },
+    {
+      "chapter": 14,
+      "verse": 37,
+      "text": "Habakkuk cried, saying, “O Daniel, Daniel, take the dinner which God has sent you.”"
+    },
+    {
+      "chapter": 14,
+      "verse": 38,
+      "text": "Daniel said, “You have remembered me, O God! You haven’t forsaken those who love you!”"
+    },
+    {
+      "chapter": 14,
+      "verse": 39,
+      "text": "So Daniel arose and ate; and the angel of God set Habakkuk in his own place again immediately."
+    },
+    {
+      "chapter": 14,
+      "verse": 40,
+      "text": "On the seventh day, the king came to mourn for Daniel. When he came to the den, he looked in, and, behold, Daniel was sitting."
+    },
+    {
+      "chapter": 14,
+      "verse": 41,
+      "text": "Then the king cried with a loud voice, saying, “Great are you, O Lord, you God of Daniel, and there is none other beside you!”"
+    },
+    {
+      "chapter": 14,
+      "verse": 42,
+      "text": "So he drew him out, and cast those that were the cause of his destruction into the den; and they were devoured in a moment before his face."
     }
   ]
 }

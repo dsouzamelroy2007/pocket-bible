@@ -19,6 +19,11 @@ class ContentRepository(private val dao: ContentDao) {
         else dao.save(SavedEntry(entryId = entryId, savedAt = System.currentTimeMillis()))
     }
 
+    suspend fun toggleSaveStory(storyId: String, currentlySaved: Boolean) {
+        if (currentlySaved) dao.unsaveStory(storyId)
+        else dao.saveStory(SavedStory(storyId = storyId, savedAt = System.currentTimeMillis()))
+    }
+
     suspend fun recordView(entryId: String, feelingId: String) {
         dao.record(ViewHistory(entryId = entryId, feelingId = feelingId, viewedAt = System.currentTimeMillis()))
     }
@@ -75,4 +80,35 @@ class ContentRepository(private val dao: ContentDao) {
     }
 
     suspend fun removeBookmark(id: Long) = dao.deleteBookmark(id)
+
+    // ---------- Daily readings ----------
+
+    suspend fun dailyReading(date: String, language: String): DailyReading? = dao.dailyReading(date, language)
+
+    suspend fun readingCitations(date: String, language: String): List<ReadingCitation> = dao.readingCitations(date, language)
+
+    suspend fun earliestReadingDate(): String? = dao.earliestReadingDate()
+
+    suspend fun latestReadingDate(): String? = dao.latestReadingDate()
+
+    suspend fun versesForRange(
+        bookId: String,
+        chapterStart: Int,
+        verseStart: Int,
+        chapterEnd: Int,
+        verseEnd: Int,
+        translationId: String
+    ): List<ScriptureVerse> = dao.versesForRange(bookId, chapterStart, verseStart, chapterEnd, verseEnd, translationId)
+
+    // ---------- Stories ----------
+
+    fun stories(language: String): Flow<List<StorySummary>> = dao.stories(language)
+
+    suspend fun verseRefsForStory(storyId: String): List<StoryVerseRef> = dao.verseRefsForStory(storyId)
+
+    suspend fun charactersForStory(storyId: String, language: String): List<CharacterSummary> =
+        dao.charactersForStory(storyId, language)
+
+    suspend fun storiesForCharacter(characterId: String, language: String): List<StorySummary> =
+        dao.storiesForCharacter(characterId, language)
 }

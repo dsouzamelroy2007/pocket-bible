@@ -1,11 +1,13 @@
 <resources>
-    <string name="app_name">Pocket Bible</string>
+    <string name="app_name">Pocket Bible V2</string>
 
     <!-- Bottom navigation -->
     <string name="nav_topics">Topics</string>
     <string name="nav_read">Bible</string>
     <string name="nav_saved">Saved</string>
     <string name="nav_characters">Personalities</string>
+    <string name="nav_daily">Readings &amp;\nReflection</string>
+    <string name="nav_stories">Stories</string>
 
     <!-- Language switcher -->
     <string name="language_button">Language</string>
@@ -20,6 +22,23 @@
     <string name="home_matches">Matches</string>
     <string name="home_i_am_feeling">I am feeling…</string>
     <string name="home_verse_of_day">Verse of the day</string>
+
+    <!-- Daily readings -->
+    <string name="reading_title">Readings</string>
+    <string name="reading_role_first_reading">First Reading</string>
+    <string name="reading_role_psalm">Responsorial Psalm</string>
+    <string name="reading_role_second_reading">Second Reading</string>
+    <string name="reading_role_acclamation">Gospel Acclamation</string>
+    <string name="reading_role_gospel">Gospel</string>
+    <string name="reading_text_unavailable">Not available in this language yet.</string>
+    <string name="reading_reflection_heading">Reflection</string>
+    <string name="reading_refrain_prefix">R. %1$s</string>
+    <string name="reading_none_today">No readings loaded for this date yet.</string>
+    <string name="reading_previous_day">Previous day</string>
+    <string name="reading_next_day">Next day</string>
+    <string name="reading_today">Jump to Today</string>
+    <string name="reading_date_picker_confirm">OK</string>
+    <string name="reading_date_picker_cancel">Cancel</string>
 
     <!-- Read tab -->
     <string name="read_title">Bible</string>
@@ -46,6 +65,8 @@
     <!-- Saved tab -->
     <string name="saved_title">Saved</string>
     <string name="saved_empty">Verses you save appear here, and stay available offline.</string>
+    <string name="saved_stories_title">Saved Stories</string>
+    <string name="saved_stories_empty">Stories you save appear here, and stay available offline.</string>
 
     <!-- Characters tab -->
     <string name="character_title">Personalities</string>
@@ -54,6 +75,8 @@
     <string name="character_no_matches">No characters match that search.</string>
     <string name="character_famous_verses">Verses about them</string>
     <string name="character_verse_unavailable">Not available in this language yet.</string>
+    <string name="character_reflection_heading">For Reflection</string>
+    <string name="character_prayer_heading">A Prayer</string>
     <string name="character_category_central">The Central Figure</string>
     <string name="character_category_holy_family">Holy Family &amp; Forerunners</string>
     <string name="character_category_apostles">The Twelve Apostles</string>
@@ -65,6 +88,37 @@
     <string name="character_category_kingdom">Kingdom Era</string>
     <string name="character_category_prophets">Prophets</string>
     <string name="character_category_post_exile">Post-Exile &amp; Deuterocanon</string>
+
+    <!-- Stories tab -->
+    <string name="story_title">Stories</string>
+    <string name="story_subtitle">Bible stories and parables, retold plainly, with a moral for every age.</string>
+    <string name="story_search_placeholder">Search by title or moral</string>
+    <string name="story_no_matches">No stories match that search.</string>
+    <string name="story_none_yet">Stories are on their way — check back soon.</string>
+    <string name="story_moral_heading">The Moral</string>
+    <string name="story_reflection_heading">For Reflection</string>
+    <string name="story_related_characters_heading">Related Characters</string>
+    <string name="story_scripture_heading">Scripture References</string>
+    <string name="story_scripture_scroll_hint">The scripture references for this story are at the end — scroll down.</string>
+    <string name="story_testament_all">All</string>
+    <string name="story_testament_ot">Old Testament</string>
+    <string name="story_testament_nt">New Testament</string>
+    <string name="story_type_all">All Types</string>
+    <string name="story_type_narrative">Narrative</string>
+    <string name="story_type_parable">Parable</string>
+    <string name="story_type_miracle">Miracle</string>
+    <string name="story_book_group_pentateuch">Pentateuch</string>
+    <string name="story_book_group_historical">Historical</string>
+    <string name="story_book_group_wisdom">Wisdom</string>
+    <string name="story_book_group_prophets">Prophets</string>
+    <string name="story_book_group_deuterocanonical">Deuterocanonical</string>
+    <string name="story_book_group_infancy">Infancy Narratives</string>
+    <string name="story_book_group_ministry_miracles">Ministry &amp; Miracles</string>
+    <string name="story_book_group_parables">Parables</string>
+    <string name="story_book_group_teachings_encounters">Teachings &amp; Encounters</string>
+    <string name="story_book_group_passion_resurrection">Passion &amp; Resurrection</string>
+    <string name="story_book_group_acts">Acts of the Apostles</string>
+    <string name="story_book_group_revelation">Revelation</string>
 
     <!-- About & Sources -->
     <string name="about_title">About &amp; Sources</string>
@@ -80,7 +134,7 @@
     <string name="verse_short_prayer">A short prayer</string>
     <string name="verse_saved">Saved</string>
     <string name="verse_save">Save</string>
-    <string name="verse_another">Another</string>
+    <string name="verse_another">Another Verse</string>
 
     <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">Genesis</string>

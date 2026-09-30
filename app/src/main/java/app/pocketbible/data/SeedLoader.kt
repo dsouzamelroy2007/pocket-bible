@@ -22,8 +22,36 @@ import org.json.JSONObject
  *   - characters.json     Characters tab: name/intro/category per figure, plus verse_refs
  *                         (book/chapter/verse citations only -- the verse text itself is
  *                         looked up live from scripture_verse at render time, same as the
- *                         Read tab, never duplicated here)
+ *                         Read tab, never duplicated here), plus a character_of_day array
+ *                         (month_day -> character_id, same shape as topics.json's
+ *                         daily_passages -- several days can point at the same character)
  *   - character_translation entries, same fallback-to-English pattern as topics
+ *   - lectionary/<year>.json  Daily Mass reading citations for one calendar year
+ *                         (date -> first_reading/psalm/second_reading/gospel
+ *                         citations, plus an optional reflection) -- see
+ *                         tools/fetch_lectionary.py and tools/parse_lectionary.py
+ *                         for where the citations come from. Citations only,
+ *                         same live-resolved-from-scripture_verse model as
+ *                         character verse_refs.
+ *   - stories.json        Stories tab: title/testament/book_group/story_type/
+ *                         summary/moral/reflection per story, plus verse_refs
+ *                         (citations only, same live-resolved model as
+ *                         character verse_refs -- chapter_start/chapter_end
+ *                         since a story can span more than one chapter) and
+ *                         an optional character_ids array (curated links to
+ *                         the Characters tab, capped at 10 per character).
+ *   - story_translation entries, same fallback-to-English pattern as
+ *                         character_translation
+ *   - refrain_translation entries, same fallback-to-English pattern,
+ *                         joined on a reading_citation's optional refrain_id
+ *                         (a stable id like "alleluia_alleluia") rather than
+ *                         its raw English refrain text -- see
+ *                         content/refrains/<language>.json and the
+ *                         "refrain_translations" manifest list
+ *   - reflection_translation entries, same fallback-to-English pattern,
+ *                         joined on daily_reading's date -- see
+ *                         content/reflections/<year>/<language>.json and the
+ *                         "reflection_translations" manifest list
  *
  * Adding a book or a new translation/language is meant to be a matter of
  * dropping a new scripture/<translation_id>/<book_id>.json file (see
@@ -208,7 +236,9 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                     intro = o.getString("intro"),
                     category = o.getString("category"),
                     sortOrder = o.optInt("sort_order", 0),
-                    requiresDeuterocanon = o.optBoolean("requires_deuterocanon", false)
+                    requiresDeuterocanon = o.optBoolean("requires_deuterocanon", false),
+                    reflection = if (o.has("reflection")) o.getString("reflection") else null,
+                    prayer = if (o.has("prayer")) o.getString("prayer") else null
                 )
             })
 
@@ -231,6 +261,7 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                     )
                 }
             }
+            seedDao.clearCharacterVerseRefs()
             seedDao.insertCharacterVerseRefs(verseRefs)
 
             val characterTranslations = mutableListOf<CharacterTranslation>()
@@ -266,6 +297,162 @@ class SeedLoader(private val context: Context, private val db: ContentDatabase) 
                 }?.let { captionTranslations += it }
             }
             seedDao.insertCharacterVerseRefTranslations(captionTranslations)
+
+            seedDao.insertCharacterOfDay(
+                characters.optJSONArray("character_of_day")?.mapObjects { o ->
+                    CharacterOfDay(
+                        monthDay = o.getString("month_day"),
+                        characterId = o.getString("character_id")
+                    )
+                } ?: emptyList()
+            )
+        }
+
+        val dailyReadings = mutableListOf<DailyReading>()
+        val readingCitations = mutableListOf<ReadingCitation>()
+        val lectionaryFiles = manifest.optJSONArray("lectionary") ?: JSONArray()
+        for (i in 0 until lectionaryFiles.length()) {
+            val ref = lectionaryFiles.getJSONObject(i)
+            val year = readJson(ref.getString("path"))
+            val days = year.optJSONArray("days") ?: JSONArray()
+            for (j in 0 until days.length()) {
+                val day = days.getJSONObject(j)
+                val date = day.getString("date")
+                dailyReadings += DailyReading(
+                    date = date,
+                    season = day.getString("season"),
+                    usccbLink = day.getString("usccb_link"),
+                    reflection = if (day.has("reflection")) day.getString("reflection") else null
+                )
+                val readings = day.optJSONArray("readings") ?: JSONArray()
+                for (k in 0 until readings.length()) {
+                    val reading = readings.getJSONObject(k)
+                    val role = reading.getString("role")
+                    val citationDisplay = reading.getString("citation_display")
+                    val refrain = if (reading.has("refrain")) reading.getString("refrain") else null
+                    val refrainId = if (reading.has("refrain_id")) reading.getString("refrain_id") else null
+                    val refs = reading.optJSONArray("refs") ?: JSONArray()
+                    for (p in 0 until refs.length()) {
+                        val r = refs.getJSONObject(p)
+                        readingCitations += ReadingCitation(
+                            date = date,
+                            role = role,
+                            citationDisplay = citationDisplay,
+                            bookId = r.getString("book_id"),
+                            chapterStart = r.getInt("chapter_start"),
+                            verseStart = r.getInt("verse_start"),
+                            chapterEnd = r.getInt("chapter_end"),
+                            verseEnd = r.getInt("verse_end"),
+                            position = p,
+                            refrain = refrain,
+                            refrainId = refrainId
+                        )
+                    }
+                }
+            }
+        }
+        seedDao.insertDailyReadings(dailyReadings)
+        seedDao.clearReadingCitations()
+        seedDao.insertReadingCitations(readingCitations)
+
+        val refrainTranslations = mutableListOf<RefrainTranslation>()
+        val refrainTranslationFiles = manifest.optJSONArray("refrain_translations") ?: JSONArray()
+        for (i in 0 until refrainTranslationFiles.length()) {
+            val ref = refrainTranslationFiles.getJSONObject(i)
+            val file = readJson(ref.getString("path"))
+            val language = file.getString("language")
+            file.optJSONArray("refrain_translations")?.mapObjects { o ->
+                RefrainTranslation(
+                    refrainId = o.getString("refrain_id"),
+                    language = language,
+                    text = o.getString("text")
+                )
+            }?.let { refrainTranslations += it }
+        }
+        seedDao.insertRefrainTranslations(refrainTranslations)
+
+        val reflectionTranslations = mutableListOf<ReflectionTranslation>()
+        val reflectionTranslationFiles = manifest.optJSONArray("reflection_translations") ?: JSONArray()
+        for (i in 0 until reflectionTranslationFiles.length()) {
+            val ref = reflectionTranslationFiles.getJSONObject(i)
+            val file = readJson(ref.getString("path"))
+            val language = file.getString("language")
+            file.optJSONArray("reflections")?.mapObjects { o ->
+                ReflectionTranslation(
+                    date = o.getString("date"),
+                    language = language,
+                    reflection = o.getString("reflection")
+                )
+            }?.let { reflectionTranslations += it }
+        }
+        seedDao.insertReflectionTranslations(reflectionTranslations)
+
+        manifest.optString("stories", "").takeIf { it.isNotEmpty() }?.let { path ->
+            val storiesFile = readJson(path)
+            val storyArray = storiesFile.getJSONArray("stories")
+            seedDao.insertStories(storyArray.mapObjects { o ->
+                Story(
+                    id = o.getString("id"),
+                    title = o.getString("title"),
+                    testament = o.getString("testament"),
+                    bookGroup = o.getString("book_group"),
+                    storyType = o.getString("story_type"),
+                    summary = o.getString("summary"),
+                    moral = o.getString("moral"),
+                    reflection = o.getString("reflection"),
+                    sortOrder = o.optInt("sort_order", 0)
+                )
+            })
+
+            val storyVerseRefs = mutableListOf<StoryVerseRef>()
+            val storyCharacterLinks = mutableListOf<StoryCharacterLink>()
+            for (i in 0 until storyArray.length()) {
+                val o = storyArray.getJSONObject(i)
+                val storyId = o.getString("id")
+                val refs = o.optJSONArray("verse_refs") ?: JSONArray()
+                for (j in 0 until refs.length()) {
+                    val r = refs.getJSONObject(j)
+                    storyVerseRefs += StoryVerseRef(
+                        storyId = storyId,
+                        bookId = r.getString("book_id"),
+                        chapterStart = r.getInt("chapter_start"),
+                        verseStart = r.getInt("verse_start"),
+                        chapterEnd = r.optInt("chapter_end", r.getInt("chapter_start")),
+                        verseEnd = r.getInt("verse_end"),
+                        position = j
+                    )
+                }
+                val characterIds = o.optJSONArray("character_ids") ?: JSONArray()
+                for (j in 0 until characterIds.length()) {
+                    storyCharacterLinks += StoryCharacterLink(
+                        storyId = storyId,
+                        characterId = characterIds.getString(j)
+                    )
+                }
+            }
+            seedDao.clearStoryVerseRefs()
+            seedDao.insertStoryVerseRefs(storyVerseRefs)
+            seedDao.clearStoryCharacterLinks()
+            seedDao.insertStoryCharacterLinks(storyCharacterLinks)
+
+            val storyTranslations = mutableListOf<StoryTranslation>()
+            val storyTranslationFiles = manifest.optJSONArray("story_translations") ?: JSONArray()
+            for (i in 0 until storyTranslationFiles.length()) {
+                val ref = storyTranslationFiles.getJSONObject(i)
+                val file = readJson(ref.getString("path"))
+                val language = file.getString("language")
+                file.optJSONArray("story_translations")?.mapObjects { o ->
+                    StoryTranslation(
+                        storyId = o.getString("story_id"),
+                        language = language,
+                        title = o.getString("title"),
+                        summary = o.getString("summary"),
+                        moral = o.getString("moral"),
+                        reflection = o.getString("reflection")
+                    )
+                }?.let { storyTranslations += it }
+            }
+            seedDao.insertStoryTranslations(storyTranslations)
         }
 
         prefs.edit().putInt("content_version", version).apply()

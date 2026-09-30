@@ -57,6 +57,7 @@ import app.pocketbible.R
 import app.pocketbible.data.Book
 import app.pocketbible.data.BibleBookmark
 import app.pocketbible.data.ScriptureVerse
+import app.pocketbible.ui.LanguageMenuButton
 
 @Composable
 fun BibleBookListScreen(
@@ -69,12 +70,21 @@ fun BibleBookListScreen(
     onReferenceFound: () -> Unit,
     onBookmarkSelected: (BibleBookmark) -> Unit,
     onBookmarkDeleted: (BibleBookmark) -> Unit,
+    onLanguageSelected: (String?) -> Unit,
     modifier: Modifier = Modifier
 ) {
     LazyColumn(modifier.padding(horizontal = 20.dp)) {
         item {
             Spacer(Modifier.height(16.dp))
-            Text(stringResource(R.string.read_title), style = MaterialTheme.typography.headlineSmall, fontWeight = FontWeight.Medium)
+            Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
+                Text(
+                    stringResource(R.string.read_title),
+                    modifier = Modifier.weight(1f),
+                    style = MaterialTheme.typography.headlineSmall,
+                    fontWeight = FontWeight.Medium
+                )
+                LanguageMenuButton(onLanguageSelected = onLanguageSelected)
+            }
             Spacer(Modifier.height(4.dp))
             Text(
                 stringResource(R.string.read_subtitle),

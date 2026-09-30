@@ -169,12 +169,12 @@
     },
     {
       "character_id": "james-brother-of-jesus",
-      "name": "Tiago, irmão de Jesus",
+      "name": "Tiago, autor de uma carta do Novo Testamento",
       "intro": "Um líder da igreja em Jerusalém que uma vez duvidou de Jesus, depois encontrou o Cristo ressuscitado, e escreveu uma carta do Novo Testamento."
     },
     {
       "character_id": "jude-brother-of-jesus",
-      "name": "Judas, irmão de Jesus",
+      "name": "Judas, irmão de Tiago",
       "intro": "Um irmão de Jesus e Tiago que escreveu uma carta curta e urgente advertindo contra falsos mestres."
     },
     {
@@ -571,6 +571,836 @@
       "character_id": "judith",
       "name": "Judite",
       "intro": "Uma viúva corajosa e piedosa que salvou sua cidade ao enganar e derrotar o general inimigo Holofernes."
+    },
+    {
+      "character_id": "zerubbabel",
+      "name": "Zorobabel",
+      "intro": "Um descendente do rei Davi que liderou o primeiro grupo de exilados judeus de volta da Babilônia e supervisionou a reconstrução dos alicerces do Templo."
+    },
+    {
+      "character_id": "haman",
+      "name": "Hamã",
+      "intro": "O oficial persa cujo plano para destruir o povo judeu foi frustrado pela coragem de Ester, e que foi enforcado na forca que construiu para outro homem."
+    },
+    {
+      "character_id": "ahasuerus",
+      "name": "Assuero",
+      "intro": "O rei persa (também chamado Xerxes) cujos banquetes, decretos e favor para com Ester prepararam o caminho para a libertação de seu povo."
+    },
+    {
+      "character_id": "vashti",
+      "name": "Vasti",
+      "intro": "A rainha destituída por se recusar a comparecer diante dos convidados do banquete do rei Assuero, conforme ordenado -- um ato de desafio que abriu caminho para Ester."
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "name": "Sambalate e Tobias",
+      "intro": "Oficiais regionais que zombaram, ameaçaram e conspiraram contra a reconstrução dos muros de Jerusalém por Neemias -- uma oposição que nunca deteve a obra."
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "name": "Obadias",
+      "intro": "O livro mais curto do Antigo Testamento -- um único capítulo anunciando julgamento sobre Edom por se alegrar com a queda de Judá, e uma promessa de restauração."
+    },
+    {
+      "character_id": "nahum",
+      "name": "Naum",
+      "intro": "Um profeta cujo livro inteiro é um único e contínuo oráculo de julgamento contra Nínive -- a mesma cidade que Jonas viu ser poupada."
+    },
+    {
+      "character_id": "habakkuk",
+      "name": "Habacuque",
+      "intro": "Um profeta que questionou abertamente a Deus sobre a injustiça e a demora, e cujo livro passa da queixa para uma das mais claras declarações de confiança das Escrituras."
+    },
+    {
+      "character_id": "zephaniah",
+      "name": "Sofonias",
+      "intro": "Um profeta, provavelmente de descendência real, que advertiu sobre o vindouro \"dia do SENHOR\" enquanto também prometia que um remanescente fiel seria restaurado e motivo de alegria."
+    },
+    {
+      "character_id": "haggai",
+      "name": "Ageu",
+      "intro": "O profeta que confrontou os exilados retornados por terminarem suas próprias casas enquanto o Templo permanecia em ruínas, e cuja pregação fez a reconstrução recomeçar."
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "name": "Zacarias (o profeta)",
+      "intro": "Um profeta que incentivou a reconstrução do Templo por meio de uma série de visões, e cujo livro contém algumas das mais claras profecias messiânicas do Antigo Testamento."
+    },
+    {
+      "character_id": "malachi",
+      "name": "Malaquias",
+      "intro": "O último dos profetas do Antigo Testamento, cujas palavras finais -- uma promessa de enviar Elias antes do dia do SENHOR -- tornaram-se os últimos versículos que muitas Bíblias imprimem antes do início dos Evangelhos."
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "name": "Nabucodonosor",
+      "intro": "O rei babilônico que destruiu o Templo de Jerusalém, teve sonhos que só Daniel podia interpretar, e foi humilhado até a loucura antes de confessar publicamente o Deus de Israel."
+    },
+    {
+      "character_id": "belshazzar",
+      "name": "Belsazar",
+      "intro": "O sucessor de Nabucodonosor, cujo banquete usando os vasos sagrados do Templo foi interrompido por uma mão que escreveu na parede o fim de seu reino."
+    },
+    {
+      "character_id": "darius-the-mede",
+      "name": "Dario, o medo",
+      "intro": "O rei que, pressionado a assinar um decreto contra a oração, viu Daniel sobreviver a uma noite na cova dos leões e então honrou publicamente o Deus de Daniel."
+    },
+    {
+      "character_id": "cyrus",
+      "name": "Ciro",
+      "intro": "O rei persa cujo decreto libertou os exilados judeus para voltarem para casa e reconstruírem o Templo -- um ato que as Escrituras atribuem a Deus despertando seu espírito, e que Isaías nomeia gerações antes."
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "name": "Elifaz, Bildade e Zofar",
+      "intro": "Os três amigos de Jó, que se sentaram com ele em silêncio por sete dias antes de abrir um longo debate, insistindo que seu sofrimento devia ser punição por um pecado oculto."
+    },
+    {
+      "character_id": "elihu",
+      "name": "Eliú",
+      "intro": "Um homem mais jovem que esperou todo o debate dos três amigos de Jó terminar antes de falar -- e cujo longo discurso final desloca a conversa para a grandeza de Deus em vez de atribuir culpa."
+    },
+    {
+      "character_id": "lot",
+      "name": "Ló",
+      "intro": "O sobrinho de Abraão, cuja escolha do fértil vale do Jordão o levou a Sodoma, e que foi resgatado por anjos na noite em que a cidade foi destruída."
+    },
+    {
+      "character_id": "lots-wife",
+      "name": "A mulher de Ló",
+      "intro": "Advertida a não olhar para trás enquanto fugia da destruição de Sodoma -- e transformada em estátua de sal quando o fez."
+    },
+    {
+      "character_id": "ishmael",
+      "name": "Ismael",
+      "intro": "O filho primogênito de Abraão, nascido de Hagar, a quem Deus prometeu tornar uma grande nação, embora a aliança fosse passar por Isaque."
+    },
+    {
+      "character_id": "laban",
+      "name": "Labão",
+      "intro": "O irmão de Rebeca e tio de Jacó -- e sogro, que enganou Jacó para que se casasse com suas duas filhas, antes que Jacó eventualmente o superasse em astúcia."
+    },
+    {
+      "character_id": "dinah",
+      "name": "Diná",
+      "intro": "A filha de Jacó e Lia, cujo assédio por Siquém levou seus irmãos Simeão e Levi a um ato violento de vingança que perturbou Jacó pelo resto da vida."
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "name": "Tamar (nora de Judá)",
+      "intro": "A nora de Judá, duas vezes viúva, que tomou um caminho ousado e arriscado para garantir seu lugar na linhagem familiar -- e é mencionada, gerações depois, na genealogia de Jesus."
+    },
+    {
+      "character_id": "reuben",
+      "name": "Rúben",
+      "intro": "O primogênito de Jacó, que convenceu seus irmãos a não matarem José, mas perdeu a honra de seu direito de primogenitura após um pecado grave contra seu pai."
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "name": "Simeão (filho de Jacó)",
+      "intro": "O segundo filho de Jacó, cuja vingança violenta pela irmã Diná atraiu a condenação duradoura de seu pai, e que mais tarde foi mantido refém no Egito por seu próprio irmão José, não reconhecido."
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "name": "Levi (filho de Jacó)",
+      "intro": "O terceiro filho de Jacó, cuja violência em Siquém atraiu a repreensão de seu pai -- ainda assim, seus próprios descendentes se tornaram a tribo sacerdotal separada para servir no altar."
+    },
+    {
+      "character_id": "zebulun",
+      "name": "Zebulom",
+      "intro": "O décimo filho de Jacó, abençoado por seu pai com um lar \"à beira-mar\" -- uma tribo mais tarde elogiada ao lado de Naftali por seu papel na história de Israel."
+    },
+    {
+      "character_id": "issachar",
+      "name": "Issacar",
+      "intro": "O nono filho de Jacó, descrito na bênção de seu pai como forte, mas contente em curvar o ombro ao trabalho -- e cujos descendentes posteriores eram conhecidos por compreender os tempos."
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "name": "Dã (filho de Jacó)",
+      "intro": "O quinto filho de Jacó, nascido de Bilha, serva de Raquel, descrito na bênção de seu pai como alguém que julgaria seu povo e atacaria como uma serpente no caminho."
+    },
+    {
+      "character_id": "naphtali",
+      "name": "Naftali",
+      "intro": "O sexto filho de Jacó, nascido de Bilha, serva de Raquel, abençoado por seu pai como \"uma corça solta, que profere belas palavras\"."
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "name": "Gade (filho de Jacó)",
+      "intro": "O sétimo filho de Jacó, nascido de Zilpa, serva de Lia, abençoado por seu pai com a promessa de que, embora invasores o atacassem, ele atacaria seus calcanhares."
+    },
+    {
+      "character_id": "asher",
+      "name": "Aser",
+      "intro": "O oitavo filho de Jacó, nascido de Zilpa, serva de Lia, abençoado por seu pai com alimento farto e iguarias reais."
+    },
+    {
+      "character_id": "benjamin",
+      "name": "Benjamim",
+      "intro": "O filho mais novo de Jacó, nascido quando sua mãe Raquel morria dando-lhe o nome \"filho da minha dor\" -- e o irmão pela segurança de quem Judá empenhou a própria vida no Egito."
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "name": "Manassés (filho de José)",
+      "intro": "O primogênito de José no Egito, cuja bênção de seu avô Jacó foi cruzada sobre o irmão mais novo em vez dele -- e que se tornou o ancestral de uma das doze tribos de Israel."
+    },
+    {
+      "character_id": "ephraim",
+      "name": "Efraim",
+      "intro": "O filho mais novo de José, a quem seu avô Jacó deliberadamente abençoou acima do irmão mais velho Manassés -- e cujo nome mais tarde se tornou uma forma abreviada para todo o reino do norte de Israel."
+    },
+    {
+      "character_id": "terah",
+      "name": "Tera",
+      "intro": "O pai de Abraão, que partiu de Ur em direção a Canaã, mas se estabeleceu e morreu em Harã pelo caminho, deixando a conclusão da jornada para seu filho."
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "name": "Abimeleque (rei de Gerar)",
+      "intro": "Um rei filisteu que, duas vezes em Gênesis, sem saber, levou a esposa de um patriarca para sua casa acreditando que ela era solteira -- e ambas as vezes foi advertido por Deus antes que qualquer mal fosse feito."
+    },
+    {
+      "character_id": "potiphar",
+      "name": "Potifar",
+      "intro": "O oficial egípcio que comprou José como escravo, colocou-o encarregado de toda a sua casa -- e depois o encarcerou por causa da falsa acusação de sua esposa."
+    },
+    {
+      "character_id": "potiphars-wife",
+      "name": "A mulher de Potifar",
+      "intro": "A esposa do oficial egípcio cujas tentativas repetidas de seduzir José, e a falsa acusação quando ele a recusou, enviaram um homem inocente para a prisão."
+    },
+    {
+      "character_id": "asenath",
+      "name": "Asenate",
+      "intro": "A esposa egípcia de José, dada a ele pelo faraó, e mãe de Manassés e Efraim."
+    },
+    {
+      "character_id": "er-and-onan",
+      "name": "Er e Onã",
+      "intro": "Os dois primeiros filhos de Judá com sua esposa Bate-Sua, ambos mortos pelo que as Escrituras chamam diretamente de maldade diante do SENHOR, deixando a viúva do irmão, Tamar, sem herdeiro."
+    },
+    {
+      "character_id": "perez",
+      "name": "Perez",
+      "intro": "O filho de Tamar com Judá, nascido antes de seu irmão gêmeo numa reviravolta inesperada no nascimento -- e um ancestral mencionado diretamente nas genealogias tanto de Davi quanto de Jesus."
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "name": "As filhas de Zelofeade",
+      "intro": "Cinco irmãs -- Maalá, Noa, Hogla, Milca e Tirza -- cujo pedido pela herança do pai, já que ele não tinha filhos homens, levou Moisés a levar o caso diante de Deus e estabelecer uma nova lei para Israel."
+    },
+    {
+      "character_id": "jabez",
+      "name": "Jabes",
+      "intro": "Um homem lembrado pelo nome numa breve genealogia por uma única coisa: uma oração pedindo a Deus que o abençoasse, ampliasse seu território, e o guardasse do mal -- e as Escrituras registram simplesmente que Deus concedeu."
+    },
+    {
+      "character_id": "keturah",
+      "name": "Quetura",
+      "intro": "A esposa que Abraão tomou após a morte de Sara, e a mãe de mais seis filhos que se tornaram ancestrais de vários povos a leste de Israel."
+    },
+    {
+      "character_id": "jethro",
+      "name": "Jetro",
+      "intro": "O sogro de Moisés, um sacerdote de Midiã, que abrigou Moisés durante seu exílio do Egito e mais tarde lhe deu um conselho sábio e prático sobre compartilhar o fardo de liderar Israel."
+    },
+    {
+      "character_id": "zipporah",
+      "name": "Zípora",
+      "intro": "A esposa de Moisés, filha do sacerdote de Midiã, que agiu de forma decisiva para salvar a vida de seu marido em sua viagem de volta ao Egito."
+    },
+    {
+      "character_id": "bezalel",
+      "name": "Bezalel",
+      "intro": "O artesão que Deus encheu de habilidade e entendimento para projetar e construir o Tabernáculo e seus móveis sagrados."
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "name": "Nadabe e Abiú",
+      "intro": "Os dois filhos mais velhos de Arão e sacerdotes, mortos por oferecerem \"fogo estranho\" diante do SENHOR -- uma séria advertência contra aproximar-se do culto com descuido."
+    },
+    {
+      "character_id": "eleazar",
+      "name": "Eleazar",
+      "intro": "O terceiro filho de Arão, que sucedeu seu pai como sumo sacerdote e permaneceu ao lado de Moisés -- e depois de Josué -- até o fim dos anos no deserto e a conquista de Canaã."
+    },
+    {
+      "character_id": "ithamar",
+      "name": "Itamar",
+      "intro": "O filho mais novo de Arão, um sacerdote encarregado da supervisão do serviço dos levitas e da contabilidade do Tabernáculo."
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "name": "Fineias (filho de Eleazar)",
+      "intro": "O neto de Arão, um sacerdote cuja ação decisiva contra a idolatria e a imoralidade em Baal-Peor deteve uma praga sobre Israel e lhe rendeu uma aliança sacerdotal duradoura."
+    },
+    {
+      "character_id": "balaam",
+      "name": "Balaão",
+      "intro": "Um profeta pagão contratado para amaldiçoar Israel, cuja própria jumenta viu o anjo bloqueando o caminho antes dele, e que acabou abençoando Israel quatro vezes em vez disso."
+    },
+    {
+      "character_id": "korah",
+      "name": "Corá",
+      "intro": "Um levita que liderou uma rebelião contra a autoridade de Moisés e Arão, e a quem a própria terra se abriu para engolir junto com seus companheiros conspiradores."
+    },
+    {
+      "character_id": "achan",
+      "name": "Acã",
+      "intro": "Um israelita cujo roubo secreto de despojos consagrados de Jericó trouxe derrota sobre todo o Israel em Ai, até que seu pecado foi exposto e julgado."
+    },
+    {
+      "character_id": "othniel",
+      "name": "Otoniel",
+      "intro": "O primeiro juiz de Israel, cuja coragem militar lhe rendeu uma esposa e cuja liderança deu à terra quarenta anos de paz após seu primeiro ciclo de opressão."
+    },
+    {
+      "character_id": "ehud",
+      "name": "Eúde",
+      "intro": "Um juiz canhoto que usou exatamente a característica que ninguém suspeitava para contrabandear uma espada escondida para dentro da câmara de Eglom, rei de Moabe, o opressor de Israel."
+    },
+    {
+      "character_id": "jephthah",
+      "name": "Jefté",
+      "intro": "Um juiz, outrora expulso por sua própria família, cuja vitória sobre os amonitas foi ofuscada por um voto precipitado que lhe custou o que mais amava."
+    },
+    {
+      "character_id": "hur",
+      "name": "Hur",
+      "intro": "Um líder que, ao lado de Arão, sustentou os braços cansados de Moisés durante a batalha contra Amaleque -- um ato discreto de apoio que ajudou a decidir o resultado."
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "name": "O faraó do Êxodo",
+      "intro": "O rei sem nome do Egito cuja recusa repetida em deixar Israel ir, mesmo depois de praga após praga, terminou com seu próprio exército destruído no Mar Vermelho."
+    },
+    {
+      "character_id": "eli",
+      "name": "Eli",
+      "intro": "O sumo sacerdote e último dos juízes de Israel, que criou o profeta Samuel desde a infância -- mas cuja falha em conter seus próprios filhos corruptos lhe custou tudo."
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "name": "Hofni e Fineias",
+      "intro": "Os dois filhos de Eli e sacerdotes, cujo desprezo pela oferta do SENHOR e abuso de sua posição trouxeram julgamento sobre toda a família deles."
+    },
+    {
+      "character_id": "elkanah",
+      "name": "Elcana",
+      "intro": "O pai de Samuel, um homem devoto com duas esposas, cujo culto anual em Siló e ternura para com a aflita Ana prepararam o cenário para o nascimento de Samuel."
+    },
+    {
+      "character_id": "peninnah",
+      "name": "Penina",
+      "intro": "A outra esposa de Elcana, que tinha filhos enquanto Ana não tinha nenhum, e que provocava Ana ano após ano por causa disso."
+    },
+    {
+      "character_id": "abigail",
+      "name": "Abigail",
+      "intro": "Uma mulher de bom senso casada com o tolo e áspero Nabal, cuja intervenção rápida livrou Davi de culpa de sangue -- e que se tornou esposa de Davi após a morte de Nabal."
+    },
+    {
+      "character_id": "michal",
+      "name": "Mical",
+      "intro": "A filha de Saul e primeira esposa de Davi, que salvou a vida de Davi ajudando-o a escapar de seu pai -- e que mais tarde o desprezou por dançar diante da Arca."
+    },
+    {
+      "character_id": "joab",
+      "name": "Joabe",
+      "intro": "O sobrinho de Davi e comandante de seu exército -- ferozmente leal, implacavelmente eficaz, e disposto a matar de formas que assombraram o reinado de Davi muito depois de cada batalha terminar."
+    },
+    {
+      "character_id": "abner",
+      "name": "Abner",
+      "intro": "O primo de Saul e comandante do exército, que manteve viva a dinastia de Saul após sua morte -- até que seu próprio desentendimento levou ao seu assassinato por Joabe."
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "name": "Urias, o heteu",
+      "intro": "Um dos guerreiros valentes de Davi, cuja esposa, Bate-Seba, Davi tomou -- e cuja lealdade teimosa aos companheiros soldados, recusando o conforto do lar enquanto acampavam no campo, selou sua própria sentença de morte."
+    },
+    {
+      "character_id": "mephibosheth",
+      "name": "Mefibosete",
+      "intro": "O filho aleijado de Jônatas, último herdeiro remanescente da casa de Saul, que Davi procurou para mostrar bondade \"por amor de Jônatas\", em vez de eliminá-lo como rival."
+    },
+    {
+      "character_id": "ahithophel",
+      "name": "Aitofel",
+      "intro": "O conselheiro de confiança de Davi, cujo conselho se dizia ser como consultar a própria palavra de Deus -- até que desertou para a rebelião de Absalão e, quando seu conselho foi rejeitado, tirou a própria vida."
+    },
+    {
+      "character_id": "hushai",
+      "name": "Husai",
+      "intro": "O amigo leal de Davi, colocado na corte de Absalão para minar o conselho de Aitofel -- e cujo sucesso nisso pode ter salvado o trono de Davi."
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "name": "Doegue, o edomita",
+      "intro": "O principal pastor de Saul, que relatou que o sacerdote Aimeleque havia ajudado Davi -- e que então, quando os próprios guardas de Saul se recusaram, executou pessoalmente o massacre de oitenta e cinco sacerdotes e suas famílias."
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "name": "Aimeleque, o sacerdote",
+      "intro": "O sacerdote de Nobe que deu a Davi pão e a espada de Golias, sem saber que estava ajudando um fugitivo do rei -- e que pagou por isso com sua vida e a de sua cidade."
+    },
+    {
+      "character_id": "abiathar",
+      "name": "Abiatar",
+      "intro": "O filho de Aimeleque, único sobrevivente do massacre de Doegue em Nobe, que fugiu para Davi e serviu como seu sacerdote por anos -- até apoiar o sucessor errado e ser removido do sacerdócio."
+    },
+    {
+      "character_id": "zadok",
+      "name": "Zadoque",
+      "intro": "Um sacerdote que permaneceu leal a Davi durante a rebelião de Absalão e apoiou a sucessão de Salomão -- e cujos descendentes se tornaram a linhagem sacerdotal que perdurou por séculos."
+    },
+    {
+      "character_id": "rizpah",
+      "name": "Rizpa",
+      "intro": "A concubina de Saul, cujo ato de devoção -- guardar por meses os corpos expostos de seus filhos mortos contra aves e animais -- moveu o rei Davi a finalmente lhes dar um enterro adequado."
+    },
+    {
+      "character_id": "amnon",
+      "name": "Amnom",
+      "intro": "O filho primogênito de Davi, cuja obsessão pela meia-irmã Tamar o levou a agredi-la -- um crime que seu pai nunca puniu, e que seu irmão Absalão nunca perdoou."
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "name": "Tamar (filha de Davi)",
+      "intro": "A filha de Davi, agredida por seu próprio meio-irmão Amnom -- um crime que a devastou, ficou impune por seu pai, e desencadeou a eventual rebelião de seu irmão Absalão."
+    },
+    {
+      "character_id": "rehoboam",
+      "name": "Roboão",
+      "intro": "O filho de Salomão, cuja resposta áspera e arrogante ao pedido de alívio do povo dividiu em dois o reino unido de Israel -- uma divisão que nunca se curou."
+    },
+    {
+      "character_id": "jeroboam",
+      "name": "Jeroboão",
+      "intro": "O primeiro rei do reino dissidente do norte, que ergueu bezerros de ouro em Dã e Betel para impedir seu povo de voltar a adorar em Jerusalém -- um pecado pelo qual os reis posteriores foram repetidamente medidos."
+    },
+    {
+      "character_id": "asa",
+      "name": "Asa",
+      "intro": "Um rei de Judá lembrado por remover ídolos e buscar reformas durante a maior parte de seu reinado -- embora em sua doença final tenha buscado médicos em vez do SENHOR."
+    },
+    {
+      "character_id": "jehoshaphat",
+      "name": "Josafá",
+      "intro": "Um rei de Judá que enviou professores por toda a terra para instruir o povo na Lei, e cuja oração diante de um exército esmagador -- \"não sabemos o que fazer, mas os nossos olhos estão postos em ti\" -- se tornou um dos exemplos mais claros das Escrituras de confiança em crise."
+    },
+    {
+      "character_id": "josiah",
+      "name": "Josias",
+      "intro": "Um rei que subiu ao trono aos oito anos e, ao ouvir o Livro da Lei há muito perdido ser lido em voz alta, rasgou suas vestes e liderou a mais completa reforma religiosa da história de Judá."
+    },
+    {
+      "character_id": "hezekiah",
+      "name": "Ezequias",
+      "intro": "Um rei de Judá que derrubou os santuários idólatras, sobreviveu a um cerco assírio levando a carta ameaçadora direto ao Templo para orar sobre ela, e recebeu mais quinze anos de vida após uma oração em lágrimas durante uma doença fatal."
+    },
+    {
+      "character_id": "manasseh-king",
+      "name": "Manassés (rei)",
+      "intro": "O rei de Judá que reinou por mais tempo, cujos cinquenta e cinco anos começaram com a pior idolatria e derramamento de sangue que o reino já havia visto -- e terminaram, depois que o cativeiro na Babilônia o humilhou, em genuíno arrependimento."
+    },
+    {
+      "character_id": "uzziah",
+      "name": "Uzias",
+      "intro": "Um rei lembrado por cinquenta e dois anos de verdadeiro sucesso -- até que o orgulho o levou a queimar incenso no Templo ele mesmo, um ato sacerdotal reservado apenas aos sacerdotes, e foi atingido pela lepra por isso."
+    },
+    {
+      "character_id": "jehu",
+      "name": "Jeú",
+      "intro": "Um comandante ungido para eliminar a casa de Acabe e a adoração a Baal de Jezabel numa purga rápida e violenta -- zeloso pelo SENHOR, mas nunca se afastando completamente dos pecados que haviam definido o reino antes dele."
+    },
+    {
+      "character_id": "naaman",
+      "name": "Naamã",
+      "intro": "Um comandante do exército sírio com lepra, cujo orgulho quase o impediu de uma cura simples -- até que seus próprios servos o convenceram a simplesmente obedecer às instruções de Eliseu."
+    },
+    {
+      "character_id": "gehazi",
+      "name": "Geazi",
+      "intro": "O servo de Eliseu, que perseguiu secretamente Naamã para recolher um pagamento que seu mestre havia recusado -- e foi atingido pela mesma lepra da qual Naamã acabara de ser curado."
+    },
+    {
+      "character_id": "micaiah",
+      "name": "Micaías",
+      "intro": "Um profeta que disse ao rei Acabe exatamente o que ele não queria ouvir -- derrota e morte -- enquanto quatrocentos outros profetas lhe diziam o que ele queria, e que foi lançado na prisão por isso."
+    },
+    {
+      "character_id": "obadiah-steward",
+      "name": "Obadias (o mordomo de Acabe)",
+      "intro": "Um oficial temente a Deus na corte de Acabe que escondeu secretamente cem profetas em cavernas, com grande risco pessoal, para salvá-los da purga de Jezabel."
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "name": "A rainha de Sabá",
+      "intro": "Uma rainha estrangeira que viajou uma longa distância para testar a famosa sabedoria de Salomão com perguntas difíceis -- e partiu tendo visto que mesmo os relatos que ouvira não lhe faziam justiça."
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "name": "A viúva de Sarepta",
+      "intro": "Uma viúva reduzida ao último punhado de farinha, que ainda assim alimentou Elias com base em sua palavra de que não acabaria -- e cujo filho ele mais tarde ressuscitou dos mortos."
+    },
+    {
+      "character_id": "shunammite-woman",
+      "name": "A sunamita",
+      "intro": "Uma mulher abastada que construiu para Eliseu um quarto para ficar sempre que passasse -- e cujo filho, longamente pedido em oração, ele mais tarde ressuscitou após sua morte súbita."
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "name": "Hulda, a profetisa",
+      "intro": "Uma profetisa consultada pelos oficiais do rei Josias após ser encontrado o Livro da Lei há muito perdido -- sua palavra confirmou tanto o julgamento vindouro quanto a recompensa pela resposta humilde de Josias."
+    },
+    {
+      "character_id": "baruch",
+      "name": "Baruque",
+      "intro": "O fiel escriba de Jeremias, que escreveu as palavras do profeta sob seu ditado -- e viu o rei Jeoiaquim queimar o rolo, pedaço por pedaço, no fogo."
+    },
+    {
+      "character_id": "ebed-melech",
+      "name": "Ebede-Meleque",
+      "intro": "Um oficial etíope na corte real que resgatou Jeremias de uma cisterna lamacenta onde ele havia sido deixado para morrer, e a quem foi prometido que sua própria vida seria poupada por isso."
+    },
+    {
+      "character_id": "gedaliah",
+      "name": "Gedalias",
+      "intro": "O governador nomeado sobre o remanescente de Judá após a queda de Jerusalém, que instou o povo a se estabelecer pacificamente sob a Babilônia -- e foi assassinado por isso dentro de poucos meses."
+    },
+    {
+      "character_id": "zedekiah",
+      "name": "Zedequias",
+      "intro": "O último rei de Judá, instalado pela Babilônia e vinculado por juramento a servi-la -- cuja rebelião trouxe o cerco final, a queda da cidade, e seus próprios filhos mortos diante dele antes que seus olhos fossem vazados."
+    },
+    {
+      "character_id": "jehoiachin",
+      "name": "Joaquim",
+      "intro": "Um jovem rei que reinou apenas três meses antes de Jerusalém cair para a Babilônia -- e que, décadas depois no exílio, foi inesperadamente libertado da prisão e recebeu um lugar de honra à mesa do rei babilônico."
+    },
+    {
+      "character_id": "the-magi",
+      "name": "Os magos",
+      "intro": "Sábios do Oriente que seguiram uma estrela para adorar o recém-nascido rei dos judeus, e cujos presentes de ouro, incenso e mirra têm moldado a imagética do Natal desde então."
+    },
+    {
+      "character_id": "barabbas",
+      "name": "Barrabás",
+      "intro": "Um rebelde e assassino condenado, solto no lugar de Jesus quando a multidão recebeu a escolha na Páscoa -- um homem inocente morrendo no lugar de um culpado, tornado literal."
+    },
+    {
+      "character_id": "malchus",
+      "name": "Malco",
+      "intro": "O servo do sumo sacerdote cuja orelha Pedro cortou no jardim do Getsêmani -- e a quem Jesus curou, seu último milagre registrado antes da cruz."
+    },
+    {
+      "character_id": "jairus",
+      "name": "Jairo",
+      "intro": "Um líder de sinagoga que caiu aos pés de Jesus implorando que curasse sua filha moribunda -- e cuja fé foi ainda mais testada quando chegou a notícia de que ela já havia morrido."
+    },
+    {
+      "character_id": "cleopas",
+      "name": "Cléopas",
+      "intro": "Um dos dois discípulos caminhando para Emaús no primeiro dia de Páscoa, cujos corações \"ardiam\" enquanto o Jesus ressuscitado -- não reconhecido a princípio -- lhes abria as Escrituras pelo caminho."
+    },
+    {
+      "character_id": "joanna",
+      "name": "Joana",
+      "intro": "A esposa de Cuza, administrador de Herodes, que usou seus próprios recursos para apoiar o ministério de Jesus e estava entre as mulheres que encontraram o sepulcro vazio."
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "name": "O centurião de Cafarnaum",
+      "intro": "Um oficial militar romano cuja confiança de que Jesus poderia curar seu servo com uma única palavra -- sem sequer vir à casa -- surpreendeu o próprio Jesus."
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "name": "O bom ladrão",
+      "intro": "Um dos dois criminosos crucificados ao lado de Jesus, que repreendeu o outro por zombar dele e simplesmente pediu para ser lembrado -- e recebeu a promessa do paraíso naquele mesmo dia."
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "name": "O jovem rico",
+      "intro": "Um homem que guardava todo mandamento desde a juventude, mas foi embora triste quando Jesus lhe disse para vender tudo o que tinha -- incapaz de abrir mão do que mais amava."
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "name": "A mulher surpreendida em adultério",
+      "intro": "Uma mulher arrastada diante de Jesus por acusadores exigindo que fosse apedrejada, que se viu sozinha com ele depois que cada acusador se afastou -- e ouviu as palavras \"nem eu te condeno.\""
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "name": "O paralítico descido pelo telhado",
+      "intro": "Um homem paralisado cujos amigos, incapazes de alcançar Jesus por causa da multidão, abriram um telhado e o desceram -- e cujos pecados Jesus perdoou antes mesmo de curar suas pernas."
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "name": "A mulher com hemorragia",
+      "intro": "Uma mulher que sofria de hemorragia constante havia doze anos e gastara tudo com médicos sem alívio, que estendeu a mão e tocou a orla do manto de Jesus em meio à multidão -- e foi instantaneamente curada."
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "name": "A viúva de Naim",
+      "intro": "Uma viúva enterrando seu único filho quando Jesus encontrou o cortejo fúnebre -- e, movido de compaixão antes mesmo de ela pedir, ressuscitou seu filho."
+    },
+    {
+      "character_id": "the-poor-widow",
+      "name": "A viúva pobre",
+      "intro": "Uma viúva que colocou duas pequenas moedas de cobre no tesouro do Templo -- tudo o que tinha -- enquanto os ricos davam de sua abundância, e a quem Jesus elogiou acima de todos os outros doadores naquele dia."
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "name": "A mulher siro-fenícia",
+      "intro": "Uma mãe gentia que implorou a Jesus que curasse sua filha atormentada por um demônio, e cuja fé persistente e perspicaz diante da recusa inicial dele conquistou a cura de sua filha."
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "name": "Simão, o fariseu",
+      "intro": "Um fariseu que convidou Jesus para jantar mas negou as cortesias básicas da hospitalidade -- e foi discretamente corrigido quando uma mulher pecadora mostrou a Jesus a honra que ele não havia mostrado."
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "name": "O homem cego de nascença",
+      "intro": "Um homem cego de nascença, curado por Jesus com lama e lavagem -- e cujo testemunho firme e cada vez mais confiante sob interrogatório hostil superou todo líder religioso que tentava enredá-lo."
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "name": "Os dez leprosos",
+      "intro": "Dez homens com lepra, curados juntos pela palavra de Jesus enquanto iam mostrar-se aos sacerdotes -- embora apenas um, um samaritano, tenha voltado para agradecer."
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "name": "A mulher pecadora que ungiu Jesus",
+      "intro": "Uma mulher conhecida na cidade por seu pecado, que chorou aos pés de Jesus, enxugou-os com seus cabelos, e os ungiu com perfume caro -- um ato extravagante de amor que Jesus disse provar quanto lhe fora perdoado."
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "name": "Salomé (mãe dos filhos de Zebedeu)",
+      "intro": "A mãe de Tiago e João, que pediu a Jesus que sentasse seus filhos à sua direita e à sua esquerda em seu reino -- e que permaneceu junto à cruz e ao sepulcro vazio, quando aquele pedido havia há muito cedido lugar ao luto."
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "name": "Maria, mãe de Tiago",
+      "intro": "Uma das mulheres que seguiram Jesus desde a Galileia, permaneceram junto à cruz, e vieram ao sepulcro vazio na primeira manhã de Páscoa."
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "name": "O endemoninhado de Gerasa",
+      "intro": "Um homem possuído por tantos demônios que se chamava \"Legião\", vivendo entre os túmulos e impossível de conter -- libertado por Jesus num instante, e encontrado depois sentado calmamente, vestido e em perfeito juízo."
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "name": "Os pastores de Belém",
+      "intro": "Pastores vigiando seus rebanhos à noite, os primeiros a ouvir o anúncio dos anjos do nascimento de Jesus -- e os primeiros a ir apressadamente vê-lo por si mesmos."
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "name": "Ananias e Safira",
+      "intro": "Um marido e uma esposa na igreja primitiva que venderam uma propriedade, secretamente guardaram parte do valor, e mentiram aos apóstolos dizendo que haviam dado tudo -- e ambos morreram na hora quando Pedro expôs a mentira."
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "name": "Ananias de Damasco",
+      "intro": "Um discípulo em Damasco, compreensivelmente temeroso do homem que perseguira os cristãos, que ainda assim obedeceu ao chamado de Deus para ir impor as mãos sobre Saulo -- restaurando sua visão e acolhendo-o na igreja."
+    },
+    {
+      "character_id": "gamaliel",
+      "name": "Gamaliel",
+      "intro": "Um fariseu respeitado e mestre da Lei -- na verdade, o próprio mestre de Paulo -- cujo conselho cauteloso e ponderado ao Sinédrio talvez tenha poupado a vida dos apóstolos."
+    },
+    {
+      "character_id": "agabus",
+      "name": "Ágabo",
+      "intro": "Um profeta da igreja primitiva que predisse com precisão uma fome vindoura, e mais tarde advertiu Paulo em termos vívidos e simbólicos sobre a prisão que o esperava em Jerusalém."
+    },
+    {
+      "character_id": "simon-magus",
+      "name": "Simão, o mago",
+      "intro": "Um mago em Samaria que impressionava as pessoas com magia, creu e foi batizado -- e depois tentou comprar com dinheiro o poder do Espírito Santo, recebendo uma severa repreensão de Pedro."
+    },
+    {
+      "character_id": "sergius-paulus",
+      "name": "Sérgio Paulo",
+      "intro": "O procônsul romano de Chipre, um homem inteligente que procurou Paulo e Barnabé para ouvir a palavra de Deus -- e creu depois de ver um mago que se opunha a eles ser cegado."
+    },
+    {
+      "character_id": "rhoda",
+      "name": "Rode",
+      "intro": "Uma serva tão alegre ao ouvir a voz de Pedro à porta -- após sua fuga milagrosa da prisão -- que correu para contar aos outros sem sequer deixá-lo entrar."
+    },
+    {
+      "character_id": "eutychus",
+      "name": "Êutico",
+      "intro": "Um jovem que adormeceu durante a longa pregação noturna de Paulo, caiu de uma janela do terceiro andar, e foi trazido de volta à vida depois de ser recolhido morto."
+    },
+    {
+      "character_id": "aristarchus",
+      "name": "Aristarco",
+      "intro": "Um companheiro macedônio de Paulo que foi agarrado pela multidão durante o tumulto em Éfeso, e que mais tarde permaneceu com Paulo durante seu aprisionamento e viagem a Roma."
+    },
+    {
+      "character_id": "epaphras",
+      "name": "Epafras",
+      "intro": "O fundador da igreja em Colossos, lembrado por Paulo como aquele que \"sempre luta por vós em suas orações\", lutando em favor deles."
+    },
+    {
+      "character_id": "epaphroditus",
+      "name": "Epafrodito",
+      "intro": "Um mensageiro enviado pelos filipenses para ajudar Paulo, que quase morreu de doença nesse esforço e a quem Paulo elogiou por arriscar a vida \"para suprir o que faltava em vosso serviço\"."
+    },
+    {
+      "character_id": "phoebe",
+      "name": "Febe",
+      "intro": "Uma diaconisa da igreja em Cencreia, a quem Paulo confiou a tarefa de levar sua carta aos romanos -- a mesma carta que a menciona e a recomenda em seu encerramento."
+    },
+    {
+      "character_id": "junia",
+      "name": "Júnia",
+      "intro": "Mencionada por Paulo entre os apóstolos, \"notável entre os apóstolos\" e presa junto com ele -- um detalhe marcante, facilmente esquecido, em um único versículo de saudação."
+    },
+    {
+      "character_id": "andronicus",
+      "name": "Andrônico",
+      "intro": "Um parente de Paulo, preso com ele em algum momento, e mencionado junto com Júnia como notável entre os apóstolos e crente antes do próprio Paulo."
+    },
+    {
+      "character_id": "erastus",
+      "name": "Erasto",
+      "intro": "Um funcionário da cidade -- o tesoureiro de Corinto -- que serviu ao lado de Paulo e Timóteo e é lembrado em uma das saudações finais de Paulo."
+    },
+    {
+      "character_id": "tychicus",
+      "name": "Tíquico",
+      "intro": "Um mensageiro de confiança e \"irmão amado\" que Paulo enviou para entregar suas cartas e levar notícias de suas próprias circunstâncias a várias igrejas."
+    },
+    {
+      "character_id": "trophimus",
+      "name": "Trófimo",
+      "intro": "Um companheiro gentio de Paulo cuja presença com ele em Jerusalém foi erroneamente presumida ter profanado o Templo -- desencadeando o tumulto que levou à prisão de Paulo."
+    },
+    {
+      "character_id": "gaius",
+      "name": "Gaio",
+      "intro": "Um anfitrião generoso de Paulo e \"de toda a igreja\", lembrado com carinho em várias cartas de Paulo por sua hospitalidade."
+    },
+    {
+      "character_id": "sosthenes",
+      "name": "Sóstenes",
+      "intro": "Um líder de sinagoga espancado por uma multidão furiosa diante de um oficial romano indiferente -- e, muito provavelmente, o mesmo Sóstenes a quem Paulo chama depois de \"irmão\" em sua carta aos Coríntios."
+    },
+    {
+      "character_id": "crispus",
+      "name": "Crispo",
+      "intro": "O chefe da sinagoga de Corinto que creu no Senhor com toda a sua casa, e a quem Paulo pessoalmente batizou."
+    },
+    {
+      "character_id": "demas",
+      "name": "Demas",
+      "intro": "Um companheiro de Paulo durante sua prisão, listado ao lado de colaboradores fiéis -- até que a última carta de Paulo registra, com visível tristeza, que ele o havia abandonado, \"tendo amado o mundo presente\"."
+    },
+    {
+      "character_id": "manaen",
+      "name": "Manaém",
+      "intro": "Um profeta e mestre na igreja de Antioquia, lembrado com um detalhe pessoal incomum: fora \"criado junto\" com Herodes, o tetrarca."
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "name": "Lúcio de Cirene",
+      "intro": "Um dos profetas e mestres da igreja em Antioquia, presente quando o Espírito Santo separou Paulo e Barnabé para sua obra missionária."
+    },
+    {
+      "character_id": "simeon-called-niger",
+      "name": "Simeão, chamado Níger",
+      "intro": "Um dos profetas e mestres de Antioquia, distinguido nas Escrituras apenas pelo apelido ligado ao seu nome -- \"Níger\", provavelmente descrevendo sua tez."
+    },
+    {
+      "character_id": "archippus",
+      "name": "Arquipo",
+      "intro": "Um ministro da igreja primitiva, abordado diretamente por Paulo com um desafio incomumente incisivo: \"cuida de cumprir\" o ministério que recebeu."
+    },
+    {
+      "character_id": "nympha",
+      "name": "Ninfa",
+      "intro": "Uma crente que hospedava uma igreja em sua própria casa, mencionada por Paulo em suas saudações aos colossenses."
+    },
+    {
+      "character_id": "stephanas",
+      "name": "Estéfanas",
+      "intro": "Um membro da igreja de Corinto, entre os primeiros convertidos da região, cuja casa Paulo pessoalmente batizou e cuja visita lhe trouxe verdadeiro alívio."
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "name": "Prócoro, Nicanor, Timom, Pármenas e Nicolau",
+      "intro": "Cinco dos sete homens escolhidos pela igreja primitiva para supervisionar a distribuição diária de alimentos às viúvas -- liberando os apóstolos para a oração e a pregação, e estabelecendo desde então um padrão de ministério compartilhado."
+    },
+    {
+      "character_id": "diotrephes",
+      "name": "Diótrefes",
+      "intro": "Um líder de igreja chamado pelo nome na terceira carta de João por amar \"ser o primeiro\", recusar-se a receber crentes viajantes, e espalhar fofocas maliciosas sobre o próprio apóstolo."
+    },
+    {
+      "character_id": "demetrius-the-disciple",
+      "name": "Demétrio (3 João)",
+      "intro": "Um crente elogiado por João com um raro endosso incondicional: \"dele todos dão testemunho, e até a própria verdade\"."
+    },
+    {
+      "character_id": "matthias",
+      "name": "Matias",
+      "intro": "O discípulo escolhido por sorteio para substituir Judas Iscariotes entre os Doze, restaurando o número dos apóstolos após a traição e o assento vazio que ela deixou."
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "name": "José, chamado Barsabás",
+      "intro": "O outro candidato proposto para substituir Judas entre os Doze -- qualificado, alvo de oração, e não escolhido quando a sorte caiu sobre Matias em vez disso."
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "name": "Herodes Agripa I",
+      "intro": "Um neto de Herodes, o Grande, que perseguiu a igreja primitiva, mandou matar o apóstolo Tiago, e foi ferido por um anjo depois de aceitar os louvores de uma multidão como se fosse um deus."
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "name": "Herodes Agripa II",
+      "intro": "O último dos governantes herodianos, diante de quem Paulo fez sua defesa -- e que chegou perto o suficiente da verdade para dizer: \"por pouco me persuades a ser cristão.\""
+    },
+    {
+      "character_id": "felix",
+      "name": "Félix",
+      "intro": "O governador romano que manteve Paulo preso por dois anos sem decidir seu caso, às vezes esperando um suborno, e uma vez genuinamente amedrontado quando Paulo falou do julgamento vindouro."
+    },
+    {
+      "character_id": "festus",
+      "name": "Festo",
+      "intro": "O governador romano que sucedeu Félix, reabriu o caso de Paulo, e pôs em movimento o apelo a César que acabou levando Paulo a Roma."
+    },
+    {
+      "character_id": "elymas",
+      "name": "Elimas (Bar-Jesus)",
+      "intro": "Um mago e falso profeta que tentou desviar o procônsul Sérgio Paulo da fé -- e foi cegado por Paulo na hora."
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "name": "Alexandre, o latoeiro",
+      "intro": "Um metalúrgico que, escreve Paulo perto do fim de sua vida, \"me fez muito mal\" -- uma das poucas queixas pessoais que Paulo nomeia diretamente em sua última carta."
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "name": "Demétrio, o ourives",
+      "intro": "Um artesão cujo ofício de fabricar santuários de prata de Ártemis foi ameaçado pela pregação de Paulo, e que incitou o tumulto em Éfeso que quase custou a vida de Paulo."
+    },
+    {
+      "character_id": "onesiphorus",
+      "name": "Onesíforo",
+      "intro": "Um crente lembrado por Paulo com verdadeiro carinho por uma coisa específica: ele procurou incansavelmente em Roma até encontrar Paulo na prisão, e nunca se envergonhou de suas correntes."
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "name": "O eunuco etíope",
+      "intro": "Um oficial da corte da rainha da Etiópia, lendo Isaías a caminho de casa vindo de Jerusalém, a quem Filipe se juntou para explicar que a profecia apontava para Jesus -- e que foi batizado à beira da estrada assim que compreendeu."
     }
   ]
 }

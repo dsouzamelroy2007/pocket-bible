@@ -8,12 +8,15 @@ import app.pocketbible.data.BibleBookmark
 import app.pocketbible.data.Book
 import app.pocketbible.data.CharacterSummary
 import app.pocketbible.data.ContentRepository
+import app.pocketbible.data.DailyReading
 import app.pocketbible.data.EntrySummary
 import app.pocketbible.data.Feeling
 import app.pocketbible.data.Passage
 import app.pocketbible.data.PassageWithRole
 import app.pocketbible.data.ScriptureVerse
+import app.pocketbible.data.StorySummary
 import app.pocketbible.data.Translation
+import app.pocketbible.ui.bible.CitationFragment
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -37,6 +40,38 @@ data class CharacterVerseDisplay(
     val verseEnd: Int,
     val verses: List<ScriptureVerse>
 )
+
+/**
+ * One reading role ("first_reading"/"psalm"/"second_reading"/"acclamation"/
+ * "gospel") for today, its citation, and the real resolved text for the
+ * current translation -- empty if that translation doesn't have the cited
+ * book/chapter(s) yet. [bookId]/[fragments] are kept (rather than trusting
+ * [citationDisplay] alone, which is always the bundled English string) so
+ * the UI can render the citation localized via `localizedCitationDisplay`,
+ * the same book-id-plus-numbers tradeoff [CharacterVerseDisplay] already makes.
+ * [refrain] is the spoken/sung refrain line (see [ReadingCitation.refrain]) --
+ * null when not known for that day/role.
+ */
+data class ResolvedReading(
+    val role: String,
+    val citationDisplay: String,
+    val bookId: String,
+    val fragments: List<CitationFragment>,
+    val text: String,
+    val refrain: String? = null
+)
+
+/** A story's citation paired with the real verse text, resolved for the current translation -- same shape as [CharacterVerseDisplay], but spans a chapter range (a story's reference can cross more than one chapter, e.g. "Genesis 1-2") rather than one chapter. */
+data class StoryVerseDisplay(
+    val bookId: String,
+    val chapterStart: Int,
+    val verseStart: Int,
+    val chapterEnd: Int,
+    val verseEnd: Int,
+    val verses: List<ScriptureVerse>
+)
+
+private val READING_ROLE_ORDER = listOf("first_reading", "psalm", "second_reading", "acclamation", "gospel")
 
 class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
@@ -103,14 +138,64 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     private val _characterVerses = MutableStateFlow<List<CharacterVerseDisplay>>(emptyList())
     val characterVerses: StateFlow<List<CharacterVerseDisplay>> = _characterVerses.asStateFlow()
 
+    // ---------- Stories ----------
+
+    private val _stories = MutableStateFlow<List<StorySummary>>(emptyList())
+    val stories: StateFlow<List<StorySummary>> = _stories.asStateFlow()
+
+    private val _selectedStory = MutableStateFlow<StorySummary?>(null)
+    val selectedStory: StateFlow<StorySummary?> = _selectedStory.asStateFlow()
+
+    private val _storyVerses = MutableStateFlow<List<StoryVerseDisplay>>(emptyList())
+    val storyVerses: StateFlow<List<StoryVerseDisplay>> = _storyVerses.asStateFlow()
+
+    private val _storyCharacters = MutableStateFlow<List<CharacterSummary>>(emptyList())
+    val storyCharacters: StateFlow<List<CharacterSummary>> = _storyCharacters.asStateFlow()
+
     // ---------- Verse of the day ----------
 
     private val _verseOfDay = MutableStateFlow<Passage?>(null)
     val verseOfDay: StateFlow<Passage?> = _verseOfDay.asStateFlow()
 
+    // ---------- Daily reading ----------
+
+    private val _selectedReadingDate = MutableStateFlow(LocalDate.now())
+    val selectedReadingDate: StateFlow<LocalDate> = _selectedReadingDate.asStateFlow()
+
+    private val _dailyReading = MutableStateFlow<DailyReading?>(null)
+    val dailyReading: StateFlow<DailyReading?> = _dailyReading.asStateFlow()
+
+    private val _resolvedReadings = MutableStateFlow<List<ResolvedReading>>(emptyList())
+    val resolvedReadings: StateFlow<List<ResolvedReading>> = _resolvedReadings.asStateFlow()
+
+    /** Earliest/latest date any loaded lectionary year actually covers, so the day picker bounds itself to real data instead of a hardcoded year -- widens automatically the day a future year's content ships. Null until the one-time load completes. */
+    private val _readingDateRange = MutableStateFlow<Pair<LocalDate, LocalDate>?>(null)
+    val readingDateRange: StateFlow<Pair<LocalDate, LocalDate>?> = _readingDateRange.asStateFlow()
+
+    fun previousReadingDay() {
+        _selectedReadingDate.value = _selectedReadingDate.value.minusDays(1)
+        viewModelScope.launch { loadDailyReading() }
+    }
+
+    fun nextReadingDay() {
+        _selectedReadingDate.value = _selectedReadingDate.value.plusDays(1)
+        viewModelScope.launch { loadDailyReading() }
+    }
+
+    fun goToTodayReading() {
+        _selectedReadingDate.value = LocalDate.now()
+        viewModelScope.launch { loadDailyReading() }
+    }
+
+    fun goToReadingDate(date: LocalDate) {
+        _selectedReadingDate.value = date
+        viewModelScope.launch { loadDailyReading() }
+    }
+
     // ---------- Language ----------
 
     private var loadedLanguage: String? = null
+    private var loadedVerseDate: LocalDate? = null
 
     /** BCP-47 language of the in-app switcher, or the system's if "System default" is selected. */
     private fun currentLanguage(): String =
@@ -148,6 +233,31 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         return passage.copy(text = verses.sortedBy { it.verse }.joinToString(" ") { it.text }, pullQuote = null)
     }
 
+    /** Loads the selected date's Mass readings (if this app ships that date's lectionary year) and resolves each role's citation(s) to real text for the current translation. Deliberately does NOT touch the verse-of-the-day card -- that always reflects the real calendar day regardless of which lectionary date is being browsed here; see ensureFreshForCurrentLanguage(). */
+    private suspend fun loadDailyReading() {
+        val date = _selectedReadingDate.value.format(DateTimeFormatter.ISO_LOCAL_DATE)
+        _dailyReading.value = repo.dailyReading(date, currentLanguage())
+        val translationId = currentTranslationId()
+        _resolvedReadings.value = repo.readingCitations(date, currentLanguage())
+            .groupBy { it.role }
+            .map { (role, refs) ->
+                val sorted = refs.sortedBy { it.position }
+                val perRange = sorted.map { ref ->
+                    repo.versesForRange(ref.bookId, ref.chapterStart, ref.verseStart, ref.chapterEnd, ref.verseEnd, translationId)
+                        .joinToString(" ") { it.text }
+                }
+                ResolvedReading(
+                    role = role,
+                    citationDisplay = sorted.first().citationDisplay,
+                    bookId = sorted.first().bookId,
+                    fragments = sorted.map { CitationFragment(it.chapterStart, it.verseStart, it.chapterEnd, it.verseEnd) },
+                    text = perRange.joinToString(" "),
+                    refrain = sorted.first().refrain
+                )
+            }
+            .sortedBy { READING_ROLE_ORDER.indexOf(it.role) }
+    }
+
     /**
      * Re-issues the language-dependent queries (topics list, saved list, the
      * currently open topic's entries, and the Read tab's book list) if the
@@ -160,27 +270,40 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
      */
     fun ensureFreshForCurrentLanguage() {
         val language = currentLanguage()
-        if (loadedLanguage == language) return
-        loadedLanguage = language
-        viewModelScope.launch { repo.feelings(language).collect { _feelings.value = it } }
-        viewModelScope.launch {
-            repo.savedEntries(language).collect { _saved.value = withResolvedPassageText(it) }
-        }
-        viewModelScope.launch {
-            repo.readableBooks(currentTranslationId()).collect { _readableBooks.value = it }
-        }
-        viewModelScope.launch {
-            val includeDeuterocanon = repo.translationIncludesDeuterocanon(language)
-            repo.characters(language, includeDeuterocanon).collect { _characters.value = it }
-        }
-        _selectedFeeling.value?.let { feeling ->
+        val languageChanged = loadedLanguage != language
+        if (languageChanged) {
+            loadedLanguage = language
+            viewModelScope.launch { repo.feelings(language).collect { _feelings.value = it } }
             viewModelScope.launch {
-                _feelingEntries.value = withResolvedPassageText(repo.entriesForFeeling(feeling.id, language))
+                repo.savedEntries(language).collect { _saved.value = withResolvedPassageText(it) }
             }
+            viewModelScope.launch {
+                repo.readableBooks(currentTranslationId()).collect { _readableBooks.value = it }
+            }
+            viewModelScope.launch {
+                val includeDeuterocanon = repo.translationIncludesDeuterocanon(language)
+                repo.characters(language, includeDeuterocanon).collect { _characters.value = it }
+            }
+            viewModelScope.launch { repo.stories(language).collect { _stories.value = it } }
+            _selectedFeeling.value?.let { feeling ->
+                viewModelScope.launch {
+                    _feelingEntries.value = withResolvedPassageText(repo.entriesForFeeling(feeling.id, language))
+                }
+            }
+            viewModelScope.launch { loadDailyReading() }
         }
-        viewModelScope.launch {
-            val monthDay = LocalDate.now().format(DateTimeFormatter.ofPattern("MM-dd"))
-            _verseOfDay.value = repo.verseOfDay(monthDay)?.let { resolvedPassage(it) }
+
+        // Gated by date rather than the language guard above, so the verse
+        // actually advances if the process stays alive past midnight instead
+        // of freezing on whatever verse was current when the ViewModel (or
+        // the language) last changed.
+        val today = LocalDate.now()
+        if (languageChanged || loadedVerseDate != today) {
+            loadedVerseDate = today
+            viewModelScope.launch {
+                val monthDay = today.format(DateTimeFormatter.ofPattern("MM-dd"))
+                _verseOfDay.value = repo.verseOfDay(monthDay)?.let { resolvedPassage(it) }
+            }
         }
     }
 
@@ -188,6 +311,13 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         ensureFreshForCurrentLanguage()
         viewModelScope.launch { repo.bookmarks().collect { _bookmarks.value = it } }
         viewModelScope.launch { repo.translations().collect { _translations.value = it } }
+        viewModelScope.launch {
+            val earliest = repo.earliestReadingDate()
+            val latest = repo.latestReadingDate()
+            if (earliest != null && latest != null) {
+                _readingDateRange.value = LocalDate.parse(earliest) to LocalDate.parse(latest)
+            }
+        }
     }
 
     fun onSearchQueryChange(query: String) {
@@ -358,6 +488,39 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
                     verses = verses
                 )
             }
+        }
+    }
+
+    fun toggleSaveCurrentStory() {
+        val story = _selectedStory.value ?: return
+        viewModelScope.launch {
+            repo.toggleSaveStory(story.id, story.isSaved)
+            _selectedStory.value = story.copy(isSaved = !story.isSaved)
+        }
+    }
+
+    /** Loads [story]'s verse citations (resolving real text for each range from the current translation) and its curated related characters. */
+    fun selectStory(story: StorySummary) {
+        _selectedStory.value = story
+        _storyVerses.value = emptyList()
+        _storyCharacters.value = emptyList()
+        viewModelScope.launch {
+            val translationId = currentTranslationId()
+            val refs = repo.verseRefsForStory(story.id)
+            _storyVerses.value = refs.map { ref ->
+                val verses = repo.versesForRange(
+                    ref.bookId, ref.chapterStart, ref.verseStart, ref.chapterEnd, ref.verseEnd, translationId
+                )
+                StoryVerseDisplay(
+                    bookId = ref.bookId,
+                    chapterStart = ref.chapterStart,
+                    verseStart = ref.verseStart,
+                    chapterEnd = ref.chapterEnd,
+                    verseEnd = ref.verseEnd,
+                    verses = verses
+                )
+            }
+            _storyCharacters.value = repo.charactersForStory(story.id, currentLanguage())
         }
     }
 

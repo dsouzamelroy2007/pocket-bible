@@ -2171,6 +2171,2896 @@
       "character_id": "judith",
       "position": 3,
       "caption": "मोठ्या प्रतिष्ठेची भक्तिमान विधवा म्हणून ओळख"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 0,
+      "caption": "पुनर्बांधलेल्या मंदिराचा पाया घातला"
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 1,
+      "caption": "देवाचे अभिवचन: \"मी तुला मुद्रेच्या अंगठीसारखे करीन\""
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 2,
+      "caption": "\"बलाने नाही, शक्तीने नाही, तर माझ्या आत्म्याने\""
+    },
+    {
+      "character_id": "zerubbabel",
+      "position": 3,
+      "caption": "येशूच्या वंशावळीत नामोल्लेख"
+    },
+    {
+      "character_id": "haman",
+      "position": 0,
+      "caption": "मर्दखय त्याला वाकत नाही म्हणून संतापलेला"
+    },
+    {
+      "character_id": "haman",
+      "position": 1,
+      "caption": "यहुदी लोकांचा नाश करण्याचा त्याचा हुकूम"
+    },
+    {
+      "character_id": "haman",
+      "position": 2,
+      "caption": "मर्दखयासाठी बांधलेल्या फाशीवर टांगण्यात आला"
+    },
+    {
+      "character_id": "haman",
+      "position": 3,
+      "caption": "यहुद्यांचा शत्रू म्हणून स्मरणात राहिला"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 0,
+      "caption": "भारतापासून कूशपर्यंत १२७ प्रांतांचा राजा"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 1,
+      "caption": "एस्तेरला आपली राणी बनवले"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 2,
+      "caption": "एस्तेरला कोण धमकावतो हे जाणून घेण्याची मागणी करतो"
+    },
+    {
+      "character_id": "ahasuerus",
+      "position": 3,
+      "caption": "हामानच्या हुकुमाचा प्रतिकार करण्यासाठी मर्दखयला अधिकार देतो"
+    },
+    {
+      "character_id": "vashti",
+      "position": 0,
+      "caption": "राजाने बोलावले तेव्हा येण्यास नकार देते"
+    },
+    {
+      "character_id": "vashti",
+      "position": 1,
+      "caption": "शाही हुकुमाने पदच्युत"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 0,
+      "caption": "इस्राएलला मदत करण्यासाठी कोणीतरी आले याने नाराज"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 1,
+      "caption": "पुनर्बांधणी प्रकल्पाची थट्टा करतात"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 2,
+      "caption": "नहेम्याला सापळ्यात अडकवण्याचा प्रयत्न करतात"
+    },
+    {
+      "character_id": "sanballat-and-tobiah",
+      "position": 3,
+      "caption": "त्यांच्या विरोधानंतरही तटबंदी पूर्ण झाली"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 0,
+      "caption": "अदोमचा गर्व: \"मला कोण खाली आणील?\""
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 1,
+      "caption": "यहूदाच्या आपत्तीवर आनंद न मानण्याचा इशारा"
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 2,
+      "caption": "\"परमेश्वराचा दिवस सर्व राष्ट्रांवर जवळ आला आहे\""
+    },
+    {
+      "character_id": "obadiah-prophet",
+      "position": 3,
+      "caption": "\"राज्य परमेश्वराचे होईल\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 0,
+      "caption": "\"परमेश्वर रागावण्यास मंद आहे... तो दोषीला मुळीच निर्दोष ठरवणार नाही\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 1,
+      "caption": "\"परमेश्वर चांगला आहे, संकटाच्या दिवसात दुर्ग आहे\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 2,
+      "caption": "\"त्या रक्तपाती नगरीला हाय\""
+    },
+    {
+      "character_id": "nahum",
+      "position": 3,
+      "caption": "निनवेचे पतन: \"तुझी बातमी ऐकणारे सर्व टाळ्या वाजवतील\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 0,
+      "caption": "\"हे परमेश्वरा, मी किती काळ ओरडावे, आणि तू ऐकणार नाहीस?\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 1,
+      "caption": "\"नीतिमान आपल्या विश्वासाने जगेल\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 2,
+      "caption": "\"परमेश्वर आपल्या पवित्र मंदिरात आहे; सर्व पृथ्वीने त्याच्यासमोर मौन राहावे\""
+    },
+    {
+      "character_id": "habakkuk",
+      "position": 3,
+      "caption": "\"तरीही मी परमेश्वरामध्ये आनंद करीन\" -- जरी सर्व काही अपयशी ठरले तरी"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 0,
+      "caption": "\"परमेश्वराचा मोठा दिवस जवळ आला आहे\""
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 1,
+      "caption": "नम्र लोकांना परमेश्वराचा शोध घेण्याचे आवाहन करतो"
+    },
+    {
+      "character_id": "zephaniah",
+      "position": 2,
+      "caption": "\"परमेश्वर तुझा देव तुझ्यामध्ये आहे... तो तुझ्यावर गीत गात आनंद करील\""
+    },
+    {
+      "character_id": "haggai",
+      "position": 0,
+      "caption": "\"ही वास्तू भग्नावस्थेत असताना तुम्ही सुशोभित घरात राहण्याची ही वेळ आहे का?\""
+    },
+    {
+      "character_id": "haggai",
+      "position": 1,
+      "caption": "लोकांना काम पुन्हा सुरू करण्यास प्रवृत्त करतो"
+    },
+    {
+      "character_id": "haggai",
+      "position": 2,
+      "caption": "\"या शेवटच्या वास्तूचे वैभव पहिल्यापेक्षा मोठे असेल\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 0,
+      "caption": "\"बलाने नाही, शक्तीने नाही, तर माझ्या आत्म्याने\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 1,
+      "caption": "\"तुझा राजा तुझ्याकडे येत आहे... नम्र, गाढवावर स्वार होऊन\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 2,
+      "caption": "\"ज्याला त्यांनी भोसकले त्या माझ्याकडे ते पाहतील\""
+    },
+    {
+      "character_id": "zechariah-prophet",
+      "position": 3,
+      "caption": "\"मेंढपाळाला मार, म्हणजे मेंढरे विखुरली जातील\" -- येशूने उद्धृत केलेले"
+    },
+    {
+      "character_id": "malachi",
+      "position": 0,
+      "caption": "याजकांना आव्हान देतो: \"मुलगा आपल्या वडिलांचा मान राखतो... माझा मान कुठे आहे?\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 1,
+      "caption": "\"कारण मी, परमेश्वर, बदलत नाही\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 2,
+      "caption": "\"सर्व दशांश कोठारात आणा\""
+    },
+    {
+      "character_id": "malachi",
+      "position": 3,
+      "caption": "\"परमेश्वराचा तो मोठा आणि भयानक दिवस येण्यापूर्वी मी तुमच्याकडे एलीया संदेष्ट्याला पाठवीन\""
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 0,
+      "caption": "दानीएलच्या देवाला \"देवांचा देव\" म्हणून कबूल करतो"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 1,
+      "caption": "शद्रख, मेशख आणि अबेदनगो यांना भट्टीत टाकण्याचा आदेश देतो"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 2,
+      "caption": "मानवी समाजातून हाकलले गेले, नमवले गेले"
+    },
+    {
+      "character_id": "nebuchadnezzar",
+      "position": 3,
+      "caption": "\"मी नबुखद्नेस्सर स्वर्गाच्या राजाची स्तुती, गौरव आणि सन्मान करतो\""
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 0,
+      "caption": "आपल्या मेजवानीत मंदिराच्या पवित्र पात्रांतून पितो"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 1,
+      "caption": "भिंतीवरील लिखाण"
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 2,
+      "caption": "दानीएलचा अर्थ: \"तुला तोलले गेले... आणि कमी भरलेले आढळले\""
+    },
+    {
+      "character_id": "belshazzar",
+      "position": 3,
+      "caption": "त्याच रात्री ठार मारला गेला"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 0,
+      "caption": "स्वतःच्याच हुकुमापासून दानीएलला वाचवण्याचा प्रत्येक मार्ग अवलंबतो"
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 1,
+      "caption": "\"ज्याची तू निरंतर सेवा करतोस तो तुझा देव तुला वाचवील\""
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 2,
+      "caption": "दानीएल सुरक्षित: \"माझ्या देवाने आपला दूत पाठवला\""
+    },
+    {
+      "character_id": "darius-the-mede",
+      "position": 3,
+      "caption": "सर्वांनी दानीएलच्या देवाचे भय बाळगावे असा हुकूम काढतो"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 0,
+      "caption": "त्याच्या जन्मापूर्वी पिढ्या आधी देवाने \"त्याचा अभिषिक्त\" म्हणून नाव घेतले"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 1,
+      "caption": "\"परमेश्वराने कोरेशचा आत्मा जागृत केला\""
+    },
+    {
+      "character_id": "cyrus",
+      "position": 2,
+      "caption": "मंदिराच्या पुनर्बांधणीला परवानगी देणारा त्याचा हुकूम"
+    },
+    {
+      "character_id": "cyrus",
+      "position": 3,
+      "caption": "हिब्रू सिद्धांतात जुना करार संपवणारा हुकूम"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 0,
+      "caption": "ईयोबचे सांत्वन करण्यासाठी येतात, सात दिवस त्याच्याबरोबर मुकाट्याने बसतात"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 1,
+      "caption": "अलीफज: \"निर्दोष असताना कोण कधी नष्ट झाला?\""
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 2,
+      "caption": "बिल्दद असे गृहीत धरतो की ईयोबच्या मुलांनी पाप केले असावे"
+    },
+    {
+      "character_id": "eliphaz-bildad-zophar",
+      "position": 3,
+      "caption": "देव त्यांना दटावतो: \"तुम्ही माझ्याबद्दल जे योग्य आहे ते बोलला नाहीत\""
+    },
+    {
+      "character_id": "elihu",
+      "position": 0,
+      "caption": "संतापलेला कारण ईयोबने स्वतःला नीतिमान ठरवले, आणि मित्रांना कोणतेही उत्तर सापडले नाही"
+    },
+    {
+      "character_id": "elihu",
+      "position": 1,
+      "caption": "तो लहान होता म्हणून बोलण्याची वाट पाहिली"
+    },
+    {
+      "character_id": "elihu",
+      "position": 2,
+      "caption": "\"देव महान आहे, आणि आपण त्याला ओळखत नाही\""
+    },
+    {
+      "character_id": "elihu",
+      "position": 3,
+      "caption": "ईयोबला \"देवाच्या अद्भुत कार्यांचा विचार करण्यास\" बोलावतो"
+    },
+    {
+      "character_id": "lot",
+      "position": 0,
+      "caption": "यार्देनचे पाणी भरपूर असलेले मैदान निवडतो"
+    },
+    {
+      "character_id": "lot",
+      "position": 1,
+      "caption": "पकडला गेला, नंतर अब्राहामाने सोडवला"
+    },
+    {
+      "character_id": "lot",
+      "position": 2,
+      "caption": "सदोममधील आपल्या घरात दोन देवदूतांचे स्वागत करतो"
+    },
+    {
+      "character_id": "lot",
+      "position": 3,
+      "caption": "हात धरून नगराबाहेर नेला गेला"
+    },
+    {
+      "character_id": "lot",
+      "position": 4,
+      "caption": "\"नीतिमान लोट\" म्हटले गेले, जो आजूबाजूच्या दुष्टतेने व्यथित होता"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 0,
+      "caption": "इशारा दिला: \"मागे वळून पाहू नकोस\""
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 1,
+      "caption": "मागे वळून पाहते, मिठाचा खांब बनते"
+    },
+    {
+      "character_id": "lots-wife",
+      "position": 2,
+      "caption": "येशू: \"लोटाच्या पत्नीची आठवण करा\""
+    },
+    {
+      "character_id": "ishmael",
+      "position": 0,
+      "caption": "त्याच्या जन्माबद्दल आणि भविष्याबद्दल देवाचे अभिवचन"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 1,
+      "caption": "देव त्या मुलाचे रानात रडणे ऐकतो"
+    },
+    {
+      "character_id": "ishmael",
+      "position": 2,
+      "caption": "\"देव त्या मुलाबरोबर होता, आणि तो वाढला\""
+    },
+    {
+      "character_id": "ishmael",
+      "position": 3,
+      "caption": "आपल्या वडिलांना, अब्राहामाला पुरण्यासाठी इसहाकाबरोबर सामील होतो"
+    },
+    {
+      "character_id": "laban",
+      "position": 0,
+      "caption": "रिबकाच्या वतीने अब्राहामाच्या सेवकाचे स्वागत करतो"
+    },
+    {
+      "character_id": "laban",
+      "position": 1,
+      "caption": "लग्नाच्या रात्री राहेलऐवजी लेआला पाठवतो"
+    },
+    {
+      "character_id": "laban",
+      "position": 2,
+      "caption": "याकोबाची मजुरी दहा वेळा बदलतो"
+    },
+    {
+      "character_id": "laban",
+      "position": 3,
+      "caption": "याकोबाबरोबर शांतीचा करार करतो"
+    },
+    {
+      "character_id": "dinah",
+      "position": 0,
+      "caption": "शखेमाकडून अत्याचारित"
+    },
+    {
+      "character_id": "dinah",
+      "position": 1,
+      "caption": "शिमोन आणि लेवीचा सूड"
+    },
+    {
+      "character_id": "dinah",
+      "position": 2,
+      "caption": "आपल्या मुलांनी काय केले याबद्दल याकोबाचे दुःख आणि भय"
+    },
+    {
+      "character_id": "dinah",
+      "position": 3,
+      "caption": "मिसरला गेलेल्या मुलांमध्ये गणली गेली"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 0,
+      "caption": "तिच्या वडिलांच्या घरी परत पाठवली गेली, वाट पाहत"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 1,
+      "caption": "यहूदा: \"ती माझ्यापेक्षा अधिक नीतिमान आहे\""
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 2,
+      "caption": "पेरेस आणि जेरह या जुळ्या मुलांना जन्म देते"
+    },
+    {
+      "character_id": "tamar-daughter-in-law-of-judah",
+      "position": 3,
+      "caption": "येशूच्या वंशावळीत नामोल्लेख"
+    },
+    {
+      "character_id": "reuben",
+      "position": 0,
+      "caption": "आपल्या भावांना योसेफाला मारू नये म्हणून मन वळवतो"
+    },
+    {
+      "character_id": "reuben",
+      "position": 1,
+      "caption": "परत येऊन योसेफ गायब झालेला पाहतो, दुःखाने आपली वस्त्रे फाडतो"
+    },
+    {
+      "character_id": "reuben",
+      "position": 2,
+      "caption": "याकोबाचा आशीर्वाद रोखला गेला: \"पाण्यासारखा अस्थिर, तू श्रेष्ठ होणार नाहीस\""
+    },
+    {
+      "character_id": "reuben",
+      "position": 3,
+      "caption": "त्याचा ज्येष्ठत्वाचा हक्क त्याऐवजी योसेफाच्या मुलांना देण्यात आला"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 0,
+      "caption": "दीनाचा सूड घेण्यात लेवीसोबत सामील होतो"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 1,
+      "caption": "मिसरमध्ये योसेफाने ओलिस म्हणून ठेवला"
+    },
+    {
+      "character_id": "simeon-son-of-jacob",
+      "position": 2,
+      "caption": "याकोबाचा आशीर्वाद त्याच्या आणि लेवीच्या हिंसेचा धिक्कार करतो"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 0,
+      "caption": "दीनाचा सूड घेण्यात शिमोनसोबत सामील होतो"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 1,
+      "caption": "याकोबाचा आशीर्वाद त्याच्या हिंसेचा धिक्कार करतो"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 2,
+      "caption": "सोन्याच्या वासरानंतर त्याचा वंश मोशेच्या बाजूने उभा राहतो"
+    },
+    {
+      "character_id": "levi-son-of-jacob",
+      "position": 3,
+      "caption": "लेवी लोक परमेश्वराच्या सेवेसाठी वेगळे केले"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 0,
+      "caption": "लेआ त्याचे नाव ठेवते, याकोब तिचा मान राखेल अशी आशा बाळगून"
+    },
+    {
+      "character_id": "zebulun",
+      "position": 1,
+      "caption": "याकोबाचा आशीर्वाद: \"समुद्रकिनारी वस्ती करील\""
+    },
+    {
+      "character_id": "zebulun",
+      "position": 2,
+      "caption": "त्याचा वंश दबोरा आणि बाराकच्या लढाईसाठी बोलावला गेला"
+    },
+    {
+      "character_id": "issachar",
+      "position": 0,
+      "caption": "लेआ त्याचे नाव ठेवते, त्याला आपले प्रतिफळ मानून"
+    },
+    {
+      "character_id": "issachar",
+      "position": 1,
+      "caption": "याकोबाचा आशीर्वाद: दोन ओझ्यांमधील एक बलवान गाढव"
+    },
+    {
+      "character_id": "issachar",
+      "position": 2,
+      "caption": "त्याचे वंशज \"काळ समजून घेत होते\""
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 0,
+      "caption": "राहेल त्याचे नाव ठेवते: \"देवाने माझा न्याय केला आहे\""
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 1,
+      "caption": "याकोबाचा आशीर्वाद: \"आपल्या लोकांचा न्याय करील\""
+    },
+    {
+      "character_id": "dan-son-of-jacob",
+      "position": 2,
+      "caption": "त्याचा वंश स्वतःच्या प्रदेशाचा शोध घेतो"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 0,
+      "caption": "राहेल लेआसोबतच्या स्पर्धेनंतर त्याचे नाव ठेवते"
+    },
+    {
+      "character_id": "naphtali",
+      "position": 1,
+      "caption": "याकोबाचा आशीर्वाद: \"मोकळी सोडलेली हरणी\""
+    },
+    {
+      "character_id": "naphtali",
+      "position": 2,
+      "caption": "त्याचा वंश दबोरा आणि बाराकच्या लढाईसाठी बोलावला गेला"
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 0,
+      "caption": "लेआ त्याचे नाव ठेवते: \"चांगले भाग्य आले आहे\""
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 1,
+      "caption": "याकोबाचा आशीर्वाद: \"टोळ्या त्याच्यावर चाल करतील, पण तो त्यांच्या टाचांवर चाल करील\""
+    },
+    {
+      "character_id": "gad-son-of-jacob",
+      "position": 2,
+      "caption": "त्याचे वंशज यार्देनच्या पूर्वेकडील भूमीची मागणी करतात"
+    },
+    {
+      "character_id": "asher",
+      "position": 0,
+      "caption": "लेआ त्याचे नाव ठेवते: \"मी धन्य आहे\""
+    },
+    {
+      "character_id": "asher",
+      "position": 1,
+      "caption": "याकोबाचा आशीर्वाद: \"त्याची भाकर समृद्ध असेल, आणि तो राजेशाही स्वादिष्ट पदार्थ देईल\""
+    },
+    {
+      "character_id": "asher",
+      "position": 2,
+      "caption": "संदेष्ट्री हन्ना तिच्या वंशातून आलेली आहे"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 0,
+      "caption": "राहेल मरताना जन्मला; त्याच्या वडिलांनी त्याचे नाव बदलले"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 1,
+      "caption": "याकोब सुरुवातीला त्याला मिसरला जाऊ देण्यास नकार देतो"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 2,
+      "caption": "यहूदा त्याच्याऐवजी गुलाम म्हणून राहण्याची तयारी दाखवतो"
+    },
+    {
+      "character_id": "benjamin",
+      "position": 3,
+      "caption": "योसेफ त्याच्या गळ्यात पडून रडतो, अखेर पुनर्मिलन"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 0,
+      "caption": "योसेफाने नाव ठेवले: \"देवाने मला माझे सर्व कष्ट विसरायला लावले आहे\""
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 1,
+      "caption": "याकोब आपले हात आडवे करतो, आधी धाकट्या एफ्राइमला आशीर्वाद देतो"
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 2,
+      "caption": "याकोबाचे स्पष्टीकरण: त्याचा भाऊ \"त्याच्यापेक्षा मोठा होईल\""
+    },
+    {
+      "character_id": "manasseh-son-of-joseph",
+      "position": 3,
+      "caption": "त्याचे वंशज त्यांचा वंशीय प्रदेश प्राप्त करतात"
+    },
+    {
+      "character_id": "ephraim",
+      "position": 0,
+      "caption": "योसेफाने नाव ठेवले: \"देवाने मला फलदायी केले आहे\""
+    },
+    {
+      "character_id": "ephraim",
+      "position": 1,
+      "caption": "याकोबाचा आशीर्वाद: \"त्याचा धाकटा भाऊ त्याच्यापेक्षा मोठा होईल\""
+    },
+    {
+      "character_id": "ephraim",
+      "position": 2,
+      "caption": "नंतरचे संदेष्टे त्याचे नाव उत्तर राज्यासाठीच वापरतात"
+    },
+    {
+      "character_id": "terah",
+      "position": 0,
+      "caption": "अब्राम, साराय आणि लोट यांच्यासह ऊरहून निघतो"
+    },
+    {
+      "character_id": "terah",
+      "position": 1,
+      "caption": "हारानमध्ये मरण पावतो"
+    },
+    {
+      "character_id": "terah",
+      "position": 2,
+      "caption": "युफ्रेतीसच्या पलीकडे इतर देवांची सेवा केल्याबद्दल स्मरणात"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 0,
+      "caption": "साराला घेतो, नंतर देव स्वप्नात त्याला इशारा देतो"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 1,
+      "caption": "देव: \"मी तुला माझ्याविरुद्ध पाप करण्यापासून रोखले\""
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 2,
+      "caption": "इसहाक आणि रिबका खरे तर विवाहित आहेत हे शोधून काढतो"
+    },
+    {
+      "character_id": "abimelech-king-of-gerar",
+      "position": 3,
+      "caption": "इसहाकाबरोबर शांतीचा करार करतो"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 0,
+      "caption": "इश्माएली व्यापाऱ्यांकडून योसेफाला विकत घेतो"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 1,
+      "caption": "आपल्या सर्व मालमत्तेचा कारभार योसेफाकडे सोपवतो"
+    },
+    {
+      "character_id": "potiphar",
+      "position": 2,
+      "caption": "आपल्या पत्नीच्या आरोपावर विश्वास ठेवतो, योसेफाला तुरुंगात टाकतो"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 0,
+      "caption": "\"माझ्याबरोबर नीज\""
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 1,
+      "caption": "दिवसागणिक त्याच्याशी बोलत राहते"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 2,
+      "caption": "तो पळून जातो, आपले वस्त्र तिच्या हातात सोडून"
+    },
+    {
+      "character_id": "potiphars-wife",
+      "position": 3,
+      "caption": "त्याच वस्त्राचा वापर करून त्याच्यावर खोटा आरोप लावते"
+    },
+    {
+      "character_id": "asenath",
+      "position": 0,
+      "caption": "फारोने योसेफाला लग्नात दिलेली"
+    },
+    {
+      "character_id": "asenath",
+      "position": 1,
+      "caption": "दुष्काळाच्या वर्षांआधी मनश्शे आणि एफ्राइम यांना जन्म देते"
+    },
+    {
+      "character_id": "er-and-onan",
+      "position": 0,
+      "caption": "एर \"परमेश्वराच्या दृष्टीने दुष्ट होता, आणि परमेश्वराने त्याला ठार मारले\""
+    },
+    {
+      "character_id": "er-and-onan",
+      "position": 1,
+      "caption": "ओनान आपल्या भावाला वारस देण्यास नकार देतो; तोही मरण पावतो"
+    },
+    {
+      "character_id": "er-and-onan",
+      "position": 2,
+      "caption": "कनान देशात मरण पावले असे स्मरणात"
+    },
+    {
+      "character_id": "perez",
+      "position": 0,
+      "caption": "आपल्या जुळ्या भावाला, जेरहला मागे टाकून जन्मला"
+    },
+    {
+      "character_id": "perez",
+      "position": 1,
+      "caption": "दावीदापर्यंतच्या वंशावळीचे मूळ"
+    },
+    {
+      "character_id": "perez",
+      "position": 2,
+      "caption": "येशूच्या वंशावळीत नामोल्लेख"
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "position": 0,
+      "caption": "आपले प्रकरण मोशेसमोर आणतात: \"आमच्या वडिलांचे नाव का नाहीसे व्हावे?\""
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "position": 1,
+      "caption": "देव: \"सलाफहादच्या मुली योग्य बोलत आहेत\""
+    },
+    {
+      "character_id": "daughters-of-zelophehad",
+      "position": 2,
+      "caption": "अभिवचनाप्रमाणे आपला वारसा प्राप्त करतात"
+    },
+    {
+      "character_id": "jabez",
+      "position": 0,
+      "caption": "\"आपल्या भावांपेक्षा अधिक सन्माननीय\""
+    },
+    {
+      "character_id": "jabez",
+      "position": 1,
+      "caption": "त्याची प्रार्थना, आणि देवाचे उत्तर: \"देवाने त्याने मागितलेले दिले\""
+    },
+    {
+      "character_id": "keturah",
+      "position": 0,
+      "caption": "अब्राहाम तिला पत्नी म्हणून घेतो"
+    },
+    {
+      "character_id": "keturah",
+      "position": 1,
+      "caption": "त्याला सहा पुत्र देते"
+    },
+    {
+      "character_id": "keturah",
+      "position": 2,
+      "caption": "त्यांच्या मुलांना भेटवस्तूंसह इसहाकापासून दूर, पूर्वेकडे पाठवले"
+    },
+    {
+      "character_id": "jethro",
+      "position": 0,
+      "caption": "मोशेला आपली मुलगी सिप्पोरा लग्नात देतो"
+    },
+    {
+      "character_id": "jethro",
+      "position": 1,
+      "caption": "इस्राएलसाठी त्याने केलेले सर्व ऐकल्यावर परमेश्वराची स्तुती करतो"
+    },
+    {
+      "character_id": "jethro",
+      "position": 2,
+      "caption": "मोशेला इशारा देतो: \"तू जे करत आहेस ते चांगले नाही\""
+    },
+    {
+      "character_id": "jethro",
+      "position": 3,
+      "caption": "भार वाटून घेण्यासाठी सक्षम पुरुषांची नियुक्ती करण्याचा मोशेला सल्ला देतो"
+    },
+    {
+      "character_id": "zipporah",
+      "position": 0,
+      "caption": "मोशेला लग्नात दिली; त्याला एक पुत्र देते"
+    },
+    {
+      "character_id": "zipporah",
+      "position": 1,
+      "caption": "आपल्या मुलाची सुंता करून मोशेचा जीव वाचवते"
+    },
+    {
+      "character_id": "zipporah",
+      "position": 2,
+      "caption": "तिचे वडील यथ्रो यांनी मोशेकडे परत आणली"
+    },
+    {
+      "character_id": "bezalel",
+      "position": 0,
+      "caption": "नावाने बोलावला, देवाच्या आत्म्याने भरलेला"
+    },
+    {
+      "character_id": "bezalel",
+      "position": 1,
+      "caption": "\"कलात्मक रचना करण्याचे\" कौशल्य दिलेले"
+    },
+    {
+      "character_id": "bezalel",
+      "position": 2,
+      "caption": "मोशे लोकांना त्याच्या बोलावण्याची घोषणा करतो"
+    },
+    {
+      "character_id": "bezalel",
+      "position": 3,
+      "caption": "कराराचा कोश बांधतो"
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "position": 0,
+      "caption": "परमेश्वरासमोर \"अनधिकृत अग्नी\" अर्पण करतात"
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "position": 1,
+      "caption": "परमेश्वराच्या उपस्थितीतून आलेल्या अग्नीने भस्म झाले"
+    },
+    {
+      "character_id": "nadab-and-abihu",
+      "position": 2,
+      "caption": "कोणतेही पुत्र न ठेवता, वडिलांच्या आधी मरण पावले"
+    },
+    {
+      "character_id": "eleazar",
+      "position": 0,
+      "caption": "अहरोन मरताना याजकीय वस्त्रे परिधान केला गेला"
+    },
+    {
+      "character_id": "eleazar",
+      "position": 1,
+      "caption": "इस्राएलच्या वतीने निर्णयांसाठी सल्ला घेतला जातो"
+    },
+    {
+      "character_id": "eleazar",
+      "position": 2,
+      "caption": "कनान देश वंशांमध्ये वाटण्यास मदत करतो"
+    },
+    {
+      "character_id": "ithamar",
+      "position": 0,
+      "caption": "निवासमंडपाच्या साहित्याच्या हिशोबावर देखरेख करतो"
+    },
+    {
+      "character_id": "ithamar",
+      "position": 1,
+      "caption": "गेर्षोनी लोकांच्या सेवेचा कारभार दिला"
+    },
+    {
+      "character_id": "ithamar",
+      "position": 2,
+      "caption": "त्याच्यानंतर त्याचा याजकी वंश चालू राहतो"
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "position": 0,
+      "caption": "बआल-पौरमधील मरी थांबवण्यासाठी निर्णायकपणे कृती करतो"
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "position": 1,
+      "caption": "देव त्याला \"शांतीचा करार,\" एक चिरंतन याजकपद देतो"
+    },
+    {
+      "character_id": "phinehas-son-of-eleazar",
+      "position": 2,
+      "caption": "वंशांमधील वाद मिटवण्यासाठी पाठवला गेला"
+    },
+    {
+      "character_id": "balaam",
+      "position": 0,
+      "caption": "त्याची गाढवी बोलते, त्याला दटावते"
+    },
+    {
+      "character_id": "balaam",
+      "position": 1,
+      "caption": "त्याचे स्वतःचे डोळे अखेर देवदूताला पाहण्यासाठी उघडले"
+    },
+    {
+      "character_id": "balaam",
+      "position": 2,
+      "caption": "\"ज्याला देवाने शाप दिला नाही त्याला मी कसा शाप देऊ?\""
+    },
+    {
+      "character_id": "balaam",
+      "position": 3,
+      "caption": "भविष्यवाणी करतो \"याकोबातून एक तारा उगवेल\""
+    },
+    {
+      "character_id": "balaam",
+      "position": 4,
+      "caption": "संदेष्ट्याला भरकटवणाऱ्या लोभाचे उदाहरण म्हणून स्मरणात"
+    },
+    {
+      "character_id": "korah",
+      "position": 0,
+      "caption": "मोशे आणि अहरोनाला आव्हान देतो: \"तुम्ही खूप पुढे गेला आहात\""
+    },
+    {
+      "character_id": "korah",
+      "position": 1,
+      "caption": "जमीन उघडते आणि त्याला व त्याच्या घराण्याला गिळंकृत करते"
+    },
+    {
+      "character_id": "korah",
+      "position": 2,
+      "caption": "विशेष म्हणजे, त्याचे स्वतःचे पुत्र मरण पावले नाहीत"
+    },
+    {
+      "character_id": "korah",
+      "position": 3,
+      "caption": "इशारा म्हणून स्मरणात: \"कोरहाच्या बंडात नाश पावले\""
+    },
+    {
+      "character_id": "achan",
+      "position": 0,
+      "caption": "त्याच्या चोरीने \"इस्राएलच्या मुलांवर\" संकट आणले"
+    },
+    {
+      "character_id": "achan",
+      "position": 1,
+      "caption": "कबूल करतो: \"मी त्यांचा लोभ धरला आणि घेतले\""
+    },
+    {
+      "character_id": "achan",
+      "position": 2,
+      "caption": "इस्राएलला संकटात टाकल्याबद्दल न्याय झाला"
+    },
+    {
+      "character_id": "othniel",
+      "position": 0,
+      "caption": "एक नगर जिंकून कालेबची मुलगी अखसा हिला जिंकतो"
+    },
+    {
+      "character_id": "othniel",
+      "position": 1,
+      "caption": "इस्राएलला सोडवण्यासाठी परमेश्वराने उभा केलेला"
+    },
+    {
+      "character_id": "othniel",
+      "position": 2,
+      "caption": "\"परमेश्वराचा आत्मा त्याच्यावर आला\""
+    },
+    {
+      "character_id": "othniel",
+      "position": 3,
+      "caption": "देशाला चाळीस वर्षे विसावा मिळाला"
+    },
+    {
+      "character_id": "ehud",
+      "position": 0,
+      "caption": "स्वतःसाठी एक लपवलेली, दुधारी तलवार बनवतो"
+    },
+    {
+      "character_id": "ehud",
+      "position": 1,
+      "caption": "एग्लोनला त्याच्याच खोलीत ठार करतो"
+    },
+    {
+      "character_id": "ehud",
+      "position": 2,
+      "caption": "देशाला ऐंशी वर्षे विसावा मिळाला"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 0,
+      "caption": "आपल्या भावांनी हाकलून दिलेला, बहिष्कृतांसोबत सामील होतो"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 1,
+      "caption": "युद्धात जाण्यापूर्वी नवस करतो"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 2,
+      "caption": "त्याची स्वतःची मुलगी त्याला भेटायला बाहेर येते"
+    },
+    {
+      "character_id": "jephthah",
+      "position": 3,
+      "caption": "विश्वासाच्या वीरांमध्ये नामोल्लेख"
+    },
+    {
+      "character_id": "hur",
+      "position": 0,
+      "caption": "मोशे आणि अहरोनासोबत टेकडीवर चढतो"
+    },
+    {
+      "character_id": "hur",
+      "position": 1,
+      "caption": "सूर्यास्तापर्यंत मोशेचा एक हात धरून ठेवतो"
+    },
+    {
+      "character_id": "hur",
+      "position": 2,
+      "caption": "अहरोनासोबत लोकांचा कारभार सोपवला"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 0,
+      "caption": "\"परमेश्वर कोण आहे, की मी त्याचे ऐकावे?\""
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 1,
+      "caption": "थोडक्यात कबूल करतो: \"यावेळी मी पाप केले आहे\""
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 2,
+      "caption": "दहाव्या संकटानंतर, अखेर इस्राएलला जाऊ देतो"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 3,
+      "caption": "आपल्या सैन्यासह इस्राएलचा पाठलाग करतो"
+    },
+    {
+      "character_id": "pharaoh-of-the-exodus",
+      "position": 4,
+      "caption": "परत आलेल्या समुद्रात त्याचे सैन्य नष्ट होते"
+    },
+    {
+      "character_id": "eli",
+      "position": 0,
+      "caption": "परमेश्वराला समर्पित तरुण शमुवेलला स्वीकारतो"
+    },
+    {
+      "character_id": "eli",
+      "position": 1,
+      "caption": "रात्री शमुवेलला बोलावणारा देव आहे हे ओळखतो"
+    },
+    {
+      "character_id": "eli",
+      "position": 2,
+      "caption": "देवापेक्षा आपल्या मुलांचा सन्मान केल्याबद्दल दटावला गेला"
+    },
+    {
+      "character_id": "eli",
+      "position": 3,
+      "caption": "कोश पकडला गेल्याचे ऐकून मरण पावतो"
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 0,
+      "caption": "\"नालायक माणसे; ते परमेश्वराला ओळखत नव्हते\""
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 1,
+      "caption": "परमेश्वराच्या अर्पणाशी तुच्छतेने वागले"
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 2,
+      "caption": "दोघेही एकाच दिवशी मरतील असे सांगितले गेले"
+    },
+    {
+      "character_id": "hophni-and-phinehas",
+      "position": 3,
+      "caption": "एकाच लढाईत दोघेही मारले गेले, कोश पकडला गेला"
+    },
+    {
+      "character_id": "elkanah",
+      "position": 0,
+      "caption": "हन्नेला दुप्पट वाटा देतो, जरी ती निपुत्रिक आहे"
+    },
+    {
+      "character_id": "elkanah",
+      "position": 1,
+      "caption": "\"मी तुझ्यासाठी दहा मुलांपेक्षा अधिक नाही का?\""
+    },
+    {
+      "character_id": "elkanah",
+      "position": 2,
+      "caption": "आपल्या मुलाला परमेश्वराला समर्पित करण्याच्या हन्नेच्या नवसाला पाठिंबा देतो"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 0,
+      "caption": "एलकानाची दुसरी पत्नी, जिला मुले होती"
+    },
+    {
+      "character_id": "peninnah",
+      "position": 1,
+      "caption": "हन्नेला त्रस्त करण्यासाठी तिला कठोरपणे डिवचते"
+    },
+    {
+      "character_id": "abigail",
+      "position": 0,
+      "caption": "बुद्धिमान आणि सुंदर असे वर्णिलेली, एका कठोर माणसाशी विवाहित"
+    },
+    {
+      "character_id": "abigail",
+      "position": 1,
+      "caption": "दावीदाच्या पायाशी पडते, दोष स्वतःवर घेते"
+    },
+    {
+      "character_id": "abigail",
+      "position": 2,
+      "caption": "दावीद: \"धन्य आहे तुझी सुज्ञता\""
+    },
+    {
+      "character_id": "abigail",
+      "position": 3,
+      "caption": "दावीदाची पत्नी बनते"
+    },
+    {
+      "character_id": "michal",
+      "position": 0,
+      "caption": "दावीदावर प्रेम करते; त्याला लग्नात दिली गेली"
+    },
+    {
+      "character_id": "michal",
+      "position": 1,
+      "caption": "दावीदाला खिडकीतून पळून जाण्यास मदत करते"
+    },
+    {
+      "character_id": "michal",
+      "position": 2,
+      "caption": "परमेश्वरासमोर नाचल्याबद्दल मनातल्या मनात दावीदाला तुच्छ मानते"
+    },
+    {
+      "character_id": "michal",
+      "position": 3,
+      "caption": "तिच्या मृत्यूच्या दिवसापर्यंत तिला मूल होत नाही"
+    },
+    {
+      "character_id": "joab",
+      "position": 0,
+      "caption": "आपल्या भावाच्या मृत्यूचा सूड घेण्यासाठी अब्नेरला ठार करतो"
+    },
+    {
+      "character_id": "joab",
+      "position": 1,
+      "caption": "उरीयाविरुद्धचा दावीदाचा आदेश पार पाडतो"
+    },
+    {
+      "character_id": "joab",
+      "position": 2,
+      "caption": "अबशालोमच्या यरुशलेमला परतण्याची व्यवस्था करतो"
+    },
+    {
+      "character_id": "joab",
+      "position": 3,
+      "caption": "दावीदाच्या स्पष्ट आदेशाविरुद्ध अबशालोमला ठार करतो"
+    },
+    {
+      "character_id": "abner",
+      "position": 0,
+      "caption": "शौलाच्या सैन्याचा सेनापती"
+    },
+    {
+      "character_id": "abner",
+      "position": 1,
+      "caption": "शौलाचा मुलगा ईश्बोशेथ याला इस्राएलचा राजा बनवतो"
+    },
+    {
+      "character_id": "abner",
+      "position": 2,
+      "caption": "दावीदाबरोबर शांतता करण्याकडे वळतो"
+    },
+    {
+      "character_id": "abner",
+      "position": 3,
+      "caption": "सूडाच्या भावनेने यवाबाकडून हत्या"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 0,
+      "caption": "सैन्य रणांगणात असताना घरी जाण्यास नकार देतो"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 1,
+      "caption": "दावीदाचे पत्र त्याला जिथे तो मरेल तिथे ठेवण्याचा आदेश देते"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 2,
+      "caption": "ठरवल्याप्रमाणे लढाईत मारला गेला"
+    },
+    {
+      "character_id": "uriah-the-hittite",
+      "position": 3,
+      "caption": "दावीदाच्या शूरवीरांमध्ये नामोल्लेख"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 0,
+      "caption": "लहानपणी दोन्ही पायांनी अपंग, शौलाच्या मृत्यूची बातमी ऐकून पळताना"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 1,
+      "caption": "शौलाच्या घराण्यातील कोणी उरले आहे का ज्याच्यावर दया दाखवता येईल हे दावीद विचारतो"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 2,
+      "caption": "दावीद त्याच्या आजोबांची जमीन परत करतो, त्याला राजाच्या मेजावर आमंत्रित करतो"
+    },
+    {
+      "character_id": "mephibosheth",
+      "position": 3,
+      "caption": "दोन्ही पायांनी पांगळा असूनही नेहमी राजाच्या मेजावर जेवतो"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 0,
+      "caption": "दावीदाविरुद्ध अबशालोमच्या कटात सामील होतो"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 1,
+      "caption": "त्याचा सल्ला देवाच्या वचनासारखा मानला जातो"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 2,
+      "caption": "त्याचा चांगला सल्ला हूशयच्या बाजूने नाकारला गेला"
+    },
+    {
+      "character_id": "ahithophel",
+      "position": 3,
+      "caption": "त्याचा सल्ला धिक्कारला गेल्यावर स्वतःचा जीव घेतो"
+    },
+    {
+      "character_id": "hushai",
+      "position": 0,
+      "caption": "अहीथोफेलच्या सल्ल्याला निष्फळ करण्यासाठी यरुशलेमला परत पाठवला"
+    },
+    {
+      "character_id": "hushai",
+      "position": 1,
+      "caption": "काळजीपूर्वक शब्दांनी अबशालोमचा विश्वास जिंकतो"
+    },
+    {
+      "character_id": "hushai",
+      "position": 2,
+      "caption": "अहीथोफेलच्या सल्ल्याविरुद्ध युक्तिवाद करतो"
+    },
+    {
+      "character_id": "hushai",
+      "position": 3,
+      "caption": "परमेश्वराने अहीथोफेलचा चांगला सल्ला निष्फळ करण्याचे ठरवले होते"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 0,
+      "caption": "उपस्थित, परमेश्वरासमोर थांबवलेला, जेव्हा दावीद अहीमलेखकडे येतो"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 1,
+      "caption": "शौलाला जे पाहिले ते सांगतो"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 2,
+      "caption": "शौलाच्या रक्षकांनी नकार दिल्यावर पंच्याऐंशी याजकांना ठार करतो"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 3,
+      "caption": "संपूर्ण याजकी नगर नोबला तलवारीने नष्ट करतो"
+    },
+    {
+      "character_id": "doeg-the-edomite",
+      "position": 4,
+      "caption": "स्तोत्र ५२ चे शीर्षक त्याचे नाव दावीदाच्या स्तोत्राचे निमित्त म्हणून घेते"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 0,
+      "caption": "दावीदाला पवित्र भाकर देतो"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 1,
+      "caption": "दावीदाला गल्याथची तलवार देतो"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 2,
+      "caption": "स्वतःचा बचाव करतो: त्याला कोणत्याही कटाबद्दल काहीही माहीत नव्हते"
+    },
+    {
+      "character_id": "ahimelech-the-priest",
+      "position": 3,
+      "caption": "तरीही आपल्या संपूर्ण घराण्यासह मृत्युदंडाची शिक्षा"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 0,
+      "caption": "दावीदाकडे पळून जातो, आपल्या वडिलांच्या घराण्यातील जिवंत राहिलेला एकमेव"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 1,
+      "caption": "लपून बसलेल्या दावीदाकडे याजकी एफोद आणतो"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 2,
+      "caption": "शलमोनऐवजी अदोनीयाची बाजू घेतो"
+    },
+    {
+      "character_id": "abiathar",
+      "position": 3,
+      "caption": "शलमोनकडून याजकपदावरून काढून टाकला"
+    },
+    {
+      "character_id": "zadok",
+      "position": 0,
+      "caption": "दावीदासोबत कोश घेऊन जातो, अबशालोमपासून पळताना"
+    },
+    {
+      "character_id": "zadok",
+      "position": 1,
+      "caption": "दावीदाच्या सूचनेनुसार कोशासह यरुशलेमला परत पाठवला"
+    },
+    {
+      "character_id": "zadok",
+      "position": 2,
+      "caption": "शलमोनला राजा म्हणून अभिषेक करतो"
+    },
+    {
+      "character_id": "zadok",
+      "position": 3,
+      "caption": "त्याचे वंशज विश्वासू राहिलेले याजक म्हणून नामोल्लेखित"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 0,
+      "caption": "शौलाची उपपत्नी म्हणून नामोल्लेख"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 1,
+      "caption": "दिवसरात्र आपल्या मुलांच्या मृतदेहांची राखण करते, कशालाही त्यांना स्पर्श करू देत नाही"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 2,
+      "caption": "तिने काय केले आहे हे दावीद ऐकतो"
+    },
+    {
+      "character_id": "rizpah",
+      "position": 3,
+      "caption": "अखेर हाडांचे योग्य दफन करण्यास प्रवृत्त झाला"
+    },
+    {
+      "character_id": "amnon",
+      "position": 0,
+      "caption": "त्रस्त, तामारने वेडावलेला"
+    },
+    {
+      "character_id": "amnon",
+      "position": 1,
+      "caption": "तिच्या विनवणीनंतरही तिच्यावर अत्याचार करतो"
+    },
+    {
+      "character_id": "amnon",
+      "position": 2,
+      "caption": "नंतर तिच्याबद्दलचा त्याचा तिरस्कार आधीच्या इच्छेपेक्षा मोठा"
+    },
+    {
+      "character_id": "amnon",
+      "position": 3,
+      "caption": "दोन वर्षांनंतर सूडाने अबशालोमच्या माणसांकडून ठार"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 0,
+      "caption": "सुंदर असे वर्णिलेली; अम्नोनची बहीण"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 1,
+      "caption": "अम्नोनला ही \"भयंकर मूर्खता\" न करण्याची विनवणी करते"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 2,
+      "caption": "आपले वस्त्र फाडते, डोक्यावर राख टाकते, मोठ्याने रडते"
+    },
+    {
+      "character_id": "tamar-daughter-of-david",
+      "position": 3,
+      "caption": "आपल्या भाऊ अबशालोमच्या घरात उदास जीवन जगते"
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 0,
+      "caption": "वडीलधाऱ्यांचा सल्ला नाकारून त्याऐवजी आपल्या मित्रांचा सल्ला घेतो"
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 1,
+      "caption": "\"माझ्या वडिलांनी तुम्हाला चाबकांनी शिक्षा केली, पण मी तुम्हाला विंचवांनी शिक्षा करीन\""
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 2,
+      "caption": "इस्राएलचा प्रतिसाद: \"हे इस्राएला, आपापल्या तंबूकडे जा!\""
+    },
+    {
+      "character_id": "rehoboam",
+      "position": 3,
+      "caption": "इस्राएल \"आजपर्यंत\" दावीदाच्या घराण्याविरुद्ध बंड करत आहे"
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 0,
+      "caption": "लोक आपली निष्ठा यरुशलेमकडे परत नेतील अशी भीती वाटते"
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 1,
+      "caption": "दोन सोन्याची वासरे बनवतो: \"हे इस्राएला, हे तुझे देव पाहा\""
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 2,
+      "caption": "संदेष्ट्याच्या इशाऱ्यानंतरही आपल्या दुष्ट मार्गावर चालत राहतो"
+    },
+    {
+      "character_id": "jeroboam",
+      "position": 3,
+      "caption": "इस्राएलचे नंतरचे पतन \"यराबामाच्या पापांना\" दिले जाते"
+    },
+    {
+      "character_id": "asa",
+      "position": 0,
+      "caption": "\"परमेश्वराच्या दृष्टीने जे योग्य ते केले\""
+    },
+    {
+      "character_id": "asa",
+      "position": 1,
+      "caption": "लढाईपूर्वी प्रार्थना करतो: \"आम्ही तुझ्यावर विसंबून आहोत\""
+    },
+    {
+      "character_id": "asa",
+      "position": 2,
+      "caption": "संपूर्ण देशात मूर्ती काढून टाकतो"
+    },
+    {
+      "character_id": "asa",
+      "position": 3,
+      "caption": "आपल्या आजारपणात, \"परमेश्वराचा नाही तर वैद्यांचा शोध घेतला\""
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 0,
+      "caption": "संपूर्ण यहूदात नियमशास्त्र शिकवण्यासाठी अधिकारी पाठवतो"
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 1,
+      "caption": "\"आम्हाला काय करावे ते कळत नाही, पण आमचे डोळे तुझ्याकडे लागले आहेत\""
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 2,
+      "caption": "\"ही लढाई तुमची नाही, तर देवाची आहे\""
+    },
+    {
+      "character_id": "jehoshaphat",
+      "position": 3,
+      "caption": "यहूदाला लढावेही लागण्याआधी शत्रू नष्ट होतो"
+    },
+    {
+      "character_id": "josiah",
+      "position": 0,
+      "caption": "मंदिराच्या दुरुस्तीदरम्यान नियमशास्त्राचे पुस्तक सापडते"
+    },
+    {
+      "character_id": "josiah",
+      "position": 1,
+      "caption": "ते वाचले जाताना ऐकून आपली वस्त्रे फाडतो"
+    },
+    {
+      "character_id": "josiah",
+      "position": 2,
+      "caption": "सर्व लोकांसमोर कराराचे नूतनीकरण करतो"
+    },
+    {
+      "character_id": "josiah",
+      "position": 3,
+      "caption": "\"त्याच्यासारखा कोणी राजा नव्हता... जो आपल्या पूर्ण अंतःकरणाने परमेश्वराकडे वळला\""
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 0,
+      "caption": "\"त्याने परमेश्वरावर भरवसा ठेवला... सर्व राजांमध्ये त्याच्यासारखा कोणी नव्हता\""
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 1,
+      "caption": "परमेश्वरासमोर सन्हेरीबचे धमकीचे पत्र पसरतो"
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 2,
+      "caption": "तो मरणार आहे असे सांगितल्यावर रडतो आणि प्रार्थना करतो"
+    },
+    {
+      "character_id": "hezekiah",
+      "position": 3,
+      "caption": "आणखी पंधरा वर्षे आयुष्य दिले गेले"
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 0,
+      "caption": "\"परमेश्वराच्या दृष्टीने जे वाईट ते केले\""
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 1,
+      "caption": "यरुशलेमला निष्पाप रक्ताने भरतो"
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 2,
+      "caption": "आपल्या पूर्वजांच्या देवासमोर स्वतःला अत्यंत नमवतो"
+    },
+    {
+      "character_id": "manasseh-king",
+      "position": 3,
+      "caption": "देव त्याची विनवणी मान्य करतो आणि त्याची प्रार्थना ऐकतो"
+    },
+    {
+      "character_id": "uzziah",
+      "position": 0,
+      "caption": "\"जोपर्यंत तो परमेश्वराचा शोध घेत राहिला, देवाने त्याला समृद्ध केले\""
+    },
+    {
+      "character_id": "uzziah",
+      "position": 1,
+      "caption": "\"जेव्हा तो बलवान झाला, तेव्हा त्याचे मन गर्विष्ठ झाले... स्वतःच्या नाशासाठी\""
+    },
+    {
+      "character_id": "uzziah",
+      "position": 2,
+      "caption": "याजक त्याचा सामना करतात: धूप जाळणे त्याचे काम नाही"
+    },
+    {
+      "character_id": "uzziah",
+      "position": 3,
+      "caption": "तात्काळ कुष्ठरोगाने ग्रासला, आपल्या उर्वरित आयुष्यभर"
+    },
+    {
+      "character_id": "jehu",
+      "position": 0,
+      "caption": "राजा म्हणून अभिषिक्त, अहाबचे घराणे नष्ट करण्याचा आदेश दिला गेला"
+    },
+    {
+      "character_id": "jehu",
+      "position": 1,
+      "caption": "त्याच्या आदेशाने ईझबेलला तिच्या खिडकीतून फेकले"
+    },
+    {
+      "character_id": "jehu",
+      "position": 2,
+      "caption": "\"ये, परमेश्वरासाठीचा माझा आवेश पाहा\""
+    },
+    {
+      "character_id": "jehu",
+      "position": 3,
+      "caption": "तरीही यराबामाच्या पापांपासून वळला नाही"
+    },
+    {
+      "character_id": "naaman",
+      "position": 0,
+      "caption": "एक महान माणूस, पण कुष्ठरोगी"
+    },
+    {
+      "character_id": "naaman",
+      "position": 1,
+      "caption": "अलीशाच्या सूचना खूप सोप्या वाटल्या म्हणून संतापलेला"
+    },
+    {
+      "character_id": "naaman",
+      "position": 2,
+      "caption": "यार्देनमध्ये सात वेळा स्नान करतो, आणि बरा होतो"
+    },
+    {
+      "character_id": "naaman",
+      "position": 3,
+      "caption": "\"आता मला कळले की इस्राएलशिवाय सर्व पृथ्वीवर कोणीही देव नाही\""
+    },
+    {
+      "character_id": "gehazi",
+      "position": 0,
+      "caption": "भेटवस्तूसाठी नामानच्या मागे धावण्याचा निर्णय घेतो"
+    },
+    {
+      "character_id": "gehazi",
+      "position": 1,
+      "caption": "तो का आला याबद्दल खोटे बोलतो"
+    },
+    {
+      "character_id": "gehazi",
+      "position": 2,
+      "caption": "तो कुठे होता याबद्दल पुन्हा अलीशाशी खोटे बोलतो"
+    },
+    {
+      "character_id": "gehazi",
+      "position": 3,
+      "caption": "नामानचा कुष्ठरोग त्याला आणि त्याच्या वंशजांना कायमचा चिकटतो"
+    },
+    {
+      "character_id": "micaiah",
+      "position": 0,
+      "caption": "अहाब: \"मी त्याचा द्वेष करतो, कारण तो माझ्याबद्दल कधीच चांगले भविष्य सांगत नाही\""
+    },
+    {
+      "character_id": "micaiah",
+      "position": 1,
+      "caption": "\"परमेश्वराच्या जीविताची शपथ, परमेश्वर मला जे सांगेल तेच मी बोलेन\""
+    },
+    {
+      "character_id": "micaiah",
+      "position": 2,
+      "caption": "इस्राएल विखुरलेला, त्याचा राजा मृत असल्याचे भाकीत करतो"
+    },
+    {
+      "character_id": "micaiah",
+      "position": 3,
+      "caption": "आपल्या प्रामाणिकपणासाठी अहाबच्या आदेशाने तुरुंगात"
+    },
+    {
+      "character_id": "obadiah-steward",
+      "position": 0,
+      "caption": "अहाबच्या राजवाड्याचा कारभारी, जो \"परमेश्वराचे फार भय बाळगत असे\""
+    },
+    {
+      "character_id": "obadiah-steward",
+      "position": 1,
+      "caption": "शंभर संदेष्ट्यांना गुहांमध्ये लपवतो, त्यांना अन्न पुरवतो"
+    },
+    {
+      "character_id": "obadiah-steward",
+      "position": 2,
+      "caption": "एलीयाचा संदेश आपला जीव घेईल अशी भीती"
+    },
+    {
+      "character_id": "obadiah-steward",
+      "position": 3,
+      "caption": "तरीही अहाबला एलीयाचा संदेश पोहोचवतो"
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "position": 0,
+      "caption": "शलमोनाची कठीण प्रश्नांनी परीक्षा घेण्यासाठी येते"
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "position": 1,
+      "caption": "शलमोन सर्व काही समजावतो; त्याच्यासाठी काहीही खूप कठीण नाही"
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "position": 2,
+      "caption": "\"मला अर्धेही सांगितले गेले नव्हते\""
+    },
+    {
+      "character_id": "queen-of-sheba",
+      "position": 3,
+      "caption": "येशू तिचा उल्लेख बुद्धीच्या शोधाचे उदाहरण म्हणून करतो"
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "position": 0,
+      "caption": "\"माझ्याजवळ काहीही भाजलेले नाही, फक्त मूठभर पीठ\""
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "position": 1,
+      "caption": "प्रथम एलीयाला जेवायला घालते; पीठ आणि तेल संपत नाही"
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "position": 2,
+      "caption": "तिचा मुलगा मरतो; ती आपल्या दुःखात एलीयाला सामोरे जाते"
+    },
+    {
+      "character_id": "widow-of-zarephath",
+      "position": 3,
+      "caption": "तिच्या मुलाला जीवनात परत आणले जाते"
+    },
+    {
+      "character_id": "shunammite-woman",
+      "position": 0,
+      "caption": "अलीशा जेव्हा जेव्हा जातो तेव्हा त्याच्यासाठी एक खोली सज्ज करते"
+    },
+    {
+      "character_id": "shunammite-woman",
+      "position": 1,
+      "caption": "तिला मुलाचे अभिवचन दिले जाते, जरी तिला ते अशक्य वाटले"
+    },
+    {
+      "character_id": "shunammite-woman",
+      "position": 2,
+      "caption": "तिचा मुलगा अचानक मरतो; ती त्याला अलीशाच्या बिछान्यावर ठेवते"
+    },
+    {
+      "character_id": "shunammite-woman",
+      "position": 3,
+      "caption": "तो मुलगा सात वेळा शिंकतो आणि डोळे उघडतो"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 0,
+      "caption": "याजक आणि शाही अधिकाऱ्यांनी सल्ला घेतला"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 1,
+      "caption": "पुस्तक ज्या न्यायाबद्दल इशारा देते त्याची पुष्टी करते"
+    },
+    {
+      "character_id": "huldah-the-prophetess",
+      "position": 2,
+      "caption": "योशीयाला अभिवचन देते की तो आपल्या हयातीत आपत्ती पाहणार नाही, कारण त्याचे मन नम्र होते"
+    },
+    {
+      "character_id": "baruch",
+      "position": 0,
+      "caption": "यिर्मयाचे सर्व शब्द त्याच्या ठरावानुसार लिहितो"
+    },
+    {
+      "character_id": "baruch",
+      "position": 1,
+      "caption": "राजा गुंडाळी स्तंभा-स्तंभाने कापतो आणि जाळतो"
+    },
+    {
+      "character_id": "baruch",
+      "position": 2,
+      "caption": "सर्व काही पुन्हा लिहितो, आणखी भर घालून"
+    },
+    {
+      "character_id": "baruch",
+      "position": 3,
+      "caption": "येणाऱ्या आपत्तीतून केवळ वाचण्यातच समाधान मानण्यास सांगितले"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 0,
+      "caption": "राजाला सांगतो की यिर्मयाला टाकीत उपाशी मरण्यासाठी सोडले आहे"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 1,
+      "caption": "यिर्मयाला बाहेर काढताना दोर त्याला कापू नयेत म्हणून जुने चिंध्या वापरतो"
+    },
+    {
+      "character_id": "ebed-melech",
+      "position": 2,
+      "caption": "अभिवचन दिले: \"मी खचित तुला वाचवीन... कारण तू माझ्यावर विश्वास ठेवला आहेस\""
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 0,
+      "caption": "देशात उरलेल्या लोकांवर राज्यपाल म्हणून नेमलेला"
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 1,
+      "caption": "\"खास्द्यांची सेवा करण्यास घाबरू नका... तुमचे भले होईल\""
+    },
+    {
+      "character_id": "gedaliah",
+      "position": 2,
+      "caption": "राजघराण्यातील इश्माएलकडून हत्या"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 0,
+      "caption": "नबुखद्नेस्सरद्वारे राजा म्हणून स्थापित"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 1,
+      "caption": "बाबेलच्या राजाविरुद्ध बंड करतो"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 2,
+      "caption": "त्याचे पुत्र त्याच्यासमोर मारले गेले; नंतर त्याचे डोळे फोडले गेले"
+    },
+    {
+      "character_id": "zedekiah",
+      "position": 3,
+      "caption": "आपली शपथ मोडल्याबद्दल दोषी ठरवला"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 0,
+      "caption": "अठरा वर्षांचा असताना राजा बनतो, तीन महिने राज्य करतो"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 1,
+      "caption": "बाबेलच्या राजासमोर शरणागती पत्करतो"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 2,
+      "caption": "दशकांनंतर तुरुंगातून सोडला, दयाळूपणे वागवला"
+    },
+    {
+      "character_id": "jehoiachin",
+      "position": 3,
+      "caption": "आपल्या उर्वरित आयुष्यभर नियमितपणे राजाच्या स्वतःच्या मेजावर जेवतो"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 0,
+      "caption": "यहुद्यांचा नवजात राजा कुठे आहे असे विचारतात"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 1,
+      "caption": "\"आम्ही पूर्वेला त्याचा तारा पाहिला, आणि त्याची उपासना करण्यास आलो आहोत\""
+    },
+    {
+      "character_id": "the-magi",
+      "position": 2,
+      "caption": "सोने, ऊद आणि गंधरस या भेटी अर्पण करतात"
+    },
+    {
+      "character_id": "the-magi",
+      "position": 3,
+      "caption": "स्वप्नात इशारा मिळाल्यावर दुसऱ्या मार्गाने घरी परततात"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 0,
+      "caption": "एक कैदी, बंड आणि खुनाचा दोषी"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 1,
+      "caption": "पिलात जमावाला त्याच्या आणि येशूमधील निवड देतो"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 2,
+      "caption": "जमाव बरब्बाला सोडण्याची मागणी करतो"
+    },
+    {
+      "character_id": "barabbas",
+      "position": 3,
+      "caption": "सोडला गेला, तर येशूला वधस्तंभावर खिळण्यासाठी सोपवले गेले"
+    },
+    {
+      "character_id": "malchus",
+      "position": 0,
+      "caption": "पेत्र तलवारीने त्याचा उजवा कान कापतो"
+    },
+    {
+      "character_id": "malchus",
+      "position": 1,
+      "caption": "येशू त्याच्या कानाला स्पर्श करतो आणि त्याला बरे करतो"
+    },
+    {
+      "character_id": "jairus",
+      "position": 0,
+      "caption": "येशूच्या पायाशी पडतो, त्याला येऊन आपल्या मुलीला बरे करण्याची विनवणी करतो"
+    },
+    {
+      "character_id": "jairus",
+      "position": 1,
+      "caption": "सांगितले गेले: \"तुझी मुलगी मरण पावली आहे; गुरुजींना आणखी त्रास का द्यायचा?\""
+    },
+    {
+      "character_id": "jairus",
+      "position": 2,
+      "caption": "येशू: \"भिऊ नकोस, फक्त विश्वास ठेव\""
+    },
+    {
+      "character_id": "jairus",
+      "position": 3,
+      "caption": "\"तलिथा कूमी\" -- ती मुलगी उठून चालू लागते"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 0,
+      "caption": "तो अनोळखी माणूस ही बातमी न ऐकलेला एकमेव आहे का असे विचारतो"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 1,
+      "caption": "\"आम्हाला आशा होती की तोच इस्राएलची सुटका करील\""
+    },
+    {
+      "character_id": "cleopas",
+      "position": 2,
+      "caption": "भाकर मोडताना येशूला ओळखतो"
+    },
+    {
+      "character_id": "cleopas",
+      "position": 3,
+      "caption": "\"वाटेत तो आपल्याशी बोलत असताना आपले अंतःकरण आतल्याआत जळत नव्हते का?\""
+    },
+    {
+      "character_id": "joanna",
+      "position": 0,
+      "caption": "आपल्याच साधनांतून येशूला पाठिंबा देणाऱ्या स्त्रियांपैकी"
+    },
+    {
+      "character_id": "joanna",
+      "position": 1,
+      "caption": "प्रेषितांना रिकाम्या कबरीबद्दल सांगणाऱ्या स्त्रियांपैकी एक"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 0,
+      "caption": "\"फक्त एक शब्द बोल, आणि माझा सेवक बरा होईल\""
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 1,
+      "caption": "अधिकार समजतो: तो जा म्हणतो, आणि कोणी जातो"
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 2,
+      "caption": "येशू \"आश्चर्यचकित\" झाला: \"मला असा विश्वास सापडला नाही\""
+    },
+    {
+      "character_id": "the-centurion-of-capernaum",
+      "position": 3,
+      "caption": "त्याच क्षणी त्याचा सेवक बरा होतो"
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 0,
+      "caption": "दुसऱ्या गुन्हेगाराला दटावतो: \"आम्ही तर न्यायानेच\""
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 1,
+      "caption": "\"येशू, तू तुझ्या राज्यात येशील तेव्हा माझी आठवण ठेव\""
+    },
+    {
+      "character_id": "the-penitent-thief",
+      "position": 2,
+      "caption": "\"आज तू माझ्याबरोबर नंदनवनात असशील\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 0,
+      "caption": "\"या सर्व गोष्टी मी माझ्या तारुण्यापासून पाळल्या आहेत\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 1,
+      "caption": "येशूने त्याच्याकडे पाहून त्याच्यावर प्रेम केले: \"जा, तुझे जे आहे ते विकून टाक\""
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 2,
+      "caption": "दुःखी होऊन निघून जातो, कारण त्याच्याकडे मोठी संपत्ती होती"
+    },
+    {
+      "character_id": "the-rich-young-man",
+      "position": 3,
+      "caption": "येशू: \"माणसांना हे अशक्य आहे, पण देवाला नाही\""
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 0,
+      "caption": "येशूसमोर आणलेली, जाहीरपणे आरोपित"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 1,
+      "caption": "\"तुमच्यापैकी जो निष्पाप असेल त्याने पहिला दगड मारावा\""
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 2,
+      "caption": "आरोप करणारे एकामागून एक निघून जातात, जोपर्यंत कोणीही उरत नाही"
+    },
+    {
+      "character_id": "the-woman-caught-in-adultery",
+      "position": 3,
+      "caption": "\"मीही तुला दोषी ठरवत नाही. जा, आणि यापुढे पाप करू नकोस\""
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "position": 0,
+      "caption": "त्याचे मित्र त्याला खाली उतरवण्यासाठी छप्पर खणतात"
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "position": 1,
+      "caption": "येशू, त्यांचा विश्वास पाहून: \"तुझी पापे क्षमा झाली आहेत\""
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "position": 2,
+      "caption": "काय म्हणणे सोपे आहे -- क्षमा झाली, की ऊठ आणि चाल?"
+    },
+    {
+      "character_id": "the-paralytic-lowered-through-the-roof",
+      "position": 3,
+      "caption": "उठतो, आपली बिछायत घेतो, आणि सर्वांसमोर बाहेर चालतो"
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "position": 0,
+      "caption": "बारा वर्षांचे दुःख, अनेक वैद्यांनंतर आणखी वाईट"
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "position": 1,
+      "caption": "\"जरी मी त्याच्या वस्त्रांना नुसते स्पर्श केले तरी मी बरी होईन\""
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "position": 2,
+      "caption": "तत्काळ रक्तस्राव थांबतो"
+    },
+    {
+      "character_id": "the-woman-with-the-hemorrhage",
+      "position": 3,
+      "caption": "\"मुली, तुझ्या विश्वासाने तुला बरे केले आहे; शांतीने जा\""
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "position": 0,
+      "caption": "आपल्या एकुलत्या एक पुत्राला दफनासाठी बाहेर नेत आहे, एक विधवा"
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "position": 1,
+      "caption": "येशूला \"तिची कणव आली\""
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "position": 2,
+      "caption": "\"तरुण मुला, मी तुला सांगतो, ऊठ\""
+    },
+    {
+      "character_id": "the-widow-of-nain",
+      "position": 3,
+      "caption": "येशू त्याला त्याच्या आईकडे परत देतो"
+    },
+    {
+      "character_id": "the-poor-widow",
+      "position": 0,
+      "caption": "दोन लहान तांब्याची नाणी टाकते"
+    },
+    {
+      "character_id": "the-poor-widow",
+      "position": 1,
+      "caption": "\"या गरीब विधवेने या सर्वांहून अधिक टाकले आहे\""
+    },
+    {
+      "character_id": "the-poor-widow",
+      "position": 2,
+      "caption": "\"तिने आपल्या गरिबीतून तिच्याकडे उपजीविकेसाठी असलेले सर्व काही टाकले\""
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "position": 0,
+      "caption": "येशूला आपल्या मुलीतून भूत काढून टाकण्याची विनवणी करते"
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "position": 1,
+      "caption": "येशूचे सुरुवातीचे उत्तर: \"आधी मुलांना पोटभर खाऊ द्या\""
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "position": 2,
+      "caption": "\"मेजाखालील कुत्रीसुद्धा मुलांचे तुकडे खातात\""
+    },
+    {
+      "character_id": "the-syrophoenician-woman",
+      "position": 3,
+      "caption": "\"या बोलण्यामुळे, जा\" -- भूत तिच्या मुलीला सोडून गेले आहे"
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "position": 0,
+      "caption": "एका पापी स्त्रीला त्याला स्पर्श करू दिल्याबद्दल मनातल्या मनात येशूला दोषी ठरवतो"
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "position": 1,
+      "caption": "\"तू माझ्या पायांसाठी पाणी दिले नाहीस\""
+    },
+    {
+      "character_id": "simon-the-pharisee",
+      "position": 2,
+      "caption": "\"ज्याला थोडे क्षमा केले जाते, तो थोडे प्रेम करतो\""
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "position": 0,
+      "caption": "चिखलाने माखलेला, शिलोहाच्या कुंडात धुण्यास सांगितले"
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "position": 1,
+      "caption": "\"एक गोष्ट मला माहीत आहे, की मी आंधळा होतो, आता मला दिसते\""
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "position": 2,
+      "caption": "\"जर हा माणूस देवाकडून नसता, तर काहीही करू शकला नसता\""
+    },
+    {
+      "character_id": "the-man-born-blind",
+      "position": 3,
+      "caption": "\"प्रभू, मी विश्वास ठेवतो,\" आणि त्याची उपासना करतो"
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "position": 0,
+      "caption": "दहा कुष्ठरोगी दुरून दयेसाठी हाक मारतात"
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "position": 1,
+      "caption": "\"जा आणि याजकांना स्वतःला दाखवा\" -- जाताजाता शुद्ध झाले"
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "position": 2,
+      "caption": "एकजण परत येतो, देवाची स्तुती करत, आणि येशूच्या पायाशी पडतो"
+    },
+    {
+      "character_id": "the-ten-lepers",
+      "position": 3,
+      "caption": "\"दहाही शुद्ध झाले नाहीत का? नऊ कुठे आहेत?\""
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 0,
+      "caption": "त्याच्या पायांशी रडते, त्यांना आपल्या केसांनी पुसते, त्यांना अभिषेक करते"
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 1,
+      "caption": "तिच्या यजमानाच्या मूलभूत आदरातिथ्याच्या अभावाशी विरोधाभास"
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 2,
+      "caption": "\"तिची पापे, जी पुष्कळ आहेत, क्षमा झाली आहेत, कारण तिने खूप प्रेम केले\""
+    },
+    {
+      "character_id": "the-sinful-woman-who-anointed-jesus",
+      "position": 3,
+      "caption": "\"तुझ्या विश्वासाने तुला वाचवले आहे. शांतीने जा\""
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 0,
+      "caption": "येशूला आपल्या पुत्रांना त्याच्या उजव्या आणि डाव्या हाताला बसवण्याची विनंती करते"
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 1,
+      "caption": "येशू: \"तुम्ही काय मागत आहात हे तुम्हाला माहीत नाही\""
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 2,
+      "caption": "वधस्तंभावर उपस्थित, दुरून पाहत"
+    },
+    {
+      "character_id": "salome-mother-of-zebedees-sons",
+      "position": 3,
+      "caption": "ईस्टरच्या सकाळी सुगंधी द्रव्यांसह कबरीकडे येते"
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "position": 0,
+      "caption": "वधस्तंभावर उपस्थित, दुरून पाहत"
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "position": 1,
+      "caption": "सुगंधी द्रव्यांसह कबरीकडे येते"
+    },
+    {
+      "character_id": "mary-mother-of-james",
+      "position": 2,
+      "caption": "अकरा प्रेषितांना रिकाम्या कबरीबद्दल सांगते"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 0,
+      "caption": "कबरींमध्ये राहत होता; कोणतीही साखळी त्याला बांधू शकत नव्हती"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 1,
+      "caption": "\"माझे नाव सैन्य आहे, कारण आम्ही पुष्कळ आहोत\""
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 2,
+      "caption": "\"बसलेला, कपडे घातलेला, आणि शुद्धीत\" सापडला"
+    },
+    {
+      "character_id": "the-gerasene-demoniac",
+      "position": 3,
+      "caption": "त्याऐवजी घरी पाठवला: \"प्रभूने तुझ्यासाठी किती मोठ्या गोष्टी केल्या आहेत ते त्यांना सांग\""
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 0,
+      "caption": "प्रभूचे तेज त्यांच्याभोवती चमकते; ते घाबरून जातात"
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 1,
+      "caption": "\"मी तुम्हांला मोठ्या आनंदाची सुवार्ता सांगतो... एक तारणारा... ख्रिस्त प्रभू\""
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 2,
+      "caption": "\"चला, बेथलेहेमला जाऊया, आणि जे घडले आहे ते पाहूया\""
+    },
+    {
+      "character_id": "shepherds-of-bethlehem",
+      "position": 3,
+      "caption": "जे काही ऐकले आणि पाहिले त्याबद्दल देवाचे गौरव आणि स्तुती करत परततात"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 0,
+      "caption": "मालमत्ता विकतात, गुपचूप उत्पन्नाचा काही भाग राखून ठेवतात"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 1,
+      "caption": "पेत्र: \"सैतानाने तुझे मन असे का भरले की तू पवित्र आत्म्याशी खोटे बोलावेस?\""
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 2,
+      "caption": "हे ऐकून हनन्या खाली पडतो आणि मरतो"
+    },
+    {
+      "character_id": "ananias-and-sapphira",
+      "position": 3,
+      "caption": "सफीरा तेच खोटे पुन्हा सांगते, आणि त्याच प्रकारे मरते"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 0,
+      "caption": "आक्षेप घेतो: त्याने या माणसाच्या प्रतिष्ठेबद्दल ऐकले आहे"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 1,
+      "caption": "शौल हे देवाचे \"निवडलेले साधन\" आहे असे सांगितले जाते"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 2,
+      "caption": "शौलावर हात ठेवतो, त्याला \"बंधू\" म्हणतो"
+    },
+    {
+      "character_id": "ananias-of-damascus",
+      "position": 3,
+      "caption": "शौलाच्या डोळ्यांतून खवले पडतात; त्याचा बाप्तिस्मा होतो"
+    },
+    {
+      "character_id": "gamaliel",
+      "position": 0,
+      "caption": "एक शिक्षक, \"सर्व लोकांमध्ये आदरणीय\""
+    },
+    {
+      "character_id": "gamaliel",
+      "position": 1,
+      "caption": "\"जर ही योजना माणसांकडून असेल, तर ती नष्ट होईल; पण जर ती देवाकडून असेल, तर तुम्ही ती नष्ट करू शकणार नाही\""
+    },
+    {
+      "character_id": "gamaliel",
+      "position": 2,
+      "caption": "पौल नंतर त्याचे नाव \"गमलीएलच्या पायाशी\" शिक्षक म्हणून घेतो"
+    },
+    {
+      "character_id": "agabus",
+      "position": 0,
+      "caption": "एका मोठ्या दुष्काळाचे भाकीत करतो, जो क्लौद्याच्या काळात घडला"
+    },
+    {
+      "character_id": "agabus",
+      "position": 1,
+      "caption": "चिन्ह म्हणून पौलाच्या कमरबंदाने स्वतःचे हात-पाय बांधतो"
+    },
+    {
+      "character_id": "agabus",
+      "position": 2,
+      "caption": "\"अशाच प्रकारे यहुदी... या कमरबंदाचा मालक असलेल्या माणसाला बांधतील\""
+    },
+    {
+      "character_id": "agabus",
+      "position": 3,
+      "caption": "पौल, निधड्या छातीने: \"मी तयार आहे... यरुशलेममध्ये मरण्यासही\""
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 0,
+      "caption": "बराच काळ आपल्या जादूने शोमरोनाला चकित करतो"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 1,
+      "caption": "विश्वास ठेवतो, बाप्तिस्मा घेतो, फिलिप्पाच्या मागे जातो"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 2,
+      "caption": "पवित्र आत्मा देण्याची शक्ती विकत घेण्यासाठी पैसे देऊ करतो"
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 3,
+      "caption": "पेत्र: \"तुझी चांदी तुझ्यासोबत नष्ट होवो\""
+    },
+    {
+      "character_id": "simon-magus",
+      "position": 4,
+      "caption": "नमूद केलेल्या न्यायाला घाबरून पेत्राला आपल्यासाठी प्रार्थना करण्यास सांगतो"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 0,
+      "caption": "एक बुद्धिमान माणूस, देवाचे वचन ऐकू इच्छितो"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 1,
+      "caption": "जादूगार एलुमास त्याला विश्वासापासून वळवण्याचा प्रयत्न करतो"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 2,
+      "caption": "त्याच्या डोळ्यांसमोर एलुमासला आंधळे केले जाते"
+    },
+    {
+      "character_id": "sergius-paulus",
+      "position": 3,
+      "caption": "प्रभूबद्दलच्या शिकवणीने चकित होऊन विश्वास ठेवतो"
+    },
+    {
+      "character_id": "rhoda",
+      "position": 0,
+      "caption": "पेत्राचा आवाज ओळखते, पण आनंदाच्या भरात दार उघडायला विसरते"
+    },
+    {
+      "character_id": "rhoda",
+      "position": 1,
+      "caption": "इतर तिच्यावर विश्वास ठेवत नाहीत: \"तू वेडी आहेस\""
+    },
+    {
+      "character_id": "rhoda",
+      "position": 2,
+      "caption": "पेत्र ठोठावत राहतो जोपर्यंत ते स्वतः पाहत नाहीत"
+    },
+    {
+      "character_id": "eutychus",
+      "position": 0,
+      "caption": "झोपी जातो, तिसऱ्या मजल्यावरून पडतो, मृत उचलला जातो"
+    },
+    {
+      "character_id": "eutychus",
+      "position": 1,
+      "caption": "पौल त्याला मिठी मारतो: \"त्याचे जीवन त्याच्यात आहे\""
+    },
+    {
+      "character_id": "eutychus",
+      "position": 2,
+      "caption": "जिवंत आणला गेला, सर्वांना खूप सांत्वन मिळाले"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 0,
+      "caption": "इफिसमधील दंग्यादरम्यान जमावाने पकडलेला"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 1,
+      "caption": "रोमकडील प्रवासात पौलासोबत जातो"
+    },
+    {
+      "character_id": "aristarchus",
+      "position": 2,
+      "caption": "पौलाचा \"सहकैदी\" म्हटलेला"
+    },
+    {
+      "character_id": "epaphras",
+      "position": 0,
+      "caption": "कलस्सैकरांच्या वतीने ख्रिस्ताचा एक विश्वासू सेवक"
+    },
+    {
+      "character_id": "epaphras",
+      "position": 1,
+      "caption": "\"आपल्या प्रार्थनांमध्ये तुमच्यासाठी नेहमी झटतो... त्याला तुमच्याबद्दल मोठी तळमळ आहे\""
+    },
+    {
+      "character_id": "epaphras",
+      "position": 2,
+      "caption": "पौलाचा \"सहकैदी\" म्हणून नामोल्लेखित"
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 0,
+      "caption": "पौलाचा \"भाऊ, सहकर्मी, आणि सहसैनिक\""
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 1,
+      "caption": "आजारी होता, मृत्यूच्या जवळ, पण देवाने त्याच्यावर दया केली"
+    },
+    {
+      "character_id": "epaphroditus",
+      "position": 2,
+      "caption": "फिलिप्पैकर स्वतः जे करू शकत नव्हते ते पूर्ण करण्यासाठी आपला जीव धोक्यात घातला"
+    },
+    {
+      "character_id": "phoebe",
+      "position": 0,
+      "caption": "\"कंख्रियेच्या मंडळीची सेविका\""
+    },
+    {
+      "character_id": "phoebe",
+      "position": 1,
+      "caption": "\"तिने पुष्कळांची, आणि माझीही मदत केली आहे\""
+    },
+    {
+      "character_id": "junia",
+      "position": 0,
+      "caption": "\"प्रेषितांमध्ये प्रसिद्ध, जे माझ्याआधी ख्रिस्तात होते\""
+    },
+    {
+      "character_id": "andronicus",
+      "position": 0,
+      "caption": "\"माझे नातेवाईक आणि माझे सहकैदी... माझ्याआधी ख्रिस्तात\""
+    },
+    {
+      "character_id": "erastus",
+      "position": 0,
+      "caption": "पौलाकडून मासेदोनियात पुढे पाठवलेला"
+    },
+    {
+      "character_id": "erastus",
+      "position": 1,
+      "caption": "\"नगराचा खजिनदार\""
+    },
+    {
+      "character_id": "erastus",
+      "position": 2,
+      "caption": "करिंथमध्ये राहिला"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 0,
+      "caption": "आपल्या प्रवासात पौलासोबत जातो"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 1,
+      "caption": "पौलाच्या सर्व परिस्थितीबद्दल इफिसकरांना सांगण्यासाठी पाठवला"
+    },
+    {
+      "character_id": "tychicus",
+      "position": 2,
+      "caption": "\"प्रिय बंधू, विश्वासू सेवक\""
+    },
+    {
+      "character_id": "tychicus",
+      "position": 3,
+      "caption": "क्रेतेत तीतला मुक्त करण्यासाठी पाठवला"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 0,
+      "caption": "आशियापासून पौलासोबत जातो"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 1,
+      "caption": "चुकीने असे गृहीत धरले गेले की त्याला मंदिरात आणले गेले होते"
+    },
+    {
+      "character_id": "trophimus",
+      "position": 2,
+      "caption": "मिलेतसमध्ये आजारी सोडलेला"
+    },
+    {
+      "character_id": "gaius",
+      "position": 0,
+      "caption": "इफिसमधील दंग्यात अरिस्तार्खससोबत पकडलेला"
+    },
+    {
+      "character_id": "gaius",
+      "position": 1,
+      "caption": "\"माझा आणि संपूर्ण मंडळीचा यजमान\""
+    },
+    {
+      "character_id": "gaius",
+      "position": 2,
+      "caption": "वैयक्तिकरित्या संबोधित: \"प्रिय, ज्याच्यावर मी सत्यात प्रेम करतो\""
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 0,
+      "caption": "न्यायासनासमोर पकडला गेला आणि मारहाण झाली"
+    },
+    {
+      "character_id": "sosthenes",
+      "position": 1,
+      "caption": "पौलासोबत पत्राचा सह-प्रेषक म्हणून नामोल्लेखित: \"बंधू सोस्थेनेस\""
+    },
+    {
+      "character_id": "crispus",
+      "position": 0,
+      "caption": "आपल्या संपूर्ण घराण्यासह प्रभूवर विश्वास ठेवतो"
+    },
+    {
+      "character_id": "crispus",
+      "position": 1,
+      "caption": "पौल: \"मी ... क्रिस्पसला बाप्तिस्मा दिला\""
+    },
+    {
+      "character_id": "demas",
+      "position": 0,
+      "caption": "कोणत्याही टिप्पणीशिवाय पौलाच्या सहकाऱ्यांमध्ये नामोल्लेखित"
+    },
+    {
+      "character_id": "demas",
+      "position": 1,
+      "caption": "पुन्हा सहकारी म्हणून सूचीबद्ध"
+    },
+    {
+      "character_id": "demas",
+      "position": 2,
+      "caption": "\"देमासाने मला सोडले, या सध्याच्या युगावर प्रेम करून\""
+    },
+    {
+      "character_id": "manaen",
+      "position": 0,
+      "caption": "अंत्युखियातील संदेष्टे आणि शिक्षकांमध्ये नामोल्लेखित, \"चौथाई राज्याचा अधिपती हेरोदाचा पालक भाऊ\""
+    },
+    {
+      "character_id": "manaen",
+      "position": 1,
+      "caption": "पवित्र आत्मा पौल आणि बर्णबाला वेगळे करतो तेव्हा उपस्थित"
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "position": 0,
+      "caption": "अंत्युखियातील संदेष्टे आणि शिक्षकांमध्ये नामोल्लेखित"
+    },
+    {
+      "character_id": "lucius-of-cyrene",
+      "position": 1,
+      "caption": "पवित्र आत्मा पौल आणि बर्णबाला बोलावतो तेव्हा उपस्थित"
+    },
+    {
+      "character_id": "simeon-called-niger",
+      "position": 0,
+      "caption": "अंत्युखियातील संदेष्टे आणि शिक्षकांमध्ये नामोल्लेखित, \"ज्याला नायजर म्हणतात\""
+    },
+    {
+      "character_id": "archippus",
+      "position": 0,
+      "caption": "\"जी सेवा तू स्वीकारली आहेस त्याकडे लक्ष दे... की तू ती पूर्ण करावी\""
+    },
+    {
+      "character_id": "archippus",
+      "position": 1,
+      "caption": "पौलाचा \"सहसैनिक\" म्हटलेला"
+    },
+    {
+      "character_id": "nympha",
+      "position": 0,
+      "caption": "\"नुम्फास, आणि तिच्या घरातील मंडळी\""
+    },
+    {
+      "character_id": "stephanas",
+      "position": 0,
+      "caption": "पौल: \"मी स्तेफनासच्या घराण्यालाही बाप्तिस्मा दिला\""
+    },
+    {
+      "character_id": "stephanas",
+      "position": 1,
+      "caption": "त्याचे घराणे, \"अखयाची प्रथमफळे\""
+    },
+    {
+      "character_id": "stephanas",
+      "position": 2,
+      "caption": "त्याच्या भेटीने \"माझा आणि तुमचा आत्मा ताजातवाना केला\""
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 0,
+      "caption": "आपल्या चांगल्या प्रतिष्ठेसाठी निवडलेले, आत्म्याने आणि बुद्धीने परिपूर्ण"
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 1,
+      "caption": "स्तेफन आणि फिलिप्पासोबत नामोल्लेखित"
+    },
+    {
+      "character_id": "seven-deacons-remainder",
+      "position": 2,
+      "caption": "प्रेषित प्रार्थना करतात आणि त्यांच्यावर हात ठेवतात"
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 0,
+      "caption": "\"त्यांच्यात अग्रणी होऊ इच्छितो, आमचे ऐकत नाही\""
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 1,
+      "caption": "प्रेषिताविरुद्ध \"दुष्ट शब्दांनी\" बोलतो"
+    },
+    {
+      "character_id": "diotrephes",
+      "position": 2,
+      "caption": "प्रवासी विश्वासणाऱ्यांचे स्वागत करण्यास नकार देतो, आणि इतरांनाही तसे करण्यापासून रोखतो"
+    },
+    {
+      "character_id": "demetrius-the-disciple",
+      "position": 0,
+      "caption": "\"देमेत्रियाची साक्ष सर्वांकडून आहे, आणि सत्याकडूनही\""
+    },
+    {
+      "character_id": "matthias",
+      "position": 0,
+      "caption": "पात्र: योहानाच्या बाप्तिस्म्यापासून स्वर्गारोहणापर्यंत त्यांच्यासोबत होता"
+    },
+    {
+      "character_id": "matthias",
+      "position": 1,
+      "caption": "चिठ्ठी टाकण्यापूर्वी प्रेषित प्रार्थना करतात"
+    },
+    {
+      "character_id": "matthias",
+      "position": 2,
+      "caption": "चिठ्ठी त्याच्यावर पडते; \"तो अकरा प्रेषितांमध्ये गणला गेला\""
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "position": 0,
+      "caption": "मत्थियासोबत उमेदवार म्हणून प्रस्तावित"
+    },
+    {
+      "character_id": "joseph-called-barsabbas",
+      "position": 1,
+      "caption": "चिठ्ठी त्याऐवजी मत्थियावर पडते"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 0,
+      "caption": "योहानाचा भाऊ याकोबाला तलवारीने मारवतो"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 1,
+      "caption": "लोकांना ते आवडले हे पाहून पेत्रालाही अटक करवतो"
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 2,
+      "caption": "जमाव ओरडतो: \"हा देवाचा आवाज आहे, माणसाचा नाही\""
+    },
+    {
+      "character_id": "herod-agrippa-i",
+      "position": 3,
+      "caption": "देवदूताकडून मारला गेला, किड्यांनी खाल्ला, आणि मरण पावला"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 0,
+      "caption": "फेस्तसला अभिवादन करण्यासाठी बर्णीकेसह कैसरियाला येतो"
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 1,
+      "caption": "पौल: \"मी स्वतःला धन्य मानतो... तुझ्यासमोर स्वतःचा बचाव करण्यासाठी\""
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 2,
+      "caption": "\"थोडक्यात तू मला ख्रिस्ती होण्यास राजी करशील\""
+    },
+    {
+      "character_id": "herod-agrippa-ii",
+      "position": 3,
+      "caption": "पौलाला मुक्त करता आले असते, जर त्याने कैसराकडे अपील केले नसते तर, असा निष्कर्ष काढतो"
+    },
+    {
+      "character_id": "felix",
+      "position": 0,
+      "caption": "पौल नीतिमत्ता आणि न्यायाबद्दल तर्क करतो तेव्हा घाबरतो"
+    },
+    {
+      "character_id": "felix",
+      "position": 1,
+      "caption": "\"आत्तापुरता जा; मला योग्य वेळ मिळेल तेव्हा मी तुला बोलावून घेईन\""
+    },
+    {
+      "character_id": "felix",
+      "position": 2,
+      "caption": "पौल त्याला पैसे देईल अशी आशा बाळगतो"
+    },
+    {
+      "character_id": "felix",
+      "position": 3,
+      "caption": "पद सोडताना यहुद्यांना खूष करण्यासाठी पौलाला तुरुंगात सोडतो"
+    },
+    {
+      "character_id": "festus",
+      "position": 0,
+      "caption": "पौलाला विचारतो की त्याऐवजी यरुशलेममध्ये खटला चालवण्यास तो तयार आहे का"
+    },
+    {
+      "character_id": "festus",
+      "position": 1,
+      "caption": "पौल कैसराकडे अपील करतो; फेस्त ते मान्य करतो"
+    },
+    {
+      "character_id": "festus",
+      "position": 2,
+      "caption": "अग्रिप्पाला हे प्रकरण यहुदी धर्माबद्दलचा वाद असल्याचे सांगतो"
+    },
+    {
+      "character_id": "festus",
+      "position": 3,
+      "caption": "\"पौला, तू वेडा आहेस; तुझी मोठी विद्वत्ता तुला वेडे बनवत आहे\""
+    },
+    {
+      "character_id": "elymas",
+      "position": 0,
+      "caption": "एक यहुदी खोटा संदेष्टा आणि जादूगार"
+    },
+    {
+      "character_id": "elymas",
+      "position": 1,
+      "caption": "पौल आणि बर्णबाचा विरोध करतो, सुभेदाराला विश्वासापासून वळवण्याचा प्रयत्न करत"
+    },
+    {
+      "character_id": "elymas",
+      "position": 2,
+      "caption": "पौल: \"सर्व प्रकारच्या कपटाने आणि दुष्टाईने भरलेल्या, सैतानाच्या पुत्रा\""
+    },
+    {
+      "character_id": "elymas",
+      "position": 3,
+      "caption": "पौलाच्या शब्दावर, काही काळासाठी, आंधळा केला गेला"
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "position": 0,
+      "caption": "\"त्याने माझे फार नुकसान केले. प्रभू त्याला त्याच्या कृत्यांप्रमाणे फळ देईल\""
+    },
+    {
+      "character_id": "alexander-the-coppersmith",
+      "position": 1,
+      "caption": "\"तूही त्याच्यापासून सावध राहा, कारण त्याने आमच्या शब्दांना खूप विरोध केला\""
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 0,
+      "caption": "आर्तेमिसची चांदीची देवळे बनवतो; एक फायदेशीर व्यवसाय"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 1,
+      "caption": "इतर कारागिरांना इशारा देतो की पौलाची शिकवण त्यांचा व्यवसाय आणि देवीचा सन्मान धोक्यात आणते"
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 2,
+      "caption": "जमाव ओरडतो: \"इफिसकरांची आर्तेमिस महान आहे!\""
+    },
+    {
+      "character_id": "demetrius-the-silversmith",
+      "position": 3,
+      "caption": "यामुळे संपूर्ण नगर गोंधळात पडते"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 0,
+      "caption": "\"त्याने मला वारंवार सांत्वन दिले, आणि माझ्या साखळ्यांची लाज बाळगली नाही\""
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 1,
+      "caption": "रोममध्ये मेहनतीने पौलाला शोधले, आणि तो सापडला"
+    },
+    {
+      "character_id": "onesiphorus",
+      "position": 2,
+      "caption": "पौल प्रार्थना करतो की त्याला \"त्या दिवशी\" प्रभूकडून दया मिळावी"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 0,
+      "caption": "\"जोपर्यंत कोणी मला समजावत नाही तोपर्यंत मी कसे समजू?\""
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 1,
+      "caption": "ख्रिस्ताच्या दुःखाचे भाकीत करणारा तोच उतारा वाचत"
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 2,
+      "caption": "फिलिप्पाने त्या शास्त्रापासून सुरुवात करून \"त्याला येशूची सुवार्ता सांगितली\""
+    },
+    {
+      "character_id": "ethiopian-eunuch",
+      "position": 3,
+      "caption": "तिथेच बाप्तिस्मा घेतला, आणि आनंदाने आपल्या मार्गाने गेला"
     }
   ]
 }

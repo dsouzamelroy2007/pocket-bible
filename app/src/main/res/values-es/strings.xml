@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">Pocket Bible</string>
+    <string name="app_name">Pocket Bible V2</string>
 
     <string name="nav_topics">Temas</string>
     <string name="nav_read">Biblia</string>
     <string name="nav_saved">Guardados</string>
+    <string name="nav_characters">Personalidades</string>
 
     <string name="language_button">Idioma</string>
     <string name="language_system_default">Predeterminado del sistema</string>
@@ -16,6 +17,18 @@
     <string name="home_matches">Coincidencias</string>
     <string name="home_i_am_feeling">Me siento…</string>
     <string name="home_verse_of_day">Versículo del día</string>
+
+    <!-- Daily readings -->
+    <string name="reading_title">Lecturas de hoy</string>
+    <string name="reading_role_first_reading">Primera Lectura</string>
+    <string name="reading_role_psalm">Salmo Responsorial</string>
+    <string name="reading_role_second_reading">Segunda Lectura</string>
+    <string name="reading_role_acclamation">Aclamación antes del Evangelio</string>
+    <string name="reading_role_gospel">Evangelio</string>
+    <string name="reading_text_unavailable">Aún no disponible en este idioma.</string>
+    <string name="reading_reflection_heading">Reflexión</string>
+    <string name="reading_refrain_prefix">R. %1$s</string>
+    <string name="reading_none_today">Aún no se han cargado las lecturas para la fecha de hoy.</string>
 
     <string name="read_title">Biblia</string>
     <string name="read_subtitle">Ve directamente a una referencia, o explora lo que está disponible abajo.</string>
@@ -36,6 +49,8 @@
 
     <string name="saved_title">Guardados</string>
     <string name="saved_empty">Los versículos que guardas aparecen aquí y siguen disponibles sin conexión.</string>
+    <string name="saved_stories_title">Historias guardadas</string>
+    <string name="saved_stories_empty">Las historias que guardas aparecen aquí y siguen disponibles sin conexión.</string>
 
     <string name="verse_no_entries">Todavía no hay entradas para %1$s.</string>
     <string name="verse_what_it_means">Lo que esto significa para ti</string>
@@ -43,7 +58,7 @@
     <string name="verse_short_prayer">Una breve oración</string>
     <string name="verse_saved">Guardado</string>
     <string name="verse_save">Guardar</string>
-    <string name="verse_another">Otro</string>
+    <string name="verse_another">Otro versículo</string>
 
     <!-- About & Sources -->
     <string name="about_title">Acerca de y fuentes</string>
@@ -126,4 +141,63 @@
     <string name="book_3jo">3 Juan</string>
     <string name="book_jude">Judas</string>
     <string name="book_rev">Apocalipsis</string>
+    <string name="character_prayer_heading">Una oración</string>
+    <string name="character_reflection_heading">Para la reflexión</string>
+    <string name="nav_daily">Lecturas &amp;\nReflexión</string>
+    <string name="nav_stories">Historias</string>
+    <string name="reading_date_picker_cancel">Cancelar</string>
+    <string name="reading_date_picker_confirm">Aceptar</string>
+    <string name="reading_next_day">Día siguiente</string>
+    <string name="reading_previous_day">Día anterior</string>
+    <string name="reading_today">Ir a hoy</string>
+    <string name="story_book_group_acts">Hechos de los Apóstoles</string>
+    <string name="story_book_group_deuterocanonical">Deuterocanónico</string>
+    <string name="story_book_group_historical">Histórico</string>
+    <string name="story_book_group_infancy">Relatos de la infancia</string>
+    <string name="story_book_group_ministry_miracles">Ministerio y milagros</string>
+    <string name="story_book_group_parables">Parábolas</string>
+    <string name="story_book_group_passion_resurrection">Pasión y Resurrección</string>
+    <string name="story_book_group_pentateuch">Pentateuco</string>
+    <string name="story_book_group_prophets">Profetas</string>
+    <string name="story_book_group_revelation">Apocalipsis</string>
+    <string name="story_book_group_teachings_encounters">Enseñanzas y encuentros</string>
+    <string name="story_book_group_wisdom">Sabiduría</string>
+    <string name="story_moral_heading">La moraleja</string>
+    <string name="story_no_matches">Ninguna historia coincide con esa búsqueda.</string>
+    <string name="story_none_yet">Las historias están en camino — vuelve pronto.</string>
+    <string name="story_reflection_heading">Para la reflexión</string>
+    <string name="story_related_characters_heading">Personalidades relacionadas</string>
+    <string name="story_scripture_heading">Referencias bíblicas</string>
+    <string name="story_scripture_scroll_hint">Las referencias bíblicas de esta historia están al final — desplázate hacia abajo.</string>
+    <string name="story_search_placeholder">Buscar por título o moraleja</string>
+    <string name="story_subtitle">Historias y parábolas bíblicas, contadas de forma sencilla, con una moraleja para cada edad.</string>
+    <string name="story_testament_all">Todas</string>
+    <string name="story_testament_nt">Nuevo Testamento</string>
+    <string name="story_testament_ot">Antiguo Testamento</string>
+    <string name="story_title">Historias</string>
+    <string name="story_type_all">Todos los tipos</string>
+    <string name="story_type_miracle">Milagro</string>
+    <string name="story_type_narrative">Narración</string>
+    <string name="story_type_parable">Parábola</string>
+    <string name="character_category_apostles">Los Doce Apóstoles</string>
+    <string name="character_category_central">La Figura Central</string>
+    <string name="character_category_early_church">Iglesia Primitiva</string>
+    <string name="character_category_exodus_judges">Del Éxodo a los Jueces</string>
+    <string name="character_category_holy_family">Sagrada Familia y Precursores</string>
+    <string name="character_category_kingdom">Época del Reino</string>
+    <string name="character_category_opposed_jesus">Quienes se Opusieron a Jesús</string>
+    <string name="character_category_patriarchs">Patriarcas y Génesis Temprano</string>
+    <string name="character_category_post_exile">Posexilio y Deuterocanon</string>
+    <string name="character_category_prophets">Profetas</string>
+    <string name="character_category_women_and_others">Mujeres y Otros Cercanos a Jesús</string>
+    <string name="character_famous_verses">Versículos sobre ellos</string>
+    <string name="character_no_matches">Ningún personaje coincide con esa búsqueda.</string>
+    <string name="character_search_placeholder">Buscar por nombre</string>
+    <string name="character_subtitle">Conoce a las personas de la Biblia y los versículos que cuentan su historia.</string>
+    <string name="character_title">Personalidades</string>
+    <string name="character_verse_unavailable">Aún no disponible en este idioma.</string>
+    <string name="read_add_bookmark">Marcar este capítulo</string>
+    <string name="read_bookmarked">Marcado</string>
+    <string name="read_bookmarks">Marcadores</string>
+    <string name="read_remove_bookmark">Quitar marcador</string>
 </resources>
