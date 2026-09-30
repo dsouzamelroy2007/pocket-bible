@@ -24,11 +24,11 @@ android {
         // Separate applicationId from the v1 app (app.pocketbible) so the v2
         // development build installs side-by-side on a device that already
         // has v1, instead of overwriting it.
-        applicationId = "app.pocketbible.v2"
+        applicationId = "app.pocketbible"
         minSdk = 26
         targetSdk = 36
-        versionCode = 1
-        versionName = "2.0.0-dev"
+        versionCode = 2
+        versionName = "2.0.0"
     }
 
     signingConfigs {
@@ -50,13 +50,6 @@ android {
             if (keystorePropertiesFile.exists()) {
                 signingConfig = signingConfigs.getByName("release")
             }
-        }
-    }
-
-    applicationVariants.all {
-        outputs.all {
-            val output = this as com.android.build.gradle.internal.api.BaseVariantOutputImpl
-            output.outputFileName = "pocket-bible-v2-${name}.apk"
         }
     }
 
