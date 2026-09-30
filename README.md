@@ -1,4 +1,4 @@
-# Pocket Bible v2
+# Pocket Bible
 
 ## About
 
