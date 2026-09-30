@@ -9,6 +9,8 @@
     <string name="language_button">Idioma</string>
     <string name="language_system_default">Padrão do sistema</string>
     <string name="language_restarting">Reiniciando para trocar de idioma…</string>
+    <string name="loading_first_seed">Preparando o conteúdo para o primeiro uso</string>
+    <string name="loading_switching_language">Trocando o idioma…</string>
 
     <string name="home_title">Como está o seu coração hoje?</string>
     <string name="home_subtitle">Escolha o que combina, ou pesquise uma palavra ou sentimento.</string>
@@ -88,6 +90,11 @@
     <string name="about_translations_heading">Traduções da Bíblia</string>
     <string name="about_view_source">Ver fonte</string>
     <string name="about_view_license">Ver licença</string>
+    <string name="about_daily_readings_heading">Fontes das leituras diárias</string>
+    <string name="about_daily_readings_description">As datas e referências das leituras diárias vêm da Catholic Readings API, copyright (c) 2025 cpbjr, sob a licença MIT. A API identifica a USCCB como fonte subjacente e fornece links para as leituras oficiais do dia. O Pocket Bible inclui referências, não o texto integral do Lecionário da USCCB; o texto bíblico é apresentado a partir da tradução incluída selecionada. O Pocket Bible é independente e não é endossado pela USCCB.</string>
+    <string name="about_daily_readings_api">Catholic Readings API</string>
+    <string name="about_usccb_readings">Leituras da USCCB</string>
+    <string name="about_readings_license_title">Catholic Readings API — Licença MIT</string>
 
     <!-- Book names (data, not app chrome; shown wherever a Book from the canon is displayed) -->
     <string name="book_gen">Gênesis</string>

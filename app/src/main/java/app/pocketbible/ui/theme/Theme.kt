@@ -85,6 +85,19 @@ private val DarkColors = darkColorScheme(
  */
 data class CategoryAccent(val container: Color, val onContainer: Color)
 
+private val FeelingCardAccentOrder = listOf(
+    "desire",
+    "distress",
+    "relational",
+    "spiritual",
+    "thanksgiving",
+    "moral"
+)
+
+@Composable
+fun feelingCardAccent(index: Int): CategoryAccent =
+    categoryAccent(FeelingCardAccentOrder[index.mod(FeelingCardAccentOrder.size)])
+
 @Composable
 fun categoryAccent(category: String): CategoryAccent {
     val dark = isSystemInDarkTheme()

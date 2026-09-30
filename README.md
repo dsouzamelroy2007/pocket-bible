@@ -7,7 +7,7 @@
 
 **Features:**
 - 📖 The full 73-book Catholic canon in English, plus Scripture translations in German, French, Hindi, Italian, Marathi, and Portuguese; book coverage varies by translation
-- 🌍 Interface in English, German, French, Portuguese, Spanish, Hindi, Italian, and Marathi (Spanish currently has no bundled Bible-text translation)
+- 🌍 Interface in English, German, French, Portuguese, Hindi, Italian, and Marathi
 - ❤️ Curated feelings-to-passages mapping with reflections and prayers
 - 📅 Verse of the Day and daily Catholic readings with reflections
 - 👥 280 biblical character profiles with introductions and Scripture references
@@ -101,8 +101,7 @@ German (Schlachter 1951), French (Sainte Bible libre pour le monde), Hindi
 Version), and Portuguese (Almeida Atualizada). Coverage varies by
 translation, and the Read tab shows the books actually present in the
 selected translation. When a UI language has no bundled scripture
-translation, the app uses English; Spanish currently applies to the
-interface only.
+translation, the app uses English.
 
 The point of splitting it this way: adding a book, or a whole new
 translation/language, is dropping one new file under `scripture/` and
@@ -167,8 +166,8 @@ is an `AppCompatActivity` specifically so `recreate()` actually reloads
 resources in the new locale, not just persists the choice):
 
 1. **App chrome** — nav labels, buttons, prompts. Fully resource-driven:
-    `values-de/`, `values-es/`, `values-fr/`, `values-hi/`, `values-it/`,
-    `values-mr/`, and `values-pt/` under `app/src/main/res/`. A new language
+    `values-de/`, `values-fr/`, `values-hi/`, `values-it/`, `values-mr/`,
+    and `values-pt/` under `app/src/main/res/`. A new language
     is a new `values-<lang>/strings.xml` with the same keys, no code changes.
 2. **Book names** — just names ("Psalms", "Luke"), not scripture text.
    `BookNames.kt` maps each book id to a translated `R.string` per
@@ -192,7 +191,7 @@ resources in the new locale, not just persists the choice):
     fallback keeps the Read tab usable when no scripture translation exists
     for the selected UI language. English, German, French, Hindi, Italian,
     Marathi, and Portuguese translations are bundled with differing book
-    coverage; Spanish UI users currently read from the English translation.
+    coverage; languages without a matching text translation use English.
 
 Layers 1 and 2 are safe to translate freely — UI vocabulary and proper
 nouns, not scripture. Layer 3 is *my own* devotional prose (not scripture),

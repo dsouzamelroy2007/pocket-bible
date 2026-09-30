@@ -14,11 +14,12 @@ import os
 import cairosvg
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SCREENSHOT = os.path.join(ROOT, "store", "screenshots", "01-topics-home.jpg")
+SCREENSHOT = os.path.join(ROOT, "store", "screenshots", "10-stories-v2.png")
 OUT_PATH = os.path.join(ROOT, "store", "feature_graphic_1024x500.png")
 
 with open(SCREENSHOT, "rb") as f:
     screenshot_b64 = base64.b64encode(f.read()).decode()
+SCREENSHOT_MIME = "image/png" if SCREENSHOT.lower().endswith(".png") else "image/jpeg"
 
 W, H = 1024, 500
 
@@ -66,13 +67,13 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org
   </g>
 
   <text x="42" y="205" font-family="Liberation Serif, serif" font-weight="700" font-size="72" fill="#f6ecd8">Pocket Bible</text>
-  <text x="44" y="256" font-family="Liberation Sans, sans-serif" font-size="27" fill="#e6d9bd">A verse for how you feel today</text>
+  <text x="44" y="256" font-family="Liberation Sans, sans-serif" font-size="25" fill="#e6d9bd">Scripture for every day and every season</text>
 
-  <g font-family="Liberation Sans, sans-serif" font-size="21" fill="#d8cdb8">
-    <text x="44" y="332">&#8226;  27 feelings matched to real Scripture, with a reflection and a prayer</text>
-    <text x="44" y="368">&#8226;  Full Bible text in 7 languages — read, save, and bookmark</text>
-    <text x="44" y="404">&#8226;  114 Bible personalities, with the verses that tell their story</text>
-    <text x="44" y="440">&#8226;  Works fully offline. No account, no ads, no data collected</text>
+  <g font-family="Liberation Sans, sans-serif" font-size="19" fill="#d8cdb8">
+    <text x="44" y="326">&#8226;  27 feelings with Scripture, reflection, and prayer</text>
+    <text x="44" y="362">&#8226;  280 Bible character profiles and 146 stories</text>
+    <text x="44" y="398">&#8226;  Verse of the Day and daily Catholic readings</text>
+    <text x="44" y="434">&#8226;  7 Scripture translations, all available offline</text>
   </g>
 
   <!-- phone frame with a real screenshot inside -->
@@ -80,7 +81,7 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org
     <rect x="{frame_x}" y="{frame_y}" width="{frame_w}" height="{frame_h}" rx="26" fill="#0e1524"/>
     <g clip-path="url(#frameClip)">
       <image x="{frame_x + inner_pad}" y="{frame_y + inner_pad}" width="{inner_w}" height="{inner_h}"
-             xlink:href="data:image/jpeg;base64,{screenshot_b64}" preserveAspectRatio="xMidYMid slice"/>
+             xlink:href="data:{SCREENSHOT_MIME};base64,{screenshot_b64}" preserveAspectRatio="xMidYMid slice"/>
     </g>
     <rect x="{frame_x}" y="{frame_y}" width="{frame_w}" height="{frame_h}" rx="26" fill="none" stroke="#3a3020" stroke-width="3"/>
   </g>

@@ -15,34 +15,37 @@ limits as of this writing; re-check them in Play Console before pasting.
     Pocket Bible starts from how you're feeling, not from a chapter and verse
     you already have to know.
 
-    Tell it you're anxious, grieving, grateful, or one of two dozen other
-    honest starting points, and it hands you real Bible passages that speak
+    Tell it you're anxious, grieving, grateful, or one of 27 other honest
+    starting points, and it hands you real Bible passages that speak
     to it — each with a short reflection and a prayer, not just a citation.
 
     WHAT'S INSIDE
 
     • Topics — pick a feeling, get matched Bible passages with a short
       reflection and a prayer for each one.
-    • Bible — read the full text, book by book and chapter by chapter, in
-      any of the app's supported languages.
-    • Personalities — get to know 114 people from Scripture, from Adam and
-      Eve to Paul, with a short introduction and the verses that tell their
-      story.
-    • Bookmarks — mark your place while reading and jump back to it later.
+    • Bible — read Scripture book by book and chapter by chapter, with
+      available translations for the supported languages.
+    • Readings & Reflection — see the Verse of the Day and daily Catholic
+      readings with date navigation and reflections.
+    • Personalities — explore 280 people from Scripture through concise
+      introductions and linked Bible references.
+    • Stories — browse 146 Bible stories and parables, with summaries,
+      morals, reflections, and linked Scripture references.
+    • Bookmarks and saved verses — keep your place and revisit passages.
     • Saved verses — keep a running list of passages that meant something
       to you.
 
     LANGUAGES
 
-    The app's interface and real Bible text are available in English,
-    German, French, Hindi, Italian, Marathi, and Portuguese, each using a
-    real, complete Bible translation — not a machine translation of the
-    English text. See the in-app "About & Sources" screen for exactly which
-    translation and license applies to each language.
+    The interface is available in English, German, French, Hindi, Italian,
+    Marathi, and Portuguese. Bundled Bible translations are available in
+    those seven languages, with book coverage varying by translation. The
+    app uses English text when a matching translation is unavailable. See
+    the in-app "About & Sources" screen for each translation and license.
 
     WORKS OFFLINE, COLLECTS NOTHING
 
-    Every verse, translation, and reflection ships with the app. There's no
+    Scripture, stories, readings, and reflections ship with the app. There's no
     account, no sign-in, and no internet permission at all — the app
     literally cannot send data anywhere. Saved verses and bookmarks live in
     a local database on your device and nowhere else.
@@ -51,6 +54,14 @@ limits as of this writing; re-check them in Play Console before pasting.
     a publication of any church or Bible society. It draws on public-domain
     and openly licensed Bible translations; full attribution for each one
     is in the app's About & Sources screen.
+
+## What's new (v2 release notes, under 500 characters)
+
+  Explore an expanded library of 280 biblical characters and 146 Bible
+  stories and parables. The Readings & Reflection tab brings together a
+  Verse of the Day and date-based Catholic readings with reflections.
+  Search feelings in your selected app language, browse the updated Bible
+  library, and keep your saved verses and story bookmarks on your device.
 
 ## Notes for whoever fills in Play Console
 

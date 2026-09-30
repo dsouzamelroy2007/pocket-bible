@@ -612,15 +612,20 @@ interface ContentDao {
             SELECT feeling_id, weight FROM feeling_alias
             WHERE alias LIKE '%' || :query || '%'
             UNION ALL
-            SELECT id AS feeling_id, 1.0 AS weight FROM feeling
-            WHERE label LIKE '%' || :query || '%' OR description LIKE '%' || :query || '%'
+            SELECT f.id AS feeling_id, 1.0 AS weight
+            FROM feeling f
+            LEFT JOIN feeling_translation ft ON ft.feeling_id = f.id AND ft.language = :language
+            WHERE f.label LIKE '%' || :query || '%'
+                OR f.description LIKE '%' || :query || '%'
+                OR ft.label LIKE '%' || :query || '%'
+                OR ft.description LIKE '%' || :query || '%'
         )
         GROUP BY feeling_id
         ORDER BY MAX(weight) DESC
         LIMIT 5
         """
     )
-    suspend fun feelingsMatching(query: String): List<String>
+    suspend fun feelingsMatching(query: String, language: String): List<String>
 
     @Query("SELECT passage_id FROM daily_passage WHERE month_day = :monthDay")
     suspend fun passageOfDay(monthDay: String): String?

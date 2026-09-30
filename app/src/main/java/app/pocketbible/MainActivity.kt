@@ -1,7 +1,6 @@
 package app.pocketbible
 
 import android.os.Bundle
-import android.widget.Toast
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
@@ -13,6 +12,7 @@ import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.RowScope
 import androidx.compose.foundation.layout.fillMaxHeight
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
@@ -41,8 +41,12 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.DisposableEffect
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.platform.LocalLifecycleOwner
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleEventObserver
@@ -59,6 +63,7 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import androidx.compose.runtime.collectAsState
 import app.pocketbible.ui.MainViewModel
+import app.pocketbible.ui.LoadingScreen
 import app.pocketbible.ui.about.AboutScreen
 import app.pocketbible.ui.bible.BibleBookListScreen
 import app.pocketbible.ui.bible.BibleReaderScreen
@@ -74,23 +79,39 @@ import app.pocketbible.ui.stories.StoryDetailScreen
 import app.pocketbible.ui.theme.PocketBibleTheme
 import app.pocketbible.ui.verse.VerseScreen
 import kotlinx.coroutines.launch
+import java.util.Locale
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        val repo = (application as PocketBibleApp).repository
+        val app = application as PocketBibleApp
+        val repo = app.repository
+        val preferences = getSharedPreferences("pocketbible_prefs", MODE_PRIVATE)
         setContent {
             PocketBibleTheme {
-                val viewModel: MainViewModel = viewModel(factory = MainViewModel.Factory(repo))
+            val viewModel: MainViewModel = viewModel(factory = MainViewModel.Factory(repo, app.contentSeeded))
+                val firstContentSeed by app.firstContentSeed.collectAsState()
+                var languageSwitchPending by remember {
+                    mutableStateOf(preferences.getBoolean(LANGUAGE_SWITCH_PENDING_KEY, false))
+                }
                 AppScaffold(
                     viewModel = viewModel,
+                    firstContentSeed = firstContentSeed,
+                    languageSwitchPending = languageSwitchPending,
+                    onLanguageSwitchFinished = {
+                        preferences.edit().remove(LANGUAGE_SWITCH_PENDING_KEY).apply()
+                        languageSwitchPending = false
+                    },
                     onLanguageSelected = { tag ->
                         val current = AppCompatDelegate.getApplicationLocales()
-                        val alreadySelected = if (tag == null) current.isEmpty else current[0]?.language == tag
+                        val requestedLanguage = tag?.let(Locale::forLanguageTag)?.language
+                        val alreadySelected = if (tag == null) {
+                            current.isEmpty
+                        } else {
+                            current[0]?.language.equals(requestedLanguage, ignoreCase = true)
+                        }
                         if (!alreadySelected) {
-                            // Shown in the language that's about to be replaced, since the
-                            // switch (and recreate()) hasn't happened yet at this point.
-                            Toast.makeText(this, getString(R.string.language_restarting), Toast.LENGTH_SHORT).show()
+                            preferences.edit().putBoolean(LANGUAGE_SWITCH_PENDING_KEY, true).apply()
                             val locales = if (tag == null) {
                                 LocaleListCompat.getEmptyLocaleList()
                             } else {
@@ -103,6 +124,10 @@ class MainActivity : AppCompatActivity() {
                 )
             }
         }
+    }
+
+    private companion object {
+        const val LANGUAGE_SWITCH_PENDING_KEY = "language_switch_pending"
     }
 }
 
@@ -164,7 +189,13 @@ private fun RowScope.WeightedNavItem(
 }
 
 @Composable
-private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) -> Unit) {
+private fun AppScaffold(
+    viewModel: MainViewModel,
+    firstContentSeed: Boolean,
+    languageSwitchPending: Boolean,
+    onLanguageSwitchFinished: () -> Unit,
+    onLanguageSelected: (String?) -> Unit
+) {
     // Covers the case where this ViewModel instance survived the recreate()
     // a language switch triggers, so its topics/saved Flows would otherwise
     // stay pinned to whatever language was current when they were first
@@ -189,6 +220,27 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
     val navController = rememberNavController()
     val backStack by navController.currentBackStackEntryAsState()
     val currentRoute = backStack?.destination?.route
+    val readyScreens by viewModel.readyScreens.collectAsState()
+    val dailyLoading by viewModel.dailyLoading.collectAsState()
+    val readinessKey = when (currentRoute) {
+        null, "home" -> "home"
+        "daily" -> "daily"
+        "about" -> "about"
+        "verse" -> "verse"
+        "saved" -> "saved"
+        "characters" -> "characters"
+        "character_detail" -> "character_detail"
+        "stories", "saved_stories" -> "stories"
+        "bible" -> "bible"
+        "bible_reader" -> "bible_reader"
+        else -> null
+    }
+    val isLoading = (readinessKey != null && readinessKey !in readyScreens) ||
+        (currentRoute == "daily" && dailyLoading)
+
+    LaunchedEffect(languageSwitchPending, isLoading) {
+        if (languageSwitchPending && !isLoading) onLanguageSwitchFinished()
+    }
     val bibleRoutes = setOf("bible", "bible_reader")
     val characterRoutes = setOf("characters", "character_detail")
     val storyRoutes = setOf("stories", "story_detail", "saved_stories")
@@ -285,11 +337,12 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
             }
         }
     ) { padding ->
-        NavHost(
-            navController = navController,
-            startDestination = "home",
-            modifier = Modifier.padding(padding)
-        ) {
+        Box(Modifier.fillMaxSize().padding(padding)) {
+            NavHost(
+                navController = navController,
+                startDestination = "home",
+                modifier = Modifier.fillMaxSize()
+            ) {
             composable("home") {
                 val feelings by viewModel.feelings.collectAsState()
                 val searchQuery by viewModel.searchQuery.collectAsState()
@@ -459,6 +512,13 @@ private fun AppScaffold(viewModel: MainViewModel, onLanguageSelected: (String?) 
                     onPrevious = { viewModel.previousChapter() },
                     onNext = { viewModel.nextChapter() },
                     onToggleBookmark = { viewModel.toggleBookmarkCurrent() }
+                )
+            }
+            }
+            if (isLoading) {
+                LoadingScreen(
+                    showFirstSeedMessage = firstContentSeed && !languageSwitchPending,
+                    showLanguageSwitchMessage = languageSwitchPending
                 )
             }
         }

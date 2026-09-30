@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatDelegate
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
+import android.util.Log
 import app.pocketbible.data.BibleBookmark
 import app.pocketbible.data.Book
 import app.pocketbible.data.CharacterSummary
@@ -20,6 +21,8 @@ import app.pocketbible.ui.bible.CitationFragment
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
+import kotlinx.coroutines.flow.first
+import kotlinx.coroutines.CancellationException
 import kotlinx.coroutines.launch
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
@@ -73,10 +76,35 @@ data class StoryVerseDisplay(
 
 private val READING_ROLE_ORDER = listOf("first_reading", "psalm", "second_reading", "acclamation", "gospel")
 
-class MainViewModel(private val repo: ContentRepository) : ViewModel() {
+class MainViewModel(
+    private val repo: ContentRepository,
+    private val contentSeeded: StateFlow<Boolean>
+) : ViewModel() {
 
     private val _feelings = MutableStateFlow<List<Feeling>>(emptyList())
     val feelings: StateFlow<List<Feeling>> = _feelings.asStateFlow()
+
+    private val _readyScreens = MutableStateFlow<Set<String>>(emptySet())
+    val readyScreens: StateFlow<Set<String>> = _readyScreens.asStateFlow()
+
+    private var verseOfDayLoaded = false
+    private var verseRequestId = 0
+    private var readingDateRangeLoaded = false
+    private var dailyReadingLoaded = false
+
+    private fun markScreenLoading(screen: String) {
+        _readyScreens.value -= screen
+    }
+
+    private fun markScreenReady(screen: String) {
+        _readyScreens.value += screen
+    }
+
+    private fun markDailyScreenReadyIfLoaded() {
+        if (verseOfDayLoaded && readingDateRangeLoaded && dailyReadingLoaded) {
+            markScreenReady("daily")
+        }
+    }
 
     private val _saved = MutableStateFlow<List<EntrySummary>>(emptyList())
     val saved: StateFlow<List<EntrySummary>> = _saved.asStateFlow()
@@ -126,6 +154,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
     private val _searchResults = MutableStateFlow<List<Feeling>>(emptyList())
     val searchResults: StateFlow<List<Feeling>> = _searchResults.asStateFlow()
+    private var searchRequestId = 0
 
     // ---------- Characters ----------
 
@@ -168,28 +197,32 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     private val _resolvedReadings = MutableStateFlow<List<ResolvedReading>>(emptyList())
     val resolvedReadings: StateFlow<List<ResolvedReading>> = _resolvedReadings.asStateFlow()
 
+    private val _dailyLoading = MutableStateFlow(true)
+    val dailyLoading: StateFlow<Boolean> = _dailyLoading.asStateFlow()
+    private var dailyRequestId = 0
+
     /** Earliest/latest date any loaded lectionary year actually covers, so the day picker bounds itself to real data instead of a hardcoded year -- widens automatically the day a future year's content ships. Null until the one-time load completes. */
     private val _readingDateRange = MutableStateFlow<Pair<LocalDate, LocalDate>?>(null)
     val readingDateRange: StateFlow<Pair<LocalDate, LocalDate>?> = _readingDateRange.asStateFlow()
 
     fun previousReadingDay() {
         _selectedReadingDate.value = _selectedReadingDate.value.minusDays(1)
-        viewModelScope.launch { loadDailyReading() }
+        viewModelScope.launch { loadDailyReading(_selectedReadingDate.value) }
     }
 
     fun nextReadingDay() {
         _selectedReadingDate.value = _selectedReadingDate.value.plusDays(1)
-        viewModelScope.launch { loadDailyReading() }
+        viewModelScope.launch { loadDailyReading(_selectedReadingDate.value) }
     }
 
     fun goToTodayReading() {
         _selectedReadingDate.value = LocalDate.now()
-        viewModelScope.launch { loadDailyReading() }
+        viewModelScope.launch { loadDailyReading(_selectedReadingDate.value) }
     }
 
     fun goToReadingDate(date: LocalDate) {
         _selectedReadingDate.value = date
-        viewModelScope.launch { loadDailyReading() }
+        viewModelScope.launch { loadDailyReading(date) }
     }
 
     // ---------- Language ----------
@@ -234,28 +267,51 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
     }
 
     /** Loads the selected date's Mass readings (if this app ships that date's lectionary year) and resolves each role's citation(s) to real text for the current translation. Deliberately does NOT touch the verse-of-the-day card -- that always reflects the real calendar day regardless of which lectionary date is being browsed here; see ensureFreshForCurrentLanguage(). */
-    private suspend fun loadDailyReading() {
-        val date = _selectedReadingDate.value.format(DateTimeFormatter.ISO_LOCAL_DATE)
-        _dailyReading.value = repo.dailyReading(date, currentLanguage())
-        val translationId = currentTranslationId()
-        _resolvedReadings.value = repo.readingCitations(date, currentLanguage())
-            .groupBy { it.role }
-            .map { (role, refs) ->
-                val sorted = refs.sortedBy { it.position }
-                val perRange = sorted.map { ref ->
-                    repo.versesForRange(ref.bookId, ref.chapterStart, ref.verseStart, ref.chapterEnd, ref.verseEnd, translationId)
-                        .joinToString(" ") { it.text }
+    private suspend fun loadDailyReading(selectedDate: LocalDate = _selectedReadingDate.value) {
+        val requestId = ++dailyRequestId
+        _dailyLoading.value = true
+        val date = selectedDate.format(DateTimeFormatter.ISO_LOCAL_DATE)
+        try {
+            val language = currentLanguage()
+            val dailyReading = repo.dailyReading(date, language)
+            val translationId = currentTranslationId()
+            val resolvedReadings = repo.readingCitations(date, language)
+                .groupBy { it.role }
+                .map { (role, refs) ->
+                    val sorted = refs.sortedBy { it.position }
+                    val perRange = sorted.map { ref ->
+                        repo.versesForRange(ref.bookId, ref.chapterStart, ref.verseStart, ref.chapterEnd, ref.verseEnd, translationId)
+                            .joinToString(" ") { it.text }
+                    }
+                    ResolvedReading(
+                        role = role,
+                        citationDisplay = sorted.first().citationDisplay,
+                        bookId = sorted.first().bookId,
+                        fragments = sorted.map { CitationFragment(it.chapterStart, it.verseStart, it.chapterEnd, it.verseEnd) },
+                        text = perRange.joinToString(" "),
+                        refrain = sorted.first().refrain
+                    )
                 }
-                ResolvedReading(
-                    role = role,
-                    citationDisplay = sorted.first().citationDisplay,
-                    bookId = sorted.first().bookId,
-                    fragments = sorted.map { CitationFragment(it.chapterStart, it.verseStart, it.chapterEnd, it.verseEnd) },
-                    text = perRange.joinToString(" "),
-                    refrain = sorted.first().refrain
-                )
+                .sortedBy { READING_ROLE_ORDER.indexOf(it.role) }
+            if (requestId == dailyRequestId) {
+                _dailyReading.value = dailyReading
+                _resolvedReadings.value = resolvedReadings
             }
-            .sortedBy { READING_ROLE_ORDER.indexOf(it.role) }
+        } catch (error: CancellationException) {
+            throw error
+        } catch (error: Exception) {
+            Log.e("MainViewModel", "Failed to load daily readings for $date", error)
+            if (requestId == dailyRequestId) {
+                _dailyReading.value = null
+                _resolvedReadings.value = emptyList()
+            }
+        } finally {
+            if (requestId == dailyRequestId) {
+                dailyReadingLoaded = true
+                _dailyLoading.value = false
+                markDailyScreenReadyIfLoaded()
+            }
+        }
     }
 
     /**
@@ -269,22 +325,48 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
      * something to rely on either way -- this covers both cases.
      */
     fun ensureFreshForCurrentLanguage() {
+        if (!contentSeeded.value) return
         val language = currentLanguage()
         val languageChanged = loadedLanguage != language
         if (languageChanged) {
             loadedLanguage = language
-            viewModelScope.launch { repo.feelings(language).collect { _feelings.value = it } }
+            searchRequestId++
+            _searchResults.value = emptyList()
+            listOf("home", "saved", "bible", "characters", "stories", "about", "daily").forEach(::markScreenLoading)
+            verseOfDayLoaded = false
+            dailyReadingLoaded = false
             viewModelScope.launch {
-                repo.savedEntries(language).collect { _saved.value = withResolvedPassageText(it) }
+                repo.feelings(language).collect {
+                    _feelings.value = it
+                    if (it.isNotEmpty()) markScreenReady("home")
+                    refreshSearchResults()
+                }
             }
             viewModelScope.launch {
-                repo.readableBooks(currentTranslationId()).collect { _readableBooks.value = it }
+                repo.savedEntries(language).collect {
+                    _saved.value = withResolvedPassageText(it)
+                    markScreenReady("saved")
+                }
+            }
+            viewModelScope.launch {
+                repo.readableBooks(currentTranslationId()).collect {
+                    _readableBooks.value = it
+                    if (it.isNotEmpty()) markScreenReady("bible")
+                }
             }
             viewModelScope.launch {
                 val includeDeuterocanon = repo.translationIncludesDeuterocanon(language)
-                repo.characters(language, includeDeuterocanon).collect { _characters.value = it }
+                repo.characters(language, includeDeuterocanon).collect {
+                    _characters.value = it
+                    if (it.isNotEmpty()) markScreenReady("characters")
+                }
             }
-            viewModelScope.launch { repo.stories(language).collect { _stories.value = it } }
+            viewModelScope.launch {
+                repo.stories(language).collect {
+                    _stories.value = it
+                    if (it.isNotEmpty()) markScreenReady("stories")
+                }
+            }
             _selectedFeeling.value?.let { feeling ->
                 viewModelScope.launch {
                     _feelingEntries.value = withResolvedPassageText(repo.entriesForFeeling(feeling.id, language))
@@ -300,31 +382,68 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         val today = LocalDate.now()
         if (languageChanged || loadedVerseDate != today) {
             loadedVerseDate = today
+            val requestId = ++verseRequestId
             viewModelScope.launch {
-                val monthDay = today.format(DateTimeFormatter.ofPattern("MM-dd"))
-                _verseOfDay.value = repo.verseOfDay(monthDay)?.let { resolvedPassage(it) }
+                try {
+                    val monthDay = today.format(DateTimeFormatter.ofPattern("MM-dd"))
+                    val passage = repo.verseOfDay(monthDay)?.let { resolvedPassage(it) }
+                    if (requestId == verseRequestId) _verseOfDay.value = passage
+                } catch (error: CancellationException) {
+                    throw error
+                } catch (error: Exception) {
+                    Log.e("MainViewModel", "Failed to load verse of the day for $today", error)
+                    if (requestId == verseRequestId) _verseOfDay.value = null
+                } finally {
+                    if (requestId == verseRequestId) {
+                        verseOfDayLoaded = true
+                        markDailyScreenReadyIfLoaded()
+                    }
+                }
             }
         }
     }
 
     init {
-        ensureFreshForCurrentLanguage()
-        viewModelScope.launch { repo.bookmarks().collect { _bookmarks.value = it } }
-        viewModelScope.launch { repo.translations().collect { _translations.value = it } }
         viewModelScope.launch {
-            val earliest = repo.earliestReadingDate()
-            val latest = repo.latestReadingDate()
-            if (earliest != null && latest != null) {
-                _readingDateRange.value = LocalDate.parse(earliest) to LocalDate.parse(latest)
+            contentSeeded.first { it }
+            ensureFreshForCurrentLanguage()
+            launch { repo.bookmarks().collect { _bookmarks.value = it } }
+            launch {
+                repo.translations().collect {
+                    _translations.value = it
+                    markScreenReady("about")
+                }
+            }
+            launch {
+                val earliest = repo.earliestReadingDate()
+                val latest = repo.latestReadingDate()
+                if (earliest != null && latest != null) {
+                    _readingDateRange.value = LocalDate.parse(earliest) to LocalDate.parse(latest)
+                }
+                readingDateRangeLoaded = true
+                markDailyScreenReadyIfLoaded()
             }
         }
     }
 
     fun onSearchQueryChange(query: String) {
         _searchQuery.value = query
+        refreshSearchResults()
+    }
+
+    private fun refreshSearchResults() {
+        val query = _searchQuery.value
+        val requestId = ++searchRequestId
+        if (query.isBlank()) {
+            _searchResults.value = emptyList()
+            return
+        }
         viewModelScope.launch {
-            val ids = repo.feelingsMatching(query)
-            _searchResults.value = ids.mapNotNull { id -> _feelings.value.find { it.id == id } }
+            val ids = repo.feelingsMatching(query, currentLanguage())
+            if (requestId == searchRequestId && query == _searchQuery.value) {
+                val currentFeelings = _feelings.value
+                _searchResults.value = ids.mapNotNull { id -> currentFeelings.find { it.id == id } }
+            }
         }
     }
 
@@ -335,14 +454,20 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
     /** Selects [book] and opens its first available chapter in one step, for tapping a book in the browse list. */
     suspend fun openBook(book: Book) {
+        markScreenLoading("bible_reader")
         val translationId = currentTranslationId()
         val chapters = repo.chaptersForBook(book.id, translationId)
         _selectedBook.value = book
         _chapters.value = chapters
-        val chapter = chapters.firstOrNull() ?: return
+        val chapter = chapters.firstOrNull()
+        if (chapter == null) {
+            markScreenReady("bible_reader")
+            return
+        }
         _currentChapter.value = chapter
         _scrollToVerse.value = null
         _chapterVerses.value = repo.versesForChapter(book.id, chapter, translationId)
+        markScreenReady("bible_reader")
     }
 
     /** Chapters actually loaded for [book] in the current reading language — drives the "go to reference" picker's chapter list. */
@@ -354,9 +479,13 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
     fun openChapter(chapter: Int) {
         val book = _selectedBook.value ?: return
+        markScreenLoading("bible_reader")
         _currentChapter.value = chapter
         _scrollToVerse.value = null
-        viewModelScope.launch { _chapterVerses.value = repo.versesForChapter(book.id, chapter, currentTranslationId()) }
+        viewModelScope.launch {
+            _chapterVerses.value = repo.versesForChapter(book.id, chapter, currentTranslationId())
+            markScreenReady("bible_reader")
+        }
     }
 
     /**
@@ -366,13 +495,16 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
      * intentionally lists every book, not just the ones with text.
      */
     suspend fun goToReference(book: Book, chapter: Int, verse: Int?): String? {
+        markScreenLoading("bible_reader")
         val translationId = currentTranslationId()
         val chapters = repo.chaptersForBook(book.id, translationId)
         if (chapter !in chapters) {
+            markScreenReady("bible_reader")
             return "${book.displayName} $chapter isn't loaded in this prototype yet."
         }
         val verses = repo.versesForChapter(book.id, chapter, translationId)
         if (verse != null && verses.none { it.verse == verse }) {
+            markScreenReady("bible_reader")
             return "${book.displayName} $chapter has ${verses.size} verse(s) loaded here — verse $verse isn't among them."
         }
         _selectedBook.value = book
@@ -380,6 +512,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         _currentChapter.value = chapter
         _chapterVerses.value = verses
         _scrollToVerse.value = verse
+        markScreenReady("bible_reader")
         return null
     }
 
@@ -407,15 +540,20 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
      * the bookmark in place rather than navigating to an empty reader.
      */
     suspend fun openBookmark(bookmark: BibleBookmark): Boolean {
+        markScreenLoading("bible_reader")
         val translationId = currentTranslationId()
         val chapters = repo.chaptersForBook(bookmark.bookId, translationId)
         val book = _readableBooks.value.firstOrNull { it.id == bookmark.bookId }
-        if (book == null || bookmark.chapter !in chapters) return false
+        if (book == null || bookmark.chapter !in chapters) {
+            markScreenReady("bible_reader")
+            return false
+        }
         _selectedBook.value = book
         _chapters.value = chapters
         _currentChapter.value = bookmark.chapter
         _scrollToVerse.value = bookmark.verse
         _chapterVerses.value = repo.versesForChapter(bookmark.bookId, bookmark.chapter, translationId)
+        markScreenReady("bible_reader")
         return true
     }
 
@@ -441,11 +579,13 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         get() = _feelingEntries.value.getOrNull(_currentIndex.value)
 
     fun selectFeeling(feeling: Feeling) {
+        markScreenLoading("verse")
         _selectedFeeling.value = feeling
         _currentIndex.value = 0
         viewModelScope.launch {
             _feelingEntries.value = withResolvedPassageText(repo.entriesForFeeling(feeling.id, currentLanguage()))
             loadExtraPassages()
+            markScreenReady("verse")
             currentEntry?.let { repo.recordView(it.entry.id, feeling.id) }
         }
     }
@@ -471,6 +611,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
     /** Loads [character]'s verse citations and resolves the real text for each from the current translation. */
     fun selectCharacter(character: CharacterSummary) {
+        markScreenLoading("character_detail")
         _selectedCharacter.value = character
         _characterVerses.value = emptyList()
         viewModelScope.launch {
@@ -488,6 +629,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
                     verses = verses
                 )
             }
+            markScreenReady("character_detail")
         }
     }
 
@@ -501,6 +643,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
 
     /** Loads [story]'s verse citations (resolving real text for each range from the current translation) and its curated related characters. */
     fun selectStory(story: StorySummary) {
+        markScreenLoading("story_detail")
         _selectedStory.value = story
         _storyVerses.value = emptyList()
         _storyCharacters.value = emptyList()
@@ -521,6 +664,7 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
                 )
             }
             _storyCharacters.value = repo.charactersForStory(story.id, currentLanguage())
+            markScreenReady("story_detail")
         }
     }
 
@@ -535,9 +679,12 @@ class MainViewModel(private val repo: ContentRepository) : ViewModel() {
         }
     }
 
-    class Factory(private val repo: ContentRepository) : ViewModelProvider.Factory {
+    class Factory(
+        private val repo: ContentRepository,
+        private val contentSeeded: StateFlow<Boolean>
+    ) : ViewModelProvider.Factory {
         @Suppress("UNCHECKED_CAST")
         override fun <T : ViewModel> create(modelClass: Class<T>): T =
-            MainViewModel(repo) as T
+            MainViewModel(repo, contentSeeded) as T
     }
 }

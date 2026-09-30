@@ -10,3 +10,4 @@ keystore.properties
 *.jks
 *.keystore
 README.txt
+/tools/__pycache__

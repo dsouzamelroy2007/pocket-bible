@@ -7,6 +7,8 @@ import androidx.sqlite.db.SupportSQLiteDatabase
 import app.pocketbible.data.ContentDatabase
 import app.pocketbible.data.ContentRepository
 import app.pocketbible.data.SeedLoader
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob
@@ -157,6 +159,10 @@ private val MIGRATION_6_7 = object : Migration(6, 7) {
 class PocketBibleApp : Application() {
 
     private val appScope = CoroutineScope(SupervisorJob() + Dispatchers.IO)
+    private val _contentSeeded = MutableStateFlow(false)
+    val contentSeeded = _contentSeeded.asStateFlow()
+    private val _firstContentSeed = MutableStateFlow(false)
+    val firstContentSeed = _firstContentSeed.asStateFlow()
 
     val database: ContentDatabase by lazy {
         Room.databaseBuilder(this, ContentDatabase::class.java, "pocketbible.db")
@@ -172,11 +178,15 @@ class PocketBibleApp : Application() {
 
     override fun onCreate() {
         super.onCreate()
+        _firstContentSeed.value = getSharedPreferences("pocketbible_prefs", MODE_PRIVATE)
+            .getInt("content_version", -1) == -1
         // Room's Flow queries re-emit automatically once this finishes, so the
         // UI doesn't need to wait on it explicitly — the feelings grid just
         // fills in a moment after first launch.
         appScope.launch {
             SeedLoader(this@PocketBibleApp, database).seedIfNeeded()
+            _contentSeeded.value = true
+            _firstContentSeed.value = false
         }
     }
 }

@@ -37,7 +37,7 @@ import app.pocketbible.R
 import app.pocketbible.data.Feeling
 import app.pocketbible.ui.LanguageMenuButton
 import app.pocketbible.ui.TooltipIconButton
-import app.pocketbible.ui.theme.categoryAccent
+import app.pocketbible.ui.theme.feelingCardAccent
 
 @Composable
 fun HomeScreen(
@@ -110,8 +110,8 @@ fun HomeScreen(
                     fontWeight = FontWeight.Medium
                 )
                 Spacer(Modifier.height(8.dp))
-                searchResults.forEach { feeling ->
-                    val accent = categoryAccent(feeling.category)
+                searchResults.forEachIndexed { index, feeling ->
+                    val accent = feelingCardAccent(index)
                     Card(
                         onClick = { onFeelingSelected(feeling) },
                         colors = CardDefaults.cardColors(containerColor = accent.container),
@@ -141,14 +141,16 @@ fun HomeScreen(
         Text(stringResource(R.string.home_i_am_feeling), style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Medium)
         Spacer(Modifier.height(8.dp))
         Column(verticalArrangement = Arrangement.spacedBy(10.dp)) {
-            feelings.chunked(2).forEach { rowFeelings ->
+            feelings.chunked(2).forEachIndexed { rowIndex, rowFeelings ->
                 Row(
                     Modifier.fillMaxWidth().height(IntrinsicSize.Min),
                     horizontalArrangement = Arrangement.spacedBy(10.dp)
                 ) {
-                    rowFeelings.forEach { feeling ->
+                    rowFeelings.forEachIndexed { columnIndex, feeling ->
+                        val accent = feelingCardAccent(rowIndex * 2 + columnIndex)
                         FeelingCard(
                             feeling,
+                            accent,
                             onClick = { onFeelingSelected(feeling) },
                             modifier = Modifier.weight(1f).fillMaxHeight()
                         )
@@ -165,8 +167,12 @@ fun HomeScreen(
 }
 
 @Composable
-private fun FeelingCard(feeling: Feeling, onClick: () -> Unit, modifier: Modifier = Modifier) {
-    val accent = categoryAccent(feeling.category)
+private fun FeelingCard(
+    feeling: Feeling,
+    accent: app.pocketbible.ui.theme.CategoryAccent,
+    onClick: () -> Unit,
+    modifier: Modifier = Modifier
+) {
     ElevatedCard(
         onClick = onClick,
         colors = CardDefaults.elevatedCardColors(containerColor = accent.container),

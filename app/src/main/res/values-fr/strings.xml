@@ -9,6 +9,8 @@
     <string name="language_button">Langue</string>
     <string name="language_system_default">Système par défaut</string>
     <string name="language_restarting">Redémarrage pour changer de langue…</string>
+    <string name="loading_first_seed">Préparation du contenu pour votre première utilisation</string>
+    <string name="loading_switching_language">Changement de langue…</string>
 
     <string name="home_title">Comment va ton cœur aujourd\'hui ?</string>
     <string name="home_subtitle">Choisis ce qui te convient, ou recherche un mot ou un sentiment.</string>
@@ -81,6 +83,11 @@
     <string name="about_translations_heading">Traductions de la Bible</string>
     <string name="about_view_source">Voir la source</string>
     <string name="about_view_license">Voir la licence</string>
+    <string name="about_daily_readings_heading">Sources des lectures quotidiennes</string>
+    <string name="about_daily_readings_description">Les dates et références des lectures quotidiennes proviennent de Catholic Readings API, copyright (c) 2025 cpbjr, sous licence MIT. L’API indique l’USCCB comme source sous-jacente et fournit des liens vers ses lectures officielles du jour. Pocket Bible inclut des références, et non le texte intégral du lectionnaire de l’USCCB ; le texte biblique est affiché depuis la traduction intégrée sélectionnée. Pocket Bible est indépendant et n’est pas approuvé par l’USCCB.</string>
+    <string name="about_daily_readings_api">Catholic Readings API</string>
+    <string name="about_usccb_readings">Lectures de l’USCCB</string>
+    <string name="about_readings_license_title">Catholic Readings API – Licence MIT</string>
 
     <string name="verse_no_entries">Pas encore d\'entrées pour %1$s.</string>
     <string name="verse_what_it_means">Ce que cela signifie pour toi</string>

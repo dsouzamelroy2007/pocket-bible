@@ -9,13 +9,14 @@ live here rather than under `app/src/main/res/`.
   rendered full-bleed with no adaptive-icon safe-zone padding, since Play applies
   its own icon shape at listing time.
 - `listing-copy.md` — draft short/long descriptions and submission notes.
-- `screenshots/` — 9 real on-device phone screenshots, cropped to 1440×2880
+- `screenshots/` — 11 real on-device phone screenshots, cropped to 1440×2880
   (exactly 2:1, within Play's aspect-ratio limit) with the status bar and
-  system nav bar removed. Ready to upload as-is under Store presence → Main
-  store listing → Phone screenshots.
+  system navigation area removed. Includes the v2 Stories and Readings &
+  Reflection screens. Ready to upload under Store presence → Main store
+  listing → Phone screenshots.
 - `feature_graphic_1024x500.png` — the banner for Store presence → Main
   store listing → Feature graphic. Same navy/gold identity as the app icon,
-  built from the icon artwork plus the `01-topics-home.jpg` screenshot in a
+  built from the icon artwork plus the `10-stories-v2.png` screenshot in a
   phone frame, generated from `tools/` — regenerate by re-running the build
   script if the icon or headline copy changes rather than editing the PNG
   by hand.

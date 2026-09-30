@@ -9,6 +9,8 @@
     <string name="language_button">भाषा</string>
     <string name="language_system_default">सिस्टम डीफॉल्ट</string>
     <string name="language_restarting">भाषा बदलण्यासाठी पुन्हा सुरू होत आहे…</string>
+    <string name="loading_first_seed">पहिल्या वापरासाठी मजकूर तयार केला जात आहे</string>
+    <string name="loading_switching_language">भाषा बदलत आहे…</string>
 
     <string name="home_title">आज तुझं मन कसं आहे?</string>
     <string name="home_subtitle">जे योग्य वाटेल ते निवडा, किंवा एखादा शब्द किंवा भावना शोधा.</string>
@@ -81,6 +83,11 @@
     <string name="about_translations_heading">बायबल भाषांतरे</string>
     <string name="about_view_source">स्रोत पाहा</string>
     <string name="about_view_license">परवाना पाहा</string>
+    <string name="about_daily_readings_heading">दैनिक वाचनांचे स्रोत</string>
+    <string name="about_daily_readings_description">दैनिक वाचनांच्या तारखा आणि संदर्भ Catholic Readings API मधून घेतले आहेत. Copyright (c) 2025 cpbjr; MIT परवान्याअंतर्गत. API मध्ये USCCB ला मूळ स्रोत म्हणून नमूद केले आहे आणि त्यांच्या अधिकृत दैनिक वाचनांचे दुवे दिले आहेत. Pocket Bible मध्ये संदर्भ आहेत, USCCB चा संपूर्ण लेक्शनरी मजकूर नाही; बायबलचा मजकूर निवडलेल्या समाविष्ट भाषांतरातून दाखवला जातो. Pocket Bible स्वतंत्र आहे आणि USCCB कडून समर्थित नाही.</string>
+    <string name="about_daily_readings_api">Catholic Readings API</string>
+    <string name="about_usccb_readings">USCCB वाचने</string>
+    <string name="about_readings_license_title">Catholic Readings API — MIT परवाना</string>
 
     <string name="verse_no_entries">%1$s साठी अजून कोणत्याही नोंदी नाहीत.</string>
     <string name="verse_what_it_means">याचा तुझ्यासाठी अर्थ काय</string>

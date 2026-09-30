@@ -28,9 +28,9 @@ class ContentRepository(private val dao: ContentDao) {
         dao.record(ViewHistory(entryId = entryId, feelingId = feelingId, viewedAt = System.currentTimeMillis()))
     }
 
-    /** Feeling ids ranked by how well free text matches, for a future search box. */
-    suspend fun feelingsMatching(query: String): List<String> =
-        if (query.isBlank()) emptyList() else dao.feelingsMatching(query.trim().lowercase())
+    /** Feeling ids ranked by alias, base text, or translated text matches. */
+    suspend fun feelingsMatching(query: String, language: String): List<String> =
+        if (query.isBlank()) emptyList() else dao.feelingsMatching(query.trim().lowercase(), language)
 
     // ---------- Open-ended reading ----------
 

@@ -13,6 +13,8 @@
     <string name="language_button">Language</string>
     <string name="language_system_default">System default</string>
     <string name="language_restarting">Restarting to switch language…</string>
+    <string name="loading_first_seed">Seeding content for your first time use</string>
+    <string name="loading_switching_language">Switching language…</string>
 
     <!-- Home / topics tab -->
     <string name="home_title">How is your heart today?</string>
@@ -126,6 +128,12 @@
     <string name="about_translations_heading">Bible Translations</string>
     <string name="about_view_source">View source</string>
     <string name="about_view_license">View license</string>
+    <string name="about_daily_readings_heading">Daily Reading Sources</string>
+    <string name="about_daily_readings_description">Daily reading dates and citations are bundled from Catholic Readings API, copyright (c) 2025 cpbjr, under the MIT License. The API identifies the USCCB as an underlying source and provides links to its official daily readings. Pocket Bible includes citations, not the complete USCCB Lectionary text; Scripture text is resolved from the selected bundled Bible translation. Pocket Bible is independent and is not endorsed by the USCCB.</string>
+    <string name="about_daily_readings_api">Catholic Readings API</string>
+    <string name="about_usccb_readings">USCCB readings</string>
+    <string name="about_readings_license_title">Catholic Readings API — MIT License</string>
+    <string name="about_readings_mit_license" formatted="false">MIT License\n\nCopyright (c) 2025 cpbjr\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
 
     <!-- Verse / topic detail -->
     <string name="verse_no_entries">No entries yet for %1$s.</string>
