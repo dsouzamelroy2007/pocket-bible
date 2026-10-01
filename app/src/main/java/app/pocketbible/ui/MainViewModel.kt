@@ -332,7 +332,7 @@ class MainViewModel(
             loadedLanguage = language
             searchRequestId++
             _searchResults.value = emptyList()
-            listOf("home", "saved", "bible", "characters", "stories", "about", "daily").forEach(::markScreenLoading)
+            listOf("home", "saved", "bible", "characters", "stories", "daily").forEach(::markScreenLoading)
             verseOfDayLoaded = false
             dailyReadingLoaded = false
             viewModelScope.launch {
