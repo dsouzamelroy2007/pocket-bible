@@ -31,6 +31,14 @@
     <string name="reading_reflection_heading">Reflexão</string>
     <string name="reading_refrain_prefix">R. %1$s</string>
     <string name="reading_none_today">Nenhuma leitura carregada para a data de hoje.</string>
+    <string name="reading_share_button">Compartilhar leituras do dia</string>
+    <string name="reading_share_chooser_title">Compartilhar leituras do dia</string>
+    <string name="reading_share_subject">%1$s — Leituras do dia e reflexão</string>
+    <string name="reading_share_message_title">Pocket Bible — Leituras do dia e reflexão</string>
+    <string name="reading_share_verse_heading">Versículo do dia — %1$s</string>
+    <string name="reading_share_mass_heading">Leituras da Missa — %1$s</string>
+    <string name="reading_share_invitation">Leia e reflita offline com o Pocket Bible.</string>
+    <string name="reading_share_download_label">Baixe o Pocket Bible:</string>
 
     <string name="read_title">Bíblia</string>
     <string name="read_subtitle">Vá direto a uma referência, ou explore o que está disponível abaixo.</string>

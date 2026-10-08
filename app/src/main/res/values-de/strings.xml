@@ -31,6 +31,14 @@
     <string name="reading_reflection_heading">Besinnung</string>
     <string name="reading_refrain_prefix">R. %1$s</string>
     <string name="reading_none_today">Für das heutige Datum sind noch keine Lesungen geladen.</string>
+    <string name="reading_share_button">Tageslesungen teilen</string>
+    <string name="reading_share_chooser_title">Tageslesungen teilen</string>
+    <string name="reading_share_subject">%1$s — Tageslesungen und Besinnung</string>
+    <string name="reading_share_message_title">Pocket Bible — Tageslesungen und Besinnung</string>
+    <string name="reading_share_verse_heading">Vers des Tages — %1$s</string>
+    <string name="reading_share_mass_heading">Tägliche Messlesungen — %1$s</string>
+    <string name="reading_share_invitation">Lies und betrachte die Texte offline mit Pocket Bible.</string>
+    <string name="reading_share_download_label">Pocket Bible herunterladen:</string>
 
     <string name="read_title">Bibel</string>
     <string name="read_subtitle">Springe direkt zu einer Bibelstelle, oder stöbere unten.</string>

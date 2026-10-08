@@ -36,6 +36,15 @@
     <string name="reading_reflection_heading">Reflection</string>
     <string name="reading_refrain_prefix">R. %1$s</string>
     <string name="reading_none_today">No readings loaded for this date yet.</string>
+    <string name="reading_share_button">Share daily readings</string>
+    <string name="reading_share_chooser_title">Share daily readings</string>
+    <string name="reading_share_subject">%1$s — Daily Readings &amp; Reflection</string>
+    <string name="reading_share_message_title">Pocket Bible — Daily Readings &amp; Reflection</string>
+    <string name="reading_share_verse_heading">Verse of the Day — %1$s</string>
+    <string name="reading_share_mass_heading">Daily Mass Readings — %1$s</string>
+    <string name="reading_share_invitation">Read and reflect offline with Pocket Bible.</string>
+    <string name="reading_share_download_label">Download Pocket Bible:</string>
+    <string name="reading_share_download_url">https://play.google.com/store/apps/details?id=app.pocketbible</string>
     <string name="reading_previous_day">Previous day</string>
     <string name="reading_next_day">Next day</string>
     <string name="reading_today">Jump to Today</string>

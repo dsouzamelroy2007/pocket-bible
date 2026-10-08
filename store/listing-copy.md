@@ -6,9 +6,9 @@ limits as of this writing; re-check them in Play Console before pasting.
 
 ## Short description (max 80 characters)
 
-    Find a Bible verse for how you feel today — read, save, and bookmark, offline.
+    Read the Bible, explore stories, and meet biblical characters offline.
 
-(78 characters)
+(67 characters)
 
 ## Full description (max 4000 characters)
 

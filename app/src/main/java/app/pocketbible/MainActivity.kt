@@ -1,5 +1,6 @@
 package app.pocketbible
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
@@ -48,6 +49,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.platform.LocalLifecycleOwner
+import androidx.compose.ui.platform.LocalContext
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleEventObserver
 import androidx.compose.ui.Alignment
@@ -196,6 +198,8 @@ private fun AppScaffold(
     onLanguageSwitchFinished: () -> Unit,
     onLanguageSelected: (String?) -> Unit
 ) {
+    val context = LocalContext.current
+
     // Covers the case where this ViewModel instance survived the recreate()
     // a language switch triggers, so its topics/saved Flows would otherwise
     // stay pinned to whatever language was current when they were first
@@ -377,7 +381,20 @@ private fun AppScaffold(
                     onNextDay = { viewModel.nextReadingDay() },
                     onToday = { viewModel.goToTodayReading() },
                     onDateSelected = { viewModel.goToReadingDate(it) },
-                    onLanguageSelected = onLanguageSelected
+                    onLanguageSelected = onLanguageSelected,
+                    onShare = { content ->
+                        val sendIntent = Intent(Intent.ACTION_SEND).apply {
+                            type = "text/plain"
+                            putExtra(Intent.EXTRA_SUBJECT, content.subject)
+                            putExtra(Intent.EXTRA_TEXT, content.asPlainText())
+                        }
+                        context.startActivity(
+                            Intent.createChooser(
+                                sendIntent,
+                                context.getString(R.string.reading_share_chooser_title)
+                            )
+                        )
+                    }
                 )
             }
             composable("about") {

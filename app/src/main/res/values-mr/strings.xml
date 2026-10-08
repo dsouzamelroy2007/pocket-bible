@@ -31,6 +31,14 @@
     <string name="reading_reflection_heading">मनन</string>
     <string name="reading_refrain_prefix">R. %1$s</string>
     <string name="reading_none_today">आजच्या तारखेसाठी अद्याप कोणतीही वाचने लोड झालेली नाहीत.</string>
+    <string name="reading_share_button">आजची वाचने शेअर करा</string>
+    <string name="reading_share_chooser_title">आजची वाचने शेअर करा</string>
+    <string name="reading_share_subject">%1$s — दैनिक वाचने आणि मनन</string>
+    <string name="reading_share_message_title">Pocket Bible — दैनिक वाचने आणि मनन</string>
+    <string name="reading_share_verse_heading">आजचे वचन — %1$s</string>
+    <string name="reading_share_mass_heading">दैनिक मिस्साची वाचने — %1$s</string>
+    <string name="reading_share_invitation">Pocket Bible सोबत ऑफलाइन वाचा आणि मनन करा.</string>
+    <string name="reading_share_download_label">Pocket Bible डाउनलोड करा:</string>
 
     <string name="read_title">बायबल</string>
     <string name="read_subtitle">थेट एका वचनाकडे जा, किंवा खाली चाळा.</string>

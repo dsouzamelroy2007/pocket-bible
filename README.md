@@ -9,7 +9,7 @@
 - 📖 The full 73-book Catholic canon in English, plus Scripture translations in German, French, Hindi, Italian, Marathi, and Portuguese; book coverage varies by translation
 - 🌍 Interface in English, German, French, Portuguese, Hindi, Italian, and Marathi
 - ❤️ Curated feelings-to-passages mapping with reflections and prayers
-- 📅 Verse of the Day and daily Catholic readings with reflections
+- 📅 Verse of the Day and daily Catholic readings with reflections, shareable to messaging and email apps
 - 👥 280 biblical character profiles with introductions and Scripture references
 - 📚 146 Bible stories and parables with Scripture references, summaries, and reflections
 - 🔖 Bookmark stories and save favorite verses
@@ -62,7 +62,8 @@ app. On first launch, the app seeds its local database from
   "cant forgive"), then open a topic for related passages, reflections,
   and prayers.
 - Open **Readings & Reflection** for the Verse of the Day and date-based Catholic readings
-  with reflections.
+  with reflections. Use **Share** to send the verse, readings, reflection, and an
+  app download link through Android's share sheet.
 - Browse **Characters** to search 280 biblical profiles and open their
   introductions and Scripture references.
 - Browse **Stories** to search 146 stories and parables; filter by

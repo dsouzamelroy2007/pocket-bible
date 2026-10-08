@@ -31,6 +31,14 @@
     <string name="reading_reflection_heading">चिंतन</string>
     <string name="reading_refrain_prefix">R. %1$s</string>
     <string name="reading_none_today">आज की तारीख के लिए अभी तक कोई पाठ लोड नहीं हुआ है।</string>
+    <string name="reading_share_button">आज के पाठ साझा करें</string>
+    <string name="reading_share_chooser_title">आज के पाठ साझा करें</string>
+    <string name="reading_share_subject">%1$s — दैनिक पाठ और चिंतन</string>
+    <string name="reading_share_message_title">Pocket Bible — दैनिक पाठ और चिंतन</string>
+    <string name="reading_share_verse_heading">आज का पद — %1$s</string>
+    <string name="reading_share_mass_heading">दैनिक मिस्सा पाठ — %1$s</string>
+    <string name="reading_share_invitation">Pocket Bible के साथ ऑफ़लाइन पढ़ें और मनन करें।</string>
+    <string name="reading_share_download_label">Pocket Bible डाउनलोड करें:</string>
 
     <string name="read_title">बाइबिल</string>
     <string name="read_subtitle">सीधे किसी संदर्भ पर जाएं, या नीचे उपलब्ध सामग्री ब्राउज़ करें।</string>

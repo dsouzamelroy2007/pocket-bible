@@ -16,6 +16,7 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ChevronLeft
 import androidx.compose.material.icons.filled.ChevronRight
+import androidx.compose.material.icons.outlined.Share
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.DatePicker
@@ -35,6 +36,8 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalConfiguration
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
@@ -51,6 +54,7 @@ import java.time.Instant
 import java.time.LocalDate
 import java.time.ZoneOffset
 import java.time.format.DateTimeFormatter
+import java.time.format.FormatStyle
 import java.util.Locale
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -85,9 +89,56 @@ fun DailyReadingScreen(
     onToday: () -> Unit,
     onDateSelected: (LocalDate) -> Unit,
     onLanguageSelected: (String?) -> Unit,
+    onShare: (DailyReadingShareContent) -> Unit,
     modifier: Modifier = Modifier
 ) {
     var showDatePicker by remember { mutableStateOf(false) }
+    val context = LocalContext.current
+    val appLocale = LocalConfiguration.current.locales[0] ?: Locale.getDefault()
+    val shareDateFormatter = remember(appLocale) {
+        DateTimeFormatter.ofLocalizedDate(FormatStyle.FULL).withLocale(appLocale)
+    }
+    val verseCitation = if (verseOfDay != null) {
+        localizedReference(verseOfDay.bookId, verseOfDay.chapterStart, verseOfDay.verseStart, verseOfDay.verseEnd)
+    } else {
+        ""
+    }
+    val shareReadings = mutableListOf<DailyReadingShareSection>()
+    for (reading in readings) {
+        shareReadings += DailyReadingShareSection(
+            heading = context.getString(roleHeading(reading.role)),
+            refrain = reading.refrain?.let { context.getString(R.string.reading_refrain_prefix, it) },
+            text = reading.text,
+            citation = localizedCitationDisplay(reading.bookId, reading.fragments)
+        )
+    }
+    val shareReady = verseOfDay != null && dailyReading != null && readings.isNotEmpty()
+    val shareSubject = stringResource(
+        R.string.reading_share_subject,
+        selectedDate.format(shareDateFormatter)
+    )
+    val shareContent = if (shareReady && verseOfDay != null && dailyReading != null) {
+        DailyReadingShareContent(
+            subject = shareSubject,
+            title = stringResource(R.string.reading_share_message_title),
+            verseHeading = stringResource(
+                R.string.reading_share_verse_heading,
+                LocalDate.now().format(shareDateFormatter)
+            ),
+            verseText = verseOfDay.pullQuote ?: verseOfDay.text,
+            verseCitation = verseCitation,
+            readingsHeading = stringResource(R.string.reading_share_mass_heading, selectedDate.format(shareDateFormatter)),
+            readings = shareReadings,
+            reflectionHeading = stringResource(R.string.reading_reflection_heading),
+            reflection = dailyReading.reflection,
+            unavailableText = stringResource(R.string.reading_text_unavailable),
+            invitation = stringResource(R.string.reading_share_invitation),
+            downloadLabel = stringResource(R.string.reading_share_download_label),
+            downloadUrl = context.getString(R.string.reading_share_download_url)
+        )
+    } else {
+        null
+    }
 
     if (showDatePicker) {
         val (minDate, maxDate) = dateRange ?: (LocalDate.now() to LocalDate.now())
@@ -135,6 +186,17 @@ fun DailyReadingScreen(
                     fontWeight = FontWeight.Medium,
                     modifier = Modifier.weight(1f)
                 )
+                if (selectedDate == LocalDate.now()) {
+                    IconButton(
+                        onClick = { shareContent?.let(onShare) },
+                        enabled = shareContent != null
+                    ) {
+                        Icon(
+                            Icons.Outlined.Share,
+                            contentDescription = stringResource(R.string.reading_share_button)
+                        )
+                    }
+                }
                 LanguageMenuButton(onLanguageSelected = onLanguageSelected)
             }
         }
