@@ -28,6 +28,7 @@ import app.pocketbible.R
 import app.pocketbible.data.CharacterSummary
 import app.pocketbible.ui.CharacterVerseDisplay
 import app.pocketbible.ui.bible.localizedBookNameById
+import app.pocketbible.ui.bible.localizedDigits
 
 @Composable
 fun CharacterDetailScreen(
@@ -88,12 +89,12 @@ fun CharacterDetailScreen(
                         }
                         Spacer(Modifier.height(6.dp))
                         val verseLabel = if (display.verseStart == display.verseEnd) {
-                            "${display.verseStart}"
+                            localizedDigits("${display.verseStart}")
                         } else {
-                            "${display.verseStart}–${display.verseEnd}"
+                            localizedDigits("${display.verseStart}–${display.verseEnd}")
                         }
                         Text(
-                            "${localizedBookNameById(display.bookId)} ${display.chapter}:$verseLabel",
+                            localizedDigits("${localizedBookNameById(display.bookId)} ${display.chapter}:$verseLabel"),
                             style = MaterialTheme.typography.labelSmall,
                             color = MaterialTheme.colorScheme.onPrimaryContainer
                         )

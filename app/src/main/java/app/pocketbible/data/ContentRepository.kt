@@ -16,13 +16,17 @@ class ContentRepository(private val dao: ContentDao) {
 
     suspend fun toggleSave(entryId: String, currentlySaved: Boolean) {
         if (currentlySaved) dao.unsave(entryId)
-        else dao.save(SavedEntry(entryId = entryId, savedAt = System.currentTimeMillis()))
+        else dao.saveEntry(entryId, System.currentTimeMillis())
     }
+
+    suspend fun reorderSavedEntries(entryIds: List<String>) = dao.reorderSavedEntries(entryIds)
 
     suspend fun toggleSaveStory(storyId: String, currentlySaved: Boolean) {
         if (currentlySaved) dao.unsaveStory(storyId)
-        else dao.saveStory(SavedStory(storyId = storyId, savedAt = System.currentTimeMillis()))
+        else dao.saveStory(storyId, System.currentTimeMillis())
     }
+
+    suspend fun reorderSavedStories(storyIds: List<String>) = dao.reorderSavedStories(storyIds)
 
     suspend fun recordView(entryId: String, feelingId: String) {
         dao.record(ViewHistory(entryId = entryId, feelingId = feelingId, viewedAt = System.currentTimeMillis()))

@@ -78,6 +78,8 @@
     <string name="saved_empty">Verses you save appear here, and stay available offline.</string>
     <string name="saved_stories_title">Saved Stories</string>
     <string name="saved_stories_empty">Stories you save appear here, and stay available offline.</string>
+    <string name="saved_remove">Remove from saved</string>
+    <string name="saved_reorder">Drag to reorder</string>
 
     <!-- Characters tab -->
     <string name="character_title">Personalities</string>

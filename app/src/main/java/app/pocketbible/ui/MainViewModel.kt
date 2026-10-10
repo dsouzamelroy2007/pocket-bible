@@ -609,6 +609,20 @@ class MainViewModel(
         }
     }
 
+    fun unsaveEntry(entryId: String) {
+        viewModelScope.launch {
+            repo.toggleSave(entryId, currentlySaved = true)
+            _selectedFeeling.value?.let { feeling ->
+                _feelingEntries.value =
+                    withResolvedPassageText(repo.entriesForFeeling(feeling.id, currentLanguage()))
+            }
+        }
+    }
+
+    fun reorderSavedEntries(entryIds: List<String>) {
+        viewModelScope.launch { repo.reorderSavedEntries(entryIds) }
+    }
+
     /** Loads [character]'s verse citations and resolves the real text for each from the current translation. */
     fun selectCharacter(character: CharacterSummary) {
         markScreenLoading("character_detail")
@@ -639,6 +653,19 @@ class MainViewModel(
             repo.toggleSaveStory(story.id, story.isSaved)
             _selectedStory.value = story.copy(isSaved = !story.isSaved)
         }
+    }
+
+    fun unsaveStory(storyId: String) {
+        viewModelScope.launch {
+            repo.toggleSaveStory(storyId, currentlySaved = true)
+            _selectedStory.value
+                ?.takeIf { it.id == storyId }
+                ?.let { _selectedStory.value = it.copy(isSaved = false, savedOrder = null) }
+        }
+    }
+
+    fun reorderSavedStories(storyIds: List<String>) {
+        viewModelScope.launch { repo.reorderSavedStories(storyIds) }
     }
 
     /** Loads [story]'s verse citations (resolving real text for each range from the current translation) and its curated related characters. */

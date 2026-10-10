@@ -108,8 +108,10 @@ fun BibleBookListScreen(
                     verticalAlignment = Alignment.CenterVertically
                 ) {
                     Text(
-                        "${localizedBookNameById(bookmark.bookId)} ${bookmark.chapter}" +
-                            (bookmark.verse?.let { ":$it" } ?: ""),
+                        localizedDigits(
+                            "${localizedBookNameById(bookmark.bookId)} ${bookmark.chapter}" +
+                                (bookmark.verse?.let { ":$it" } ?: "")
+                        ),
                         style = MaterialTheme.typography.bodyLarge,
                         modifier = Modifier.weight(1f)
                     )
@@ -241,7 +243,7 @@ private fun GoToReferenceCard(
                     modifier = Modifier.weight(1f)
                 ) {
                     TextField(
-                        value = selectedChapter?.toString() ?: "",
+                        value = selectedChapter?.let { localizedDigits(it.toString()) } ?: "",
                         onValueChange = {},
                         readOnly = true,
                         enabled = availableChapters.isNotEmpty(),
@@ -255,7 +257,7 @@ private fun GoToReferenceCard(
                     ) {
                         availableChapters.forEach { chapter ->
                             DropdownMenuItem(
-                                text = { Text(chapter.toString()) },
+                                text = { Text(localizedDigits(chapter.toString())) },
                                 onClick = {
                                     selectedChapter = chapter
                                     expandedChapter = false
@@ -272,7 +274,7 @@ private fun GoToReferenceCard(
                 ) {
                     val wholeChapterLabel = stringResource(R.string.read_whole_chapter)
                     TextField(
-                        value = selectedVerse?.toString() ?: wholeChapterLabel,
+                        value = selectedVerse?.let { localizedDigits(it.toString()) } ?: wholeChapterLabel,
                         onValueChange = {},
                         readOnly = true,
                         enabled = availableVerses.isNotEmpty(),
@@ -293,7 +295,7 @@ private fun GoToReferenceCard(
                         )
                         availableVerses.forEach { verse ->
                             DropdownMenuItem(
-                                text = { Text(verse.toString()) },
+                                text = { Text(localizedDigits(verse.toString())) },
                                 onClick = {
                                     selectedVerse = verse
                                     expandedVerse = false
@@ -427,7 +429,7 @@ fun BibleReaderScreen(
                 if (chapterError) {
                     Spacer(Modifier.width(8.dp))
                     Text(
-                        stringResource(R.string.read_chapter_out_of_range, maxChapter),
+                        localizedDigits(stringResource(R.string.read_chapter_out_of_range, maxChapter)),
                         style = MaterialTheme.typography.bodySmall,
                         color = MaterialTheme.colorScheme.error
                     )
@@ -453,7 +455,7 @@ fun BibleReaderScreen(
                         .padding(vertical = 6.dp, horizontal = 4.dp)
                 ) {
                     Text(
-                        "${v.verse} ",
+                        "${localizedDigits(v.verse.toString())} ",
                         style = MaterialTheme.typography.labelMedium,
                         color = MaterialTheme.colorScheme.primary
                     )

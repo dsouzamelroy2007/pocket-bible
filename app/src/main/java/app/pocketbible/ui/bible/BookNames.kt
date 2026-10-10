@@ -1,6 +1,7 @@
 package app.pocketbible.ui.bible
 
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.ui.res.stringResource
 import app.pocketbible.R
 import app.pocketbible.data.Book
@@ -106,17 +107,30 @@ fun localizedBookNameById(bookId: String): String {
 private fun verseRangeLabel(verseStart: Int, verseEnd: Int): String =
     if (verseStart == verseEnd) "$verseStart" else "$verseStart–$verseEnd"
 
+/** Renders western digits using Marathi digit glyphs when Marathi is selected. */
+@Composable
+fun localizedDigits(value: String): String {
+    val language = LocalConfiguration.current.locales[0]?.language
+    if (language != "mr") return value
+    val marathiDigits = "०१२३४५६७८९"
+    return buildString(value.length) {
+        value.forEach { character ->
+            append(if (character in '0'..'9') marathiDigits[character - '0'] else character)
+        }
+    }
+}
+
 /**
  * A single-range scripture reference like "Psalm 34:5" or "Genesis 3:8-10",
  * with the book name localized -- for content (Topics passages, verse of
  * day) that stores a bundled English `reference_display` string but also
  * keeps book id/chapter/verse numbers, the same tradeoff [CharacterVerseDisplay]
- * already makes. Numbers themselves aren't translated (matching how the
- * Read tab and Characters tab already render chapter:verse).
+ * already makes. Numbers use Marathi digits when the Marathi interface is
+ * selected.
  */
 @Composable
 fun localizedReference(bookId: String, chapter: Int, verseStart: Int, verseEnd: Int): String =
-    "${localizedBookNameById(bookId)} $chapter:${verseRangeLabel(verseStart, verseEnd)}"
+    localizedDigits("${localizedBookNameById(bookId)} $chapter:${verseRangeLabel(verseStart, verseEnd)}")
 
 /** One verse range within a (possibly multi-fragment) citation -- see [localizedCitationDisplay]. */
 data class CitationFragment(
@@ -148,5 +162,5 @@ fun localizedCitationDisplay(bookId: String, fragments: List<CitationFragment>):
             verseRangeLabel(f.verseStart, f.verseEnd)
         }
     }
-    return "${localizedBookNameById(bookId)} ${parts.joinToString(", ")}"
+    return localizedDigits("${localizedBookNameById(bookId)} ${parts.joinToString(", ")}")
 }

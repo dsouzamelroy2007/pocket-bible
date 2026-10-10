@@ -65,6 +65,8 @@
     <string name="saved_empty">तुम्ही जतन केलेली वचने इथे दिसतील आणि ऑफलाइन उपलब्ध राहतील.</string>
     <string name="saved_stories_title">जतन केलेल्या कथा</string>
     <string name="saved_stories_empty">तुम्ही जतन केलेल्या कथा इथे दिसतील आणि ऑफलाइन उपलब्ध राहतील.</string>
+    <string name="saved_remove">जतन केलेल्यांमधून काढा</string>
+    <string name="saved_reorder">क्रम बदलण्यासाठी ओढा</string>
 
     <!-- Personalities tab -->
     <string name="character_title">व्यक्तिमत्त्वे</string>

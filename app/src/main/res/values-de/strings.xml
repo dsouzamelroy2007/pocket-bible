@@ -65,6 +65,8 @@
     <string name="saved_empty">Verse, die du speicherst, erscheinen hier und bleiben offline verfügbar.</string>
     <string name="saved_stories_title">Gespeicherte Geschichten</string>
     <string name="saved_stories_empty">Geschichten, die du speicherst, erscheinen hier und bleiben offline verfügbar.</string>
+    <string name="saved_remove">Aus Gespeicherten entfernen</string>
+    <string name="saved_reorder">Zum Ändern der Reihenfolge ziehen</string>
 
     <!-- Personalities tab -->
     <string name="character_title">Persönlichkeiten</string>

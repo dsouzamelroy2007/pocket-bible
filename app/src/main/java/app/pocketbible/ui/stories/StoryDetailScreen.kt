@@ -37,6 +37,7 @@ import app.pocketbible.data.StorySummary
 import app.pocketbible.ui.StoryVerseDisplay
 import app.pocketbible.ui.TooltipIconButton
 import app.pocketbible.ui.bible.localizedBookNameById
+import app.pocketbible.ui.bible.localizedDigits
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalLayoutApi::class)
 @Composable
@@ -209,7 +210,7 @@ fun StoryDetailScreen(
                                 "${display.chapterStart}:${display.verseStart}-${display.chapterEnd}:${display.verseEnd}"
                             }
                             Text(
-                                "${localizedBookNameById(display.bookId)} $chapterLabel",
+                                localizedDigits("${localizedBookNameById(display.bookId)} $chapterLabel"),
                                 style = MaterialTheme.typography.labelSmall,
                                 color = MaterialTheme.colorScheme.onPrimaryContainer
                             )

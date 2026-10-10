@@ -416,7 +416,11 @@ private fun AppScaffold(
             }
             composable("saved") {
                 val saved by viewModel.saved.collectAsState()
-                SavedScreen(saved = saved)
+                SavedScreen(
+                    saved = saved,
+                    onUnsave = viewModel::unsaveEntry,
+                    onReorder = viewModel::reorderSavedEntries
+                )
             }
             composable("characters") {
                 val characters by viewModel.characters.collectAsState()
@@ -458,7 +462,9 @@ private fun AppScaffold(
                     onStorySelected = {
                         viewModel.selectStory(it)
                         navController.navigate("story_detail")
-                    }
+                    },
+                    onUnsave = viewModel::unsaveStory,
+                    onReorder = viewModel::reorderSavedStories
                 )
             }
             composable("story_detail") {

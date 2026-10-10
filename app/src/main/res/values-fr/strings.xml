@@ -65,6 +65,8 @@
     <string name="saved_empty">Les versets que tu enregistres apparaissent ici et restent disponibles hors ligne.</string>
     <string name="saved_stories_title">Histoires enregistrées</string>
     <string name="saved_stories_empty">Les histoires que tu enregistres apparaissent ici et restent disponibles hors ligne.</string>
+    <string name="saved_remove">Retirer des éléments enregistrés</string>
+    <string name="saved_reorder">Faire glisser pour réorganiser</string>
 
     <!-- Personalities tab -->
     <string name="character_title">Personnalités</string>

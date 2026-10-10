@@ -156,6 +156,24 @@ private val MIGRATION_6_7 = object : Migration(6, 7) {
     }
 }
 
+/** Adds persistent manual ordering for saved verses and stories. */
+private val MIGRATION_16_17 = object : Migration(16, 17) {
+    override fun migrate(db: SupportSQLiteDatabase) {
+        db.execSQL("ALTER TABLE saved_entry ADD COLUMN sort_order INTEGER NOT NULL DEFAULT 0")
+        db.execSQL("UPDATE saved_entry SET sort_order = saved_at")
+        db.execSQL("ALTER TABLE saved_story ADD COLUMN sort_order INTEGER NOT NULL DEFAULT 0")
+        db.execSQL(
+            """
+            UPDATE saved_story
+            SET sort_order = -COALESCE(
+                (SELECT sort_order FROM story WHERE story.id = saved_story.story_id),
+                0
+            )
+            """.trimIndent()
+        )
+    }
+}
+
 class PocketBibleApp : Application() {
 
     private val appScope = CoroutineScope(SupervisorJob() + Dispatchers.IO)
@@ -166,7 +184,10 @@ class PocketBibleApp : Application() {
 
     val database: ContentDatabase by lazy {
         Room.databaseBuilder(this, ContentDatabase::class.java, "pocketbible.db")
-            .addMigrations(MIGRATION_1_2, MIGRATION_2_3, MIGRATION_3_4, MIGRATION_4_5, MIGRATION_5_6, MIGRATION_6_7)
+            .addMigrations(
+                MIGRATION_1_2, MIGRATION_2_3, MIGRATION_3_4, MIGRATION_4_5,
+                MIGRATION_5_6, MIGRATION_6_7, MIGRATION_16_17
+            )
             // Covers any *future* schema change that doesn't get a real
             // Migration written for it — still prototype-stage safety net,
             // not a substitute for writing migrations as the schema grows.

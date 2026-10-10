@@ -11,6 +11,7 @@ import androidx.room.OnConflictStrategy
 import androidx.room.PrimaryKey
 import androidx.room.Query
 import androidx.room.RoomDatabase
+import androidx.room.Transaction
 import kotlinx.coroutines.flow.Flow
 
 // ---------- Shipped content ----------
@@ -343,13 +344,15 @@ data class StoryCharacterLink(
 data class SavedEntry(
     @PrimaryKey @ColumnInfo(name = "entry_id") val entryId: String,
     @ColumnInfo(name = "saved_at") val savedAt: Long,
+    @ColumnInfo(name = "sort_order", defaultValue = "0") val sortOrder: Long = 0,
     val note: String? = null
 )
 
 @Entity(tableName = "saved_story")
 data class SavedStory(
     @PrimaryKey @ColumnInfo(name = "story_id") val storyId: String,
-    @ColumnInfo(name = "saved_at") val savedAt: Long
+    @ColumnInfo(name = "saved_at") val savedAt: Long,
+    @ColumnInfo(name = "sort_order", defaultValue = "0") val sortOrder: Long = 0
 )
 
 @Entity(tableName = "view_history", indices = [Index("entry_id")])
@@ -521,7 +524,8 @@ data class StorySummary(
     val moral: String,
     val reflection: String,
     @ColumnInfo(name = "sort_order") val sortOrder: Int,
-    @ColumnInfo(name = "is_saved") val isSaved: Boolean = false
+    @ColumnInfo(name = "is_saved") val isSaved: Boolean = false,
+    @ColumnInfo(name = "saved_order") val savedOrder: Long? = null
 )
 
 // ---------- DAOs ----------
@@ -642,6 +646,24 @@ interface ContentDao {
     @Query("DELETE FROM saved_entry WHERE entry_id = :entryId")
     suspend fun unsave(entryId: String)
 
+    @Query("SELECT COALESCE(MAX(sort_order), 0) + 1 FROM saved_entry")
+    suspend fun nextSavedEntrySortOrder(): Long
+
+    @Transaction
+    suspend fun saveEntry(entryId: String, savedAt: Long) {
+        save(SavedEntry(entryId, savedAt, nextSavedEntrySortOrder()))
+    }
+
+    @Query("UPDATE saved_entry SET sort_order = :sortOrder WHERE entry_id = :entryId")
+    suspend fun updateSavedEntrySortOrder(entryId: String, sortOrder: Long)
+
+    @Transaction
+    suspend fun reorderSavedEntries(entryIds: List<String>) {
+        entryIds.forEachIndexed { index, entryId ->
+            updateSavedEntrySortOrder(entryId, (entryIds.size - index).toLong())
+        }
+    }
+
     @Insert
     suspend fun record(view: ViewHistory)
 
@@ -670,7 +692,7 @@ interface ContentDao {
         LEFT JOIN entry_translation et ON et.entry_id = e.id AND et.language = :language
         JOIN entry_passage ep ON ep.entry_id = e.id AND ep.role = 'primary'
         JOIN passage p ON p.id = ep.passage_id
-        ORDER BY s.saved_at DESC
+        ORDER BY s.sort_order DESC
         """
     )
     fun savedEntries(language: String): Flow<List<EntrySummary>>
@@ -829,7 +851,8 @@ interface ContentDao {
                COALESCE(t.summary, s.summary) AS summary,
                COALESCE(t.moral, s.moral) AS moral,
                COALESCE(t.reflection, s.reflection) AS reflection,
-               ss.story_id IS NOT NULL AS is_saved
+               ss.story_id IS NOT NULL AS is_saved,
+               ss.sort_order AS saved_order
         FROM story s
         LEFT JOIN story_translation t ON t.story_id = s.id AND t.language = :language
         LEFT JOIN saved_story ss ON ss.story_id = s.id
@@ -843,6 +866,24 @@ interface ContentDao {
 
     @Query("DELETE FROM saved_story WHERE story_id = :storyId")
     suspend fun unsaveStory(storyId: String)
+
+    @Query("SELECT COALESCE(MAX(sort_order), 0) + 1 FROM saved_story")
+    suspend fun nextSavedStorySortOrder(): Long
+
+    @Transaction
+    suspend fun saveStory(storyId: String, savedAt: Long) {
+        saveStory(SavedStory(storyId, savedAt, nextSavedStorySortOrder()))
+    }
+
+    @Query("UPDATE saved_story SET sort_order = :sortOrder WHERE story_id = :storyId")
+    suspend fun updateSavedStorySortOrder(storyId: String, sortOrder: Long)
+
+    @Transaction
+    suspend fun reorderSavedStories(storyIds: List<String>) {
+        storyIds.forEachIndexed { index, storyId ->
+            updateSavedStorySortOrder(storyId, (storyIds.size - index).toLong())
+        }
+    }
 
     @Query("SELECT * FROM story_verse_ref WHERE story_id = :storyId ORDER BY position")
     suspend fun verseRefsForStory(storyId: String): List<StoryVerseRef>
@@ -988,7 +1029,7 @@ interface SeedDao {
         Story::class, StoryVerseRef::class, StoryTranslation::class, StoryCharacterLink::class,
         SavedStory::class, ReflectionTranslation::class
     ],
-    version = 16,
+    version = 17,
     exportSchema = false
 )
 abstract class ContentDatabase : RoomDatabase() {
